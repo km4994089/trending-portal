@@ -1,0 +1,31 @@
+name: Fetch Trends (KR / US / JP)
+
+on:
+  schedule:
+    - cron: "0,30 * * * *"   # 30분마다 정확히 실행
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run trend fetcher
+        run: |
+          node scripts/run_all.mjs
+
+      - name: Commit and push data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add app/data
+          git commit -m "chore: update trend data" || echo "No changes"
+          git push
