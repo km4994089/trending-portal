@@ -16,80 +16,17 @@
       </div>
       <div class="controls">
         <div class="control-group">
-          <span class="label">Country</span>
-          <div id="geoButtons" class="chip-group"></div>
-        </div>
-        <div class="control-group">
           <span class="label">Source</span>
           <div id="sourceButtons" class="chip-group"></div>
-        </div>
-        <div class="control-group search">
-          <label class="label" for="searchInput">Search</label>
-          <input
-            id="searchInput"
-            type="search"
-            placeholder="Filter keywords"
-            autocomplete="off"
-          />
         </div>
       </div>
     </header>
 
-    <main class="layout">
-      <section class="panel">
-        <div class="section-head">
-          <div>
-            <h2>Now Top</h2>
-            <p class="hint">Current TOP 20 snapshot</p>
-          </div>
-        </div>
-        <div id="nowList" class="card list"></div>
-      </section>
-
-      <section class="panel">
-        <div class="section-head">
-          <div>
-            <h2>Rising (3-day change)</h2>
-            <p class="hint">Delta vs. closest snapshot ~72h ago</p>
-          </div>
-        </div>
-        <div id="risingList" class="card list"></div>
-      </section>
-
-      <section class="panel">
-        <div class="section-head">
-          <div>
-            <h2>Keyword Detail</h2>
-            <p class="hint">Click a keyword to see the past 24h</p>
-          </div>
-        </div>
-        <div class="card detail">
-          <div class="detail-header">
-            <div>
-              <p class="label">Keyword</p>
-              <p id="selectedKeyword" class="headline">--</p>
-            </div>
-            <div class="status">
-              <p class="label">24h timeline</p>
-              <p class="hint">Scores recomputed in the browser</p>
-            </div>
-          </div>
-          <div class="chart-wrap">
-            <canvas
-              id="trendChart"
-              width="900"
-              height="280"
-              aria-label="24h trend chart"
-            ></canvas>
-          </div>
-          <p id="detailMessage" class="muted"></p>
-        </div>
-      </section>
-    </main>
+    <main class="layout" id="panels"></main>
 
     <footer class="footer">
       <span>Last updated: <span id="lastUpdated">--</span></span>
-      <span class="muted">Refreshes automatically every 3 minutes.</span>
+      <span class="muted">Auto-refreshes while open; data updates every ~30 minutes.</span>
     </footer>
 
     <script type="module" src="./main.js"></script>
