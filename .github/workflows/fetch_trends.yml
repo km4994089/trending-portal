@@ -2,7 +2,7 @@ name: Fetch Trends (KR / US / JP)
 
 on:
   schedule:
-    - cron: "0,30 * * * *"
+    - cron: "0,30 * * * *"   # 매시 0분/30분 실행
   workflow_dispatch:
 
 permissions:
@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0      # rebase 위해 필수
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -27,8 +29,13 @@ jobs:
 
       - name: Commit and push data
         run: |
+          if git diff --quiet -- app/data; then
+            echo "No data changes"
+            exit 0
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add app/data
-          git commit -m "chore: update trend data" || echo "No changes"
-          git push
+          git add app/data/*.json
+          git commit -m "chore(data): update trends"
+          git pull --rebase origin main     # 🔑 충돌 방지(필수)
+          git push origin main
