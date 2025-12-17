@@ -43,9 +43,30 @@ export async function fetchGoogle(geo) {
   if (!geo) {
     throw new Error('geo is required');
   }
-  const url = `https://trends.google.com/trends/trendingsearches/daily/rss?geo=${geo}`;
-  const xml = await fetchText(url);
-  const titles = extractTitles(xml).slice(0, 20);
+  const candidates = [
+    `https://trends.google.com/trends/trendingsearches/daily/rss?geo=${geo}&hl=en-US`,
+    `https://trends.google.com/trends/trendingsearches/daily/rss?geo=${geo}`,
+    `https://trends.google.com/trending/rss?geo=${geo}`,
+  ];
+
+  let titles = [];
+  let lastErr = null;
+  for (const url of candidates) {
+    try {
+      const xml = await fetchText(url);
+      titles = extractTitles(xml).slice(0, 20);
+      if (titles.length) {
+        break;
+      }
+    } catch (err) {
+      lastErr = err;
+    }
+  }
+
+  if (!titles.length) {
+    throw lastErr || new Error('No titles parsed from Google Trends RSS');
+  }
+
   const items = titles.map((keyword, idx) => ({
     keyword,
     score: 100 - idx,
