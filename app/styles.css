@@ -79,6 +79,11 @@ p {
   transition: all 0.2s ease;
 }
 
+.chip-group button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
 .chip-group button.active {
   background: var(--accent);
   color: #fff;
@@ -140,6 +145,18 @@ p {
   box-shadow: var(--shadow);
 }
 
+.card-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 6px;
+}
+
+.card-head h3 {
+  margin: 0;
+  font-size: 15px;
+}
+
 .list ol {
   list-style: none;
   padding: 0;
@@ -182,6 +199,30 @@ p {
   font-variant-numeric: tabular-nums;
   color: var(--text);
   font-weight: 600;
+}
+
+.metric.change {
+  padding: 4px 8px;
+  border-radius: 999px;
+  font-size: 13px;
+  border: 1px solid var(--border);
+}
+
+.metric[data-direction="up"] {
+  color: #0f5132;
+  background: #ecfdf3;
+  border-color: #bbf0cf;
+}
+
+.metric[data-direction="down"] {
+  color: #842029;
+  background: #fff5f5;
+  border-color: #f5c2c7;
+}
+
+.metric[data-direction="same"] {
+  color: var(--muted);
+  background: #f8fafc;
 }
 
 .detail {
@@ -230,6 +271,10 @@ p {
 
 .timestamp {
   font-size: 13px;
+}
+
+.tiny {
+  font-size: 12px;
 }
 
 .footer {
