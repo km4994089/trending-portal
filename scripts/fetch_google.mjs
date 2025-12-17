@@ -54,9 +54,14 @@ export async function fetchGoogle(geo) {
   for (const url of candidates) {
     try {
       const xml = await fetchText(url);
-      titles = extractTitles(xml).slice(0, 20);
-      if (titles.length) {
+      const parsed = extractTitles(xml).slice(0, 20);
+      if (parsed.length >= 20) {
+        titles = parsed;
         break;
+      }
+      // keep the longest result so far as fallback
+      if (parsed.length > titles.length) {
+        titles = parsed;
       }
     } catch (err) {
       lastErr = err;
