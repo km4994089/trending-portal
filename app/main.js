@@ -70,7 +70,9 @@ async function loadData(source, geo) {
 }
 
 function renderList(items, source) {
-  if (!items.length) {
+  const limited = source === 'google' ? (items || []).slice(0, 20) : items || [];
+
+  if (!limited.length) {
     const empty = document.createElement('div');
     empty.className = 'empty';
     empty.textContent = 'No data available yet.';
@@ -78,7 +80,7 @@ function renderList(items, source) {
   }
 
   const list = document.createElement('ol');
-  items.forEach((item, index) => {
+  limited.forEach((item, index) => {
     const row = document.createElement('li');
     row.className = 'row';
 
