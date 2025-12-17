@@ -43,7 +43,7 @@ export async function fetchGoogle(geo) {
   if (!geo) {
     throw new Error('geo is required');
   }
-  const url = `https://trends.google.com/trending/rss?geo=${geo}`;
+  const url = `https://trends.google.com/trends/trendingsearches/daily/rss?geo=${geo}`;
   const xml = await fetchText(url);
   const titles = extractTitles(xml).slice(0, 20);
   const items = titles.map((keyword, idx) => ({
@@ -77,4 +77,3 @@ async function runCli() {
 if (import.meta.url === `file://${process.argv[1]}`) {
   runCli();
 }
-
