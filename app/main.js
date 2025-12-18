@@ -67,6 +67,12 @@ async function fetchJsonSafe(url, fallback) {
   }
 }
 
+async function loadContext(source, geo) {
+  const fallback = { geo, source, items: [] };
+  const data = await fetchJsonSafe(`./data/context_${source}_${geo}.json`, fallback);
+  return { ...fallback, ...data, items: Array.isArray(data?.items) ? data.items : [] };
+}
+
 async function loadLatest(source, geo) {
   const fallback = { capturedAt: null, geo, source, items: [], error: true };
   const data = await fetchJsonSafe(`./data/latest_${source}_${geo}.json`, fallback);
@@ -131,6 +137,12 @@ function buildCrossSet(latestCounterpart) {
   return set;
 }
 
+function formatPublishedAt(value) {
+  const ts = Date.parse(value);
+  if (Number.isNaN(ts)) return '';
+  return new Date(ts).toLocaleDateString();
+}
+
 function renderList(items, source, meta) {
   const limited = (items || []).slice(0, 20);
   if (!limited.length) {
@@ -151,10 +163,39 @@ function renderList(items, source, meta) {
     rank.className = 'rank';
     rank.textContent = index + 1;
 
+    const keywordWrap = document.createElement('div');
+    keywordWrap.className = 'keyword-wrap';
+
     const keywordBtn = document.createElement('button');
     keywordBtn.className = 'keyword-btn';
     keywordBtn.textContent = item.keyword;
     keywordBtn.addEventListener('click', () => openSearch(item.keyword, source));
+    keywordWrap.appendChild(keywordBtn);
+
+    const contextEntry = meta.contextMap.get(item.keyword);
+    if (contextEntry && source === 'google' && contextEntry.articles?.length) {
+      const article = contextEntry.articles[0];
+      const link = document.createElement('a');
+      link.className = 'context-link';
+      link.href = article.url;
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+      link.textContent = article.title;
+      keywordWrap.appendChild(link);
+    }
+
+    if (contextEntry && source === 'youtube') {
+      const infoParts = [];
+      if (contextEntry.channelTitle) infoParts.push(contextEntry.channelTitle);
+      const dateLabel = formatPublishedAt(contextEntry.publishedAt);
+      if (dateLabel) infoParts.push(dateLabel);
+      if (infoParts.length) {
+        const metaLine = document.createElement('span');
+        metaLine.className = 'context-meta';
+        metaLine.textContent = infoParts.join(' · ');
+        keywordWrap.appendChild(metaLine);
+      }
+    }
 
     const badges = document.createElement('div');
     badges.className = 'badges';
@@ -187,7 +228,7 @@ function renderList(items, source, meta) {
     metricWrap.appendChild(bar);
 
     row.appendChild(rank);
-    row.appendChild(keywordBtn);
+    row.appendChild(keywordWrap);
     row.appendChild(badges);
     row.appendChild(metricWrap);
     list.appendChild(row);
@@ -232,6 +273,7 @@ function createPanel(data) {
       renderList(data.items || [], data.source, {
         changeMap: data.changeMap || new Map(),
         crossSet: data.crossSet || new Set(),
+        contextMap: data.contextMap || new Map(),
       })
     );
   }
@@ -259,11 +301,15 @@ async function loadPanelData(source, geo) {
     loadHistory(source, geo),
     loadLatest(COUNTERPART[source], geo),
   ]);
+  const context = await loadContext(source, geo);
+  const contextMap = new Map(
+    (context.items || []).map((entry) => [entry.keyword, entry])
+  );
 
   const changeMap = annotateChanges(latest.items, history, 24);
   const crossSet = buildCrossSet(counterpart);
 
-  return { ...latest, changeMap, crossSet };
+  return { ...latest, changeMap, crossSet, contextMap };
 }
 
 async function renderPanels() {

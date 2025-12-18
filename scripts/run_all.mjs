@@ -1,7 +1,7 @@
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { ensureDir, writeJson, sleep } from './utils.mjs';
-import { fetchGoogle } from './fetch_google.mjs';
+import { fetchGoogleBundle } from './fetch_google.mjs';
 import { fetchYoutube } from './fetch_youtube.mjs';
 import { updateHistory } from './history.mjs';
 
@@ -12,17 +12,23 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const dataDir = path.resolve(__dirname, '../app/data');
 
 async function handleGeo(geo) {
-  const googleSnapshot = await fetchGoogle(geo);
+  const googleBundle = await fetchGoogleBundle(geo);
+  const googleSnapshot = googleBundle.snapshot;
   const googleLatestPath = path.join(dataDir, `latest_google_${geo}.json`);
   const googleHistoryPath = path.join(dataDir, `history_google_${geo}.json`);
   await writeJson(googleLatestPath, googleSnapshot);
   await updateHistory(googleSnapshot, googleHistoryPath);
+  const googleContextPath = path.join(dataDir, `context_google_${geo}.json`);
+  await writeJson(googleContextPath, googleBundle.context);
 
-  const youtubeSnapshot = await fetchYoutube(geo, youtubeApiKey);
+  const youtubeBundle = await fetchYoutube(geo, youtubeApiKey);
+  const youtubeSnapshot = youtubeBundle.snapshot;
   const youtubeLatestPath = path.join(dataDir, `latest_youtube_${geo}.json`);
   const youtubeHistoryPath = path.join(dataDir, `history_youtube_${geo}.json`);
   await writeJson(youtubeLatestPath, youtubeSnapshot);
   await updateHistory(youtubeSnapshot, youtubeHistoryPath);
+  const youtubeContextPath = path.join(dataDir, `context_youtube_${geo}.json`);
+  await writeJson(youtubeContextPath, youtubeBundle.context);
 }
 
 function randomSleepMs() {
@@ -52,4 +58,3 @@ main().catch((err) => {
   console.error(err.message || err);
   process.exit(1);
 });
-

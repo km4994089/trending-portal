@@ -65,31 +65,59 @@ export async function fetchYoutube(geo, apiKey) {
 
   for (const item of data.items) {
     const rawTitle = item?.snippet?.title || '';
+    const channelTitle = item?.snippet?.channelTitle || '';
+    const publishedAt = item?.snippet?.publishedAt || '';
+    const videoId = item?.id || '';
     const viewCountRaw = item?.statistics?.viewCount || 0;
     const viewCount = Number(viewCountRaw) || 0;
     const weight = 1 + Math.log10(1 + viewCount);
 
     if (shouldSkipTitle(rawTitle)) continue;
     const key = normalizeKey(rawTitle);
-    const current = scoreMap.get(key) || { keyword: rawTitle.trim(), score: 0 };
+    const current = scoreMap.get(key) || {
+      keyword: rawTitle.trim(),
+      score: 0,
+      channelTitle,
+      publishedAt,
+      videoId,
+      topWeight: 0,
+    };
     current.score += weight;
+    if (weight > current.topWeight) {
+      current.channelTitle = channelTitle;
+      current.publishedAt = publishedAt;
+      current.videoId = videoId;
+      current.topWeight = weight;
+    }
     scoreMap.set(key, current);
   }
 
-  const items = Array.from(scoreMap.values())
-    .map((entry) => ({
-      keyword: entry.keyword,
-      score: Math.round(entry.score * 1000) / 1000,
-    }))
-    .sort((a, b) => b.score - a.score)
-    .slice(0, 20);
+  const sorted = Array.from(scoreMap.values()).sort((a, b) => b.score - a.score);
+  const items = sorted.slice(0, 20).map((entry) => ({
+    keyword: entry.keyword,
+    score: Math.round(entry.score * 1000) / 1000,
+  }));
+  const contextItems = sorted.slice(0, 20).map((entry) => ({
+    keyword: entry.keyword,
+    channelTitle: entry.channelTitle || '',
+    publishedAt: entry.publishedAt || '',
+    videoId: entry.videoId || '',
+  }));
 
-  return {
-    capturedAt: nowIso(),
+  const capturedAt = nowIso();
+  const snapshot = {
+    capturedAt,
     geo,
     source: 'youtube',
     items,
   };
+  const context = {
+    capturedAt,
+    geo,
+    source: 'youtube',
+    items: contextItems,
+  };
+  return { snapshot, context };
 }
 
 async function runCli() {
@@ -100,8 +128,8 @@ async function runCli() {
     process.exit(1);
   }
   try {
-    const snapshot = await fetchYoutube(geo, apiKey);
-    console.log(JSON.stringify(snapshot, null, 2));
+    const bundle = await fetchYoutube(geo, apiKey);
+    console.log(JSON.stringify(bundle.snapshot, null, 2));
   } catch (err) {
     console.error(err.message);
     process.exit(1);

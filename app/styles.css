@@ -178,6 +178,28 @@ p {
   padding: 0;
 }
 
+.keyword-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.context-link {
+  font-size: 12px;
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.context-link:hover {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.context-meta {
+  font-size: 12px;
+  color: var(--muted);
+}
+
 .badges {
   display: flex;
   gap: 6px;
