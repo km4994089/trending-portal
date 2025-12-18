@@ -182,6 +182,16 @@ function renderList(items, source, meta) {
       link.rel = 'noopener noreferrer';
       link.textContent = article.title;
       keywordWrap.appendChild(link);
+    } else if (source === 'google') {
+      const link = document.createElement('a');
+      link.className = 'context-link';
+      link.href = `https://news.google.com/search?q=${encodeURIComponent(
+        item.keyword
+      )}`;
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+      link.textContent = '관련 뉴스 보기';
+      keywordWrap.appendChild(link);
     }
 
     if (contextEntry && source === 'youtube') {
