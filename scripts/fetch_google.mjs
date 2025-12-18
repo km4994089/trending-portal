@@ -52,9 +52,29 @@ function parseTraffic(formattedTraffic, fallback) {
   return Math.round(value);
 }
 
+function getLocale(geo) {
+  if (geo === 'KR') return 'ko-KR';
+  if (geo === 'JP') return 'ja-JP';
+  return 'en-US';
+}
+
+function buildHeaders(geo) {
+  const locale = getLocale(geo);
+  return {
+    headers: {
+      'user-agent':
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+      'accept-language': `${locale},en;q=0.7`,
+      accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    },
+  };
+}
+
 async function fetchDailyJson(geo) {
-  const url = `https://trends.google.com/trends/api/dailytrends?hl=en-US&geo=${geo}&ns=15`;
-  const text = await fetchText(url);
+  const url = `https://trends.google.com/trends/api/dailytrends?hl=${getLocale(
+    geo
+  )}&geo=${geo}&ns=15`;
+  const text = await fetchText(url, buildHeaders(geo));
   const cleaned = text.replace(/^\)\]\}',?\s*/, '');
   const data = JSON.parse(cleaned);
   const list = data?.default?.trendingSearchesDays?.[0]?.trendingSearches;
@@ -71,8 +91,10 @@ async function fetchDailyJson(geo) {
 }
 
 async function fetchRealtimeJson(geo) {
-  const url = `https://trends.google.com/trends/api/realtimetrends?hl=en-US&tz=0&cat=all&fi=0&fs=0&geo=${geo}&ri=300&rs=20&sort=0`;
-  const text = await fetchText(url);
+  const url = `https://trends.google.com/trends/api/realtimetrends?hl=${getLocale(
+    geo
+  )}&tz=0&cat=all&fi=0&fs=0&geo=${geo}&ri=300&rs=20&sort=0`;
+  const text = await fetchText(url, buildHeaders(geo));
   const cleaned = text.replace(/^\)\]\}',?\s*/, '');
   const data = JSON.parse(cleaned);
   const list = data?.storySummaries?.trendingStories;
@@ -92,41 +114,67 @@ async function fetchRealtimeJson(geo) {
   });
 }
 
+function mergeUnique(items, incoming) {
+  const seen = new Set(items.map((item) => item.keyword));
+  incoming.forEach((item) => {
+    if (item.keyword && !seen.has(item.keyword)) {
+      items.push(item);
+      seen.add(item.keyword);
+    }
+  });
+  return items;
+}
+
 export async function fetchGoogle(geo) {
   if (!geo) {
     throw new Error('geo is required');
   }
-  const candidates = [
-    async () => fetchRealtimeJson(geo),
-    async () => fetchDailyJson(geo),
-    async () => {
+  const errors = [];
+  let items = [];
+
+  try {
+    const realtime = await fetchRealtimeJson(geo);
+    if (realtime.length) {
+      items = mergeUnique(items, realtime);
+    }
+  } catch (err) {
+    errors.push(err);
+  }
+
+  if (items.length < 20) {
+    try {
+      const daily = await fetchDailyJson(geo);
+      if (daily.length) {
+        items = mergeUnique(items, daily);
+      }
+    } catch (err) {
+      errors.push(err);
+    }
+  }
+
+  if (items.length < 20) {
+    try {
       const xml = await fetchText(
-        `https://trends.google.com/trending/rss?geo=${geo}`
+        `https://trends.google.com/trending/rss?geo=${geo}`,
+        buildHeaders(geo)
       );
-      return extractTitles(xml).map((keyword, idx) => ({
+      const rssItems = extractTitles(xml).map((keyword, idx) => ({
         keyword,
         score: 100 - idx,
       }));
-    },
-  ];
-
-  let items = [];
-  let lastErr = null;
-  for (const getter of candidates) {
-    try {
-      const result = await getter();
-      if (Array.isArray(result) && result.length) {
-        items = result.slice(0, 20);
-        if (items.length >= 20) break;
+      if (rssItems.length) {
+        items = mergeUnique(items, rssItems);
       }
     } catch (err) {
-      lastErr = err;
+      errors.push(err);
     }
   }
 
   if (!items.length) {
-    throw lastErr || new Error('No titles parsed from Google Trends feeds');
+    throw errors[errors.length - 1] || new Error('No titles parsed from Google Trends feeds');
   }
+
+  items = items.slice(0, 20);
 
   return {
     capturedAt: nowIso(),

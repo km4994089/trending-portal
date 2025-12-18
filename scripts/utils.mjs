@@ -1,9 +1,9 @@
 import fs from 'fs/promises';
 import path from 'path';
 
-export async function fetchText(url) {
+export async function fetchText(url, options = {}) {
   try {
-    const res = await fetch(url);
+    const res = await fetch(url, options);
     if (!res.ok) {
       throw new Error(`Request failed ${res.status} ${res.statusText}`);
     }
@@ -55,4 +55,3 @@ export async function ensureDir(dirPath) {
 export function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
-
