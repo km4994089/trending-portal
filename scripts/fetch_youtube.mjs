@@ -1,56 +1,38 @@
 import { fetchJson, nowIso } from './utils.mjs';
 
-const STOPWORDS_US = new Set([
-  'the',
-  'and',
-  'for',
-  'with',
-  'this',
-  'that',
-  'your',
-  'you',
-  'are',
-  'was',
-  'were',
-  'just',
-  'have',
-  'has',
-  'our',
-  'their',
-  'from',
-  'but',
-  'new',
+const BANNED_SINGLE_WORD = new Set([
   'official',
   'video',
-  'feat',
-  'ft',
-  'music',
-  'live',
-  'episode',
+  'ep',
+  'mv',
+  'trailer',
+  'teaser',
+  'shorts',
+  'the',
+  'of',
+  'to',
+  'with',
+  'vs',
+  'we',
+  'me',
+  'is',
+  'in',
+  'day',
 ]);
 
-const CLEAN_REGEX = /[“”"'\[\]\(\)\{\}.,!?/\\:;|#*~`_+=<>^%$@\-]/g;
-
-function cleanTitle(title) {
-  return title.toLowerCase().replace(CLEAN_REGEX, ' ').replace(/\s+/g, ' ').trim();
+function normalizeKey(title) {
+  return title
+    .replace(/\s+/g, ' ')
+    .trim()
+    .toLowerCase();
 }
 
-function addScore(map, keyword, weight) {
-  const key = keyword.trim();
-  if (!key || key.length < 2) return;
-  map.set(key, (map.get(key) || 0) + weight);
-}
-
-function tokensFromTitle(title, geo) {
-  const normalized = cleanTitle(title);
-  const parts = normalized.split(' ').filter(Boolean);
-  const filtered = parts.filter((token) => {
-    if (token.length < 2) return false;
-    if (/^\d+$/.test(token)) return false;
-    if (geo === 'US' && STOPWORDS_US.has(token)) return false;
-    return true;
-  });
-  return filtered;
+function shouldSkipTitle(title) {
+  const normalized = normalizeKey(title);
+  if (!normalized || normalized.length < 2) return true;
+  const parts = normalized.split(' ');
+  if (parts.length === 1 && BANNED_SINGLE_WORD.has(normalized)) return true;
+  return false;
 }
 
 export async function fetchYoutube(geo, apiKey) {
@@ -82,30 +64,22 @@ export async function fetchYoutube(geo, apiKey) {
   const scoreMap = new Map();
 
   for (const item of data.items) {
-    const title = item?.snippet?.title || '';
+    const rawTitle = item?.snippet?.title || '';
     const viewCountRaw = item?.statistics?.viewCount || 0;
     const viewCount = Number(viewCountRaw) || 0;
     const weight = 1 + Math.log10(1 + viewCount);
 
-    const tokens = tokensFromTitle(title, geo);
-    for (const token of tokens) {
-      addScore(scoreMap, token, weight);
-    }
-
-    if (geo !== 'US') {
-      const normalized = cleanTitle(title);
-      const candidate =
-        normalized.length > 40 ? normalized.slice(0, 40).trim() : normalized;
-      if (candidate) {
-        addScore(scoreMap, candidate, weight);
-      }
-    }
+    if (shouldSkipTitle(rawTitle)) continue;
+    const key = normalizeKey(rawTitle);
+    const current = scoreMap.get(key) || { keyword: rawTitle.trim(), score: 0 };
+    current.score += weight;
+    scoreMap.set(key, current);
   }
 
-  const items = Array.from(scoreMap.entries())
-    .map(([keyword, score]) => ({
-      keyword,
-      score: Math.round(score * 1000) / 1000,
+  const items = Array.from(scoreMap.values())
+    .map((entry) => ({
+      keyword: entry.keyword,
+      score: Math.round(entry.score * 1000) / 1000,
     }))
     .sort((a, b) => b.score - a.score)
     .slice(0, 20);
@@ -137,4 +111,3 @@ async function runCli() {
 if (import.meta.url === `file://${process.argv[1]}`) {
   runCli();
 }
-
