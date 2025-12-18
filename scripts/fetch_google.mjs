@@ -70,24 +70,6 @@ function buildHeaders(geo) {
   };
 }
 
-function getLocale(geo) {
-  if (geo === 'KR') return 'ko-KR';
-  if (geo === 'JP') return 'ja-JP';
-  return 'en-US';
-}
-
-function buildHeaders(geo) {
-  const locale = getLocale(geo);
-  return {
-    headers: {
-      'user-agent':
-        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-      'accept-language': `${locale},en;q=0.7`,
-      accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-    },
-  };
-}
-
 function extractArticles(entry) {
   const articles = Array.isArray(entry?.articles) ? entry.articles : [];
   return articles
