@@ -1,10 +1,14 @@
 {
-  "capturedAt": "2025-12-19T14:12:54.666Z",
+  "capturedAt": "2025-12-19T14:43:14.526Z",
   "geo": "KR",
   "source": "google",
   "items": [
     {
-      "keyword": "유튜브",
+      "keyword": "유",
+      "articles": []
+    },
+    {
+      "keyword": "유튜브,",
       "articles": []
     },
     {
@@ -37,10 +41,6 @@
     },
     {
       "keyword": "아바타 3",
-      "articles": []
-    },
-    {
-      "keyword": "lck 어워드",
       "articles": []
     }
   ]
