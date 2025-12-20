@@ -346,7 +346,7 @@ function generateReportHtml(data) {
               ${metrics.top1s.map((m, i) => `
                 <li class="item-row">
                   <span class="rank" style="font-size:1rem;">${i + 1}</span>
-                  <a href="../keyword/${slugify(m.keyword)}.html" class="keyword-btn">${m.keyword}</a>
+                  <button onclick="openModal('${m.keyword.replace(/'/g, "\\'")}', '${m.count}', 'Most #1 (24h)', '${sourceName}')" class="keyword-btn" style="text-align:left; cursor:pointer;">${m.keyword}</button>
                   <span class="panel-meta" style="white-space:nowrap; margin-top:0;">${m.count} times</span>
                 </li>
               `).join('') || '<li class="item-row" style="color:var(--muted); justify-content:center;">No data</li>'}
@@ -359,7 +359,7 @@ function generateReportHtml(data) {
                ${metrics.longRun.map((m, i) => `
                 <li class="item-row">
                   <span class="rank" style="font-size:1rem;">${i + 1}</span>
-                  <a href="../keyword/${slugify(m.keyword)}.html" class="keyword-btn">${m.keyword}</a>
+                  <button onclick="openModal('${m.keyword.replace(/'/g, "\\'")}', '${m.count}', 'Longest Trending (72h)', '${sourceName}')" class="keyword-btn" style="text-align:left; cursor:pointer;">${m.keyword}</button>
                   <span class="panel-meta" style="white-space:nowrap; margin-top:0;">${m.count} snaps</span>
                 </li>
               `).join('') || '<li class="item-row" style="color:var(--muted); justify-content:center;">No data</li>'}
@@ -377,6 +377,70 @@ function generateReportHtml(data) {
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Trend Insights - Trending Pulse</title>
   <link rel="stylesheet" href="../styles.css">
+  <style>
+    /* Modal Styles */
+    dialog {
+      border: none;
+      border-radius: 12px;
+      box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+      padding: 0;
+      max-width: 400px;
+      width: 90%;
+      background: white;
+    }
+    dialog::backdrop {
+      background: rgba(0, 0, 0, 0.5);
+      backdrop-filter: blur(2px);
+    }
+    .modal-content {
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+    .modal-title {
+      font-size: 1.25rem;
+      font-weight: 800;
+      margin-bottom: 8px;
+      color: var(--text);
+    }
+    .modal-desc {
+      color: var(--muted);
+      margin-bottom: 24px;
+      line-height: 1.5;
+    }
+    .modal-actions {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      width: 100%;
+    }
+    .btn-search {
+      background: var(--accent);
+      color: white;
+      padding: 12px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 600;
+      transition: background 0.2s;
+    }
+    .btn-search:hover {
+      background: var(--accent-hover);
+    }
+    .btn-close {
+      background: white;
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 12px;
+      border-radius: 8px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    .btn-close:hover {
+      background: #f9fafb;
+    }
+  </style>
 </head>
 <body>
   <div class="topbar">
@@ -397,6 +461,41 @@ function generateReportHtml(data) {
   <footer class="footer">
     <a href="../" class="report-link">← Back to Dashboard</a>
   </footer>
+
+  <dialog id="infoModal">
+    <div class="modal-content">
+      <div class="modal-title" id="mKey"></div>
+      <div class="modal-desc" id="mDesc"></div>
+      <div class="modal-actions">
+        <a href="#" id="mSearch" target="_blank" class="btn-search">Search Now</a>
+        <button onclick="document.getElementById('infoModal').close()" class="btn-close">Close</button>
+      </div>
+    </div>
+  </dialog>
+
+  <script>
+    function openModal(keyword, count, type, source) {
+      document.getElementById('mKey').textContent = keyword;
+      document.getElementById('mDesc').innerHTML = 
+        type + '<br>Recorded <strong>' + count + '</strong> events';
+      
+      const searchUrl = source === 'YouTube' 
+        ? 'https://www.youtube.com/results?search_query=' 
+        : 'https://www.google.com/search?q=';
+      
+      const btn = document.getElementById('mSearch');
+      btn.href = searchUrl + encodeURIComponent(keyword);
+      btn.textContent = 'Search on ' + source;
+      
+      document.getElementById('infoModal').showModal();
+    }
+
+    // Close on backdrop click
+    const dialog = document.getElementById('infoModal');
+    dialog.addEventListener('click', (e) => {
+      if (e.target === dialog) dialog.close();
+    });
+  </script>
 </body>
 </html>`;
 }
