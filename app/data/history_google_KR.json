@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-16T08:18:27.884Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "인터파크",
-          "score": 100
-        },
-        {
-          "keyword": "구더기 부사관",
-          "score": 99
-        },
-        {
-          "keyword": "어벤져스 둠스데이",
-          "score": 98
-        },
-        {
-          "keyword": "뱅크런",
-          "score": 97
-        },
-        {
-          "keyword": "최수종",
-          "score": 96
-        },
-        {
-          "keyword": "서울",
-          "score": 95
-        },
-        {
-          "keyword": "예술의전당",
-          "score": 94
-        },
-        {
-          "keyword": "롯데콘서트홀",
-          "score": 93
-        },
-        {
-          "keyword": "박지만",
-          "score": 92
-        },
-        {
-          "keyword": "토익",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-16T08:51:18.039Z",
       "geo": "KR",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "bwf 월드투어 파이널",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-20T08:44:07.301Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "코인원",
+          "score": 100
+        },
+        {
+          "keyword": "오요안나",
+          "score": 99
+        },
+        {
+          "keyword": "웨이브",
+          "score": 98
+        },
+        {
+          "keyword": "멜론뮤직어워드",
+          "score": 97
+        },
+        {
+          "keyword": "한국영",
+          "score": 96
+        },
+        {
+          "keyword": "kbl",
+          "score": 95
+        },
+        {
+          "keyword": "강릉원주대",
+          "score": 94
+        },
+        {
+          "keyword": "아이폰 17",
+          "score": 93
+        },
+        {
+          "keyword": "epstein files",
+          "score": 92
+        },
+        {
+          "keyword": "나름",
           "score": 91
         }
       ]
