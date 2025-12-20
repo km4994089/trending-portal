@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-16T08:51:18.835Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "桜井 政博",
-          "score": 100
-        },
-        {
-          "keyword": "半沢淳一",
-          "score": 99
-        },
-        {
-          "keyword": "デュプランティエ",
-          "score": 98
-        },
-        {
-          "keyword": "レッドバロン",
-          "score": 97
-        },
-        {
-          "keyword": "福岡大学",
-          "score": 96
-        },
-        {
-          "keyword": "仲間由紀恵",
-          "score": 95
-        },
-        {
-          "keyword": "豊田将樹",
-          "score": 94
-        },
-        {
-          "keyword": "補正予算",
-          "score": 93
-        },
-        {
-          "keyword": "小日向星一",
-          "score": 92
-        },
-        {
-          "keyword": "高橋礼",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-16T09:18:12.595Z",
       "geo": "JP",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "リーグワン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-20T09:11:36.834Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "渡辺謙",
+          "score": 100
+        },
+        {
+          "keyword": "りくりゅう",
+          "score": 99
+        },
+        {
+          "keyword": "真木よう子",
+          "score": 98
+        },
+        {
+          "keyword": "新撰組",
+          "score": 97
+        },
+        {
+          "keyword": "カスピ海",
+          "score": 96
+        },
+        {
+          "keyword": "天皇杯 バレー",
+          "score": 95
+        },
+        {
+          "keyword": "宝くじ 当選番号 ロト7",
+          "score": 94
+        },
+        {
+          "keyword": "鈴木えみ",
+          "score": 93
+        },
+        {
+          "keyword": "長崎ヴェルカ",
+          "score": 92
+        },
+        {
+          "keyword": "セブンティーン",
           "score": 91
         }
       ]
