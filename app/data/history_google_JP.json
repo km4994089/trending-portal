@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-16T22:40:37.417Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cardiff đấu với chelsea",
-          "score": 100
-        },
-        {
-          "keyword": "宝くじ 年末ジャンボ",
-          "score": 99
-        },
-        {
-          "keyword": "デジポリス アプリ",
-          "score": 98
-        },
-        {
-          "keyword": "警視庁",
-          "score": 97
-        },
-        {
-          "keyword": "hkt48 メンバー",
-          "score": 96
-        },
-        {
-          "keyword": "石井亮次",
-          "score": 95
-        },
-        {
-          "keyword": "weather",
-          "score": 94
-        },
-        {
-          "keyword": "週間天気",
-          "score": 93
-        },
-        {
-          "keyword": "鈴木農水大臣",
-          "score": 92
-        },
-        {
-          "keyword": "鹿児島市天気",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-16T23:11:37.332Z",
       "geo": "JP",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "날씨",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-20T23:11:13.367Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "霧島",
+          "score": 100
+        },
+        {
+          "keyword": "鈴木農水大臣",
+          "score": 99
+        },
+        {
+          "keyword": "高橋ひかる",
+          "score": 98
+        },
+        {
+          "keyword": "広島天気",
+          "score": 97
+        },
+        {
+          "keyword": "溝端葵",
+          "score": 96
+        },
+        {
+          "keyword": "今日天気",
+          "score": 95
+        },
+        {
+          "keyword": "西宮ガーデンズ",
+          "score": 94
+        },
+        {
+          "keyword": "ウクライナ",
+          "score": 93
+        },
+        {
+          "keyword": "鈴木憲和",
+          "score": 92
+        },
+        {
+          "keyword": "ゾンビたばこ",
           "score": 91
         }
       ]
