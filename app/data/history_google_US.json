@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-16T16:51:28.369Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "daisy ridley",
-          "score": 100
-        },
-        {
-          "keyword": "pacific ocean",
-          "score": 99
-        },
-        {
-          "keyword": "disclosure day",
-          "score": 98
-        },
-        {
-          "keyword": "drexel basketball",
-          "score": 97
-        },
-        {
-          "keyword": "winter weather advisory",
-          "score": 96
-        },
-        {
-          "keyword": "allen lazard",
-          "score": 95
-        },
-        {
-          "keyword": "blo",
-          "score": 94
-        },
-        {
-          "keyword": "dr congo vs zambia",
-          "score": 93
-        },
-        {
-          "keyword": "kisd",
-          "score": 92
-        },
-        {
-          "keyword": "south africa vs ghana",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-16T17:17:03.951Z",
       "geo": "US",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "d'andre swift",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-20T17:09:27.553Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "pat mcafee",
+          "score": 100
+        },
+        {
+          "keyword": "st john's basketball",
+          "score": 99
+        },
+        {
+          "keyword": "lars eidinger",
+          "score": 98
+        },
+        {
+          "keyword": "tottenham vs liverpool",
+          "score": 97
+        },
+        {
+          "keyword": "college station texas",
+          "score": 96
+        },
+        {
+          "keyword": "le'veon moss",
+          "score": 95
+        },
+        {
+          "keyword": "blood west",
+          "score": 94
+        },
+        {
+          "keyword": "snoqualmie pass",
+          "score": 93
+        },
+        {
+          "keyword": "savannah acid attack",
+          "score": 92
+        },
+        {
+          "keyword": "kc concepcion",
           "score": 91
         }
       ]
