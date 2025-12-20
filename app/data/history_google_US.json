@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-16T18:52:23.487Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cody bellinger",
-          "score": 100
-        },
-        {
-          "keyword": "aaron philo",
-          "score": 99
-        },
-        {
-          "keyword": "alan jackson",
-          "score": 98
-        },
-        {
-          "keyword": "deportivo vs mallorca",
-          "score": 97
-        },
-        {
-          "keyword": "michelle jenneke",
-          "score": 96
-        },
-        {
-          "keyword": "deportivo - r.c.d. mallorca",
-          "score": 95
-        },
-        {
-          "keyword": "mit professor shot",
-          "score": 94
-        },
-        {
-          "keyword": "hilary duff",
-          "score": 93
-        },
-        {
-          "keyword": "eibar - elche c. f.",
-          "score": 92
-        },
-        {
-          "keyword": "egypt vs nigeria",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-16T19:13:04.064Z",
       "geo": "US",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "dayton basketball",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-20T19:08:33.684Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ryan seacrest",
+          "score": 100
+        },
+        {
+          "keyword": "real madrid vs sevilla",
+          "score": 99
+        },
+        {
+          "keyword": "desmond howard",
+          "score": 98
+        },
+        {
+          "keyword": "learner tien",
+          "score": 97
+        },
+        {
+          "keyword": "jack nicholson",
+          "score": 96
+        },
+        {
+          "keyword": "uconn women's basketball",
+          "score": 95
+        },
+        {
+          "keyword": "red wings",
+          "score": 94
+        },
+        {
+          "keyword": "chicago state vs indiana",
+          "score": 93
+        },
+        {
+          "keyword": "st john's university",
+          "score": 92
+        },
+        {
+          "keyword": "rangers",
           "score": 91
         }
       ]
