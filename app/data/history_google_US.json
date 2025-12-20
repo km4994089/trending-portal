@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-16T14:15:48.143Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "21",
-          "score": 100
-        },
-        {
-          "keyword": "jack black",
-          "score": 99
-        },
-        {
-          "keyword": "district 196",
-          "score": 98
-        },
-        {
-          "keyword": "george strait",
-          "score": 97
-        },
-        {
-          "keyword": "rand paul",
-          "score": 96
-        },
-        {
-          "keyword": "timothee chalamet",
-          "score": 95
-        },
-        {
-          "keyword": "roku stock",
-          "score": 94
-        },
-        {
-          "keyword": "susie wiles",
-          "score": 93
-        },
-        {
-          "keyword": "carabao cup",
-          "score": 92
-        },
-        {
-          "keyword": "tina brown",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-16T14:47:59.720Z",
       "geo": "US",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "kim basinger",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-20T14:38:56.588Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "intifada",
+          "score": 100
+        },
+        {
+          "keyword": "andrei arlovski",
+          "score": 99
+        },
+        {
+          "keyword": "brighton vs sunderland",
+          "score": 98
+        },
+        {
+          "keyword": "what is intifada",
+          "score": 97
+        },
+        {
+          "keyword": "ole miss football schedule",
+          "score": 96
+        },
+        {
+          "keyword": "joao pedro",
+          "score": 95
+        },
+        {
+          "keyword": "man city vs west ham",
+          "score": 94
+        },
+        {
+          "keyword": "blue origin",
+          "score": 93
+        },
+        {
+          "keyword": "jeff brohm",
+          "score": 92
+        },
+        {
+          "keyword": "reece james",
           "score": 91
         }
       ]
