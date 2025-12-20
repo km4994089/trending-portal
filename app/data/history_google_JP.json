@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-16T17:17:05.577Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "熊切あさ美",
-          "score": 100
-        },
-        {
-          "keyword": "新東京水上警察",
-          "score": 99
-        },
-        {
-          "keyword": "ザラ",
-          "score": 98
-        },
-        {
-          "keyword": "吉田栄作",
-          "score": 97
-        },
-        {
-          "keyword": "こっちのけんと",
-          "score": 96
-        },
-        {
-          "keyword": "投資信託",
-          "score": 95
-        },
-        {
-          "keyword": "踊る大捜査線",
-          "score": 94
-        },
-        {
-          "keyword": "nvidia",
-          "score": 93
-        },
-        {
-          "keyword": "中央大学",
-          "score": 92
-        },
-        {
-          "keyword": "コトブキヤ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-16T17:45:07.465Z",
       "geo": "JP",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "菅野智之",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-20T17:36:30.601Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "トッテナム 対 リヴァプール",
+          "score": 100
+        },
+        {
+          "keyword": "有馬記念",
+          "score": 99
+        },
+        {
+          "keyword": "blood west",
+          "score": 98
+        },
+        {
+          "keyword": "高畑充希",
+          "score": 97
+        },
+        {
+          "keyword": "レアルソシエダ",
+          "score": 96
+        },
+        {
+          "keyword": "タクシー",
+          "score": 95
+        },
+        {
+          "keyword": "intc",
+          "score": 94
+        },
+        {
+          "keyword": "シャトレーゼ",
+          "score": 93
+        },
+        {
+          "keyword": "内田有紀",
+          "score": 92
+        },
+        {
+          "keyword": "ももクロ",
           "score": 91
         }
       ]
