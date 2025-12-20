@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-16T10:46:49.950Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "自衛官",
-          "score": 100
-        },
-        {
-          "keyword": "赤穂浪士",
-          "score": 99
-        },
-        {
-          "keyword": "羽鳥 慎一",
-          "score": 98
-        },
-        {
-          "keyword": "赤福",
-          "score": 97
-        },
-        {
-          "keyword": "三重県",
-          "score": 96
-        },
-        {
-          "keyword": "王将",
-          "score": 95
-        },
-        {
-          "keyword": "いしだあゆみ",
-          "score": 94
-        },
-        {
-          "keyword": "フランス",
-          "score": 93
-        },
-        {
-          "keyword": "消防士",
-          "score": 92
-        },
-        {
-          "keyword": "深澤辰哉",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-16T11:11:54.005Z",
       "geo": "JP",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "霜降り明星",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-20T11:09:30.191Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "川崎市",
+          "score": 100
+        },
+        {
+          "keyword": "住之江予想",
+          "score": 99
+        },
+        {
+          "keyword": "市川團十郎",
+          "score": 98
+        },
+        {
+          "keyword": "ダイアン",
+          "score": 97
+        },
+        {
+          "keyword": "バッテリィズ",
+          "score": 96
+        },
+        {
+          "keyword": "尾田栄一郎",
+          "score": 95
+        },
+        {
+          "keyword": "伍代夏子",
+          "score": 94
+        },
+        {
+          "keyword": "キングオブコント",
+          "score": 93
+        },
+        {
+          "keyword": "住之江",
+          "score": 92
+        },
+        {
+          "keyword": "川崎",
           "score": 91
         }
       ]
