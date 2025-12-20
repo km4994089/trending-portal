@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-16T20:42:42.467Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "barbara rose johns",
-          "score": 100
-        },
-        {
-          "keyword": "real sociedad",
-          "score": 99
-        },
-        {
-          "keyword": "cd eldense - real sociedad",
-          "score": 98
-        },
-        {
-          "keyword": "guadalajara – barcelone",
-          "score": 97
-        },
-        {
-          "keyword": "fa cup",
-          "score": 96
-        },
-        {
-          "keyword": "laura loomer",
-          "score": 95
-        },
-        {
-          "keyword": "foster griffin",
-          "score": 94
-        },
-        {
-          "keyword": "guadalajara - barcelona",
-          "score": 93
-        },
-        {
-          "keyword": "cardiff city vs chelsea",
-          "score": 92
-        },
-        {
-          "keyword": "sporting gijón vs valencia",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-16T21:12:21.398Z",
       "geo": "US",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "playstation",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-20T21:09:48.145Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "leeds united",
+          "score": 100
+        },
+        {
+          "keyword": "duncanville football",
+          "score": 99
+        },
+        {
+          "keyword": "mississippi state football",
+          "score": 98
+        },
+        {
+          "keyword": "cómo va el real madrid",
+          "score": 97
+        },
+        {
+          "keyword": "tbs",
+          "score": 96
+        },
+        {
+          "keyword": "kewan lacy",
+          "score": 95
+        },
+        {
+          "keyword": "hbo max",
+          "score": 94
+        },
+        {
+          "keyword": "mn wild",
+          "score": 93
+        },
+        {
+          "keyword": "tulane conference",
+          "score": 92
+        },
+        {
+          "keyword": "jon sumrall",
           "score": 91
         }
       ]
