@@ -95,7 +95,7 @@ function generateHtml(keyword, items, source, geo, context) {
   <meta name="description" content="${description}">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="${BASE_URL}/keyword/${slugify(keyword)}">
-  <link rel="stylesheet" href="../../styles.css">
+  <link rel="stylesheet" href="../styles.css">
 </head>
 <body>
   <div class="topbar">

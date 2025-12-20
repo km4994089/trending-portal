@@ -174,12 +174,18 @@ function renderList(items, source, meta) {
     rank.className = 'rank';
     rank.textContent = index + 1;
 
-    // 2. Keyword Link
-    const slug = slugify(item.keyword);
+    // 2. Keyword Link (Direct External Search)
     const link = document.createElement('a');
     link.className = 'keyword-btn';
     link.textContent = item.keyword;
-    link.href = `./keyword/${slug}.html`;
+
+    // Construct Search URL
+    const searchBase = source === 'youtube'
+      ? 'https://www.youtube.com/results?search_query='
+      : 'https://www.google.com/search?q=';
+    link.href = searchBase + encodeURIComponent(item.keyword);
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
 
     // 3. Visual Score Bar
     const scoreVal = Number(item.score) || 0;
