@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-16T13:53:26.941Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jack black",
-          "score": 100
-        },
-        {
-          "keyword": "george strait",
-          "score": 99
-        },
-        {
-          "keyword": "economic calendar",
-          "score": 98
-        },
-        {
-          "keyword": "rand paul",
-          "score": 97
-        },
-        {
-          "keyword": "timothee chalamet",
-          "score": 96
-        },
-        {
-          "keyword": "roku stock",
-          "score": 95
-        },
-        {
-          "keyword": "susie wiles",
-          "score": 94
-        },
-        {
-          "keyword": "tom stoppard",
-          "score": 93
-        },
-        {
-          "keyword": "palantir ceo",
-          "score": 92
-        },
-        {
-          "keyword": "noa tishby",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-16T14:15:48.143Z",
       "geo": "US",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "flood restoration",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-20T14:10:18.330Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "marcel reed",
+          "score": 100
+        },
+        {
+          "keyword": "montana vs montana state",
+          "score": 99
+        },
+        {
+          "keyword": "brett kissel",
+          "score": 98
+        },
+        {
+          "keyword": "christmas cookies",
+          "score": 97
+        },
+        {
+          "keyword": "gary winnick",
+          "score": 96
+        },
+        {
+          "keyword": "brock mcgillis",
+          "score": 95
+        },
+        {
+          "keyword": "jim beam",
+          "score": 94
+        },
+        {
+          "keyword": "celta vigo",
+          "score": 93
+        },
+        {
+          "keyword": "goodbye june",
+          "score": 92
+        },
+        {
+          "keyword": "kim basinger",
           "score": 91
         }
       ]
