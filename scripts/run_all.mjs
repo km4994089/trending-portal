@@ -1,5 +1,6 @@
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { execSync } from 'child_process';
 import { ensureDir, writeJson, sleep } from './utils.mjs';
 import { fetchGoogleBundle } from './fetch_google.mjs';
 import { fetchYoutube } from './fetch_youtube.mjs';
@@ -51,6 +52,16 @@ async function main() {
     if (i < geos.length - 1) {
       await sleep(randomSleepMs());
     }
+  }
+
+  // Generate SEO Pages
+  console.log('Generating static pages...');
+  try {
+    const scriptPath = path.join(__dirname, 'generate_pages.mjs');
+    execSync(`node "${scriptPath}"`, { stdio: 'inherit' });
+  } catch (err) {
+    console.error('Failed to generate pages:', err.message);
+    process.exit(1);
   }
 }
 

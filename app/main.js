@@ -143,6 +143,13 @@ function formatPublishedAt(value) {
   return new Date(ts).toLocaleDateString();
 }
 
+function slugify(text) {
+  return text
+    .replace(/[\/\\\:\*\?\"\<\>\|]/g, '')
+    .replace(/\s+/g, '_')
+    .trim();
+}
+
 function renderList(items, source, meta) {
   const limited = (items || []).slice(0, 20);
   if (!limited.length) {
@@ -166,10 +173,13 @@ function renderList(items, source, meta) {
     const keywordWrap = document.createElement('div');
     keywordWrap.className = 'keyword-wrap';
 
-    const keywordBtn = document.createElement('button');
+    const keywordBtn = document.createElement('a');
     keywordBtn.className = 'keyword-btn';
     keywordBtn.textContent = item.keyword;
-    keywordBtn.addEventListener('click', () => openSearch(item.keyword, source));
+    keywordBtn.href = `./keyword/${slugify(item.keyword)}`;
+    keywordBtn.style.textDecoration = 'none';
+    keywordBtn.style.display = 'block';
+
     keywordWrap.appendChild(keywordBtn);
 
     const contextEntry = meta.contextMap.get(item.keyword);
