@@ -154,103 +154,49 @@ function renderList(items, source, meta) {
   const limited = (items || []).slice(0, 20);
   if (!limited.length) {
     const empty = document.createElement('div');
-    empty.className = 'empty';
+    empty.style.padding = '20px';
+    empty.style.textAlign = 'center';
+    empty.style.color = 'var(--muted)';
     empty.textContent = 'No data available yet.';
     return empty;
   }
 
   const maxScore = Math.max(...limited.map((i) => Number(i.score) || 0), 1);
-  const list = document.createElement('ol');
+  const list = document.createElement('ul');
+  list.className = 'list-container';
 
   limited.forEach((item, index) => {
     const row = document.createElement('li');
-    row.className = 'row';
+    row.className = 'item-row';
 
+    // 1. Rank
     const rank = document.createElement('span');
     rank.className = 'rank';
     rank.textContent = index + 1;
 
-    const keywordWrap = document.createElement('div');
-    keywordWrap.className = 'keyword-wrap';
+    // 2. Keyword Link
+    const slug = slugify(item.keyword);
+    const link = document.createElement('a');
+    link.className = 'keyword-btn';
+    link.textContent = item.keyword;
+    link.href = `./keyword/${slug}.html`;
 
-    const keywordBtn = document.createElement('a');
-    keywordBtn.className = 'keyword-btn';
-    keywordBtn.textContent = item.keyword;
-    keywordBtn.href = `./keyword/${slugify(item.keyword)}`;
-    keywordBtn.style.textDecoration = 'none';
-    keywordBtn.style.display = 'block';
+    // 3. Visual Score Bar
+    const scoreVal = Number(item.score) || 0;
+    const barWrap = document.createElement('div');
+    barWrap.className = 'score-bar-bg';
+    barWrap.style.width = '60px'; // 고정 너비
 
-    keywordWrap.appendChild(keywordBtn);
-
-    const contextEntry = meta.contextMap.get(item.keyword);
-    if (contextEntry && source === 'google' && contextEntry.articles?.length) {
-      const article = contextEntry.articles[0];
-      const link = document.createElement('a');
-      link.className = 'context-link';
-      link.href = article.url;
-      link.target = '_blank';
-      link.rel = 'noopener noreferrer';
-      link.textContent = article.title;
-      keywordWrap.appendChild(link);
-    } else if (source === 'google') {
-      const link = document.createElement('a');
-      link.className = 'context-link';
-      link.href = `https://news.google.com/search?q=${encodeURIComponent(
-        item.keyword
-      )}`;
-      link.target = '_blank';
-      link.rel = 'noopener noreferrer';
-      link.textContent = '관련 뉴스 보기';
-      keywordWrap.appendChild(link);
-    }
-
-    if (contextEntry && source === 'youtube') {
-      const infoParts = [];
-      if (contextEntry.channelTitle) infoParts.push(contextEntry.channelTitle);
-      const dateLabel = formatPublishedAt(contextEntry.publishedAt);
-      if (dateLabel) infoParts.push(dateLabel);
-      if (infoParts.length) {
-        const metaLine = document.createElement('span');
-        metaLine.className = 'context-meta';
-        metaLine.textContent = infoParts.join(' · ');
-        keywordWrap.appendChild(metaLine);
-      }
-    }
-
-    const badges = document.createElement('div');
-    badges.className = 'badges';
-    const changeInfo = meta.changeMap.get(item.keyword);
-    if (changeInfo) {
-      const badge = document.createElement('span');
-      badge.className = `badge change ${changeInfo.direction || 'same'}`;
-      badge.textContent = changeInfo.label;
-      badges.appendChild(badge);
-    }
-    if (meta.crossSet.has(item.keyword)) {
-      const both = document.createElement('span');
-      both.className = 'badge both';
-      both.textContent = 'Both';
-      badges.appendChild(both);
-    }
-
-    const metricWrap = document.createElement('div');
-    metricWrap.className = 'metric-wrap';
-    const metric = document.createElement('span');
-    metric.className = 'metric';
-    metric.textContent = formatScore(source, item);
-
-    const bar = document.createElement('span');
-    bar.className = 'bar';
-    const width = Math.max(6, Math.round(((Number(item.score) || 0) / maxScore) * 100));
-    bar.style.width = `${width}%`;
-
-    metricWrap.appendChild(metric);
-    metricWrap.appendChild(bar);
+    // 점수가 100만점 기준이 아니더라도 시각적으로 표현
+    const widthPct = Math.max(10, Math.round((scoreVal / maxScore) * 100));
+    const fill = document.createElement('div');
+    fill.className = 'score-bar-fill';
+    fill.style.width = `${widthPct}%`;
+    barWrap.appendChild(fill);
 
     row.appendChild(rank);
-    row.appendChild(keywordWrap);
-    row.appendChild(badges);
-    row.appendChild(metricWrap);
+    row.appendChild(link);
+    row.appendChild(barWrap);
     list.appendChild(row);
   });
 
@@ -258,38 +204,37 @@ function renderList(items, source, meta) {
 }
 
 function createPanel(data) {
-  const panel = document.createElement('section');
+  const panel = document.createElement('div');
   panel.className = 'panel';
 
+  // Header
   const head = document.createElement('div');
-  head.className = 'section-head';
+  head.className = 'panel-header';
 
-  const titleWrap = document.createElement('div');
-  const heading = document.createElement('h2');
-  heading.textContent = `${data.geo} · ${sourceLabels[data.source] || data.source}`;
-  const hint = document.createElement('p');
-  hint.className = 'hint';
-  hint.textContent = data.error ? 'Data load failed' : 'Live top keywords';
-  titleWrap.appendChild(heading);
-  titleWrap.appendChild(hint);
+  const title = document.createElement('div');
+  title.className = 'panel-title';
 
-  const timestamp = document.createElement('span');
-  timestamp.className = 'muted timestamp';
-  timestamp.textContent = `Updated: ${formatTimestamp(data.capturedAt)}`;
+  // 국기 아이콘 매핑
+  const flags = { 'KR': '🇰🇷', 'US': '🇺🇸', 'JP': '🇯🇵' };
+  title.innerHTML = `<span>${flags[data.geo] || ''} ${data.geo}</span>`;
 
-  head.appendChild(titleWrap);
-  head.appendChild(timestamp);
+  const meta = document.createElement('span');
+  meta.className = 'panel-meta';
+  meta.textContent = `Updated: ${formatTimestamp(data.capturedAt)}`;
 
-  const card = document.createElement('div');
-  card.className = 'card list';
+  head.appendChild(title);
+  head.appendChild(meta);
+  panel.appendChild(head);
 
+  // Body
   if (data.error) {
     const err = document.createElement('div');
-    err.className = 'empty';
-    err.textContent = 'Failed to load data. Retrying soon.';
-    card.appendChild(err);
+    err.style.padding = '20px';
+    err.style.color = 'red';
+    err.textContent = 'Failed to load data.';
+    panel.appendChild(err);
   } else {
-    card.appendChild(
+    panel.appendChild(
       renderList(data.items || [], data.source, {
         changeMap: data.changeMap || new Map(),
         crossSet: data.crossSet || new Set(),
@@ -298,8 +243,6 @@ function createPanel(data) {
     );
   }
 
-  panel.appendChild(head);
-  panel.appendChild(card);
   return panel;
 }
 

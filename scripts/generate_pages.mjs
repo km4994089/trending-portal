@@ -67,96 +67,80 @@ function slugify(text) {
     .trim();
 }
 
+// --- 1. Keyword Detail Page HTML Generator ---
 function generateHtml(keyword, items, source, geo, context) {
   const safeKeyword = keyword.replace(/"/g, '&quot;');
   const displaySource = source === 'youtube' ? 'YouTube' : 'Google';
 
-  // 관련 뉴스/영상 링크 생성
+  // News/Video Links
   let relatedLinks = '';
   if (context && context.articles) {
     relatedLinks = context.articles.map(article => `
-      <a href="${article.url}" target="_blank" class="related-link">
-        <span class="link-title">${article.title}</span>
-        <span class="link-source">${article.source || displaySource}</span>
-      </a>
+      <li class="item-row">
+        <a href="${article.url}" target="_blank" class="keyword-btn" style="flex:1;">${article.title}</a>
+        <span class="panel-meta">${article.source || displaySource}</span>
+      </li>
     `).join('');
   }
 
-  // YouTube 영상 정보 (썸네일 등)가 있다면 추가 가능 (현재 데이터 구조에 따라 조정)
+  const description = `2025 Trend Analysis for '${safeKeyword}' in ${geo} (${displaySource}).`;
 
-  const description = `2025년 12월 기준 ${geo} ${displaySource}에서 급상승 중인 키워드 '${safeKeyword}'에 대한 트렌드 분석과 관련 정보를 확인하세요.`;
-
+  // Uses Global CSS classes (.layout, .panel)
   return `<!DOCTYPE html>
 <html lang="${geo === 'KR' ? 'ko' : geo === 'JP' ? 'ja' : 'en'}">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>${safeKeyword} - ${displaySource} Trend (${geo}) | Trending Pulse</title>
+  <title>${safeKeyword} - Trend Analysis | Trending Pulse</title>
   <meta name="description" content="${description}">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="${BASE_URL}/keyword/${slugify(keyword)}">
   <link rel="stylesheet" href="../../styles.css">
-  <style>
-    .k-layout { max-width: 800px; margin: 40px auto; padding: 0 20px; }
-    .k-header { text-align: center; margin-bottom: 40px; }
-    .k-title { font-size: 2.5rem; margin-bottom: 10px; color: #1a1a1a; }
-    .k-meta { color: #666; font-size: 0.9rem; }
-    .k-card { background: white; border-radius: 12px; padding: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid #eee; margin-bottom: 24px; }
-    .k-label { font-size: 0.8rem; font-weight: bold; color: #2563eb; text-transform: uppercase; margin-bottom: 8px; display: block; }
-    .k-desc { font-size: 1.1rem; line-height: 1.6; color: #333; }
-    .related-link { display: block; padding: 12px; border: 1px solid #eee; border-radius: 8px; text-decoration: none; color: inherit; margin-bottom: 8px; transition: all 0.2s; }
-    .related-link:hover { border-color: #2563eb; background: #f8fafc; }
-    .link-title { display: block; font-weight: 600; margin-bottom: 4px; }
-    .link-source { font-size: 0.8rem; color: #666; }
-    .back-link { display: inline-block; margin-top: 20px; color: #666; text-decoration: none; }
-    .back-link:hover { color: #2563eb; }
-  </style>
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "NewsArticle",
-    "headline": "${safeKeyword} - Trending in ${geo}",
-    "datePublished": "${new Date().toISOString()}",
-    "dateModified": "${new Date().toISOString()}",
-    "description": "${description}",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "${BASE_URL}/keyword/${slugify(keyword)}"
-    }
-  }
-  </script>
 </head>
 <body>
-  <div class="k-layout">
-    <header class="k-header">
-      <div class="k-label">Trending Now in ${geo}</div>
-      <h1 class="k-title">${safeKeyword}</h1>
-      <div class="k-meta">Source: ${displaySource} Trends • Updated: ${new Date().toLocaleDateString()}</div>
-    </header>
-
-    <main>
-      <section class="k-card">
-        <span class="k-label">Why is this trending?</span>
-        <p class="k-desc">
-          '${safeKeyword}' is currently a top trending search topic in ${geo}. 
-          It has shown significant search volume activity on ${displaySource}.
-        </p>
-      </section>
-
-      ${relatedLinks ? `
-      <section class="k-card">
-        <span class="k-label">Related Content</span>
-        <div class="links-grid">
-          ${relatedLinks}
-        </div>
-      </section>
-      ` : ''}
-
-      <div style="text-align: center;">
-        <a href="/" class="back-link">← Back to Dashboard</a>
+  <div class="topbar">
+    <div class="topbar-content">
+      <div class="brand">
+        <a href="../../" style="text-decoration:none; color:inherit;"><h1>Trending Pulse</h1></a>
       </div>
-    </main>
+      <div class="controls">
+        <a href="../../" class="report-link">← Dashboard</a>
+      </div>
+    </div>
   </div>
+
+  <main class="layout" style="display:block; max-width:800px;"> <!-- Override grid -->
+    
+    <div class="panel" style="margin-bottom: 24px;">
+      <div class="panel-header">
+        <div class="panel-title" style="font-size:1.8rem;">${safeKeyword}</div>
+        <span class="panel-meta">Trending in ${geo} · ${displaySource}</span>
+      </div>
+      <div style="padding: 24px;">
+        <p style="font-size:1.1rem; line-height:1.6; color:var(--text); margin-bottom:16px;">
+          This topic is currently trending on <strong>${displaySource}</strong> in <strong>${geo}</strong>.
+          <br>
+          <span style="color:var(--muted); font-size:0.95rem;">High search volume detected in the last 24 hours.</span>
+        </p>
+      </div>
+    </div>
+
+    ${relatedLinks ? `
+    <div class="panel">
+      <div class="panel-header">
+        <div class="panel-title">Related News & Content</div>
+      </div>
+      <ul class="list-container">
+        ${relatedLinks}
+      </ul>
+    </div>
+    ` : ''}
+
+  </main>
+  
+  <footer class="footer">
+    <span>Trending Pulse © ${new Date().getFullYear()}</span>
+  </footer>
 </body>
 </html>
   `;
@@ -164,6 +148,16 @@ function generateHtml(keyword, items, source, geo, context) {
 
 function generateSitemap(filenames) {
   const urls = filenames.map(name => {
+    // Report Page Special Case
+    if (name.includes('report')) {
+      return `
+  <url>
+    <loc>${BASE_URL}/report/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>`;
+    }
+
     const slug = path.basename(name, '.html');
     // Cloudflare Pages 등 정적 호스팅에서는 .html 확장자를 생략한 URL을 선호함
     return `
@@ -316,20 +310,21 @@ function analyzeLongRun(snapshots) {
     .map(([keyword, count]) => ({ keyword, count }));
 }
 
+// --- 2. Insights Report HTML Generator ---
 function generateReportHtml(data) {
   const dateStr = new Date().toLocaleDateString();
 
-  // HTML 생성 (간단한 스타일 포함)
-  let sectionsHtml = '';
+  let layoutContent = '';
 
-  // 우선 KR 데이터만 메인으로 보여주거나, 탭으로 구성 가능. 여기선 단순 나열.
   for (const geo of Object.keys(data)) {
     const geoData = data[geo];
     if (!geoData.google && !geoData.youtube) continue;
 
-    sectionsHtml += `<section class="report-geo-section">
-      <h2 class="geo-title">🌏 ${geo} Analysis</h2>
-      <div class="report-grid">`;
+    layoutContent += `
+      <div style="grid-column: 1 / -1; margin-top: 20px; margin-bottom: 10px;">
+        <h2 style="font-size:1.5rem; font-weight:800; color:var(--text); padding-left: 4px;">🌏 ${geo} Insights</h2>
+      </div>
+    `;
 
     ['google', 'youtube'].forEach(source => {
       const metrics = geoData[source];
@@ -337,40 +332,42 @@ function generateReportHtml(data) {
 
       const sourceName = source === 'youtube' ? 'YouTube' : 'Google';
 
-      sectionsHtml += `
-        <div class="report-card">
-          <h3 class="source-title">${sourceName} Trends</h3>
-          
-          <div class="metric-block">
-            <h4>🏆 Most #1 (Last 24h)</h4>
-            <ul>
-              ${metrics.top1s.map((m, i) => `
-                <li>
-                  <span class="rank">${i + 1}</span>
-                  <a href="../keyword/${slugify(m.keyword)}.html" class="keyword-link">${m.keyword}</a>
-                  <span class="count">${m.count} times</span>
-                </li>
-              `).join('') || '<li class="empty">No data</li>'}
-            </ul>
+      layoutContent += `
+        <div class="panel">
+          <div class="panel-header">
+            <div class="panel-title">${sourceName} Analysis</div>
           </div>
-
-          <div class="metric-block">
-            <h4>🔥 Longest Trending (Last 72h)</h4>
-            <ul>
-               ${metrics.longRun.map((m, i) => `
-                <li>
-                  <span class="rank">${i + 1}</span>
-                  <a href="../keyword/${slugify(m.keyword)}.html" class="keyword-link">${m.keyword}</a>
-                  <span class="count">${m.count} snapshots</span>
+          
+          <div style="padding:0;">
+            <div style="padding: 16px 20px; background:#f9fafb; border-bottom:1px solid var(--border); font-weight:600; font-size:0.9rem; color:var(--muted); display:flex; gap:8px; align-items:center;">
+              <span>🏆</span> Most #1 (Last 24h)
+            </div>
+            <ul class="list-container">
+              ${metrics.top1s.map((m, i) => `
+                <li class="item-row">
+                  <span class="rank" style="font-size:1rem;">${i + 1}</span>
+                  <a href="../keyword/${slugify(m.keyword)}.html" class="keyword-btn">${m.keyword}</a>
+                  <span class="panel-meta" style="white-space:nowrap; margin-top:0;">${m.count} times</span>
                 </li>
-              `).join('') || '<li class="empty">No data</li>'}
+              `).join('') || '<li class="item-row" style="color:var(--muted); justify-content:center;">No data</li>'}
+            </ul>
+
+            <div style="padding: 16px 20px; background:#f9fafb; border-bottom:1px solid var(--border); border-top:1px solid var(--border); font-weight:600; font-size:0.9rem; color:var(--muted); display:flex; gap:8px; align-items:center;">
+              <span>🔥</span> Longest Trending (Last 72h)
+            </div>
+            <ul class="list-container">
+               ${metrics.longRun.map((m, i) => `
+                <li class="item-row">
+                  <span class="rank" style="font-size:1rem;">${i + 1}</span>
+                  <a href="../keyword/${slugify(m.keyword)}.html" class="keyword-btn">${m.keyword}</a>
+                  <span class="panel-meta" style="white-space:nowrap; margin-top:0;">${m.count} snaps</span>
+                </li>
+              `).join('') || '<li class="item-row" style="color:var(--muted); justify-content:center;">No data</li>'}
             </ul>
           </div>
         </div>
       `;
     });
-
-    sectionsHtml += `</div></section>`;
   }
 
   return `<!DOCTYPE html>
@@ -378,56 +375,30 @@ function generateReportHtml(data) {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Trend Analysis Report - ${dateStr}</title>
+  <title>Trend Insights - Trending Pulse</title>
   <link rel="stylesheet" href="../styles.css">
-  <style>
-    .report-layout { max-width: 1000px; margin: 0 auto; padding: 20px; }
-    .report-header { text-align: center; margin-bottom: 40px; padding: 40px 0; background: linear-gradient(135deg, #f6f8fd 0%, #f1f5f9 100%); border-radius: 16px; }
-    .report-title { font-size: 2.5rem; margin-bottom: 10px; color: #1e293b; }
-    .report-date { color: #64748b; }
-    
-    .report-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; }
-    .report-card { background: white; padding: 24px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); }
-    .source-title { border-bottom: 2px solid #f1f5f9; padding-bottom: 10px; margin-bottom: 20px; color: #334155; }
-    
-    .metric-block { margin-bottom: 30px; }
-    .metric-block h4 { font-size: 0.9rem; text-transform: uppercase; color: #64748b; letter-spacing: 0.05em; margin-bottom: 12px; }
-    .metric-block ul { list-style: none; padding: 0; }
-    .metric-block li { display: flex; align-items: center; padding: 8px 0; border-bottom: 1px dashed #f1f5f9; }
-    .metric-block li:last-child { border-bottom: none; }
-    
-    .rank { font-weight: bold; width: 24px; color: #cbd5e1; }
-    .metric-block li:nth-child(1) .rank { color: #eab308; } /* Gold */
-    .metric-block li:nth-child(2) .rank { color: #94a3b8; } /* Silver */
-    .metric-block li:nth-child(3) .rank { color: #b45309; } /* Bronze */
-    
-    .keyword-link { flex: 1; text-decoration: none; color: #0f172a; font-weight: 500; }
-    .keyword-link:hover { color: #2563eb; text-decoration: underline; }
-    .count { font-size: 0.8rem; color: #94a3b8; background: #f8fafc; padding: 2px 6px; border-radius: 4px; }
-    
-    .geo-section { margin-bottom: 60px; }
-    .geo-title { margin-bottom: 20px; color: #1e293b; display: flex; align-items: center; gap: 8px; }
-    
-    .back-nav { margin-top: 40px; text-align: center; }
-    .btn-back { display: inline-block; padding: 12px 24px; background: #1e293b; color: white; text-decoration: none; border-radius: 8px; transition: background 0.2s; }
-    .btn-back:hover { background: #334155; }
-  </style>
 </head>
 <body>
-  <div class="report-layout">
-    <header class="report-header">
-      <h1 class="report-title">📊 Trend Insights Report</h1>
-      <div class="report-date">Generated on ${dateStr}</div>
-    </header>
-    
-    <main>
-      ${sectionsHtml}
-    </main>
-    
-    <div class="back-nav">
-      <a href="../" class="btn-back">← Back to Dashboard</a>
+  <div class="topbar">
+    <div class="topbar-content">
+      <div class="brand">
+        <a href="../" style="text-decoration:none; color:inherit;"><h1>Trending Pulse</h1></a>
+      </div>
+      <div class="controls">
+        <span class="subtitle">Data Analysis Report</span>
+      </div>
     </div>
   </div>
+
+  <main class="layout">
+    ${layoutContent}
+  </main>
+  
+  <footer class="footer">
+    <a href="../" class="report-link">← Back to Dashboard</a>
+  </footer>
 </body>
 </html>`;
 }
+
+main().catch(console.error);
