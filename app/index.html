@@ -1,36 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Trending Pulse Dashboard</title>
-    <link rel="stylesheet" href="./styles.css" />
-  </head>
-  <body>
-    <header class="topbar">
-      <div class="brand">
-        <h1>Trending Pulse</h1>
-        <p class="subtitle">
-          Auto-updating Google & YouTube trends (US / KR / JP)
-        </p>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Trending Pulse Dashboard</title>
+  <meta name="google-site-verification" content="5PGDok22gD5tOg6kbzfZIqHoPDnBBNthv_g5fRFxSlg" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <h1>Trending Pulse</h1>
+      <p class="subtitle">
+        Auto-updating Google & YouTube trends (US / KR / JP)
+      </p>
+    </div>
+    <div class="controls">
+      <a href="./report/" class="report-link">📊 Trend Insights</a>
+      <div class="control-group">
+        <span class="label">Source</span>
+        <div id="sourceButtons" class="chip-group"></div>
       </div>
-      <div class="controls">
-        <a href="./report/" class="report-link">📊 Trend Insights</a>
-        <div class="control-group">
-          <span class="label">Source</span>
-          <div id="sourceButtons" class="chip-group"></div>
-        </div>
-      </div>
-    </header>
+    </div>
+  </header>
 
-    <main class="layout" id="panels"></main>
+  <main class="layout" id="panels"></main>
 
-    <footer class="footer">
-      <span>Last updated: <span id="lastUpdated">--</span></span>
-      <span class="muted">Auto-refreshes while open; data updates every ~30 minutes.</span>
-    </footer>
+  <footer class="footer">
+    <span>Last updated: <span id="lastUpdated">--</span></span>
+    <span class="muted">Auto-refreshes while open; data updates every ~30 minutes.</span>
+  </footer>
 
-    <script type="module" src="./main.js"></script>
-    <!-- Cloudflare Pages: Build command = none, Output directory = app -->
-  </body>
+  <script type="module" src="./main.js"></script>
+  <!-- Cloudflare Pages: Build command = none, Output directory = app -->
+</body>
+
 </html>
