@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-16T16:16:39.743Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ザラ",
-          "score": 100
-        },
-        {
-          "keyword": "吉田栄作",
-          "score": 99
-        },
-        {
-          "keyword": "こっちのけんと",
-          "score": 98
-        },
-        {
-          "keyword": "nvidia",
-          "score": 97
-        },
-        {
-          "keyword": "投資信託",
-          "score": 96
-        },
-        {
-          "keyword": "踊る大捜査線",
-          "score": 95
-        },
-        {
-          "keyword": "中央大学",
-          "score": 94
-        },
-        {
-          "keyword": "コトブキヤ",
-          "score": 93
-        },
-        {
-          "keyword": "西武新宿線",
-          "score": 92
-        },
-        {
-          "keyword": "齋藤飛鳥",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-16T16:51:30.429Z",
       "geo": "JP",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "岡崎彩咲陽",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-20T16:43:07.578Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "blood west",
+          "score": 100
+        },
+        {
+          "keyword": "高畑充希",
+          "score": 99
+        },
+        {
+          "keyword": "久保建英",
+          "score": 98
+        },
+        {
+          "keyword": "シャトレーゼ",
+          "score": 97
+        },
+        {
+          "keyword": "タクシー",
+          "score": 96
+        },
+        {
+          "keyword": "内田有紀",
+          "score": 95
+        },
+        {
+          "keyword": "intc",
+          "score": 94
+        },
+        {
+          "keyword": "ももクロ",
+          "score": 93
+        },
+        {
+          "keyword": "菅野智之",
+          "score": 92
+        },
+        {
+          "keyword": "シェルキ",
           "score": 91
         }
       ]
