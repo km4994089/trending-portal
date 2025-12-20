@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-16T13:10:52.521Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tom stoppard",
-          "score": 100
-        },
-        {
-          "keyword": "carabao cup",
-          "score": 99
-        },
-        {
-          "keyword": "epstein files",
-          "score": 98
-        },
-        {
-          "keyword": "noa tishby",
-          "score": 97
-        },
-        {
-          "keyword": "palantir ceo",
-          "score": 96
-        },
-        {
-          "keyword": "palantir",
-          "score": 95
-        },
-        {
-          "keyword": "jobs report",
-          "score": 94
-        },
-        {
-          "keyword": "jfk airport",
-          "score": 93
-        },
-        {
-          "keyword": "ebro in the morning",
-          "score": 92
-        },
-        {
-          "keyword": "pfe stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-16T13:53:26.941Z",
       "geo": "US",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "serbia",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-20T13:41:24.828Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jim beam",
+          "score": 100
+        },
+        {
+          "keyword": "celta vigo",
+          "score": 99
+        },
+        {
+          "keyword": "seaworld orlando",
+          "score": 98
+        },
+        {
+          "keyword": "goodbye june",
+          "score": 97
+        },
+        {
+          "keyword": "kim basinger",
+          "score": 96
+        },
+        {
+          "keyword": "times of india",
+          "score": 95
+        },
+        {
+          "keyword": "pamela smith",
+          "score": 94
+        },
+        {
+          "keyword": "nick woltemade",
+          "score": 93
+        },
+        {
+          "keyword": "woltemade",
+          "score": 92
+        },
+        {
+          "keyword": "flood restoration",
           "score": 91
         }
       ]
