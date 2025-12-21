@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-17T02:44:42.581Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "相棒 元日スペシャル",
-          "score": 100
-        },
-        {
-          "keyword": "警察",
-          "score": 99
-        },
-        {
-          "keyword": "オイシックス 野球",
-          "score": 98
-        },
-        {
-          "keyword": "川島海荷",
-          "score": 97
-        },
-        {
-          "keyword": "天王星",
-          "score": 96
-        },
-        {
-          "keyword": "his",
-          "score": 95
-        },
-        {
-          "keyword": "ニックス 対 スパーズ",
-          "score": 94
-        },
-        {
-          "keyword": "エプスタイン",
-          "score": 93
-        },
-        {
-          "keyword": "ダナン",
-          "score": 92
-        },
-        {
-          "keyword": "豊嶋花",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-17T03:49:30.939Z",
       "geo": "JP",
       "source": "google",
@@ -1690,6 +1643,53 @@
         },
         {
           "keyword": "富士市長選挙",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-21T03:11:05.871Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "木村緑子",
+          "score": 100
+        },
+        {
+          "keyword": "パンダ 上野動物園",
+          "score": 99
+        },
+        {
+          "keyword": "大阪王将",
+          "score": 98
+        },
+        {
+          "keyword": "年収178万",
+          "score": 97
+        },
+        {
+          "keyword": "大阪マーヴェラス",
+          "score": 96
+        },
+        {
+          "keyword": "彗星 3i/atlas",
+          "score": 95
+        },
+        {
+          "keyword": "佐久長聖高校",
+          "score": 94
+        },
+        {
+          "keyword": "高校ラグビー",
+          "score": 93
+        },
+        {
+          "keyword": "土曜ドラマ",
+          "score": 92
+        },
+        {
+          "keyword": "橘高校",
           "score": 91
         }
       ]

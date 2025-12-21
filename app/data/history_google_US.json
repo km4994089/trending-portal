@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-17T02:44:40.709Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "red wings",
-          "score": 100
-        },
-        {
-          "keyword": "de'aaron fox",
-          "score": 99
-        },
-        {
-          "keyword": "carson daly",
-          "score": 98
-        },
-        {
-          "keyword": "kirill kaprizov",
-          "score": 97
-        },
-        {
-          "keyword": "spike lee",
-          "score": 96
-        },
-        {
-          "keyword": "khalid",
-          "score": 95
-        },
-        {
-          "keyword": "cam cook",
-          "score": 94
-        },
-        {
-          "keyword": "pacific vs byu",
-          "score": 93
-        },
-        {
-          "keyword": "the secrets we bury",
-          "score": 92
-        },
-        {
-          "keyword": "towson vs kansas",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-17T03:49:28.955Z",
       "geo": "US",
       "source": "google",
@@ -1690,6 +1643,53 @@
         },
         {
           "keyword": "dan lanning",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-21T03:11:03.593Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "bruins",
+          "score": 100
+        },
+        {
+          "keyword": "cairo santos",
+          "score": 99
+        },
+        {
+          "keyword": "will richard",
+          "score": 98
+        },
+        {
+          "keyword": "nate hobbs",
+          "score": 97
+        },
+        {
+          "keyword": "snl host",
+          "score": 96
+        },
+        {
+          "keyword": "georgetown basketball",
+          "score": 95
+        },
+        {
+          "keyword": "lamelo ball",
+          "score": 94
+        },
+        {
+          "keyword": "george halas",
+          "score": 93
+        },
+        {
+          "keyword": "trail blazers vs kings",
+          "score": 92
+        },
+        {
+          "keyword": "nashville predators",
           "score": 91
         }
       ]
