@@ -244,6 +244,20 @@ body {
   flex: 1;
 }
 
+.keyword-text {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  flex: 1;
+  min-width: 0;
+}
+
+.keyword-reason {
+  font-size: 13px;
+  color: var(--muted);
+  line-height: 1.4;
+}
+
 .keyword-btn:hover {
   color: var(--accent);
   text-decoration: underline;
@@ -300,5 +314,13 @@ body {
 
   .brand {
     text-align: center;
+  }
+
+  .brand h1 {
+    font-size: 1.2rem;
+    line-height: 1.2;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 }

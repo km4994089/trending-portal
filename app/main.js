@@ -1,6 +1,28 @@
 const geos = ['US', 'KR', 'JP'];
 const sourceLabels = { google: 'Google', youtube: 'YouTube' };
 const COUNTERPART = { google: 'youtube', youtube: 'google' };
+const KEYWORD_CATEGORIES = [
+  {
+    category: '정치',
+    match: ['대통령', '국회', '의원', '정당', '김종혁', '선거', '총선'],
+    description: '정치 관련 뉴스 노출 증가',
+  },
+  {
+    category: '기업',
+    match: ['주식', '상장', '기업', '커머스', '인터파크', '삼성', '애플'],
+    description: '기업 관련 이슈 급증',
+  },
+  {
+    category: '군/사건',
+    match: ['부사관', '군인', '사건', '사고', '폭행', '구더기'],
+    description: '군 관련 사건 보도',
+  },
+  {
+    category: '연예/문화',
+    match: ['배우', '가수', '드라마', '영화', '콘서트'],
+    description: '연예·문화 이슈로 관심 증가',
+  },
+];
 
 let currentSource = 'google';
 let renderToken = 0;
@@ -150,6 +172,15 @@ function slugify(text) {
     .trim();
 }
 
+function getKeywordReason(keyword) {
+  for (const rule of KEYWORD_CATEGORIES) {
+    if (rule.match.some((word) => keyword.includes(word))) {
+      return rule.description;
+    }
+  }
+  return null;
+}
+
 function renderList(items, source, meta) {
   const limited = (items || []).slice(0, 20);
   if (!limited.length) {
@@ -174,7 +205,10 @@ function renderList(items, source, meta) {
     rank.className = 'rank';
     rank.textContent = index + 1;
 
-    // 2. Keyword Link (Direct External Search)
+    // 2. Keyword Link (Direct External Search) + optional reason
+    const textWrap = document.createElement('div');
+    textWrap.className = 'keyword-text';
+
     const link = document.createElement('a');
     link.className = 'keyword-btn';
     link.textContent = item.keyword;
@@ -186,6 +220,16 @@ function renderList(items, source, meta) {
     link.href = searchBase + encodeURIComponent(item.keyword);
     link.target = '_blank';
     link.rel = 'noopener noreferrer';
+
+    textWrap.appendChild(link);
+
+    const reason = getKeywordReason(item.keyword);
+    if (reason) {
+      const reasonEl = document.createElement('div');
+      reasonEl.className = 'keyword-reason';
+      reasonEl.textContent = `→ ${reason}`;
+      textWrap.appendChild(reasonEl);
+    }
 
     // 3. Visual Score Bar
     const scoreVal = Number(item.score) || 0;
@@ -201,7 +245,7 @@ function renderList(items, source, meta) {
     barWrap.appendChild(fill);
 
     row.appendChild(rank);
-    row.appendChild(link);
+    row.appendChild(textWrap);
     row.appendChild(barWrap);
     list.appendChild(row);
   });
