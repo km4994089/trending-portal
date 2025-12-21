@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-16T23:37:58.972Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "セミコン",
-          "score": 100
-        },
-        {
-          "keyword": "oda",
-          "score": 99
-        },
-        {
-          "keyword": "東京大賞典 2025",
-          "score": 98
-        },
-        {
-          "keyword": "ミャクミャク",
-          "score": 97
-        },
-        {
-          "keyword": "おは朝",
-          "score": 96
-        },
-        {
-          "keyword": "しまむら",
-          "score": 95
-        },
-        {
-          "keyword": "舘ひろし",
-          "score": 94
-        },
-        {
-          "keyword": "マレーシア",
-          "score": 93
-        },
-        {
-          "keyword": "vcu 大学",
-          "score": 92
-        },
-        {
-          "keyword": "vcu",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2025-12-17T00:53:21.841Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "年賀状",
-          "score": 100
-        },
-        {
-          "keyword": "2026",
-          "score": 99
-        },
-        {
-          "keyword": "馬",
-          "score": 98
-        },
-        {
-          "keyword": "お正月",
-          "score": 97
-        },
-        {
-          "keyword": "台風",
-          "score": 96
-        },
-        {
-          "keyword": "小池百合子",
-          "score": 95
-        },
-        {
-          "keyword": "竜巻",
-          "score": 94
-        },
-        {
-          "keyword": "落雷",
-          "score": 93
-        },
-        {
-          "keyword": "ユーロ",
-          "score": 92
-        },
-        {
-          "keyword": "箱根",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-17T02:44:42.581Z",
       "geo": "JP",
       "source": "google",
@@ -1737,6 +1643,53 @@
         },
         {
           "keyword": "大阪 天気",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-21T01:01:40.134Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "藤原竜也",
+          "score": 100
+        },
+        {
+          "keyword": "小室哲哉",
+          "score": 99
+        },
+        {
+          "keyword": "gmo",
+          "score": 98
+        },
+        {
+          "keyword": "冨田有紀",
+          "score": 97
+        },
+        {
+          "keyword": "山田孝之",
+          "score": 96
+        },
+        {
+          "keyword": "片寄涼太",
+          "score": 95
+        },
+        {
+          "keyword": "増田貴久",
+          "score": 94
+        },
+        {
+          "keyword": "れいわ新選組",
+          "score": 93
+        },
+        {
+          "keyword": "秋篠宮",
+          "score": 92
+        },
+        {
+          "keyword": "富士市長選挙",
           "score": 91
         }
       ]
