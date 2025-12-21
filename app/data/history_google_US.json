@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-17T03:49:28.955Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "movie",
-          "score": 100
-        },
-        {
-          "keyword": "health",
-          "score": 99
-        },
-        {
-          "keyword": "sport",
-          "score": 98
-        },
-        {
-          "keyword": "nba expansion",
-          "score": 97
-        },
-        {
-          "keyword": "easter island",
-          "score": 96
-        },
-        {
-          "keyword": "dubai",
-          "score": 95
-        },
-        {
-          "keyword": "electric car",
-          "score": 94
-        },
-        {
-          "keyword": "currency exchange",
-          "score": 93
-        },
-        {
-          "keyword": "ai news",
-          "score": 92
-        },
-        {
-          "keyword": "space exploration",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-17T04:25:20.181Z",
       "geo": "US",
       "source": "google",
@@ -1690,6 +1643,53 @@
         },
         {
           "keyword": "nashville predators",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-21T04:11:00.470Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "joe rogan",
+          "score": 100
+        },
+        {
+          "keyword": "boise state basketball",
+          "score": 99
+        },
+        {
+          "keyword": "sdsu basketball",
+          "score": 98
+        },
+        {
+          "keyword": "apple bees",
+          "score": 97
+        },
+        {
+          "keyword": "ashes",
+          "score": 96
+        },
+        {
+          "keyword": "munetaka murakami",
+          "score": 95
+        },
+        {
+          "keyword": "warriors game",
+          "score": 94
+        },
+        {
+          "keyword": "jeff hafley",
+          "score": 93
+        },
+        {
+          "keyword": "george conway",
+          "score": 92
+        },
+        {
+          "keyword": "duke basketball",
           "score": 91
         }
       ]
