@@ -26,11 +26,13 @@ const KEYWORD_CATEGORIES = [
 
 let currentSource = 'google';
 let renderToken = 0;
+let newsMode = false;
 
 const elements = {
   sourceButtons: document.getElementById('sourceButtons'),
   panels: document.getElementById('panels'),
   lastUpdated: document.getElementById('lastUpdated'),
+  newsModeToggle: document.getElementById('newsModeToggle'),
 };
 
 function formatTimestamp(capturedAt) {
@@ -45,12 +47,18 @@ function formatScore(source, item) {
   return source === 'youtube' ? value.toFixed(2) : Math.round(value);
 }
 
+function getSearchBase(source) {
+  if (source === 'youtube') {
+    return 'https://www.youtube.com/results?search_query=';
+  }
+  if (newsMode) {
+    return 'https://www.google.com/search?tbm=nws&q=';
+  }
+  return 'https://www.google.com/search?q=';
+}
+
 function openSearch(keyword, source) {
-  const base =
-    source === 'youtube'
-      ? 'https://www.youtube.com/results?search_query='
-      : 'https://www.google.com/search?q=';
-  const url = base + encodeURIComponent(keyword);
+  const url = getSearchBase(source) + encodeURIComponent(keyword);
   window.open(url, '_blank', 'noopener,noreferrer');
 }
 
@@ -214,10 +222,7 @@ function renderList(items, source, meta) {
     link.textContent = item.keyword;
 
     // Construct Search URL
-    const searchBase = source === 'youtube'
-      ? 'https://www.youtube.com/results?search_query='
-      : 'https://www.google.com/search?q=';
-    link.href = searchBase + encodeURIComponent(item.keyword);
+    link.href = getSearchBase(source) + encodeURIComponent(item.keyword);
     link.target = '_blank';
     link.rel = 'noopener noreferrer';
 
@@ -340,8 +345,31 @@ function startAutoRefresh() {
   setInterval(renderPanels, 180000);
 }
 
+function initNewsMode() {
+  if (!elements.newsModeToggle) return;
+  try {
+    const stored = localStorage.getItem('newsMode');
+    if (stored !== null) {
+      newsMode = stored === 'true';
+    }
+  } catch (err) {
+    newsMode = false;
+  }
+  elements.newsModeToggle.checked = newsMode;
+  elements.newsModeToggle.addEventListener('change', (event) => {
+    newsMode = event.target.checked;
+    try {
+      localStorage.setItem('newsMode', String(newsMode));
+    } catch (err) {
+      // Ignore storage failures (private mode, etc.).
+    }
+    renderPanels();
+  });
+}
+
 function init() {
   createSourceButtons();
+  initNewsMode();
   renderPanels();
   startAutoRefresh();
 }
