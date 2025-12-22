@@ -1,8 +1,12 @@
 {
-  "capturedAt": "2025-12-22T07:17:25.571Z",
+  "capturedAt": "2025-12-22T07:41:34.788Z",
   "geo": "US",
   "source": "google",
   "items": [
+    {
+      "keyword": "tom hardy",
+      "articles": []
+    },
     {
       "keyword": "sofia vergara",
       "articles": []
@@ -37,10 +41,6 @@
     },
     {
       "keyword": "daniel radcliffe",
-      "articles": []
-    },
-    {
-      "keyword": "harry potter movies",
       "articles": []
     }
   ]
