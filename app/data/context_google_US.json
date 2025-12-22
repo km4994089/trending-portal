@@ -1,10 +1,14 @@
 {
-  "capturedAt": "2025-12-22T08:18:59.198Z",
+  "capturedAt": "2025-12-22T08:50:11.475Z",
   "geo": "US",
   "source": "google",
   "items": [
     {
       "keyword": "emma watson",
+      "articles": []
+    },
+    {
+      "keyword": "the walking dead",
       "articles": []
     },
     {
@@ -37,10 +41,6 @@
     },
     {
       "keyword": "las vegas weather",
-      "articles": []
-    },
-    {
-      "keyword": "car accident lawyers",
       "articles": []
     }
   ]
