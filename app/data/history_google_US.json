@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-21T14:39:01.018Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "rockettes",
-          "score": 100
-        },
-        {
-          "keyword": "barcelona",
-          "score": 99
-        },
-        {
-          "keyword": "seneca falls",
-          "score": 98
-        },
-        {
-          "keyword": "seneca falls ny",
-          "score": 97
-        },
-        {
-          "keyword": "dollywood",
-          "score": 96
-        },
-        {
-          "keyword": "festivus",
-          "score": 95
-        },
-        {
-          "keyword": "epic universe",
-          "score": 94
-        },
-        {
-          "keyword": "president trump",
-          "score": 93
-        },
-        {
-          "keyword": "willie geist",
-          "score": 92
-        },
-        {
-          "keyword": "connections hints today",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-21T15:10:38.801Z",
       "geo": "US",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "savannah guthrie",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-25T14:41:14.404Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "yakutia",
+          "score": 100
+        },
+        {
+          "keyword": "max brosmer",
+          "score": 99
+        },
+        {
+          "keyword": "rose bowl parade",
+          "score": 98
+        },
+        {
+          "keyword": "morgan freeman",
+          "score": 97
+        },
+        {
+          "keyword": "kelly ripa",
+          "score": 96
+        },
+        {
+          "keyword": "bo jackson",
+          "score": 95
+        },
+        {
+          "keyword": "gatlinburg",
+          "score": 94
+        },
+        {
+          "keyword": "carson daly",
+          "score": 93
+        },
+        {
+          "keyword": "premier league schedule",
+          "score": 92
+        },
+        {
+          "keyword": "disney world",
           "score": 91
         }
       ]
