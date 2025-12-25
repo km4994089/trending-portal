@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-21T20:12:25.752Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "john leonard",
-          "score": 100
-        },
-        {
-          "keyword": "kyle chrisley",
-          "score": 99
-        },
-        {
-          "keyword": "jj mccarthy",
-          "score": 98
-        },
-        {
-          "keyword": "bulls vs hawks",
-          "score": 97
-        },
-        {
-          "keyword": "jd vance",
-          "score": 96
-        },
-        {
-          "keyword": "brian flores",
-          "score": 95
-        },
-        {
-          "keyword": "kellen moore",
-          "score": 94
-        },
-        {
-          "keyword": "noah gray",
-          "score": 93
-        },
-        {
-          "keyword": "notre dame basketball",
-          "score": 92
-        },
-        {
-          "keyword": "oronde gadsden",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-21T20:39:33.377Z",
       "geo": "US",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "nfl scores",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-25T20:13:42.455Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "wembanyama",
+          "score": 100
+        },
+        {
+          "keyword": "wemby",
+          "score": 99
+        },
+        {
+          "keyword": "tyler soderstrom",
+          "score": 98
+        },
+        {
+          "keyword": "anaconda",
+          "score": 97
+        },
+        {
+          "keyword": "sphere las vegas",
+          "score": 96
+        },
+        {
+          "keyword": "spurs vs thunder",
+          "score": 95
+        },
+        {
+          "keyword": "nba standings",
+          "score": 94
+        },
+        {
+          "keyword": "coco gauff",
+          "score": 93
+        },
+        {
+          "keyword": "lacey chabert",
+          "score": 92
+        },
+        {
+          "keyword": "alex honnold",
           "score": 91
         }
       ]
