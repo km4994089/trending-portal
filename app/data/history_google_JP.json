@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-21T21:35:44.753Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tx",
-          "score": 100
-        },
-        {
-          "keyword": "大相撲",
-          "score": 99
-        },
-        {
-          "keyword": "シャドバ ビヨンド 春日",
-          "score": 98
-        },
-        {
-          "keyword": "マインツ 対 ザンクトパウリ",
-          "score": 97
-        },
-        {
-          "keyword": "冨永愛 年齢",
-          "score": 96
-        },
-        {
-          "keyword": "稲葉浩志",
-          "score": 95
-        },
-        {
-          "keyword": "villarreal vs barcelona",
-          "score": 94
-        },
-        {
-          "keyword": "青森県 地震",
-          "score": 93
-        },
-        {
-          "keyword": "岡本和真 移籍先",
-          "score": 92
-        },
-        {
-          "keyword": "里見浩太朗",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-21T22:11:29.227Z",
       "geo": "JP",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "大阪",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-25T21:37:35.925Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "日本エコロジー",
+          "score": 100
+        },
+        {
+          "keyword": "天気予報 名古屋",
+          "score": 99
+        },
+        {
+          "keyword": "nba",
+          "score": 98
+        },
+        {
+          "keyword": "プロ野球",
+          "score": 97
+        },
+        {
+          "keyword": "鈴木宗男",
+          "score": 96
+        },
+        {
+          "keyword": "西東京市 無理心中 母親 野村由佳",
+          "score": 95
+        },
+        {
+          "keyword": "jr西日本",
+          "score": 94
+        },
+        {
+          "keyword": "jr東日本",
+          "score": 93
+        },
+        {
+          "keyword": "新幹線",
+          "score": 92
+        },
+        {
+          "keyword": "雪",
           "score": 91
         }
       ]
