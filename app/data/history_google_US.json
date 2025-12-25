@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-21T09:11:51.324Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "las vegas weather",
-          "score": 100
-        },
-        {
-          "keyword": "macbook pro",
-          "score": 99
-        },
-        {
-          "keyword": "kanye west",
-          "score": 98
-        },
-        {
-          "keyword": "chainsaw man season 2",
-          "score": 97
-        },
-        {
-          "keyword": "san diego",
-          "score": 96
-        },
-        {
-          "keyword": "al",
-          "score": 95
-        },
-        {
-          "keyword": "casino",
-          "score": 94
-        },
-        {
-          "keyword": "tyla",
-          "score": 93
-        },
-        {
-          "keyword": "dubai",
-          "score": 92
-        },
-        {
-          "keyword": "jfk",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-21T09:38:02.057Z",
       "geo": "US",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "microsoft",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-25T09:14:52.892Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "meta",
+          "score": 100
+        },
+        {
+          "keyword": "world cup 2026",
+          "score": 99
+        },
+        {
+          "keyword": "gta 6",
+          "score": 98
+        },
+        {
+          "keyword": "lake tahoe",
+          "score": 97
+        },
+        {
+          "keyword": "san francisco weather",
+          "score": 96
+        },
+        {
+          "keyword": "chinese new year 2026",
+          "score": 95
+        },
+        {
+          "keyword": "robert kennedy jr",
+          "score": 94
+        },
+        {
+          "keyword": "laredo solti",
+          "score": 93
+        },
+        {
+          "keyword": "rfk jr",
+          "score": 92
+        },
+        {
+          "keyword": "clavicular runs over person",
           "score": 91
         }
       ]
