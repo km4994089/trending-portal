@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-21T10:41:02.211Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nfl scores yesterday",
-          "score": 100
-        },
-        {
-          "keyword": "hoosier lottery",
-          "score": 99
-        },
-        {
-          "keyword": "flood damage restoration",
-          "score": 98
-        },
-        {
-          "keyword": "philippines",
-          "score": 97
-        },
-        {
-          "keyword": "bondi beach shooting victims",
-          "score": 96
-        },
-        {
-          "keyword": "sofia vergara",
-          "score": 95
-        },
-        {
-          "keyword": "blood west",
-          "score": 94
-        },
-        {
-          "keyword": "uber ride",
-          "score": 93
-        },
-        {
-          "keyword": "las vegas weather",
-          "score": 92
-        },
-        {
-          "keyword": "macbook pro",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-21T11:09:30.284Z",
       "geo": "US",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "latest news",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-25T10:43:23.811Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lol",
+          "score": 100
+        },
+        {
+          "keyword": "sydney kings",
+          "score": 99
+        },
+        {
+          "keyword": "marvel",
+          "score": 98
+        },
+        {
+          "keyword": "apple news",
+          "score": 97
+        },
+        {
+          "keyword": "retire",
+          "score": 96
+        },
+        {
+          "keyword": "is sheetz open on christmas",
+          "score": 95
+        },
+        {
+          "keyword": "prisoners",
+          "score": 94
+        },
+        {
+          "keyword": "taylor swift news",
+          "score": 93
+        },
+        {
+          "keyword": "economy",
+          "score": 92
+        },
+        {
+          "keyword": "crypto news",
           "score": 91
         }
       ]
