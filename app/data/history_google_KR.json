@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-21T10:11:48.767Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "양준혁",
-          "score": 100
-        },
-        {
-          "keyword": "류중일",
-          "score": 99
-        },
-        {
-          "keyword": "안세영 경기",
-          "score": 98
-        },
-        {
-          "keyword": "앤드류 테이트",
-          "score": 97
-        },
-        {
-          "keyword": "피넛",
-          "score": 96
-        },
-        {
-          "keyword": "하지원",
-          "score": 95
-        },
-        {
-          "keyword": "황정민",
-          "score": 94
-        },
-        {
-          "keyword": "정정용",
-          "score": 93
-        },
-        {
-          "keyword": "지석진",
-          "score": 92
-        },
-        {
-          "keyword": "함소원",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-21T10:41:03.175Z",
       "geo": "KR",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "kbl",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-25T10:13:14.240Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "미스트롯4",
+          "score": 100
+        },
+        {
+          "keyword": "기안84",
+          "score": 99
+        },
+        {
+          "keyword": "김대건",
+          "score": 98
+        },
+        {
+          "keyword": "sbs 가요대전 2025",
+          "score": 97
+        },
+        {
+          "keyword": "가요대제전",
+          "score": 96
+        },
+        {
+          "keyword": "남보라",
+          "score": 95
+        },
+        {
+          "keyword": "윈터",
+          "score": 94
+        },
+        {
+          "keyword": "2025 가요대전",
+          "score": 93
+        },
+        {
+          "keyword": "도미노",
+          "score": 92
+        },
+        {
+          "keyword": "롯데월드",
           "score": 91
         }
       ]
