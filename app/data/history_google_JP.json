@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-21T23:11:22.564Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "松本剛 巨人",
-          "score": 100
-        },
-        {
-          "keyword": "ポスティングシステム",
-          "score": 99
-        },
-        {
-          "keyword": "スリコ タブレット",
-          "score": 98
-        },
-        {
-          "keyword": "上野動物園 パンダ",
-          "score": 97
-        },
-        {
-          "keyword": "ダルビッシュ有",
-          "score": 96
-        },
-        {
-          "keyword": "森本毅郎",
-          "score": 95
-        },
-        {
-          "keyword": "長岡柚奈",
-          "score": 94
-        },
-        {
-          "keyword": "フィオレンティーナ 対 ウディネーゼ",
-          "score": 93
-        },
-        {
-          "keyword": "横山ルリカ",
-          "score": 92
-        },
-        {
-          "keyword": "長泉町納米里",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-21T23:37:04.712Z",
       "geo": "JP",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "プラチナ価格",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-25T23:11:48.693Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "田村真子",
+          "score": 100
+        },
+        {
+          "keyword": "おいでやす小田",
+          "score": 99
+        },
+        {
+          "keyword": "伊香保温泉",
+          "score": 98
+        },
+        {
+          "keyword": "ガンダムベース",
+          "score": 97
+        },
+        {
+          "keyword": "埼玉りそな銀行",
+          "score": 96
+        },
+        {
+          "keyword": "あいの風とやま鉄道",
+          "score": 95
+        },
+        {
+          "keyword": "田中哲司",
+          "score": 94
+        },
+        {
+          "keyword": "レコード大賞",
+          "score": 93
+        },
+        {
+          "keyword": "シャーロットケイトフォックス",
+          "score": 92
+        },
+        {
+          "keyword": "寛一郎",
           "score": 91
         }
       ]
