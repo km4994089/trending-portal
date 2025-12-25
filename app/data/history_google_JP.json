@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-21T22:11:29.227Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "佐々木舞音",
-          "score": 100
-        },
-        {
-          "keyword": "ジローナ 対 アトレティコ",
-          "score": 99
-        },
-        {
-          "keyword": "今日 天気",
-          "score": 98
-        },
-        {
-          "keyword": "株主優待",
-          "score": 97
-        },
-        {
-          "keyword": "corinthians",
-          "score": 96
-        },
-        {
-          "keyword": "しなこ",
-          "score": 95
-        },
-        {
-          "keyword": "札幌天気",
-          "score": 94
-        },
-        {
-          "keyword": "スンスン",
-          "score": 93
-        },
-        {
-          "keyword": "たまごっち",
-          "score": 92
-        },
-        {
-          "keyword": "ウォリアーズ 対 サンズ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-21T22:40:10.331Z",
       "geo": "JP",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "雪",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-25T22:11:41.804Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "年末調整",
+          "score": 100
+        },
+        {
+          "keyword": "ウォリアーズ 対 マーベリックス",
+          "score": 99
+        },
+        {
+          "keyword": "2026年運勢 星座",
+          "score": 98
+        },
+        {
+          "keyword": "山本由伸",
+          "score": 97
+        },
+        {
+          "keyword": "jr",
+          "score": 96
+        },
+        {
+          "keyword": "天氣",
+          "score": 95
+        },
+        {
+          "keyword": "weather",
+          "score": 94
+        },
+        {
+          "keyword": "広瀬すず",
+          "score": 93
+        },
+        {
+          "keyword": "날씨",
+          "score": 92
+        },
+        {
+          "keyword": "ジョニーデップ",
           "score": 91
         }
       ]
