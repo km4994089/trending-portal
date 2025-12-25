@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-21T18:46:25.132Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ceedee lamb",
-          "score": 100
-        },
-        {
-          "keyword": "matt prater",
-          "score": 99
-        },
-        {
-          "keyword": "myles garrett sacks",
-          "score": 98
-        },
-        {
-          "keyword": "reese witherspoon",
-          "score": 97
-        },
-        {
-          "keyword": "tre harris",
-          "score": 96
-        },
-        {
-          "keyword": "aaron jones",
-          "score": 95
-        },
-        {
-          "keyword": "quinn ewers",
-          "score": 94
-        },
-        {
-          "keyword": "jordan poyer",
-          "score": 93
-        },
-        {
-          "keyword": "harold fannin jr.",
-          "score": 92
-        },
-        {
-          "keyword": "deion sanders",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-21T19:08:45.910Z",
       "geo": "US",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "michael irvin",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-25T18:48:52.905Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "amc theaters",
+          "score": 100
+        },
+        {
+          "keyword": "lsu football",
+          "score": 99
+        },
+        {
+          "keyword": "dan quinn",
+          "score": 98
+        },
+        {
+          "keyword": "winter storm warning",
+          "score": 97
+        },
+        {
+          "keyword": "jadeveon clowney",
+          "score": 96
+        },
+        {
+          "keyword": "red lobster ceo",
+          "score": 95
+        },
+        {
+          "keyword": "bobby wagner",
+          "score": 94
+        },
+        {
+          "keyword": "espn nfl scores",
+          "score": 93
+        },
+        {
+          "keyword": "mfl",
+          "score": 92
+        },
+        {
+          "keyword": "charles barkley",
           "score": 91
         }
       ]
