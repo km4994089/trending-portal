@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-21T17:09:56.729Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "アストン・ビラ 対 マンu",
-          "score": 100
-        },
-        {
-          "keyword": "乃木坂46",
-          "score": 99
-        },
-        {
-          "keyword": "星ひとみ",
-          "score": 98
-        },
-        {
-          "keyword": "シカゴ",
-          "score": 97
-        },
-        {
-          "keyword": "中村ゆり",
-          "score": 96
-        },
-        {
-          "keyword": "シントトロイデン",
-          "score": 95
-        },
-        {
-          "keyword": "南野拓実",
-          "score": 94
-        },
-        {
-          "keyword": "今井達也",
-          "score": 93
-        },
-        {
-          "keyword": "サンドイッチマン",
-          "score": 92
-        },
-        {
-          "keyword": "バルセロナ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-21T17:37:30.821Z",
       "geo": "JP",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "fc東京",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-25T17:11:00.710Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "地震情報",
+          "score": 100
+        },
+        {
+          "keyword": "紀平梨花",
+          "score": 99
+        },
+        {
+          "keyword": "snow storm warning",
+          "score": 98
+        },
+        {
+          "keyword": "acid black cherry",
+          "score": 97
+        },
+        {
+          "keyword": "ウォニョン",
+          "score": 96
+        },
+        {
+          "keyword": "内田有紀",
+          "score": 95
+        },
+        {
+          "keyword": "プラレール",
+          "score": 94
+        },
+        {
+          "keyword": "岸井ゆきの",
+          "score": 93
+        },
+        {
+          "keyword": "時東ぁみ",
+          "score": 92
+        },
+        {
+          "keyword": "ストレンジャーシングス 一番くじ",
           "score": 91
         }
       ]

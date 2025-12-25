@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-21T17:09:55.260Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "바르셀로나",
-          "score": 100
-        },
-        {
-          "keyword": "저속노화",
-          "score": 99
-        },
-        {
-          "keyword": "페예노르트",
-          "score": 98
-        },
-        {
-          "keyword": "탁재훈",
-          "score": 97
-        },
-        {
-          "keyword": "jtbc",
-          "score": 96
-        },
-        {
-          "keyword": "시고니 위버",
-          "score": 95
-        },
-        {
-          "keyword": "츠키",
-          "score": 94
-        },
-        {
-          "keyword": "psv",
-          "score": 93
-        },
-        {
-          "keyword": "김원훈",
-          "score": 92
-        },
-        {
-          "keyword": "김재중",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-21T17:37:29.735Z",
       "geo": "KR",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "미르",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-25T17:10:59.514Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "다시보기",
+          "score": 100
+        },
+        {
+          "keyword": "다또아",
+          "score": 99
+        },
+        {
+          "keyword": "김지현",
+          "score": 98
+        },
+        {
+          "keyword": "장혜리",
+          "score": 97
+        },
+        {
+          "keyword": "허찬미",
+          "score": 96
+        },
+        {
+          "keyword": "노사봉",
+          "score": 95
+        },
+        {
+          "keyword": "이세영",
+          "score": 94
+        },
+        {
+          "keyword": "키스는 괜히 해서",
+          "score": 93
+        },
+        {
+          "keyword": "이시안",
+          "score": 92
+        },
+        {
+          "keyword": "cuaca besok",
           "score": 91
         }
       ]
