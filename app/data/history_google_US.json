@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-21T18:16:17.113Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "gardner minshew",
-          "score": 100
-        },
-        {
-          "keyword": "harold fannin jr",
-          "score": 99
-        },
-        {
-          "keyword": "jason pierre paul",
-          "score": 98
-        },
-        {
-          "keyword": "wake forest basketball",
-          "score": 97
-        },
-        {
-          "keyword": "miami weather",
-          "score": 96
-        },
-        {
-          "keyword": "theo johnson",
-          "score": 95
-        },
-        {
-          "keyword": "chiefs backup quarterback",
-          "score": 94
-        },
-        {
-          "keyword": "capitals vs red wings",
-          "score": 93
-        },
-        {
-          "keyword": "fiorentina vs udinese",
-          "score": 92
-        },
-        {
-          "keyword": "drew brees",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-21T18:46:25.132Z",
       "geo": "US",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "fanduel",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-25T18:17:41.041Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "espn",
+          "score": 100
+        },
+        {
+          "keyword": "movies",
+          "score": 99
+        },
+        {
+          "keyword": "jordan clarkson",
+          "score": 98
+        },
+        {
+          "keyword": "cbs",
+          "score": 97
+        },
+        {
+          "keyword": "nba scores",
+          "score": 96
+        },
+        {
+          "keyword": "football",
+          "score": 95
+        },
+        {
+          "keyword": "washington commanders stadium",
+          "score": 94
+        },
+        {
+          "keyword": "mikal bridges",
+          "score": 93
+        },
+        {
+          "keyword": "nate burleson",
+          "score": 92
+        },
+        {
+          "keyword": "michael irvin",
           "score": 91
         }
       ]
