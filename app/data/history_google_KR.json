@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-21T23:37:03.486Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "동짓날",
-          "score": 100
-        },
-        {
-          "keyword": "장시환",
-          "score": 99
-        },
-        {
-          "keyword": "villarreal vs barcelona",
-          "score": 98
-        },
-        {
-          "keyword": "aston villa vs man united",
-          "score": 97
-        },
-        {
-          "keyword": "แอสตันวิลลา พบ แมนยู",
-          "score": 96
-        },
-        {
-          "keyword": "모건 로저스",
-          "score": 95
-        },
-        {
-          "keyword": "원지안",
-          "score": 94
-        },
-        {
-          "keyword": "하이덴하임 대 바이에른",
-          "score": 93
-        },
-        {
-          "keyword": "맨유",
-          "score": 92
-        },
-        {
-          "keyword": "바르셀로나",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-22T01:00:34.051Z",
       "geo": "KR",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "다또아",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-25T23:37:51.994Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "온도",
+          "score": 100
+        },
+        {
+          "keyword": "달러환율",
+          "score": 99
+        },
+        {
+          "keyword": "weather",
+          "score": 98
+        },
+        {
+          "keyword": "weather today",
+          "score": 97
+        },
+        {
+          "keyword": "天气",
+          "score": 96
+        },
+        {
+          "keyword": "울산날씨",
+          "score": 95
+        },
+        {
+          "keyword": "nfl",
+          "score": 94
+        },
+        {
+          "keyword": "오클라호마시티 대 샌안토니오",
+          "score": 93
+        },
+        {
+          "keyword": "nba",
+          "score": 92
+        },
+        {
+          "keyword": "카이",
           "score": 91
         }
       ]
