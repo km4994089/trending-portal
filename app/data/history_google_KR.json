@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-22T05:17:21.902Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김성규",
-          "score": 100
-        },
-        {
-          "keyword": "2026년",
-          "score": 99
-        },
-        {
-          "keyword": "미르 결혼",
-          "score": 98
-        },
-        {
-          "keyword": "아시아나항공",
-          "score": 97
-        },
-        {
-          "keyword": "금융투자협회",
-          "score": 96
-        },
-        {
-          "keyword": "제임스 랜슨",
-          "score": 95
-        },
-        {
-          "keyword": "알지노믹스",
-          "score": 94
-        },
-        {
-          "keyword": "삼진식품",
-          "score": 93
-        },
-        {
-          "keyword": "전남대",
-          "score": 92
-        },
-        {
-          "keyword": "코레일 파업",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-22T05:44:38.113Z",
       "geo": "KR",
       "source": "google",
@@ -7800,6 +7753,53 @@
         },
         {
           "keyword": "건강보험공단",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-26T05:42:55.140Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "팔란티어",
+          "score": 100
+        },
+        {
+          "keyword": "남경필",
+          "score": 99
+        },
+        {
+          "keyword": "국세청",
+          "score": 98
+        },
+        {
+          "keyword": "장학재단",
+          "score": 97
+        },
+        {
+          "keyword": "홍정호",
+          "score": 96
+        },
+        {
+          "keyword": "덴버 대 미네소타",
+          "score": 95
+        },
+        {
+          "keyword": "한고은",
+          "score": 94
+        },
+        {
+          "keyword": "심권호",
+          "score": 93
+        },
+        {
+          "keyword": "환율",
+          "score": 92
+        },
+        {
+          "keyword": "윤석열",
           "score": 91
         }
       ]
