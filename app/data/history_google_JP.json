@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-22T22:42:05.384Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "福士蒼汰",
-          "score": 100
-        },
-        {
-          "keyword": "雪",
-          "score": 99
-        },
-        {
-          "keyword": "寛一郎",
-          "score": 98
-        },
-        {
-          "keyword": "天气",
-          "score": 97
-        },
-        {
-          "keyword": "星ひとみ 占い",
-          "score": 96
-        },
-        {
-          "keyword": "nisa",
-          "score": 95
-        },
-        {
-          "keyword": "ららぽーと",
-          "score": 94
-        },
-        {
-          "keyword": "東出昌大",
-          "score": 93
-        },
-        {
-          "keyword": "柏崎刈羽原発",
-          "score": 92
-        },
-        {
-          "keyword": "プラチナ価格",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2025-12-22T23:11:43.809Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "有馬記念",
-          "score": 100
-        },
-        {
-          "keyword": "野村勇",
-          "score": 99
-        },
-        {
-          "keyword": "上皇誕生日",
-          "score": 98
-        },
-        {
-          "keyword": "岩田剛典",
-          "score": 97
-        },
-        {
-          "keyword": "佐藤浩市",
-          "score": 96
-        },
-        {
-          "keyword": "有馬記念 入場券",
-          "score": 95
-        },
-        {
-          "keyword": "クイーンズクライマックス",
-          "score": 94
-        },
-        {
-          "keyword": "ジャンボ宝くじ",
-          "score": 93
-        },
-        {
-          "keyword": "プロセカ ブルフェス",
-          "score": 92
-        },
-        {
-          "keyword": "年末年始 天気",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-22T23:37:50.763Z",
       "geo": "JP",
       "source": "google",
@@ -7847,6 +7753,53 @@
         },
         {
           "keyword": "コインランドリー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-26T23:11:51.399Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "箱根",
+          "score": 100
+        },
+        {
+          "keyword": "ららぽーと",
+          "score": 99
+        },
+        {
+          "keyword": "舞子スノーリゾート",
+          "score": 98
+        },
+        {
+          "keyword": "寒気",
+          "score": 97
+        },
+        {
+          "keyword": "snow storm warning",
+          "score": 96
+        },
+        {
+          "keyword": "築地本願寺",
+          "score": 95
+        },
+        {
+          "keyword": "塩野瑛久",
+          "score": 94
+        },
+        {
+          "keyword": "佐渡汽船",
+          "score": 93
+        },
+        {
+          "keyword": "マルハン",
+          "score": 92
+        },
+        {
+          "keyword": "高杉真宙 結婚",
           "score": 91
         }
       ]
