@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-22T08:18:59.198Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "emma watson",
-          "score": 100
-        },
-        {
-          "keyword": "silent hill",
-          "score": 99
-        },
-        {
-          "keyword": "philippines",
-          "score": 98
-        },
-        {
-          "keyword": "prison break",
-          "score": 97
-        },
-        {
-          "keyword": "salma hayek",
-          "score": 96
-        },
-        {
-          "keyword": "dubai",
-          "score": 95
-        },
-        {
-          "keyword": "tom hardy",
-          "score": 94
-        },
-        {
-          "keyword": "sofia vergara",
-          "score": 93
-        },
-        {
-          "keyword": "las vegas weather",
-          "score": 92
-        },
-        {
-          "keyword": "car accident lawyers",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-22T08:50:11.475Z",
       "geo": "US",
       "source": "google",
@@ -7800,6 +7753,53 @@
         },
         {
           "keyword": "seth meyers",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-26T08:47:33.407Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "new zealand breakers",
+          "score": 100
+        },
+        {
+          "keyword": "thunderbolts",
+          "score": 99
+        },
+        {
+          "keyword": "arizona",
+          "score": 98
+        },
+        {
+          "keyword": "el chapo",
+          "score": 97
+        },
+        {
+          "keyword": "e502 l3",
+          "score": 96
+        },
+        {
+          "keyword": "true detective",
+          "score": 95
+        },
+        {
+          "keyword": "ryan wedding raids",
+          "score": 94
+        },
+        {
+          "keyword": "jake bongiovi",
+          "score": 93
+        },
+        {
+          "keyword": "jaden mcdaniels",
+          "score": 92
+        },
+        {
+          "keyword": "wolves",
           "score": 91
         }
       ]
