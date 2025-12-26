@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-22T14:42:58.269Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jason clarke",
-          "score": 100
-        },
-        {
-          "keyword": "janus henderson",
-          "score": 99
-        },
-        {
-          "keyword": "the atlantic 10",
-          "score": 98
-        },
-        {
-          "keyword": "conduent",
-          "score": 97
-        },
-        {
-          "keyword": "idris elba",
-          "score": 96
-        },
-        {
-          "keyword": "i heart radio",
-          "score": 95
-        },
-        {
-          "keyword": "gerry cardinale",
-          "score": 94
-        },
-        {
-          "keyword": "mali vs zambia",
-          "score": 93
-        },
-        {
-          "keyword": "larry ellison",
-          "score": 92
-        },
-        {
-          "keyword": "dollywood",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-22T15:13:11.101Z",
       "geo": "US",
       "source": "google",
@@ -7847,6 +7800,53 @@
         },
         {
           "keyword": "allegiant",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-26T15:12:10.310Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tesla stock",
+          "score": 100
+        },
+        {
+          "keyword": "sp500",
+          "score": 99
+        },
+        {
+          "keyword": "nfl football playoff picture",
+          "score": 98
+        },
+        {
+          "keyword": "voo stock",
+          "score": 97
+        },
+        {
+          "keyword": "google stock price",
+          "score": 96
+        },
+        {
+          "keyword": "coventry vs swansea",
+          "score": 95
+        },
+        {
+          "keyword": "fidelity investments",
+          "score": 94
+        },
+        {
+          "keyword": "iren stock",
+          "score": 93
+        },
+        {
+          "keyword": "charles schwab",
+          "score": 92
+        },
+        {
+          "keyword": "aapl stock",
           "score": 91
         }
       ]
