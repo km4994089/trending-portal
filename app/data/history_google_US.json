@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-22T15:13:11.101Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "chris rea",
-          "score": 100
-        },
-        {
-          "keyword": "bobby petrino",
-          "score": 99
-        },
-        {
-          "keyword": "tsm stock",
-          "score": 98
-        },
-        {
-          "keyword": "air noland",
-          "score": 97
-        },
-        {
-          "keyword": "nasdaq index",
-          "score": 96
-        },
-        {
-          "keyword": "uber stock",
-          "score": 95
-        },
-        {
-          "keyword": "pfe stock",
-          "score": 94
-        },
-        {
-          "keyword": "vti stock",
-          "score": 93
-        },
-        {
-          "keyword": "microsoft stock price",
-          "score": 92
-        },
-        {
-          "keyword": "ups stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-22T15:41:53.015Z",
       "geo": "US",
       "source": "google",
@@ -7847,6 +7800,53 @@
         },
         {
           "keyword": "aapl stock",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-26T15:40:03.590Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "google stock",
+          "score": 100
+        },
+        {
+          "keyword": "costco stock",
+          "score": 99
+        },
+        {
+          "keyword": "mickey big brother",
+          "score": 98
+        },
+        {
+          "keyword": "neil patrick harris",
+          "score": 97
+        },
+        {
+          "keyword": "meta stock price",
+          "score": 96
+        },
+        {
+          "keyword": "vanguard",
+          "score": 95
+        },
+        {
+          "keyword": "apple stock",
+          "score": 94
+        },
+        {
+          "keyword": "bmnr stock",
+          "score": 93
+        },
+        {
+          "keyword": "coin stock",
+          "score": 92
+        },
+        {
+          "keyword": "dow jones",
           "score": 91
         }
       ]
