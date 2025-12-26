@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-22T01:00:35.362Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "任天堂 株価",
-          "score": 100
-        },
-        {
-          "keyword": "フジクラ株価",
-          "score": 99
-        },
-        {
-          "keyword": "安川電機 株価",
-          "score": 98
-        },
-        {
-          "keyword": "加藤紗里",
-          "score": 97
-        },
-        {
-          "keyword": "ウィザーズ 対 スパーズ",
-          "score": 96
-        },
-        {
-          "keyword": "三菱ufj 株価",
-          "score": 95
-        },
-        {
-          "keyword": "ニデック 株価",
-          "score": 94
-        },
-        {
-          "keyword": "オースティン バーンズ",
-          "score": 93
-        },
-        {
-          "keyword": "トミカ",
-          "score": 92
-        },
-        {
-          "keyword": "東京スカイツリー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-22T03:13:41.498Z",
       "geo": "JP",
       "source": "google",
@@ -7753,6 +7706,53 @@
         },
         {
           "keyword": "みずほ銀行",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-26T02:52:09.123Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "トケマッチ",
+          "score": 100
+        },
+        {
+          "keyword": "パワーエックス",
+          "score": 99
+        },
+        {
+          "keyword": "高校バスケ ウインターカップ",
+          "score": 98
+        },
+        {
+          "keyword": "矢吹健太朗",
+          "score": 97
+        },
+        {
+          "keyword": "バスケットlive",
+          "score": 96
+        },
+        {
+          "keyword": "大阪メトロ",
+          "score": 95
+        },
+        {
+          "keyword": "村松健太",
+          "score": 94
+        },
+        {
+          "keyword": "平和島競艇",
+          "score": 93
+        },
+        {
+          "keyword": "大戸屋",
+          "score": 92
+        },
+        {
+          "keyword": "三井住友",
           "score": 91
         }
       ]
