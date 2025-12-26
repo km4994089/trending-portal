@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-22T08:50:13.791Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "岩田絵里奈",
-          "score": 100
-        },
-        {
-          "keyword": "カウントダウン",
-          "score": 99
-        },
-        {
-          "keyword": "八丈島",
-          "score": 98
-        },
-        {
-          "keyword": "アイリスオーヤマ",
-          "score": 97
-        },
-        {
-          "keyword": "山崎ハイボール缶",
-          "score": 96
-        },
-        {
-          "keyword": "競輪結果",
-          "score": 95
-        },
-        {
-          "keyword": "オールスター合唱バトル",
-          "score": 94
-        },
-        {
-          "keyword": "文春",
-          "score": 93
-        },
-        {
-          "keyword": "vta",
-          "score": 92
-        },
-        {
-          "keyword": "略式起訴",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-22T09:19:11.573Z",
       "geo": "JP",
       "source": "google",
@@ -7800,6 +7753,53 @@
         },
         {
           "keyword": "ミャンマー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-26T09:14:21.806Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "三島",
+          "score": 100
+        },
+        {
+          "keyword": "ダイス",
+          "score": 99
+        },
+        {
+          "keyword": "緑黄色社会",
+          "score": 98
+        },
+        {
+          "keyword": "ビーファースト",
+          "score": 97
+        },
+        {
+          "keyword": "すき焼き",
+          "score": 96
+        },
+        {
+          "keyword": "number_i",
+          "score": 95
+        },
+        {
+          "keyword": "阿南健人検事",
+          "score": 94
+        },
+        {
+          "keyword": "jo1",
+          "score": 93
+        },
+        {
+          "keyword": "ニューイヤー駅伝",
+          "score": 92
+        },
+        {
+          "keyword": "三山ひろし",
           "score": 91
         }
       ]

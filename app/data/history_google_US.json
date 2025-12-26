@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-22T08:50:11.475Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "emma watson",
-          "score": 100
-        },
-        {
-          "keyword": "the walking dead",
-          "score": 99
-        },
-        {
-          "keyword": "silent hill",
-          "score": 98
-        },
-        {
-          "keyword": "philippines",
-          "score": 97
-        },
-        {
-          "keyword": "prison break",
-          "score": 96
-        },
-        {
-          "keyword": "salma hayek",
-          "score": 95
-        },
-        {
-          "keyword": "dubai",
-          "score": 94
-        },
-        {
-          "keyword": "tom hardy",
-          "score": 93
-        },
-        {
-          "keyword": "sofia vergara",
-          "score": 92
-        },
-        {
-          "keyword": "las vegas weather",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-22T09:19:09.120Z",
       "geo": "US",
       "source": "google",
@@ -7800,6 +7753,53 @@
         },
         {
           "keyword": "wolves",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-26T09:14:18.954Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nbl",
+          "score": 100
+        },
+        {
+          "keyword": "india",
+          "score": 99
+        },
+        {
+          "keyword": "car accident attorney",
+          "score": 98
+        },
+        {
+          "keyword": "avatar frontiers of pandora",
+          "score": 97
+        },
+        {
+          "keyword": "tasmania jackjumpers",
+          "score": 96
+        },
+        {
+          "keyword": "thunderbolts",
+          "score": 95
+        },
+        {
+          "keyword": "arizona",
+          "score": 94
+        },
+        {
+          "keyword": "el chapo",
+          "score": 93
+        },
+        {
+          "keyword": "e502 l3",
+          "score": 92
+        },
+        {
+          "keyword": "true detective",
           "score": 91
         }
       ]
