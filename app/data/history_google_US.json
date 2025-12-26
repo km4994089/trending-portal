@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-22T09:19:09.120Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "transunion",
-          "score": 100
-        },
-        {
-          "keyword": "rockstar",
-          "score": 99
-        },
-        {
-          "keyword": "invincible",
-          "score": 98
-        },
-        {
-          "keyword": "brisbane bullets",
-          "score": 97
-        },
-        {
-          "keyword": "alexander skarsgård",
-          "score": 96
-        },
-        {
-          "keyword": "donovan metayer",
-          "score": 95
-        },
-        {
-          "keyword": "emma watson",
-          "score": 94
-        },
-        {
-          "keyword": "silent hill",
-          "score": 93
-        },
-        {
-          "keyword": "philippines",
-          "score": 92
-        },
-        {
-          "keyword": "prison break",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-22T09:47:06.550Z",
       "geo": "US",
       "source": "google",
@@ -7800,6 +7753,53 @@
         },
         {
           "keyword": "true detective",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-26T09:41:19.344Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nbl",
+          "score": 100
+        },
+        {
+          "keyword": "india",
+          "score": 99
+        },
+        {
+          "keyword": "car accident attorney",
+          "score": 98
+        },
+        {
+          "keyword": "avatar frontiers of pandora",
+          "score": 97
+        },
+        {
+          "keyword": "tasmania jackjumpers",
+          "score": 96
+        },
+        {
+          "keyword": "new zealand breakers",
+          "score": 95
+        },
+        {
+          "keyword": "thunderbolts",
+          "score": 94
+        },
+        {
+          "keyword": "arizona",
+          "score": 93
+        },
+        {
+          "keyword": "el chapo",
+          "score": 92
+        },
+        {
+          "keyword": "e502 l3",
           "score": 91
         }
       ]

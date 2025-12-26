@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-22T09:19:11.573Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ワンオク",
-          "score": 100
-        },
-        {
-          "keyword": "mei",
-          "score": 99
-        },
-        {
-          "keyword": "横浜 火事",
-          "score": 98
-        },
-        {
-          "keyword": "nhk出版",
-          "score": 97
-        },
-        {
-          "keyword": "大阪城ホール",
-          "score": 96
-        },
-        {
-          "keyword": "3coins タブレット",
-          "score": 95
-        },
-        {
-          "keyword": "週刊文春",
-          "score": 94
-        },
-        {
-          "keyword": "近鉄電車",
-          "score": 93
-        },
-        {
-          "keyword": "岩田絵里奈",
-          "score": 92
-        },
-        {
-          "keyword": "カウントダウン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-22T09:47:09.405Z",
       "geo": "JP",
       "source": "google",
@@ -7800,6 +7753,53 @@
         },
         {
           "keyword": "三山ひろし",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-26T09:41:21.675Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ai",
+          "score": 100
+        },
+        {
+          "keyword": "つくばエクスプレス",
+          "score": 99
+        },
+        {
+          "keyword": "ぼる塾",
+          "score": 98
+        },
+        {
+          "keyword": "槇原敬之",
+          "score": 97
+        },
+        {
+          "keyword": "rizin 大晦日",
+          "score": 96
+        },
+        {
+          "keyword": "ホンダ・ステップワゴン",
+          "score": 95
+        },
+        {
+          "keyword": "狩野英孝",
+          "score": 94
+        },
+        {
+          "keyword": "菊池修司",
+          "score": 93
+        },
+        {
+          "keyword": "ドーミーイン",
+          "score": 92
+        },
+        {
+          "keyword": "横浜ゴム",
           "score": 91
         }
       ]
