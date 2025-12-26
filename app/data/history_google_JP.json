@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-22T19:11:28.171Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "終末ツーリング",
-          "score": 100
-        },
-        {
-          "keyword": "天気天気",
-          "score": 99
-        },
-        {
-          "keyword": "ラストマン",
-          "score": 98
-        },
-        {
-          "keyword": "paradise killer",
-          "score": 97
-        },
-        {
-          "keyword": "快手",
-          "score": 96
-        },
-        {
-          "keyword": "グラブル ベルゼバブ",
-          "score": 95
-        },
-        {
-          "keyword": "田中聡",
-          "score": 94
-        },
-        {
-          "keyword": "ゴールデンカムイ",
-          "score": 93
-        },
-        {
-          "keyword": "三浦翔平",
-          "score": 92
-        },
-        {
-          "keyword": "時刻",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-22T19:34:32.498Z",
       "geo": "JP",
       "source": "google",
@@ -7847,6 +7800,53 @@
         },
         {
           "keyword": "チャンピオンシップ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-26T19:33:23.116Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "なか卯",
+          "score": 100
+        },
+        {
+          "keyword": "今田美桜",
+          "score": 99
+        },
+        {
+          "keyword": "高山一実",
+          "score": 98
+        },
+        {
+          "keyword": "進撃の巨人",
+          "score": 97
+        },
+        {
+          "keyword": "コメダ",
+          "score": 96
+        },
+        {
+          "keyword": "netkeiba",
+          "score": 95
+        },
+        {
+          "keyword": "apple",
+          "score": 94
+        },
+        {
+          "keyword": "奈緒",
+          "score": 93
+        },
+        {
+          "keyword": "チャンピオンシップ",
+          "score": 92
+        },
+        {
+          "keyword": "ドクターストーン",
           "score": 91
         }
       ]
