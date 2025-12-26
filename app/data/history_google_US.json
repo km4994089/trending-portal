@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-22T14:13:03.096Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "the atlantic 10",
-          "score": 100
-        },
-        {
-          "keyword": "conduent",
-          "score": 99
-        },
-        {
-          "keyword": "idris elba",
-          "score": 98
-        },
-        {
-          "keyword": "gerry cardinale",
-          "score": 97
-        },
-        {
-          "keyword": "i heart radio",
-          "score": 96
-        },
-        {
-          "keyword": "mali vs zambia",
-          "score": 95
-        },
-        {
-          "keyword": "larry ellison",
-          "score": 94
-        },
-        {
-          "keyword": "dollywood",
-          "score": 93
-        },
-        {
-          "keyword": "goldie hawn",
-          "score": 92
-        },
-        {
-          "keyword": "rklb",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-22T14:42:58.269Z",
       "geo": "US",
       "source": "google",
@@ -7847,6 +7800,53 @@
         },
         {
           "keyword": "baltimore weather",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-26T14:41:53.733Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "barnes and noble",
+          "score": 100
+        },
+        {
+          "keyword": "somaliland",
+          "score": 99
+        },
+        {
+          "keyword": "oxford utd vs southampton",
+          "score": 98
+        },
+        {
+          "keyword": "tre wisner",
+          "score": 97
+        },
+        {
+          "keyword": "ryan reynolds",
+          "score": 96
+        },
+        {
+          "keyword": "leicester city vs watford",
+          "score": 95
+        },
+        {
+          "keyword": "groq stock",
+          "score": 94
+        },
+        {
+          "keyword": "social security",
+          "score": 93
+        },
+        {
+          "keyword": "kelly ripa",
+          "score": 92
+        },
+        {
+          "keyword": "allegiant",
           "score": 91
         }
       ]
