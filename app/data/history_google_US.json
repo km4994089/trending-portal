@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-22T13:49:45.376Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "idris elba",
-          "score": 100
-        },
-        {
-          "keyword": "old national bank",
-          "score": 99
-        },
-        {
-          "keyword": "i heart radio",
-          "score": 98
-        },
-        {
-          "keyword": "mali vs zambia",
-          "score": 97
-        },
-        {
-          "keyword": "larry ellison",
-          "score": 96
-        },
-        {
-          "keyword": "dollywood",
-          "score": 95
-        },
-        {
-          "keyword": "goldie hawn",
-          "score": 94
-        },
-        {
-          "keyword": "qbts stock",
-          "score": 93
-        },
-        {
-          "keyword": "boston globe",
-          "score": 92
-        },
-        {
-          "keyword": "crwv stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-22T14:13:03.096Z",
       "geo": "US",
       "source": "google",
@@ -7847,6 +7800,53 @@
         },
         {
           "keyword": "bowl games today",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-26T14:12:15.881Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "walt disney world",
+          "score": 100
+        },
+        {
+          "keyword": "american airlines",
+          "score": 99
+        },
+        {
+          "keyword": "sri lanka women vs india women",
+          "score": 98
+        },
+        {
+          "keyword": "united airlines",
+          "score": 97
+        },
+        {
+          "keyword": "mclaren",
+          "score": 96
+        },
+        {
+          "keyword": "efl championship",
+          "score": 95
+        },
+        {
+          "keyword": "british airways",
+          "score": 94
+        },
+        {
+          "keyword": "championship",
+          "score": 93
+        },
+        {
+          "keyword": "zilwaukee bridge",
+          "score": 92
+        },
+        {
+          "keyword": "baltimore weather",
           "score": 91
         }
       ]

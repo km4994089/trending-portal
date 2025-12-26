@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-22T13:49:47.828Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "日本エコロジー",
-          "score": 100
-        },
-        {
-          "keyword": "坂ノ上茜",
-          "score": 99
-        },
-        {
-          "keyword": "エプスタイン文書",
-          "score": 98
-        },
-        {
-          "keyword": "伊達みきお",
-          "score": 97
-        },
-        {
-          "keyword": "皇居",
-          "score": 96
-        },
-        {
-          "keyword": "よしき",
-          "score": 95
-        },
-        {
-          "keyword": "向井康二",
-          "score": 94
-        },
-        {
-          "keyword": "クレイジージャーニー",
-          "score": 93
-        },
-        {
-          "keyword": "三島由紀夫",
-          "score": 92
-        },
-        {
-          "keyword": "窪塚洋介",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-22T14:13:05.655Z",
       "geo": "JP",
       "source": "google",
@@ -7847,6 +7800,53 @@
         },
         {
           "keyword": "川口春奈",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-26T14:12:18.150Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "glay",
+          "score": 100
+        },
+        {
+          "keyword": "ガクト",
+          "score": 99
+        },
+        {
+          "keyword": "足立梨花",
+          "score": 98
+        },
+        {
+          "keyword": "今日の月",
+          "score": 97
+        },
+        {
+          "keyword": "米倉涼子",
+          "score": 96
+        },
+        {
+          "keyword": "仲代達矢",
+          "score": 95
+        },
+        {
+          "keyword": "ラストマン 映画",
+          "score": 94
+        },
+        {
+          "keyword": "松田聖子",
+          "score": 93
+        },
+        {
+          "keyword": "vaundy",
+          "score": 92
+        },
+        {
+          "keyword": "釜本邦茂",
           "score": 91
         }
       ]
