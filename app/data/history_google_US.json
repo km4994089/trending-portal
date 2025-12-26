@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-22T07:41:34.788Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tom hardy",
-          "score": 100
-        },
-        {
-          "keyword": "sofia vergara",
-          "score": 99
-        },
-        {
-          "keyword": "las vegas weather",
-          "score": 98
-        },
-        {
-          "keyword": "car accident lawyers",
-          "score": 97
-        },
-        {
-          "keyword": "latto",
-          "score": 96
-        },
-        {
-          "keyword": "car accident attorney",
-          "score": 95
-        },
-        {
-          "keyword": "benicio del toro",
-          "score": 94
-        },
-        {
-          "keyword": "whale",
-          "score": 93
-        },
-        {
-          "keyword": "charlie sheen",
-          "score": 92
-        },
-        {
-          "keyword": "daniel radcliffe",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-22T08:18:59.198Z",
       "geo": "US",
       "source": "google",
@@ -7800,6 +7753,53 @@
         },
         {
           "keyword": "peyton watson",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-26T08:17:13.789Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tasmania jackjumpers",
+          "score": 100
+        },
+        {
+          "keyword": "arizona",
+          "score": 99
+        },
+        {
+          "keyword": "el chapo",
+          "score": 98
+        },
+        {
+          "keyword": "e502 l3",
+          "score": 97
+        },
+        {
+          "keyword": "true detective",
+          "score": 96
+        },
+        {
+          "keyword": "ryan wedding raids",
+          "score": 95
+        },
+        {
+          "keyword": "jaden mcdaniels",
+          "score": 94
+        },
+        {
+          "keyword": "jake bongiovi",
+          "score": 93
+        },
+        {
+          "keyword": "wolves",
+          "score": 92
+        },
+        {
+          "keyword": "seth meyers",
           "score": 91
         }
       ]
