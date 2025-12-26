@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-22T06:20:37.958Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "benicio del toro",
-          "score": 100
-        },
-        {
-          "keyword": "charlie sheen",
-          "score": 99
-        },
-        {
-          "keyword": "harry potter movies",
-          "score": 98
-        },
-        {
-          "keyword": "daniel radcliffe",
-          "score": 97
-        },
-        {
-          "keyword": "christopher nolan",
-          "score": 96
-        },
-        {
-          "keyword": "heated rivalry cast",
-          "score": 95
-        },
-        {
-          "keyword": "dennis schroder",
-          "score": 94
-        },
-        {
-          "keyword": "weather los angeles",
-          "score": 93
-        },
-        {
-          "keyword": "malik monk",
-          "score": 92
-        },
-        {
-          "keyword": "dune",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-22T06:54:47.282Z",
       "geo": "US",
       "source": "google",
@@ -7800,6 +7753,53 @@
         },
         {
           "keyword": "spencer jones",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-26T06:52:32.363Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ryan wedding raids",
+          "score": 100
+        },
+        {
+          "keyword": "timberwolves score",
+          "score": 99
+        },
+        {
+          "keyword": "jaden mcdaniels",
+          "score": 98
+        },
+        {
+          "keyword": "jake bongiovi",
+          "score": 97
+        },
+        {
+          "keyword": "wolves",
+          "score": 96
+        },
+        {
+          "keyword": "seth meyers",
+          "score": 95
+        },
+        {
+          "keyword": "baldur's gate 3",
+          "score": 94
+        },
+        {
+          "keyword": "peyton watson",
+          "score": 93
+        },
+        {
+          "keyword": "laufey",
+          "score": 92
+        },
+        {
+          "keyword": "heated rivalry",
           "score": 91
         }
       ]
