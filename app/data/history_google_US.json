@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-22T05:44:36.977Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "harry potter movies",
-          "score": 100
-        },
-        {
-          "keyword": "heated rivalry cast",
-          "score": 99
-        },
-        {
-          "keyword": "charlie sheen",
-          "score": 98
-        },
-        {
-          "keyword": "christopher nolan",
-          "score": 97
-        },
-        {
-          "keyword": "daniel radcliffe",
-          "score": 96
-        },
-        {
-          "keyword": "dune",
-          "score": 95
-        },
-        {
-          "keyword": "malik monk",
-          "score": 94
-        },
-        {
-          "keyword": "nfl stats",
-          "score": 93
-        },
-        {
-          "keyword": "george kittle",
-          "score": 92
-        },
-        {
-          "keyword": "steam down",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-22T06:20:37.958Z",
       "geo": "US",
       "source": "google",
@@ -7800,6 +7753,53 @@
         },
         {
           "keyword": "mike conley",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-26T06:19:29.782Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "wolves",
+          "score": 100
+        },
+        {
+          "keyword": "seth meyers",
+          "score": 99
+        },
+        {
+          "keyword": "baldur's gate 3",
+          "score": 98
+        },
+        {
+          "keyword": "laufey",
+          "score": 97
+        },
+        {
+          "keyword": "peyton watson",
+          "score": 96
+        },
+        {
+          "keyword": "hbomax",
+          "score": 95
+        },
+        {
+          "keyword": "julius randle",
+          "score": 94
+        },
+        {
+          "keyword": "내일 날씨",
+          "score": 93
+        },
+        {
+          "keyword": "kourtney kardashian",
+          "score": 92
+        },
+        {
+          "keyword": "spencer jones",
           "score": 91
         }
       ]
