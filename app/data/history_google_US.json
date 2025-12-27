@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-23T11:11:31.443Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "wfsb weather",
-          "score": 100
-        },
-        {
-          "keyword": "hoosier lottery",
-          "score": 99
-        },
-        {
-          "keyword": "power",
-          "score": 98
-        },
-        {
-          "keyword": "nc powerball",
-          "score": 97
-        },
-        {
-          "keyword": "nj school closings",
-          "score": 96
-        },
-        {
-          "keyword": "mass lottery",
-          "score": 95
-        },
-        {
-          "keyword": "wgal",
-          "score": 94
-        },
-        {
-          "keyword": "powerball",
-          "score": 93
-        },
-        {
-          "keyword": "ct lottery",
-          "score": 92
-        },
-        {
-          "keyword": "tn lottery",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-23T11:37:42.549Z",
       "geo": "US",
       "source": "google",
@@ -7894,6 +7847,53 @@
         },
         {
           "keyword": "newark airport",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-27T11:34:08.469Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "uconn football",
+          "score": 100
+        },
+        {
+          "keyword": "east carolina football",
+          "score": 99
+        },
+        {
+          "keyword": "parma vs fiorentina",
+          "score": 98
+        },
+        {
+          "keyword": "nfl schedule this week",
+          "score": 97
+        },
+        {
+          "keyword": "snow totals nj",
+          "score": 96
+        },
+        {
+          "keyword": "mta",
+          "score": 95
+        },
+        {
+          "keyword": "jenna ortega",
+          "score": 94
+        },
+        {
+          "keyword": "elon musk",
+          "score": 93
+        },
+        {
+          "keyword": "flu symptoms",
+          "score": 92
+        },
+        {
+          "keyword": "the copenhagen test",
           "score": 91
         }
       ]
