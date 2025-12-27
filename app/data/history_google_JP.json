@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-23T04:32:26.113Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "松たか子",
-          "score": 100
-        },
-        {
-          "keyword": "松本幸四郎",
-          "score": 99
-        },
-        {
-          "keyword": "杢代和人",
-          "score": 98
-        },
-        {
-          "keyword": "本田真凜",
-          "score": 97
-        },
-        {
-          "keyword": "クオカード",
-          "score": 96
-        },
-        {
-          "keyword": "ドジャース",
-          "score": 95
-        },
-        {
-          "keyword": "児島競艇",
-          "score": 94
-        },
-        {
-          "keyword": "水戸 事故",
-          "score": 93
-        },
-        {
-          "keyword": "浦和競馬",
-          "score": 92
-        },
-        {
-          "keyword": "松本山雅",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-23T05:16:49.281Z",
       "geo": "JP",
       "source": "google",
@@ -7847,6 +7800,53 @@
         },
         {
           "keyword": "ダルビッシュ有",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-27T04:49:47.836Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ベルギー",
+          "score": 100
+        },
+        {
+          "keyword": "清野菜名",
+          "score": 99
+        },
+        {
+          "keyword": "ヴァンドーム青山 馬",
+          "score": 98
+        },
+        {
+          "keyword": "山田寛人",
+          "score": 97
+        },
+        {
+          "keyword": "長崎ヴェルカ",
+          "score": 96
+        },
+        {
+          "keyword": "しゃるる杯",
+          "score": 95
+        },
+        {
+          "keyword": "白鵬",
+          "score": 94
+        },
+        {
+          "keyword": "日中友好議員連盟",
+          "score": 93
+        },
+        {
+          "keyword": "有吉弘行",
+          "score": 92
+        },
+        {
+          "keyword": "九州産交バス",
           "score": 91
         }
       ]
