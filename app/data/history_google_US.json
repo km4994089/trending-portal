@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-23T10:45:42.451Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "powerball",
-          "score": 100
-        },
-        {
-          "keyword": "ct lottery",
-          "score": 99
-        },
-        {
-          "keyword": "nh lottery",
-          "score": 98
-        },
-        {
-          "keyword": "tn lottery",
-          "score": 97
-        },
-        {
-          "keyword": "fl lottery",
-          "score": 96
-        },
-        {
-          "keyword": "flood damage restoration",
-          "score": 95
-        },
-        {
-          "keyword": "wfsb closings",
-          "score": 94
-        },
-        {
-          "keyword": "halle berry",
-          "score": 93
-        },
-        {
-          "keyword": "md lottery",
-          "score": 92
-        },
-        {
-          "keyword": "online lottery",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-23T11:11:31.443Z",
       "geo": "US",
       "source": "google",
@@ -7894,6 +7847,53 @@
         },
         {
           "keyword": "joe rogan",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-27T11:09:50.222Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "snow totals nj",
+          "score": 100
+        },
+        {
+          "keyword": "mta",
+          "score": 99
+        },
+        {
+          "keyword": "elon musk",
+          "score": 98
+        },
+        {
+          "keyword": "jenna ortega",
+          "score": 97
+        },
+        {
+          "keyword": "jfk airport",
+          "score": 96
+        },
+        {
+          "keyword": "the copenhagen test",
+          "score": 95
+        },
+        {
+          "keyword": "pitt football",
+          "score": 94
+        },
+        {
+          "keyword": "delta flight status",
+          "score": 93
+        },
+        {
+          "keyword": "bed bugs",
+          "score": 92
+        },
+        {
+          "keyword": "newark airport",
           "score": 91
         }
       ]
