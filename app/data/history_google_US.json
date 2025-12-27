@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-23T05:16:46.888Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "linklater",
-          "score": 100
-        },
-        {
-          "keyword": "paolo banchero",
-          "score": 99
-        },
-        {
-          "keyword": "brandin podziemski",
-          "score": 98
-        },
-        {
-          "keyword": "dune",
-          "score": 97
-        },
-        {
-          "keyword": "playoff picture",
-          "score": 96
-        },
-        {
-          "keyword": "interstellar",
-          "score": 95
-        },
-        {
-          "keyword": "pick 3",
-          "score": 94
-        },
-        {
-          "keyword": "az lottery",
-          "score": 93
-        },
-        {
-          "keyword": "millie bobby brown",
-          "score": 92
-        },
-        {
-          "keyword": "jaren jackson jr",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-23T05:44:53.516Z",
       "geo": "US",
       "source": "google",
@@ -7894,6 +7847,53 @@
         },
         {
           "keyword": "daniel radcliffe",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-27T05:42:45.747Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sam altman",
+          "score": 100
+        },
+        {
+          "keyword": "ubisoft",
+          "score": 99
+        },
+        {
+          "keyword": "tom holland",
+          "score": 98
+        },
+        {
+          "keyword": "dacre montgomery",
+          "score": 97
+        },
+        {
+          "keyword": "faze banks",
+          "score": 96
+        },
+        {
+          "keyword": "keyonte george",
+          "score": 95
+        },
+        {
+          "keyword": "laura dern",
+          "score": 94
+        },
+        {
+          "keyword": "cade cunningham",
+          "score": 93
+        },
+        {
+          "keyword": "harrison ford",
+          "score": 92
+        },
+        {
+          "keyword": "clavicular streamer",
           "score": 91
         }
       ]
