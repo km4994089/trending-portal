@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-23T03:56:05.542Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ぽかぽか ゲスト",
-          "score": 100
-        },
-        {
-          "keyword": "西東京市 事件",
-          "score": 99
-        },
-        {
-          "keyword": "オーケー",
-          "score": 98
-        },
-        {
-          "keyword": "本田望結",
-          "score": 97
-        },
-        {
-          "keyword": "ツートライブ",
-          "score": 96
-        },
-        {
-          "keyword": "花澤香菜",
-          "score": 95
-        },
-        {
-          "keyword": "船越英一郎",
-          "score": 94
-        },
-        {
-          "keyword": "マックメニュー",
-          "score": 93
-        },
-        {
-          "keyword": "ウルフアロン",
-          "score": 92
-        },
-        {
-          "keyword": "名古屋大学",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-23T04:32:26.113Z",
       "geo": "JP",
       "source": "google",
@@ -7847,6 +7800,53 @@
         },
         {
           "keyword": "ホテルニューオータニ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-27T04:24:53.454Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "あだち充",
+          "score": 100
+        },
+        {
+          "keyword": "越谷アルファーズ",
+          "score": 99
+        },
+        {
+          "keyword": "京都精華 バスケ",
+          "score": 98
+        },
+        {
+          "keyword": "サガン鳥栖",
+          "score": 97
+        },
+        {
+          "keyword": "湘南ベルマーレ",
+          "score": 96
+        },
+        {
+          "keyword": "イワクラ",
+          "score": 95
+        },
+        {
+          "keyword": "スマッピー",
+          "score": 94
+        },
+        {
+          "keyword": "ミスド福袋",
+          "score": 93
+        },
+        {
+          "keyword": "村上信五",
+          "score": 92
+        },
+        {
+          "keyword": "ダルビッシュ有",
           "score": 91
         }
       ]
