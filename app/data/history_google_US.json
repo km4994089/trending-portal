@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2025-12-23T16:15:33.950Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "matt weiss",
-          "score": 100
-        },
-        {
-          "keyword": "austin hays",
-          "score": 99
-        },
-        {
-          "keyword": "andrew scott",
-          "score": 98
-        },
-        {
-          "keyword": "curacao",
-          "score": 97
-        },
-        {
-          "keyword": "ben sasse",
-          "score": 96
-        },
-        {
-          "keyword": "pro bowl voting results",
-          "score": 95
-        },
-        {
-          "keyword": "zoo miami",
-          "score": 94
-        },
-        {
-          "keyword": "pro bowl 2026",
-          "score": 93
-        },
-        {
-          "keyword": "tsla stock price",
-          "score": 92
-        },
-        {
-          "keyword": "asts stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2025-12-23T16:49:10.380Z",
       "geo": "US",
       "source": "google",
@@ -7847,6 +7800,53 @@
         },
         {
           "keyword": "pittsburgh vs east carolina",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2025-12-27T16:44:39.348Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "harry styles",
+          "score": 100
+        },
+        {
+          "keyword": "udinese vs lazio",
+          "score": 99
+        },
+        {
+          "keyword": "udinese - lazio",
+          "score": 98
+        },
+        {
+          "keyword": "east carolina university",
+          "score": 97
+        },
+        {
+          "keyword": "cristiano ronaldo",
+          "score": 96
+        },
+        {
+          "keyword": "phoenix weather",
+          "score": 95
+        },
+        {
+          "keyword": "ellen degeneres",
+          "score": 94
+        },
+        {
+          "keyword": "florian wirtz",
+          "score": 93
+        },
+        {
+          "keyword": "jj bleday",
+          "score": 92
+        },
+        {
+          "keyword": "declan rice",
           "score": 91
         }
       ]
