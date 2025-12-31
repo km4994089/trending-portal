@@ -96,6 +96,7 @@ function generateHtml(keyword, items, source, geo, context) {
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="${BASE_URL}/keyword/${slugify(keyword)}">
   <link rel="stylesheet" href="../styles.css">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3001374501263469" crossorigin="anonymous"></script>
 </head>
 <body>
   <div class="topbar">
@@ -383,6 +384,7 @@ function generateReportHtml(data) {
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Trend Insights - Trending Pulse</title>
   <link rel="stylesheet" href="../styles.css">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3001374501263469" crossorigin="anonymous"></script>
   <style>
     /* Modal Styles */
     dialog {
