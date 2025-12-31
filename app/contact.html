@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>문의 | Trending Pulse</title>
+  <meta name="description" content="Trending Pulse 문의 페이지. 이메일 주소를 공개하지 않고 문의를 전송할 수 있습니다." />
+  <link rel="canonical" href="https://trending-portal.pages.dev/contact.html" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <h1><a href="./">실시간 급상승 검색어 | Trending Pulse</a></h1>
+      <p class="subtitle">Auto-updating Google & YouTube rising queries (US / KR / JP)</p>
+    </div>
+  </header>
+
+  <main class="page contact-page">
+    <h1>문의</h1>
+    <p class="contact-intro">
+      이메일 주소는 공개되지 않으며, 입력한 내용만 운영자에게 전달됩니다.
+    </p>
+
+    <section class="contact-grid">
+      <div class="contact-card">
+        <div class="contact-icon">💡</div>
+        <h2>개선사항 요청</h2>
+        <p>기능 개선이나 신규 아이디어를 알려주세요.</p>
+      </div>
+      <div class="contact-card">
+        <div class="contact-icon">❓</div>
+        <h2>문의사항</h2>
+        <p>서비스 이용 관련 질문을 보내주세요.</p>
+      </div>
+      <div class="contact-card">
+        <div class="contact-icon">🐞</div>
+        <h2>오류 제보</h2>
+        <p>오류나 데이터 이상이 있다면 공유해주세요.</p>
+      </div>
+    </section>
+
+    <form id="contactForm" class="contact-form" action="https://formspree.io/f/maqyjzoj" method="POST">
+      <div class="form-row">
+        <label for="category">문의 유형</label>
+        <select id="category" name="category" class="form-input" required>
+          <option value="개선사항 요청">개선사항 요청</option>
+          <option value="문의사항">문의사항</option>
+          <option value="오류 제보">오류 제보</option>
+        </select>
+      </div>
+
+      <div class="form-row">
+        <label for="email">답변 받을 이메일 (선택)</label>
+        <input id="email" name="email" type="email" class="form-input" />
+        <small class="field-hint">답변을 원하실 때만 이메일을 남겨주세요.</small>
+      </div>
+
+      <div class="form-row">
+        <label for="message">메시지</label>
+        <textarea id="message" name="message" class="form-input" rows="6" maxlength="2000" required></textarea>
+      </div>
+
+      <input type="text" name="website" class="honeypot" tabindex="-1" autocomplete="off" />
+
+      <div class="form-actions">
+        <button type="submit" class="btn-primary">보내기</button>
+        <span id="formStatus" class="form-status" role="status"></span>
+      </div>
+    </form>
+  </main>
+
+  <footer class="footer">
+    <span><a href="./">홈으로</a></span>
+  </footer>
+
+  <script>
+    const form = document.getElementById('contactForm');
+    const statusEl = document.getElementById('formStatus');
+    const submitBtn = form.querySelector('button[type="submit"]');
+
+    form.addEventListener('submit', async (event) => {
+      event.preventDefault();
+      statusEl.textContent = '';
+      submitBtn.disabled = true;
+      submitBtn.textContent = '전송 중...';
+
+      const formData = new FormData(form);
+
+      try {
+        const res = await fetch(form.action, {
+          method: 'POST',
+          headers: { Accept: 'application/json' },
+          body: formData,
+        });
+        if (!res.ok) {
+          throw new Error('전송에 실패했습니다.');
+        }
+        form.reset();
+        statusEl.textContent = '전송 완료! 확인 후 답변드릴게요.';
+      } catch (err) {
+        statusEl.textContent = err.message || '전송에 실패했습니다.';
+      } finally {
+        submitBtn.disabled = false;
+        submitBtn.textContent = '보내기';
+      }
+    });
+  </script>
+</body>
+</html>

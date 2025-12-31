@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trend Insights - Trending Pulse</title>
+  <link rel="stylesheet" href="../styles.css">
+  <style>
+    /* Modal Styles */
+    dialog {
+      border: none;
+      border-radius: 12px;
+      box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+      padding: 0;
+      max-width: 400px;
+      width: 90%;
+      background: white;
+    }
+    dialog::backdrop {
+      background: rgba(0, 0, 0, 0.5);
+      backdrop-filter: blur(2px);
+    }
+    .modal-content {
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+    .modal-title {
+      font-size: 1.25rem;
+      font-weight: 800;
+      margin-bottom: 8px;
+      color: var(--text);
+    }
+    .modal-desc {
+      color: var(--muted);
+      margin-bottom: 24px;
+      line-height: 1.5;
+    }
+    .modal-actions {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      width: 100%;
+    }
+    .btn-search {
+      background: var(--accent);
+      color: white;
+      padding: 12px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 600;
+      transition: background 0.2s;
+    }
+    .btn-search:hover {
+      background: var(--accent-hover);
+    }
+    .btn-close {
+      background: white;
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 12px;
+      border-radius: 8px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    .btn-close:hover {
+      background: #f9fafb;
+    }
+  </style>
+</head>
+<body>
+  <div class="topbar">
+    <div class="topbar-content">
+      <div class="brand">
+        <a href="../" style="text-decoration:none; color:inherit;"><h1>Trending Pulse</h1></a>
+      </div>
+      <div class="controls">
+        <span class="subtitle">Data Analysis Report</span>
+      </div>
+    </div>
+  </div>
+
+  <main class="layout">
+    
+      <div style="grid-column: 1 / -1; margin-top: 20px; margin-bottom: 10px;">
+        <h2 style="font-size:1.5rem; font-weight:800; color:var(--text); padding-left: 4px;">🌏 KR Insights</h2>
+      </div>
+    
+        <div class="panel">
+          <div class="panel-header">
+            <div class="panel-title">Google Analysis</div>
+          </div>
+          
+          <div style="padding:0;">
+            <div style="padding: 16px 20px; background:#f9fafb; border-bottom:1px solid var(--border); font-weight:600; font-size:0.9rem; color:var(--muted); display:flex; gap:8px; align-items:center;">
+              <span>🏆</span> Most #1 (Last 24h)
+            </div>
+            <ul class="list-container">
+              <li class="item-row" style="color:var(--muted); justify-content:center;">No data</li>
+            </ul>
+
+            <div style="padding: 16px 20px; background:#f9fafb; border-bottom:1px solid var(--border); border-top:1px solid var(--border); font-weight:600; font-size:0.9rem; color:var(--muted); display:flex; gap:8px; align-items:center;">
+              <span>🔥</span> Longest Trending (Last 72h)
+            </div>
+            <ul class="list-container">
+               <li class="item-row" style="color:var(--muted); justify-content:center;">No data</li>
+            </ul>
+          </div>
+        </div>
+      
+        <div class="panel">
+          <div class="panel-header">
+            <div class="panel-title">YouTube Analysis</div>
+          </div>
+          
+          <div style="padding:0;">
+            <div style="padding: 16px 20px; background:#f9fafb; border-bottom:1px solid var(--border); font-weight:600; font-size:0.9rem; color:var(--muted); display:flex; gap:8px; align-items:center;">
+              <span>🏆</span> Most #1 (Last 24h)
+            </div>
+            <ul class="list-container">
+              <li class="item-row" style="color:var(--muted); justify-content:center;">No data</li>
+            </ul>
+
+            <div style="padding: 16px 20px; background:#f9fafb; border-bottom:1px solid var(--border); border-top:1px solid var(--border); font-weight:600; font-size:0.9rem; color:var(--muted); display:flex; gap:8px; align-items:center;">
+              <span>🔥</span> Longest Trending (Last 72h)
+            </div>
+            <ul class="list-container">
+               <li class="item-row" style="color:var(--muted); justify-content:center;">No data</li>
+            </ul>
+          </div>
+        </div>
+      
+      <div style="grid-column: 1 / -1; margin-top: 20px; margin-bottom: 10px;">
+        <h2 style="font-size:1.5rem; font-weight:800; color:var(--text); padding-left: 4px;">🌏 US Insights</h2>
+      </div>
+    
+        <div class="panel">
+          <div class="panel-header">
+            <div class="panel-title">Google Analysis</div>
+          </div>
+          
+          <div style="padding:0;">
+            <div style="padding: 16px 20px; background:#f9fafb; border-bottom:1px solid var(--border); font-weight:600; font-size:0.9rem; color:var(--muted); display:flex; gap:8px; align-items:center;">
+              <span>🏆</span> Most #1 (Last 24h)
+            </div>
+            <ul class="list-container">
+              <li class="item-row" style="color:var(--muted); justify-content:center;">No data</li>
+            </ul>
+
+            <div style="padding: 16px 20px; background:#f9fafb; border-bottom:1px solid var(--border); border-top:1px solid var(--border); font-weight:600; font-size:0.9rem; color:var(--muted); display:flex; gap:8px; align-items:center;">
+              <span>🔥</span> Longest Trending (Last 72h)
+            </div>
+            <ul class="list-container">
+               <li class="item-row" style="color:var(--muted); justify-content:center;">No data</li>
+            </ul>
+          </div>
+        </div>
+      
+        <div class="panel">
+          <div class="panel-header">
+            <div class="panel-title">YouTube Analysis</div>
+          </div>
+          
+          <div style="padding:0;">
+            <div style="padding: 16px 20px; background:#f9fafb; border-bottom:1px solid var(--border); font-weight:600; font-size:0.9rem; color:var(--muted); display:flex; gap:8px; align-items:center;">
+              <span>🏆</span> Most #1 (Last 24h)
+            </div>
+            <ul class="list-container">
+              <li class="item-row" style="color:var(--muted); justify-content:center;">No data</li>
+            </ul>
+
+            <div style="padding: 16px 20px; background:#f9fafb; border-bottom:1px solid var(--border); border-top:1px solid var(--border); font-weight:600; font-size:0.9rem; color:var(--muted); display:flex; gap:8px; align-items:center;">
+              <span>🔥</span> Longest Trending (Last 72h)
+            </div>
+            <ul class="list-container">
+               <li class="item-row" style="color:var(--muted); justify-content:center;">No data</li>
+            </ul>
+          </div>
+        </div>
+      
+      <div style="grid-column: 1 / -1; margin-top: 20px; margin-bottom: 10px;">
+        <h2 style="font-size:1.5rem; font-weight:800; color:var(--text); padding-left: 4px;">🌏 JP Insights</h2>
+      </div>
+    
+        <div class="panel">
+          <div class="panel-header">
+            <div class="panel-title">Google Analysis</div>
+          </div>
+          
+          <div style="padding:0;">
+            <div style="padding: 16px 20px; background:#f9fafb; border-bottom:1px solid var(--border); font-weight:600; font-size:0.9rem; color:var(--muted); display:flex; gap:8px; align-items:center;">
+              <span>🏆</span> Most #1 (Last 24h)
+            </div>
+            <ul class="list-container">
+              <li class="item-row" style="color:var(--muted); justify-content:center;">No data</li>
+            </ul>
+
+            <div style="padding: 16px 20px; background:#f9fafb; border-bottom:1px solid var(--border); border-top:1px solid var(--border); font-weight:600; font-size:0.9rem; color:var(--muted); display:flex; gap:8px; align-items:center;">
+              <span>🔥</span> Longest Trending (Last 72h)
+            </div>
+            <ul class="list-container">
+               <li class="item-row" style="color:var(--muted); justify-content:center;">No data</li>
+            </ul>
+          </div>
+        </div>
+      
+        <div class="panel">
+          <div class="panel-header">
+            <div class="panel-title">YouTube Analysis</div>
+          </div>
+          
+          <div style="padding:0;">
+            <div style="padding: 16px 20px; background:#f9fafb; border-bottom:1px solid var(--border); font-weight:600; font-size:0.9rem; color:var(--muted); display:flex; gap:8px; align-items:center;">
+              <span>🏆</span> Most #1 (Last 24h)
+            </div>
+            <ul class="list-container">
+              <li class="item-row" style="color:var(--muted); justify-content:center;">No data</li>
+            </ul>
+
+            <div style="padding: 16px 20px; background:#f9fafb; border-bottom:1px solid var(--border); border-top:1px solid var(--border); font-weight:600; font-size:0.9rem; color:var(--muted); display:flex; gap:8px; align-items:center;">
+              <span>🔥</span> Longest Trending (Last 72h)
+            </div>
+            <ul class="list-container">
+               <li class="item-row" style="color:var(--muted); justify-content:center;">No data</li>
+            </ul>
+          </div>
+        </div>
+      
+  </main>
+  
+  <footer class="footer">
+    <a href="../" class="report-link">← Back to Dashboard</a>
+    <nav class="footer-links">
+      <a href="../about.html">About</a>
+      <a href="../terms.html">Terms</a>
+      <a href="../privacy.html">Privacy</a>
+      <a href="../contact.html">Contact</a>
+    </nav>
+  </footer>
+
+  <dialog id="infoModal">
+    <div class="modal-content">
+      <div class="modal-title" id="mKey"></div>
+      <div class="modal-desc" id="mDesc"></div>
+      <div class="modal-actions">
+        <a href="#" id="mSearch" target="_blank" class="btn-search">Search Now</a>
+        <button onclick="document.getElementById('infoModal').close()" class="btn-close">Close</button>
+      </div>
+    </div>
+  </dialog>
+
+  <script>
+    function openModal(keyword, count, type, source) {
+      document.getElementById('mKey').textContent = keyword;
+      document.getElementById('mDesc').innerHTML = 
+        type + '<br>Recorded <strong>' + count + '</strong> events';
+      
+      const searchUrl = source === 'YouTube' 
+        ? 'https://www.youtube.com/results?search_query=' 
+        : 'https://www.google.com/search?q=';
+      
+      const btn = document.getElementById('mSearch');
+      btn.href = searchUrl + encodeURIComponent(keyword);
+      btn.textContent = 'Search on ' + source;
+      
+      document.getElementById('infoModal').showModal();
+    }
+
+    // Close on backdrop click
+    const dialog = document.getElementById('infoModal');
+    dialog.addEventListener('click', (e) => {
+      if (e.target === dialog) dialog.close();
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+name: Fetch Trends (KR / US / JP)
+
+on:
+  schedule:
+    - cron: "0,30 * * * *"   # 매시 0분/30분 실행
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-trends
+  cancel-in-progress: true
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0      # rebase 위해 필수
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run trend fetcher
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: node scripts/run_all.mjs
+
+      - name: Commit and push data
+        run: |
+          # Check if there are any changes (data or generated pages)
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Add all changes including new HTML pages and sitemap
+          git add .
+          
+          git commit -m "chore: update trends and pages"
+          git pull --rebase origin main
+          git push origin main
