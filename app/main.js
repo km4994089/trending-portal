@@ -28,13 +28,13 @@ const KEYWORD_CATEGORIES = [
 
 let currentSource = 'google';
 let renderToken = 0;
-let newsMode = false;
+let newsMode = true;
 
 const elements = {
   sourceButtons: document.getElementById('sourceButtons'),
   panels: document.getElementById('panels'),
   lastUpdated: document.getElementById('lastUpdated'),
-  newsModeToggle: document.getElementById('newsModeToggle'),
+
 };
 
 function formatTimestamp(capturedAt) {
@@ -358,31 +358,11 @@ function startAutoRefresh() {
   setInterval(renderPanels, 180000);
 }
 
-function initNewsMode() {
-  if (!elements.newsModeToggle) return;
-  try {
-    const stored = localStorage.getItem('newsMode');
-    if (stored !== null) {
-      newsMode = stored === 'true';
-    }
-  } catch (err) {
-    newsMode = false;
-  }
-  elements.newsModeToggle.checked = newsMode;
-  elements.newsModeToggle.addEventListener('change', (event) => {
-    newsMode = event.target.checked;
-    try {
-      localStorage.setItem('newsMode', String(newsMode));
-    } catch (err) {
-      // Ignore storage failures (private mode, etc.).
-    }
-    renderPanels();
-  });
-}
+
 
 function init() {
   createSourceButtons();
-  initNewsMode();
+
   renderPanels();
   startAutoRefresh();
 }

@@ -13,7 +13,7 @@ const KEYWORD_DIR = path.resolve(__dirname, '../app/keyword');
 const APP_DIR = path.resolve(__dirname, '../app');
 
 // 30일이 지난 파일 삭제 (밀리초 단위)
-const MAX_AGE_MS = 30 * 24 * 60 * 60 * 1000;
+const MAX_AGE_MS = 5 * 24 * 60 * 60 * 1000;
 
 async function ensureDir(dir) {
   if (!fs.existsSync(dir)) {
