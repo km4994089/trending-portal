@@ -1,8 +1,12 @@
 {
-  "capturedAt": "2026-01-15T23:12:15.082Z",
+  "capturedAt": "2026-01-15T23:40:07.433Z",
   "geo": "KR",
   "source": "google",
   "items": [
+    {
+      "keyword": "엔비디아 주가",
+      "articles": []
+    },
     {
       "keyword": "김경",
       "articles": []
@@ -24,6 +28,10 @@
       "articles": []
     },
     {
+      "keyword": "나스닥 지수",
+      "articles": []
+    },
+    {
       "keyword": "아우크스부르크 대 우니온 베를린",
       "articles": []
     },
@@ -33,14 +41,6 @@
     },
     {
       "keyword": "grok",
-      "articles": []
-    },
-    {
-      "keyword": "유미",
-      "articles": []
-    },
-    {
-      "keyword": "채윤",
       "articles": []
     }
   ]
