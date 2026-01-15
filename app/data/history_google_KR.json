@@ -4748,6 +4748,53 @@
           "score": 91
         }
       ]
+    },
+    {
+      "capturedAt": "2026-01-15T08:51:25.544Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "test",
+          "score": 100
+        },
+        {
+          "keyword": "리아",
+          "score": 99
+        },
+        {
+          "keyword": "lg cns",
+          "score": 98
+        },
+        {
+          "keyword": "신민준",
+          "score": 97
+        },
+        {
+          "keyword": "tsmc 실적 발표",
+          "score": 96
+        },
+        {
+          "keyword": "아이온2",
+          "score": 95
+        },
+        {
+          "keyword": "국가대표 ai",
+          "score": 94
+        },
+        {
+          "keyword": "tsmc",
+          "score": 93
+        },
+        {
+          "keyword": "한국소방안전원",
+          "score": 92
+        },
+        {
+          "keyword": "한국수자원공사",
+          "score": 91
+        }
+      ]
     }
   ]
 }
