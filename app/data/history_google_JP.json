@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-12T22:40:59.631Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "花粉",
-          "score": 100
-        },
-        {
-          "keyword": "パリsg 対 パリfc",
-          "score": 99
-        },
-        {
-          "keyword": "frb",
-          "score": 98
-        },
-        {
-          "keyword": "再会 ドラマ",
-          "score": 97
-        },
-        {
-          "keyword": "岡崎 火事",
-          "score": 96
-        },
-        {
-          "keyword": "xabi alonso",
-          "score": 95
-        },
-        {
-          "keyword": "幾田りら 大学",
-          "score": 94
-        },
-        {
-          "keyword": "上坂樹里",
-          "score": 93
-        },
-        {
-          "keyword": "杉咲花",
-          "score": 92
-        },
-        {
-          "keyword": "岡山 天気",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-12T23:10:25.016Z",
       "geo": "JP",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "スポルティングcp 対 カーザ・ピア",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-16T22:42:56.808Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "日本武道館",
+          "score": 100
+        },
+        {
+          "keyword": "ハリーポッター 舞台",
+          "score": 99
+        },
+        {
+          "keyword": "梶裕貴",
+          "score": 98
+        },
+        {
+          "keyword": "ピサ 対 アタランタ",
+          "score": 97
+        },
+        {
+          "keyword": "アイフォン",
+          "score": 96
+        },
+        {
+          "keyword": "道渕諒平",
+          "score": 95
+        },
+        {
+          "keyword": "阪急電車",
+          "score": 94
+        },
+        {
+          "keyword": "国立劇場",
+          "score": 93
+        },
+        {
+          "keyword": "東京国立博物館",
+          "score": 92
+        },
+        {
+          "keyword": "山中拓磨容疑者",
           "score": 91
         }
       ]
