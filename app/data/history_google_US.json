@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-12T20:14:28.991Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "thora birch",
-          "score": 100
-        },
-        {
-          "keyword": "pga tour schedule",
-          "score": 99
-        },
-        {
-          "keyword": "conor gallagher",
-          "score": 98
-        },
-        {
-          "keyword": "stephen spencer pittman",
-          "score": 97
-        },
-        {
-          "keyword": "sevilla - celta de vigo",
-          "score": 96
-        },
-        {
-          "keyword": "trump phone",
-          "score": 95
-        },
-        {
-          "keyword": "sevilla vs celta vigo",
-          "score": 94
-        },
-        {
-          "keyword": "juventus - cremonese",
-          "score": 93
-        },
-        {
-          "keyword": "liverpool vs barnsley",
-          "score": 92
-        },
-        {
-          "keyword": "brooks koepka",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-12T20:43:50.172Z",
       "geo": "US",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "psg - losc",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-16T20:40:31.805Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "rachel ward",
+          "score": 100
+        },
+        {
+          "keyword": "frankfurt fc",
+          "score": 99
+        },
+        {
+          "keyword": "artemi panarin",
+          "score": 98
+        },
+        {
+          "keyword": "west brom vs middlesbrough",
+          "score": 97
+        },
+        {
+          "keyword": "khamzat chimaev",
+          "score": 96
+        },
+        {
+          "keyword": "real madrid - barça",
+          "score": 95
+        },
+        {
+          "keyword": "club brugge vs la louviere",
+          "score": 94
+        },
+        {
+          "keyword": "sporting vs casa pia",
+          "score": 93
+        },
+        {
+          "keyword": "zizians",
+          "score": 92
+        },
+        {
+          "keyword": "dro fernández",
           "score": 91
         }
       ]
