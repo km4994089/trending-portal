@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-12T19:38:36.362Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "trump phone",
-          "score": 100
-        },
-        {
-          "keyword": "sevilla - celta de vigo",
-          "score": 99
-        },
-        {
-          "keyword": "sevilla vs celta vigo",
-          "score": 98
-        },
-        {
-          "keyword": "juventus - cremonese",
-          "score": 97
-        },
-        {
-          "keyword": "liverpool vs barnsley",
-          "score": 96
-        },
-        {
-          "keyword": "brooks koepka",
-          "score": 95
-        },
-        {
-          "keyword": "juventus vs cremonese",
-          "score": 94
-        },
-        {
-          "keyword": "kent syverud",
-          "score": 93
-        },
-        {
-          "keyword": "bailey zappe",
-          "score": 92
-        },
-        {
-          "keyword": "tell me lies season 3",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-12T20:14:28.991Z",
       "geo": "US",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "teresa palmer",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-16T20:13:20.035Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "artemi panarin",
+          "score": 100
+        },
+        {
+          "keyword": "west brom vs middlesbrough",
+          "score": 99
+        },
+        {
+          "keyword": "khamzat chimaev",
+          "score": 98
+        },
+        {
+          "keyword": "club brugge vs la louviere",
+          "score": 97
+        },
+        {
+          "keyword": "real madrid - barça",
+          "score": 96
+        },
+        {
+          "keyword": "sporting vs casa pia",
+          "score": 95
+        },
+        {
+          "keyword": "zizians",
+          "score": 94
+        },
+        {
+          "keyword": "dro fernández",
+          "score": 93
+        },
+        {
+          "keyword": "psg vs losc",
+          "score": 92
+        },
+        {
+          "keyword": "psg - losc",
           "score": 91
         }
       ]
