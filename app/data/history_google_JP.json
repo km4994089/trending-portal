@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-12T21:40:21.249Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "今日の天気",
-          "score": 100
-        },
-        {
-          "keyword": "さいたまスーパーアリーナ",
-          "score": 99
-        },
-        {
-          "keyword": "個人向け国債",
-          "score": 98
-        },
-        {
-          "keyword": "為替 ドル円",
-          "score": 97
-        },
-        {
-          "keyword": "富山天気",
-          "score": 96
-        },
-        {
-          "keyword": "水卜麻美",
-          "score": 95
-        },
-        {
-          "keyword": "u23 アジアカップ 2026",
-          "score": 94
-        },
-        {
-          "keyword": "ハイエース",
-          "score": 93
-        },
-        {
-          "keyword": "片山さつき",
-          "score": 92
-        },
-        {
-          "keyword": "adr",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-01-12T22:12:07.278Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "岡崎 火事",
-          "score": 100
-        },
-        {
-          "keyword": "黄砂情報",
-          "score": 99
-        },
-        {
-          "keyword": "xabi alonso",
-          "score": 98
-        },
-        {
-          "keyword": "幾田りら 大学",
-          "score": 97
-        },
-        {
-          "keyword": "しなこ",
-          "score": 96
-        },
-        {
-          "keyword": "上坂樹里",
-          "score": 95
-        },
-        {
-          "keyword": "天気",
-          "score": 94
-        },
-        {
-          "keyword": "おちょやん",
-          "score": 93
-        },
-        {
-          "keyword": "날씨",
-          "score": 92
-        },
-        {
-          "keyword": "ジャンプ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-12T22:40:59.631Z",
       "geo": "JP",
       "source": "google",
@@ -7612,6 +7518,53 @@
         },
         {
           "keyword": "れいわ新選組",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-16T22:12:35.489Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "阪急電車",
+          "score": 100
+        },
+        {
+          "keyword": "国立劇場",
+          "score": 99
+        },
+        {
+          "keyword": "東京国立博物館",
+          "score": 98
+        },
+        {
+          "keyword": "カナダ",
+          "score": 97
+        },
+        {
+          "keyword": "赤木野々花",
+          "score": 96
+        },
+        {
+          "keyword": "山中拓磨容疑者",
+          "score": 95
+        },
+        {
+          "keyword": "動画",
+          "score": 94
+        },
+        {
+          "keyword": "鈴木砂羽",
+          "score": 93
+        },
+        {
+          "keyword": "伊野尾慧",
+          "score": 92
+        },
+        {
+          "keyword": "スポルティングcp 対 カーザ・ピア",
           "score": 91
         }
       ]
