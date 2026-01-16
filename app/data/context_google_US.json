@@ -1,8 +1,12 @@
 {
-  "capturedAt": "2026-01-16T08:17:49.257Z",
+  "capturedAt": "2026-01-16T08:50:13.494Z",
   "geo": "US",
   "source": "google",
   "items": [
+    {
+      "keyword": "aa",
+      "articles": []
+    },
     {
       "keyword": "alejandro davidovich fokina",
       "articles": []
@@ -37,10 +41,6 @@
     },
     {
       "keyword": "carrie coon",
-      "articles": []
-    },
-    {
-      "keyword": "san diego",
       "articles": []
     }
   ]
