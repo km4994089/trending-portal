@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T14:49:29.919Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "is x down?",
-          "score": 100
-        },
-        {
-          "keyword": "betterment",
-          "score": 99
-        },
-        {
-          "keyword": "joel edgerton",
-          "score": 98
-        },
-        {
-          "keyword": "x is down",
-          "score": 97
-        },
-        {
-          "keyword": "downdetector",
-          "score": 96
-        },
-        {
-          "keyword": "martin luther king jr",
-          "score": 95
-        },
-        {
-          "keyword": "tyler james williams",
-          "score": 94
-        },
-        {
-          "keyword": "anthony ramos",
-          "score": 93
-        },
-        {
-          "keyword": "erfan soltani",
-          "score": 92
-        },
-        {
-          "keyword": "nyc weather forecast snow storm",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T15:15:38.222Z",
       "geo": "US",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "tottenham vs west ham",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T15:11:22.222Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "weather forecast snow storm",
+          "score": 100
+        },
+        {
+          "keyword": "dortmund",
+          "score": 99
+        },
+        {
+          "keyword": "casey desantis",
+          "score": 98
+        },
+        {
+          "keyword": "mel brooks",
+          "score": 97
+        },
+        {
+          "keyword": "vince gill",
+          "score": 96
+        },
+        {
+          "keyword": "pokemon cards",
+          "score": 95
+        },
+        {
+          "keyword": "good morning america",
+          "score": 94
+        },
+        {
+          "keyword": "sarah mcbride",
+          "score": 93
+        },
+        {
+          "keyword": "sting",
+          "score": 92
+        },
+        {
+          "keyword": "jackson hewitt",
           "score": 91
         }
       ]
