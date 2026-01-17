@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T20:14:32.790Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "분데스리가",
-          "score": 100
-        },
-        {
-          "keyword": "bts",
-          "score": 99
-        },
-        {
-          "keyword": "박나래 매니저",
-          "score": 98
-        },
-        {
-          "keyword": "한동훈",
-          "score": 97
-        },
-        {
-          "keyword": "amd",
-          "score": 96
-        },
-        {
-          "keyword": "강은비",
-          "score": 95
-        },
-        {
-          "keyword": "조지호",
-          "score": 94
-        },
-        {
-          "keyword": "목현태",
-          "score": 93
-        },
-        {
-          "keyword": "이재명",
-          "score": 92
-        },
-        {
-          "keyword": "bbc",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T20:44:12.226Z",
       "geo": "KR",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "축구",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T20:40:11.828Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ฟอเรสต์ พบ อาร์เซนอล",
+          "score": 100
+        },
+        {
+          "keyword": "토마스 프랭크",
+          "score": 99
+        },
+        {
+          "keyword": "아스날",
+          "score": 98
+        },
+        {
+          "keyword": "nottm forest vs arsenal",
+          "score": 97
+        },
+        {
+          "keyword": "egypt vs nigeria",
+          "score": 96
+        },
+        {
+          "keyword": "라이프치히 대 바이에른",
+          "score": 95
+        },
+        {
+          "keyword": "노팅엄 포레스트 대 아스널",
+          "score": 94
+        },
+        {
+          "keyword": "오세영",
+          "score": 93
+        },
+        {
+          "keyword": "분데스리가",
+          "score": 92
+        },
+        {
+          "keyword": "한국 호주",
           "score": 91
         }
       ]

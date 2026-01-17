@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T20:14:31.240Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "andy reid",
-          "score": 100
-        },
-        {
-          "keyword": "leverkusen",
-          "score": 99
-        },
-        {
-          "keyword": "jesse minter",
-          "score": 98
-        },
-        {
-          "keyword": "klint kubiak",
-          "score": 97
-        },
-        {
-          "keyword": "jon gruden",
-          "score": 96
-        },
-        {
-          "keyword": "steve bisciotti",
-          "score": 95
-        },
-        {
-          "keyword": "steelers super bowl wins",
-          "score": 94
-        },
-        {
-          "keyword": "nfl head coach openings",
-          "score": 93
-        },
-        {
-          "keyword": "roma vs torino",
-          "score": 92
-        },
-        {
-          "keyword": "chris shula",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T20:44:10.933Z",
       "geo": "US",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "denzel aberdeen",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T20:40:10.419Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jim bob cooter",
+          "score": 100
+        },
+        {
+          "keyword": "dennis rodman",
+          "score": 99
+        },
+        {
+          "keyword": "jared mccain",
+          "score": 98
+        },
+        {
+          "keyword": "azerbaijan",
+          "score": 97
+        },
+        {
+          "keyword": "rangers",
+          "score": 96
+        },
+        {
+          "keyword": "gregory bovino",
+          "score": 95
+        },
+        {
+          "keyword": "quinn hughes",
+          "score": 94
+        },
+        {
+          "keyword": "islanders vs flames",
+          "score": 93
+        },
+        {
+          "keyword": "morrissey",
+          "score": 92
+        },
+        {
+          "keyword": "grand canyon university",
           "score": 91
         }
       ]
