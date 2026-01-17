@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T06:20:27.264Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "一力遼",
-          "score": 100
-        },
-        {
-          "keyword": "保育士",
-          "score": 99
-        },
-        {
-          "keyword": "カービィ",
-          "score": 98
-        },
-        {
-          "keyword": "鎌倉",
-          "score": 97
-        },
-        {
-          "keyword": "京都",
-          "score": 96
-        },
-        {
-          "keyword": "h",
-          "score": 95
-        },
-        {
-          "keyword": "マーカス・スマート",
-          "score": 94
-        },
-        {
-          "keyword": "ブラジル",
-          "score": 93
-        },
-        {
-          "keyword": "ドイツ",
-          "score": 92
-        },
-        {
-          "keyword": "成人式 ディズニーランド",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T06:55:13.281Z",
       "geo": "JP",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "メタバース",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T06:50:29.499Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "赤福",
+          "score": 100
+        },
+        {
+          "keyword": "都道府県対抗男子駅伝",
+          "score": 99
+        },
+        {
+          "keyword": "市川染五郎",
+          "score": 98
+        },
+        {
+          "keyword": "センバツ",
+          "score": 97
+        },
+        {
+          "keyword": "パルグループ",
+          "score": 96
+        },
+        {
+          "keyword": "池袋",
+          "score": 95
+        },
+        {
+          "keyword": "仮面ライダー 映画",
+          "score": 94
+        },
+        {
+          "keyword": "紅梅ステークス",
+          "score": 93
+        },
+        {
+          "keyword": "羅生門ステークス",
+          "score": 92
+        },
+        {
+          "keyword": "エルデンリングナイトレイン アプデ",
           "score": 91
         }
       ]
