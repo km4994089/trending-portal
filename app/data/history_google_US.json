@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T15:15:38.222Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ticketmaster",
-          "score": 100
-        },
-        {
-          "keyword": "stanford",
-          "score": 99
-        },
-        {
-          "keyword": "arlington",
-          "score": 98
-        },
-        {
-          "keyword": "el paso",
-          "score": 97
-        },
-        {
-          "keyword": "rockstar games gta 6 delay",
-          "score": 96
-        },
-        {
-          "keyword": "betterment",
-          "score": 95
-        },
-        {
-          "keyword": "joel edgerton",
-          "score": 94
-        },
-        {
-          "keyword": "twitter down",
-          "score": 93
-        },
-        {
-          "keyword": "martin luther king jr",
-          "score": 92
-        },
-        {
-          "keyword": "tyler james williams",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T15:46:35.928Z",
       "geo": "US",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "jackson hewitt",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T15:38:26.348Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "drew lock",
+          "score": 100
+        },
+        {
+          "keyword": "egipto - nigeria",
+          "score": 99
+        },
+        {
+          "keyword": "u haul",
+          "score": 98
+        },
+        {
+          "keyword": "wrexham a.f.c",
+          "score": 97
+        },
+        {
+          "keyword": "dortmund",
+          "score": 96
+        },
+        {
+          "keyword": "casey desantis",
+          "score": 95
+        },
+        {
+          "keyword": "mel brooks",
+          "score": 94
+        },
+        {
+          "keyword": "good morning america",
+          "score": 93
+        },
+        {
+          "keyword": "pokemon cards",
+          "score": 92
+        },
+        {
+          "keyword": "vince gill",
           "score": 91
         }
       ]
