@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T13:55:33.227Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "alan cumming",
-          "score": 100
-        },
-        {
-          "keyword": "nyc weather forecast snow storm",
-          "score": 99
-        },
-        {
-          "keyword": "cpi report today",
-          "score": 98
-        },
-        {
-          "keyword": "gma deals and steals",
-          "score": 97
-        },
-        {
-          "keyword": "the rip",
-          "score": 96
-        },
-        {
-          "keyword": "cowher",
-          "score": 95
-        },
-        {
-          "keyword": "btig",
-          "score": 94
-        },
-        {
-          "keyword": "juliana peres magalhães",
-          "score": 93
-        },
-        {
-          "keyword": "matt damon",
-          "score": 92
-        },
-        {
-          "keyword": "nate scheelhaase",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T14:17:56.748Z",
       "geo": "US",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "u23 asian cup",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T14:11:08.304Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mbeumo",
+          "score": 100
+        },
+        {
+          "keyword": "disney",
+          "score": 99
+        },
+        {
+          "keyword": "erling haaland",
+          "score": 98
+        },
+        {
+          "keyword": "dortmund vs fc st. pauli",
+          "score": 97
+        },
+        {
+          "keyword": "mlb baseball",
+          "score": 96
+        },
+        {
+          "keyword": "dc weather",
+          "score": 95
+        },
+        {
+          "keyword": "real madrid",
+          "score": 94
+        },
+        {
+          "keyword": "levante - real madrid c. f. femenino",
+          "score": 93
+        },
+        {
+          "keyword": "is francesca's closing",
+          "score": 92
+        },
+        {
+          "keyword": "wfmz",
           "score": 91
         }
       ]
