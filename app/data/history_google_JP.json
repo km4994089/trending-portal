@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T09:47:43.375Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "浦安",
-          "score": 100
-        },
-        {
-          "keyword": "つるの剛士",
-          "score": 99
-        },
-        {
-          "keyword": "フロラリア",
-          "score": 98
-        },
-        {
-          "keyword": "オルカン",
-          "score": 97
-        },
-        {
-          "keyword": "相撲協会",
-          "score": 96
-        },
-        {
-          "keyword": "ヨルシカ",
-          "score": 95
-        },
-        {
-          "keyword": "ホンダ ロゴ",
-          "score": 94
-        },
-        {
-          "keyword": "義ノ富士",
-          "score": 93
-        },
-        {
-          "keyword": "ジンギスカン",
-          "score": 92
-        },
-        {
-          "keyword": "俳優",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T10:14:27.150Z",
       "geo": "JP",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "金丸晃輔",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T10:11:34.717Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "川口春奈",
+          "score": 100
+        },
+        {
+          "keyword": "ブラタモリ",
+          "score": 99
+        },
+        {
+          "keyword": "ブルーインパルス",
+          "score": 98
+        },
+        {
+          "keyword": "航空自衛隊",
+          "score": 97
+        },
+        {
+          "keyword": "宮川大輔",
+          "score": 96
+        },
+        {
+          "keyword": "和田アキ子",
+          "score": 95
+        },
+        {
+          "keyword": "報道特集",
+          "score": 94
+        },
+        {
+          "keyword": "宮澤エマ",
+          "score": 93
+        },
+        {
+          "keyword": "山村紅葉",
+          "score": 92
+        },
+        {
+          "keyword": "藤枝 山火事",
           "score": 91
         }
       ]
