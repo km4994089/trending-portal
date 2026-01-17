@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T18:20:35.580Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "spain",
-          "score": 100
-        },
-        {
-          "keyword": "twitter outage",
-          "score": 99
-        },
-        {
-          "keyword": "bruce arians",
-          "score": 98
-        },
-        {
-          "keyword": "stuttgart fc",
-          "score": 97
-        },
-        {
-          "keyword": "mike pettine",
-          "score": 96
-        },
-        {
-          "keyword": "nolan arenado",
-          "score": 95
-        },
-        {
-          "keyword": "vfb stuttgart vs eintracht frankfurt",
-          "score": 94
-        },
-        {
-          "keyword": "jordan addison",
-          "score": 93
-        },
-        {
-          "keyword": "marvel rivals",
-          "score": 92
-        },
-        {
-          "keyword": "topps",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T18:52:36.396Z",
       "geo": "US",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "st andrews",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T18:47:41.012Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jeff hafley",
+          "score": 100
+        },
+        {
+          "keyword": "braylon mullins",
+          "score": 99
+        },
+        {
+          "keyword": "kyle van noy",
+          "score": 98
+        },
+        {
+          "keyword": "smu",
+          "score": 97
+        },
+        {
+          "keyword": "miami ohio basketball",
+          "score": 96
+        },
+        {
+          "keyword": "ucla vs ohio state",
+          "score": 95
+        },
+        {
+          "keyword": "sabres",
+          "score": 94
+        },
+        {
+          "keyword": "buffalo sabres",
+          "score": 93
+        },
+        {
+          "keyword": "alabama vs oklahoma",
+          "score": 92
+        },
+        {
+          "keyword": "monster jam",
           "score": 91
         }
       ]
