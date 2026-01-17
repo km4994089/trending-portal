@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T09:19:55.871Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ヨルシカ",
-          "score": 100
-        },
-        {
-          "keyword": "義ノ富士",
-          "score": 99
-        },
-        {
-          "keyword": "ジンギスカン",
-          "score": 98
-        },
-        {
-          "keyword": "俳優",
-          "score": 97
-        },
-        {
-          "keyword": "宝塚",
-          "score": 96
-        },
-        {
-          "keyword": "宇良",
-          "score": 95
-        },
-        {
-          "keyword": "jr",
-          "score": 94
-        },
-        {
-          "keyword": "琴櫻",
-          "score": 93
-        },
-        {
-          "keyword": "ジェイアール北海道",
-          "score": 92
-        },
-        {
-          "keyword": "ホンダ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T09:47:43.375Z",
       "geo": "JP",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "琴櫻",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T09:38:50.469Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "藤枝 山火事",
+          "score": 100
+        },
+        {
+          "keyword": "マムズタッチ",
+          "score": 99
+        },
+        {
+          "keyword": "ニッセイ",
+          "score": 98
+        },
+        {
+          "keyword": "takahiro",
+          "score": 97
+        },
+        {
+          "keyword": "柴咲コウ",
+          "score": 96
+        },
+        {
+          "keyword": "千葉県知事",
+          "score": 95
+        },
+        {
+          "keyword": "教場 ドラマ",
+          "score": 94
+        },
+        {
+          "keyword": "徳永英明",
+          "score": 93
+        },
+        {
+          "keyword": "与謝野町",
+          "score": 92
+        },
+        {
+          "keyword": "金丸晃輔",
           "score": 91
         }
       ]
