@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T13:13:56.157Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cpi",
-          "score": 100
-        },
-        {
-          "keyword": "matt damon",
-          "score": 99
-        },
-        {
-          "keyword": "nate scheelhaase",
-          "score": 98
-        },
-        {
-          "keyword": "belle burden",
-          "score": 97
-        },
-        {
-          "keyword": "l3harris",
-          "score": 96
-        },
-        {
-          "keyword": "cane",
-          "score": 95
-        },
-        {
-          "keyword": "congress",
-          "score": 94
-        },
-        {
-          "keyword": "climate change",
-          "score": 93
-        },
-        {
-          "keyword": "stock market news",
-          "score": 92
-        },
-        {
-          "keyword": "delta 787",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T13:55:33.227Z",
       "geo": "US",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "afcon final",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T13:43:36.108Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "real madrid",
+          "score": 100
+        },
+        {
+          "keyword": "levante - real madrid c. f. femenino",
+          "score": 99
+        },
+        {
+          "keyword": "wfmz",
+          "score": 98
+        },
+        {
+          "keyword": "francesca's closing",
+          "score": 97
+        },
+        {
+          "keyword": "bad bunny super bowl commercial",
+          "score": 96
+        },
+        {
+          "keyword": "udinese vs inter",
+          "score": 95
+        },
+        {
+          "keyword": "udinese - inter",
+          "score": 94
+        },
+        {
+          "keyword": "mega millions winning numbers",
+          "score": 93
+        },
+        {
+          "keyword": "liga inglesa",
+          "score": 92
+        },
+        {
+          "keyword": "u23 asian cup",
           "score": 91
         }
       ]
