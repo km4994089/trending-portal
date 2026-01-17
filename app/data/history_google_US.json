@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T19:13:42.961Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mike.tomlin",
-          "score": 100
-        },
-        {
-          "keyword": "newcastle vs man city",
-          "score": 99
-        },
-        {
-          "keyword": "jim carrey",
-          "score": 98
-        },
-        {
-          "keyword": "dortmund vs werder",
-          "score": 97
-        },
-        {
-          "keyword": "anthony davis",
-          "score": 96
-        },
-        {
-          "keyword": "greg roman",
-          "score": 95
-        },
-        {
-          "keyword": "galatasaray",
-          "score": 94
-        },
-        {
-          "keyword": "usmca",
-          "score": 93
-        },
-        {
-          "keyword": "rand paul",
-          "score": 92
-        },
-        {
-          "keyword": "spain",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T19:36:48.376Z",
       "geo": "US",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "ucla vs ohio state",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T19:33:02.531Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "iowa vs indiana",
+          "score": 100
+        },
+        {
+          "keyword": "angers vs marseille",
+          "score": 99
+        },
+        {
+          "keyword": "mika zibanejad",
+          "score": 98
+        },
+        {
+          "keyword": "real betis - villarreal",
+          "score": 97
+        },
+        {
+          "keyword": "real betis vs villarreal",
+          "score": 96
+        },
+        {
+          "keyword": "syracuse vs boston college",
+          "score": 95
+        },
+        {
+          "keyword": "ncaa men's basketball",
+          "score": 94
+        },
+        {
+          "keyword": "florida vs vanderbilt",
+          "score": 93
+        },
+        {
+          "keyword": "ky basketball",
+          "score": 92
+        },
+        {
+          "keyword": "tesla model y",
           "score": 91
         }
       ]
