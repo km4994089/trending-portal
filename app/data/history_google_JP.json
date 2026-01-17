@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T02:52:11.768Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "キングス 対 レイカーズ",
-          "score": 100
-        },
-        {
-          "keyword": "大阪 天気",
-          "score": 99
-        },
-        {
-          "keyword": "嵐",
-          "score": 98
-        },
-        {
-          "keyword": "フランス",
-          "score": 97
-        },
-        {
-          "keyword": "地震 愛知",
-          "score": 96
-        },
-        {
-          "keyword": "橋本淳",
-          "score": 95
-        },
-        {
-          "keyword": "ノンストップ",
-          "score": 94
-        },
-        {
-          "keyword": "adobe stock",
-          "score": 93
-        },
-        {
-          "keyword": "01ガンダム",
-          "score": 92
-        },
-        {
-          "keyword": "gemini",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T03:58:54.134Z",
       "geo": "JP",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "セレッソ大阪",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T03:51:10.363Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "モンスト",
+          "score": 100
+        },
+        {
+          "keyword": "有吉弘行",
+          "score": 99
+        },
+        {
+          "keyword": "三嶋一輝",
+          "score": 98
+        },
+        {
+          "keyword": "西畑大吾",
+          "score": 97
+        },
+        {
+          "keyword": "モンスト ユーベル",
+          "score": 96
+        },
+        {
+          "keyword": "遠藤利明",
+          "score": 95
+        },
+        {
+          "keyword": "レインボー",
+          "score": 94
+        },
+        {
+          "keyword": "リベラル",
+          "score": 93
+        },
+        {
+          "keyword": "ラプターズ 対 クリッパーズ",
+          "score": 92
+        },
+        {
+          "keyword": "ちばぎんカップ 2026 チケット",
           "score": 91
         }
       ]

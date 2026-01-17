@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T02:52:09.269Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ka'imi fairbairn",
-          "score": 100
-        },
-        {
-          "keyword": "adam thielen",
-          "score": 99
-        },
-        {
-          "keyword": "the beauty fx",
-          "score": 98
-        },
-        {
-          "keyword": "ashton kutcher",
-          "score": 97
-        },
-        {
-          "keyword": "sabres",
-          "score": 96
-        },
-        {
-          "keyword": "industry cast",
-          "score": 95
-        },
-        {
-          "keyword": "danica patrick",
-          "score": 94
-        },
-        {
-          "keyword": "brett favre",
-          "score": 93
-        },
-        {
-          "keyword": "28 days later",
-          "score": 92
-        },
-        {
-          "keyword": "peyton manning",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T03:58:51.500Z",
       "geo": "US",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "victoria mboko",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T03:51:07.412Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jordynne grace",
+          "score": 100
+        },
+        {
+          "keyword": "bones hyland",
+          "score": 99
+        },
+        {
+          "keyword": "kyshawn george",
+          "score": 98
+        },
+        {
+          "keyword": "tom selleck",
+          "score": 97
+        },
+        {
+          "keyword": "kevin durant",
+          "score": 96
+        },
+        {
+          "keyword": "boise state basketball",
+          "score": 95
+        },
+        {
+          "keyword": "colton bachelor",
+          "score": 94
+        },
+        {
+          "keyword": "mike conley",
+          "score": 93
+        },
+        {
+          "keyword": "lidom",
+          "score": 92
+        },
+        {
+          "keyword": "brendan fraser",
           "score": 91
         }
       ]
