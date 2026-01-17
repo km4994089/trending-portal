@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T15:46:35.928Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "bill clinton",
-          "score": 100
-        },
-        {
-          "keyword": "oprah winfrey",
-          "score": 99
-        },
-        {
-          "keyword": "raymond james stadium",
-          "score": 98
-        },
-        {
-          "keyword": "smci stock",
-          "score": 97
-        },
-        {
-          "keyword": "el paso texas",
-          "score": 96
-        },
-        {
-          "keyword": "supreme court",
-          "score": 95
-        },
-        {
-          "keyword": "intc stock",
-          "score": 94
-        },
-        {
-          "keyword": "chris stapleton tour",
-          "score": 93
-        },
-        {
-          "keyword": "metlife stadium",
-          "score": 92
-        },
-        {
-          "keyword": "bogota",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T16:19:17.011Z",
       "geo": "US",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "vince gill",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T16:12:40.171Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "florian wirtz",
+          "score": 100
+        },
+        {
+          "keyword": "weather nyc",
+          "score": 99
+        },
+        {
+          "keyword": "mo salah",
+          "score": 98
+        },
+        {
+          "keyword": "james carville",
+          "score": 97
+        },
+        {
+          "keyword": "tomorrowland",
+          "score": 96
+        },
+        {
+          "keyword": "wrexham standings",
+          "score": 95
+        },
+        {
+          "keyword": "natalie haslam",
+          "score": 94
+        },
+        {
+          "keyword": "jennifer welch",
+          "score": 93
+        },
+        {
+          "keyword": "drew lock",
+          "score": 92
+        },
+        {
+          "keyword": "nathan scheelhaase",
           "score": 91
         }
       ]

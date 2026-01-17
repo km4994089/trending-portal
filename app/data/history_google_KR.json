@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T15:46:37.006Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "홍지윤",
-          "score": 100
-        },
-        {
-          "keyword": "강은비",
-          "score": 99
-        },
-        {
-          "keyword": "조지호",
-          "score": 98
-        },
-        {
-          "keyword": "목현태",
-          "score": 97
-        },
-        {
-          "keyword": "이재명",
-          "score": 96
-        },
-        {
-          "keyword": "bbc",
-          "score": 95
-        },
-        {
-          "keyword": "cpi 발표",
-          "score": 94
-        },
-        {
-          "keyword": "노상원",
-          "score": 93
-        },
-        {
-          "keyword": "하트맨",
-          "score": 92
-        },
-        {
-          "keyword": "윤석열 사형",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T16:19:18.284Z",
       "geo": "KR",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "진세연",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T16:12:41.441Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ลิเวอร์พูล พบ เบิร์นลีย์",
+          "score": 100
+        },
+        {
+          "keyword": "liverpool vs burnley",
+          "score": 99
+        },
+        {
+          "keyword": "비니시우스",
+          "score": 98
+        },
+        {
+          "keyword": "udinese vs inter",
+          "score": 97
+        },
+        {
+          "keyword": "코너 갤러거",
+          "score": 96
+        },
+        {
+          "keyword": "u23",
+          "score": 95
+        },
+        {
+          "keyword": "신우현",
+          "score": 94
+        },
+        {
+          "keyword": "chelsea vs brentford",
+          "score": 93
+        },
+        {
+          "keyword": "u-23 아시안컵",
+          "score": 92
+        },
+        {
+          "keyword": "퍼거슨",
           "score": 91
         }
       ]
