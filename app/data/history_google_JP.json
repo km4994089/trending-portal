@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T20:44:13.572Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "adr",
-          "score": 100
-        },
-        {
-          "keyword": "黄砂情報",
-          "score": 99
-        },
-        {
-          "keyword": "大森南朋",
-          "score": 98
-        },
-        {
-          "keyword": "age",
-          "score": 97
-        },
-        {
-          "keyword": "暴風雪警報",
-          "score": 96
-        },
-        {
-          "keyword": "カラバオカップ",
-          "score": 95
-        },
-        {
-          "keyword": "ソシエダ",
-          "score": 94
-        },
-        {
-          "keyword": "ニューカッスル 対 マンc",
-          "score": 93
-        },
-        {
-          "keyword": "なか卯",
-          "score": 92
-        },
-        {
-          "keyword": "葬送のフリーレン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T21:12:53.947Z",
       "geo": "JP",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "地震速報 今 揺れた",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T21:10:07.208Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "松山英樹",
+          "score": 100
+        },
+        {
+          "keyword": "カリアリ 対 ユヴェントス",
+          "score": 99
+        },
+        {
+          "keyword": "和希そら",
+          "score": 98
+        },
+        {
+          "keyword": "ロブロックス",
+          "score": 97
+        },
+        {
+          "keyword": "保育所",
+          "score": 96
+        },
+        {
+          "keyword": "スウォンジー 対 バーミンガム",
+          "score": 95
+        },
+        {
+          "keyword": "ナポリ 対 サッスオーロ",
+          "score": 94
+        },
+        {
+          "keyword": "al-nassr vs al-shabab",
+          "score": 93
+        },
+        {
+          "keyword": "バイエルン",
+          "score": 92
+        },
+        {
+          "keyword": "nottm forest vs arsenal",
           "score": 91
         }
       ]
