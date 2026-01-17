@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T00:55:24.174Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "홈택스 연말정산",
-          "score": 100
-        },
-        {
-          "keyword": "갤러거",
-          "score": 99
-        },
-        {
-          "keyword": "스타링크",
-          "score": 98
-        },
-        {
-          "keyword": "금시세",
-          "score": 97
-        },
-        {
-          "keyword": "쿠프 드 프랑스",
-          "score": 96
-        },
-        {
-          "keyword": "liverpool vs barnsley",
-          "score": 95
-        },
-        {
-          "keyword": "뉴진스",
-          "score": 94
-        },
-        {
-          "keyword": "고준희",
-          "score": 93
-        },
-        {
-          "keyword": "유벤투스",
-          "score": 92
-        },
-        {
-          "keyword": "psg",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T02:52:10.494Z",
       "geo": "KR",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "로켓랩",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T00:57:26.778Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tesla",
+          "score": 100
+        },
+        {
+          "keyword": "테슬라",
+          "score": 99
+        },
+        {
+          "keyword": "모델3",
+          "score": 98
+        },
+        {
+          "keyword": "psg vs losc",
+          "score": 97
+        },
+        {
+          "keyword": "google",
+          "score": 96
+        },
+        {
+          "keyword": "psg 대 losc 릴",
+          "score": 95
+        },
+        {
+          "keyword": "f",
+          "score": 94
+        },
+        {
+          "keyword": "fb",
+          "score": 93
+        },
+        {
+          "keyword": "그록",
+          "score": 92
+        },
+        {
+          "keyword": "조이",
           "score": 91
         }
       ]
