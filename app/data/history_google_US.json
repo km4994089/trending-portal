@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T14:17:56.748Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "martin luther king jr",
-          "score": 100
-        },
-        {
-          "keyword": "tyler james williams",
-          "score": 99
-        },
-        {
-          "keyword": "anthony ramos",
-          "score": 98
-        },
-        {
-          "keyword": "erfan soltani",
-          "score": 97
-        },
-        {
-          "keyword": "alan cumming",
-          "score": 96
-        },
-        {
-          "keyword": "nyc weather forecast snow storm",
-          "score": 95
-        },
-        {
-          "keyword": "forex factory",
-          "score": 94
-        },
-        {
-          "keyword": "gma deals and steals",
-          "score": 93
-        },
-        {
-          "keyword": "the rip",
-          "score": 92
-        },
-        {
-          "keyword": "cowher",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T14:49:29.919Z",
       "geo": "US",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "wfmz",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T14:40:04.605Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "premier league standings",
+          "score": 100
+        },
+        {
+          "keyword": "r.c.d. mallorca - athletic",
+          "score": 99
+        },
+        {
+          "keyword": "prem",
+          "score": 98
+        },
+        {
+          "keyword": "bruno fernandes",
+          "score": 97
+        },
+        {
+          "keyword": "sir alex ferguson",
+          "score": 96
+        },
+        {
+          "keyword": "hoffenheim - leverkusen",
+          "score": 95
+        },
+        {
+          "keyword": "gma deals and steals today",
+          "score": 94
+        },
+        {
+          "keyword": "chelsea vs brentford",
+          "score": 93
+        },
+        {
+          "keyword": "liverpool vs burnley",
+          "score": 92
+        },
+        {
+          "keyword": "tottenham vs west ham",
           "score": 91
         }
       ]
