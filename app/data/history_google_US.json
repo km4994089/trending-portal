@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T19:36:48.376Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "brian flores",
-          "score": 100
-        },
-        {
-          "keyword": "chris shula",
-          "score": 99
-        },
-        {
-          "keyword": "mike mccarthy",
-          "score": 98
-        },
-        {
-          "keyword": "kobe bufkin",
-          "score": 97
-        },
-        {
-          "keyword": "deportivo - atlético madrid",
-          "score": 96
-        },
-        {
-          "keyword": "bill cowher",
-          "score": 95
-        },
-        {
-          "keyword": "zac taylor",
-          "score": 94
-        },
-        {
-          "keyword": "real sociedad - osasuna",
-          "score": 93
-        },
-        {
-          "keyword": "colin hurley",
-          "score": 92
-        },
-        {
-          "keyword": "newcastle vs man city",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T20:14:31.240Z",
       "geo": "US",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "tesla model y",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T20:12:54.028Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "islanders vs flames",
+          "score": 100
+        },
+        {
+          "keyword": "courtland sutton",
+          "score": 99
+        },
+        {
+          "keyword": "grand canyon university",
+          "score": 98
+        },
+        {
+          "keyword": "morrissey",
+          "score": 97
+        },
+        {
+          "keyword": "rio ave vs benfica",
+          "score": 96
+        },
+        {
+          "keyword": "utah state basketball",
+          "score": 95
+        },
+        {
+          "keyword": "iowa state basketball",
+          "score": 94
+        },
+        {
+          "keyword": "alabama basketball",
+          "score": 93
+        },
+        {
+          "keyword": "clemson basketball",
+          "score": 92
+        },
+        {
+          "keyword": "denzel aberdeen",
           "score": 91
         }
       ]
