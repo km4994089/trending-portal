@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T17:19:15.276Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "中村雅俊",
-          "score": 100
-        },
-        {
-          "keyword": "オールナイトニッポン",
-          "score": 99
-        },
-        {
-          "keyword": "中村仁美",
-          "score": 98
-        },
-        {
-          "keyword": "el paso",
-          "score": 97
-        },
-        {
-          "keyword": "山本建",
-          "score": 96
-        },
-        {
-          "keyword": "日本 u-23 対 カタールu-23",
-          "score": 95
-        },
-        {
-          "keyword": "三億円事件",
-          "score": 94
-        },
-        {
-          "keyword": "チェジュ航空",
-          "score": 93
-        },
-        {
-          "keyword": "東京ドーム",
-          "score": 92
-        },
-        {
-          "keyword": "帯状疱疹ワクチン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T17:49:13.166Z",
       "geo": "JP",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "鈴木えみ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T17:38:18.072Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "リアルタイム",
+          "score": 100
+        },
+        {
+          "keyword": "地震",
+          "score": 99
+        },
+        {
+          "keyword": "東京 地震",
+          "score": 98
+        },
+        {
+          "keyword": "地震速報 今 揺れた",
+          "score": 97
+        },
+        {
+          "keyword": "地震今",
+          "score": 96
+        },
+        {
+          "keyword": "フロリアン・ヴィルツ",
+          "score": 95
+        },
+        {
+          "keyword": "rbライプツィヒ 対 バイエルン",
+          "score": 94
+        },
+        {
+          "keyword": "ノッティンガム・フォレスト 対 アーセナル",
+          "score": 93
+        },
+        {
+          "keyword": "リーグアン",
+          "score": 92
+        },
+        {
+          "keyword": "liverpool",
           "score": 91
         }
       ]
