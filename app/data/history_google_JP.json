@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T05:46:05.993Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "h",
-          "score": 100
-        },
-        {
-          "keyword": "マーカス・スマート",
-          "score": 99
-        },
-        {
-          "keyword": "ドイツ",
-          "score": 98
-        },
-        {
-          "keyword": "ブラジル",
-          "score": 97
-        },
-        {
-          "keyword": "河内大和",
-          "score": 96
-        },
-        {
-          "keyword": "成人式 ディズニーランド",
-          "score": 95
-        },
-        {
-          "keyword": "大相撲協会",
-          "score": 94
-        },
-        {
-          "keyword": "埼玉県",
-          "score": 93
-        },
-        {
-          "keyword": "共同通信",
-          "score": 92
-        },
-        {
-          "keyword": "高梨沙羅",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T06:20:27.264Z",
       "geo": "JP",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "サンシャイン水族館",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T06:18:04.406Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "エルデンリングナイトレイン アプデ",
+          "score": 100
+        },
+        {
+          "keyword": "羅生門ステークス",
+          "score": 99
+        },
+        {
+          "keyword": "chatgpt go",
+          "score": 98
+        },
+        {
+          "keyword": "ホテルニューオータニ",
+          "score": 97
+        },
+        {
+          "keyword": "浜田雅功",
+          "score": 96
+        },
+        {
+          "keyword": "マツキニ",
+          "score": 95
+        },
+        {
+          "keyword": "snow man",
+          "score": 94
+        },
+        {
+          "keyword": "キングス 対 ウィザーズ",
+          "score": 93
+        },
+        {
+          "keyword": "アウディ",
+          "score": 92
+        },
+        {
+          "keyword": "メタバース",
           "score": 91
         }
       ]
