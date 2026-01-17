@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T22:44:21.402Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "maga",
-          "score": 100
-        },
-        {
-          "keyword": "群馬",
-          "score": 99
-        },
-        {
-          "keyword": "スタバ",
-          "score": 98
-        },
-        {
-          "keyword": "名古屋 天気",
-          "score": 97
-        },
-        {
-          "keyword": "地下鉄",
-          "score": 96
-        },
-        {
-          "keyword": "イワクラ",
-          "score": 95
-        },
-        {
-          "keyword": "運行情報",
-          "score": 94
-        },
-        {
-          "keyword": "キューバ",
-          "score": 93
-        },
-        {
-          "keyword": "津田健次郎",
-          "score": 92
-        },
-        {
-          "keyword": "岩田絵里奈",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T23:12:21.226Z",
       "geo": "JP",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "大地真央",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T23:11:24.375Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "伊香保温泉",
+          "score": 100
+        },
+        {
+          "keyword": "日経平均株価とは",
+          "score": 99
+        },
+        {
+          "keyword": "松本莉緒",
+          "score": 98
+        },
+        {
+          "keyword": "白山",
+          "score": 97
+        },
+        {
+          "keyword": "u-next",
+          "score": 96
+        },
+        {
+          "keyword": "石垣島マラソン",
+          "score": 95
+        },
+        {
+          "keyword": "マーベリックス 対 ジャズ",
+          "score": 94
+        },
+        {
+          "keyword": "蓮舫",
+          "score": 93
+        },
+        {
+          "keyword": "1月18日 イベント",
+          "score": 92
+        },
+        {
+          "keyword": "竹下景子",
           "score": 91
         }
       ]
