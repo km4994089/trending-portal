@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T08:52:03.357Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "paul rudd",
-          "score": 100
-        },
-        {
-          "keyword": "stefanos tsitsipas",
-          "score": 99
-        },
-        {
-          "keyword": "best shows on hbo max",
-          "score": 98
-        },
-        {
-          "keyword": "latest iphone rumors",
-          "score": 97
-        },
-        {
-          "keyword": "talent acquisition",
-          "score": 96
-        },
-        {
-          "keyword": "cryptocurrency trading",
-          "score": 95
-        },
-        {
-          "keyword": "blockchain technology",
-          "score": 94
-        },
-        {
-          "keyword": "world cup qualifiers schedule",
-          "score": 93
-        },
-        {
-          "keyword": "emma raducanu",
-          "score": 92
-        },
-        {
-          "keyword": "edgar vivar",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T09:19:53.114Z",
       "geo": "US",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "megan thee stallion",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T09:12:01.948Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "new zealand breakers",
+          "score": 100
+        },
+        {
+          "keyword": "roger federer",
+          "score": 99
+        },
+        {
+          "keyword": "the walking dead",
+          "score": 98
+        },
+        {
+          "keyword": "aaron taylor johnson",
+          "score": 97
+        },
+        {
+          "keyword": "truck accident attorney",
+          "score": 96
+        },
+        {
+          "keyword": "everybody hates chris",
+          "score": 95
+        },
+        {
+          "keyword": "from",
+          "score": 94
+        },
+        {
+          "keyword": "tom hardy",
+          "score": 93
+        },
+        {
+          "keyword": "spacex rocket launch",
+          "score": 92
+        },
+        {
+          "keyword": "personal injury attorneys",
           "score": 91
         }
       ]
