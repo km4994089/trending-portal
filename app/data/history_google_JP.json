@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-13T22:13:06.544Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "キューバ",
-          "score": 100
-        },
-        {
-          "keyword": "津田健次郎",
-          "score": 99
-        },
-        {
-          "keyword": "per",
-          "score": 98
-        },
-        {
-          "keyword": "岩田絵里奈",
-          "score": 97
-        },
-        {
-          "keyword": "佐賀大学",
-          "score": 96
-        },
-        {
-          "keyword": "スタバ新作",
-          "score": 95
-        },
-        {
-          "keyword": "大学入学共通テスト",
-          "score": 94
-        },
-        {
-          "keyword": "横浜市営地下鉄",
-          "score": 93
-        },
-        {
-          "keyword": "マンチェスターシティ",
-          "score": 92
-        },
-        {
-          "keyword": "今日の運勢",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-13T22:44:21.402Z",
       "geo": "JP",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "松山英樹",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-17T22:40:58.449Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "タイミー",
+          "score": 100
+        },
+        {
+          "keyword": "朝マック",
+          "score": 99
+        },
+        {
+          "keyword": "源田壮亮",
+          "score": 98
+        },
+        {
+          "keyword": "平野歩夢",
+          "score": 97
+        },
+        {
+          "keyword": "坂下千里子",
+          "score": 96
+        },
+        {
+          "keyword": "南海電鉄",
+          "score": 95
+        },
+        {
+          "keyword": "ブラジリアン柔術",
+          "score": 94
+        },
+        {
+          "keyword": "花粉情報",
+          "score": 93
+        },
+        {
+          "keyword": "僕らの時代",
+          "score": 92
+        },
+        {
+          "keyword": "大地真央",
           "score": 91
         }
       ]
