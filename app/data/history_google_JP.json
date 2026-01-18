@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-14T11:41:03.362Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "千鳥かまいたち",
-          "score": 100
-        },
-        {
-          "keyword": "鳥羽水族館",
-          "score": 99
-        },
-        {
-          "keyword": "激突メシあがれ",
-          "score": 98
-        },
-        {
-          "keyword": "スカイライン",
-          "score": 97
-        },
-        {
-          "keyword": "希良梨",
-          "score": 96
-        },
-        {
-          "keyword": "東京消防庁",
-          "score": 95
-        },
-        {
-          "keyword": "エルシャダイ",
-          "score": 94
-        },
-        {
-          "keyword": "岡山天音",
-          "score": 93
-        },
-        {
-          "keyword": "j1",
-          "score": 92
-        },
-        {
-          "keyword": "救急車",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-14T12:25:22.251Z",
       "geo": "JP",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "高崎",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-18T12:21:47.556Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "令和ロマン",
+          "score": 100
+        },
+        {
+          "keyword": "藤澤涼架",
+          "score": 99
+        },
+        {
+          "keyword": "松井ケムリ",
+          "score": 98
+        },
+        {
+          "keyword": "箕輪はるか",
+          "score": 97
+        },
+        {
+          "keyword": "どうぶつの森",
+          "score": 96
+        },
+        {
+          "keyword": "リーフ",
+          "score": 95
+        },
+        {
+          "keyword": "中条あやみ",
+          "score": 94
+        },
+        {
+          "keyword": "吉田鈴",
+          "score": 93
+        },
+        {
+          "keyword": "ハノイ",
+          "score": 92
+        },
+        {
+          "keyword": "ホーチミン",
           "score": 91
         }
       ]
