@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-14T13:55:05.881Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "おちょやん",
-          "score": 100
-        },
-        {
-          "keyword": "ユシロ",
-          "score": 99
-        },
-        {
-          "keyword": "ネクスウィル",
-          "score": 98
-        },
-        {
-          "keyword": "プラチナ",
-          "score": 97
-        },
-        {
-          "keyword": "ゆず",
-          "score": 96
-        },
-        {
-          "keyword": "ライフネット生命",
-          "score": 95
-        },
-        {
-          "keyword": "ドラマ",
-          "score": 94
-        },
-        {
-          "keyword": "日光",
-          "score": 93
-        },
-        {
-          "keyword": "中井亜美",
-          "score": 92
-        },
-        {
-          "keyword": "為替介入",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-14T14:17:22.708Z",
       "geo": "JP",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "岡山大学",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-18T14:10:50.552Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "前田健太",
+          "score": 100
+        },
+        {
+          "keyword": "同志社大学",
+          "score": 99
+        },
+        {
+          "keyword": "パンチドランクウーマン",
+          "score": 98
+        },
+        {
+          "keyword": "木村拓哉",
+          "score": 97
+        },
+        {
+          "keyword": "kick",
+          "score": 96
+        },
+        {
+          "keyword": "ミスチル",
+          "score": 95
+        },
+        {
+          "keyword": "桃鉄",
+          "score": 94
+        },
+        {
+          "keyword": "大迫傑",
+          "score": 93
+        },
+        {
+          "keyword": "エプスタイン",
+          "score": 92
+        },
+        {
+          "keyword": "大阪大学",
           "score": 91
         }
       ]

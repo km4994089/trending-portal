@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-14T13:55:04.675Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "신진서",
-          "score": 100
-        },
-        {
-          "keyword": "버스 파업 종료",
-          "score": 99
-        },
-        {
-          "keyword": "메이드인코리아 시즌2",
-          "score": 98
-        },
-        {
-          "keyword": "김혜윤",
-          "score": 97
-        },
-        {
-          "keyword": "태극기",
-          "score": 96
-        },
-        {
-          "keyword": "태국 u-23 대 중국 u-23",
-          "score": 95
-        },
-        {
-          "keyword": "두바이",
-          "score": 94
-        },
-        {
-          "keyword": "황신혜",
-          "score": 93
-        },
-        {
-          "keyword": "브리온",
-          "score": 92
-        },
-        {
-          "keyword": "장윤정",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-14T14:17:21.484Z",
       "geo": "KR",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "양소룡",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-18T14:10:48.846Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "박군",
+          "score": 100
+        },
+        {
+          "keyword": "이엘리야",
+          "score": 99
+        },
+        {
+          "keyword": "영탁",
+          "score": 98
+        },
+        {
+          "keyword": "홍라희",
+          "score": 97
+        },
+        {
+          "keyword": "league of legends",
+          "score": 96
+        },
+        {
+          "keyword": "김준수",
+          "score": 95
+        },
+        {
+          "keyword": "서장훈",
+          "score": 94
+        },
+        {
+          "keyword": "김민종",
+          "score": 93
+        },
+        {
+          "keyword": "롤",
+          "score": 92
+        },
+        {
+          "keyword": "리그오브레전드",
           "score": 91
         }
       ]
