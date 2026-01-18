@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-14T19:38:02.579Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "チェルシー 対 アーセナル",
-          "score": 100
-        },
-        {
-          "keyword": "ケルン 対 バイエルン",
-          "score": 99
-        },
-        {
-          "keyword": "ニンテンドーswitch",
-          "score": 98
-        },
-        {
-          "keyword": "アフリカネーションズカップ",
-          "score": 97
-        },
-        {
-          "keyword": "風間トオル",
-          "score": 96
-        },
-        {
-          "keyword": "ナポリ 対 パルマ",
-          "score": 95
-        },
-        {
-          "keyword": "総合格闘家",
-          "score": 94
-        },
-        {
-          "keyword": "マインツ 対 ハイデンハイム",
-          "score": 93
-        },
-        {
-          "keyword": "宮本茉由",
-          "score": 92
-        },
-        {
-          "keyword": "菅原咲月",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-14T20:15:19.867Z",
       "geo": "JP",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "アウクスブルク 対 フライブルク",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-18T20:13:13.018Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ウナギ・サヤカ",
+          "score": 100
+        },
+        {
+          "keyword": "real sociedad vs barcelona",
+          "score": 99
+        },
+        {
+          "keyword": "セネガル 対 モロッコ",
+          "score": 98
+        },
+        {
+          "keyword": "ソシエダ 対 バルセロナ",
+          "score": 97
+        },
+        {
+          "keyword": "dazn",
+          "score": 96
+        },
+        {
+          "keyword": "トリノ 対 ローマ",
+          "score": 95
+        },
+        {
+          "keyword": "ノロウイルス",
+          "score": 94
+        },
+        {
+          "keyword": "aston villa vs everton",
+          "score": 93
+        },
+        {
+          "keyword": "筒井真理子",
+          "score": 92
+        },
+        {
+          "keyword": "paypay",
           "score": 91
         }
       ]
