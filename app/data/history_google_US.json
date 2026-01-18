@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-14T03:17:23.058Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "liga mx",
-          "score": 100
-        },
-        {
-          "keyword": "dillon brooks",
-          "score": 99
-        },
-        {
-          "keyword": "bruins game",
-          "score": 98
-        },
-        {
-          "keyword": "iren",
-          "score": 97
-        },
-        {
-          "keyword": "alabama basketball",
-          "score": 96
-        },
-        {
-          "keyword": "peyton watson",
-          "score": 95
-        },
-        {
-          "keyword": "bones hyland",
-          "score": 94
-        },
-        {
-          "keyword": "nate ament",
-          "score": 93
-        },
-        {
-          "keyword": "davion mitchell",
-          "score": 92
-        },
-        {
-          "keyword": "oregon basketball",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-14T04:31:03.735Z",
       "geo": "US",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "football",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-18T03:18:18.779Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nickelodeon star dies",
+          "score": 100
+        },
+        {
+          "keyword": "erin andrews",
+          "score": 99
+        },
+        {
+          "keyword": "jay glazer",
+          "score": 98
+        },
+        {
+          "keyword": "9 news",
+          "score": 97
+        },
+        {
+          "keyword": "ole miss basketball",
+          "score": 96
+        },
+        {
+          "keyword": "denver alert",
+          "score": 95
+        },
+        {
+          "keyword": "bo nickal",
+          "score": 94
+        },
+        {
+          "keyword": "jt toppin",
+          "score": 93
+        },
+        {
+          "keyword": "amber alert",
+          "score": 92
+        },
+        {
+          "keyword": "shelter in place",
           "score": 91
         }
       ]
