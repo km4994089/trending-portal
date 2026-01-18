@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-14T11:13:34.107Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cricinfo",
-          "score": 100
-        },
-        {
-          "keyword": "voyager 1",
-          "score": 99
-        },
-        {
-          "keyword": "mckenna kindred",
-          "score": 98
-        },
-        {
-          "keyword": "peyton stearns",
-          "score": 97
-        },
-        {
-          "keyword": "ios 26.2",
-          "score": 96
-        },
-        {
-          "keyword": "egypt vs senegal",
-          "score": 95
-        },
-        {
-          "keyword": "sam beal missing",
-          "score": 94
-        },
-        {
-          "keyword": "tax filing deadline",
-          "score": 93
-        },
-        {
-          "keyword": "lee cronin the mummy",
-          "score": 92
-        },
-        {
-          "keyword": "nytimes.com",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-14T11:41:00.782Z",
       "geo": "US",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "anastasia potapova",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-18T11:34:31.446Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "snl cold open",
+          "score": 100
+        },
+        {
+          "keyword": "ios 26.2",
+          "score": 99
+        },
+        {
+          "keyword": "parma vs genoa",
+          "score": 98
+        },
+        {
+          "keyword": "atlanta weather",
+          "score": 97
+        },
+        {
+          "keyword": "alejandro rosales castillo",
+          "score": 96
+        },
+        {
+          "keyword": "randy moss",
+          "score": 95
+        },
+        {
+          "keyword": "wgal weather",
+          "score": 94
+        },
+        {
+          "keyword": "emma raducanu",
+          "score": 93
+        },
+        {
+          "keyword": "daryl mitchell",
+          "score": 92
+        },
+        {
+          "keyword": "dp world tour",
           "score": 91
         }
       ]
