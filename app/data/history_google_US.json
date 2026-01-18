@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-14T06:54:48.450Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sheryl lee ralph",
-          "score": 100
-        },
-        {
-          "keyword": "saks fifth avenue",
-          "score": 99
-        },
-        {
-          "keyword": "carrie underwood",
-          "score": 98
-        },
-        {
-          "keyword": "westminster mall",
-          "score": 97
-        },
-        {
-          "keyword": "casper ruud",
-          "score": 96
-        },
-        {
-          "keyword": "kristen wiig",
-          "score": 95
-        },
-        {
-          "keyword": "palm royale",
-          "score": 94
-        },
-        {
-          "keyword": "bronny james",
-          "score": 93
-        },
-        {
-          "keyword": "gal gadot",
-          "score": 92
-        },
-        {
-          "keyword": "marcus smart",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-14T07:18:47.401Z",
       "geo": "US",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "brendan fraser",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-18T07:13:19.791Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "euphoria cast",
+          "score": 100
+        },
+        {
+          "keyword": "twice",
+          "score": 99
+        },
+        {
+          "keyword": "jason kubler",
+          "score": 98
+        },
+        {
+          "keyword": "landman season 3",
+          "score": 97
+        },
+        {
+          "keyword": "sean astin",
+          "score": 96
+        },
+        {
+          "keyword": "veronica mars",
+          "score": 95
+        },
+        {
+          "keyword": "frances tiafoe",
+          "score": 94
+        },
+        {
+          "keyword": "victorian disease",
+          "score": 93
+        },
+        {
+          "keyword": "korda",
+          "score": 92
+        },
+        {
+          "keyword": "carlos alcaraz",
           "score": 91
         }
       ]

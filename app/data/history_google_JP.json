@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-14T06:54:50.891Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "行司",
-          "score": 100
-        },
-        {
-          "keyword": "レブロン・ジェームズ",
-          "score": 99
-        },
-        {
-          "keyword": "ステフィン・カリー",
-          "score": 98
-        },
-        {
-          "keyword": "zerobaseone",
-          "score": 97
-        },
-        {
-          "keyword": "時津風親方",
-          "score": 96
-        },
-        {
-          "keyword": "lypプレミアム",
-          "score": 95
-        },
-        {
-          "keyword": "保育士",
-          "score": 94
-        },
-        {
-          "keyword": "メローニ首相",
-          "score": 93
-        },
-        {
-          "keyword": "kddi",
-          "score": 92
-        },
-        {
-          "keyword": "東京スカイツリー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-14T07:18:50.053Z",
       "geo": "JP",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "ヒロミ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-18T07:13:22.571Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "松本まりか",
+          "score": 100
+        },
+        {
+          "keyword": "プロキオンステークス",
+          "score": 99
+        },
+        {
+          "keyword": "アメリカジョッキークラブカップ",
+          "score": 98
+        },
+        {
+          "keyword": "コントレイル",
+          "score": 97
+        },
+        {
+          "keyword": "ポルシェ",
+          "score": 96
+        },
+        {
+          "keyword": "葛西紀明",
+          "score": 95
+        },
+        {
+          "keyword": "スキージャンプ",
+          "score": 94
+        },
+        {
+          "keyword": "ランボルギーニ",
+          "score": 93
+        },
+        {
+          "keyword": "鈴木貴子",
+          "score": 92
+        },
+        {
+          "keyword": "ゴリランダー ポケモンgo",
           "score": 91
         }
       ]
