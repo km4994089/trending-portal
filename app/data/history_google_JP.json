@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-14T12:25:22.251Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "山下リオ",
-          "score": 100
-        },
-        {
-          "keyword": "川田裕美",
-          "score": 99
-        },
-        {
-          "keyword": "ガキペイ",
-          "score": 98
-        },
-        {
-          "keyword": "ニノなのに",
-          "score": 97
-        },
-        {
-          "keyword": "極楽湯",
-          "score": 96
-        },
-        {
-          "keyword": "pts",
-          "score": 95
-        },
-        {
-          "keyword": "渡辺直美 東京ドーム",
-          "score": 94
-        },
-        {
-          "keyword": "千鳥かまいたち",
-          "score": 93
-        },
-        {
-          "keyword": "激突メシあがれ",
-          "score": 92
-        },
-        {
-          "keyword": "鳥羽水族館",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-14T13:13:01.905Z",
       "geo": "JP",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "ホーチミン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-18T13:04:06.771Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "藤原竜也",
+          "score": 100
+        },
+        {
+          "keyword": "nhkスペシャル",
+          "score": 99
+        },
+        {
+          "keyword": "フォレスター",
+          "score": 98
+        },
+        {
+          "keyword": "堀ちえみ",
+          "score": 97
+        },
+        {
+          "keyword": "多ケ谷亮",
+          "score": 96
+        },
+        {
+          "keyword": "神戸大学",
+          "score": 95
+        },
+        {
+          "keyword": "筑波大学",
+          "score": 94
+        },
+        {
+          "keyword": "ケムリ",
+          "score": 93
+        },
+        {
+          "keyword": "ユージ",
+          "score": 92
+        },
+        {
+          "keyword": "三菱重工",
           "score": 91
         }
       ]

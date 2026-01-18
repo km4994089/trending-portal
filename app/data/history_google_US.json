@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-14T12:25:19.729Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "measles",
-          "score": 100
-        },
-        {
-          "keyword": "rich paul",
-          "score": 99
-        },
-        {
-          "keyword": "animal crossing update",
-          "score": 98
-        },
-        {
-          "keyword": "nws",
-          "score": 97
-        },
-        {
-          "keyword": "giannis",
-          "score": 96
-        },
-        {
-          "keyword": "arthur brooks",
-          "score": 95
-        },
-        {
-          "keyword": "bac stock",
-          "score": 94
-        },
-        {
-          "keyword": "kyle kuzma",
-          "score": 93
-        },
-        {
-          "keyword": "anna leigh waters",
-          "score": 92
-        },
-        {
-          "keyword": "walk for peace",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-14T13:12:58.890Z",
       "geo": "US",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "cricket score",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-18T13:04:04.239Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "football yesterday",
+          "score": 100
+        },
+        {
+          "keyword": "wood tv 8",
+          "score": 99
+        },
+        {
+          "keyword": "weather near me",
+          "score": 98
+        },
+        {
+          "keyword": "wfsb",
+          "score": 97
+        },
+        {
+          "keyword": "ohio state buckeyes football",
+          "score": 96
+        },
+        {
+          "keyword": "rod bray",
+          "score": 95
+        },
+        {
+          "keyword": "minneapolis weather",
+          "score": 94
+        },
+        {
+          "keyword": "weather today",
+          "score": 93
+        },
+        {
+          "keyword": "weather channel",
+          "score": 92
+        },
+        {
+          "keyword": "debanking",
           "score": 91
         }
       ]
