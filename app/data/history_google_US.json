@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-14T18:20:22.589Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "john mellencamp",
-          "score": 100
-        },
-        {
-          "keyword": "uscis",
-          "score": 99
-        },
-        {
-          "keyword": "tudum",
-          "score": 98
-        },
-        {
-          "keyword": "beyoğlu yeni çarşı - fenerbahçe",
-          "score": 97
-        },
-        {
-          "keyword": "justice haynes",
-          "score": 96
-        },
-        {
-          "keyword": "raymond james stadium",
-          "score": 95
-        },
-        {
-          "keyword": "lincoln financial field",
-          "score": 94
-        },
-        {
-          "keyword": "kayla harrison",
-          "score": 93
-        },
-        {
-          "keyword": "j cole",
-          "score": 92
-        },
-        {
-          "keyword": "dell curry",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-14T18:54:52.100Z",
       "geo": "US",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "pumas - león",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-18T18:46:48.989Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "bein sports",
+          "score": 100
+        },
+        {
+          "keyword": "corinthians vs são paulo",
+          "score": 99
+        },
+        {
+          "keyword": "audi crooks",
+          "score": 98
+        },
+        {
+          "keyword": "iowa state vs oklahoma st",
+          "score": 97
+        },
+        {
+          "keyword": "senegal - marruecos",
+          "score": 96
+        },
+        {
+          "keyword": "sénégal – maroc",
+          "score": 95
+        },
+        {
+          "keyword": "cam spencer",
+          "score": 94
+        },
+        {
+          "keyword": "thierno barry",
+          "score": 93
+        },
+        {
+          "keyword": "grant udinski",
+          "score": 92
+        },
+        {
+          "keyword": "playstation plus extra games",
           "score": 91
         }
       ]
