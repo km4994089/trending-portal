@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-14T06:21:17.547Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "golden state warriors",
-          "score": 100
-        },
-        {
-          "keyword": "lakers score",
-          "score": 99
-        },
-        {
-          "keyword": "casper ruud",
-          "score": 98
-        },
-        {
-          "keyword": "kristen wiig",
-          "score": 97
-        },
-        {
-          "keyword": "bronny james",
-          "score": 96
-        },
-        {
-          "keyword": "marcus smart",
-          "score": 95
-        },
-        {
-          "keyword": "accident attorneys",
-          "score": 94
-        },
-        {
-          "keyword": "matt hardy",
-          "score": 93
-        },
-        {
-          "keyword": "de'anthony melton",
-          "score": 92
-        },
-        {
-          "keyword": "tabla liga mx",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-14T06:54:48.450Z",
       "geo": "US",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "heated wizardry",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-18T06:51:21.627Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "veronica mars",
+          "score": 100
+        },
+        {
+          "keyword": "sean astin",
+          "score": 99
+        },
+        {
+          "keyword": "frances tiafoe",
+          "score": 98
+        },
+        {
+          "keyword": "victorian disease",
+          "score": 97
+        },
+        {
+          "keyword": "korda",
+          "score": 96
+        },
+        {
+          "keyword": "budapest",
+          "score": 95
+        },
+        {
+          "keyword": "carlos alcaraz",
+          "score": 94
+        },
+        {
+          "keyword": "alex honnold",
+          "score": 93
+        },
+        {
+          "keyword": "sean connery",
+          "score": 92
+        },
+        {
+          "keyword": "brendan fraser",
           "score": 91
         }
       ]
