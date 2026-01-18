@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-14T04:31:06.139Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "宿泊税",
-          "score": 100
-        },
-        {
-          "keyword": "結木滉星",
-          "score": 99
-        },
-        {
-          "keyword": "ヴィラデマリアージュ",
-          "score": 98
-        },
-        {
-          "keyword": "北斗晶",
-          "score": 97
-        },
-        {
-          "keyword": "電通",
-          "score": 96
-        },
-        {
-          "keyword": "ソマリア",
-          "score": 95
-        },
-        {
-          "keyword": "ようつべ",
-          "score": 94
-        },
-        {
-          "keyword": "相武紗季",
-          "score": 93
-        },
-        {
-          "keyword": "江ノ島",
-          "score": 92
-        },
-        {
-          "keyword": "鳩サブレー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-14T05:16:49.826Z",
       "geo": "JP",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "nhk one",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-18T04:55:31.273Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "吉田羊",
+          "score": 100
+        },
+        {
+          "keyword": "松嶋尚美",
+          "score": 99
+        },
+        {
+          "keyword": "大東文化大学",
+          "score": 98
+        },
+        {
+          "keyword": "足利",
+          "score": 97
+        },
+        {
+          "keyword": "ステフィン・カリー",
+          "score": 96
+        },
+        {
+          "keyword": "レッドバンデ",
+          "score": 95
+        },
+        {
+          "keyword": "ナゲッツ 対 ウィザーズ",
+          "score": 94
+        },
+        {
+          "keyword": "八村塁",
+          "score": 93
+        },
+        {
+          "keyword": "49ers",
+          "score": 92
+        },
+        {
+          "keyword": "タント",
           "score": 91
         }
       ]
