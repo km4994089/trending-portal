@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-14T20:41:40.413Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "리그컵",
-          "score": 100
-        },
-        {
-          "keyword": "분데스리가",
-          "score": 99
-        },
-        {
-          "keyword": "네이션스컵",
-          "score": 98
-        },
-        {
-          "keyword": "코너 갤러거",
-          "score": 97
-        },
-        {
-          "keyword": "피파",
-          "score": 96
-        },
-        {
-          "keyword": "29기 영식",
-          "score": 95
-        },
-        {
-          "keyword": "나스닥",
-          "score": 94
-        },
-        {
-          "keyword": "비트코인",
-          "score": 93
-        },
-        {
-          "keyword": "메이드 인 코리아",
-          "score": 92
-        },
-        {
-          "keyword": "트럼프 관세 판결",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-14T21:12:52.734Z",
       "geo": "KR",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "울버햄튼",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-18T21:10:49.521Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "바르셀로나",
+          "score": 100
+        },
+        {
+          "keyword": "레알 소시에다드 대 바르셀로나",
+          "score": 99
+        },
+        {
+          "keyword": "네이션스컵",
+          "score": 98
+        },
+        {
+          "keyword": "aston villa vs everton",
+          "score": 97
+        },
+        {
+          "keyword": "케인",
+          "score": 96
+        },
+        {
+          "keyword": "아틀레티코 마드리드",
+          "score": 95
+        },
+        {
+          "keyword": "lec",
+          "score": 94
+        },
+        {
+          "keyword": "아스톤빌라",
+          "score": 93
+        },
+        {
+          "keyword": "atlético madrid vs alavés",
+          "score": 92
+        },
+        {
+          "keyword": "박은영",
           "score": 91
         }
       ]

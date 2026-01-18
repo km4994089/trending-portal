@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-14T20:41:41.871Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ビットコインチャート",
-          "score": 100
-        },
-        {
-          "keyword": "albacete vs real madrid",
-          "score": 99
-        },
-        {
-          "keyword": "コパ・デル・レイ",
-          "score": 98
-        },
-        {
-          "keyword": "カラバオカップ",
-          "score": 97
-        },
-        {
-          "keyword": "チェルシー",
-          "score": 96
-        },
-        {
-          "keyword": "arsenal",
-          "score": 95
-        },
-        {
-          "keyword": "chelsea vs arsenal",
-          "score": 94
-        },
-        {
-          "keyword": "dazn",
-          "score": 93
-        },
-        {
-          "keyword": "ブンデスリーガ",
-          "score": 92
-        },
-        {
-          "keyword": "チェルシー 対 アーセナル",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-14T21:12:54.127Z",
       "geo": "JP",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "paypay",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-18T21:10:50.793Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "松山英樹",
+          "score": 100
+        },
+        {
+          "keyword": "江口ともみ",
+          "score": 99
+        },
+        {
+          "keyword": "大雪予報",
+          "score": 98
+        },
+        {
+          "keyword": "上坂樹里",
+          "score": 97
+        },
+        {
+          "keyword": "corinthians x são paulo",
+          "score": 96
+        },
+        {
+          "keyword": "綾瀬はるか",
+          "score": 95
+        },
+        {
+          "keyword": "出口夏希",
+          "score": 94
+        },
+        {
+          "keyword": "la liga",
+          "score": 93
+        },
+        {
+          "keyword": "ウナギ・サヤカ",
+          "score": 92
+        },
+        {
+          "keyword": "ラリーガ",
           "score": 91
         }
       ]
