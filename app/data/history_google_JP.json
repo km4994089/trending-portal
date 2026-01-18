@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-14T19:12:14.456Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ケルン 対 バイエルン",
-          "score": 100
-        },
-        {
-          "keyword": "ニンテンドーswitch",
-          "score": 99
-        },
-        {
-          "keyword": "風間トオル",
-          "score": 98
-        },
-        {
-          "keyword": "アフリカネーションズカップ",
-          "score": 97
-        },
-        {
-          "keyword": "ナポリ 対 パルマ",
-          "score": 96
-        },
-        {
-          "keyword": "総合格闘家",
-          "score": 95
-        },
-        {
-          "keyword": "マインツ 対 ハイデンハイム",
-          "score": 94
-        },
-        {
-          "keyword": "宮本茉由",
-          "score": 93
-        },
-        {
-          "keyword": "菅原咲月",
-          "score": 92
-        },
-        {
-          "keyword": "blackpink",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-14T19:38:02.579Z",
       "geo": "JP",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "佐野航大",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-18T19:33:54.559Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "セネガル 対 モロッコ",
+          "score": 100
+        },
+        {
+          "keyword": "ソシエダ 対 バルセロナ",
+          "score": 99
+        },
+        {
+          "keyword": "dazn",
+          "score": 98
+        },
+        {
+          "keyword": "トリノ 対 ローマ",
+          "score": 97
+        },
+        {
+          "keyword": "筒井真理子",
+          "score": 96
+        },
+        {
+          "keyword": "paypay",
+          "score": 95
+        },
+        {
+          "keyword": "エールディヴィジ",
+          "score": 94
+        },
+        {
+          "keyword": "磯野貴理子",
+          "score": 93
+        },
+        {
+          "keyword": "中川安奈",
+          "score": 92
+        },
+        {
+          "keyword": "アウクスブルク 対 フライブルク",
           "score": 91
         }
       ]
