@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-15T06:54:51.110Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tsmc",
-          "score": 100
-        },
-        {
-          "keyword": "한국소방안전원",
-          "score": 99
-        },
-        {
-          "keyword": "수자원공사",
-          "score": 98
-        },
-        {
-          "keyword": "한국수자원공사",
-          "score": 97
-        },
-        {
-          "keyword": "경찰청",
-          "score": 96
-        },
-        {
-          "keyword": "포스코dx",
-          "score": 95
-        },
-        {
-          "keyword": "장예찬",
-          "score": 94
-        },
-        {
-          "keyword": "이창용",
-          "score": 93
-        },
-        {
-          "keyword": "미국 이란",
-          "score": 92
-        },
-        {
-          "keyword": "뉴스타파",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-15T07:18:28.603Z",
       "geo": "KR",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "카카오뱅크",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-19T07:01:11.675Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이원종",
+          "score": 100
+        },
+        {
+          "keyword": "cia",
+          "score": 99
+        },
+        {
+          "keyword": "코스피",
+          "score": 98
+        },
+        {
+          "keyword": "현대차",
+          "score": 97
+        },
+        {
+          "keyword": "rams vs bears",
+          "score": 96
+        },
+        {
+          "keyword": "임이자",
+          "score": 95
+        },
+        {
+          "keyword": "우리기술",
+          "score": 94
+        },
+        {
+          "keyword": "김병기",
+          "score": 93
+        },
+        {
+          "keyword": "카카오뱅크",
+          "score": 92
+        },
+        {
+          "keyword": "빗썸",
           "score": 91
         }
       ]
