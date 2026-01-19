@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-15T19:42:55.499Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ユーネクスト",
-          "score": 100
-        },
-        {
-          "keyword": "巨人",
-          "score": 99
-        },
-        {
-          "keyword": "nttドコモ",
-          "score": 98
-        },
-        {
-          "keyword": "snow manの素のまんま",
-          "score": 97
-        },
-        {
-          "keyword": "則本昂大",
-          "score": 96
-        },
-        {
-          "keyword": "呪術廻戦 ケンコバ",
-          "score": 95
-        },
-        {
-          "keyword": "カーショー",
-          "score": 94
-        },
-        {
-          "keyword": "スイパラ",
-          "score": 93
-        },
-        {
-          "keyword": "chanel",
-          "score": 92
-        },
-        {
-          "keyword": "長友佑都",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-15T20:14:45.862Z",
       "geo": "JP",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "sully",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-19T20:13:58.974Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ファミリーマート",
+          "score": 100
+        },
+        {
+          "keyword": "クーリッシュ 3d プリンタ",
+          "score": 99
+        },
+        {
+          "keyword": "知恵袋",
+          "score": 98
+        },
+        {
+          "keyword": "ブライトン 対 ボーンマス",
+          "score": 97
+        },
+        {
+          "keyword": "山根千佳",
+          "score": 96
+        },
+        {
+          "keyword": "成田悠輔",
+          "score": 95
+        },
+        {
+          "keyword": "井上麻里奈",
+          "score": 94
+        },
+        {
+          "keyword": "ダイアン津田",
+          "score": 93
+        },
+        {
+          "keyword": "ナナヲアカリ",
+          "score": 92
+        },
+        {
+          "keyword": "超特急",
           "score": 91
         }
       ]
