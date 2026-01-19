@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-15T21:40:53.117Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "purdue",
-          "score": 100
-        },
-        {
-          "keyword": "melvin siani",
-          "score": 99
-        },
-        {
-          "keyword": "jakobi jackson",
-          "score": 98
-        },
-        {
-          "keyword": "memphis grizzlies",
-          "score": 97
-        },
-        {
-          "keyword": "fallout secret lair",
-          "score": 96
-        },
-        {
-          "keyword": "spotify prices",
-          "score": 95
-        },
-        {
-          "keyword": "american university",
-          "score": 94
-        },
-        {
-          "keyword": "anthony weaver",
-          "score": 93
-        },
-        {
-          "keyword": "kyle chandler",
-          "score": 92
-        },
-        {
-          "keyword": "dell curry",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-15T22:13:36.805Z",
       "geo": "US",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "capitals vs avalanche",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-19T22:12:49.941Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "uconn women's basketball",
+          "score": 100
+        },
+        {
+          "keyword": "chad o'shea",
+          "score": 99
+        },
+        {
+          "keyword": "jevon evans",
+          "score": 98
+        },
+        {
+          "keyword": "george mason basketball",
+          "score": 97
+        },
+        {
+          "keyword": "school closing predictions",
+          "score": 96
+        },
+        {
+          "keyword": "penguins vs kraken",
+          "score": 95
+        },
+        {
+          "keyword": "regional airline",
+          "score": 94
+        },
+        {
+          "keyword": "black panthers",
+          "score": 93
+        },
+        {
+          "keyword": "kiryas joel",
+          "score": 92
+        },
+        {
+          "keyword": "dan sturges",
           "score": 91
         }
       ]
