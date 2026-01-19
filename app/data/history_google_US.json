@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-15T17:00:44.206Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "asts",
-          "score": 100
-        },
-        {
-          "keyword": "kenan thompson",
-          "score": 99
-        },
-        {
-          "keyword": "jim leonhard",
-          "score": 98
-        },
-        {
-          "keyword": "tionne gray",
-          "score": 97
-        },
-        {
-          "keyword": "mikayla demaiter",
-          "score": 96
-        },
-        {
-          "keyword": "ejiro evero",
-          "score": 95
-        },
-        {
-          "keyword": "rob zombie",
-          "score": 94
-        },
-        {
-          "keyword": "matt lafleur green bay packers",
-          "score": 93
-        },
-        {
-          "keyword": "jonathan kuminga",
-          "score": 92
-        },
-        {
-          "keyword": "mahmoud khalil",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-15T17:54:44.338Z",
       "geo": "US",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "bills playoff history",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-19T17:16:27.958Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "100 car pile up",
+          "score": 100
+        },
+        {
+          "keyword": "valentino",
+          "score": 99
+        },
+        {
+          "keyword": "stonehill basketball",
+          "score": 98
+        },
+        {
+          "keyword": "northern lights",
+          "score": 97
+        },
+        {
+          "keyword": "marathon game",
+          "score": 96
+        },
+        {
+          "keyword": "cremonese vs verona",
+          "score": 95
+        },
+        {
+          "keyword": "peso pluma tour",
+          "score": 94
+        },
+        {
+          "keyword": "jorge mateo",
+          "score": 93
+        },
+        {
+          "keyword": "snow squall",
+          "score": 92
+        },
+        {
+          "keyword": "ana",
           "score": 91
         }
       ]
