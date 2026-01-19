@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-15T09:19:41.891Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "test",
-          "score": 100
-        },
-        {
-          "keyword": "리아",
-          "score": 99
-        },
-        {
-          "keyword": "lg cns",
-          "score": 98
-        },
-        {
-          "keyword": "신민준",
-          "score": 97
-        },
-        {
-          "keyword": "tsmc 실적 발표",
-          "score": 96
-        },
-        {
-          "keyword": "아이온2",
-          "score": 95
-        },
-        {
-          "keyword": "국가대표 ai",
-          "score": 94
-        },
-        {
-          "keyword": "tsmc",
-          "score": 93
-        },
-        {
-          "keyword": "한국소방안전원",
-          "score": 92
-        },
-        {
-          "keyword": "수자원공사",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-15T09:46:42.850Z",
       "geo": "KR",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "김병기",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-19T09:25:08.970Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김형석",
+          "score": 100
+        },
+        {
+          "keyword": "나라사랑카드",
+          "score": 99
+        },
+        {
+          "keyword": "서울보증보험",
+          "score": 98
+        },
+        {
+          "keyword": "나철",
+          "score": 97
+        },
+        {
+          "keyword": "마틴 루터 킹 주니어의 날",
+          "score": 96
+        },
+        {
+          "keyword": "dr. martin luther king jr. day",
+          "score": 95
+        },
+        {
+          "keyword": "이원종",
+          "score": 94
+        },
+        {
+          "keyword": "이탈리아",
+          "score": 93
+        },
+        {
+          "keyword": "cia",
+          "score": 92
+        },
+        {
+          "keyword": "코스피",
           "score": 91
         }
       ]
