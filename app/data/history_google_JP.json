@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-15T22:43:30.845Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "阪神淡路大震災",
-          "score": 100
-        },
-        {
-          "keyword": "南北線",
-          "score": 99
-        },
-        {
-          "keyword": "常磐線",
-          "score": 98
-        },
-        {
-          "keyword": "新潟市天気",
-          "score": 97
-        },
-        {
-          "keyword": "みなとみらい",
-          "score": 96
-        },
-        {
-          "keyword": "リアルタイム",
-          "score": 95
-        },
-        {
-          "keyword": "東西線",
-          "score": 94
-        },
-        {
-          "keyword": "名古屋天気",
-          "score": 93
-        },
-        {
-          "keyword": "中井りん",
-          "score": 92
-        },
-        {
-          "keyword": "コパ・デル・レイ",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-01-15T23:12:16.375Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "天気予報 雪",
-          "score": 100
-        },
-        {
-          "keyword": "リブート",
-          "score": 99
-        },
-        {
-          "keyword": "松山英樹",
-          "score": 98
-        },
-        {
-          "keyword": "京急線 遅延",
-          "score": 97
-        },
-        {
-          "keyword": "ペヨンジュン",
-          "score": 96
-        },
-        {
-          "keyword": "大阪城",
-          "score": 95
-        },
-        {
-          "keyword": "bリーグ オールスター",
-          "score": 94
-        },
-        {
-          "keyword": "赤穂",
-          "score": 93
-        },
-        {
-          "keyword": "西鉄",
-          "score": 92
-        },
-        {
-          "keyword": "京急線",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-15T23:40:08.862Z",
       "geo": "JP",
       "source": "google",
@@ -7706,6 +7612,53 @@
         },
         {
           "keyword": "野中瑠衣",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-19T23:12:16.985Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "馬渕磨理子",
+          "score": 100
+        },
+        {
+          "keyword": "三山凌輝",
+          "score": 99
+        },
+        {
+          "keyword": "岩崎う大",
+          "score": 98
+        },
+        {
+          "keyword": "炎炎ノ消防隊",
+          "score": 97
+        },
+        {
+          "keyword": "永瀬廉",
+          "score": 96
+        },
+        {
+          "keyword": "秋田新幹線",
+          "score": 95
+        },
+        {
+          "keyword": "吉野家 白銀ノエル",
+          "score": 94
+        },
+        {
+          "keyword": "仙山線",
+          "score": 93
+        },
+        {
+          "keyword": "ウィザーズ 対 クリッパーズ",
+          "score": 92
+        },
+        {
+          "keyword": "伊豆市",
           "score": 91
         }
       ]
