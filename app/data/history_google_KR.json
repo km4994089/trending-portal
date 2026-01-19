@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-15T09:46:42.850Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "현주엽 논란",
-          "score": 100
-        },
-        {
-          "keyword": "test",
-          "score": 99
-        },
-        {
-          "keyword": "리아",
-          "score": 98
-        },
-        {
-          "keyword": "lg cns",
-          "score": 97
-        },
-        {
-          "keyword": "신민준",
-          "score": 96
-        },
-        {
-          "keyword": "tsmc 실적 발표",
-          "score": 95
-        },
-        {
-          "keyword": "아이온2",
-          "score": 94
-        },
-        {
-          "keyword": "국가대표 ai",
-          "score": 93
-        },
-        {
-          "keyword": "tsmc",
-          "score": 92
-        },
-        {
-          "keyword": "한국소방안전원",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-15T10:14:18.525Z",
       "geo": "KR",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "코스피",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-19T09:54:21.923Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김형석",
+          "score": 100
+        },
+        {
+          "keyword": "나라사랑카드",
+          "score": 99
+        },
+        {
+          "keyword": "서울보증보험",
+          "score": 98
+        },
+        {
+          "keyword": "나철",
+          "score": 97
+        },
+        {
+          "keyword": "마틴 루터 킹 주니어의 날",
+          "score": 96
+        },
+        {
+          "keyword": "dr. martin luther king jr. day",
+          "score": 95
+        },
+        {
+          "keyword": "이원종",
+          "score": 94
+        },
+        {
+          "keyword": "cia",
+          "score": 93
+        },
+        {
+          "keyword": "코스피",
+          "score": 92
+        },
+        {
+          "keyword": "현대차 주가",
           "score": 91
         }
       ]

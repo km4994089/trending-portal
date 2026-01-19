@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-15T09:46:41.652Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "snow weather forecast",
-          "score": 100
-        },
-        {
-          "keyword": "school closings and delays",
-          "score": 99
-        },
-        {
-          "keyword": "school closings today",
-          "score": 98
-        },
-        {
-          "keyword": "earthquake california",
-          "score": 97
-        },
-        {
-          "keyword": "sonic boom",
-          "score": 96
-        },
-        {
-          "keyword": "earthquake los angeles",
-          "score": 95
-        },
-        {
-          "keyword": "earthquake now los angeles",
-          "score": 94
-        },
-        {
-          "keyword": "earthquake now",
-          "score": 93
-        },
-        {
-          "keyword": "earthquake",
-          "score": 92
-        },
-        {
-          "keyword": "spacex launch",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-15T10:14:17.341Z",
       "geo": "US",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "botic van de zandschulp",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-19T09:54:20.818Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mirra andreeva",
+          "score": 100
+        },
+        {
+          "keyword": "the walking dead",
+          "score": 99
+        },
+        {
+          "keyword": "trump letter to norway",
+          "score": 98
+        },
+        {
+          "keyword": "iga świątek",
+          "score": 97
+        },
+        {
+          "keyword": "iga swiatek",
+          "score": 96
+        },
+        {
+          "keyword": "valentin vacherot",
+          "score": 95
+        },
+        {
+          "keyword": "jiri lehecka",
+          "score": 94
+        },
+        {
+          "keyword": "yue yuan",
+          "score": 93
+        },
+        {
+          "keyword": "tom holland",
+          "score": 92
+        },
+        {
+          "keyword": "new show to watch",
           "score": 91
         }
       ]
