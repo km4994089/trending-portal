@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-15T11:39:21.968Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jcps",
-          "score": 100
-        },
-        {
-          "keyword": "channel 2 news",
-          "score": 99
-        },
-        {
-          "keyword": "channel 4 news buffalo",
-          "score": 98
-        },
-        {
-          "keyword": "travis turner",
-          "score": 97
-        },
-        {
-          "keyword": "wtol 11",
-          "score": 96
-        },
-        {
-          "keyword": "wsaz closings",
-          "score": 95
-        },
-        {
-          "keyword": "leslie davis",
-          "score": 94
-        },
-        {
-          "keyword": "baltimore weather",
-          "score": 93
-        },
-        {
-          "keyword": "wxyz",
-          "score": 92
-        },
-        {
-          "keyword": "wtap",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-15T12:25:36.548Z",
       "geo": "US",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "the walking dead",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-19T11:41:16.067Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "snow totals massachusetts",
+          "score": 100
+        },
+        {
+          "keyword": "adamuz",
+          "score": 99
+        },
+        {
+          "keyword": "latest iphone rumors",
+          "score": 98
+        },
+        {
+          "keyword": "new",
+          "score": 97
+        },
+        {
+          "keyword": "january 19",
+          "score": 96
+        },
+        {
+          "keyword": "people magazine",
+          "score": 95
+        },
+        {
+          "keyword": "board of peace",
+          "score": 94
+        },
+        {
+          "keyword": "nick sortor",
+          "score": 93
+        },
+        {
+          "keyword": "casper ruud",
+          "score": 92
+        },
+        {
+          "keyword": "sinner",
           "score": 91
         }
       ]
