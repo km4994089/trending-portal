@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-15T02:56:31.749Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "グーグル",
-          "score": 100
-        },
-        {
-          "keyword": "強制執行",
-          "score": 99
-        },
-        {
-          "keyword": "ミャンマー",
-          "score": 98
-        },
-        {
-          "keyword": "ジョイフル",
-          "score": 97
-        },
-        {
-          "keyword": "クラゲ",
-          "score": 96
-        },
-        {
-          "keyword": "f",
-          "score": 95
-        },
-        {
-          "keyword": "西田尚美",
-          "score": 94
-        },
-        {
-          "keyword": "バスケットボール",
-          "score": 93
-        },
-        {
-          "keyword": "ドイツ",
-          "score": 92
-        },
-        {
-          "keyword": "中村雅俊",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-15T04:02:14.526Z",
       "geo": "JP",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "住友化学 株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-19T03:19:21.305Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ますだおかだ 岡田",
+          "score": 100
+        },
+        {
+          "keyword": "天皇皇后両陛下",
+          "score": 99
+        },
+        {
+          "keyword": "柏崎刈羽原子力発電所",
+          "score": 98
+        },
+        {
+          "keyword": "bears",
+          "score": 97
+        },
+        {
+          "keyword": "中村鶴松",
+          "score": 96
+        },
+        {
+          "keyword": "bears vs rams",
+          "score": 95
+        },
+        {
+          "keyword": "adobe stock",
+          "score": 94
+        },
+        {
+          "keyword": "gdp",
+          "score": 93
+        },
+        {
+          "keyword": "ムーキー・ベッツ",
+          "score": 92
+        },
+        {
+          "keyword": "東北学院大学",
           "score": 91
         }
       ]

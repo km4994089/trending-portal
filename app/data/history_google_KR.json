@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-15T02:56:30.379Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "온누리상품권",
-          "score": 100
-        },
-        {
-          "keyword": "신한은행 기업",
-          "score": 99
-        },
-        {
-          "keyword": "아시아나항공",
-          "score": 98
-        },
-        {
-          "keyword": "디나미스원",
-          "score": 97
-        },
-        {
-          "keyword": "휴림로봇",
-          "score": 96
-        },
-        {
-          "keyword": "정선희",
-          "score": 95
-        },
-        {
-          "keyword": "상생페이백",
-          "score": 94
-        },
-        {
-          "keyword": "홈",
-          "score": 93
-        },
-        {
-          "keyword": "와우넷",
-          "score": 92
-        },
-        {
-          "keyword": "쿠팡 쿠폰",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-15T04:02:13.070Z",
       "geo": "KR",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "srt",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-19T03:19:19.957Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김병기",
+          "score": 100
+        },
+        {
+          "keyword": "카카오뱅크",
+          "score": 99
+        },
+        {
+          "keyword": "휴림로봇",
+          "score": 98
+        },
+        {
+          "keyword": "소상공인정책자금",
+          "score": 97
+        },
+        {
+          "keyword": "업비트",
+          "score": 96
+        },
+        {
+          "keyword": "리플",
+          "score": 95
+        },
+        {
+          "keyword": "비트코인",
+          "score": 94
+        },
+        {
+          "keyword": "김하성",
+          "score": 93
+        },
+        {
+          "keyword": "국세청",
+          "score": 92
+        },
+        {
+          "keyword": "연말정산 간소화",
           "score": 91
         }
       ]
