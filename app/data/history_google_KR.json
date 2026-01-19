@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-15T04:02:13.070Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "농협",
-          "score": 100
-        },
-        {
-          "keyword": "미세먼지",
-          "score": 99
-        },
-        {
-          "keyword": "flightradar24",
-          "score": 98
-        },
-        {
-          "keyword": "온누리상품권",
-          "score": 97
-        },
-        {
-          "keyword": "신한은행 기업",
-          "score": 96
-        },
-        {
-          "keyword": "아시아나항공",
-          "score": 95
-        },
-        {
-          "keyword": "디나미스원",
-          "score": 94
-        },
-        {
-          "keyword": "휴림로봇",
-          "score": 93
-        },
-        {
-          "keyword": "정선희",
-          "score": 92
-        },
-        {
-          "keyword": "상생페이백",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-15T04:56:59.686Z",
       "geo": "KR",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "연말정산 간소화",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-19T04:33:57.193Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이탈리아",
+          "score": 100
+        },
+        {
+          "keyword": "코스피",
+          "score": 99
+        },
+        {
+          "keyword": "현대차",
+          "score": 98
+        },
+        {
+          "keyword": "rams vs bears",
+          "score": 97
+        },
+        {
+          "keyword": "임이자",
+          "score": 96
+        },
+        {
+          "keyword": "우리기술",
+          "score": 95
+        },
+        {
+          "keyword": "김병기",
+          "score": 94
+        },
+        {
+          "keyword": "카카오뱅크",
+          "score": 93
+        },
+        {
+          "keyword": "휴림로봇 주가",
+          "score": 92
+        },
+        {
+          "keyword": "소상공인정책자금",
           "score": 91
         }
       ]
