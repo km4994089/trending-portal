@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-15T10:14:19.962Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "佐野勇斗",
-          "score": 100
-        },
-        {
-          "keyword": "羽鳥アナ",
-          "score": 99
-        },
-        {
-          "keyword": "ダノンヒストリー",
-          "score": 98
-        },
-        {
-          "keyword": "ミュージックジェネレーション",
-          "score": 97
-        },
-        {
-          "keyword": "イースター航空",
-          "score": 96
-        },
-        {
-          "keyword": "国立競技場 ライブ",
-          "score": 95
-        },
-        {
-          "keyword": "ヤンマースタジアム長居",
-          "score": 94
-        },
-        {
-          "keyword": "eplus",
-          "score": 93
-        },
-        {
-          "keyword": "ぴあチケット",
-          "score": 92
-        },
-        {
-          "keyword": "チケットぴあ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-15T10:46:58.113Z",
       "geo": "JP",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "熱海富士",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-19T10:18:44.664Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "愛知6区",
+          "score": 100
+        },
+        {
+          "keyword": "船橋競馬",
+          "score": 99
+        },
+        {
+          "keyword": "twice",
+          "score": 98
+        },
+        {
+          "keyword": "windows update",
+          "score": 97
+        },
+        {
+          "keyword": "歴代総理大臣",
+          "score": 96
+        },
+        {
+          "keyword": "天気大雪",
+          "score": 95
+        },
+        {
+          "keyword": "食料品消費税ゼロ",
+          "score": 94
+        },
+        {
+          "keyword": "内島萌夏",
+          "score": 93
+        },
+        {
+          "keyword": "しゃべくり007",
+          "score": 92
+        },
+        {
+          "keyword": "高市早苗",
           "score": 91
         }
       ]
