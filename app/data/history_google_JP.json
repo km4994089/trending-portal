@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-15T00:57:34.316Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jx金属",
-          "score": 100
-        },
-        {
-          "keyword": "ゴリラ",
-          "score": 99
-        },
-        {
-          "keyword": "タイ",
-          "score": 98
-        },
-        {
-          "keyword": "通訳",
-          "score": 97
-        },
-        {
-          "keyword": "アライグマ",
-          "score": 96
-        },
-        {
-          "keyword": "東邦亜鉛 株価",
-          "score": 95
-        },
-        {
-          "keyword": "カーペンターズ",
-          "score": 94
-        },
-        {
-          "keyword": "地球温暖化",
-          "score": 93
-        },
-        {
-          "keyword": "5",
-          "score": 92
-        },
-        {
-          "keyword": "メッシ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-15T02:56:31.749Z",
       "geo": "JP",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "豊田真由子",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-19T01:03:35.795Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "双日 株価",
+          "score": 100
+        },
+        {
+          "keyword": "地球",
+          "score": 99
+        },
+        {
+          "keyword": "三菱電機 株価",
+          "score": 98
+        },
+        {
+          "keyword": "国土交通省",
+          "score": 97
+        },
+        {
+          "keyword": "トヨタ 株価",
+          "score": 96
+        },
+        {
+          "keyword": "東京スカイツリー",
+          "score": 95
+        },
+        {
+          "keyword": "中京大学",
+          "score": 94
+        },
+        {
+          "keyword": "山梨県の山火事",
+          "score": 93
+        },
+        {
+          "keyword": "西澤アナ",
+          "score": 92
+        },
+        {
+          "keyword": "住友化学 株価",
           "score": 91
         }
       ]

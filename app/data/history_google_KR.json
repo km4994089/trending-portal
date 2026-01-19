@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-15T00:57:33.352Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "코레일",
-          "score": 100
-        },
-        {
-          "keyword": "쿠팡 쿠폰",
-          "score": 99
-        },
-        {
-          "keyword": "band",
-          "score": 98
-        },
-        {
-          "keyword": "주민등록등본",
-          "score": 97
-        },
-        {
-          "keyword": "에어부산",
-          "score": 96
-        },
-        {
-          "keyword": "원달러환율",
-          "score": 95
-        },
-        {
-          "keyword": "홈택스",
-          "score": 94
-        },
-        {
-          "keyword": "나솔 영식",
-          "score": 93
-        },
-        {
-          "keyword": "อัลบาเซเต้ พบ เรอัลมาดริด",
-          "score": 92
-        },
-        {
-          "keyword": "컴포즈",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-15T02:56:30.379Z",
       "geo": "KR",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "중앙일보",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-19T01:03:34.569Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "비트코인",
+          "score": 100
+        },
+        {
+          "keyword": "김하성",
+          "score": 99
+        },
+        {
+          "keyword": "국세청",
+          "score": 98
+        },
+        {
+          "keyword": "연말정산 간소화",
+          "score": 97
+        },
+        {
+          "keyword": "브라힘 디아스",
+          "score": 96
+        },
+        {
+          "keyword": "เรอัลโซเซียดัด พบ บาร์ซา",
+          "score": 95
+        },
+        {
+          "keyword": "부산날씨",
+          "score": 94
+        },
+        {
+          "keyword": "대한",
+          "score": 93
+        },
+        {
+          "keyword": "날씨",
+          "score": 92
+        },
+        {
+          "keyword": "srt",
           "score": 91
         }
       ]
