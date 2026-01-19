@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-15T22:13:36.805Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sam darnold",
-          "score": 100
-        },
-        {
-          "keyword": "desmond scott",
-          "score": 99
-        },
-        {
-          "keyword": "nvidia rtx 5070ti",
-          "score": 98
-        },
-        {
-          "keyword": "resident evil showcase",
-          "score": 97
-        },
-        {
-          "keyword": "niall stanage",
-          "score": 96
-        },
-        {
-          "keyword": "seahawks injury report",
-          "score": 95
-        },
-        {
-          "keyword": "love island all stars",
-          "score": 94
-        },
-        {
-          "keyword": "jamie dimon",
-          "score": 93
-        },
-        {
-          "keyword": "anthony black",
-          "score": 92
-        },
-        {
-          "keyword": "purdue",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-15T22:43:28.187Z",
       "geo": "US",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "dan sturges",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-19T22:43:05.345Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "pitbull",
+          "score": 100
+        },
+        {
+          "keyword": "max christie",
+          "score": 99
+        },
+        {
+          "keyword": "dolphins head coach",
+          "score": 98
+        },
+        {
+          "keyword": "school closings tomorrow",
+          "score": 97
+        },
+        {
+          "keyword": "finn balor",
+          "score": 96
+        },
+        {
+          "keyword": "uconn women's basketball",
+          "score": 95
+        },
+        {
+          "keyword": "george mason basketball",
+          "score": 94
+        },
+        {
+          "keyword": "jevon evans",
+          "score": 93
+        },
+        {
+          "keyword": "chad o'shea",
+          "score": 92
+        },
+        {
+          "keyword": "school closing predictions",
           "score": 91
         }
       ]
