@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-15T14:47:24.659Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "カンブリア宮殿",
-          "score": 100
-        },
-        {
-          "keyword": "アルピーヌ",
-          "score": 99
-        },
-        {
-          "keyword": "長崎 火事",
-          "score": 98
-        },
-        {
-          "keyword": "リベラル",
-          "score": 97
-        },
-        {
-          "keyword": "ダイアン津田",
-          "score": 96
-        },
-        {
-          "keyword": "山口那津男",
-          "score": 95
-        },
-        {
-          "keyword": "デンマーク",
-          "score": 94
-        },
-        {
-          "keyword": "エリトリア",
-          "score": 93
-        },
-        {
-          "keyword": "aya",
-          "score": 92
-        },
-        {
-          "keyword": "ブシュロン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-15T15:15:48.644Z",
       "geo": "JP",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "米国市場 休場",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-19T14:51:59.002Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "岩渕麗楽",
+          "score": 100
+        },
+        {
+          "keyword": "豪快キャプテン",
+          "score": 99
+        },
+        {
+          "keyword": "小林陵侑",
+          "score": 98
+        },
+        {
+          "keyword": "東出昌大",
+          "score": 97
+        },
+        {
+          "keyword": "キンパとおにぎり",
+          "score": 96
+        },
+        {
+          "keyword": "河村勇輝",
+          "score": 95
+        },
+        {
+          "keyword": "中革連",
+          "score": 94
+        },
+        {
+          "keyword": "ファイナルファンタジー",
+          "score": 93
+        },
+        {
+          "keyword": "ジス",
+          "score": 92
+        },
+        {
+          "keyword": "竹内智香",
           "score": 91
         }
       ]
