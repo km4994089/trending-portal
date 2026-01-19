@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-15T20:45:21.587Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "運行情報",
-          "score": 100
-        },
-        {
-          "keyword": "jr",
-          "score": 99
-        },
-        {
-          "keyword": "山手線",
-          "score": 98
-        },
-        {
-          "keyword": "中田宏",
-          "score": 97
-        },
-        {
-          "keyword": "ユーネクスト",
-          "score": 96
-        },
-        {
-          "keyword": "nttドコモ",
-          "score": 95
-        },
-        {
-          "keyword": "snow manの素のまんま",
-          "score": 94
-        },
-        {
-          "keyword": "則本昂大",
-          "score": 93
-        },
-        {
-          "keyword": "呪術廻戦 ケンコバ",
-          "score": 92
-        },
-        {
-          "keyword": "カーショー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-15T21:13:21.736Z",
       "geo": "JP",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "超特急",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-19T21:11:45.272Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "原千晶アナウンサー骨折",
+          "score": 100
+        },
+        {
+          "keyword": "暴風雪警報",
+          "score": 99
+        },
+        {
+          "keyword": "ラツィオ 対 コモ",
+          "score": 98
+        },
+        {
+          "keyword": "沢尻エリカ",
+          "score": 97
+        },
+        {
+          "keyword": "トランプ",
+          "score": 96
+        },
+        {
+          "keyword": "ファミリーマート",
+          "score": 95
+        },
+        {
+          "keyword": "jo1",
+          "score": 94
+        },
+        {
+          "keyword": "クーリッシュ 3d プリンタ",
+          "score": 93
+        },
+        {
+          "keyword": "知恵袋",
+          "score": 92
+        },
+        {
+          "keyword": "ブライトン 対 ボーンマス",
           "score": 91
         }
       ]
