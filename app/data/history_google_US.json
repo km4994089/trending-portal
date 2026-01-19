@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-15T06:20:10.739Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "la clippers",
-          "score": 100
-        },
-        {
-          "keyword": "aj dybantsa",
-          "score": 99
-        },
-        {
-          "keyword": "tsmc stock",
-          "score": 98
-        },
-        {
-          "keyword": "franz wagner",
-          "score": 97
-        },
-        {
-          "keyword": "byu basketball game",
-          "score": 96
-        },
-        {
-          "keyword": "nba mock draft 2026",
-          "score": 95
-        },
-        {
-          "keyword": "kill tony",
-          "score": 94
-        },
-        {
-          "keyword": "iris apatow",
-          "score": 93
-        },
-        {
-          "keyword": "vgk",
-          "score": 92
-        },
-        {
-          "keyword": "cam skattebo",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-15T06:54:49.840Z",
       "geo": "US",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "marcos giron",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-19T06:24:55.600Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "victoria mboko",
+          "score": 100
+        },
+        {
+          "keyword": "brendan fraser",
+          "score": 99
+        },
+        {
+          "keyword": "resident evil",
+          "score": 98
+        },
+        {
+          "keyword": "brandon nakashima",
+          "score": 97
+        },
+        {
+          "keyword": "colin farrell",
+          "score": 96
+        },
+        {
+          "keyword": "muhammad ali",
+          "score": 95
+        },
+        {
+          "keyword": "jesse eisenberg",
+          "score": 94
+        },
+        {
+          "keyword": "camila morrone",
+          "score": 93
+        },
+        {
+          "keyword": "ellen degeneres",
+          "score": 92
+        },
+        {
+          "keyword": "dr. martin luther king jr. day",
           "score": 91
         }
       ]
