@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-15T13:55:06.462Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "玉置浩二",
-          "score": 100
-        },
-        {
-          "keyword": "ジェジュン",
-          "score": 99
-        },
-        {
-          "keyword": "小椋佳",
-          "score": 98
-        },
-        {
-          "keyword": "森泉",
-          "score": 97
-        },
-        {
-          "keyword": "斎藤工",
-          "score": 96
-        },
-        {
-          "keyword": "鈴木 亮平",
-          "score": 95
-        },
-        {
-          "keyword": "積水ハウス",
-          "score": 94
-        },
-        {
-          "keyword": "高橋海人",
-          "score": 93
-        },
-        {
-          "keyword": "湊かなえ",
-          "score": 92
-        },
-        {
-          "keyword": "ディズニーランド",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-15T14:16:45.904Z",
       "geo": "JP",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "吉野家",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-19T13:58:18.670Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "京王線 人身事故",
+          "score": 100
+        },
+        {
+          "keyword": "nvidia",
+          "score": 99
+        },
+        {
+          "keyword": "ダボス会議",
+          "score": 98
+        },
+        {
+          "keyword": "京王線",
+          "score": 97
+        },
+        {
+          "keyword": "ジャンポケ斎藤",
+          "score": 96
+        },
+        {
+          "keyword": "足立梨花",
+          "score": 95
+        },
+        {
+          "keyword": "エチオピア",
+          "score": 94
+        },
+        {
+          "keyword": "遺族年金",
+          "score": 93
+        },
+        {
+          "keyword": "高梨沙羅",
+          "score": 92
+        },
+        {
+          "keyword": "岡本信彦",
           "score": 91
         }
       ]
