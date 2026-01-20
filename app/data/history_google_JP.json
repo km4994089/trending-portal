@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-16T15:14:50.003Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "伊藤英明",
-          "score": 100
-        },
-        {
-          "keyword": "村上虹郎",
-          "score": 99
-        },
-        {
-          "keyword": "1月17日",
-          "score": 98
-        },
-        {
-          "keyword": "ベトナムu-23 対 uae u-23",
-          "score": 97
-        },
-        {
-          "keyword": "u-23 việt nam đấu với u-23 các tiểu vương quốc ả rập thống nhất",
-          "score": 96
-        },
-        {
-          "keyword": "串カツ田中",
-          "score": 95
-        },
-        {
-          "keyword": "関根勤",
-          "score": 94
-        },
-        {
-          "keyword": "グエイ",
-          "score": 93
-        },
-        {
-          "keyword": "ハワイアンズ",
-          "score": 92
-        },
-        {
-          "keyword": "ファミリーヒストリー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-16T15:43:54.556Z",
       "geo": "JP",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "平野紫耀",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-20T15:21:16.457Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "トランプ関税",
+          "score": 100
+        },
+        {
+          "keyword": "河村たかし",
+          "score": 99
+        },
+        {
+          "keyword": "u-23 việt nam đấu với u-23 trung quốc",
+          "score": 98
+        },
+        {
+          "keyword": "錦織一清",
+          "score": 97
+        },
+        {
+          "keyword": "中川安奈",
+          "score": 96
+        },
+        {
+          "keyword": "スイパラ",
+          "score": 95
+        },
+        {
+          "keyword": "真夜中ハートチューン",
+          "score": 94
+        },
+        {
+          "keyword": "近畿日本鉄道",
+          "score": 93
+        },
+        {
+          "keyword": "nasa",
+          "score": 92
+        },
+        {
+          "keyword": "kick",
           "score": 91
         }
       ]
