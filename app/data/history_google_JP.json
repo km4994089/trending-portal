@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-16T07:42:35.095Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "菅義偉",
-          "score": 100
-        },
-        {
-          "keyword": "炎鵬",
-          "score": 99
-        },
-        {
-          "keyword": "大宮競輪",
-          "score": 98
-        },
-        {
-          "keyword": "大奄美",
-          "score": 97
-        },
-        {
-          "keyword": "宝塚",
-          "score": 96
-        },
-        {
-          "keyword": "堀口恭司",
-          "score": 95
-        },
-        {
-          "keyword": "適時開示",
-          "score": 94
-        },
-        {
-          "keyword": "ユニ春",
-          "score": 93
-        },
-        {
-          "keyword": "m65",
-          "score": 92
-        },
-        {
-          "keyword": "税務署",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-16T08:17:51.609Z",
       "geo": "JP",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "マイクラ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-20T07:48:10.192Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "炎鵬",
+          "score": 100
+        },
+        {
+          "keyword": "芝田山親方",
+          "score": 99
+        },
+        {
+          "keyword": "すき家 いくら丼",
+          "score": 98
+        },
+        {
+          "keyword": "米沢",
+          "score": 97
+        },
+        {
+          "keyword": "大和田伸也",
+          "score": 96
+        },
+        {
+          "keyword": "iphone18",
+          "score": 95
+        },
+        {
+          "keyword": "大奄美",
+          "score": 94
+        },
+        {
+          "keyword": "阿蘇 ヘリコプター 事故",
+          "score": 93
+        },
+        {
+          "keyword": "大黒屋 株価",
+          "score": 92
+        },
+        {
+          "keyword": "ロッテクーリッシュ",
           "score": 91
         }
       ]
