@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-16T10:46:34.027Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "渋沢栄一",
-          "score": 100
-        },
-        {
-          "keyword": "チャーリーとチョコレート工場",
-          "score": 99
-        },
-        {
-          "keyword": "ツインズ",
-          "score": 98
-        },
-        {
-          "keyword": "大和和紀",
-          "score": 97
-        },
-        {
-          "keyword": "ふくれな",
-          "score": 96
-        },
-        {
-          "keyword": "ウエンツ瑛士",
-          "score": 95
-        },
-        {
-          "keyword": "ロト7 速報",
-          "score": 94
-        },
-        {
-          "keyword": "ポムポムプリン ハッピーセット",
-          "score": 93
-        },
-        {
-          "keyword": "帝国ホテル",
-          "score": 92
-        },
-        {
-          "keyword": "葬送のフリーレン 2期",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-16T11:12:07.079Z",
       "geo": "JP",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "博多座",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-20T10:51:42.441Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "日本 u-23 対 韓国u-23",
+          "score": 100
+        },
+        {
+          "keyword": "チェルシー",
+          "score": 99
+        },
+        {
+          "keyword": "デザイナー",
+          "score": 98
+        },
+        {
+          "keyword": "平野啓一郎",
+          "score": 97
+        },
+        {
+          "keyword": "モンチッチ",
+          "score": 96
+        },
+        {
+          "keyword": "ミュージアム",
+          "score": 95
+        },
+        {
+          "keyword": "石橋和歩被告",
+          "score": 94
+        },
+        {
+          "keyword": "山梨県",
+          "score": 93
+        },
+        {
+          "keyword": "山梨",
+          "score": 92
+        },
+        {
+          "keyword": "渡辺謙",
           "score": 91
         }
       ]
