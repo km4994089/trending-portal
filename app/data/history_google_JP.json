@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-16T01:00:04.161Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "楽天 株価",
-          "score": 100
-        },
-        {
-          "keyword": "バスケットボール",
-          "score": 99
-        },
-        {
-          "keyword": "南海本線",
-          "score": 98
-        },
-        {
-          "keyword": "東洋エンジニアリング 株価",
-          "score": 97
-        },
-        {
-          "keyword": "ライオン",
-          "score": 96
-        },
-        {
-          "keyword": "ソニック",
-          "score": 95
-        },
-        {
-          "keyword": "清水区 停電情報",
-          "score": 94
-        },
-        {
-          "keyword": "東邦亜鉛 株価",
-          "score": 93
-        },
-        {
-          "keyword": "太陽",
-          "score": 92
-        },
-        {
-          "keyword": "自然災害",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-01-16T03:00:13.549Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "北海道",
-          "score": 100
-        },
-        {
-          "keyword": "ブラジル",
-          "score": 99
-        },
-        {
-          "keyword": "琵琶湖競艇",
-          "score": 98
-        },
-        {
-          "keyword": "キリン",
-          "score": 97
-        },
-        {
-          "keyword": "くま",
-          "score": 96
-        },
-        {
-          "keyword": "イルカ",
-          "score": 95
-        },
-        {
-          "keyword": "和菓子",
-          "score": 94
-        },
-        {
-          "keyword": "クラゲ",
-          "score": 93
-        },
-        {
-          "keyword": "中野信子",
-          "score": 92
-        },
-        {
-          "keyword": "イタリア",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-16T04:12:47.691Z",
       "geo": "JP",
       "source": "google",
@@ -7706,6 +7612,53 @@
         },
         {
           "keyword": "ポピュリズム",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-20T03:00:39.107Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "三浦大輔",
+          "score": 100
+        },
+        {
+          "keyword": "ntt東日本",
+          "score": 99
+        },
+        {
+          "keyword": "nato",
+          "score": 98
+        },
+        {
+          "keyword": "米倉涼子",
+          "score": 97
+        },
+        {
+          "keyword": "姫路市岩端町",
+          "score": 96
+        },
+        {
+          "keyword": "金子恵美",
+          "score": 95
+        },
+        {
+          "keyword": "サメ",
+          "score": 94
+        },
+        {
+          "keyword": "富永美樹",
+          "score": 93
+        },
+        {
+          "keyword": "jr神戸線",
+          "score": 92
+        },
+        {
+          "keyword": "ダイワメジャー",
           "score": 91
         }
       ]
