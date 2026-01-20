@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-16T11:39:05.310Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "fox 8 school closing",
-          "score": 100
-        },
-        {
-          "keyword": "channel 3000",
-          "score": 99
-        },
-        {
-          "keyword": "syracuse school closings",
-          "score": 98
-        },
-        {
-          "keyword": "miami weather",
-          "score": 97
-        },
-        {
-          "keyword": "wv school closings",
-          "score": 96
-        },
-        {
-          "keyword": "click on detroit school closing",
-          "score": 95
-        },
-        {
-          "keyword": "adelaide open",
-          "score": 94
-        },
-        {
-          "keyword": "wdrb",
-          "score": 93
-        },
-        {
-          "keyword": "wndu closings",
-          "score": 92
-        },
-        {
-          "keyword": "perth wildcats",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-16T12:24:07.363Z",
       "geo": "US",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "liga de campeones de la uefa",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-20T11:42:13.023Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nasa artemis ii launch pad",
+          "score": 100
+        },
+        {
+          "keyword": "wsaz",
+          "score": 99
+        },
+        {
+          "keyword": "qqq stock",
+          "score": 98
+        },
+        {
+          "keyword": "wgrz",
+          "score": 97
+        },
+        {
+          "keyword": "aapl stock",
+          "score": 96
+        },
+        {
+          "keyword": "cincinnati weather",
+          "score": 95
+        },
+        {
+          "keyword": "snow storm",
+          "score": 94
+        },
+        {
+          "keyword": "pltr stock",
+          "score": 93
+        },
+        {
+          "keyword": "antonia ružić",
+          "score": 92
+        },
+        {
+          "keyword": "wral weather",
           "score": 91
         }
       ]
