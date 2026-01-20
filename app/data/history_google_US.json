@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-16T07:17:49.032Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "new show to watch",
-          "score": 100
-        },
-        {
-          "keyword": "hunter schafer",
-          "score": 99
-        },
-        {
-          "keyword": "carrie coon",
-          "score": 98
-        },
-        {
-          "keyword": "san diego",
-          "score": 97
-        },
-        {
-          "keyword": "ugo humbert",
-          "score": 96
-        },
-        {
-          "keyword": "nba standings",
-          "score": 95
-        },
-        {
-          "keyword": "stranger things season 6",
-          "score": 94
-        },
-        {
-          "keyword": "lakewood shooting",
-          "score": 93
-        },
-        {
-          "keyword": "lance twiggs",
-          "score": 92
-        },
-        {
-          "keyword": "snowfall weather forecast",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-16T07:42:32.224Z",
       "geo": "US",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "hubert hurkacz",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-20T07:27:15.509Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kindergarten",
+          "score": 100
+        },
+        {
+          "keyword": "daycare",
+          "score": 99
+        },
+        {
+          "keyword": "trump truth social",
+          "score": 98
+        },
+        {
+          "keyword": "sorana cîrstea",
+          "score": 97
+        },
+        {
+          "keyword": "el chapo",
+          "score": 96
+        },
+        {
+          "keyword": "board of peace",
+          "score": 95
+        },
+        {
+          "keyword": "tell me lies season 3 episode 4",
+          "score": 94
+        },
+        {
+          "keyword": "martin scorsese",
+          "score": 93
+        },
+        {
+          "keyword": "jeffrey epstein",
+          "score": 92
+        },
+        {
+          "keyword": "air jordan 11 galaxy",
           "score": 91
         }
       ]
