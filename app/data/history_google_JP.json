@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-16T21:39:51.198Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "伊野尾慧",
-          "score": 100
-        },
-        {
-          "keyword": "スポルティングcp 対 カーザ・ピア",
-          "score": 99
-        },
-        {
-          "keyword": "北村匠海",
-          "score": 98
-        },
-        {
-          "keyword": "psg vs losc",
-          "score": 97
-        },
-        {
-          "keyword": "東日本大震災",
-          "score": 96
-        },
-        {
-          "keyword": "今日の黄砂",
-          "score": 95
-        },
-        {
-          "keyword": "ドコモ",
-          "score": 94
-        },
-        {
-          "keyword": "川西賢志郎",
-          "score": 93
-        },
-        {
-          "keyword": "地震情報",
-          "score": 92
-        },
-        {
-          "keyword": "れいわ新選組",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-16T22:12:35.489Z",
       "geo": "JP",
       "source": "google",
@@ -7424,6 +7377,53 @@
         },
         {
           "keyword": "ダウ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-20T21:40:32.766Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "weather",
+          "score": 100
+        },
+        {
+          "keyword": "jr北海道",
+          "score": 99
+        },
+        {
+          "keyword": "ウェザーニュース",
+          "score": 98
+        },
+        {
+          "keyword": "新千歳空港 欠航",
+          "score": 97
+        },
+        {
+          "keyword": "liga champions uefa",
+          "score": 96
+        },
+        {
+          "keyword": "高梨沙羅",
+          "score": 95
+        },
+        {
+          "keyword": "大谷舞風",
+          "score": 94
+        },
+        {
+          "keyword": "東京グランド花月",
+          "score": 93
+        },
+        {
+          "keyword": "山形県",
+          "score": 92
+        },
+        {
+          "keyword": "竹内智香",
           "score": 91
         }
       ]
