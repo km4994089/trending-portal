@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-16T08:17:51.609Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "成宮寛貴",
-          "score": 100
-        },
-        {
-          "keyword": "旭富士",
-          "score": 99
-        },
-        {
-          "keyword": "藤ノ川",
-          "score": 98
-        },
-        {
-          "keyword": "上地雄輔",
-          "score": 97
-        },
-        {
-          "keyword": "バンドリ",
-          "score": 96
-        },
-        {
-          "keyword": "菅義偉",
-          "score": 95
-        },
-        {
-          "keyword": "大宮競輪",
-          "score": 94
-        },
-        {
-          "keyword": "炎鵬",
-          "score": 93
-        },
-        {
-          "keyword": "大奄美",
-          "score": 92
-        },
-        {
-          "keyword": "宝塚",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-16T08:50:15.813Z",
       "geo": "JP",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "ロッテクーリッシュ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-20T08:19:28.201Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "上皇后美智子",
+          "score": 100
+        },
+        {
+          "keyword": "みよし市 火事",
+          "score": 99
+        },
+        {
+          "keyword": "神田うの",
+          "score": 98
+        },
+        {
+          "keyword": "獅司",
+          "score": 97
+        },
+        {
+          "keyword": "隆の勝",
+          "score": 96
+        },
+        {
+          "keyword": "炎鵬",
+          "score": 95
+        },
+        {
+          "keyword": "すき家 いくら丼",
+          "score": 94
+        },
+        {
+          "keyword": "芝田山親方",
+          "score": 93
+        },
+        {
+          "keyword": "大和田伸也",
+          "score": 92
+        },
+        {
+          "keyword": "米沢",
           "score": 91
         }
       ]
