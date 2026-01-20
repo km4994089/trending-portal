@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-16T23:39:17.824Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "天王寺動物園",
-          "score": 100
-        },
-        {
-          "keyword": "国分グループ",
-          "score": 99
-        },
-        {
-          "keyword": "教場",
-          "score": 98
-        },
-        {
-          "keyword": "50分間の恋人",
-          "score": 97
-        },
-        {
-          "keyword": "齋藤飛鳥",
-          "score": 96
-        },
-        {
-          "keyword": "pm2.5",
-          "score": 95
-        },
-        {
-          "keyword": "ジョニーデップ",
-          "score": 94
-        },
-        {
-          "keyword": "奄美大島",
-          "score": 93
-        },
-        {
-          "keyword": "アベンジャーズ",
-          "score": 92
-        },
-        {
-          "keyword": "花粉情報",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-17T00:57:28.099Z",
       "geo": "JP",
       "source": "google",
@@ -7424,6 +7377,53 @@
         },
         {
           "keyword": "俺たちの箱根駅伝",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-20T23:41:34.338Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "河合塾",
+          "score": 100
+        },
+        {
+          "keyword": "古橋亨梧",
+          "score": 99
+        },
+        {
+          "keyword": "outlook 不具合",
+          "score": 98
+        },
+        {
+          "keyword": "伊藤詩織",
+          "score": 97
+        },
+        {
+          "keyword": "東京都教育委員会",
+          "score": 96
+        },
+        {
+          "keyword": "渡辺満里奈",
+          "score": 95
+        },
+        {
+          "keyword": "東京メトロ",
+          "score": 94
+        },
+        {
+          "keyword": "遅延",
+          "score": 93
+        },
+        {
+          "keyword": "ブルネロクチネリ",
+          "score": 92
+        },
+        {
+          "keyword": "小倉ゆうか",
           "score": 91
         }
       ]
