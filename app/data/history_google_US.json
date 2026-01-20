@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-16T04:54:58.313Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "veronica mars",
-          "score": 100
-        },
-        {
-          "keyword": "uc san diego basketball",
-          "score": 99
-        },
-        {
-          "keyword": "grant williams",
-          "score": 98
-        },
-        {
-          "keyword": "portland state basketball",
-          "score": 97
-        },
-        {
-          "keyword": "michael rapaport",
-          "score": 96
-        },
-        {
-          "keyword": "nba college basketball",
-          "score": 95
-        },
-        {
-          "keyword": "brandin podziemski",
-          "score": 94
-        },
-        {
-          "keyword": "seth curry",
-          "score": 93
-        },
-        {
-          "keyword": "gui santos",
-          "score": 92
-        },
-        {
-          "keyword": "kobe bufkin",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-16T05:18:01.483Z",
       "geo": "US",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "bam adebayo",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-20T05:01:56.938Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "miami heat",
+          "score": 100
+        },
+        {
+          "keyword": "anna kalinskaya",
+          "score": 99
+        },
+        {
+          "keyword": "jimmy butler",
+          "score": 98
+        },
+        {
+          "keyword": "iup",
+          "score": 97
+        },
+        {
+          "keyword": "josh hoover",
+          "score": 96
+        },
+        {
+          "keyword": "alvin kamara",
+          "score": 95
+        },
+        {
+          "keyword": "kamara indiana football",
+          "score": 94
+        },
+        {
+          "keyword": "u miami quarterback",
+          "score": 93
+        },
+        {
+          "keyword": "curt cignetti wife",
+          "score": 92
+        },
+        {
+          "keyword": "2019 lsu",
           "score": 91
         }
       ]
