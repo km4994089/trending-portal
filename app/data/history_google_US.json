@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-16T16:51:40.030Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "juneteenth",
-          "score": 100
-        },
-        {
-          "keyword": "belize",
-          "score": 99
-        },
-        {
-          "keyword": "lego zelda",
-          "score": 98
-        },
-        {
-          "keyword": "kevin warsh",
-          "score": 97
-        },
-        {
-          "keyword": "grok down",
-          "score": 96
-        },
-        {
-          "keyword": "austria",
-          "score": 95
-        },
-        {
-          "keyword": "twitter down",
-          "score": 94
-        },
-        {
-          "keyword": "kandi burruss",
-          "score": 93
-        },
-        {
-          "keyword": "dunkin free cup",
-          "score": 92
-        },
-        {
-          "keyword": "rklb",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-16T17:17:22.109Z",
       "geo": "US",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "amazon stock",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-20T16:57:29.559Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "federal government shutdown",
+          "score": 100
+        },
+        {
+          "keyword": "high school musical",
+          "score": 99
+        },
+        {
+          "keyword": "vietnam vs china u23",
+          "score": 98
+        },
+        {
+          "keyword": "bill callahan",
+          "score": 97
+        },
+        {
+          "keyword": "bill callahan nfl",
+          "score": 96
+        },
+        {
+          "keyword": "free america walkout",
+          "score": 95
+        },
+        {
+          "keyword": "michael la sasso",
+          "score": 94
+        },
+        {
+          "keyword": "shane gillis",
+          "score": 93
+        },
+        {
+          "keyword": "daily horoscope today",
+          "score": 92
+        },
+        {
+          "keyword": "asap rocky tour",
           "score": 91
         }
       ]
