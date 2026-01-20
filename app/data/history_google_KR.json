@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-16T11:12:05.927Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "숲",
-          "score": 100
-        },
-        {
-          "keyword": "치지직",
-          "score": 99
-        },
-        {
-          "keyword": "개코",
-          "score": 98
-        },
-        {
-          "keyword": "이세돌",
-          "score": 97
-        },
-        {
-          "keyword": "알파드라이브원",
-          "score": 96
-        },
-        {
-          "keyword": "민생지원금",
-          "score": 95
-        },
-        {
-          "keyword": "최원종",
-          "score": 94
-        },
-        {
-          "keyword": "김동현",
-          "score": 93
-        },
-        {
-          "keyword": "충남교육청",
-          "score": 92
-        },
-        {
-          "keyword": "두초생",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-16T11:39:06.593Z",
       "geo": "KR",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "테일러 프리츠",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-20T11:16:20.623Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "모로코",
+          "score": 100
+        },
+        {
+          "keyword": "신천지",
+          "score": 99
+        },
+        {
+          "keyword": "뉴스",
+          "score": 98
+        },
+        {
+          "keyword": "다보스포럼",
+          "score": 97
+        },
+        {
+          "keyword": "cnn",
+          "score": 96
+        },
+        {
+          "keyword": "이만희",
+          "score": 95
+        },
+        {
+          "keyword": "김범수",
+          "score": 94
+        },
+        {
+          "keyword": "나나",
+          "score": 93
+        },
+        {
+          "keyword": "송시우",
+          "score": 92
+        },
+        {
+          "keyword": "나스닥",
           "score": 91
         }
       ]

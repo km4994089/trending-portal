@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-16T11:12:04.884Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "perth wildcats",
-          "score": 100
-        },
-        {
-          "keyword": "school closings rochester ny",
-          "score": 99
-        },
-        {
-          "keyword": "weather miami",
-          "score": 98
-        },
-        {
-          "keyword": "yankees news",
-          "score": 97
-        },
-        {
-          "keyword": "jcps",
-          "score": 96
-        },
-        {
-          "keyword": "school closings",
-          "score": 95
-        },
-        {
-          "keyword": "closing and delays",
-          "score": 94
-        },
-        {
-          "keyword": "weather orlando",
-          "score": 93
-        },
-        {
-          "keyword": "tyler robinson",
-          "score": 92
-        },
-        {
-          "keyword": "closings and delays",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-16T11:39:05.310Z",
       "geo": "US",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "news news",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-20T11:16:19.372Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "pltr stock",
+          "score": 100
+        },
+        {
+          "keyword": "antonia ružić",
+          "score": 99
+        },
+        {
+          "keyword": "shintaro mochizuki",
+          "score": 98
+        },
+        {
+          "keyword": "wral weather",
+          "score": 97
+        },
+        {
+          "keyword": "detroit weather",
+          "score": 96
+        },
+        {
+          "keyword": "google news",
+          "score": 95
+        },
+        {
+          "keyword": "jcps",
+          "score": 94
+        },
+        {
+          "keyword": "iren stock",
+          "score": 93
+        },
+        {
+          "keyword": "baltimore weather",
+          "score": 92
+        },
+        {
+          "keyword": "liga de campeones de la uefa",
           "score": 91
         }
       ]
