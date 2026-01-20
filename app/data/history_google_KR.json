@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-16T06:20:41.748Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "서대문역",
-          "score": 100
-        },
-        {
-          "keyword": "충청북도교육청",
-          "score": 99
-        },
-        {
-          "keyword": "인하대",
-          "score": 98
-        },
-        {
-          "keyword": "전라남도교육청",
-          "score": 97
-        },
-        {
-          "keyword": "조희팔",
-          "score": 96
-        },
-        {
-          "keyword": "명재완",
-          "score": 95
-        },
-        {
-          "keyword": "알테오젠",
-          "score": 94
-        },
-        {
-          "keyword": "윤석열 선고",
-          "score": 93
-        },
-        {
-          "keyword": "카일 터커",
-          "score": 92
-        },
-        {
-          "keyword": "피파",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-16T06:54:21.817Z",
       "geo": "KR",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "한덕수",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-20T06:22:20.102Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "인하대",
+          "score": 100
+        },
+        {
+          "keyword": "sk하이닉스",
+          "score": 99
+        },
+        {
+          "keyword": "카카오페이",
+          "score": 98
+        },
+        {
+          "keyword": "한국전력 주가",
+          "score": 97
+        },
+        {
+          "keyword": "국민성장펀드",
+          "score": 96
+        },
+        {
+          "keyword": "한국전력",
+          "score": 95
+        },
+        {
+          "keyword": "솔로지옥5",
+          "score": 94
+        },
+        {
+          "keyword": "토익",
+          "score": 93
+        },
+        {
+          "keyword": "골든 스테이트 대 마이애미",
+          "score": 92
+        },
+        {
+          "keyword": "김원중",
           "score": 91
         }
       ]
