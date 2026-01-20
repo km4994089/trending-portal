@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-16T04:12:46.437Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "현주엽 논란",
-          "score": 100
-        },
-        {
-          "keyword": "테슬라 모델3",
-          "score": 99
-        },
-        {
-          "keyword": "흑백요리사3",
-          "score": 98
-        },
-        {
-          "keyword": "세종문화회관",
-          "score": 97
-        },
-        {
-          "keyword": "쿠팡트래블",
-          "score": 96
-        },
-        {
-          "keyword": "예술의전당",
-          "score": 95
-        },
-        {
-          "keyword": "fc온라인",
-          "score": 94
-        },
-        {
-          "keyword": "중앙대",
-          "score": 93
-        },
-        {
-          "keyword": "대한항공 주가",
-          "score": 92
-        },
-        {
-          "keyword": "병무청",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-16T04:54:59.708Z",
       "geo": "KR",
       "source": "google",
@@ -7659,6 +7612,53 @@
         },
         {
           "keyword": "우리기술",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-20T04:28:48.645Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "토익",
+          "score": 100
+        },
+        {
+          "keyword": "김원중",
+          "score": 99
+        },
+        {
+          "keyword": "덕양에너젠",
+          "score": 98
+        },
+        {
+          "keyword": "한덕수",
+          "score": 97
+        },
+        {
+          "keyword": "정부24",
+          "score": 96
+        },
+        {
+          "keyword": "코스피",
+          "score": 95
+        },
+        {
+          "keyword": "국세청",
+          "score": 94
+        },
+        {
+          "keyword": "nh투자증권",
+          "score": 93
+        },
+        {
+          "keyword": "김영희",
+          "score": 92
+        },
+        {
+          "keyword": "브루클린 베컴",
           "score": 91
         }
       ]
