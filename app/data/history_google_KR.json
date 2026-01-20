@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-16T13:10:51.030Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "전태풍",
-          "score": 100
-        },
-        {
-          "keyword": "손태진",
-          "score": 99
-        },
-        {
-          "keyword": "u-23 nhật bản đấu với u-23 jordan",
-          "score": 98
-        },
-        {
-          "keyword": "lck 컵",
-          "score": 97
-        },
-        {
-          "keyword": "lck 중계",
-          "score": 96
-        },
-        {
-          "keyword": "일본 u-23 대 요르단 u-23",
-          "score": 95
-        },
-        {
-          "keyword": "okx",
-          "score": 94
-        },
-        {
-          "keyword": "박신혜",
-          "score": 93
-        },
-        {
-          "keyword": "구마유시",
-          "score": 92
-        },
-        {
-          "keyword": "은평제일교회",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-16T13:52:59.363Z",
       "geo": "KR",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "cnn",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-20T13:26:43.527Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "합숙맞선 김태인",
+          "score": 100
+        },
+        {
+          "keyword": "백가온",
+          "score": 99
+        },
+        {
+          "keyword": "cuaca besok",
+          "score": 98
+        },
+        {
+          "keyword": "u-23 nhật bản đấu với u-23 hàn quốc",
+          "score": 97
+        },
+        {
+          "keyword": "대한민국 일본",
+          "score": 96
+        },
+        {
+          "keyword": "황하나",
+          "score": 95
+        },
+        {
+          "keyword": "u23",
+          "score": 94
+        },
+        {
+          "keyword": "일본 u-23 대 한국 u-23",
+          "score": 93
+        },
+        {
+          "keyword": "전진우",
+          "score": 92
+        },
+        {
+          "keyword": "박지훈",
           "score": 91
         }
       ]

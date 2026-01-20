@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-16T13:10:49.953Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tim tebow",
-          "score": 100
-        },
-        {
-          "keyword": "lyri ryan smyrna",
-          "score": 99
-        },
-        {
-          "keyword": "marc guehi",
-          "score": 98
-        },
-        {
-          "keyword": "new orleans weather",
-          "score": 97
-        },
-        {
-          "keyword": "ibrx stock",
-          "score": 96
-        },
-        {
-          "keyword": "francescas",
-          "score": 95
-        },
-        {
-          "keyword": "kcrg",
-          "score": 94
-        },
-        {
-          "keyword": "steve harvey",
-          "score": 93
-        },
-        {
-          "keyword": "atmos energy",
-          "score": 92
-        },
-        {
-          "keyword": "kcci",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-16T13:52:57.932Z",
       "geo": "US",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "raleigh weather",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-20T13:26:42.216Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ray dalio",
+          "score": 100
+        },
+        {
+          "keyword": "snow storm virginia",
+          "score": 99
+        },
+        {
+          "keyword": "brooklyn bridge",
+          "score": 98
+        },
+        {
+          "keyword": "u23 asian cup",
+          "score": 97
+        },
+        {
+          "keyword": "coreweave stock",
+          "score": 96
+        },
+        {
+          "keyword": "sarah hartsfield",
+          "score": 95
+        },
+        {
+          "keyword": "coreweave",
+          "score": 94
+        },
+        {
+          "keyword": "weather 10 day",
+          "score": 93
+        },
+        {
+          "keyword": "sergey brin",
+          "score": 92
+        },
+        {
+          "keyword": "harry reid",
           "score": 91
         }
       ]
