@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-15T23:40:08.862Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "タイピング",
-          "score": 100
-        },
-        {
-          "keyword": "河内大和",
-          "score": 99
-        },
-        {
-          "keyword": "小関裕太",
-          "score": 98
-        },
-        {
-          "keyword": "松山ケンイチ 小雪",
-          "score": 97
-        },
-        {
-          "keyword": "英検",
-          "score": 96
-        },
-        {
-          "keyword": "近藤千尋",
-          "score": 95
-        },
-        {
-          "keyword": "つくばエクスプレス",
-          "score": 94
-        },
-        {
-          "keyword": "三菱電機モビリティ",
-          "score": 93
-        },
-        {
-          "keyword": "ロナウド",
-          "score": 92
-        },
-        {
-          "keyword": "清塚信也",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-16T01:00:04.161Z",
       "geo": "JP",
       "source": "google",
@@ -7706,6 +7659,53 @@
         },
         {
           "keyword": "ブラックホール",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-20T00:58:52.819Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "フランス",
+          "score": 100
+        },
+        {
+          "keyword": "チェジュ航空",
+          "score": 99
+        },
+        {
+          "keyword": "ミツバ株価",
+          "score": 98
+        },
+        {
+          "keyword": "アライグマ",
+          "score": 97
+        },
+        {
+          "keyword": "地球温暖化",
+          "score": 96
+        },
+        {
+          "keyword": "マックス・クリスティー",
+          "score": 95
+        },
+        {
+          "keyword": "ライオン",
+          "score": 94
+        },
+        {
+          "keyword": "ビクター・ウェンバンヤマ",
+          "score": 93
+        },
+        {
+          "keyword": "世界遺産",
+          "score": 92
+        },
+        {
+          "keyword": "ポピュリズム",
           "score": 91
         }
       ]
