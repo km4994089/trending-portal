@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-16T10:14:05.029Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ジョージア",
-          "score": 100
-        },
-        {
-          "keyword": "誉高校",
-          "score": 99
-        },
-        {
-          "keyword": "チケプラ",
-          "score": 98
-        },
-        {
-          "keyword": "さと",
-          "score": 97
-        },
-        {
-          "keyword": "辰己涼介",
-          "score": 96
-        },
-        {
-          "keyword": "東京ドーム",
-          "score": 95
-        },
-        {
-          "keyword": "宇良",
-          "score": 94
-        },
-        {
-          "keyword": "菅直人 認知症",
-          "score": 93
-        },
-        {
-          "keyword": "金曜ロードショー コナン",
-          "score": 92
-        },
-        {
-          "keyword": "相撲",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-16T10:46:34.027Z",
       "geo": "JP",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "白鵬杯",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-20T10:17:52.701Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "中田翔",
+          "score": 100
+        },
+        {
+          "keyword": "イコラブ",
+          "score": 99
+        },
+        {
+          "keyword": "森泉",
+          "score": 98
+        },
+        {
+          "keyword": "オモウマい店",
+          "score": 97
+        },
+        {
+          "keyword": "蔵王",
+          "score": 96
+        },
+        {
+          "keyword": "大坂なおみ",
+          "score": 95
+        },
+        {
+          "keyword": "大阪5区",
+          "score": 94
+        },
+        {
+          "keyword": "imp",
+          "score": 93
+        },
+        {
+          "keyword": "ダークディセンバー",
+          "score": 92
+        },
+        {
+          "keyword": "博多座",
           "score": 91
         }
       ]
