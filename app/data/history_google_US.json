@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T11:10:07.615Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "now",
-          "score": 100
-        },
-        {
-          "keyword": "ios 26.2",
-          "score": 99
-        },
-        {
-          "keyword": "criminal lawyer",
-          "score": 98
-        },
-        {
-          "keyword": "gaten matarazzo",
-          "score": 97
-        },
-        {
-          "keyword": "red",
-          "score": 96
-        },
-        {
-          "keyword": "new zealand",
-          "score": 95
-        },
-        {
-          "keyword": "roger federer",
-          "score": 94
-        },
-        {
-          "keyword": "new zealand breakers",
-          "score": 93
-        },
-        {
-          "keyword": "the walking dead",
-          "score": 92
-        },
-        {
-          "keyword": "new music",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-17T11:34:37.948Z",
       "geo": "US",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "louisville weather",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-21T11:16:14.073Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "credit cards",
+          "score": 100
+        },
+        {
+          "keyword": "world economic forum",
+          "score": 99
+        },
+        {
+          "keyword": "10 day forecast",
+          "score": 98
+        },
+        {
+          "keyword": "dow futures",
+          "score": 97
+        },
+        {
+          "keyword": "schools closed today",
+          "score": 96
+        },
+        {
+          "keyword": "kdka",
+          "score": 95
+        },
+        {
+          "keyword": "cincinnati weather",
+          "score": 94
+        },
+        {
+          "keyword": "open",
+          "score": 93
+        },
+        {
+          "keyword": "school closings",
+          "score": 92
+        },
+        {
+          "keyword": "school closings today",
           "score": 91
         }
       ]
