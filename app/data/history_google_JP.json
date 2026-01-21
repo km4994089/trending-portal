@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T22:40:58.449Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "タイミー",
-          "score": 100
-        },
-        {
-          "keyword": "朝マック",
-          "score": 99
-        },
-        {
-          "keyword": "源田壮亮",
-          "score": 98
-        },
-        {
-          "keyword": "平野歩夢",
-          "score": 97
-        },
-        {
-          "keyword": "坂下千里子",
-          "score": 96
-        },
-        {
-          "keyword": "南海電鉄",
-          "score": 95
-        },
-        {
-          "keyword": "ブラジリアン柔術",
-          "score": 94
-        },
-        {
-          "keyword": "花粉情報",
-          "score": 93
-        },
-        {
-          "keyword": "僕らの時代",
-          "score": 92
-        },
-        {
-          "keyword": "大地真央",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-17T23:11:24.375Z",
       "geo": "JP",
       "source": "google",
@@ -7142,6 +7095,53 @@
         },
         {
           "keyword": "有楽町線",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-21T22:49:29.888Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "小田急線",
+          "score": 100
+        },
+        {
+          "keyword": "相鉄線",
+          "score": 99
+        },
+        {
+          "keyword": "埼京線",
+          "score": 98
+        },
+        {
+          "keyword": "さとうほなみ",
+          "score": 97
+        },
+        {
+          "keyword": "小田急",
+          "score": 96
+        },
+        {
+          "keyword": "ベリンジャー",
+          "score": 95
+        },
+        {
+          "keyword": "ユベントス",
+          "score": 94
+        },
+        {
+          "keyword": "東海道本線",
+          "score": 93
+        },
+        {
+          "keyword": "堂本光一 結婚",
+          "score": 92
+        },
+        {
+          "keyword": "たまごっち",
           "score": 91
         }
       ]
