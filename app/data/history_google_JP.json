@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T15:38:29.129Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "アヤックス",
-          "score": 100
-        },
-        {
-          "keyword": "渡邊雄太",
-          "score": 99
-        },
-        {
-          "keyword": "リーズ",
-          "score": 98
-        },
-        {
-          "keyword": "イチロー",
-          "score": 97
-        },
-        {
-          "keyword": "大西流星",
-          "score": 96
-        },
-        {
-          "keyword": "小林陵侑",
-          "score": 95
-        },
-        {
-          "keyword": "穂志もえか",
-          "score": 94
-        },
-        {
-          "keyword": "松井稼頭央",
-          "score": 93
-        },
-        {
-          "keyword": "蒼井優",
-          "score": 92
-        },
-        {
-          "keyword": "中田翔",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-17T16:12:42.873Z",
       "geo": "JP",
       "source": "google",
@@ -7283,6 +7236,53 @@
         },
         {
           "keyword": "松重豊",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-21T15:54:20.875Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "酒井順子",
+          "score": 100
+        },
+        {
+          "keyword": "z世代",
+          "score": 99
+        },
+        {
+          "keyword": "snowman",
+          "score": 98
+        },
+        {
+          "keyword": "出口夏希",
+          "score": 97
+        },
+        {
+          "keyword": "生田絵梨花",
+          "score": 96
+        },
+        {
+          "keyword": "マイクロン株価",
+          "score": 95
+        },
+        {
+          "keyword": "ネットフリックス株価",
+          "score": 94
+        },
+        {
+          "keyword": "ff7 リメイク",
+          "score": 93
+        },
+        {
+          "keyword": "地震情報",
+          "score": 92
+        },
+        {
+          "keyword": "地震 速報",
           "score": 91
         }
       ]
