@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T11:34:40.486Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "関智一",
-          "score": 100
-        },
-        {
-          "keyword": "秋元真夏",
-          "score": 99
-        },
-        {
-          "keyword": "声優 関智一",
-          "score": 98
-        },
-        {
-          "keyword": "小田原",
-          "score": 97
-        },
-        {
-          "keyword": "カズレーザー",
-          "score": 96
-        },
-        {
-          "keyword": "トマホーク",
-          "score": 95
-        },
-        {
-          "keyword": "笑ってコラえて",
-          "score": 94
-        },
-        {
-          "keyword": "マンチェスターダービー",
-          "score": 93
-        },
-        {
-          "keyword": "バリ島",
-          "score": 92
-        },
-        {
-          "keyword": "小山慶一郎",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-17T12:21:25.588Z",
       "geo": "JP",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "スリランカ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-21T11:43:10.956Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "クイズノック",
+          "score": 100
+        },
+        {
+          "keyword": "野々村友紀子",
+          "score": 99
+        },
+        {
+          "keyword": "かまいたち",
+          "score": 98
+        },
+        {
+          "keyword": "北川景子",
+          "score": 97
+        },
+        {
+          "keyword": "アビスパ福岡",
+          "score": 96
+        },
+        {
+          "keyword": "亀梨和也",
+          "score": 95
+        },
+        {
+          "keyword": "ダイゴ",
+          "score": 94
+        },
+        {
+          "keyword": "すしざんまい",
+          "score": 93
+        },
+        {
+          "keyword": "daigo",
+          "score": 92
+        },
+        {
+          "keyword": "rusi",
           "score": 91
         }
       ]
