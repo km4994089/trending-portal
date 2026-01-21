@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T10:11:32.034Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "gaten matarazzo",
-          "score": 100
-        },
-        {
-          "keyword": "new zealand",
-          "score": 99
-        },
-        {
-          "keyword": "roger federer",
-          "score": 98
-        },
-        {
-          "keyword": "new zealand breakers",
-          "score": 97
-        },
-        {
-          "keyword": "the walking dead",
-          "score": 96
-        },
-        {
-          "keyword": "aaron taylor johnson",
-          "score": 95
-        },
-        {
-          "keyword": "everybody hates chris",
-          "score": 94
-        },
-        {
-          "keyword": "from",
-          "score": 93
-        },
-        {
-          "keyword": "tom hardy",
-          "score": 92
-        },
-        {
-          "keyword": "spacex rocket launch",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-17T10:41:20.043Z",
       "geo": "US",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "earthquake now",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-21T10:17:31.516Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "weather baltimore",
+          "score": 100
+        },
+        {
+          "keyword": "wgal weather",
+          "score": 99
+        },
+        {
+          "keyword": "school closings metro detroit",
+          "score": 98
+        },
+        {
+          "keyword": "frances tiafoe",
+          "score": 97
+        },
+        {
+          "keyword": "percy jackson season 3",
+          "score": 96
+        },
+        {
+          "keyword": "percy jackson",
+          "score": 95
+        },
+        {
+          "keyword": "new movie",
+          "score": 94
+        },
+        {
+          "keyword": "online lottery",
+          "score": 93
+        },
+        {
+          "keyword": "tennis scores",
+          "score": 92
+        },
+        {
+          "keyword": "elizabeth smart",
           "score": 91
         }
       ]
