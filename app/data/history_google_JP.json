@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T10:41:22.492Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "琵琶湖",
-          "score": 100
-        },
-        {
-          "keyword": "相葉雅紀",
-          "score": 99
-        },
-        {
-          "keyword": "鎮西高校",
-          "score": 98
-        },
-        {
-          "keyword": "日曜劇場",
-          "score": 97
-        },
-        {
-          "keyword": "新しいカギ",
-          "score": 96
-        },
-        {
-          "keyword": "鈴木亮平 ドラマ",
-          "score": 95
-        },
-        {
-          "keyword": "グアム",
-          "score": 94
-        },
-        {
-          "keyword": "滋賀県",
-          "score": 93
-        },
-        {
-          "keyword": "プロジェクトx",
-          "score": 92
-        },
-        {
-          "keyword": "リニア新幹線",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-17T11:10:10.550Z",
       "geo": "JP",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "今日の月",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-21T10:52:31.343Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ジャンポケ斎藤",
+          "score": 100
+        },
+        {
+          "keyword": "スリランカ",
+          "score": 99
+        },
+        {
+          "keyword": "ローソン 盛りすぎ",
+          "score": 98
+        },
+        {
+          "keyword": "テレビ山口",
+          "score": 97
+        },
+        {
+          "keyword": "easl",
+          "score": 96
+        },
+        {
+          "keyword": "水曜日のダウンタウン",
+          "score": 95
+        },
+        {
+          "keyword": "sam",
+          "score": 94
+        },
+        {
+          "keyword": "東京電力 株価",
+          "score": 93
+        },
+        {
+          "keyword": "巨人 リチャード",
+          "score": 92
+        },
+        {
+          "keyword": "マクロン大統領",
           "score": 91
         }
       ]
