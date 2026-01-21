@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T21:10:07.208Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "松山英樹",
-          "score": 100
-        },
-        {
-          "keyword": "カリアリ 対 ユヴェントス",
-          "score": 99
-        },
-        {
-          "keyword": "和希そら",
-          "score": 98
-        },
-        {
-          "keyword": "ロブロックス",
-          "score": 97
-        },
-        {
-          "keyword": "保育所",
-          "score": 96
-        },
-        {
-          "keyword": "スウォンジー 対 バーミンガム",
-          "score": 95
-        },
-        {
-          "keyword": "ナポリ 対 サッスオーロ",
-          "score": 94
-        },
-        {
-          "keyword": "al-nassr vs al-shabab",
-          "score": 93
-        },
-        {
-          "keyword": "バイエルン",
-          "score": 92
-        },
-        {
-          "keyword": "nottm forest vs arsenal",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-17T21:36:38.872Z",
       "geo": "JP",
       "source": "google",
@@ -7142,6 +7095,53 @@
         },
         {
           "keyword": "champions league",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-21T21:20:24.997Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "高梨沙羅",
+          "score": 100
+        },
+        {
+          "keyword": "松島美空",
+          "score": 99
+        },
+        {
+          "keyword": "ダウ",
+          "score": 98
+        },
+        {
+          "keyword": "近江鉄道",
+          "score": 97
+        },
+        {
+          "keyword": "アプリ nova launcher",
+          "score": 96
+        },
+        {
+          "keyword": "marseille vs liverpool",
+          "score": 95
+        },
+        {
+          "keyword": "ジェイアール北海道",
+          "score": 94
+        },
+        {
+          "keyword": "衆議院議員総選挙",
+          "score": 93
+        },
+        {
+          "keyword": "jr北海道",
+          "score": 92
+        },
+        {
+          "keyword": "ストーンズ",
           "score": 91
         }
       ]
