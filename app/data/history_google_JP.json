@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T09:12:04.672Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "徳永英明",
-          "score": 100
-        },
-        {
-          "keyword": "与謝野町",
-          "score": 99
-        },
-        {
-          "keyword": "西武鉄道",
-          "score": 98
-        },
-        {
-          "keyword": "朝青龍",
-          "score": 97
-        },
-        {
-          "keyword": "豊昇龍",
-          "score": 96
-        },
-        {
-          "keyword": "照ノ富士",
-          "score": 95
-        },
-        {
-          "keyword": "ตรวจหวย",
-          "score": 94
-        },
-        {
-          "keyword": "ケンドーコバヤシ",
-          "score": 93
-        },
-        {
-          "keyword": "鹿児島 地震",
-          "score": 92
-        },
-        {
-          "keyword": "琴櫻",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-17T09:38:50.469Z",
       "geo": "JP",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "朝乃山",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-21T09:23:47.191Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "今日の月",
+          "score": 100
+        },
+        {
+          "keyword": "尼崎競艇",
+          "score": 99
+        },
+        {
+          "keyword": "大相撲",
+          "score": 98
+        },
+        {
+          "keyword": "大相撲結果",
+          "score": 97
+        },
+        {
+          "keyword": "ウクレレ漫談",
+          "score": 96
+        },
+        {
+          "keyword": "大学入学共通テスト 平均点",
+          "score": 95
+        },
+        {
+          "keyword": "隆の勝",
+          "score": 94
+        },
+        {
+          "keyword": "琴風",
+          "score": 93
+        },
+        {
+          "keyword": "琴櫻",
+          "score": 92
+        },
+        {
+          "keyword": "白鳥玉季",
           "score": 91
         }
       ]

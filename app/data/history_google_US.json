@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T09:12:01.948Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "new zealand breakers",
-          "score": 100
-        },
-        {
-          "keyword": "roger federer",
-          "score": 99
-        },
-        {
-          "keyword": "the walking dead",
-          "score": 98
-        },
-        {
-          "keyword": "aaron taylor johnson",
-          "score": 97
-        },
-        {
-          "keyword": "truck accident attorney",
-          "score": 96
-        },
-        {
-          "keyword": "everybody hates chris",
-          "score": 95
-        },
-        {
-          "keyword": "from",
-          "score": 94
-        },
-        {
-          "keyword": "tom hardy",
-          "score": 93
-        },
-        {
-          "keyword": "spacex rocket launch",
-          "score": 92
-        },
-        {
-          "keyword": "personal injury attorneys",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-17T09:38:47.687Z",
       "geo": "US",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "alexander zverev",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-21T09:23:44.914Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "percy jackson",
+          "score": 100
+        },
+        {
+          "keyword": "new movie",
+          "score": 99
+        },
+        {
+          "keyword": "online lottery",
+          "score": 98
+        },
+        {
+          "keyword": "hamad medjedovic",
+          "score": 97
+        },
+        {
+          "keyword": "mirra andreeva",
+          "score": 96
+        },
+        {
+          "keyword": "elizabeth smart",
+          "score": 95
+        },
+        {
+          "keyword": "earthquake",
+          "score": 94
+        },
+        {
+          "keyword": "earthquake now",
+          "score": 93
+        },
+        {
+          "keyword": "usgs earthquake",
+          "score": 92
+        },
+        {
+          "keyword": "ted cruz",
           "score": 91
         }
       ]
