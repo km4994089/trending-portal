@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T17:38:18.072Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "リアルタイム",
-          "score": 100
-        },
-        {
-          "keyword": "地震",
-          "score": 99
-        },
-        {
-          "keyword": "東京 地震",
-          "score": 98
-        },
-        {
-          "keyword": "地震速報 今 揺れた",
-          "score": 97
-        },
-        {
-          "keyword": "地震今",
-          "score": 96
-        },
-        {
-          "keyword": "フロリアン・ヴィルツ",
-          "score": 95
-        },
-        {
-          "keyword": "rbライプツィヒ 対 バイエルン",
-          "score": 94
-        },
-        {
-          "keyword": "ノッティンガム・フォレスト 対 アーセナル",
-          "score": 93
-        },
-        {
-          "keyword": "リーグアン",
-          "score": 92
-        },
-        {
-          "keyword": "liverpool",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-01-17T18:16:14.895Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "al-nassr vs al-shabab",
-          "score": 100
-        },
-        {
-          "keyword": "リアルタイム",
-          "score": 99
-        },
-        {
-          "keyword": "地震",
-          "score": 98
-        },
-        {
-          "keyword": "地震速報 今 揺れた",
-          "score": 97
-        },
-        {
-          "keyword": "東京 地震",
-          "score": 96
-        },
-        {
-          "keyword": "地震今",
-          "score": 95
-        },
-        {
-          "keyword": "フロリアン・ヴィルツ",
-          "score": 94
-        },
-        {
-          "keyword": "rbライプツィヒ 対 バイエルン",
-          "score": 93
-        },
-        {
-          "keyword": "ノッティンガム・フォレスト 対 アーセナル",
-          "score": 92
-        },
-        {
-          "keyword": "リーグアン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-17T18:47:43.457Z",
       "geo": "JP",
       "source": "google",
@@ -7236,6 +7142,53 @@
         },
         {
           "keyword": "ネットフリックス株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-21T18:30:45.663Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ジャイアントパンダ",
+          "score": 100
+        },
+        {
+          "keyword": "平野紫耀",
+          "score": 99
+        },
+        {
+          "keyword": "エンドフィールド 事前ダウンロード",
+          "score": 98
+        },
+        {
+          "keyword": "しゃぶ葉",
+          "score": 97
+        },
+        {
+          "keyword": "爆弾 映画",
+          "score": 96
+        },
+        {
+          "keyword": "はま寿司",
+          "score": 95
+        },
+        {
+          "keyword": "sixtones",
+          "score": 94
+        },
+        {
+          "keyword": "酒井順子",
+          "score": 93
+        },
+        {
+          "keyword": "z世代",
+          "score": 92
+        },
+        {
+          "keyword": "snowman",
           "score": 91
         }
       ]
