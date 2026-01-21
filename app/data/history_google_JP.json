@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T20:40:13.119Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "和希そら",
-          "score": 100
-        },
-        {
-          "keyword": "ロブロックス",
-          "score": 99
-        },
-        {
-          "keyword": "スウォンジー 対 バーミンガム",
-          "score": 98
-        },
-        {
-          "keyword": "ナポリ 対 サッスオーロ",
-          "score": 97
-        },
-        {
-          "keyword": "al-nassr vs al-shabab",
-          "score": 96
-        },
-        {
-          "keyword": "バイエルン",
-          "score": 95
-        },
-        {
-          "keyword": "nottm forest vs arsenal",
-          "score": 94
-        },
-        {
-          "keyword": "リアルタイム",
-          "score": 93
-        },
-        {
-          "keyword": "地震",
-          "score": 92
-        },
-        {
-          "keyword": "地震速報 今 揺れた",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-17T21:10:07.208Z",
       "geo": "JP",
       "source": "google",
@@ -7142,6 +7095,53 @@
         },
         {
           "keyword": "トランプ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-21T20:53:07.989Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "堂本光一",
+          "score": 100
+        },
+        {
+          "keyword": "高速道路 渋滞",
+          "score": 99
+        },
+        {
+          "keyword": "名鉄",
+          "score": 98
+        },
+        {
+          "keyword": "大谷舞風",
+          "score": 97
+        },
+        {
+          "keyword": "サンディスク 株価",
+          "score": 96
+        },
+        {
+          "keyword": "北陸新幹線",
+          "score": 95
+        },
+        {
+          "keyword": "青森市 天気",
+          "score": 94
+        },
+        {
+          "keyword": "湖西線",
+          "score": 93
+        },
+        {
+          "keyword": "s&p500",
+          "score": 92
+        },
+        {
+          "keyword": "champions league",
           "score": 91
         }
       ]

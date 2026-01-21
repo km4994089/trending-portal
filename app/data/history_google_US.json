@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T20:40:10.419Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jim bob cooter",
-          "score": 100
-        },
-        {
-          "keyword": "dennis rodman",
-          "score": 99
-        },
-        {
-          "keyword": "jared mccain",
-          "score": 98
-        },
-        {
-          "keyword": "azerbaijan",
-          "score": 97
-        },
-        {
-          "keyword": "rangers",
-          "score": 96
-        },
-        {
-          "keyword": "gregory bovino",
-          "score": 95
-        },
-        {
-          "keyword": "quinn hughes",
-          "score": 94
-        },
-        {
-          "keyword": "islanders vs flames",
-          "score": 93
-        },
-        {
-          "keyword": "morrissey",
-          "score": 92
-        },
-        {
-          "keyword": "grand canyon university",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-17T21:10:04.853Z",
       "geo": "US",
       "source": "google",
@@ -7142,6 +7095,53 @@
         },
         {
           "keyword": "slavia praga - barcelona",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-21T20:53:04.991Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "david luiz",
+          "score": 100
+        },
+        {
+          "keyword": "bayern munich",
+          "score": 99
+        },
+        {
+          "keyword": "sandisk stock",
+          "score": 98
+        },
+        {
+          "keyword": "dazn",
+          "score": 97
+        },
+        {
+          "keyword": "barcelona",
+          "score": 96
+        },
+        {
+          "keyword": "barca",
+          "score": 95
+        },
+        {
+          "keyword": "barca game",
+          "score": 94
+        },
+        {
+          "keyword": "uefa champions league standings",
+          "score": 93
+        },
+        {
+          "keyword": "golden dome",
+          "score": 92
+        },
+        {
+          "keyword": "paramount",
           "score": 91
         }
       ]
