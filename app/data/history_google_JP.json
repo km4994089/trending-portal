@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T00:57:28.099Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "佐藤栞里",
-          "score": 100
-        },
-        {
-          "keyword": "ネッツ 対 ブルズ",
-          "score": 99
-        },
-        {
-          "keyword": "佐々木希",
-          "score": 98
-        },
-        {
-          "keyword": "久本雅美",
-          "score": 97
-        },
-        {
-          "keyword": "沼津",
-          "score": 96
-        },
-        {
-          "keyword": "マツキヨ",
-          "score": 95
-        },
-        {
-          "keyword": "堀田茜",
-          "score": 94
-        },
-        {
-          "keyword": "赤澤大臣",
-          "score": 93
-        },
-        {
-          "keyword": "ライフネット生命",
-          "score": 92
-        },
-        {
-          "keyword": "his",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-17T02:48:44.744Z",
       "geo": "JP",
       "source": "google",
@@ -7424,6 +7377,53 @@
         },
         {
           "keyword": "小倉ゆうか",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-21T01:00:46.585Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ライオン",
+          "score": 100
+        },
+        {
+          "keyword": "ブラジル",
+          "score": 99
+        },
+        {
+          "keyword": "ドムドムハンバーガー",
+          "score": 98
+        },
+        {
+          "keyword": "札幌市",
+          "score": 97
+        },
+        {
+          "keyword": "斎藤恭代",
+          "score": 96
+        },
+        {
+          "keyword": "通訳",
+          "score": 95
+        },
+        {
+          "keyword": "戦争",
+          "score": 94
+        },
+        {
+          "keyword": "バスケ",
+          "score": 93
+        },
+        {
+          "keyword": "bloomberg",
+          "score": 92
+        },
+        {
+          "keyword": "windows update セキュリティ",
           "score": 91
         }
       ]

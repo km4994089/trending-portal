@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T00:57:26.778Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tesla",
-          "score": 100
-        },
-        {
-          "keyword": "테슬라",
-          "score": 99
-        },
-        {
-          "keyword": "모델3",
-          "score": 98
-        },
-        {
-          "keyword": "psg vs losc",
-          "score": 97
-        },
-        {
-          "keyword": "google",
-          "score": 96
-        },
-        {
-          "keyword": "psg 대 losc 릴",
-          "score": 95
-        },
-        {
-          "keyword": "f",
-          "score": 94
-        },
-        {
-          "keyword": "fb",
-          "score": 93
-        },
-        {
-          "keyword": "그록",
-          "score": 92
-        },
-        {
-          "keyword": "조이",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-17T02:48:43.461Z",
       "geo": "KR",
       "source": "google",
@@ -7424,6 +7377,53 @@
         },
         {
           "keyword": "real madrid đấu với monaco",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-21T01:00:45.303Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "연합뉴스",
+          "score": 100
+        },
+        {
+          "keyword": "우리기술",
+          "score": 99
+        },
+        {
+          "keyword": "비트코인",
+          "score": 98
+        },
+        {
+          "keyword": "러시아 눈",
+          "score": 97
+        },
+        {
+          "keyword": "sporting vs psg",
+          "score": 96
+        },
+        {
+          "keyword": "매일경제",
+          "score": 95
+        },
+        {
+          "keyword": "s&p 500",
+          "score": 94
+        },
+        {
+          "keyword": "srt",
+          "score": 93
+        },
+        {
+          "keyword": "금값시세",
+          "score": 92
+        },
+        {
+          "keyword": "근우회",
           "score": 91
         }
       ]
