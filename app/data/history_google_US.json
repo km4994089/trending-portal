@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T14:11:08.304Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mbeumo",
-          "score": 100
-        },
-        {
-          "keyword": "disney",
-          "score": 99
-        },
-        {
-          "keyword": "erling haaland",
-          "score": 98
-        },
-        {
-          "keyword": "dortmund vs fc st. pauli",
-          "score": 97
-        },
-        {
-          "keyword": "mlb baseball",
-          "score": 96
-        },
-        {
-          "keyword": "dc weather",
-          "score": 95
-        },
-        {
-          "keyword": "real madrid",
-          "score": 94
-        },
-        {
-          "keyword": "levante - real madrid c. f. femenino",
-          "score": 93
-        },
-        {
-          "keyword": "is francesca's closing",
-          "score": 92
-        },
-        {
-          "keyword": "wfmz",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-17T14:40:04.605Z",
       "geo": "US",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "rooney rule",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-21T14:35:42.333Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "macron sunglasses",
+          "score": 100
+        },
+        {
+          "keyword": "abhishek sharma",
+          "score": 99
+        },
+        {
+          "keyword": "anthony weaver",
+          "score": 98
+        },
+        {
+          "keyword": "tristan gray",
+          "score": 97
+        },
+        {
+          "keyword": "jnj stock",
+          "score": 96
+        },
+        {
+          "keyword": "bloomberg",
+          "score": 95
+        },
+        {
+          "keyword": "laguna beach",
+          "score": 94
+        },
+        {
+          "keyword": "iceland",
+          "score": 93
+        },
+        {
+          "keyword": "f47",
+          "score": 92
+        },
+        {
+          "keyword": "grant udinski",
           "score": 91
         }
       ]
