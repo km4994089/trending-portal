@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T06:18:03.377Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "전태풍",
-          "score": 100
-        },
-        {
-          "keyword": "신비아파트 극장판 10주년",
-          "score": 99
-        },
-        {
-          "keyword": "안성재",
-          "score": 98
-        },
-        {
-          "keyword": "조희팔",
-          "score": 97
-        },
-        {
-          "keyword": "이성민",
-          "score": 96
-        },
-        {
-          "keyword": "야차의 세계",
-          "score": 95
-        },
-        {
-          "keyword": "드로 페르난데스",
-          "score": 94
-        },
-        {
-          "keyword": "박나언",
-          "score": 93
-        },
-        {
-          "keyword": "원희",
-          "score": 92
-        },
-        {
-          "keyword": "tesla",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-17T06:50:28.082Z",
       "geo": "KR",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "에어로케이",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-21T06:22:33.751Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "홍건희",
+          "score": 100
+        },
+        {
+          "keyword": "이재명",
+          "score": 99
+        },
+        {
+          "keyword": "카를로스 알카라스",
+          "score": 98
+        },
+        {
+          "keyword": "kbo",
+          "score": 97
+        },
+        {
+          "keyword": "덴버 대 la 레이커스",
+          "score": 96
+        },
+        {
+          "keyword": "이사통",
+          "score": 95
+        },
+        {
+          "keyword": "김슬아",
+          "score": 94
+        },
+        {
+          "keyword": "nike",
+          "score": 93
+        },
+        {
+          "keyword": "에어로케이",
+          "score": 92
+        },
+        {
+          "keyword": "현대차 주가",
           "score": 91
         }
       ]
