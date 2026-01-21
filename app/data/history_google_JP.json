@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T02:48:44.744Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "資さんうどん",
-          "score": 100
-        },
-        {
-          "keyword": "セレッソ大阪 チケット",
-          "score": 99
-        },
-        {
-          "keyword": "ポムポムプリン ハッピーセット",
-          "score": 98
-        },
-        {
-          "keyword": "igアリーナ",
-          "score": 97
-        },
-        {
-          "keyword": "ペイサーズ 対 ペリカンズ",
-          "score": 96
-        },
-        {
-          "keyword": "フォーエバーヤング",
-          "score": 95
-        },
-        {
-          "keyword": "ボー・ビシェット",
-          "score": 94
-        },
-        {
-          "keyword": "サイバーエージェント",
-          "score": 93
-        },
-        {
-          "keyword": "ブラジリアン柔術",
-          "score": 92
-        },
-        {
-          "keyword": "セレッソ大阪",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-17T03:51:10.363Z",
       "geo": "JP",
       "source": "google",
@@ -7424,6 +7377,53 @@
         },
         {
           "keyword": "windows update セキュリティ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-21T03:14:02.841Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "神田沙也加",
+          "score": 100
+        },
+        {
+          "keyword": "にじさんじ8周年",
+          "score": 99
+        },
+        {
+          "keyword": "ウォリアーズ 対 ラプターズ",
+          "score": 98
+        },
+        {
+          "keyword": "サメ",
+          "score": 97
+        },
+        {
+          "keyword": "トクリュウ",
+          "score": 96
+        },
+        {
+          "keyword": "地球",
+          "score": 95
+        },
+        {
+          "keyword": "奈良監獄",
+          "score": 94
+        },
+        {
+          "keyword": "みうらじゅん",
+          "score": 93
+        },
+        {
+          "keyword": "nato",
+          "score": 92
+        },
+        {
+          "keyword": "ネイリスト殺人事件 犯人",
           "score": 91
         }
       ]
