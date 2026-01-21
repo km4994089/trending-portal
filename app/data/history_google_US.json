@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T09:38:47.687Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "new zealand",
-          "score": 100
-        },
-        {
-          "keyword": "new zealand breakers",
-          "score": 99
-        },
-        {
-          "keyword": "roger federer",
-          "score": 98
-        },
-        {
-          "keyword": "the walking dead",
-          "score": 97
-        },
-        {
-          "keyword": "aaron taylor johnson",
-          "score": 96
-        },
-        {
-          "keyword": "accident attorney",
-          "score": 95
-        },
-        {
-          "keyword": "everybody hates chris",
-          "score": 94
-        },
-        {
-          "keyword": "from",
-          "score": 93
-        },
-        {
-          "keyword": "tom hardy",
-          "score": 92
-        },
-        {
-          "keyword": "spacex rocket launch",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-17T10:11:32.034Z",
       "geo": "US",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "ted cruz",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-21T09:52:13.250Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "frances tiafoe",
+          "score": 100
+        },
+        {
+          "keyword": "percy jackson season 3",
+          "score": 99
+        },
+        {
+          "keyword": "percy jackson",
+          "score": 98
+        },
+        {
+          "keyword": "new movie",
+          "score": 97
+        },
+        {
+          "keyword": "online lottery",
+          "score": 96
+        },
+        {
+          "keyword": "tennis scores",
+          "score": 95
+        },
+        {
+          "keyword": "hamad medjedovic",
+          "score": 94
+        },
+        {
+          "keyword": "elizabeth smart",
+          "score": 93
+        },
+        {
+          "keyword": "earthquake",
+          "score": 92
+        },
+        {
+          "keyword": "earthquake now",
           "score": 91
         }
       ]
