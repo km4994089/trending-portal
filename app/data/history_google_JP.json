@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T21:36:38.872Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "小芝風花",
-          "score": 100
-        },
-        {
-          "keyword": "中森明菜",
-          "score": 99
-        },
-        {
-          "keyword": "松山英樹",
-          "score": 98
-        },
-        {
-          "keyword": "カリアリ 対 ユヴェントス",
-          "score": 97
-        },
-        {
-          "keyword": "和希そら",
-          "score": 96
-        },
-        {
-          "keyword": "伊藤洋輝",
-          "score": 95
-        },
-        {
-          "keyword": "ロブロックス",
-          "score": 94
-        },
-        {
-          "keyword": "保育所",
-          "score": 93
-        },
-        {
-          "keyword": "スウォンジー 対 バーミンガム",
-          "score": 92
-        },
-        {
-          "keyword": "ナポリ 対 サッスオーロ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-17T22:11:31.254Z",
       "geo": "JP",
       "source": "google",
@@ -7142,6 +7095,53 @@
         },
         {
           "keyword": "ストーンズ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-21T21:49:27.569Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "リバプール",
+          "score": 100
+        },
+        {
+          "keyword": "松村北斗",
+          "score": 99
+        },
+        {
+          "keyword": "uefaチャンピオンズリーグ 試合",
+          "score": 98
+        },
+        {
+          "keyword": "パンダ返還",
+          "score": 97
+        },
+        {
+          "keyword": "ロッテリア 閉店",
+          "score": 96
+        },
+        {
+          "keyword": "chelsea vs pafos",
+          "score": 95
+        },
+        {
+          "keyword": "富山地方鉄道",
+          "score": 94
+        },
+        {
+          "keyword": "青い森鉄道",
+          "score": 93
+        },
+        {
+          "keyword": "姫路市",
+          "score": 92
+        },
+        {
+          "keyword": "nato",
           "score": 91
         }
       ]
