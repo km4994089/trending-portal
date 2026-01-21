@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T22:11:31.254Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大地真央",
-          "score": 100
-        },
-        {
-          "keyword": "nfl",
-          "score": 99
-        },
-        {
-          "keyword": "シエンタ",
-          "score": 98
-        },
-        {
-          "keyword": "時津風親方",
-          "score": 97
-        },
-        {
-          "keyword": "今日の黄砂",
-          "score": 96
-        },
-        {
-          "keyword": "ios26",
-          "score": 95
-        },
-        {
-          "keyword": "小芝風花",
-          "score": 94
-        },
-        {
-          "keyword": "中森明菜",
-          "score": 93
-        },
-        {
-          "keyword": "カリアリ 対 ユヴェントス",
-          "score": 92
-        },
-        {
-          "keyword": "松山英樹",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-17T22:40:58.449Z",
       "geo": "JP",
       "source": "google",
@@ -7142,6 +7095,53 @@
         },
         {
           "keyword": "nato",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-21T22:15:29.268Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "めざましテレビ",
+          "score": 100
+        },
+        {
+          "keyword": "松田里奈",
+          "score": 99
+        },
+        {
+          "keyword": "fcバルセロナ",
+          "score": 98
+        },
+        {
+          "keyword": "山田哲人",
+          "score": 97
+        },
+        {
+          "keyword": "東京メトロ",
+          "score": 96
+        },
+        {
+          "keyword": "平和評議会",
+          "score": 95
+        },
+        {
+          "keyword": "電車 遅延",
+          "score": 94
+        },
+        {
+          "keyword": "slavia đấu với barcelona",
+          "score": 93
+        },
+        {
+          "keyword": "barcelona",
+          "score": 92
+        },
+        {
+          "keyword": "有楽町線",
           "score": 91
         }
       ]
