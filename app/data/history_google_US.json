@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T16:12:40.171Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "florian wirtz",
-          "score": 100
-        },
-        {
-          "keyword": "weather nyc",
-          "score": 99
-        },
-        {
-          "keyword": "mo salah",
-          "score": 98
-        },
-        {
-          "keyword": "james carville",
-          "score": 97
-        },
-        {
-          "keyword": "tomorrowland",
-          "score": 96
-        },
-        {
-          "keyword": "wrexham standings",
-          "score": 95
-        },
-        {
-          "keyword": "natalie haslam",
-          "score": 94
-        },
-        {
-          "keyword": "jennifer welch",
-          "score": 93
-        },
-        {
-          "keyword": "drew lock",
-          "score": 92
-        },
-        {
-          "keyword": "nathan scheelhaase",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-17T16:43:00.726Z",
       "geo": "US",
       "source": "google",
@@ -7283,6 +7236,53 @@
         },
         {
           "keyword": "onds stock",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-21T16:26:52.043Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "blizzard warning",
+          "score": 100
+        },
+        {
+          "keyword": "singapore",
+          "score": 99
+        },
+        {
+          "keyword": "prue leith",
+          "score": 98
+        },
+        {
+          "keyword": "freezing fog advisory",
+          "score": 97
+        },
+        {
+          "keyword": "what",
+          "score": 96
+        },
+        {
+          "keyword": "peso pluma",
+          "score": 95
+        },
+        {
+          "keyword": "keon coleman",
+          "score": 94
+        },
+        {
+          "keyword": "lucid",
+          "score": 93
+        },
+        {
+          "keyword": "terry pegula",
+          "score": 92
+        },
+        {
+          "keyword": "congress government shutdown",
           "score": 91
         }
       ]
