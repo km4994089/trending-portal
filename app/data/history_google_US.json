@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-18T16:44:34.557Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jack grealish",
-          "score": 100
-        },
-        {
-          "keyword": "aaron kromer",
-          "score": 99
-        },
-        {
-          "keyword": "piers morgan",
-          "score": 98
-        },
-        {
-          "keyword": "magic vs grizzlies",
-          "score": 97
-        },
-        {
-          "keyword": "torino vs roma",
-          "score": 96
-        },
-        {
-          "keyword": "azeez al-shaair",
-          "score": 95
-        },
-        {
-          "keyword": "nantes vs paris fc",
-          "score": 94
-        },
-        {
-          "keyword": "michael vick",
-          "score": 93
-        },
-        {
-          "keyword": "korn ferry",
-          "score": 92
-        },
-        {
-          "keyword": "mike mccarthy",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-18T17:10:00.828Z",
       "geo": "US",
       "source": "google",
@@ -7001,6 +6954,53 @@
         },
         {
           "keyword": "human",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-22T16:58:04.460Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "maps",
+          "score": 100
+        },
+        {
+          "keyword": "southwest",
+          "score": 99
+        },
+        {
+          "keyword": "pga",
+          "score": 98
+        },
+        {
+          "keyword": "dallas baptist university",
+          "score": 97
+        },
+        {
+          "keyword": "zion national park",
+          "score": 96
+        },
+        {
+          "keyword": "scottie scheffler",
+          "score": 95
+        },
+        {
+          "keyword": "fedex",
+          "score": 94
+        },
+        {
+          "keyword": "state of emergency georgia",
+          "score": 93
+        },
+        {
+          "keyword": "free bert",
+          "score": 92
+        },
+        {
+          "keyword": "claude down",
           "score": 91
         }
       ]
