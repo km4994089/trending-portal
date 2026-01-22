@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-18T11:34:34.179Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "宮崎あおい",
-          "score": 100
-        },
-        {
-          "keyword": "ベトナム",
-          "score": 99
-        },
-        {
-          "keyword": "高崎市",
-          "score": 98
-        },
-        {
-          "keyword": "砂川リチャード",
-          "score": 97
-        },
-        {
-          "keyword": "松下洸平",
-          "score": 96
-        },
-        {
-          "keyword": "お市",
-          "score": 95
-        },
-        {
-          "keyword": "徳川家康",
-          "score": 94
-        },
-        {
-          "keyword": "野村克也",
-          "score": 93
-        },
-        {
-          "keyword": "坂本誠志郎",
-          "score": 92
-        },
-        {
-          "keyword": "高崎",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-18T12:21:47.556Z",
       "geo": "JP",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "報知グランプリカップ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-22T11:41:59.174Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "竹野内豊",
+          "score": 100
+        },
+        {
+          "keyword": "原田悠里",
+          "score": 99
+        },
+        {
+          "keyword": "パキスタン",
+          "score": 98
+        },
+        {
+          "keyword": "vct pacific",
+          "score": 97
+        },
+        {
+          "keyword": "ヴィアティン三重",
+          "score": 96
+        },
+        {
+          "keyword": "増田貴久",
+          "score": 95
+        },
+        {
+          "keyword": "相葉雅紀",
+          "score": 94
+        },
+        {
+          "keyword": "村田充",
+          "score": 93
+        },
+        {
+          "keyword": "出川哲朗",
+          "score": 92
+        },
+        {
+          "keyword": "bish",
           "score": 91
         }
       ]

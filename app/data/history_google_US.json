@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-18T11:34:31.446Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "snl cold open",
-          "score": 100
-        },
-        {
-          "keyword": "ios 26.2",
-          "score": 99
-        },
-        {
-          "keyword": "parma vs genoa",
-          "score": 98
-        },
-        {
-          "keyword": "atlanta weather",
-          "score": 97
-        },
-        {
-          "keyword": "alejandro rosales castillo",
-          "score": 96
-        },
-        {
-          "keyword": "randy moss",
-          "score": 95
-        },
-        {
-          "keyword": "wgal weather",
-          "score": 94
-        },
-        {
-          "keyword": "emma raducanu",
-          "score": 93
-        },
-        {
-          "keyword": "daryl mitchell",
-          "score": 92
-        },
-        {
-          "keyword": "dp world tour",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-18T12:21:44.892Z",
       "geo": "US",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "school closings",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-22T11:41:56.671Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "immigration enforcement",
+          "score": 100
+        },
+        {
+          "keyword": "powerball winning numbers",
+          "score": 99
+        },
+        {
+          "keyword": "todays weather",
+          "score": 98
+        },
+        {
+          "keyword": "dow jones futures",
+          "score": 97
+        },
+        {
+          "keyword": "disneyland ticket prices",
+          "score": 96
+        },
+        {
+          "keyword": "speedway",
+          "score": 95
+        },
+        {
+          "keyword": "school closings ky",
+          "score": 94
+        },
+        {
+          "keyword": "charlotte weather",
+          "score": 93
+        },
+        {
+          "keyword": "national grid",
+          "score": 92
+        },
+        {
+          "keyword": "richmond weather",
           "score": 91
         }
       ]
