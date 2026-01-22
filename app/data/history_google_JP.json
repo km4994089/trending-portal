@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-18T05:43:47.301Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "広島駅",
-          "score": 100
-        },
-        {
-          "keyword": "炎鵬",
-          "score": 99
-        },
-        {
-          "keyword": "サトノグランツ",
-          "score": 98
-        },
-        {
-          "keyword": "iphone 17e",
-          "score": 97
-        },
-        {
-          "keyword": "ウォーフェア 映画",
-          "score": 96
-        },
-        {
-          "keyword": "新婚さんいらっしゃい",
-          "score": 95
-        },
-        {
-          "keyword": "山口真由",
-          "score": 94
-        },
-        {
-          "keyword": "天覧相撲",
-          "score": 93
-        },
-        {
-          "keyword": "bリーグ オールスター 放送",
-          "score": 92
-        },
-        {
-          "keyword": "富士急ハイランド",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-18T06:18:25.942Z",
       "geo": "JP",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "ペリカンズ 対 ピストンズ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-22T05:50:03.752Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "京都",
+          "score": 100
+        },
+        {
+          "keyword": "高校",
+          "score": 99
+        },
+        {
+          "keyword": "科捜研の女 ファイナル",
+          "score": 98
+        },
+        {
+          "keyword": "タイマー",
+          "score": 97
+        },
+        {
+          "keyword": "地球温暖化",
+          "score": 96
+        },
+        {
+          "keyword": "藤沢工科高校",
+          "score": 95
+        },
+        {
+          "keyword": "jo1 大吾",
+          "score": 94
+        },
+        {
+          "keyword": "シェイ・ギルジャス=アレクサンダー",
+          "score": 93
+        },
+        {
+          "keyword": "日本共産党",
+          "score": 92
+        },
+        {
+          "keyword": "角川歴彦",
           "score": 91
         }
       ]

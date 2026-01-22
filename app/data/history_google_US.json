@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-18T05:43:44.472Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kobe bufkin",
-          "score": 100
-        },
-        {
-          "keyword": "salma hayek",
-          "score": 99
-        },
-        {
-          "keyword": "tennis",
-          "score": 98
-        },
-        {
-          "keyword": "martin lawrence",
-          "score": 97
-        },
-        {
-          "keyword": "michael irvin",
-          "score": 96
-        },
-        {
-          "keyword": "scarlett johansson",
-          "score": 95
-        },
-        {
-          "keyword": "shakira",
-          "score": 94
-        },
-        {
-          "keyword": "gabe vincent",
-          "score": 93
-        },
-        {
-          "keyword": "tiffany haddish",
-          "score": 92
-        },
-        {
-          "keyword": "kam patterson",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-18T06:18:23.459Z",
       "geo": "US",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "ron perlman fallout",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-22T05:50:01.179Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "laura siegemund",
+          "score": 100
+        },
+        {
+          "keyword": "cooper barkate",
+          "score": 99
+        },
+        {
+          "keyword": "zach lavine",
+          "score": 98
+        },
+        {
+          "keyword": "tomas machac",
+          "score": 97
+        },
+        {
+          "keyword": "jackson white",
+          "score": 96
+        },
+        {
+          "keyword": "ellen",
+          "score": 95
+        },
+        {
+          "keyword": "singles inferno",
+          "score": 94
+        },
+        {
+          "keyword": "charlie heaton",
+          "score": 93
+        },
+        {
+          "keyword": "sandro mamukelashvili",
+          "score": 92
+        },
+        {
+          "keyword": "denis shapovalov",
           "score": 91
         }
       ]
