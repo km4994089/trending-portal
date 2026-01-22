@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-18T09:39:15.248Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mlb baseball",
-          "score": 100
-        },
-        {
-          "keyword": "梁小龙",
-          "score": 99
-        },
-        {
-          "keyword": "venus williams",
-          "score": 98
-        },
-        {
-          "keyword": "federal aviation administration",
-          "score": 97
-        },
-        {
-          "keyword": "influenza cases",
-          "score": 96
-        },
-        {
-          "keyword": "new show to watch",
-          "score": 95
-        },
-        {
-          "keyword": "alexander bublik",
-          "score": 94
-        },
-        {
-          "keyword": "arman tsarukyan",
-          "score": 93
-        },
-        {
-          "keyword": "sabalenka",
-          "score": 92
-        },
-        {
-          "keyword": "cameron norrie",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-18T10:12:40.340Z",
       "geo": "US",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "casper ruud",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-22T09:52:10.060Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "osaka",
+          "score": 100
+        },
+        {
+          "keyword": "jaume munar",
+          "score": 99
+        },
+        {
+          "keyword": "new movie",
+          "score": 98
+        },
+        {
+          "keyword": "张又侠",
+          "score": 97
+        },
+        {
+          "keyword": "sri lanka vs england",
+          "score": 96
+        },
+        {
+          "keyword": "extreme cold warning",
+          "score": 95
+        },
+        {
+          "keyword": "online lottery",
+          "score": 94
+        },
+        {
+          "keyword": "the darwin incident",
+          "score": 93
+        },
+        {
+          "keyword": "derrick lewis",
+          "score": 92
+        },
+        {
+          "keyword": "current interest rates",
           "score": 91
         }
       ]
