@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-18T15:38:33.889Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "harshit rana",
-          "score": 100
-        },
-        {
-          "keyword": "mel brooks documentary",
-          "score": 99
-        },
-        {
-          "keyword": "maryland basketball",
-          "score": 98
-        },
-        {
-          "keyword": "sylvester stallone",
-          "score": 97
-        },
-        {
-          "keyword": "a qué hora juega el barcelona",
-          "score": 96
-        },
-        {
-          "keyword": "davos",
-          "score": 95
-        },
-        {
-          "keyword": "jim hartung cause of death",
-          "score": 94
-        },
-        {
-          "keyword": "skarsgard",
-          "score": 93
-        },
-        {
-          "keyword": "virat kohli",
-          "score": 92
-        },
-        {
-          "keyword": "alexander skarsgård",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-18T16:13:55.757Z",
       "geo": "US",
       "source": "google",
@@ -7001,6 +6954,53 @@
         },
         {
           "keyword": "abt stock",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-22T15:52:03.008Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kevin kiley",
+          "score": 100
+        },
+        {
+          "keyword": "world",
+          "score": 99
+        },
+        {
+          "keyword": "meet",
+          "score": 98
+        },
+        {
+          "keyword": "if",
+          "score": 97
+        },
+        {
+          "keyword": "which",
+          "score": 96
+        },
+        {
+          "keyword": "human",
+          "score": 95
+        },
+        {
+          "keyword": "oil",
+          "score": 94
+        },
+        {
+          "keyword": "next",
+          "score": 93
+        },
+        {
+          "keyword": "air",
+          "score": 92
+        },
+        {
+          "keyword": "message",
           "score": 91
         }
       ]
