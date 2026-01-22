@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-18T22:11:30.715Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "インフルエンザ",
-          "score": 100
-        },
-        {
-          "keyword": "衆議院解散 なぜ",
-          "score": 99
-        },
-        {
-          "keyword": "天気予報 大阪",
-          "score": 98
-        },
-        {
-          "keyword": "ヤンマガ",
-          "score": 97
-        },
-        {
-          "keyword": "花粉情報",
-          "score": 96
-        },
-        {
-          "keyword": "ダルビッシュ有",
-          "score": 95
-        },
-        {
-          "keyword": "沖縄天気",
-          "score": 94
-        },
-        {
-          "keyword": "ワールドカップ",
-          "score": 93
-        },
-        {
-          "keyword": "濱尾ノリタカ",
-          "score": 92
-        },
-        {
-          "keyword": "中島颯太",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-18T22:41:09.781Z",
       "geo": "JP",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "中井亜美",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-22T22:13:58.862Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "rbザルツブルク 対 バーゼル",
+          "score": 100
+        },
+        {
+          "keyword": "京都縦貫道",
+          "score": 99
+        },
+        {
+          "keyword": "坂本龍一",
+          "score": 98
+        },
+        {
+          "keyword": "ローマ 対 シュトゥットガルト",
+          "score": 97
+        },
+        {
+          "keyword": "ポケカ",
+          "score": 96
+        },
+        {
+          "keyword": "kddi 株価",
+          "score": 95
+        },
+        {
+          "keyword": "松坂桃李 大河ドラマ",
+          "score": 94
+        },
+        {
+          "keyword": "芳根京子",
+          "score": 93
+        },
+        {
+          "keyword": "高速",
+          "score": 92
+        },
+        {
+          "keyword": "テスラ株価",
           "score": 91
         }
       ]
