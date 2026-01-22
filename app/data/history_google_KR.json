@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T23:37:39.696Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "al-nassr đấu với al shabab",
-          "score": 100
-        },
-        {
-          "keyword": "al-nassr vs al-shabab",
-          "score": 99
-        },
-        {
-          "keyword": "nottm forest đấu với arsenal",
-          "score": 98
-        },
-        {
-          "keyword": "ฟอเรสต์ พบ อาร์เซนอล",
-          "score": 97
-        },
-        {
-          "keyword": "아스날",
-          "score": 96
-        },
-        {
-          "keyword": "nottm forest vs arsenal",
-          "score": 95
-        },
-        {
-          "keyword": "egypt vs nigeria",
-          "score": 94
-        },
-        {
-          "keyword": "라이프치히 대 바이에른",
-          "score": 93
-        },
-        {
-          "keyword": "노팅엄 포레스트 대 아스널",
-          "score": 92
-        },
-        {
-          "keyword": "오세영",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-18T01:04:11.804Z",
       "geo": "KR",
       "source": "google",
@@ -7142,6 +7095,53 @@
         },
         {
           "keyword": "damac vs al-nassr",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-22T01:00:51.929Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "코스피",
+          "score": 100
+        },
+        {
+          "keyword": "현대차",
+          "score": 99
+        },
+        {
+          "keyword": "토스증권",
+          "score": 98
+        },
+        {
+          "keyword": "기장 산불",
+          "score": 97
+        },
+        {
+          "keyword": "와우넷",
+          "score": 96
+        },
+        {
+          "keyword": "เชลซี พบ ปาฟอส",
+          "score": 95
+        },
+        {
+          "keyword": "weather",
+          "score": 94
+        },
+        {
+          "keyword": "slavia đấu với barcelona",
+          "score": 93
+        },
+        {
+          "keyword": "chelsea vs pafos",
+          "score": 92
+        },
+        {
+          "keyword": "славия – барселона",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-17T23:37:40.982Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大河ドラマ",
-          "score": 100
-        },
-        {
-          "keyword": "五十嵐亮太",
-          "score": 99
-        },
-        {
-          "keyword": "菊池雄星",
-          "score": 98
-        },
-        {
-          "keyword": "黄砂 今日 埼玉",
-          "score": 97
-        },
-        {
-          "keyword": "bills vs broncos",
-          "score": 96
-        },
-        {
-          "keyword": "よみうりランド",
-          "score": 95
-        },
-        {
-          "keyword": "伊野尾慧",
-          "score": 94
-        },
-        {
-          "keyword": "松本穂香",
-          "score": 93
-        },
-        {
-          "keyword": "ポケモン",
-          "score": 92
-        },
-        {
-          "keyword": "ミラノコルティナオリンピック",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-18T01:04:13.107Z",
       "geo": "JP",
       "source": "google",
@@ -7142,6 +7095,53 @@
         },
         {
           "keyword": "相鉄線",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-22T01:00:53.478Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "戦争",
+          "score": 100
+        },
+        {
+          "keyword": "カンボジア",
+          "score": 99
+        },
+        {
+          "keyword": "yamato",
+          "score": 98
+        },
+        {
+          "keyword": "通訳",
+          "score": 97
+        },
+        {
+          "keyword": "くま",
+          "score": 96
+        },
+        {
+          "keyword": "カナダ",
+          "score": 95
+        },
+        {
+          "keyword": "linkbuds clip",
+          "score": 94
+        },
+        {
+          "keyword": "ケニーオメガ",
+          "score": 93
+        },
+        {
+          "keyword": "バスケ",
+          "score": 92
+        },
+        {
+          "keyword": "ロボット",
           "score": 91
         }
       ]
