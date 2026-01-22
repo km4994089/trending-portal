@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-18T08:15:51.004Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "藤ノ川",
-          "score": 100
-        },
-        {
-          "keyword": "榊原郁恵",
-          "score": 99
-        },
-        {
-          "keyword": "玉鷲",
-          "score": 98
-        },
-        {
-          "keyword": "ind vs nz",
-          "score": 97
-        },
-        {
-          "keyword": "高知競馬",
-          "score": 96
-        },
-        {
-          "keyword": "情報1",
-          "score": 95
-        },
-        {
-          "keyword": "琴風浩一",
-          "score": 94
-        },
-        {
-          "keyword": "地方競馬",
-          "score": 93
-        },
-        {
-          "keyword": "愛子さま",
-          "score": 92
-        },
-        {
-          "keyword": "田中大貴",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-18T08:45:43.988Z",
       "geo": "JP",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "阿部一二三",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-22T08:19:03.525Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ファンタジスタ明日翔",
+          "score": 100
+        },
+        {
+          "keyword": "岸博幸",
+          "score": 99
+        },
+        {
+          "keyword": "ラジオスター",
+          "score": 98
+        },
+        {
+          "keyword": "舞の海",
+          "score": 97
+        },
+        {
+          "keyword": "朝乃山",
+          "score": 96
+        },
+        {
+          "keyword": "西岡 徳馬 大相撲",
+          "score": 95
+        },
+        {
+          "keyword": "錦富士",
+          "score": 94
+        },
+        {
+          "keyword": "柏崎刈羽",
+          "score": 93
+        },
+        {
+          "keyword": "高木豊",
+          "score": 92
+        },
+        {
+          "keyword": "いわき平競輪",
           "score": 91
         }
       ]
