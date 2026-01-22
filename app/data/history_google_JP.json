@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-18T21:10:50.793Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "松山英樹",
-          "score": 100
-        },
-        {
-          "keyword": "江口ともみ",
-          "score": 99
-        },
-        {
-          "keyword": "大雪予報",
-          "score": 98
-        },
-        {
-          "keyword": "上坂樹里",
-          "score": 97
-        },
-        {
-          "keyword": "corinthians x são paulo",
-          "score": 96
-        },
-        {
-          "keyword": "綾瀬はるか",
-          "score": 95
-        },
-        {
-          "keyword": "出口夏希",
-          "score": 94
-        },
-        {
-          "keyword": "la liga",
-          "score": 93
-        },
-        {
-          "keyword": "ウナギ・サヤカ",
-          "score": 92
-        },
-        {
-          "keyword": "ラリーガ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-18T21:36:31.314Z",
       "geo": "JP",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "郵便局 転居届",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-22T21:13:55.592Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "forza horizon 6",
+          "score": 100
+        },
+        {
+          "keyword": "スズキ",
+          "score": 99
+        },
+        {
+          "keyword": "マイクロソフト株価",
+          "score": 98
+        },
+        {
+          "keyword": "irいしかわ鉄道",
+          "score": 97
+        },
+        {
+          "keyword": "東海道新幹線 運行状況",
+          "score": 96
+        },
+        {
+          "keyword": "藤岡弘",
+          "score": 95
+        },
+        {
+          "keyword": "imp",
+          "score": 94
+        },
+        {
+          "keyword": "あいの風とやま鉄道",
+          "score": 93
+        },
+        {
+          "keyword": "えちぜん鉄道",
+          "score": 92
+        },
+        {
+          "keyword": "jr東海",
           "score": 91
         }
       ]
