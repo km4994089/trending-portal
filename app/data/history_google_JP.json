@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-18T06:51:24.294Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ポルシェ",
-          "score": 100
-        },
-        {
-          "keyword": "二階堂蓮",
-          "score": 99
-        },
-        {
-          "keyword": "スキージャンプ",
-          "score": 98
-        },
-        {
-          "keyword": "ランボルギーニ",
-          "score": 97
-        },
-        {
-          "keyword": "鈴木貴子",
-          "score": 96
-        },
-        {
-          "keyword": "和田正人 駅伝",
-          "score": 95
-        },
-        {
-          "keyword": "アメリカンステージ",
-          "score": 94
-        },
-        {
-          "keyword": "ゴリランダー ポケモンgo",
-          "score": 93
-        },
-        {
-          "keyword": "宮城県",
-          "score": 92
-        },
-        {
-          "keyword": "ヒロミ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-18T07:13:22.571Z",
       "geo": "JP",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "高校",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-22T06:57:04.046Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "阿部一二三",
+          "score": 100
+        },
+        {
+          "keyword": "里見浩太朗",
+          "score": 99
+        },
+        {
+          "keyword": "田中真美子",
+          "score": 98
+        },
+        {
+          "keyword": "柏崎刈羽原発再稼働",
+          "score": 97
+        },
+        {
+          "keyword": "三菱ふそう",
+          "score": 96
+        },
+        {
+          "keyword": "ポケモンza アップデート",
+          "score": 95
+        },
+        {
+          "keyword": "肺炎",
+          "score": 94
+        },
+        {
+          "keyword": "キングス 対 ラプターズ",
+          "score": 93
+        },
+        {
+          "keyword": "新聞",
+          "score": 92
+        },
+        {
+          "keyword": "加藤一二三",
           "score": 91
         }
       ]
