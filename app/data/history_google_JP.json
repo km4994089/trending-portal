@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-18T07:13:22.571Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "松本まりか",
-          "score": 100
-        },
-        {
-          "keyword": "プロキオンステークス",
-          "score": 99
-        },
-        {
-          "keyword": "アメリカジョッキークラブカップ",
-          "score": 98
-        },
-        {
-          "keyword": "コントレイル",
-          "score": 97
-        },
-        {
-          "keyword": "ポルシェ",
-          "score": 96
-        },
-        {
-          "keyword": "葛西紀明",
-          "score": 95
-        },
-        {
-          "keyword": "スキージャンプ",
-          "score": 94
-        },
-        {
-          "keyword": "ランボルギーニ",
-          "score": 93
-        },
-        {
-          "keyword": "鈴木貴子",
-          "score": 92
-        },
-        {
-          "keyword": "ゴリランダー ポケモンgo",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-18T07:38:08.181Z",
       "geo": "JP",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "加藤一二三",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-22T07:23:47.393Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "天野はな",
+          "score": 100
+        },
+        {
+          "keyword": "ナルト",
+          "score": 99
+        },
+        {
+          "keyword": "福岡大学",
+          "score": 98
+        },
+        {
+          "keyword": "西岡徳馬",
+          "score": 97
+        },
+        {
+          "keyword": "和田竜二",
+          "score": 96
+        },
+        {
+          "keyword": "東京マラソン",
+          "score": 95
+        },
+        {
+          "keyword": "全日本卓球",
+          "score": 94
+        },
+        {
+          "keyword": "阿部一二三",
+          "score": 93
+        },
+        {
+          "keyword": "田中真美子",
+          "score": 92
+        },
+        {
+          "keyword": "柏崎刈羽原発再稼働",
           "score": 91
         }
       ]
