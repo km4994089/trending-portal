@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-18T19:33:54.559Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "セネガル 対 モロッコ",
-          "score": 100
-        },
-        {
-          "keyword": "ソシエダ 対 バルセロナ",
-          "score": 99
-        },
-        {
-          "keyword": "dazn",
-          "score": 98
-        },
-        {
-          "keyword": "トリノ 対 ローマ",
-          "score": 97
-        },
-        {
-          "keyword": "筒井真理子",
-          "score": 96
-        },
-        {
-          "keyword": "paypay",
-          "score": 95
-        },
-        {
-          "keyword": "エールディヴィジ",
-          "score": 94
-        },
-        {
-          "keyword": "磯野貴理子",
-          "score": 93
-        },
-        {
-          "keyword": "中川安奈",
-          "score": 92
-        },
-        {
-          "keyword": "アウクスブルク 対 フライブルク",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-18T20:13:13.018Z",
       "geo": "JP",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "岩渕麗楽",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-22T19:42:37.977Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "アーム 株価",
+          "score": 100
+        },
+        {
+          "keyword": "コストコ",
+          "score": 99
+        },
+        {
+          "keyword": "スーパーマリオブラザーズ ワンダー",
+          "score": 98
+        },
+        {
+          "keyword": "インテル株価",
+          "score": 97
+        },
+        {
+          "keyword": "uefaヨーロッパリーグ",
+          "score": 96
+        },
+        {
+          "keyword": "神田うの",
+          "score": 95
+        },
+        {
+          "keyword": "ネトフリ",
+          "score": 94
+        },
+        {
+          "keyword": "猪俣周杜",
+          "score": 93
+        },
+        {
+          "keyword": "ボローニャ 対 セルティック",
+          "score": 92
+        },
+        {
+          "keyword": "tbs",
           "score": 91
         }
       ]
