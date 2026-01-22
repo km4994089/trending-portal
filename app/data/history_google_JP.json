@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-18T10:12:42.773Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "石原裕次郎",
-          "score": 100
-        },
-        {
-          "keyword": "金沢",
-          "score": 99
-        },
-        {
-          "keyword": "本田宗一郎",
-          "score": 98
-        },
-        {
-          "keyword": "鈴木杏樹",
-          "score": 97
-        },
-        {
-          "keyword": "unext 株価",
-          "score": 96
-        },
-        {
-          "keyword": "渡辺翔太",
-          "score": 95
-        },
-        {
-          "keyword": "芦ノ湖",
-          "score": 94
-        },
-        {
-          "keyword": "ひつまぶし",
-          "score": 93
-        },
-        {
-          "keyword": "にじさんじ",
-          "score": 92
-        },
-        {
-          "keyword": "algs 結果",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-18T10:42:10.103Z",
       "geo": "JP",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "安青錦",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-22T10:17:56.958Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "小椋佳",
+          "score": 100
+        },
+        {
+          "keyword": "吉祥寺",
+          "score": 99
+        },
+        {
+          "keyword": "jr九州",
+          "score": 98
+        },
+        {
+          "keyword": "ダンプカー",
+          "score": 97
+        },
+        {
+          "keyword": "ユニバ ポケモン",
+          "score": 96
+        },
+        {
+          "keyword": "四大陸フィギュアスケート選手権",
+          "score": 95
+        },
+        {
+          "keyword": "イマーシブジャーニー 名古屋",
+          "score": 94
+        },
+        {
+          "keyword": "卓球全日本選手権 2026",
+          "score": 93
+        },
+        {
+          "keyword": "大相撲",
+          "score": 92
+        },
+        {
+          "keyword": "ケンタッキーフライドチキン メニュー",
           "score": 91
         }
       ]
