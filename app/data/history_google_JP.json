@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-18T22:41:09.781Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "チャットgpt",
-          "score": 100
-        },
-        {
-          "keyword": "ミラン",
-          "score": 99
-        },
-        {
-          "keyword": "chat gpt",
-          "score": 98
-        },
-        {
-          "keyword": "気温",
-          "score": 97
-        },
-        {
-          "keyword": "富山天気",
-          "score": 96
-        },
-        {
-          "keyword": "グリーンランド 国",
-          "score": 95
-        },
-        {
-          "keyword": "豊田市 殺人事件",
-          "score": 94
-        },
-        {
-          "keyword": "インフルエンザ",
-          "score": 93
-        },
-        {
-          "keyword": "花粉情報",
-          "score": 92
-        },
-        {
-          "keyword": "衆議院解散 なぜ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-18T23:11:45.013Z",
       "geo": "JP",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "テスラ株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-22T22:45:49.045Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "who",
+          "score": 100
+        },
+        {
+          "keyword": "おしゃべりフラワー",
+          "score": 99
+        },
+        {
+          "keyword": "気象庁",
+          "score": 98
+        },
+        {
+          "keyword": "衆議院選挙 自民党",
+          "score": 97
+        },
+        {
+          "keyword": "北陸新幹線",
+          "score": 96
+        },
+        {
+          "keyword": "rbザルツブルク 対 バーゼル",
+          "score": 95
+        },
+        {
+          "keyword": "京都縦貫道",
+          "score": 94
+        },
+        {
+          "keyword": "坂本龍一",
+          "score": 93
+        },
+        {
+          "keyword": "ポケカ",
+          "score": 92
+        },
+        {
+          "keyword": "ローマ 対 シュトゥットガルト",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-18T22:41:06.919Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "rachel mcadams",
-          "score": 100
-        },
-        {
-          "keyword": "dylan o'brien",
-          "score": 99
-        },
-        {
-          "keyword": "sam raimi",
-          "score": 98
-        },
-        {
-          "keyword": "rj decker",
-          "score": 97
-        },
-        {
-          "keyword": "ucla women's basketball",
-          "score": 96
-        },
-        {
-          "keyword": "santos - juárez",
-          "score": 95
-        },
-        {
-          "keyword": "wonder man",
-          "score": 94
-        },
-        {
-          "keyword": "uefa champions league",
-          "score": 93
-        },
-        {
-          "keyword": "gonçalo guedes",
-          "score": 92
-        },
-        {
-          "keyword": "joão cancelo",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-18T23:11:42.141Z",
       "geo": "US",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "intc stock",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-22T22:45:46.038Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "aws outage",
+          "score": 100
+        },
+        {
+          "keyword": "finding her edge netflix",
+          "score": 99
+        },
+        {
+          "keyword": "west georgia basketball",
+          "score": 98
+        },
+        {
+          "keyword": "trey kaufman-renn",
+          "score": 97
+        },
+        {
+          "keyword": "santos vs corinthians",
+          "score": 96
+        },
+        {
+          "keyword": "sparkle beach ken doll",
+          "score": 95
+        },
+        {
+          "keyword": "xbox developer direct games",
+          "score": 94
+        },
+        {
+          "keyword": "autodesk",
+          "score": 93
+        },
+        {
+          "keyword": "isrg stock",
+          "score": 92
+        },
+        {
+          "keyword": "cof stock",
           "score": 91
         }
       ]
