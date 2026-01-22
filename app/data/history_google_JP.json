@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-18T09:12:48.832Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大の里",
-          "score": 100
-        },
-        {
-          "keyword": "尾張旭市",
-          "score": 99
-        },
-        {
-          "keyword": "東京15区",
-          "score": 98
-        },
-        {
-          "keyword": "愛子内親王",
-          "score": 97
-        },
-        {
-          "keyword": "天皇",
-          "score": 96
-        },
-        {
-          "keyword": "大栄翔",
-          "score": 95
-        },
-        {
-          "keyword": "霧島",
-          "score": 94
-        },
-        {
-          "keyword": "nhk 受信料",
-          "score": 93
-        },
-        {
-          "keyword": "ヴィトン バッグ",
-          "score": 92
-        },
-        {
-          "keyword": "王鵬",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-18T09:39:17.915Z",
       "geo": "JP",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "欧勝海",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-22T09:24:09.740Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "大相撲結果",
+          "score": 100
+        },
+        {
+          "keyword": "豊昇龍",
+          "score": 99
+        },
+        {
+          "keyword": "田園都市線",
+          "score": 98
+        },
+        {
+          "keyword": "ソラナ・チルステア",
+          "score": 97
+        },
+        {
+          "keyword": "磐田市",
+          "score": 96
+        },
+        {
+          "keyword": "テレ朝チケット",
+          "score": 95
+        },
+        {
+          "keyword": "霧島 力士",
+          "score": 94
+        },
+        {
+          "keyword": "熱海富士",
+          "score": 93
+        },
+        {
+          "keyword": "霧島",
+          "score": 92
+        },
+        {
+          "keyword": "sl vs eng",
           "score": 91
         }
       ]
