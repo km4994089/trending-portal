@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T09:54:21.923Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김형석",
-          "score": 100
-        },
-        {
-          "keyword": "나라사랑카드",
-          "score": 99
-        },
-        {
-          "keyword": "서울보증보험",
-          "score": 98
-        },
-        {
-          "keyword": "나철",
-          "score": 97
-        },
-        {
-          "keyword": "마틴 루터 킹 주니어의 날",
-          "score": 96
-        },
-        {
-          "keyword": "dr. martin luther king jr. day",
-          "score": 95
-        },
-        {
-          "keyword": "이원종",
-          "score": 94
-        },
-        {
-          "keyword": "cia",
-          "score": 93
-        },
-        {
-          "keyword": "코스피",
-          "score": 92
-        },
-        {
-          "keyword": "현대차 주가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T10:18:43.462Z",
       "geo": "KR",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "안효섭",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T10:15:17.359Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "한국보건의료인국가시험원",
+          "score": 100
+        },
+        {
+          "keyword": "알렉산더 즈베레프",
+          "score": 99
+        },
+        {
+          "keyword": "프로젝트 y",
+          "score": 98
+        },
+        {
+          "keyword": "조은나래",
+          "score": 97
+        },
+        {
+          "keyword": "cia",
+          "score": 96
+        },
+        {
+          "keyword": "김한민",
+          "score": 95
+        },
+        {
+          "keyword": "고려대학교",
+          "score": 94
+        },
+        {
+          "keyword": "종로3가 화재",
+          "score": 93
+        },
+        {
+          "keyword": "호서대",
+          "score": 92
+        },
+        {
+          "keyword": "현대무벡스",
           "score": 91
         }
       ]

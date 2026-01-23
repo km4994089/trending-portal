@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T09:54:23.151Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "windows update",
-          "score": 100
-        },
-        {
-          "keyword": "天気大雪",
-          "score": 99
-        },
-        {
-          "keyword": "食料品消費税ゼロ",
-          "score": 98
-        },
-        {
-          "keyword": "内島萌夏",
-          "score": 97
-        },
-        {
-          "keyword": "しゃべくり007",
-          "score": 96
-        },
-        {
-          "keyword": "高市早苗",
-          "score": 95
-        },
-        {
-          "keyword": "大相撲結果",
-          "score": 94
-        },
-        {
-          "keyword": "自民党",
-          "score": 93
-        },
-        {
-          "keyword": "田中泯",
-          "score": 92
-        },
-        {
-          "keyword": "熱海富士",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T10:18:44.664Z",
       "geo": "JP",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "wurts",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T10:15:18.588Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "よしき",
+          "score": 100
+        },
+        {
+          "keyword": "横浜線",
+          "score": 99
+        },
+        {
+          "keyword": "清瀬市",
+          "score": 98
+        },
+        {
+          "keyword": "筒井洋樹",
+          "score": 97
+        },
+        {
+          "keyword": "fgo",
+          "score": 96
+        },
+        {
+          "keyword": "バロー",
+          "score": 95
+        },
+        {
+          "keyword": "江戸川コナン失踪事件",
+          "score": 94
+        },
+        {
+          "keyword": "ameba",
+          "score": 93
+        },
+        {
+          "keyword": "田中千晴",
+          "score": 92
+        },
+        {
+          "keyword": "abema",
           "score": 91
         }
       ]
