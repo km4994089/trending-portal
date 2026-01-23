@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T07:47:20.798Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dr. martin luther king jr. day",
-          "score": 100
-        },
-        {
-          "keyword": "이원종",
-          "score": 99
-        },
-        {
-          "keyword": "이탈리아",
-          "score": 98
-        },
-        {
-          "keyword": "cia",
-          "score": 97
-        },
-        {
-          "keyword": "현대자동차",
-          "score": 96
-        },
-        {
-          "keyword": "코스피",
-          "score": 95
-        },
-        {
-          "keyword": "rams vs bears",
-          "score": 94
-        },
-        {
-          "keyword": "임이자",
-          "score": 93
-        },
-        {
-          "keyword": "우리기술",
-          "score": 92
-        },
-        {
-          "keyword": "김병기",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T08:20:44.757Z",
       "geo": "KR",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "최은석",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T08:18:18.415Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김한민",
+          "score": 100
+        },
+        {
+          "keyword": "고려대학교",
+          "score": 99
+        },
+        {
+          "keyword": "종로3가 화재",
+          "score": 98
+        },
+        {
+          "keyword": "현대무벡스",
+          "score": 97
+        },
+        {
+          "keyword": "호서대",
+          "score": 96
+        },
+        {
+          "keyword": "레인보우로보틱스",
+          "score": 95
+        },
+        {
+          "keyword": "고려대",
+          "score": 94
+        },
+        {
+          "keyword": "카를로스 알카라스",
+          "score": 93
+        },
+        {
+          "keyword": "다닐 메드베데프",
+          "score": 92
+        },
+        {
+          "keyword": "la 클리퍼스 대 la 레이커스",
           "score": 91
         }
       ]
