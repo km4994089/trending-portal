@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T14:51:56.460Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "buffalo news",
-          "score": 100
-        },
-        {
-          "keyword": "nfl coaching news",
-          "score": 99
-        },
-        {
-          "keyword": "mcdermott bills",
-          "score": 98
-        },
-        {
-          "keyword": "mcdermott",
-          "score": 97
-        },
-        {
-          "keyword": "bills coach retires",
-          "score": 96
-        },
-        {
-          "keyword": "joe brady",
-          "score": 95
-        },
-        {
-          "keyword": "adam schefter",
-          "score": 94
-        },
-        {
-          "keyword": "brian daboll",
-          "score": 93
-        },
-        {
-          "keyword": "profootballtalk",
-          "score": 92
-        },
-        {
-          "keyword": "mlk parade houston",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T15:17:18.919Z",
       "geo": "US",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "inclement weather",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T15:16:23.752Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "amd",
+          "score": 100
+        },
+        {
+          "keyword": "matt nagy",
+          "score": 99
+        },
+        {
+          "keyword": "colorado springs weather",
+          "score": 98
+        },
+        {
+          "keyword": "interland",
+          "score": 97
+        },
+        {
+          "keyword": "ryan wedding",
+          "score": 96
+        },
+        {
+          "keyword": "daryl mitchell",
+          "score": 95
+        },
+        {
+          "keyword": "vietnam u-23 vs south korea u-23",
+          "score": 94
+        },
+        {
+          "keyword": "claire foy",
+          "score": 93
+        },
+        {
+          "keyword": "giovanni primo blount",
+          "score": 92
+        },
+        {
+          "keyword": "benin",
           "score": 91
         }
       ]
