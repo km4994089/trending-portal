@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T15:17:20.245Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "챔피언스리그",
-          "score": 100
-        },
-        {
-          "keyword": "마틴루터킹 데이",
-          "score": 99
-        },
-        {
-          "keyword": "미장",
-          "score": 98
-        },
-        {
-          "keyword": "류시원",
-          "score": 97
-        },
-        {
-          "keyword": "fort hood",
-          "score": 96
-        },
-        {
-          "keyword": "허재",
-          "score": 95
-        },
-        {
-          "keyword": "장은숙",
-          "score": 94
-        },
-        {
-          "keyword": "충칭",
-          "score": 93
-        },
-        {
-          "keyword": "노바크 조코비치",
-          "score": 92
-        },
-        {
-          "keyword": "나스닥 선물",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T15:47:06.258Z",
       "geo": "KR",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "일기예보",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T15:46:45.666Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "최백호",
+          "score": 100
+        },
+        {
+          "keyword": "u-23 việt nam đấu với u-23 hàn quốc",
+          "score": 99
+        },
+        {
+          "keyword": "배나라",
+          "score": 98
+        },
+        {
+          "keyword": "아리아나 그란데",
+          "score": 97
+        },
+        {
+          "keyword": "비서진",
+          "score": 96
+        },
+        {
+          "keyword": "베트남 u-23 대 한국 u-23",
+          "score": 95
+        },
+        {
+          "keyword": "이주빈",
+          "score": 94
+        },
+        {
+          "keyword": "박재범",
+          "score": 93
+        },
+        {
+          "keyword": "new zealand vs india",
+          "score": 92
+        },
+        {
+          "keyword": "ind vs nz",
           "score": 91
         }
       ]
