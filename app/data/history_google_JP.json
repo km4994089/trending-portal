@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T21:39:32.816Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "青い森鉄道",
-          "score": 100
-        },
-        {
-          "keyword": "brighton vs bournemouth",
-          "score": 99
-        },
-        {
-          "keyword": "沢口靖子",
-          "score": 98
-        },
-        {
-          "keyword": "原千晶アナウンサー骨折",
-          "score": 97
-        },
-        {
-          "keyword": "暴風雪警報",
-          "score": 96
-        },
-        {
-          "keyword": "沢尻エリカ",
-          "score": 95
-        },
-        {
-          "keyword": "ラツィオ 対 コモ",
-          "score": 94
-        },
-        {
-          "keyword": "トランプ",
-          "score": 93
-        },
-        {
-          "keyword": "ファミリーマート",
-          "score": 92
-        },
-        {
-          "keyword": "jo1",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T22:12:52.631Z",
       "geo": "JP",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "ホロライブ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T21:40:32.661Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "山陽自動車道",
+          "score": 100
+        },
+        {
+          "keyword": "松村北斗",
+          "score": 99
+        },
+        {
+          "keyword": "齊藤京子",
+          "score": 98
+        },
+        {
+          "keyword": "今田美桜",
+          "score": 97
+        },
+        {
+          "keyword": "関越自動車道",
+          "score": 96
+        },
+        {
+          "keyword": "ガソリンスタンド",
+          "score": 95
+        },
+        {
+          "keyword": "地震速報",
+          "score": 94
+        },
+        {
+          "keyword": "auxerre vs psg",
+          "score": 93
+        },
+        {
+          "keyword": "衆議院 選挙区",
+          "score": 92
+        },
+        {
+          "keyword": "セリエa",
           "score": 91
         }
       ]
