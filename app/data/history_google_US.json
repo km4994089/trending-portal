@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T17:16:27.958Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "100 car pile up",
-          "score": 100
-        },
-        {
-          "keyword": "valentino",
-          "score": 99
-        },
-        {
-          "keyword": "stonehill basketball",
-          "score": 98
-        },
-        {
-          "keyword": "northern lights",
-          "score": 97
-        },
-        {
-          "keyword": "marathon game",
-          "score": 96
-        },
-        {
-          "keyword": "cremonese vs verona",
-          "score": 95
-        },
-        {
-          "keyword": "peso pluma tour",
-          "score": 94
-        },
-        {
-          "keyword": "jorge mateo",
-          "score": 93
-        },
-        {
-          "keyword": "snow squall",
-          "score": 92
-        },
-        {
-          "keyword": "ana",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T17:44:55.061Z",
       "geo": "US",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "derrick rose",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T17:19:11.986Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kash patel",
+          "score": 100
+        },
+        {
+          "keyword": "philip rivers",
+          "score": 99
+        },
+        {
+          "keyword": "guy fieri",
+          "score": 98
+        },
+        {
+          "keyword": "gregory bovino",
+          "score": 97
+        },
+        {
+          "keyword": "joy behar",
+          "score": 96
+        },
+        {
+          "keyword": "wrestling wwe",
+          "score": 95
+        },
+        {
+          "keyword": "msft",
+          "score": 94
+        },
+        {
+          "keyword": "ishan kishan",
+          "score": 93
+        },
+        {
+          "keyword": "teoscar hernández",
+          "score": 92
+        },
+        {
+          "keyword": "ahsaa",
           "score": 91
         }
       ]
