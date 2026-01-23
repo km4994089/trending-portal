@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T21:11:45.272Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "原千晶アナウンサー骨折",
-          "score": 100
-        },
-        {
-          "keyword": "暴風雪警報",
-          "score": 99
-        },
-        {
-          "keyword": "ラツィオ 対 コモ",
-          "score": 98
-        },
-        {
-          "keyword": "沢尻エリカ",
-          "score": 97
-        },
-        {
-          "keyword": "トランプ",
-          "score": 96
-        },
-        {
-          "keyword": "ファミリーマート",
-          "score": 95
-        },
-        {
-          "keyword": "jo1",
-          "score": 94
-        },
-        {
-          "keyword": "クーリッシュ 3d プリンタ",
-          "score": 93
-        },
-        {
-          "keyword": "知恵袋",
-          "score": 92
-        },
-        {
-          "keyword": "ブライトン 対 ボーンマス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T21:39:32.816Z",
       "geo": "JP",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "prime video",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T21:12:34.017Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "衆議院 選挙区",
+          "score": 100
+        },
+        {
+          "keyword": "セリエa",
+          "score": 99
+        },
+        {
+          "keyword": "山本建",
+          "score": 98
+        },
+        {
+          "keyword": "九州自動車道",
+          "score": 97
+        },
+        {
+          "keyword": "インテル株価",
+          "score": 96
+        },
+        {
+          "keyword": "エンドフィールド 編成",
+          "score": 95
+        },
+        {
+          "keyword": "grok",
+          "score": 94
+        },
+        {
+          "keyword": "インテル 対 ピサ",
+          "score": 93
+        },
+        {
+          "keyword": "凱旋門賞",
+          "score": 92
+        },
+        {
+          "keyword": "ホロライブ",
           "score": 91
         }
       ]
