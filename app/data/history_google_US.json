@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T23:39:47.589Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mark cuban",
-          "score": 100
-        },
-        {
-          "keyword": "sling tv",
-          "score": 99
-        },
-        {
-          "keyword": "lego golden retriever puppy",
-          "score": 98
-        },
-        {
-          "keyword": "robin roberts",
-          "score": 97
-        },
-        {
-          "keyword": "pacers vs 76ers",
-          "score": 96
-        },
-        {
-          "keyword": "nicki minaj",
-          "score": 95
-        },
-        {
-          "keyword": "naji marshall",
-          "score": 94
-        },
-        {
-          "keyword": "klay thompson",
-          "score": 93
-        },
-        {
-          "keyword": "natty football",
-          "score": 92
-        },
-        {
-          "keyword": "og anunoby",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T00:58:50.072Z",
       "geo": "US",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "idris elba",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T23:40:17.252Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "emeril lagasse",
+          "score": 100
+        },
+        {
+          "keyword": "john brodie",
+          "score": 99
+        },
+        {
+          "keyword": "james carville",
+          "score": 98
+        },
+        {
+          "keyword": "x games 2026",
+          "score": 97
+        },
+        {
+          "keyword": "rockets vs pistons",
+          "score": 96
+        },
+        {
+          "keyword": "indiana vs rutgers",
+          "score": 95
+        },
+        {
+          "keyword": "cooper criswell",
+          "score": 94
+        },
+        {
+          "keyword": "rocsi diaz",
+          "score": 93
+        },
+        {
+          "keyword": "martha maccallum",
+          "score": 92
+        },
+        {
+          "keyword": "nfl this weekend",
           "score": 91
         }
       ]
