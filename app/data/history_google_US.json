@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T08:54:46.474Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "iga świątek",
-          "score": 100
-        },
-        {
-          "keyword": "valentin vacherot",
-          "score": 99
-        },
-        {
-          "keyword": "yue yuan",
-          "score": 98
-        },
-        {
-          "keyword": "jiri lehecka",
-          "score": 97
-        },
-        {
-          "keyword": "nfl playoff football",
-          "score": 96
-        },
-        {
-          "keyword": "tom holland",
-          "score": 95
-        },
-        {
-          "keyword": "new show to watch",
-          "score": 94
-        },
-        {
-          "keyword": "rinky hijikata",
-          "score": 93
-        },
-        {
-          "keyword": "paula badosa",
-          "score": 92
-        },
-        {
-          "keyword": "florida snow weather",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T09:25:07.937Z",
       "geo": "US",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "military",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T09:20:56.697Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "alliant energy",
+          "score": 100
+        },
+        {
+          "keyword": "seat",
+          "score": 99
+        },
+        {
+          "keyword": "streamex",
+          "score": 98
+        },
+        {
+          "keyword": "mark kerr",
+          "score": 97
+        },
+        {
+          "keyword": "alexander bublik",
+          "score": 96
+        },
+        {
+          "keyword": "stuff",
+          "score": 95
+        },
+        {
+          "keyword": "event",
+          "score": 94
+        },
+        {
+          "keyword": "better",
+          "score": 93
+        },
+        {
+          "keyword": "election",
+          "score": 92
+        },
+        {
+          "keyword": "price",
           "score": 91
         }
       ]

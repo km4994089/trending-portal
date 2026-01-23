@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T08:54:49.267Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大相撲 結果",
-          "score": 100
-        },
-        {
-          "keyword": "cdtv",
-          "score": 99
-        },
-        {
-          "keyword": "若隆景",
-          "score": 98
-        },
-        {
-          "keyword": "霧島 力士",
-          "score": 97
-        },
-        {
-          "keyword": "玉ノ井親方",
-          "score": 96
-        },
-        {
-          "keyword": "時疾風",
-          "score": 95
-        },
-        {
-          "keyword": "はま寿司 フェア",
-          "score": 94
-        },
-        {
-          "keyword": "ホラン千秋",
-          "score": 93
-        },
-        {
-          "keyword": "常松広太郎",
-          "score": 92
-        },
-        {
-          "keyword": "児島競艇",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T09:25:10.418Z",
       "geo": "JP",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "相撲観戦 有名人 今日",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T09:20:59.335Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "相撲",
+          "score": 100
+        },
+        {
+          "keyword": "abema",
+          "score": 99
+        },
+        {
+          "keyword": "串カツ田中",
+          "score": 98
+        },
+        {
+          "keyword": "wurts",
+          "score": 97
+        },
+        {
+          "keyword": "霧島",
+          "score": 96
+        },
+        {
+          "keyword": "電車",
+          "score": 95
+        },
+        {
+          "keyword": "獅司",
+          "score": 94
+        },
+        {
+          "keyword": "abematv",
+          "score": 93
+        },
+        {
+          "keyword": "運行状況",
+          "score": 92
+        },
+        {
+          "keyword": "川越線",
           "score": 91
         }
       ]
