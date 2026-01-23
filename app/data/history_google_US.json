@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T08:20:43.531Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "new show to watch",
-          "score": 100
-        },
-        {
-          "keyword": "rinky hijikata",
-          "score": 99
-        },
-        {
-          "keyword": "paula badosa",
-          "score": 98
-        },
-        {
-          "keyword": "florida snow weather",
-          "score": 97
-        },
-        {
-          "keyword": "jaume munar",
-          "score": 96
-        },
-        {
-          "keyword": "twice",
-          "score": 95
-        },
-        {
-          "keyword": "mens health",
-          "score": 94
-        },
-        {
-          "keyword": "trump impeachment 2026",
-          "score": 93
-        },
-        {
-          "keyword": "arman tsarukyan",
-          "score": 92
-        },
-        {
-          "keyword": "denis shapovalov",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T08:54:46.474Z",
       "geo": "US",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "vote",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T08:51:51.837Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "change",
+          "score": 100
+        },
+        {
+          "keyword": "result",
+          "score": 99
+        },
+        {
+          "keyword": "city",
+          "score": 98
+        },
+        {
+          "keyword": "auto accident attorney",
+          "score": 97
+        },
+        {
+          "keyword": "nice",
+          "score": 96
+        },
+        {
+          "keyword": "ps5 pro",
+          "score": 95
+        },
+        {
+          "keyword": "alexander zverev",
+          "score": 94
+        },
+        {
+          "keyword": "flight",
+          "score": 93
+        },
+        {
+          "keyword": "national",
+          "score": 92
+        },
+        {
+          "keyword": "military",
           "score": 91
         }
       ]

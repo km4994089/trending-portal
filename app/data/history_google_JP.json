@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T08:20:45.938Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "玉ノ井親方",
-          "score": 100
-        },
-        {
-          "keyword": "時疾風",
-          "score": 99
-        },
-        {
-          "keyword": "はま寿司 フェア",
-          "score": 98
-        },
-        {
-          "keyword": "ホラン千秋",
-          "score": 97
-        },
-        {
-          "keyword": "児島競艇",
-          "score": 96
-        },
-        {
-          "keyword": "常松広太郎",
-          "score": 95
-        },
-        {
-          "keyword": "衆議院選挙",
-          "score": 94
-        },
-        {
-          "keyword": "恵庭南高校",
-          "score": 93
-        },
-        {
-          "keyword": "小椋佳",
-          "score": 92
-        },
-        {
-          "keyword": "もち吉",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T08:54:49.267Z",
       "geo": "JP",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "照ノ富士",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T08:51:54.150Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "獅司",
+          "score": 100
+        },
+        {
+          "keyword": "電車",
+          "score": 99
+        },
+        {
+          "keyword": "abematv",
+          "score": 98
+        },
+        {
+          "keyword": "運行状況",
+          "score": 97
+        },
+        {
+          "keyword": "川越線",
+          "score": 96
+        },
+        {
+          "keyword": "朝乃山",
+          "score": 95
+        },
+        {
+          "keyword": "電車 遅延",
+          "score": 94
+        },
+        {
+          "keyword": "熱海富士",
+          "score": 93
+        },
+        {
+          "keyword": "上野東京ライン",
+          "score": 92
+        },
+        {
+          "keyword": "相撲観戦 有名人 今日",
           "score": 91
         }
       ]
