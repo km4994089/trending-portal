@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T01:03:35.795Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "双日 株価",
-          "score": 100
-        },
-        {
-          "keyword": "地球",
-          "score": 99
-        },
-        {
-          "keyword": "三菱電機 株価",
-          "score": 98
-        },
-        {
-          "keyword": "国土交通省",
-          "score": 97
-        },
-        {
-          "keyword": "トヨタ 株価",
-          "score": 96
-        },
-        {
-          "keyword": "東京スカイツリー",
-          "score": 95
-        },
-        {
-          "keyword": "中京大学",
-          "score": 94
-        },
-        {
-          "keyword": "山梨県の山火事",
-          "score": 93
-        },
-        {
-          "keyword": "西澤アナ",
-          "score": 92
-        },
-        {
-          "keyword": "住友化学 株価",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T03:19:21.305Z",
       "geo": "JP",
       "source": "google",
@@ -7001,6 +6954,53 @@
         },
         {
           "keyword": "国会",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T03:13:56.062Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "にじさんじ8周年",
+          "score": 100
+        },
+        {
+          "keyword": "ジェフ千葉",
+          "score": 99
+        },
+        {
+          "keyword": "青木裕子",
+          "score": 98
+        },
+        {
+          "keyword": "金子恵美",
+          "score": 97
+        },
+        {
+          "keyword": "東京科学大",
+          "score": 96
+        },
+        {
+          "keyword": "ゴッホ",
+          "score": 95
+        },
+        {
+          "keyword": "jリーグチケット",
+          "score": 94
+        },
+        {
+          "keyword": "御嶽山",
+          "score": 93
+        },
+        {
+          "keyword": "west",
+          "score": 92
+        },
+        {
+          "keyword": "自然災害",
           "score": 91
         }
       ]
