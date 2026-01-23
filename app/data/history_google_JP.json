@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T20:13:58.974Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ファミリーマート",
-          "score": 100
-        },
-        {
-          "keyword": "クーリッシュ 3d プリンタ",
-          "score": 99
-        },
-        {
-          "keyword": "知恵袋",
-          "score": 98
-        },
-        {
-          "keyword": "ブライトン 対 ボーンマス",
-          "score": 97
-        },
-        {
-          "keyword": "山根千佳",
-          "score": 96
-        },
-        {
-          "keyword": "成田悠輔",
-          "score": 95
-        },
-        {
-          "keyword": "井上麻里奈",
-          "score": 94
-        },
-        {
-          "keyword": "ダイアン津田",
-          "score": 93
-        },
-        {
-          "keyword": "ナナヲアカリ",
-          "score": 92
-        },
-        {
-          "keyword": "超特急",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T20:42:59.044Z",
       "geo": "JP",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "イヴォンヌ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T20:15:08.391Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "grok",
+          "score": 100
+        },
+        {
+          "keyword": "エンドフィールド 編成",
+          "score": 99
+        },
+        {
+          "keyword": "インテル 対 ピサ",
+          "score": 98
+        },
+        {
+          "keyword": "凱旋門賞",
+          "score": 97
+        },
+        {
+          "keyword": "ホロライブ",
+          "score": 96
+        },
+        {
+          "keyword": "超特急",
+          "score": 95
+        },
+        {
+          "keyword": "prime video",
+          "score": 94
+        },
+        {
+          "keyword": "ブレイキングダウン",
+          "score": 93
+        },
+        {
+          "keyword": "炎炎ノ消防隊",
+          "score": 92
+        },
+        {
+          "keyword": "厚生年金 国民年金",
           "score": 91
         }
       ]
