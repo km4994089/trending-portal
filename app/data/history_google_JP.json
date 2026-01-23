@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T19:37:21.365Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ブライトン 対 ボーンマス",
-          "score": 100
-        },
-        {
-          "keyword": "山根千佳",
-          "score": 99
-        },
-        {
-          "keyword": "成田悠輔",
-          "score": 98
-        },
-        {
-          "keyword": "井上麻里奈",
-          "score": 97
-        },
-        {
-          "keyword": "ダイアン津田",
-          "score": 96
-        },
-        {
-          "keyword": "ナナヲアカリ",
-          "score": 95
-        },
-        {
-          "keyword": "超特急",
-          "score": 94
-        },
-        {
-          "keyword": "磯山さやか",
-          "score": 93
-        },
-        {
-          "keyword": "レディーガガ",
-          "score": 92
-        },
-        {
-          "keyword": "sully",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T20:13:58.974Z",
       "geo": "JP",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "メダリスト 2期",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T19:42:45.062Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "凱旋門賞",
+          "score": 100
+        },
+        {
+          "keyword": "ホロライブ",
+          "score": 99
+        },
+        {
+          "keyword": "超特急",
+          "score": 98
+        },
+        {
+          "keyword": "prime video",
+          "score": 97
+        },
+        {
+          "keyword": "ブレイキングダウン",
+          "score": 96
+        },
+        {
+          "keyword": "炎炎ノ消防隊",
+          "score": 95
+        },
+        {
+          "keyword": "厚生年金 国民年金",
+          "score": 94
+        },
+        {
+          "keyword": "エンドフィールド 武器",
+          "score": 93
+        },
+        {
+          "keyword": "スターグロー",
+          "score": 92
+        },
+        {
+          "keyword": "イヴォンヌ",
           "score": 91
         }
       ]
