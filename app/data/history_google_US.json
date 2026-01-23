@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T10:52:21.132Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sinner",
-          "score": 100
-        },
-        {
-          "keyword": "cole walliser",
-          "score": 99
-        },
-        {
-          "keyword": "elise mertens",
-          "score": 98
-        },
-        {
-          "keyword": "wood tv 8",
-          "score": 97
-        },
-        {
-          "keyword": "industry season 4 episode 2 recap",
-          "score": 96
-        },
-        {
-          "keyword": "shannen doherty",
-          "score": 95
-        },
-        {
-          "keyword": "donna vekic",
-          "score": 94
-        },
-        {
-          "keyword": "davos",
-          "score": 93
-        },
-        {
-          "keyword": "mirra andreeva",
-          "score": 92
-        },
-        {
-          "keyword": "the walking dead",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T11:14:23.241Z",
       "geo": "US",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "family",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T11:13:09.949Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "school closings and delays",
+          "score": 100
+        },
+        {
+          "keyword": "schools closed today",
+          "score": 99
+        },
+        {
+          "keyword": "closings",
+          "score": 98
+        },
+        {
+          "keyword": "louisville weather",
+          "score": 97
+        },
+        {
+          "keyword": "milwaukee weather",
+          "score": 96
+        },
+        {
+          "keyword": "pilot",
+          "score": 95
+        },
+        {
+          "keyword": "knoxville weather",
+          "score": 94
+        },
+        {
+          "keyword": "chattanooga weather",
+          "score": 93
+        },
+        {
+          "keyword": "wbz weather",
+          "score": 92
+        },
+        {
+          "keyword": "dc weather",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T10:52:23.811Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ini",
-          "score": 100
-        },
-        {
-          "keyword": "niziu",
-          "score": 99
-        },
-        {
-          "keyword": "氷川きよし",
-          "score": 98
-        },
-        {
-          "keyword": "ldh",
-          "score": 97
-        },
-        {
-          "keyword": "島袋寛子",
-          "score": 96
-        },
-        {
-          "keyword": "speed",
-          "score": 95
-        },
-        {
-          "keyword": "音喜多駿",
-          "score": 94
-        },
-        {
-          "keyword": "v6",
-          "score": 93
-        },
-        {
-          "keyword": "朝倉市 事故",
-          "score": 92
-        },
-        {
-          "keyword": "奥田民生",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T11:14:25.681Z",
       "geo": "JP",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "dfm",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T11:13:12.412Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "木村佳乃",
+          "score": 100
+        },
+        {
+          "keyword": "海上自衛隊",
+          "score": 99
+        },
+        {
+          "keyword": "篠原ともえ",
+          "score": 98
+        },
+        {
+          "keyword": "モンストフリーレン",
+          "score": 97
+        },
+        {
+          "keyword": "igアリーナ",
+          "score": 96
+        },
+        {
+          "keyword": "沸騰ワード",
+          "score": 95
+        },
+        {
+          "keyword": "しなこ",
+          "score": 94
+        },
+        {
+          "keyword": "佐久間大介",
+          "score": 93
+        },
+        {
+          "keyword": "ガザ",
+          "score": 92
+        },
+        {
+          "keyword": "水戸黄門",
           "score": 91
         }
       ]
