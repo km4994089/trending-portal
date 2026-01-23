@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T09:25:10.418Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "内島萌夏",
-          "score": 100
-        },
-        {
-          "keyword": "しゃべくり007",
-          "score": 99
-        },
-        {
-          "keyword": "高市早苗",
-          "score": 98
-        },
-        {
-          "keyword": "大相撲結果",
-          "score": 97
-        },
-        {
-          "keyword": "自民党",
-          "score": 96
-        },
-        {
-          "keyword": "田中泯",
-          "score": 95
-        },
-        {
-          "keyword": "大相撲",
-          "score": 94
-        },
-        {
-          "keyword": "熱海富士",
-          "score": 93
-        },
-        {
-          "keyword": "大相撲 結果",
-          "score": 92
-        },
-        {
-          "keyword": "cdtv",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T09:54:23.151Z",
       "geo": "JP",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "川越線",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T09:49:32.058Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "fgo",
+          "score": 100
+        },
+        {
+          "keyword": "バロー",
+          "score": 99
+        },
+        {
+          "keyword": "江戸川コナン失踪事件",
+          "score": 98
+        },
+        {
+          "keyword": "ameba",
+          "score": 97
+        },
+        {
+          "keyword": "田中千晴",
+          "score": 96
+        },
+        {
+          "keyword": "琴櫻",
+          "score": 95
+        },
+        {
+          "keyword": "abema",
+          "score": 94
+        },
+        {
+          "keyword": "大相撲結果",
+          "score": 93
+        },
+        {
+          "keyword": "串カツ田中",
+          "score": 92
+        },
+        {
+          "keyword": "wurts",
           "score": 91
         }
       ]

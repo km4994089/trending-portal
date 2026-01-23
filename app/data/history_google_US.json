@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T09:25:07.937Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "the walking dead",
-          "score": 100
-        },
-        {
-          "keyword": "trump letter to norway",
-          "score": 99
-        },
-        {
-          "keyword": "iga świątek",
-          "score": 98
-        },
-        {
-          "keyword": "valentin vacherot",
-          "score": 97
-        },
-        {
-          "keyword": "yue yuan",
-          "score": 96
-        },
-        {
-          "keyword": "jiri lehecka",
-          "score": 95
-        },
-        {
-          "keyword": "nfl playoff football",
-          "score": 94
-        },
-        {
-          "keyword": "tom holland",
-          "score": 93
-        },
-        {
-          "keyword": "new show to watch",
-          "score": 92
-        },
-        {
-          "keyword": "botic van de zandschulp",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T09:54:20.818Z",
       "geo": "US",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "price",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T09:49:29.296Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "political",
+          "score": 100
+        },
+        {
+          "keyword": "tennis scores",
+          "score": 99
+        },
+        {
+          "keyword": "kai cenat clothing brand",
+          "score": 98
+        },
+        {
+          "keyword": "now",
+          "score": 97
+        },
+        {
+          "keyword": "cece",
+          "score": 96
+        },
+        {
+          "keyword": "chance",
+          "score": 95
+        },
+        {
+          "keyword": "nothing",
+          "score": 94
+        },
+        {
+          "keyword": "alliant energy",
+          "score": 93
+        },
+        {
+          "keyword": "today",
+          "score": 92
+        },
+        {
+          "keyword": "seat",
           "score": 91
         }
       ]
