@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T05:51:44.942Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "muhammad ali",
-          "score": 100
-        },
-        {
-          "keyword": "jesse eisenberg",
-          "score": 99
-        },
-        {
-          "keyword": "parks tennis",
-          "score": 98
-        },
-        {
-          "keyword": "camila morrone",
-          "score": 97
-        },
-        {
-          "keyword": "ellen degeneres",
-          "score": 96
-        },
-        {
-          "keyword": "dr. martin luther king jr. day",
-          "score": 95
-        },
-        {
-          "keyword": "jameson williams",
-          "score": 94
-        },
-        {
-          "keyword": "karolina muchova",
-          "score": 93
-        },
-        {
-          "keyword": "billings senior high stabbing",
-          "score": 92
-        },
-        {
-          "keyword": "marcos giron",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T06:24:55.600Z",
       "geo": "US",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "lebron",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T06:20:44.473Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sean hayes",
+          "score": 100
+        },
+        {
+          "keyword": "jordan chiles",
+          "score": 99
+        },
+        {
+          "keyword": "karolina muchova",
+          "score": 98
+        },
+        {
+          "keyword": "bruce springsteen",
+          "score": 97
+        },
+        {
+          "keyword": "auto accident lawyer",
+          "score": 96
+        },
+        {
+          "keyword": "wonder man",
+          "score": 95
+        },
+        {
+          "keyword": "hawaii basketball",
+          "score": 94
+        },
+        {
+          "keyword": "el paso weather",
+          "score": 93
+        },
+        {
+          "keyword": "magda linette",
+          "score": 92
+        },
+        {
+          "keyword": "eileen gu",
           "score": 91
         }
       ]
