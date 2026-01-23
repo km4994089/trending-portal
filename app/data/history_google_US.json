@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T04:33:55.846Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "snl cast",
-          "score": 100
-        },
-        {
-          "keyword": "alexandra eala",
-          "score": 99
-        },
-        {
-          "keyword": "mlk",
-          "score": 98
-        },
-        {
-          "keyword": "zakharova tennis",
-          "score": 97
-        },
-        {
-          "keyword": "jessica pegula",
-          "score": 96
-        },
-        {
-          "keyword": "harry potter",
-          "score": 95
-        },
-        {
-          "keyword": "velus jones jr",
-          "score": 94
-        },
-        {
-          "keyword": "chicago tribune",
-          "score": 93
-        },
-        {
-          "keyword": "ja'quan mcmillian",
-          "score": 92
-        },
-        {
-          "keyword": "tcu",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T05:24:16.781Z",
       "geo": "US",
       "source": "google",
@@ -7001,6 +6954,53 @@
         },
         {
           "keyword": "chris cuomo",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T04:58:34.772Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "deni avdija",
+          "score": 100
+        },
+        {
+          "keyword": "sean o'malley",
+          "score": 99
+        },
+        {
+          "keyword": "louis tomlinson",
+          "score": 98
+        },
+        {
+          "keyword": "police",
+          "score": 97
+        },
+        {
+          "keyword": "evidence",
+          "score": 96
+        },
+        {
+          "keyword": "astronauts stuck in space",
+          "score": 95
+        },
+        {
+          "keyword": "ryan garcia",
+          "score": 94
+        },
+        {
+          "keyword": "arnold allen",
+          "score": 93
+        },
+        {
+          "keyword": "keyonte george",
+          "score": 92
+        },
+        {
+          "keyword": "greg laurie",
           "score": 91
         }
       ]
