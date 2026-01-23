@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T16:52:29.463Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jorge mateo",
-          "score": 100
-        },
-        {
-          "keyword": "davis webb",
-          "score": 99
-        },
-        {
-          "keyword": "snow squall",
-          "score": 98
-        },
-        {
-          "keyword": "ana",
-          "score": 97
-        },
-        {
-          "keyword": "northern lights forecast tonight",
-          "score": 96
-        },
-        {
-          "keyword": "jeff ulbrich",
-          "score": 95
-        },
-        {
-          "keyword": "tim tebow",
-          "score": 94
-        },
-        {
-          "keyword": "tessa thompson",
-          "score": 93
-        },
-        {
-          "keyword": "aaron glenn",
-          "score": 92
-        },
-        {
-          "keyword": "bills playoff history",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T17:16:27.958Z",
       "geo": "US",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "amd",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T16:53:46.914Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "phillip rivers",
+          "score": 100
+        },
+        {
+          "keyword": "gregory bovino",
+          "score": 99
+        },
+        {
+          "keyword": "guy fieri",
+          "score": 98
+        },
+        {
+          "keyword": "joy behar",
+          "score": 97
+        },
+        {
+          "keyword": "wrestling wwe",
+          "score": 96
+        },
+        {
+          "keyword": "ishan kishan",
+          "score": 95
+        },
+        {
+          "keyword": "teoscar hernández",
+          "score": 94
+        },
+        {
+          "keyword": "ahsaa",
+          "score": 93
+        },
+        {
+          "keyword": "mike pettine",
+          "score": 92
+        },
+        {
+          "keyword": "derrick rose",
           "score": 91
         }
       ]
