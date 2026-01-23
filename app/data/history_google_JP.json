@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T05:24:19.346Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "笹子トンネル",
-          "score": 100
-        },
-        {
-          "keyword": "七之助",
-          "score": 99
-        },
-        {
-          "keyword": "沖縄 天気",
-          "score": 98
-        },
-        {
-          "keyword": "キングス 対 ブレイザーズ",
-          "score": 97
-        },
-        {
-          "keyword": "フェラーリ",
-          "score": 96
-        },
-        {
-          "keyword": "神田愛花",
-          "score": 95
-        },
-        {
-          "keyword": "住友ファーマ",
-          "score": 94
-        },
-        {
-          "keyword": "山本美憂",
-          "score": 93
-        },
-        {
-          "keyword": "山中市長",
-          "score": 92
-        },
-        {
-          "keyword": "第一稀元素化学工業 株価",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T05:51:47.309Z",
       "geo": "JP",
       "source": "google",
@@ -7001,6 +6954,53 @@
         },
         {
           "keyword": "にじさんじストア",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T05:27:21.007Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "タイマー",
+          "score": 100
+        },
+        {
+          "keyword": "北陸自動車道",
+          "score": 99
+        },
+        {
+          "keyword": "たいまー",
+          "score": 98
+        },
+        {
+          "keyword": "まどマギ",
+          "score": 97
+        },
+        {
+          "keyword": "キムヨナ",
+          "score": 96
+        },
+        {
+          "keyword": "小日向将人",
+          "score": 95
+        },
+        {
+          "keyword": "ジャズ 対 スパーズ",
+          "score": 94
+        },
+        {
+          "keyword": "浅田真央",
+          "score": 93
+        },
+        {
+          "keyword": "増田惠子",
+          "score": 92
+        },
+        {
+          "keyword": "rizin",
           "score": 91
         }
       ]
