@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T12:27:47.853Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "星野リゾート",
-          "score": 100
-        },
-        {
-          "keyword": "任天堂",
-          "score": 99
-        },
-        {
-          "keyword": "吉本興業",
-          "score": 98
-        },
-        {
-          "keyword": "パナソニック",
-          "score": 97
-        },
-        {
-          "keyword": "ミツカン",
-          "score": 96
-        },
-        {
-          "keyword": "トリンドル玲奈",
-          "score": 95
-        },
-        {
-          "keyword": "ストーンズ",
-          "score": 94
-        },
-        {
-          "keyword": "名取裕子",
-          "score": 93
-        },
-        {
-          "keyword": "キッコーマン",
-          "score": 92
-        },
-        {
-          "keyword": "松下幸之助",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T13:25:43.103Z",
       "geo": "JP",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "斎藤恭代",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T13:14:32.866Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "象印",
+          "score": 100
+        },
+        {
+          "keyword": "鈴木 敦",
+          "score": 99
+        },
+        {
+          "keyword": "萩原聖人",
+          "score": 98
+        },
+        {
+          "keyword": "広末涼子",
+          "score": 97
+        },
+        {
+          "keyword": "田中樹",
+          "score": 96
+        },
+        {
+          "keyword": "大阪国際女子マラソン",
+          "score": 95
+        },
+        {
+          "keyword": "akb48",
+          "score": 94
+        },
+        {
+          "keyword": "persija jakarta vs madura united",
+          "score": 93
+        },
+        {
+          "keyword": "ゆうこく連合参加議員",
+          "score": 92
+        },
+        {
+          "keyword": "内藤剛",
           "score": 91
         }
       ]
