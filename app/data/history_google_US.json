@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T18:53:10.245Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "airline",
-          "score": 100
-        },
-        {
-          "keyword": "vermont basketball",
-          "score": 99
-        },
-        {
-          "keyword": "thunder vs cavaliers",
-          "score": 98
-        },
-        {
-          "keyword": "national championship 2025",
-          "score": 97
-        },
-        {
-          "keyword": "miguel andujar",
-          "score": 96
-        },
-        {
-          "keyword": "drexel basketball",
-          "score": 95
-        },
-        {
-          "keyword": "sabres vs hurricanes",
-          "score": 94
-        },
-        {
-          "keyword": "kiefer sherwood",
-          "score": 93
-        },
-        {
-          "keyword": "charbonnet injury",
-          "score": 92
-        },
-        {
-          "keyword": "ap top 25 basketball",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T19:13:13.332Z",
       "geo": "US",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "gregory bovino",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T18:55:45.175Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "polar vortex collapse forecast",
+          "score": 100
+        },
+        {
+          "keyword": "arc raiders roadmap",
+          "score": 99
+        },
+        {
+          "keyword": "north texas basketball",
+          "score": 98
+        },
+        {
+          "keyword": "auxerre vs psg",
+          "score": 97
+        },
+        {
+          "keyword": "hisd",
+          "score": 96
+        },
+        {
+          "keyword": "fbisd",
+          "score": 95
+        },
+        {
+          "keyword": "katy isd",
+          "score": 94
+        },
+        {
+          "keyword": "conroe isd",
+          "score": 93
+        },
+        {
+          "keyword": "lipscomb basketball",
+          "score": 92
+        },
+        {
+          "keyword": "seranthony dominguez",
           "score": 91
         }
       ]
