@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T11:41:18.400Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "福山雅治",
-          "score": 100
-        },
-        {
-          "keyword": "宇多田ヒカル",
-          "score": 99
-        },
-        {
-          "keyword": "yoasobi",
-          "score": 98
-        },
-        {
-          "keyword": "八幡浜",
-          "score": 97
-        },
-        {
-          "keyword": "鶴瓶",
-          "score": 96
-        },
-        {
-          "keyword": "木村多江",
-          "score": 95
-        },
-        {
-          "keyword": "ホテルニューオータニ",
-          "score": 94
-        },
-        {
-          "keyword": "吉川晃司",
-          "score": 93
-        },
-        {
-          "keyword": "板垣李光人",
-          "score": 92
-        },
-        {
-          "keyword": "小沢仁志",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T12:27:47.853Z",
       "geo": "JP",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "フェイラー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T12:26:44.761Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "相武紗季",
+          "score": 100
+        },
+        {
+          "keyword": "元科捜研の主婦",
+          "score": 99
+        },
+        {
+          "keyword": "はんにゃ",
+          "score": 98
+        },
+        {
+          "keyword": "遠藤利明",
+          "score": 97
+        },
+        {
+          "keyword": "vct pacific",
+          "score": 96
+        },
+        {
+          "keyword": "ウィンチケット",
+          "score": 95
+        },
+        {
+          "keyword": "浅野温子",
+          "score": 94
+        },
+        {
+          "keyword": "グリコ",
+          "score": 93
+        },
+        {
+          "keyword": "藤枝myfc",
+          "score": 92
+        },
+        {
+          "keyword": "斎藤恭代",
           "score": 91
         }
       ]

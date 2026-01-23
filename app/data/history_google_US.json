@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-19T11:41:16.067Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "snow totals massachusetts",
-          "score": 100
-        },
-        {
-          "keyword": "adamuz",
-          "score": 99
-        },
-        {
-          "keyword": "latest iphone rumors",
-          "score": 98
-        },
-        {
-          "keyword": "new",
-          "score": 97
-        },
-        {
-          "keyword": "january 19",
-          "score": 96
-        },
-        {
-          "keyword": "people magazine",
-          "score": 95
-        },
-        {
-          "keyword": "board of peace",
-          "score": 94
-        },
-        {
-          "keyword": "nick sortor",
-          "score": 93
-        },
-        {
-          "keyword": "casper ruud",
-          "score": 92
-        },
-        {
-          "keyword": "sinner",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-19T12:27:45.340Z",
       "geo": "US",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "baltimore weather",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-23T12:26:41.959Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "andy robertson",
+          "score": 100
+        },
+        {
+          "keyword": "ruse tennis",
+          "score": 99
+        },
+        {
+          "keyword": "gasparilla 2026",
+          "score": 98
+        },
+        {
+          "keyword": "molly qerim",
+          "score": 97
+        },
+        {
+          "keyword": "columbus weather",
+          "score": 96
+        },
+        {
+          "keyword": "amanda anisimova",
+          "score": 95
+        },
+        {
+          "keyword": "weather denver",
+          "score": 94
+        },
+        {
+          "keyword": "weather philadelphia",
+          "score": 93
+        },
+        {
+          "keyword": "local weather",
+          "score": 92
+        },
+        {
+          "keyword": "omaha weather",
           "score": 91
         }
       ]
