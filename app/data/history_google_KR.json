@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T08:19:27.024Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "알테오젠",
-          "score": 100
-        },
-        {
-          "keyword": "이학재",
-          "score": 99
-        },
-        {
-          "keyword": "인하대",
-          "score": 98
-        },
-        {
-          "keyword": "sk하이닉스",
-          "score": 97
-        },
-        {
-          "keyword": "카카오페이",
-          "score": 96
-        },
-        {
-          "keyword": "한국전력 주가",
-          "score": 95
-        },
-        {
-          "keyword": "국민성장펀드",
-          "score": 94
-        },
-        {
-          "keyword": "한국전력",
-          "score": 93
-        },
-        {
-          "keyword": "솔로지옥5",
-          "score": 92
-        },
-        {
-          "keyword": "캄차카",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T08:54:31.804Z",
       "geo": "KR",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "전종서",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T08:46:20.272Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "张又侠",
+          "score": 100
+        },
+        {
+          "keyword": "테일러 프리츠",
+          "score": 99
+        },
+        {
+          "keyword": "예정화",
+          "score": 98
+        },
+        {
+          "keyword": "울산 현대모비스 대 원주 db",
+          "score": 97
+        },
+        {
+          "keyword": "서울 sk 대 대구 한국가스공사",
+          "score": 96
+        },
+        {
+          "keyword": "박신혜",
+          "score": 95
+        },
+        {
+          "keyword": "남정희",
+          "score": 94
+        },
+        {
+          "keyword": "권순우",
+          "score": 93
+        },
+        {
+          "keyword": "유재석",
+          "score": 92
+        },
+        {
+          "keyword": "이성민",
           "score": 91
         }
       ]

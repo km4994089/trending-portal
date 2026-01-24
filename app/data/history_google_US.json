@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T08:19:25.815Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "chagos islands",
-          "score": 100
-        },
-        {
-          "keyword": "georgia bulldogs football",
-          "score": 99
-        },
-        {
-          "keyword": "zizou bergs",
-          "score": 98
-        },
-        {
-          "keyword": "open ai",
-          "score": 97
-        },
-        {
-          "keyword": "kindergarten",
-          "score": 96
-        },
-        {
-          "keyword": "daycare",
-          "score": 95
-        },
-        {
-          "keyword": "sorana cîrstea",
-          "score": 94
-        },
-        {
-          "keyword": "valentin royer",
-          "score": 93
-        },
-        {
-          "keyword": "el chapo",
-          "score": 92
-        },
-        {
-          "keyword": "board of peace",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T08:54:30.428Z",
       "geo": "US",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "injury lawyer",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T08:46:18.810Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "习近平",
+          "score": 100
+        },
+        {
+          "keyword": "up",
+          "score": 99
+        },
+        {
+          "keyword": "family",
+          "score": 98
+        },
+        {
+          "keyword": "record",
+          "score": 97
+        },
+        {
+          "keyword": "own",
+          "score": 96
+        },
+        {
+          "keyword": "pass",
+          "score": 95
+        },
+        {
+          "keyword": "travel",
+          "score": 94
+        },
+        {
+          "keyword": "show",
+          "score": 93
+        },
+        {
+          "keyword": "sport",
+          "score": 92
+        },
+        {
+          "keyword": "military",
           "score": 91
         }
       ]
