@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T11:42:15.868Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "上沼恵美子",
-          "score": 100
-        },
-        {
-          "keyword": "伊丹空港",
-          "score": 99
-        },
-        {
-          "keyword": "大和田獏",
-          "score": 98
-        },
-        {
-          "keyword": "熊本空港",
-          "score": 97
-        },
-        {
-          "keyword": "高橋愛",
-          "score": 96
-        },
-        {
-          "keyword": "三山ひろし",
-          "score": 95
-        },
-        {
-          "keyword": "藤井隆",
-          "score": 94
-        },
-        {
-          "keyword": "斉藤鉄夫",
-          "score": 93
-        },
-        {
-          "keyword": "fx",
-          "score": 92
-        },
-        {
-          "keyword": "入江聖奈",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T12:28:06.864Z",
       "geo": "JP",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "若槻千夏",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T12:22:00.480Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "春日",
+          "score": 100
+        },
+        {
+          "keyword": "つくばエクスプレス",
+          "score": 99
+        },
+        {
+          "keyword": "沢城みゆき",
+          "score": 98
+        },
+        {
+          "keyword": "関智一",
+          "score": 97
+        },
+        {
+          "keyword": "守谷市",
+          "score": 96
+        },
+        {
+          "keyword": "山寺宏一",
+          "score": 95
+        },
+        {
+          "keyword": "三森すずこ",
+          "score": 94
+        },
+        {
+          "keyword": "ベイカレント",
+          "score": 93
+        },
+        {
+          "keyword": "ダイアン津田",
+          "score": 92
+        },
+        {
+          "keyword": "イコラブ",
           "score": 91
         }
       ]
