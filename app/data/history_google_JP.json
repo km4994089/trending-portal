@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T03:00:39.107Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "三浦大輔",
-          "score": 100
-        },
-        {
-          "keyword": "ntt東日本",
-          "score": 99
-        },
-        {
-          "keyword": "nato",
-          "score": 98
-        },
-        {
-          "keyword": "米倉涼子",
-          "score": 97
-        },
-        {
-          "keyword": "姫路市岩端町",
-          "score": 96
-        },
-        {
-          "keyword": "金子恵美",
-          "score": 95
-        },
-        {
-          "keyword": "サメ",
-          "score": 94
-        },
-        {
-          "keyword": "富永美樹",
-          "score": 93
-        },
-        {
-          "keyword": "jr神戸線",
-          "score": 92
-        },
-        {
-          "keyword": "ダイワメジャー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T04:28:49.937Z",
       "geo": "JP",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "マクドナルド メニュー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T03:55:37.726Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ストレンジャーシングス",
+          "score": 100
+        },
+        {
+          "keyword": "シェイ・ギルジャス=アレクサンダー",
+          "score": 99
+        },
+        {
+          "keyword": "バンテリンドーム",
+          "score": 98
+        },
+        {
+          "keyword": "大迫勇也",
+          "score": 97
+        },
+        {
+          "keyword": "丸亀",
+          "score": 96
+        },
+        {
+          "keyword": "バックス 対 ナゲッツ",
+          "score": 95
+        },
+        {
+          "keyword": "サッカー 日本 代表 u23 アジア カップ",
+          "score": 94
+        },
+        {
+          "keyword": "有明アリーナ",
+          "score": 93
+        },
+        {
+          "keyword": "キャバリアーズ 対 キングス",
+          "score": 92
+        },
+        {
+          "keyword": "ジュビロ磐田",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T03:00:36.432Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "charles barkley",
-          "score": 100
-        },
-        {
-          "keyword": "fifa world cup 2026",
-          "score": 99
-        },
-        {
-          "keyword": "world cup 2026",
-          "score": 98
-        },
-        {
-          "keyword": "rangers vs ducks",
-          "score": 97
-        },
-        {
-          "keyword": "pete crow armstrong",
-          "score": 96
-        },
-        {
-          "keyword": "francois arnaud",
-          "score": 95
-        },
-        {
-          "keyword": "scrubs reboot",
-          "score": 94
-        },
-        {
-          "keyword": "tobias harris",
-          "score": 93
-        },
-        {
-          "keyword": "pascal siakam",
-          "score": 92
-        },
-        {
-          "keyword": "heat vs warriors",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T04:28:47.105Z",
       "geo": "US",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "bella hadid",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T03:55:35.071Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "hunger games",
+          "score": 100
+        },
+        {
+          "keyword": "kiana james",
+          "score": 99
+        },
+        {
+          "keyword": "valentin vacherot",
+          "score": 98
+        },
+        {
+          "keyword": "brandon ingram",
+          "score": 97
+        },
+        {
+          "keyword": "bobby portis",
+          "score": 96
+        },
+        {
+          "keyword": "myles turner",
+          "score": 95
+        },
+        {
+          "keyword": "jalen pickett",
+          "score": 94
+        },
+        {
+          "keyword": "luguentz dort",
+          "score": 93
+        },
+        {
+          "keyword": "aus open",
+          "score": 92
+        },
+        {
+          "keyword": "hunger games movies",
           "score": 91
         }
       ]
