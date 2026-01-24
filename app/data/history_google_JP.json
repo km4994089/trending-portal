@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T21:40:32.766Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "weather",
-          "score": 100
-        },
-        {
-          "keyword": "jr北海道",
-          "score": 99
-        },
-        {
-          "keyword": "ウェザーニュース",
-          "score": 98
-        },
-        {
-          "keyword": "新千歳空港 欠航",
-          "score": 97
-        },
-        {
-          "keyword": "liga champions uefa",
-          "score": 96
-        },
-        {
-          "keyword": "高梨沙羅",
-          "score": 95
-        },
-        {
-          "keyword": "大谷舞風",
-          "score": 94
-        },
-        {
-          "keyword": "東京グランド花月",
-          "score": 93
-        },
-        {
-          "keyword": "山形県",
-          "score": 92
-        },
-        {
-          "keyword": "竹内智香",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T22:13:42.796Z",
       "geo": "JP",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "名阪国道",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T22:11:35.297Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "大森南朋",
+          "score": 100
+        },
+        {
+          "keyword": "villarreal đấu với real madrid",
+          "score": 99
+        },
+        {
+          "keyword": "シエンタ",
+          "score": 98
+        },
+        {
+          "keyword": "ダルビッシュ有",
+          "score": 97
+        },
+        {
+          "keyword": "塚地武雅",
+          "score": 96
+        },
+        {
+          "keyword": "ラ・リーガ",
+          "score": 95
+        },
+        {
+          "keyword": "新千歳空港",
+          "score": 94
+        },
+        {
+          "keyword": "英検",
+          "score": 93
+        },
+        {
+          "keyword": "藤沢市民マラソン",
+          "score": 92
+        },
+        {
+          "keyword": "アメリカ",
           "score": 91
         }
       ]
