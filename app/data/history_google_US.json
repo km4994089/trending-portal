@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T19:38:31.481Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "real madrid - mónaco",
-          "score": 100
-        },
-        {
-          "keyword": "sporting vs psg",
-          "score": 99
-        },
-        {
-          "keyword": "tottenham vs dortmund",
-          "score": 98
-        },
-        {
-          "keyword": "sporting lisboa - psg",
-          "score": 97
-        },
-        {
-          "keyword": "wrexham vs leicester city",
-          "score": 96
-        },
-        {
-          "keyword": "villarreal - ajax",
-          "score": 95
-        },
-        {
-          "keyword": "jimmy garoppolo",
-          "score": 94
-        },
-        {
-          "keyword": "danny smith",
-          "score": 93
-        },
-        {
-          "keyword": "general hospital",
-          "score": 92
-        },
-        {
-          "keyword": "copenhagen vs napoli",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T20:38:06.398Z",
       "geo": "US",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "west virginia vs arizona",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T20:12:40.441Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "warriors vs timberwolves",
+          "score": 100
+        },
+        {
+          "keyword": "illinois vs purdue",
+          "score": 99
+        },
+        {
+          "keyword": "vj edgecombe",
+          "score": 98
+        },
+        {
+          "keyword": "second amendment",
+          "score": 97
+        },
+        {
+          "keyword": "dayton vs saint joseph's",
+          "score": 96
+        },
+        {
+          "keyword": "villanova university",
+          "score": 95
+        },
+        {
+          "keyword": "marseille fc",
+          "score": 94
+        },
+        {
+          "keyword": "pablo escobar",
+          "score": 93
+        },
+        {
+          "keyword": "steal on prime",
+          "score": 92
+        },
+        {
+          "keyword": "lecce - lazio",
           "score": 91
         }
       ]
