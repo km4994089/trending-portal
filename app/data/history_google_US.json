@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T23:12:58.176Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "congress funding bill",
-          "score": 100
-        },
-        {
-          "keyword": "josh giddey",
-          "score": 99
-        },
-        {
-          "keyword": "severe geomagnetic storm alert",
-          "score": 98
-        },
-        {
-          "keyword": "toledo basketball",
-          "score": 97
-        },
-        {
-          "keyword": "kent state basketball",
-          "score": 96
-        },
-        {
-          "keyword": "plane",
-          "score": 95
-        },
-        {
-          "keyword": "vanessa williams",
-          "score": 94
-        },
-        {
-          "keyword": "napoli",
-          "score": 93
-        },
-        {
-          "keyword": "john mara",
-          "score": 92
-        },
-        {
-          "keyword": "steam free games",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T23:41:31.406Z",
       "geo": "US",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "kent state basketball",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T23:37:46.372Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "wind advisory",
+          "score": 100
+        },
+        {
+          "keyword": "cooper flagg stats",
+          "score": 99
+        },
+        {
+          "keyword": "trinity rodman contract",
+          "score": 98
+        },
+        {
+          "keyword": "notre dame basketball",
+          "score": 97
+        },
+        {
+          "keyword": "cavaliers vs magic",
+          "score": 96
+        },
+        {
+          "keyword": "aj dybantsa",
+          "score": 95
+        },
+        {
+          "keyword": "netflix skyscraper live",
+          "score": 94
+        },
+        {
+          "keyword": "natasha lyonne",
+          "score": 93
+        },
+        {
+          "keyword": "sofi stadium",
+          "score": 92
+        },
+        {
+          "keyword": "leonardo dicaprio movies",
           "score": 91
         }
       ]
