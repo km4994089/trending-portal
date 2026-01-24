@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T16:57:29.559Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "federal government shutdown",
-          "score": 100
-        },
-        {
-          "keyword": "high school musical",
-          "score": 99
-        },
-        {
-          "keyword": "vietnam vs china u23",
-          "score": 98
-        },
-        {
-          "keyword": "bill callahan",
-          "score": 97
-        },
-        {
-          "keyword": "bill callahan nfl",
-          "score": 96
-        },
-        {
-          "keyword": "free america walkout",
-          "score": 95
-        },
-        {
-          "keyword": "michael la sasso",
-          "score": 94
-        },
-        {
-          "keyword": "shane gillis",
-          "score": 93
-        },
-        {
-          "keyword": "daily horoscope today",
-          "score": 92
-        },
-        {
-          "keyword": "asap rocky tour",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T17:26:09.661Z",
       "geo": "US",
       "source": "google",
@@ -7236,6 +7189,53 @@
         },
         {
           "keyword": "virginia military institute",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T17:10:19.565Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cnn news",
+          "score": 100
+        },
+        {
+          "keyword": "duke basketball schedule",
+          "score": 99
+        },
+        {
+          "keyword": "ice killed",
+          "score": 98
+        },
+        {
+          "keyword": "marshall university",
+          "score": 97
+        },
+        {
+          "keyword": "bournemouth vs liverpool",
+          "score": 96
+        },
+        {
+          "keyword": "sevilla - athletic",
+          "score": 95
+        },
+        {
+          "keyword": "union berlin vs dortmund",
+          "score": 94
+        },
+        {
+          "keyword": "fc union berlin - dortmund",
+          "score": 93
+        },
+        {
+          "keyword": "cbp",
+          "score": 92
+        },
+        {
+          "keyword": "ms now",
           "score": 91
         }
       ]
