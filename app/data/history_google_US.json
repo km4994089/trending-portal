@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T09:24:45.127Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "liudmila samsonova",
-          "score": 100
-        },
-        {
-          "keyword": "jackie chan",
-          "score": 99
-        },
-        {
-          "keyword": "bank",
-          "score": 98
-        },
-        {
-          "keyword": "belinda bencic",
-          "score": 97
-        },
-        {
-          "keyword": "daria kasatkina",
-          "score": 96
-        },
-        {
-          "keyword": "csun",
-          "score": 95
-        },
-        {
-          "keyword": "hugo gaston",
-          "score": 94
-        },
-        {
-          "keyword": "mark rutte",
-          "score": 93
-        },
-        {
-          "keyword": "macron",
-          "score": 92
-        },
-        {
-          "keyword": "truth social",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T09:52:17.609Z",
       "geo": "US",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "base",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T09:39:27.602Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "common",
+          "score": 100
+        },
+        {
+          "keyword": "stock",
+          "score": 99
+        },
+        {
+          "keyword": "highguard",
+          "score": 98
+        },
+        {
+          "keyword": "crime",
+          "score": 97
+        },
+        {
+          "keyword": "democrat",
+          "score": 96
+        },
+        {
+          "keyword": "its",
+          "score": 95
+        },
+        {
+          "keyword": "citizen",
+          "score": 94
+        },
+        {
+          "keyword": "but",
+          "score": 93
+        },
+        {
+          "keyword": "tax",
+          "score": 92
+        },
+        {
+          "keyword": "local",
           "score": 91
         }
       ]
