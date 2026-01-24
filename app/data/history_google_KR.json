@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T04:28:48.645Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "토익",
-          "score": 100
-        },
-        {
-          "keyword": "김원중",
-          "score": 99
-        },
-        {
-          "keyword": "덕양에너젠",
-          "score": 98
-        },
-        {
-          "keyword": "한덕수",
-          "score": 97
-        },
-        {
-          "keyword": "정부24",
-          "score": 96
-        },
-        {
-          "keyword": "코스피",
-          "score": 95
-        },
-        {
-          "keyword": "국세청",
-          "score": 94
-        },
-        {
-          "keyword": "nh투자증권",
-          "score": 93
-        },
-        {
-          "keyword": "김영희",
-          "score": 92
-        },
-        {
-          "keyword": "브루클린 베컴",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T05:01:58.418Z",
       "geo": "KR",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "u23",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T04:29:09.708Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이성민",
+          "score": 100
+        },
+        {
+          "keyword": "지석진",
+          "score": 99
+        },
+        {
+          "keyword": "프로젝트 y",
+          "score": 98
+        },
+        {
+          "keyword": "왕과 사는 남자",
+          "score": 97
+        },
+        {
+          "keyword": "야닉 시너",
+          "score": 96
+        },
+        {
+          "keyword": "inter vs pisa",
+          "score": 95
+        },
+        {
+          "keyword": "auxerre vs psg",
+          "score": 94
+        },
+        {
+          "keyword": "엔화 환율",
+          "score": 93
+        },
+        {
+          "keyword": "그록",
+          "score": 92
+        },
+        {
+          "keyword": "ufc",
           "score": 91
         }
       ]
