@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T10:17:50.309Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "illinois lottery",
-          "score": 100
-        },
-        {
-          "keyword": "ukraine news",
-          "score": 99
-        },
-        {
-          "keyword": "israel",
-          "score": 98
-        },
-        {
-          "keyword": "spy stock",
-          "score": 97
-        },
-        {
-          "keyword": "beyonce",
-          "score": 96
-        },
-        {
-          "keyword": "school closings near me",
-          "score": 95
-        },
-        {
-          "keyword": "stefanos tsitsipas",
-          "score": 94
-        },
-        {
-          "keyword": "dingo",
-          "score": 93
-        },
-        {
-          "keyword": "joey aguilar",
-          "score": 92
-        },
-        {
-          "keyword": "memphis weather",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T10:51:39.475Z",
       "geo": "US",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "stock",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T10:42:53.128Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "dingoes",
+          "score": 100
+        },
+        {
+          "keyword": "car accident lawyer",
+          "score": 99
+        },
+        {
+          "keyword": "energy rates",
+          "score": 98
+        },
+        {
+          "keyword": "online lottery",
+          "score": 97
+        },
+        {
+          "keyword": "casper ruud",
+          "score": 96
+        },
+        {
+          "keyword": "bronx",
+          "score": 95
+        },
+        {
+          "keyword": "tereza valentova",
+          "score": 94
+        },
+        {
+          "keyword": "power outage near me",
+          "score": 93
+        },
+        {
+          "keyword": "elena rybakina",
+          "score": 92
+        },
+        {
+          "keyword": "osaka tennis",
           "score": 91
         }
       ]
