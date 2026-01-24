@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T20:38:06.398Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "recalled tuna",
-          "score": 100
-        },
-        {
-          "keyword": "dortmund",
-          "score": 99
-        },
-        {
-          "keyword": "game pass games",
-          "score": 98
-        },
-        {
-          "keyword": "paramount",
-          "score": 97
-        },
-        {
-          "keyword": "monaco",
-          "score": 96
-        },
-        {
-          "keyword": "jim cramer",
-          "score": 95
-        },
-        {
-          "keyword": "jalen green",
-          "score": 94
-        },
-        {
-          "keyword": "snowfall",
-          "score": 93
-        },
-        {
-          "keyword": "carson beck sister",
-          "score": 92
-        },
-        {
-          "keyword": "ansu fati",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T21:13:08.341Z",
       "geo": "US",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "lecce - lazio",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T20:40:33.493Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "stephen miller",
+          "score": 100
+        },
+        {
+          "keyword": "juan foyth",
+          "score": 99
+        },
+        {
+          "keyword": "trump approval rating",
+          "score": 98
+        },
+        {
+          "keyword": "braden smith",
+          "score": 97
+        },
+        {
+          "keyword": "kiyan anthony",
+          "score": 96
+        },
+        {
+          "keyword": "nikita krylov",
+          "score": 95
+        },
+        {
+          "keyword": "ty miller",
+          "score": 94
+        },
+        {
+          "keyword": "national guard minnesota",
+          "score": 93
+        },
+        {
+          "keyword": "national guard",
+          "score": 92
+        },
+        {
+          "keyword": "basketball games today",
           "score": 91
         }
       ]

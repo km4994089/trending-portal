@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T20:38:09.086Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "高杉真宙",
-          "score": 100
-        },
-        {
-          "keyword": "inter vs arsenal",
-          "score": 99
-        },
-        {
-          "keyword": "real madrid vs monaco",
-          "score": 98
-        },
-        {
-          "keyword": "ダウ",
-          "score": 97
-        },
-        {
-          "keyword": "ワールドトリガー",
-          "score": 96
-        },
-        {
-          "keyword": "スポーツ",
-          "score": 95
-        },
-        {
-          "keyword": "トッテナム 対 ドルトムント",
-          "score": 94
-        },
-        {
-          "keyword": "インテル 対 アーセナル",
-          "score": 93
-        },
-        {
-          "keyword": "bodø/glimt đấu với man city",
-          "score": 92
-        },
-        {
-          "keyword": "rマドリード 対 モナコ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T21:13:11.478Z",
       "geo": "JP",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "ボーンマス 対 リヴァプール",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T20:40:36.365Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "villarreal vs real madrid",
+          "score": 100
+        },
+        {
+          "keyword": "通行止め情報",
+          "score": 99
+        },
+        {
+          "keyword": "ネクスコ中日本",
+          "score": 98
+        },
+        {
+          "keyword": "名阪国道",
+          "score": 97
+        },
+        {
+          "keyword": "ngoại hạng anh",
+          "score": 96
+        },
+        {
+          "keyword": "line",
+          "score": 95
+        },
+        {
+          "keyword": "天気大雪",
+          "score": 94
+        },
+        {
+          "keyword": "プロゲーマー",
+          "score": 93
+        },
+        {
+          "keyword": "タクシー",
+          "score": 92
+        },
+        {
+          "keyword": "bournemouth vs liverpool",
           "score": 91
         }
       ]
