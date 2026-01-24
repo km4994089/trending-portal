@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T06:58:37.323Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "清野とおる",
-          "score": 100
-        },
-        {
-          "keyword": "ジョージクルーニー",
-          "score": 99
-        },
-        {
-          "keyword": "船橋競馬",
-          "score": 98
-        },
-        {
-          "keyword": "マイクラ",
-          "score": 97
-        },
-        {
-          "keyword": "東京スカイツリー",
-          "score": 96
-        },
-        {
-          "keyword": "タイマー",
-          "score": 95
-        },
-        {
-          "keyword": "原爆",
-          "score": 94
-        },
-        {
-          "keyword": "ステフィン・カリー",
-          "score": 93
-        },
-        {
-          "keyword": "イルカ",
-          "score": 92
-        },
-        {
-          "keyword": "犬",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T07:27:17.717Z",
       "geo": "JP",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "阪神 佐藤輝明",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T07:13:16.659Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "青錦",
+          "score": 100
+        },
+        {
+          "keyword": "レイベリング",
+          "score": 99
+        },
+        {
+          "keyword": "プロキオンステークス",
+          "score": 98
+        },
+        {
+          "keyword": "ガシャポン",
+          "score": 97
+        },
+        {
+          "keyword": "笑福亭",
+          "score": 96
+        },
+        {
+          "keyword": "初富士ステークス",
+          "score": 95
+        },
+        {
+          "keyword": "レバンガ北海道",
+          "score": 94
+        },
+        {
+          "keyword": "いわき平競輪",
+          "score": 93
+        },
+        {
+          "keyword": "スコットランド",
+          "score": 92
+        },
+        {
+          "keyword": "阪神タイガース",
           "score": 91
         }
       ]

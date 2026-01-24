@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T06:58:34.937Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "martin scorsese",
-          "score": 100
-        },
-        {
-          "keyword": "jeffrey epstein",
-          "score": 99
-        },
-        {
-          "keyword": "auto accident attorneys",
-          "score": 98
-        },
-        {
-          "keyword": "taylor fritz",
-          "score": 97
-        },
-        {
-          "keyword": "arman tsarukyan",
-          "score": 96
-        },
-        {
-          "keyword": "tomas machac",
-          "score": 95
-        },
-        {
-          "keyword": "naomi osaka",
-          "score": 94
-        },
-        {
-          "keyword": "jakub mensik",
-          "score": 93
-        },
-        {
-          "keyword": "james duckworth",
-          "score": 92
-        },
-        {
-          "keyword": "hubert hurkacz",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T07:27:15.509Z",
       "geo": "US",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "emilia clarke",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T07:13:14.171Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "oliver glasner man utd manager",
+          "score": 100
+        },
+        {
+          "keyword": "张又侠",
+          "score": 99
+        },
+        {
+          "keyword": "joint chiefs chairman",
+          "score": 98
+        },
+        {
+          "keyword": "jesse plemons",
+          "score": 97
+        },
+        {
+          "keyword": "riot",
+          "score": 96
+        },
+        {
+          "keyword": "adria arjona",
+          "score": 95
+        },
+        {
+          "keyword": "toyota recalls",
+          "score": 94
+        },
+        {
+          "keyword": "ethan quinn",
+          "score": 93
+        },
+        {
+          "keyword": "weather nashville",
+          "score": 92
+        },
+        {
+          "keyword": "nba trade deadline",
           "score": 91
         }
       ]
