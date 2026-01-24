@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T09:52:17.609Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "grigor dimitrov",
-          "score": 100
-        },
-        {
-          "keyword": "jackie chan",
-          "score": 99
-        },
-        {
-          "keyword": "liudmila samsonova",
-          "score": 98
-        },
-        {
-          "keyword": "bank",
-          "score": 97
-        },
-        {
-          "keyword": "belinda bencic",
-          "score": 96
-        },
-        {
-          "keyword": "daria kasatkina",
-          "score": 95
-        },
-        {
-          "keyword": "csun",
-          "score": 94
-        },
-        {
-          "keyword": "hugo gaston",
-          "score": 93
-        },
-        {
-          "keyword": "mark rutte",
-          "score": 92
-        },
-        {
-          "keyword": "chagos islands",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T10:17:50.309Z",
       "geo": "US",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "local",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T10:12:25.189Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "casper ruud",
+          "score": 100
+        },
+        {
+          "keyword": "bronx",
+          "score": 99
+        },
+        {
+          "keyword": "power outage near me",
+          "score": 98
+        },
+        {
+          "keyword": "tereza valentova",
+          "score": 97
+        },
+        {
+          "keyword": "car accident attorney",
+          "score": 96
+        },
+        {
+          "keyword": "elena rybakina",
+          "score": 95
+        },
+        {
+          "keyword": "osaka tennis",
+          "score": 94
+        },
+        {
+          "keyword": "common",
+          "score": 93
+        },
+        {
+          "keyword": "highguard",
+          "score": 92
+        },
+        {
+          "keyword": "stock",
           "score": 91
         }
       ]
