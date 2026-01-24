@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T05:01:56.938Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "miami heat",
-          "score": 100
-        },
-        {
-          "keyword": "anna kalinskaya",
-          "score": 99
-        },
-        {
-          "keyword": "jimmy butler",
-          "score": 98
-        },
-        {
-          "keyword": "iup",
-          "score": 97
-        },
-        {
-          "keyword": "josh hoover",
-          "score": 96
-        },
-        {
-          "keyword": "alvin kamara",
-          "score": 95
-        },
-        {
-          "keyword": "kamara indiana football",
-          "score": 94
-        },
-        {
-          "keyword": "u miami quarterback",
-          "score": 93
-        },
-        {
-          "keyword": "curt cignetti wife",
-          "score": 92
-        },
-        {
-          "keyword": "2019 lsu",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T05:50:10.323Z",
       "geo": "US",
       "source": "google",
@@ -7142,6 +7095,53 @@
         },
         {
           "keyword": "julian strawther",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T05:14:31.956Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "chris pratt",
+          "score": 100
+        },
+        {
+          "keyword": "milwaukee",
+          "score": 99
+        },
+        {
+          "keyword": "tennis",
+          "score": 98
+        },
+        {
+          "keyword": "elise mertens",
+          "score": 97
+        },
+        {
+          "keyword": "jerami grant",
+          "score": 96
+        },
+        {
+          "keyword": "jason momoa",
+          "score": 95
+        },
+        {
+          "keyword": "umar nurmagomedov",
+          "score": 94
+        },
+        {
+          "keyword": "john williams",
+          "score": 93
+        },
+        {
+          "keyword": "flyers",
+          "score": 92
+        },
+        {
+          "keyword": "arc raiders down",
           "score": 91
         }
       ]

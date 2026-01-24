@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T05:01:59.801Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tips",
-          "score": 100
-        },
-        {
-          "keyword": "リリコ ランドセル",
-          "score": 99
-        },
-        {
-          "keyword": "ヒルナンデス",
-          "score": 98
-        },
-        {
-          "keyword": "俵万智",
-          "score": 97
-        },
-        {
-          "keyword": "ラブサイケデリコ",
-          "score": 96
-        },
-        {
-          "keyword": "藤あや子",
-          "score": 95
-        },
-        {
-          "keyword": "m3",
-          "score": 94
-        },
-        {
-          "keyword": "麻生 太郎",
-          "score": 93
-        },
-        {
-          "keyword": "パトレイバー",
-          "score": 92
-        },
-        {
-          "keyword": "exile",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T05:50:13.162Z",
       "geo": "JP",
       "source": "google",
@@ -7142,6 +7095,53 @@
         },
         {
           "keyword": "香川県",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T05:14:34.478Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "深谷市",
+          "score": 100
+        },
+        {
+          "keyword": "佐々木蔵之介",
+          "score": 99
+        },
+        {
+          "keyword": "赤城乳業",
+          "score": 98
+        },
+        {
+          "keyword": "井上鍋",
+          "score": 97
+        },
+        {
+          "keyword": "若村麻由美",
+          "score": 96
+        },
+        {
+          "keyword": "ブレイキングダウン18.5",
+          "score": 95
+        },
+        {
+          "keyword": "ロッテリア メニュー",
+          "score": 94
+        },
+        {
+          "keyword": "安藤サクラ",
+          "score": 93
+        },
+        {
+          "keyword": "大野愛実",
+          "score": 92
+        },
+        {
+          "keyword": "藤あや子",
           "score": 91
         }
       ]
