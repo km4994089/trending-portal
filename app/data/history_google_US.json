@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T22:13:39.973Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "john mara",
-          "score": 100
-        },
-        {
-          "keyword": "steam free games",
-          "score": 99
-        },
-        {
-          "keyword": "lindsey halligan",
-          "score": 98
-        },
-        {
-          "keyword": "ajax",
-          "score": 97
-        },
-        {
-          "keyword": "luis suárez",
-          "score": 96
-        },
-        {
-          "keyword": "rachel mcadams",
-          "score": 95
-        },
-        {
-          "keyword": "jude bellingham",
-          "score": 94
-        },
-        {
-          "keyword": "trevon diggs",
-          "score": 93
-        },
-        {
-          "keyword": "ual stock",
-          "score": 92
-        },
-        {
-          "keyword": "canned tuna recall",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T22:41:36.904Z",
       "geo": "US",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "grant mccasland",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T22:41:06.136Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kristi noem",
+          "score": 100
+        },
+        {
+          "keyword": "amy klobuchar",
+          "score": 99
+        },
+        {
+          "keyword": "landry shamet",
+          "score": 98
+        },
+        {
+          "keyword": "paramount",
+          "score": 97
+        },
+        {
+          "keyword": "ace bailey",
+          "score": 96
+        },
+        {
+          "keyword": "neisd",
+          "score": 95
+        },
+        {
+          "keyword": "hunger games",
+          "score": 94
+        },
+        {
+          "keyword": "aoc",
+          "score": 93
+        },
+        {
+          "keyword": "mikal bridges",
+          "score": 92
+        },
+        {
+          "keyword": "onefootball",
           "score": 91
         }
       ]
