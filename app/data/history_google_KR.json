@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T21:13:09.874Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "스포티비",
-          "score": 100
-        },
-        {
-          "keyword": "โบโด กลิมท์ พบ แมนซิตี",
-          "score": 99
-        },
-        {
-          "keyword": "토트넘 대 도르트문트",
-          "score": 98
-        },
-        {
-          "keyword": "인테르 대 아스널",
-          "score": 97
-        },
-        {
-          "keyword": "스포르팅 대 psg",
-          "score": 96
-        },
-        {
-          "keyword": "bodø/glimt đấu với man city",
-          "score": 95
-        },
-        {
-          "keyword": "bodø/glimt vs man city",
-          "score": 94
-        },
-        {
-          "keyword": "champions league",
-          "score": 93
-        },
-        {
-          "keyword": "보되/글림트 대 맨 시티",
-          "score": 92
-        },
-        {
-          "keyword": "베트남 중국",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T21:40:31.563Z",
       "geo": "KR",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "u23",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T21:36:43.269Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "bournemouth đấu với liverpool",
+          "score": 100
+        },
+        {
+          "keyword": "비야레알 대 레알 마드리드",
+          "score": 99
+        },
+        {
+          "keyword": "정철원",
+          "score": 98
+        },
+        {
+          "keyword": "bournemouth vs liverpool",
+          "score": 97
+        },
+        {
+          "keyword": "리버풀",
+          "score": 96
+        },
+        {
+          "keyword": "ice",
+          "score": 95
+        },
+        {
+          "keyword": "본머스 대 리버풀",
+          "score": 94
+        },
+        {
+          "keyword": "토트넘",
+          "score": 93
+        },
+        {
+          "keyword": "манчестер сити – вулверхэмптон",
+          "score": 92
+        },
+        {
+          "keyword": "박소영",
           "score": 91
         }
       ]
