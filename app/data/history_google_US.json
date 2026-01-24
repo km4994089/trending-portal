@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T06:22:18.951Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "gold",
-          "score": 100
-        },
-        {
-          "keyword": "hubert hurkacz",
-          "score": 99
-        },
-        {
-          "keyword": "james duckworth",
-          "score": 98
-        },
-        {
-          "keyword": "mensik",
-          "score": 97
-        },
-        {
-          "keyword": "rafael jodar",
-          "score": 96
-        },
-        {
-          "keyword": "paddy vs gaethje",
-          "score": 95
-        },
-        {
-          "keyword": "stephen curry",
-          "score": 94
-        },
-        {
-          "keyword": "eva lys",
-          "score": 93
-        },
-        {
-          "keyword": "trayce jackson-davis",
-          "score": 92
-        },
-        {
-          "keyword": "moses moody",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T06:58:34.937Z",
       "geo": "US",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "olivia wilde",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T06:51:46.963Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ethan quinn",
+          "score": 100
+        },
+        {
+          "keyword": "toyota recalls",
+          "score": 99
+        },
+        {
+          "keyword": "stan wawrinka",
+          "score": 98
+        },
+        {
+          "keyword": "nba trade deadline",
+          "score": 97
+        },
+        {
+          "keyword": "weather nashville",
+          "score": 96
+        },
+        {
+          "keyword": "auto accident lawyer",
+          "score": 95
+        },
+        {
+          "keyword": "prince",
+          "score": 94
+        },
+        {
+          "keyword": "ardot",
+          "score": 93
+        },
+        {
+          "keyword": "jackee harry",
+          "score": 92
+        },
+        {
+          "keyword": "emilia clarke",
           "score": 91
         }
       ]
