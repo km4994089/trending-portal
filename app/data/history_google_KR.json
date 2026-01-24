@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T00:58:51.557Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김영희",
-          "score": 100
-        },
-        {
-          "keyword": "브루클린 베컴",
-          "score": 99
-        },
-        {
-          "keyword": "휴림로봇 거래정지",
-          "score": 98
-        },
-        {
-          "keyword": "연말정산 간소화",
-          "score": 97
-        },
-        {
-          "keyword": "우리기술",
-          "score": 96
-        },
-        {
-          "keyword": "이번주 날씨",
-          "score": 95
-        },
-        {
-          "keyword": "강선우",
-          "score": 94
-        },
-        {
-          "keyword": "코레일 예매",
-          "score": 93
-        },
-        {
-          "keyword": "brighton vs bournemouth",
-          "score": 92
-        },
-        {
-          "keyword": "고승범",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T03:00:37.669Z",
       "geo": "KR",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "최백호",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T02:53:18.679Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "프로젝트 y",
+          "score": 100
+        },
+        {
+          "keyword": "왕과 사는 남자",
+          "score": 99
+        },
+        {
+          "keyword": "야닉 시너",
+          "score": 98
+        },
+        {
+          "keyword": "inter vs pisa",
+          "score": 97
+        },
+        {
+          "keyword": "auxerre vs psg",
+          "score": 96
+        },
+        {
+          "keyword": "엔화 환율",
+          "score": 95
+        },
+        {
+          "keyword": "그록",
+          "score": 94
+        },
+        {
+          "keyword": "ufc 324",
+          "score": 93
+        },
+        {
+          "keyword": "ufc",
+          "score": 92
+        },
+        {
+          "keyword": "u23",
           "score": 91
         }
       ]
