@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-20T22:41:38.011Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tottenham vs dortmund",
-          "score": 100
-        },
-        {
-          "keyword": "реал мадрид – монако",
-          "score": 99
-        },
-        {
-          "keyword": "코레일 설 예매",
-          "score": 98
-        },
-        {
-          "keyword": "อินเตอร์ พบ อาร์เซนอล",
-          "score": 97
-        },
-        {
-          "keyword": "real madrid đấu với monaco",
-          "score": 96
-        },
-        {
-          "keyword": "inter đấu với arsenal",
-          "score": 95
-        },
-        {
-          "keyword": "psg",
-          "score": 94
-        },
-        {
-          "keyword": "будё-глимт – манчестер сити",
-          "score": 93
-        },
-        {
-          "keyword": "real madrid vs monaco",
-          "score": 92
-        },
-        {
-          "keyword": "inter vs arsenal",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-20T23:12:59.660Z",
       "geo": "KR",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "토트넘",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-24T23:11:57.125Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "villarreal đấu với real madrid",
+          "score": 100
+        },
+        {
+          "keyword": "villarreal vs madrid",
+          "score": 99
+        },
+        {
+          "keyword": "villarreal vs real madrid",
+          "score": 98
+        },
+        {
+          "keyword": "bournemouth đấu với liverpool",
+          "score": 97
+        },
+        {
+          "keyword": "비야레알 대 레알 마드리드",
+          "score": 96
+        },
+        {
+          "keyword": "정철원",
+          "score": 95
+        },
+        {
+          "keyword": "bournemouth vs liverpool",
+          "score": 94
+        },
+        {
+          "keyword": "리버풀",
+          "score": 93
+        },
+        {
+          "keyword": "ice",
+          "score": 92
+        },
+        {
+          "keyword": "bundesliga",
           "score": 91
         }
       ]
