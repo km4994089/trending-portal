@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T11:43:08.321Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nj weather",
-          "score": 100
-        },
-        {
-          "keyword": "anthropic",
-          "score": 99
-        },
-        {
-          "keyword": "buffalo weather",
-          "score": 98
-        },
-        {
-          "keyword": "ann arbor public schools",
-          "score": 97
-        },
-        {
-          "keyword": "how to prepare for winter storm",
-          "score": 96
-        },
-        {
-          "keyword": "wtol",
-          "score": 95
-        },
-        {
-          "keyword": "wkyt",
-          "score": 94
-        },
-        {
-          "keyword": "san antonio weather",
-          "score": 93
-        },
-        {
-          "keyword": "board of peace",
-          "score": 92
-        },
-        {
-          "keyword": "knoxville weather",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T12:27:54.586Z",
       "geo": "US",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "baltimore weather",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T12:23:24.307Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "atlético madrid - r.c.d. mallorca",
+          "score": 100
+        },
+        {
+          "keyword": "boston weather",
+          "score": 99
+        },
+        {
+          "keyword": "opm status",
+          "score": 98
+        },
+        {
+          "keyword": "detroit weather",
+          "score": 97
+        },
+        {
+          "keyword": "shell",
+          "score": 96
+        },
+        {
+          "keyword": "australian open results",
+          "score": 95
+        },
+        {
+          "keyword": "syracuse weather",
+          "score": 94
+        },
+        {
+          "keyword": "weather",
+          "score": 93
+        },
+        {
+          "keyword": "winter storm warning",
+          "score": 92
+        },
+        {
+          "keyword": "how much snow did we get",
           "score": 91
         }
       ]
