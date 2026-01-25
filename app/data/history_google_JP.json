@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T06:58:57.246Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "目黒蓮 カナダ",
-          "score": 100
-        },
-        {
-          "keyword": "灘中学校",
-          "score": 99
-        },
-        {
-          "keyword": "イイじゃん",
-          "score": 98
-        },
-        {
-          "keyword": "高校",
-          "score": 97
-        },
-        {
-          "keyword": "田口真彩",
-          "score": 96
-        },
-        {
-          "keyword": "谷まりあ",
-          "score": 95
-        },
-        {
-          "keyword": "田久保眞紀",
-          "score": 94
-        },
-        {
-          "keyword": "二条城",
-          "score": 93
-        },
-        {
-          "keyword": "炎鵬",
-          "score": 92
-        },
-        {
-          "keyword": "新潟大学",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T07:29:06.537Z",
       "geo": "JP",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "冬季オリンピック",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T07:14:47.160Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "炎鵬",
+          "score": 100
+        },
+        {
+          "keyword": "シルクロードステークス",
+          "score": 99
+        },
+        {
+          "keyword": "こうせいりゅう 相撲",
+          "score": 98
+        },
+        {
+          "keyword": "藤川球児",
+          "score": 97
+        },
+        {
+          "keyword": "いわき平競輪",
+          "score": 96
+        },
+        {
+          "keyword": "エヒト",
+          "score": 95
+        },
+        {
+          "keyword": "常盤山親方",
+          "score": 94
+        },
+        {
+          "keyword": "根岸ステークス",
+          "score": 93
+        },
+        {
+          "keyword": "有働由美子",
+          "score": 92
+        },
+        {
+          "keyword": "qwen3-tts",
           "score": 91
         }
       ]
