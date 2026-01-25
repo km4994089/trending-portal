@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T12:27:54.586Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sarah friar",
-          "score": 100
-        },
-        {
-          "keyword": "nyt connections hints",
-          "score": 99
-        },
-        {
-          "keyword": "timothy busfield movies and tv shows",
-          "score": 98
-        },
-        {
-          "keyword": "tulsa weather",
-          "score": 97
-        },
-        {
-          "keyword": "priscilla hon",
-          "score": 96
-        },
-        {
-          "keyword": "dylan o'brien",
-          "score": 95
-        },
-        {
-          "keyword": "christina haack",
-          "score": 94
-        },
-        {
-          "keyword": "hobart hurricanes vs melbourne stars",
-          "score": 93
-        },
-        {
-          "keyword": "irs refund",
-          "score": 92
-        },
-        {
-          "keyword": "bato anime",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T13:25:44.449Z",
       "geo": "US",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "how much snow did we get",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T13:07:37.500Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "snow totals map",
+          "score": 100
+        },
+        {
+          "keyword": "chattanooga weather",
+          "score": 99
+        },
+        {
+          "keyword": "jfk airport",
+          "score": 98
+        },
+        {
+          "keyword": "wboc weather",
+          "score": 97
+        },
+        {
+          "keyword": "dfw flight cancellations",
+          "score": 96
+        },
+        {
+          "keyword": "australian open 2026",
+          "score": 95
+        },
+        {
+          "keyword": "school closings for monday",
+          "score": 94
+        },
+        {
+          "keyword": "wbz weather",
+          "score": 93
+        },
+        {
+          "keyword": "flight status",
+          "score": 92
+        },
+        {
+          "keyword": "nbc4",
           "score": 91
         }
       ]
