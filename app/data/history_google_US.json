@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T14:00:10.426Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lou anarumo",
-          "score": 100
-        },
-        {
-          "keyword": "larry fink",
-          "score": 99
-        },
-        {
-          "keyword": "mel kiper mock draft",
-          "score": 98
-        },
-        {
-          "keyword": "scott foley",
-          "score": 97
-        },
-        {
-          "keyword": "natalie portman",
-          "score": 96
-        },
-        {
-          "keyword": "bill gates",
-          "score": 95
-        },
-        {
-          "keyword": "lisa cook",
-          "score": 94
-        },
-        {
-          "keyword": "ind vs nz",
-          "score": 93
-        },
-        {
-          "keyword": "india national cricket team vs new zealand national cricket team match scorecard",
-          "score": 92
-        },
-        {
-          "keyword": "rooney rule",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T14:35:42.333Z",
       "geo": "US",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "newark airport",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T14:11:27.400Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ind vs nz",
+          "score": 100
+        },
+        {
+          "keyword": "atalanta - parma",
+          "score": 99
+        },
+        {
+          "keyword": "mcps",
+          "score": 98
+        },
+        {
+          "keyword": "a qué hora juega el barcelona",
+          "score": 97
+        },
+        {
+          "keyword": "rams vs seahawks prediction",
+          "score": 96
+        },
+        {
+          "keyword": "is walmart open",
+          "score": 95
+        },
+        {
+          "keyword": "snow totals so far",
+          "score": 94
+        },
+        {
+          "keyword": "government shutdown 2026",
+          "score": 93
+        },
+        {
+          "keyword": "power outage houston",
+          "score": 92
+        },
+        {
+          "keyword": "jason momoa",
           "score": 91
         }
       ]
