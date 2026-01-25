@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T07:29:06.537Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大谷翔平",
-          "score": 100
-        },
-        {
-          "keyword": "船橋競馬",
-          "score": 99
-        },
-        {
-          "keyword": "ディスコ 決算",
-          "score": 98
-        },
-        {
-          "keyword": "ディスコ",
-          "score": 97
-        },
-        {
-          "keyword": "琵琶湖競艇",
-          "score": 96
-        },
-        {
-          "keyword": "宮城5区",
-          "score": 95
-        },
-        {
-          "keyword": "giá vàng hôm nay",
-          "score": 94
-        },
-        {
-          "keyword": "目黒蓮 カナダ",
-          "score": 93
-        },
-        {
-          "keyword": "灘中学校",
-          "score": 92
-        },
-        {
-          "keyword": "イイじゃん",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T07:49:47.108Z",
       "geo": "JP",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "qwen3-tts",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T07:39:08.048Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "カーインライジング",
+          "score": 100
+        },
+        {
+          "keyword": "b.league",
+          "score": 99
+        },
+        {
+          "keyword": "藤ノ川",
+          "score": 98
+        },
+        {
+          "keyword": "琴風浩一",
+          "score": 97
+        },
+        {
+          "keyword": "せいや 子供",
+          "score": 96
+        },
+        {
+          "keyword": "徳光和夫",
+          "score": 95
+        },
+        {
+          "keyword": "舞の海",
+          "score": 94
+        },
+        {
+          "keyword": "相撲協会",
+          "score": 93
+        },
+        {
+          "keyword": "シルクロードステークス",
+          "score": 92
+        },
+        {
+          "keyword": "炎鵬",
           "score": 91
         }
       ]
