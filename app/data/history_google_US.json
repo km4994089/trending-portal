@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T17:35:43.663Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jackson lacombe",
-          "score": 100
-        },
-        {
-          "keyword": "quad cortex mini",
-          "score": 99
-        },
-        {
-          "keyword": "microsoft outage",
-          "score": 98
-        },
-        {
-          "keyword": "qarabağ - frankfurt",
-          "score": 97
-        },
-        {
-          "keyword": "msft",
-          "score": 96
-        },
-        {
-          "keyword": "galatasaray - atlético madrid",
-          "score": 95
-        },
-        {
-          "keyword": "galatasaray vs atlético madrid",
-          "score": 94
-        },
-        {
-          "keyword": "shrinking",
-          "score": 93
-        },
-        {
-          "keyword": "valerie bertinelli",
-          "score": 92
-        },
-        {
-          "keyword": "damac vs al-nassr",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T18:30:43.010Z",
       "geo": "US",
       "source": "google",
@@ -7471,6 +7424,53 @@
         },
         {
           "keyword": "barca",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T17:39:57.731Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "senne lammens",
+          "score": 100
+        },
+        {
+          "keyword": "barcelona",
+          "score": 99
+        },
+        {
+          "keyword": "benfica vs estrela amadora",
+          "score": 98
+        },
+        {
+          "keyword": "aisd",
+          "score": 97
+        },
+        {
+          "keyword": "south florida basketball",
+          "score": 96
+        },
+        {
+          "keyword": "piero hincapié",
+          "score": 95
+        },
+        {
+          "keyword": "farmers insurance",
+          "score": 94
+        },
+        {
+          "keyword": "shreveport",
+          "score": 93
+        },
+        {
+          "keyword": "mbeumo",
+          "score": 92
+        },
+        {
+          "keyword": "al-riyadh vs al-hilal",
           "score": 91
         }
       ]

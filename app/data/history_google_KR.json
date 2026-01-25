@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T17:35:44.596Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "붉은사막",
-          "score": 100
-        },
-        {
-          "keyword": "대리모",
-          "score": 99
-        },
-        {
-          "keyword": "전민기",
-          "score": 98
-        },
-        {
-          "keyword": "yahoo finance",
-          "score": 97
-        },
-        {
-          "keyword": "다보스 포럼",
-          "score": 96
-        },
-        {
-          "keyword": "구혜선",
-          "score": 95
-        },
-        {
-          "keyword": "임형주",
-          "score": 94
-        },
-        {
-          "keyword": "나는 솔로",
-          "score": 93
-        },
-        {
-          "keyword": "목나경",
-          "score": 92
-        },
-        {
-          "keyword": "소유미",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T18:30:44.302Z",
       "geo": "KR",
       "source": "google",
@@ -7471,6 +7424,53 @@
         },
         {
           "keyword": "newcastle vs aston villa",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T17:39:58.901Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "해외축구",
+          "score": 100
+        },
+        {
+          "keyword": "유벤투스 대 나폴리",
+          "score": 99
+        },
+        {
+          "keyword": "อาร์เซนอล พบ แมนยู",
+          "score": 98
+        },
+        {
+          "keyword": "arsenal đấu với man utd",
+          "score": 97
+        },
+        {
+          "keyword": "barcelona đấu với real oviedo",
+          "score": 96
+        },
+        {
+          "keyword": "arsenal vs man united",
+          "score": 95
+        },
+        {
+          "keyword": "барселона – реал овьедо",
+          "score": 94
+        },
+        {
+          "keyword": "아스널 대 맨유",
+          "score": 93
+        },
+        {
+          "keyword": "barcelona vs oviedo",
+          "score": 92
+        },
+        {
+          "keyword": "คริสตัลพาเลซ พบ เชลซี",
           "score": 91
         }
       ]
