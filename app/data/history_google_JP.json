@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T05:49:33.150Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "田口真彩",
-          "score": 100
-        },
-        {
-          "keyword": "京都",
-          "score": 99
-        },
-        {
-          "keyword": "谷まりあ",
-          "score": 98
-        },
-        {
-          "keyword": "二条城",
-          "score": 97
-        },
-        {
-          "keyword": "田久保眞紀",
-          "score": 96
-        },
-        {
-          "keyword": "炎鵬",
-          "score": 95
-        },
-        {
-          "keyword": "ジャズ 対 ウルブズ",
-          "score": 94
-        },
-        {
-          "keyword": "磁気嵐",
-          "score": 93
-        },
-        {
-          "keyword": "丸川珠代",
-          "score": 92
-        },
-        {
-          "keyword": "無期懲役",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T06:22:34.878Z",
       "geo": "JP",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "ダイハツ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T06:18:50.686Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ミサイル",
+          "score": 100
+        },
+        {
+          "keyword": "やまと尼寺 精進日記",
+          "score": 99
+        },
+        {
+          "keyword": "篠塚大輝",
+          "score": 98
+        },
+        {
+          "keyword": "坂上忍",
+          "score": 97
+        },
+        {
+          "keyword": "オートレース",
+          "score": 96
+        },
+        {
+          "keyword": "若ノ勝",
+          "score": 95
+        },
+        {
+          "keyword": "ハンセン病",
+          "score": 94
+        },
+        {
+          "keyword": "千葉ジェッツ",
+          "score": 93
+        },
+        {
+          "keyword": "チベット",
+          "score": 92
+        },
+        {
+          "keyword": "mgcとは",
           "score": 91
         }
       ]
