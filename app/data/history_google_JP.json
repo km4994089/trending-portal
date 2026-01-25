@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T21:49:27.569Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "リバプール",
-          "score": 100
-        },
-        {
-          "keyword": "松村北斗",
-          "score": 99
-        },
-        {
-          "keyword": "uefaチャンピオンズリーグ 試合",
-          "score": 98
-        },
-        {
-          "keyword": "パンダ返還",
-          "score": 97
-        },
-        {
-          "keyword": "ロッテリア 閉店",
-          "score": 96
-        },
-        {
-          "keyword": "chelsea vs pafos",
-          "score": 95
-        },
-        {
-          "keyword": "富山地方鉄道",
-          "score": 94
-        },
-        {
-          "keyword": "青い森鉄道",
-          "score": 93
-        },
-        {
-          "keyword": "姫路市",
-          "score": 92
-        },
-        {
-          "keyword": "nato",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T22:15:29.268Z",
       "geo": "JP",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "ミネアポリス",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T22:11:49.303Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "円高",
+          "score": 100
+        },
+        {
+          "keyword": "bảng xếp hạng ngoại hạng anh",
+          "score": 99
+        },
+        {
+          "keyword": "京阪電車",
+          "score": 98
+        },
+        {
+          "keyword": "あいの風とやま鉄道",
+          "score": 97
+        },
+        {
+          "keyword": "札幌 地下鉄",
+          "score": 96
+        },
+        {
+          "keyword": "スカイマーク",
+          "score": 95
+        },
+        {
+          "keyword": "インフルエンザ",
+          "score": 94
+        },
+        {
+          "keyword": "君と花火と約束と",
+          "score": 93
+        },
+        {
+          "keyword": "serie a",
+          "score": 92
+        },
+        {
+          "keyword": "今田美桜",
           "score": 91
         }
       ]
