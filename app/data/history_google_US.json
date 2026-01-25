@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T18:30:43.010Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cody bellinger",
-          "score": 100
-        },
-        {
-          "keyword": "volvo ex60",
-          "score": 99
-        },
-        {
-          "keyword": "quad cortex mini",
-          "score": 98
-        },
-        {
-          "keyword": "jackson lacombe",
-          "score": 97
-        },
-        {
-          "keyword": "microsoft outage",
-          "score": 96
-        },
-        {
-          "keyword": "qarabağ - frankfurt",
-          "score": 95
-        },
-        {
-          "keyword": "msft",
-          "score": 94
-        },
-        {
-          "keyword": "galatasaray - atlético madrid",
-          "score": 93
-        },
-        {
-          "keyword": "galatasaray vs atlético madrid",
-          "score": 92
-        },
-        {
-          "keyword": "shrinking",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T19:19:29.898Z",
       "geo": "US",
       "source": "google",
@@ -7518,6 +7471,53 @@
         },
         {
           "keyword": "lcps",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T18:49:59.696Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mexico soccer",
+          "score": 100
+        },
+        {
+          "keyword": "harry maguire",
+          "score": 99
+        },
+        {
+          "keyword": "nuggets vs grizzlies",
+          "score": 98
+        },
+        {
+          "keyword": "steve martin",
+          "score": 97
+        },
+        {
+          "keyword": "felipe nasr",
+          "score": 96
+        },
+        {
+          "keyword": "santos - bragantino",
+          "score": 95
+        },
+        {
+          "keyword": "alex singleton",
+          "score": 94
+        },
+        {
+          "keyword": "epl table",
+          "score": 93
+        },
+        {
+          "keyword": "jordan chiles",
+          "score": 92
+        },
+        {
+          "keyword": "pl",
           "score": 91
         }
       ]

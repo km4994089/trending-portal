@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T18:30:44.302Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "장동혁",
-          "score": 100
-        },
-        {
-          "keyword": "진에어",
-          "score": 99
-        },
-        {
-          "keyword": "u",
-          "score": 98
-        },
-        {
-          "keyword": "붉은사막",
-          "score": 97
-        },
-        {
-          "keyword": "대리모",
-          "score": 96
-        },
-        {
-          "keyword": "전민기",
-          "score": 95
-        },
-        {
-          "keyword": "yahoo finance",
-          "score": 94
-        },
-        {
-          "keyword": "다보스 포럼",
-          "score": 93
-        },
-        {
-          "keyword": "구혜선",
-          "score": 92
-        },
-        {
-          "keyword": "임형주",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T19:19:31.306Z",
       "geo": "KR",
       "source": "google",
@@ -7518,6 +7471,53 @@
         },
         {
           "keyword": "барселона – реал овьедо",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T18:50:00.843Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "pl",
+          "score": 100
+        },
+        {
+          "keyword": "epl",
+          "score": 99
+        },
+        {
+          "keyword": "mu",
+          "score": 98
+        },
+        {
+          "keyword": "ดูบอลสด",
+          "score": 97
+        },
+        {
+          "keyword": "해외축구",
+          "score": 96
+        },
+        {
+          "keyword": "유벤투스 대 나폴리",
+          "score": 95
+        },
+        {
+          "keyword": "อาร์เซนอล พบ แมนยู",
+          "score": 94
+        },
+        {
+          "keyword": "arsenal đấu với man utd",
+          "score": 93
+        },
+        {
+          "keyword": "barcelona đấu với real oviedo",
+          "score": 92
+        },
+        {
+          "keyword": "arsenal vs man united",
           "score": 91
         }
       ]
