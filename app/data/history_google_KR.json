@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T19:47:34.811Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "차은우",
-          "score": 100
-        },
-        {
-          "keyword": "아틀레티코 마드리드",
-          "score": 99
-        },
-        {
-          "keyword": "장동혁",
-          "score": 98
-        },
-        {
-          "keyword": "진에어",
-          "score": 97
-        },
-        {
-          "keyword": "u",
-          "score": 96
-        },
-        {
-          "keyword": "붉은사막",
-          "score": 95
-        },
-        {
-          "keyword": "대리모",
-          "score": 94
-        },
-        {
-          "keyword": "yahoo finance",
-          "score": 93
-        },
-        {
-          "keyword": "전민기",
-          "score": 92
-        },
-        {
-          "keyword": "다보스 포럼",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T20:21:01.155Z",
       "geo": "KR",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "mu",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T20:13:57.271Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "세리에 a",
+          "score": 100
+        },
+        {
+          "keyword": "epl 순위",
+          "score": 99
+        },
+        {
+          "keyword": "fotmob",
+          "score": 98
+        },
+        {
+          "keyword": "맨체스터 유나이티드 fc",
+          "score": 97
+        },
+        {
+          "keyword": "앙투안 세메뇨",
+          "score": 96
+        },
+        {
+          "keyword": "a",
+          "score": 95
+        },
+        {
+          "keyword": "0",
+          "score": 94
+        },
+        {
+          "keyword": "프리미어리그",
+          "score": 93
+        },
+        {
+          "keyword": "pl",
+          "score": 92
+        },
+        {
+          "keyword": "epl",
           "score": 91
         }
       ]
