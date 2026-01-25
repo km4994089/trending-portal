@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T10:17:34.497Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "おねがいアイプリ",
-          "score": 100
-        },
-        {
-          "keyword": "京阪電車",
-          "score": 99
-        },
-        {
-          "keyword": "ミスチル",
-          "score": 98
-        },
-        {
-          "keyword": "m3",
-          "score": 97
-        },
-        {
-          "keyword": "渡辺一樹",
-          "score": 96
-        },
-        {
-          "keyword": "キャリアカー",
-          "score": 95
-        },
-        {
-          "keyword": "キャベツ レシピ",
-          "score": 94
-        },
-        {
-          "keyword": "大相撲 豊昇龍",
-          "score": 93
-        },
-        {
-          "keyword": "japan jam",
-          "score": 92
-        },
-        {
-          "keyword": "今日の月",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T10:52:31.343Z",
       "geo": "JP",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "織田信長",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T10:43:28.096Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "現金預金",
+          "score": 100
+        },
+        {
+          "keyword": "指原莉乃",
+          "score": 99
+        },
+        {
+          "keyword": "貝塚市長選挙",
+          "score": 98
+        },
+        {
+          "keyword": "大宮",
+          "score": 97
+        },
+        {
+          "keyword": "習近平",
+          "score": 96
+        },
+        {
+          "keyword": "新橋",
+          "score": 95
+        },
+        {
+          "keyword": "vct",
+          "score": 94
+        },
+        {
+          "keyword": "東大教授 逮捕",
+          "score": 93
+        },
+        {
+          "keyword": "三森すずこ",
+          "score": 92
+        },
+        {
+          "keyword": "城島 茂",
           "score": 91
         }
       ]

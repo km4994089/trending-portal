@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T10:17:31.516Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "weather baltimore",
-          "score": 100
-        },
-        {
-          "keyword": "wgal weather",
-          "score": 99
-        },
-        {
-          "keyword": "school closings metro detroit",
-          "score": 98
-        },
-        {
-          "keyword": "frances tiafoe",
-          "score": 97
-        },
-        {
-          "keyword": "percy jackson season 3",
-          "score": 96
-        },
-        {
-          "keyword": "percy jackson",
-          "score": 95
-        },
-        {
-          "keyword": "new movie",
-          "score": 94
-        },
-        {
-          "keyword": "online lottery",
-          "score": 93
-        },
-        {
-          "keyword": "tennis scores",
-          "score": 92
-        },
-        {
-          "keyword": "elizabeth smart",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T10:52:28.717Z",
       "geo": "US",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "snow emergency levels",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T10:43:25.336Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nes power outage",
+          "score": 100
+        },
+        {
+          "keyword": "local news",
+          "score": 99
+        },
+        {
+          "keyword": "travel advisory",
+          "score": 98
+        },
+        {
+          "keyword": "energy rates",
+          "score": 97
+        },
+        {
+          "keyword": "miami marathon 2026",
+          "score": 96
+        },
+        {
+          "keyword": "current snow emergency levels",
+          "score": 95
+        },
+        {
+          "keyword": "이해찬",
+          "score": 94
+        },
+        {
+          "keyword": "jakub menšík",
+          "score": 93
+        },
+        {
+          "keyword": "el paso weather",
+          "score": 92
+        },
+        {
+          "keyword": "apple iphone 18 pro",
           "score": 91
         }
       ]
