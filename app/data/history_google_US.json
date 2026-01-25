@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T08:53:00.379Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "alex de minaur",
-          "score": 100
-        },
-        {
-          "keyword": "elizabeth smart",
-          "score": 99
-        },
-        {
-          "keyword": "earthquake",
-          "score": 98
-        },
-        {
-          "keyword": "usgs earthquake",
-          "score": 97
-        },
-        {
-          "keyword": "usgs",
-          "score": 96
-        },
-        {
-          "keyword": "ted cruz",
-          "score": 95
-        },
-        {
-          "keyword": "wind advisory",
-          "score": 94
-        },
-        {
-          "keyword": "mikal bridges",
-          "score": 93
-        },
-        {
-          "keyword": "maria sakkari",
-          "score": 92
-        },
-        {
-          "keyword": "alexander zverev",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T09:23:44.914Z",
       "geo": "US",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "medvedev",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T09:13:19.053Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tiktok",
+          "score": 100
+        },
+        {
+          "keyword": "alexander bublik",
+          "score": 99
+        },
+        {
+          "keyword": "klay kubiak",
+          "score": 98
+        },
+        {
+          "keyword": "current weather",
+          "score": 97
+        },
+        {
+          "keyword": "weather nyc",
+          "score": 96
+        },
+        {
+          "keyword": "snow emergency levels",
+          "score": 95
+        },
+        {
+          "keyword": "bublik",
+          "score": 94
+        },
+        {
+          "keyword": "mexico city",
+          "score": 93
+        },
+        {
+          "keyword": "highguard",
+          "score": 92
+        },
+        {
+          "keyword": "cps energy",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T08:53:03.342Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大学入学共通テスト 平均点",
-          "score": 100
-        },
-        {
-          "keyword": "隆の勝",
-          "score": 99
-        },
-        {
-          "keyword": "霧島",
-          "score": 98
-        },
-        {
-          "keyword": "琴風",
-          "score": 97
-        },
-        {
-          "keyword": "大ノ里",
-          "score": 96
-        },
-        {
-          "keyword": "白鳥玉季",
-          "score": 95
-        },
-        {
-          "keyword": "apple fitness+",
-          "score": 94
-        },
-        {
-          "keyword": "ホロライブ さくら みこ",
-          "score": 93
-        },
-        {
-          "keyword": "だいたひかる",
-          "score": 92
-        },
-        {
-          "keyword": "朝乃山",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T09:23:47.191Z",
       "geo": "JP",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "若元春",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T09:13:21.671Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "宮崎あおい",
+          "score": 100
+        },
+        {
+          "keyword": "ギリシャ",
+          "score": 99
+        },
+        {
+          "keyword": "朝青龍",
+          "score": 98
+        },
+        {
+          "keyword": "東京17区",
+          "score": 97
+        },
+        {
+          "keyword": "秦野市長選挙",
+          "score": 96
+        },
+        {
+          "keyword": "王将戦",
+          "score": 95
+        },
+        {
+          "keyword": "八角理事長",
+          "score": 94
+        },
+        {
+          "keyword": "文部科学大臣",
+          "score": 93
+        },
+        {
+          "keyword": "若松競艇",
+          "score": 92
+        },
+        {
+          "keyword": "ロマンチックウォリアー",
           "score": 91
         }
       ]
