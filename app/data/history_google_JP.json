@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T09:23:47.191Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "今日の月",
-          "score": 100
-        },
-        {
-          "keyword": "尼崎競艇",
-          "score": 99
-        },
-        {
-          "keyword": "大相撲",
-          "score": 98
-        },
-        {
-          "keyword": "大相撲結果",
-          "score": 97
-        },
-        {
-          "keyword": "ウクレレ漫談",
-          "score": 96
-        },
-        {
-          "keyword": "大学入学共通テスト 平均点",
-          "score": 95
-        },
-        {
-          "keyword": "隆の勝",
-          "score": 94
-        },
-        {
-          "keyword": "琴風",
-          "score": 93
-        },
-        {
-          "keyword": "琴櫻",
-          "score": 92
-        },
-        {
-          "keyword": "白鳥玉季",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T09:52:17.552Z",
       "geo": "JP",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "ロマンチックウォリアー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T09:40:42.151Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "小栗旬",
+          "score": 100
+        },
+        {
+          "keyword": "bリーグ",
+          "score": 99
+        },
+        {
+          "keyword": "徳永多真美",
+          "score": 98
+        },
+        {
+          "keyword": "斎藤工",
+          "score": 97
+        },
+        {
+          "keyword": "バスケットボール",
+          "score": 96
+        },
+        {
+          "keyword": "ラーナー・ティエン",
+          "score": 95
+        },
+        {
+          "keyword": "ギリシャ",
+          "score": 94
+        },
+        {
+          "keyword": "宮崎あおい",
+          "score": 93
+        },
+        {
+          "keyword": "秦野市長選挙",
+          "score": 92
+        },
+        {
+          "keyword": "東京17区",
           "score": 91
         }
       ]

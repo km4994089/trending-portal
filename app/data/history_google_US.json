@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T09:23:44.914Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "percy jackson",
-          "score": 100
-        },
-        {
-          "keyword": "new movie",
-          "score": 99
-        },
-        {
-          "keyword": "online lottery",
-          "score": 98
-        },
-        {
-          "keyword": "hamad medjedovic",
-          "score": 97
-        },
-        {
-          "keyword": "mirra andreeva",
-          "score": 96
-        },
-        {
-          "keyword": "elizabeth smart",
-          "score": 95
-        },
-        {
-          "keyword": "earthquake",
-          "score": 94
-        },
-        {
-          "keyword": "earthquake now",
-          "score": 93
-        },
-        {
-          "keyword": "usgs earthquake",
-          "score": 92
-        },
-        {
-          "keyword": "ted cruz",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T09:52:13.250Z",
       "geo": "US",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "cps energy",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T09:40:39.288Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "elina svitolina",
+          "score": 100
+        },
+        {
+          "keyword": "tiktok down?",
+          "score": 99
+        },
+        {
+          "keyword": "mirra andreeva",
+          "score": 98
+        },
+        {
+          "keyword": "lol",
+          "score": 97
+        },
+        {
+          "keyword": "tiktok",
+          "score": 96
+        },
+        {
+          "keyword": "klay kubiak",
+          "score": 95
+        },
+        {
+          "keyword": "current weather",
+          "score": 94
+        },
+        {
+          "keyword": "weather nyc",
+          "score": 93
+        },
+        {
+          "keyword": "snow emergency levels",
+          "score": 92
+        },
+        {
+          "keyword": "mexico city",
           "score": 91
         }
       ]
