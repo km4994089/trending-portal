@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T10:52:31.343Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ジャンポケ斎藤",
-          "score": 100
-        },
-        {
-          "keyword": "スリランカ",
-          "score": 99
-        },
-        {
-          "keyword": "ローソン 盛りすぎ",
-          "score": 98
-        },
-        {
-          "keyword": "テレビ山口",
-          "score": 97
-        },
-        {
-          "keyword": "easl",
-          "score": 96
-        },
-        {
-          "keyword": "水曜日のダウンタウン",
-          "score": 95
-        },
-        {
-          "keyword": "sam",
-          "score": 94
-        },
-        {
-          "keyword": "東京電力 株価",
-          "score": 93
-        },
-        {
-          "keyword": "巨人 リチャード",
-          "score": 92
-        },
-        {
-          "keyword": "マクロン大統領",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T11:16:16.827Z",
       "geo": "JP",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "城島 茂",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T11:10:05.002Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "岡山県",
+          "score": 100
+        },
+        {
+          "keyword": "宮崎市長選挙",
+          "score": 99
+        },
+        {
+          "keyword": "やす子",
+          "score": 98
+        },
+        {
+          "keyword": "喜多方市長選挙",
+          "score": 97
+        },
+        {
+          "keyword": "ピエールマルコリーニ",
+          "score": 96
+        },
+        {
+          "keyword": "ポツンと一軒家",
+          "score": 95
+        },
+        {
+          "keyword": "花巻市長選挙",
+          "score": 94
+        },
+        {
+          "keyword": "鉄腕dash",
+          "score": 93
+        },
+        {
+          "keyword": "鉄腕ダッシュ",
+          "score": 92
+        },
+        {
+          "keyword": "現金預金",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T10:52:28.717Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "school closings",
-          "score": 100
-        },
-        {
-          "keyword": "closing and delays",
-          "score": 99
-        },
-        {
-          "keyword": "wgal",
-          "score": 98
-        },
-        {
-          "keyword": "if",
-          "score": 97
-        },
-        {
-          "keyword": "school closings and delays",
-          "score": 96
-        },
-        {
-          "keyword": "closings and delays",
-          "score": 95
-        },
-        {
-          "keyword": "francisco comesana",
-          "score": 94
-        },
-        {
-          "keyword": "jcps",
-          "score": 93
-        },
-        {
-          "keyword": "wfmz",
-          "score": 92
-        },
-        {
-          "keyword": "louisville weather",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T11:16:14.073Z",
       "geo": "US",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "apple iphone 18 pro",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T11:10:02.447Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "baltimore weather",
+          "score": 100
+        },
+        {
+          "keyword": "raleigh weather",
+          "score": 99
+        },
+        {
+          "keyword": "snow totals",
+          "score": 98
+        },
+        {
+          "keyword": "is walmart open today",
+          "score": 97
+        },
+        {
+          "keyword": "weather columbia sc",
+          "score": 96
+        },
+        {
+          "keyword": "abc13",
+          "score": 95
+        },
+        {
+          "keyword": "nes power outage",
+          "score": 94
+        },
+        {
+          "keyword": "local news",
+          "score": 93
+        },
+        {
+          "keyword": "travel advisory",
+          "score": 92
+        },
+        {
+          "keyword": "miami marathon 2026",
           "score": 91
         }
       ]
