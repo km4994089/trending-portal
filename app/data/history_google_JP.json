@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T22:15:29.268Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "めざましテレビ",
-          "score": 100
-        },
-        {
-          "keyword": "松田里奈",
-          "score": 99
-        },
-        {
-          "keyword": "fcバルセロナ",
-          "score": 98
-        },
-        {
-          "keyword": "山田哲人",
-          "score": 97
-        },
-        {
-          "keyword": "東京メトロ",
-          "score": 96
-        },
-        {
-          "keyword": "平和評議会",
-          "score": 95
-        },
-        {
-          "keyword": "電車 遅延",
-          "score": 94
-        },
-        {
-          "keyword": "slavia đấu với barcelona",
-          "score": 93
-        },
-        {
-          "keyword": "barcelona",
-          "score": 92
-        },
-        {
-          "keyword": "有楽町線",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T22:49:29.888Z",
       "geo": "JP",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "今田美桜",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T22:42:11.972Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "風間俊介",
+          "score": 100
+        },
+        {
+          "keyword": "東留伽",
+          "score": 99
+        },
+        {
+          "keyword": "roma vs milan",
+          "score": 98
+        },
+        {
+          "keyword": "豪ドル",
+          "score": 97
+        },
+        {
+          "keyword": "めざまし占い",
+          "score": 96
+        },
+        {
+          "keyword": "清水さら",
+          "score": 95
+        },
+        {
+          "keyword": "京阪電車",
+          "score": 94
+        },
+        {
+          "keyword": "bảng xếp hạng ngoại hạng anh",
+          "score": 93
+        },
+        {
+          "keyword": "あいの風とやま鉄道",
+          "score": 92
+        },
+        {
+          "keyword": "アラベス 対 ベティス",
           "score": 91
         }
       ]
