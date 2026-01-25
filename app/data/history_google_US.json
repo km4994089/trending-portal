@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T11:16:14.073Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "credit cards",
-          "score": 100
-        },
-        {
-          "keyword": "world economic forum",
-          "score": 99
-        },
-        {
-          "keyword": "10 day forecast",
-          "score": 98
-        },
-        {
-          "keyword": "dow futures",
-          "score": 97
-        },
-        {
-          "keyword": "schools closed today",
-          "score": 96
-        },
-        {
-          "keyword": "kdka",
-          "score": 95
-        },
-        {
-          "keyword": "cincinnati weather",
-          "score": 94
-        },
-        {
-          "keyword": "open",
-          "score": 93
-        },
-        {
-          "keyword": "school closings",
-          "score": 92
-        },
-        {
-          "keyword": "school closings today",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T11:43:08.321Z",
       "geo": "US",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "miami marathon 2026",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T11:36:16.896Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "power outage nashville",
+          "score": 100
+        },
+        {
+          "keyword": "snowfall totals",
+          "score": 99
+        },
+        {
+          "keyword": "entergy",
+          "score": 98
+        },
+        {
+          "keyword": "ct weather",
+          "score": 97
+        },
+        {
+          "keyword": "weather update",
+          "score": 96
+        },
+        {
+          "keyword": "delaware state of emergency",
+          "score": 95
+        },
+        {
+          "keyword": "columbia sc weather",
+          "score": 94
+        },
+        {
+          "keyword": "toyota tundra",
+          "score": 93
+        },
+        {
+          "keyword": "news12",
+          "score": 92
+        },
+        {
+          "keyword": "baltimore weather",
           "score": 91
         }
       ]

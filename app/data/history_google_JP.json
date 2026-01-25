@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T11:16:16.827Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "地方競馬",
-          "score": 100
-        },
-        {
-          "keyword": "キッザニア",
-          "score": 99
-        },
-        {
-          "keyword": "有吉の壁 映画",
-          "score": 98
-        },
-        {
-          "keyword": "豪快キャプテン",
-          "score": 97
-        },
-        {
-          "keyword": "松本莉緒",
-          "score": 96
-        },
-        {
-          "keyword": "ヒコロヒー",
-          "score": 95
-        },
-        {
-          "keyword": "グランドシネマサンシャイン 池袋",
-          "score": 94
-        },
-        {
-          "keyword": "柏崎市",
-          "score": 93
-        },
-        {
-          "keyword": "ジャンポケ斎藤",
-          "score": 92
-        },
-        {
-          "keyword": "スリランカ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T11:43:10.956Z",
       "geo": "JP",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "現金預金",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T11:36:20.266Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "米津玄師",
+          "score": 100
+        },
+        {
+          "keyword": "dfm",
+          "score": 99
+        },
+        {
+          "keyword": "仙台駅",
+          "score": 98
+        },
+        {
+          "keyword": "葛葉",
+          "score": 97
+        },
+        {
+          "keyword": "大鶴義丹",
+          "score": 96
+        },
+        {
+          "keyword": "ガンバレルーヤ",
+          "score": 95
+        },
+        {
+          "keyword": "やすこ",
+          "score": 94
+        },
+        {
+          "keyword": "深谷市長選挙",
+          "score": 93
+        },
+        {
+          "keyword": "宮崎市長選挙",
+          "score": 92
+        },
+        {
+          "keyword": "やす子",
           "score": 91
         }
       ]
