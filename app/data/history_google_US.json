@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T14:35:42.333Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "macron sunglasses",
-          "score": 100
-        },
-        {
-          "keyword": "abhishek sharma",
-          "score": 99
-        },
-        {
-          "keyword": "anthony weaver",
-          "score": 98
-        },
-        {
-          "keyword": "tristan gray",
-          "score": 97
-        },
-        {
-          "keyword": "jnj stock",
-          "score": 96
-        },
-        {
-          "keyword": "bloomberg",
-          "score": 95
-        },
-        {
-          "keyword": "laguna beach",
-          "score": 94
-        },
-        {
-          "keyword": "iceland",
-          "score": 93
-        },
-        {
-          "keyword": "f47",
-          "score": 92
-        },
-        {
-          "keyword": "grant udinski",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T15:21:19.005Z",
       "geo": "US",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "jason momoa",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T14:40:59.919Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "barcelona - real oviedo",
+          "score": 100
+        },
+        {
+          "keyword": "doe",
+          "score": 99
+        },
+        {
+          "keyword": "freeze watch",
+          "score": 98
+        },
+        {
+          "keyword": "barcelona schedule",
+          "score": 97
+        },
+        {
+          "keyword": "albuquerque weather",
+          "score": 96
+        },
+        {
+          "keyword": "dulles airport",
+          "score": 95
+        },
+        {
+          "keyword": "todd blanche",
+          "score": 94
+        },
+        {
+          "keyword": "mönchengladbach vs vfb stuttgart",
+          "score": 93
+        },
+        {
+          "keyword": "road conditions san antonio",
+          "score": 92
+        },
+        {
+          "keyword": "blizzard of 78",
           "score": 91
         }
       ]
