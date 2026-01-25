@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T20:53:07.989Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "堂本光一",
-          "score": 100
-        },
-        {
-          "keyword": "高速道路 渋滞",
-          "score": 99
-        },
-        {
-          "keyword": "名鉄",
-          "score": 98
-        },
-        {
-          "keyword": "大谷舞風",
-          "score": 97
-        },
-        {
-          "keyword": "サンディスク 株価",
-          "score": 96
-        },
-        {
-          "keyword": "北陸新幹線",
-          "score": 95
-        },
-        {
-          "keyword": "青森市 天気",
-          "score": 94
-        },
-        {
-          "keyword": "湖西線",
-          "score": 93
-        },
-        {
-          "keyword": "s&p500",
-          "score": 92
-        },
-        {
-          "keyword": "champions league",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T21:20:24.997Z",
       "geo": "JP",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "ソシエダ 対 セルタ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T21:11:14.327Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ローソン",
+          "score": 100
+        },
+        {
+          "keyword": "為替 ドル円",
+          "score": 99
+        },
+        {
+          "keyword": "ミネアポリス",
+          "score": 98
+        },
+        {
+          "keyword": "la liga",
+          "score": 97
+        },
+        {
+          "keyword": "nfl",
+          "score": 96
+        },
+        {
+          "keyword": "liga inggris",
+          "score": 95
+        },
+        {
+          "keyword": "リーグアン",
+          "score": 94
+        },
+        {
+          "keyword": "26 january",
+          "score": 93
+        },
+        {
+          "keyword": "republic day",
+          "score": 92
+        },
+        {
+          "keyword": "ユナイテッド",
           "score": 91
         }
       ]
