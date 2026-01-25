@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T03:14:00.103Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "keyonte george",
-          "score": 100
-        },
-        {
-          "keyword": "mn timberwolves",
-          "score": 99
-        },
-        {
-          "keyword": "cody johnson",
-          "score": 98
-        },
-        {
-          "keyword": "medvedev",
-          "score": 97
-        },
-        {
-          "keyword": "purdue vs ucla",
-          "score": 96
-        },
-        {
-          "keyword": "texas tech basketball",
-          "score": 95
-        },
-        {
-          "keyword": "devils vs oilers",
-          "score": 94
-        },
-        {
-          "keyword": "stephon castle",
-          "score": 93
-        },
-        {
-          "keyword": "quentin halys",
-          "score": 92
-        },
-        {
-          "keyword": "alcaraz",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T04:28:37.228Z",
       "geo": "US",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "major league",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T03:24:41.991Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sylvester stallone",
+          "score": 100
+        },
+        {
+          "keyword": "coby white",
+          "score": 99
+        },
+        {
+          "keyword": "rob lowe",
+          "score": 98
+        },
+        {
+          "keyword": "jalen smith",
+          "score": 97
+        },
+        {
+          "keyword": "namajunas",
+          "score": 96
+        },
+        {
+          "keyword": "carlos alcaraz",
+          "score": 95
+        },
+        {
+          "keyword": "amy madigan",
+          "score": 94
+        },
+        {
+          "keyword": "weapons",
+          "score": 93
+        },
+        {
+          "keyword": "putintseva",
+          "score": 92
+        },
+        {
+          "keyword": "james bond",
           "score": 91
         }
       ]

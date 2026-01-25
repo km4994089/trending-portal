@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T03:14:01.459Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nike",
-          "score": 100
-        },
-        {
-          "keyword": "현대차 주가",
-          "score": 99
-        },
-        {
-          "keyword": "아이온2 인벤",
-          "score": 98
-        },
-        {
-          "keyword": "삼성스팩13호",
-          "score": 97
-        },
-        {
-          "keyword": "병무청",
-          "score": 96
-        },
-        {
-          "keyword": "덕양에너젠",
-          "score": 95
-        },
-        {
-          "keyword": "코스피지수",
-          "score": 94
-        },
-        {
-          "keyword": "알테오젠",
-          "score": 93
-        },
-        {
-          "keyword": "휴림로봇",
-          "score": 92
-        },
-        {
-          "keyword": "우리기술",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T04:28:38.226Z",
       "geo": "KR",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "bournemouth vs liverpool",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T03:24:43.293Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "신의 악단",
+          "score": 100
+        },
+        {
+          "keyword": "캐시워크 정답",
+          "score": 99
+        },
+        {
+          "keyword": "이민우",
+          "score": 98
+        },
+        {
+          "keyword": "미네소타",
+          "score": 97
+        },
+        {
+          "keyword": "공영홈쇼핑",
+          "score": 96
+        },
+        {
+          "keyword": "토익",
+          "score": 95
+        },
+        {
+          "keyword": "вильярреал – реал мадрид",
+          "score": 94
+        },
+        {
+          "keyword": "villarreal đấu với real madrid",
+          "score": 93
+        },
+        {
+          "keyword": "villarreal vs madrid",
+          "score": 92
+        },
+        {
+          "keyword": "villarreal vs real madrid",
           "score": 91
         }
       ]
