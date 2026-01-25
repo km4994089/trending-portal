@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T09:52:13.250Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "frances tiafoe",
-          "score": 100
-        },
-        {
-          "keyword": "percy jackson season 3",
-          "score": 99
-        },
-        {
-          "keyword": "percy jackson",
-          "score": 98
-        },
-        {
-          "keyword": "new movie",
-          "score": 97
-        },
-        {
-          "keyword": "online lottery",
-          "score": 96
-        },
-        {
-          "keyword": "tennis scores",
-          "score": 95
-        },
-        {
-          "keyword": "hamad medjedovic",
-          "score": 94
-        },
-        {
-          "keyword": "elizabeth smart",
-          "score": 93
-        },
-        {
-          "keyword": "earthquake",
-          "score": 92
-        },
-        {
-          "keyword": "earthquake now",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T10:17:31.516Z",
       "geo": "US",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "mexico city",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T10:12:35.248Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "el paso weather",
+          "score": 100
+        },
+        {
+          "keyword": "jakub menšík",
+          "score": 99
+        },
+        {
+          "keyword": "republic day",
+          "score": 98
+        },
+        {
+          "keyword": "tiktok down?",
+          "score": 97
+        },
+        {
+          "keyword": "mirra andreeva",
+          "score": 96
+        },
+        {
+          "keyword": "lol",
+          "score": 95
+        },
+        {
+          "keyword": "tiktok",
+          "score": 94
+        },
+        {
+          "keyword": "klay kubiak",
+          "score": 93
+        },
+        {
+          "keyword": "current weather",
+          "score": 92
+        },
+        {
+          "keyword": "snow emergency levels",
           "score": 91
         }
       ]
