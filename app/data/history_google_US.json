@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-21T19:19:29.898Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "freddy peralta",
-          "score": 100
-        },
-        {
-          "keyword": "dow jones stock markets",
-          "score": 99
-        },
-        {
-          "keyword": "willowbrook ca",
-          "score": 98
-        },
-        {
-          "keyword": "pfwa",
-          "score": 97
-        },
-        {
-          "keyword": "lemonade insurance",
-          "score": 96
-        },
-        {
-          "keyword": "invincible season 4",
-          "score": 95
-        },
-        {
-          "keyword": "microsoft stock",
-          "score": 94
-        },
-        {
-          "keyword": "atletico de madrid",
-          "score": 93
-        },
-        {
-          "keyword": "dianna russini",
-          "score": 92
-        },
-        {
-          "keyword": "cody bellinger",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-21T19:47:33.581Z",
       "geo": "US",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "oxford mississippi",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-25T19:35:00.334Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jojo siwa",
+          "score": 100
+        },
+        {
+          "keyword": "jackie chan",
+          "score": 99
+        },
+        {
+          "keyword": "mercyhurst basketball",
+          "score": 98
+        },
+        {
+          "keyword": "kings vs pistons",
+          "score": 97
+        },
+        {
+          "keyword": "alavés - real betis",
+          "score": 96
+        },
+        {
+          "keyword": "alavés vs real betis",
+          "score": 95
+        },
+        {
+          "keyword": "nate burleson",
+          "score": 94
+        },
+        {
+          "keyword": "losc vs strasbourg",
+          "score": 93
+        },
+        {
+          "keyword": "brock nelson",
+          "score": 92
+        },
+        {
+          "keyword": "craig berube",
           "score": 91
         }
       ]
