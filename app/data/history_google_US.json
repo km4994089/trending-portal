@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T11:16:17.409Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "strands hint",
-          "score": 100
-        },
-        {
-          "keyword": "gamestop nintendo switch",
-          "score": 99
-        },
-        {
-          "keyword": "dc weather",
-          "score": 98
-        },
-        {
-          "keyword": "clima de hoy",
-          "score": 97
-        },
-        {
-          "keyword": "schools closed today",
-          "score": 96
-        },
-        {
-          "keyword": "jared kushner",
-          "score": 95
-        },
-        {
-          "keyword": "school closures",
-          "score": 94
-        },
-        {
-          "keyword": "fortnite update",
-          "score": 93
-        },
-        {
-          "keyword": "columbus weather",
-          "score": 92
-        },
-        {
-          "keyword": "school closings",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T11:41:56.671Z",
       "geo": "US",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "breakfast sandwich",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T11:39:54.500Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "knoxville road conditions",
+          "score": 100
+        },
+        {
+          "keyword": "wmur weather",
+          "score": 99
+        },
+        {
+          "keyword": "road conditions knoxville tn",
+          "score": 98
+        },
+        {
+          "keyword": "boston globe",
+          "score": 97
+        },
+        {
+          "keyword": "dca airport",
+          "score": 96
+        },
+        {
+          "keyword": "wtop",
+          "score": 95
+        },
+        {
+          "keyword": "where is lawrence jones on fox and friends",
+          "score": 94
+        },
+        {
+          "keyword": "aldot",
+          "score": 93
+        },
+        {
+          "keyword": "snow totals ct",
+          "score": 92
+        },
+        {
+          "keyword": "closings and delays",
           "score": 91
         }
       ]
