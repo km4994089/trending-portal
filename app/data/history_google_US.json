@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T03:17:57.805Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "rory mcilroy",
-          "score": 100
-        },
-        {
-          "keyword": "ajay mitchell",
-          "score": 99
-        },
-        {
-          "keyword": "mlb top prospects",
-          "score": 98
-        },
-        {
-          "keyword": "mlb top 100 prospects",
-          "score": 97
-        },
-        {
-          "keyword": "maestrelli",
-          "score": 96
-        },
-        {
-          "keyword": "new orleans pelicans",
-          "score": 95
-        },
-        {
-          "keyword": "redbull",
-          "score": 94
-        },
-        {
-          "keyword": "cam thomas",
-          "score": 93
-        },
-        {
-          "keyword": "lucid air",
-          "score": 92
-        },
-        {
-          "keyword": "lucid car",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T04:30:49.139Z",
       "geo": "US",
       "source": "google",
@@ -7518,6 +7471,53 @@
         },
         {
           "keyword": "corum rams",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T03:27:23.765Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "taylor fritz",
+          "score": 100
+        },
+        {
+          "keyword": "fritz",
+          "score": 99
+        },
+        {
+          "keyword": "stephen king",
+          "score": 98
+        },
+        {
+          "keyword": "kam chancellor",
+          "score": 97
+        },
+        {
+          "keyword": "seahawks gm",
+          "score": 96
+        },
+        {
+          "keyword": "super bowl matchups",
+          "score": 95
+        },
+        {
+          "keyword": "legion of boom",
+          "score": 94
+        },
+        {
+          "keyword": "russel wilson",
+          "score": 93
+        },
+        {
+          "keyword": "super bowl 2016",
+          "score": 92
+        },
+        {
+          "keyword": "malcolm butler",
           "score": 91
         }
       ]
