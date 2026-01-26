@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T10:17:54.204Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "wood tv 8",
-          "score": 100
-        },
-        {
-          "keyword": "irs refund",
-          "score": 99
-        },
-        {
-          "keyword": "nyt connections answers",
-          "score": 98
-        },
-        {
-          "keyword": "school cancellations",
-          "score": 97
-        },
-        {
-          "keyword": "jaume munar",
-          "score": 96
-        },
-        {
-          "keyword": "new movie",
-          "score": 95
-        },
-        {
-          "keyword": "张又侠",
-          "score": 94
-        },
-        {
-          "keyword": "extreme cold warning",
-          "score": 93
-        },
-        {
-          "keyword": "sri lanka vs england",
-          "score": 92
-        },
-        {
-          "keyword": "online lottery",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T10:51:41.796Z",
       "geo": "US",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "freeze warning",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T10:50:13.094Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mbta",
+          "score": 100
+        },
+        {
+          "keyword": "road closures louisiana",
+          "score": 99
+        },
+        {
+          "keyword": "txdot",
+          "score": 98
+        },
+        {
+          "keyword": "jacksonville weather",
+          "score": 97
+        },
+        {
+          "keyword": "is school closed monday",
+          "score": 96
+        },
+        {
+          "keyword": "snowfall totals by zip code",
+          "score": 95
+        },
+        {
+          "keyword": "wmata",
+          "score": 94
+        },
+        {
+          "keyword": "wmur",
+          "score": 93
+        },
+        {
+          "keyword": "ben shelton",
+          "score": 92
+        },
+        {
+          "keyword": "septa",
           "score": 91
         }
       ]

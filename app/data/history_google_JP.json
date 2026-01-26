@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T10:17:56.958Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "小椋佳",
-          "score": 100
-        },
-        {
-          "keyword": "吉祥寺",
-          "score": 99
-        },
-        {
-          "keyword": "jr九州",
-          "score": 98
-        },
-        {
-          "keyword": "ダンプカー",
-          "score": 97
-        },
-        {
-          "keyword": "ユニバ ポケモン",
-          "score": 96
-        },
-        {
-          "keyword": "四大陸フィギュアスケート選手権",
-          "score": 95
-        },
-        {
-          "keyword": "イマーシブジャーニー 名古屋",
-          "score": 94
-        },
-        {
-          "keyword": "卓球全日本選手権 2026",
-          "score": 93
-        },
-        {
-          "keyword": "大相撲",
-          "score": 92
-        },
-        {
-          "keyword": "ケンタッキーフライドチキン メニュー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T10:51:44.328Z",
       "geo": "JP",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "ポケパーク カントー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T10:50:15.744Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "west",
+          "score": 100
+        },
+        {
+          "keyword": "スピッツ",
+          "score": 99
+        },
+        {
+          "keyword": "おもちゃの拳銃",
+          "score": 98
+        },
+        {
+          "keyword": "大久保佳代子",
+          "score": 97
+        },
+        {
+          "keyword": "川村エミコ",
+          "score": 96
+        },
+        {
+          "keyword": "小瀧望",
+          "score": 95
+        },
+        {
+          "keyword": "藤井流星",
+          "score": 94
+        },
+        {
+          "keyword": "吉住",
+          "score": 93
+        },
+        {
+          "keyword": "今井美樹",
+          "score": 92
+        },
+        {
+          "keyword": "m!lk",
           "score": 91
         }
       ]
