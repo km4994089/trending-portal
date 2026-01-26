@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T04:30:51.748Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "e tax",
-          "score": 100
-        },
-        {
-          "keyword": "ペリカンズ 対 ピストンズ",
-          "score": 99
-        },
-        {
-          "keyword": "竹谷とし子",
-          "score": 98
-        },
-        {
-          "keyword": "ゆうちゃみ",
-          "score": 97
-        },
-        {
-          "keyword": "武豊",
-          "score": 96
-        },
-        {
-          "keyword": "ほっかほっか亭",
-          "score": 95
-        },
-        {
-          "keyword": "衆議院選挙 自民党",
-          "score": 94
-        },
-        {
-          "keyword": "将棋連盟",
-          "score": 93
-        },
-        {
-          "keyword": "imp",
-          "score": 92
-        },
-        {
-          "keyword": "島崎和歌子",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T05:21:11.876Z",
       "geo": "JP",
       "source": "google",
@@ -7518,6 +7471,53 @@
         },
         {
           "keyword": "世界遺産",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T04:38:57.937Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "東京駅",
+          "score": 100
+        },
+        {
+          "keyword": "村上佳菜子",
+          "score": 99
+        },
+        {
+          "keyword": "クリッパーズ 対 ネッツ",
+          "score": 98
+        },
+        {
+          "keyword": "加賀まりこ",
+          "score": 97
+        },
+        {
+          "keyword": "早見優",
+          "score": 96
+        },
+        {
+          "keyword": "党首討論",
+          "score": 95
+        },
+        {
+          "keyword": "イヨ・スカイ",
+          "score": 94
+        },
+        {
+          "keyword": "ロッテ ガム",
+          "score": 93
+        },
+        {
+          "keyword": "にゃんこ大戦争 鬼滅の刃",
+          "score": 92
+        },
+        {
+          "keyword": "スタバ 新作",
           "score": 91
         }
       ]
