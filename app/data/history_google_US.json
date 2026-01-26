@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T22:13:55.530Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sparkle beach ken doll",
-          "score": 100
-        },
-        {
-          "keyword": "xbox developer direct games",
-          "score": 99
-        },
-        {
-          "keyword": "autodesk",
-          "score": 98
-        },
-        {
-          "keyword": "isrg stock",
-          "score": 97
-        },
-        {
-          "keyword": "cof stock",
-          "score": 96
-        },
-        {
-          "keyword": "mexico vs",
-          "score": 95
-        },
-        {
-          "keyword": "marco luciano",
-          "score": 94
-        },
-        {
-          "keyword": "lori coble",
-          "score": 93
-        },
-        {
-          "keyword": "rich paul",
-          "score": 92
-        },
-        {
-          "keyword": "intc stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T22:45:46.038Z",
       "geo": "US",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "unh stock",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T22:45:11.368Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "neo langston",
+          "score": 100
+        },
+        {
+          "keyword": "katie meyer",
+          "score": 99
+        },
+        {
+          "keyword": "noem",
+          "score": 98
+        },
+        {
+          "keyword": "taylor mccabe",
+          "score": 97
+        },
+        {
+          "keyword": "aisd",
+          "score": 96
+        },
+        {
+          "keyword": "larry ellison",
+          "score": 95
+        },
+        {
+          "keyword": "bella hadid",
+          "score": 94
+        },
+        {
+          "keyword": "nba trade deadline",
+          "score": 93
+        },
+        {
+          "keyword": "hornets",
+          "score": 92
+        },
+        {
+          "keyword": "brandon miller",
           "score": 91
         }
       ]
