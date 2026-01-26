@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T07:23:47.393Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "天野はな",
-          "score": 100
-        },
-        {
-          "keyword": "ナルト",
-          "score": 99
-        },
-        {
-          "keyword": "福岡大学",
-          "score": 98
-        },
-        {
-          "keyword": "西岡徳馬",
-          "score": 97
-        },
-        {
-          "keyword": "和田竜二",
-          "score": 96
-        },
-        {
-          "keyword": "東京マラソン",
-          "score": 95
-        },
-        {
-          "keyword": "全日本卓球",
-          "score": 94
-        },
-        {
-          "keyword": "阿部一二三",
-          "score": 93
-        },
-        {
-          "keyword": "田中真美子",
-          "score": 92
-        },
-        {
-          "keyword": "柏崎刈羽原発再稼働",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T07:46:07.328Z",
       "geo": "JP",
       "source": "google",
@@ -7518,6 +7471,53 @@
         },
         {
           "keyword": "那覇空港",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T07:29:44.593Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "野口絵子",
+          "score": 100
+        },
+        {
+          "keyword": "衆議院議員総選挙",
+          "score": 99
+        },
+        {
+          "keyword": "山本舞香",
+          "score": 98
+        },
+        {
+          "keyword": "山陽 自動車 道",
+          "score": 97
+        },
+        {
+          "keyword": "九州 雪",
+          "score": 96
+        },
+        {
+          "keyword": "内閣総理大臣杯",
+          "score": 95
+        },
+        {
+          "keyword": "にゃんこ大戦争鬼滅コラボ",
+          "score": 94
+        },
+        {
+          "keyword": "バックカントリー",
+          "score": 93
+        },
+        {
+          "keyword": "野田佳彦 統一教会",
+          "score": 92
+        },
+        {
+          "keyword": "平和島競艇",
           "score": 91
         }
       ]
