@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T14:53:31.430Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "coach",
-          "score": 100
-        },
-        {
-          "keyword": "東北大学",
-          "score": 99
-        },
-        {
-          "keyword": "青森 地震",
-          "score": 98
-        },
-        {
-          "keyword": "札幌 地震",
-          "score": 97
-        },
-        {
-          "keyword": "灘中学 入試問題",
-          "score": 96
-        },
-        {
-          "keyword": "脱出おひとり島",
-          "score": 95
-        },
-        {
-          "keyword": "ユナイテッド航空",
-          "score": 94
-        },
-        {
-          "keyword": "カンブリア宮殿",
-          "score": 93
-        },
-        {
-          "keyword": "ローラ",
-          "score": 92
-        },
-        {
-          "keyword": "コーチ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T15:20:37.624Z",
       "geo": "JP",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "加藤豪将",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T15:19:51.319Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "エンドフィールド 図面",
+          "score": 100
+        },
+        {
+          "keyword": "カードキャプターさくら",
+          "score": 99
+        },
+        {
+          "keyword": "ナチュラル",
+          "score": 98
+        },
+        {
+          "keyword": "airtag",
+          "score": 97
+        },
+        {
+          "keyword": "大阪府知事",
+          "score": 96
+        },
+        {
+          "keyword": "日本維新の会",
+          "score": 95
+        },
+        {
+          "keyword": "藤田文武",
+          "score": 94
+        },
+        {
+          "keyword": "維新 藤田",
+          "score": 93
+        },
+        {
+          "keyword": "はしか",
+          "score": 92
+        },
+        {
+          "keyword": "櫻井翔",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T14:53:27.931Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kate hudson",
-          "score": 100
-        },
-        {
-          "keyword": "nekima levy armstrong",
-          "score": 99
-        },
-        {
-          "keyword": "the perfect neighbor",
-          "score": 98
-        },
-        {
-          "keyword": "phoenix weather",
-          "score": 97
-        },
-        {
-          "keyword": "mr nobody against putin",
-          "score": 96
-        },
-        {
-          "keyword": "afg vs wi",
-          "score": 95
-        },
-        {
-          "keyword": "weapons",
-          "score": 94
-        },
-        {
-          "keyword": "cspan",
-          "score": 93
-        },
-        {
-          "keyword": "renate reinsve",
-          "score": 92
-        },
-        {
-          "keyword": "fortnite down",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T15:20:34.473Z",
       "geo": "US",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "freezing fog advisory",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T15:19:48.428Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "leidos",
+          "score": 100
+        },
+        {
+          "keyword": "vti stock",
+          "score": 99
+        },
+        {
+          "keyword": "onds stock",
+          "score": 98
+        },
+        {
+          "keyword": "sndk stock",
+          "score": 97
+        },
+        {
+          "keyword": "pltr stock price",
+          "score": 96
+        },
+        {
+          "keyword": "mu stock price",
+          "score": 95
+        },
+        {
+          "keyword": "ba stock",
+          "score": 94
+        },
+        {
+          "keyword": "apld stock",
+          "score": 93
+        },
+        {
+          "keyword": "fog delay",
+          "score": 92
+        },
+        {
+          "keyword": "meta stock price",
           "score": 91
         }
       ]

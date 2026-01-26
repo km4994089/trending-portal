@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T14:53:29.480Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "적우",
-          "score": 100
-        },
-        {
-          "keyword": "더로직",
-          "score": 99
-        },
-        {
-          "keyword": "황충재",
-          "score": 98
-        },
-        {
-          "keyword": "박재범",
-          "score": 97
-        },
-        {
-          "keyword": "who",
-          "score": 96
-        },
-        {
-          "keyword": "ticketmaster",
-          "score": 95
-        },
-        {
-          "keyword": "티빙",
-          "score": 94
-        },
-        {
-          "keyword": "tving",
-          "score": 93
-        },
-        {
-          "keyword": "쇼미",
-          "score": 92
-        },
-        {
-          "keyword": "쇼미더머니 12",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T15:20:35.986Z",
       "geo": "KR",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "국정원",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T15:19:49.877Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "한그루",
+          "score": 100
+        },
+        {
+          "keyword": "류시원",
+          "score": 99
+        },
+        {
+          "keyword": "풍자",
+          "score": 98
+        },
+        {
+          "keyword": "안보현",
+          "score": 97
+        },
+        {
+          "keyword": "문빈",
+          "score": 96
+        },
+        {
+          "keyword": "조성환",
+          "score": 95
+        },
+        {
+          "keyword": "메이플 키우기",
+          "score": 94
+        },
+        {
+          "keyword": "박장범",
+          "score": 93
+        },
+        {
+          "keyword": "부고니아",
+          "score": 92
+        },
+        {
+          "keyword": "키키",
           "score": 91
         }
       ]
