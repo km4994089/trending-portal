@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T15:20:34.473Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "the secret agent",
-          "score": 100
-        },
-        {
-          "keyword": "lottery powerball jackpot",
-          "score": 99
-        },
-        {
-          "keyword": "anet stock",
-          "score": 98
-        },
-        {
-          "keyword": "technology",
-          "score": 97
-        },
-        {
-          "keyword": "run",
-          "score": 96
-        },
-        {
-          "keyword": "kobe 1 protro 81 points",
-          "score": 95
-        },
-        {
-          "keyword": "ksl",
-          "score": 94
-        },
-        {
-          "keyword": "hudson westbrook",
-          "score": 93
-        },
-        {
-          "keyword": "usgs earthquakes",
-          "score": 92
-        },
-        {
-          "keyword": "abt stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T15:52:03.008Z",
       "geo": "US",
       "source": "google",
@@ -7612,6 +7565,53 @@
         },
         {
           "keyword": "meta stock price",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T15:49:47.351Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "booz allen hamilton",
+          "score": 100
+        },
+        {
+          "keyword": "pittsburgh state of emergency",
+          "score": 99
+        },
+        {
+          "keyword": "walmart stock",
+          "score": 98
+        },
+        {
+          "keyword": "micron stock price",
+          "score": 97
+        },
+        {
+          "keyword": "ford stock",
+          "score": 96
+        },
+        {
+          "keyword": "nasdaq index",
+          "score": 95
+        },
+        {
+          "keyword": "broadcom stock",
+          "score": 94
+        },
+        {
+          "keyword": "mu stock",
+          "score": 93
+        },
+        {
+          "keyword": "ttd stock",
+          "score": 92
+        },
+        {
+          "keyword": "pfe stock",
           "score": 91
         }
       ]
