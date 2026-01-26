@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T23:40:34.085Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "岡部たかし",
-          "score": 100
-        },
-        {
-          "keyword": "ランドクルーザー",
-          "score": 99
-        },
-        {
-          "keyword": "outlook 不具合",
-          "score": 98
-        },
-        {
-          "keyword": "ダノン 粉ミルク",
-          "score": 97
-        },
-        {
-          "keyword": "シルバニアファミリー",
-          "score": 96
-        },
-        {
-          "keyword": "渡邊圭祐",
-          "score": 95
-        },
-        {
-          "keyword": "ムロツヨシ",
-          "score": 94
-        },
-        {
-          "keyword": "ゲームフリーク",
-          "score": 93
-        },
-        {
-          "keyword": "xbox",
-          "score": 92
-        },
-        {
-          "keyword": "ヒロウエノ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T01:00:45.972Z",
       "geo": "JP",
       "source": "google",
@@ -7518,6 +7471,53 @@
         },
         {
           "keyword": "エアドゥ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T23:41:58.988Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ばけばけ",
+          "score": 100
+        },
+        {
+          "keyword": "川崎宗則",
+          "score": 99
+        },
+        {
+          "keyword": "弘中綾香",
+          "score": 98
+        },
+        {
+          "keyword": "サブスク",
+          "score": 97
+        },
+        {
+          "keyword": "フィリピン",
+          "score": 96
+        },
+        {
+          "keyword": "ネットフリックス",
+          "score": 95
+        },
+        {
+          "keyword": "天気予報 寒波",
+          "score": 94
+        },
+        {
+          "keyword": "佐久間大介",
+          "score": 93
+        },
+        {
+          "keyword": "ラヴィット",
+          "score": 92
+        },
+        {
+          "keyword": "諏訪湖 御神渡り",
           "score": 91
         }
       ]
