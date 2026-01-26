@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T06:57:04.046Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "阿部一二三",
-          "score": 100
-        },
-        {
-          "keyword": "里見浩太朗",
-          "score": 99
-        },
-        {
-          "keyword": "田中真美子",
-          "score": 98
-        },
-        {
-          "keyword": "柏崎刈羽原発再稼働",
-          "score": 97
-        },
-        {
-          "keyword": "三菱ふそう",
-          "score": 96
-        },
-        {
-          "keyword": "ポケモンza アップデート",
-          "score": 95
-        },
-        {
-          "keyword": "肺炎",
-          "score": 94
-        },
-        {
-          "keyword": "キングス 対 ラプターズ",
-          "score": 93
-        },
-        {
-          "keyword": "新聞",
-          "score": 92
-        },
-        {
-          "keyword": "加藤一二三",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T07:23:47.393Z",
       "geo": "JP",
       "source": "google",
@@ -7518,6 +7471,53 @@
         },
         {
           "keyword": "wbc 放送",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T06:59:30.098Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "立教新座",
+          "score": 100
+        },
+        {
+          "keyword": "平和島競艇",
+          "score": 99
+        },
+        {
+          "keyword": "最高裁判所",
+          "score": 98
+        },
+        {
+          "keyword": "富士フイルム",
+          "score": 97
+        },
+        {
+          "keyword": "牧原大成",
+          "score": 96
+        },
+        {
+          "keyword": "ファナック",
+          "score": 95
+        },
+        {
+          "keyword": "三井住友カード キティ",
+          "score": 94
+        },
+        {
+          "keyword": "呂布カルマ",
+          "score": 93
+        },
+        {
+          "keyword": "固定資産税",
+          "score": 92
+        },
+        {
+          "keyword": "那覇空港",
           "score": 91
         }
       ]

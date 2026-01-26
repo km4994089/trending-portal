@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T06:57:02.758Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "전남대",
-          "score": 100
-        },
-        {
-          "keyword": "우리은행",
-          "score": 99
-        },
-        {
-          "keyword": "병무청",
-          "score": 98
-        },
-        {
-          "keyword": "최백호",
-          "score": 97
-        },
-        {
-          "keyword": "이정후",
-          "score": 96
-        },
-        {
-          "keyword": "하나은행",
-          "score": 95
-        },
-        {
-          "keyword": "손아섭",
-          "score": 94
-        },
-        {
-          "keyword": "박근혜",
-          "score": 93
-        },
-        {
-          "keyword": "엔드필드 리세마라",
-          "score": 92
-        },
-        {
-          "keyword": "강남인강",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T07:23:46.116Z",
       "geo": "KR",
       "source": "google",
@@ -7518,6 +7471,53 @@
         },
         {
           "keyword": "삼성sdi 주가",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T06:59:28.576Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "정현",
+          "score": 100
+        },
+        {
+          "keyword": "jin air",
+          "score": 99
+        },
+        {
+          "keyword": "금 시세",
+          "score": 98
+        },
+        {
+          "keyword": "테일러 프리츠",
+          "score": 97
+        },
+        {
+          "keyword": "조사4국",
+          "score": 96
+        },
+        {
+          "keyword": "에코프로",
+          "score": 95
+        },
+        {
+          "keyword": "한국외대",
+          "score": 94
+        },
+        {
+          "keyword": "매디슨 키스",
+          "score": 93
+        },
+        {
+          "keyword": "seahawks",
+          "score": 92
+        },
+        {
+          "keyword": "제주항공",
           "score": 91
         }
       ]
