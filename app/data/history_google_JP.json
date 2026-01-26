@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T08:54:40.726Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "熱海富士",
-          "score": 100
-        },
-        {
-          "keyword": "sl vs eng",
-          "score": 99
-        },
-        {
-          "keyword": "平戸海",
-          "score": 98
-        },
-        {
-          "keyword": "大相撲 観戦 有名人",
-          "score": 97
-        },
-        {
-          "keyword": "若隆景",
-          "score": 96
-        },
-        {
-          "keyword": "日豊本線",
-          "score": 95
-        },
-        {
-          "keyword": "旭山",
-          "score": 94
-        },
-        {
-          "keyword": "京セラ",
-          "score": 93
-        },
-        {
-          "keyword": "vct pacific 2026",
-          "score": 92
-        },
-        {
-          "keyword": "欧勝海",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T09:24:09.740Z",
       "geo": "JP",
       "source": "google",
@@ -7518,6 +7471,53 @@
         },
         {
           "keyword": "山陽 自動車 道",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T08:54:51.343Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ポケパークカントー",
+          "score": 100
+        },
+        {
+          "keyword": "cdtv",
+          "score": 99
+        },
+        {
+          "keyword": "馬場亮 成",
+          "score": 98
+        },
+        {
+          "keyword": "肉の日",
+          "score": 97
+        },
+        {
+          "keyword": "中国 習近平",
+          "score": 96
+        },
+        {
+          "keyword": "大鶴義丹",
+          "score": 95
+        },
+        {
+          "keyword": "24歳 高校生",
+          "score": 94
+        },
+        {
+          "keyword": "朝倉あき",
+          "score": 93
+        },
+        {
+          "keyword": "長嶋茂雄",
+          "score": 92
+        },
+        {
+          "keyword": "野口健",
           "score": 91
         }
       ]
