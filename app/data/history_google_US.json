@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T09:24:06.971Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "online lottery",
-          "score": 100
-        },
-        {
-          "keyword": "extreme cold warning",
-          "score": 99
-        },
-        {
-          "keyword": "the darwin incident",
-          "score": 98
-        },
-        {
-          "keyword": "tennis scores",
-          "score": 97
-        },
-        {
-          "keyword": "derrick lewis",
-          "score": 96
-        },
-        {
-          "keyword": "sl vs eng",
-          "score": 95
-        },
-        {
-          "keyword": "current interest rates",
-          "score": 94
-        },
-        {
-          "keyword": "jannik sinner",
-          "score": 93
-        },
-        {
-          "keyword": "sorana cîrstea",
-          "score": 92
-        },
-        {
-          "keyword": "casper ruud",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T09:52:10.060Z",
       "geo": "US",
       "source": "google",
@@ -7518,6 +7471,53 @@
         },
         {
           "keyword": "melbourne victory vs sydney fc",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T09:25:11.289Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ben shelton vs casper ruud",
+          "score": 100
+        },
+        {
+          "keyword": "buffalo",
+          "score": 99
+        },
+        {
+          "keyword": "freeze warning",
+          "score": 98
+        },
+        {
+          "keyword": "iga świątek",
+          "score": 97
+        },
+        {
+          "keyword": "camila osorio",
+          "score": 96
+        },
+        {
+          "keyword": "cow",
+          "score": 95
+        },
+        {
+          "keyword": "quinton aaron",
+          "score": 94
+        },
+        {
+          "keyword": "jewelry near me",
+          "score": 93
+        },
+        {
+          "keyword": "irs refund",
+          "score": 92
+        },
+        {
+          "keyword": "jannik sinner",
           "score": 91
         }
       ]
