@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T01:00:51.929Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "코스피",
-          "score": 100
-        },
-        {
-          "keyword": "현대차",
-          "score": 99
-        },
-        {
-          "keyword": "토스증권",
-          "score": 98
-        },
-        {
-          "keyword": "기장 산불",
-          "score": 97
-        },
-        {
-          "keyword": "와우넷",
-          "score": 96
-        },
-        {
-          "keyword": "เชลซี พบ ปาฟอส",
-          "score": 95
-        },
-        {
-          "keyword": "weather",
-          "score": 94
-        },
-        {
-          "keyword": "slavia đấu với barcelona",
-          "score": 93
-        },
-        {
-          "keyword": "chelsea vs pafos",
-          "score": 92
-        },
-        {
-          "keyword": "славия – барселона",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T03:17:59.008Z",
       "geo": "KR",
       "source": "google",
@@ -7518,6 +7471,53 @@
         },
         {
           "keyword": "홈플러스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T01:04:58.226Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "코스닥",
+          "score": 100
+        },
+        {
+          "keyword": "셀토스",
+          "score": 99
+        },
+        {
+          "keyword": "카카오페이",
+          "score": 98
+        },
+        {
+          "keyword": "srt 설 예매",
+          "score": 97
+        },
+        {
+          "keyword": "금값",
+          "score": 96
+        },
+        {
+          "keyword": "아이언",
+          "score": 95
+        },
+        {
+          "keyword": "patriots vs broncos",
+          "score": 94
+        },
+        {
+          "keyword": "인베스팅닷컴",
+          "score": 93
+        },
+        {
+          "keyword": "미국 셧다운",
+          "score": 92
+        },
+        {
+          "keyword": "리플",
           "score": 91
         }
       ]
