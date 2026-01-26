@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T10:51:41.796Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "school closings and delays",
-          "score": 100
-        },
-        {
-          "keyword": "weather boston",
-          "score": 99
-        },
-        {
-          "keyword": "wmur weather",
-          "score": 98
-        },
-        {
-          "keyword": "wsaz",
-          "score": 97
-        },
-        {
-          "keyword": "school closings today",
-          "score": 96
-        },
-        {
-          "keyword": "winter storm north carolina",
-          "score": 95
-        },
-        {
-          "keyword": "elena rybakina",
-          "score": 94
-        },
-        {
-          "keyword": "closings and delays",
-          "score": 93
-        },
-        {
-          "keyword": "wfsb weather",
-          "score": 92
-        },
-        {
-          "keyword": "irs refund",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T11:16:17.409Z",
       "geo": "US",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "septa",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T11:14:16.643Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "delta flight status",
+          "score": 100
+        },
+        {
+          "keyword": "charli xcx",
+          "score": 99
+        },
+        {
+          "keyword": "weather tampa",
+          "score": 98
+        },
+        {
+          "keyword": "how bad are the roads right now",
+          "score": 97
+        },
+        {
+          "keyword": "ct snow totals",
+          "score": 96
+        },
+        {
+          "keyword": "13abc snow emergency levels today",
+          "score": 95
+        },
+        {
+          "keyword": "road closures in alabama today",
+          "score": 94
+        },
+        {
+          "keyword": "delaware state of emergency",
+          "score": 93
+        },
+        {
+          "keyword": "harry styles amex presale",
+          "score": 92
+        },
+        {
+          "keyword": "breakfast sandwich",
           "score": 91
         }
       ]
