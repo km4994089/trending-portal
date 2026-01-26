@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T14:00:16.109Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "raymond james stadium",
-          "score": 100
-        },
-        {
-          "keyword": "shrinking",
-          "score": 99
-        },
-        {
-          "keyword": "kevin oleary",
-          "score": 98
-        },
-        {
-          "keyword": "kevin o'leary",
-          "score": 97
-        },
-        {
-          "keyword": "delroy lindo",
-          "score": 96
-        },
-        {
-          "keyword": "weather houston",
-          "score": 95
-        },
-        {
-          "keyword": "iheart",
-          "score": 94
-        },
-        {
-          "keyword": "economic calendar",
-          "score": 93
-        },
-        {
-          "keyword": "ticketmaster",
-          "score": 92
-        },
-        {
-          "keyword": "gma deals and steals",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T14:53:27.931Z",
       "geo": "US",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "allen iverson",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T14:26:39.393Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "freezing fog advisory",
+          "score": 100
+        },
+        {
+          "keyword": "chris madel",
+          "score": 99
+        },
+        {
+          "keyword": "today show",
+          "score": 98
+        },
+        {
+          "keyword": "jim curtis",
+          "score": 97
+        },
+        {
+          "keyword": "caitlin o'connor",
+          "score": 96
+        },
+        {
+          "keyword": "kanye west",
+          "score": 95
+        },
+        {
+          "keyword": "nigella lawson",
+          "score": 94
+        },
+        {
+          "keyword": "ionq",
+          "score": 93
+        },
+        {
+          "keyword": "amazon layoffs",
+          "score": 92
+        },
+        {
+          "keyword": "tom homan",
           "score": 91
         }
       ]
