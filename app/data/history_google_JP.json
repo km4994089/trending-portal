@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T05:21:11.876Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "藤沢工科高校",
-          "score": 100
-        },
-        {
-          "keyword": "jo1 大吾",
-          "score": 99
-        },
-        {
-          "keyword": "日本共産党",
-          "score": 98
-        },
-        {
-          "keyword": "シェイ・ギルジャス=アレクサンダー",
-          "score": 97
-        },
-        {
-          "keyword": "角川歴彦",
-          "score": 96
-        },
-        {
-          "keyword": "三森すずこ",
-          "score": 95
-        },
-        {
-          "keyword": "東京電力",
-          "score": 94
-        },
-        {
-          "keyword": "チャウヌ",
-          "score": 93
-        },
-        {
-          "keyword": "柳原可奈子",
-          "score": 92
-        },
-        {
-          "keyword": "ペリカンズ 対 ピストンズ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T05:50:03.752Z",
       "geo": "JP",
       "source": "google",
@@ -7518,6 +7471,53 @@
         },
         {
           "keyword": "スタバ 新作",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T05:26:52.784Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "侍ジャパン メンバー",
+          "score": 100
+        },
+        {
+          "keyword": "宮沢氷魚",
+          "score": 99
+        },
+        {
+          "keyword": "藤岡市上日野",
+          "score": 98
+        },
+        {
+          "keyword": "松本清張",
+          "score": 97
+        },
+        {
+          "keyword": "れいわ 大石",
+          "score": 96
+        },
+        {
+          "keyword": "五ノ井里奈",
+          "score": 95
+        },
+        {
+          "keyword": "れいわ新選組 大石あきこ",
+          "score": 94
+        },
+        {
+          "keyword": "東京駅",
+          "score": 93
+        },
+        {
+          "keyword": "クリッパーズ 対 ネッツ",
+          "score": 92
+        },
+        {
+          "keyword": "村上佳菜子",
           "score": 91
         }
       ]

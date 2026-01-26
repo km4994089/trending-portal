@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T05:21:10.578Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이정후",
-          "score": 100
-        },
-        {
-          "keyword": "하나은행",
-          "score": 99
-        },
-        {
-          "keyword": "손아섭",
-          "score": 98
-        },
-        {
-          "keyword": "박근혜",
-          "score": 97
-        },
-        {
-          "keyword": "엔드필드 리세마라",
-          "score": 96
-        },
-        {
-          "keyword": "서울보증보험",
-          "score": 95
-        },
-        {
-          "keyword": "강남인강",
-          "score": 94
-        },
-        {
-          "keyword": "정청래",
-          "score": 93
-        },
-        {
-          "keyword": "신한은행",
-          "score": 92
-        },
-        {
-          "keyword": "교육청",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T05:50:02.622Z",
       "geo": "KR",
       "source": "google",
@@ -7518,6 +7471,53 @@
         },
         {
           "keyword": "휴림로봇 주가",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T05:26:51.338Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "정철원 결혼식",
+          "score": 100
+        },
+        {
+          "keyword": "금 시세",
+          "score": 99
+        },
+        {
+          "keyword": "테일러 프리츠",
+          "score": 98
+        },
+        {
+          "keyword": "조사4국",
+          "score": 97
+        },
+        {
+          "keyword": "에코프로",
+          "score": 96
+        },
+        {
+          "keyword": "한국외대",
+          "score": 95
+        },
+        {
+          "keyword": "매디슨 키스",
+          "score": 94
+        },
+        {
+          "keyword": "seahawks",
+          "score": 93
+        },
+        {
+          "keyword": "제주항공",
+          "score": 92
+        },
+        {
+          "keyword": "레인보우로보틱스",
           "score": 91
         }
       ]

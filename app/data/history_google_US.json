@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T05:21:09.366Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "daniel craig",
-          "score": 100
-        },
-        {
-          "keyword": "arthur gea",
-          "score": 99
-        },
-        {
-          "keyword": "chris noth",
-          "score": 98
-        },
-        {
-          "keyword": "lukas dostal",
-          "score": 97
-        },
-        {
-          "keyword": "curt cignetti",
-          "score": 96
-        },
-        {
-          "keyword": "martin short",
-          "score": 95
-        },
-        {
-          "keyword": "usc",
-          "score": 94
-        },
-        {
-          "keyword": "mario kart world update",
-          "score": 93
-        },
-        {
-          "keyword": "avs",
-          "score": 92
-        },
-        {
-          "keyword": "ron perlman fallout",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T05:50:01.179Z",
       "geo": "US",
       "source": "google",
@@ -7518,6 +7471,53 @@
         },
         {
           "keyword": "grey's anatomy",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T05:26:50.041Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "gold",
+          "score": 100
+        },
+        {
+          "keyword": "goa",
+          "score": 99
+        },
+        {
+          "keyword": "kristen stewart",
+          "score": 98
+        },
+        {
+          "keyword": "elena rybakina",
+          "score": 97
+        },
+        {
+          "keyword": "luciano darderi",
+          "score": 96
+        },
+        {
+          "keyword": "mr bean mia khalifa",
+          "score": 95
+        },
+        {
+          "keyword": "ai detector",
+          "score": 94
+        },
+        {
+          "keyword": "ryan reynolds",
+          "score": 93
+        },
+        {
+          "keyword": "the sopranos",
+          "score": 92
+        },
+        {
+          "keyword": "kiernan shipka",
           "score": 91
         }
       ]
