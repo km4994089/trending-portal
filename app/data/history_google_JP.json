@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T07:46:07.328Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "高木豊",
-          "score": 100
-        },
-        {
-          "keyword": "いわき平競輪",
-          "score": 99
-        },
-        {
-          "keyword": "天野はな",
-          "score": 98
-        },
-        {
-          "keyword": "ナルト",
-          "score": 97
-        },
-        {
-          "keyword": "福岡大学",
-          "score": 96
-        },
-        {
-          "keyword": "西岡徳馬",
-          "score": 95
-        },
-        {
-          "keyword": "和田竜二",
-          "score": 94
-        },
-        {
-          "keyword": "全日本卓球",
-          "score": 93
-        },
-        {
-          "keyword": "東京マラソン",
-          "score": 92
-        },
-        {
-          "keyword": "阿部一二三",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T08:19:03.525Z",
       "geo": "JP",
       "source": "google",
@@ -7518,6 +7471,53 @@
         },
         {
           "keyword": "平和島競艇",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T07:48:23.510Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "児島競艇",
+          "score": 100
+        },
+        {
+          "keyword": "野口絵子",
+          "score": 99
+        },
+        {
+          "keyword": "衆議院議員総選挙",
+          "score": 98
+        },
+        {
+          "keyword": "山本舞香",
+          "score": 97
+        },
+        {
+          "keyword": "山陽 自動車 道",
+          "score": 96
+        },
+        {
+          "keyword": "九州 雪",
+          "score": 95
+        },
+        {
+          "keyword": "内閣総理大臣杯",
+          "score": 94
+        },
+        {
+          "keyword": "にゃんこ大戦争鬼滅コラボ",
+          "score": 93
+        },
+        {
+          "keyword": "バックカントリー",
+          "score": 92
+        },
+        {
+          "keyword": "野田佳彦 統一教会",
           "score": 91
         }
       ]
