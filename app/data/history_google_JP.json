@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-22T19:20:51.027Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "コストコ",
-          "score": 100
-        },
-        {
-          "keyword": "スーパーマリオブラザーズ ワンダー",
-          "score": 99
-        },
-        {
-          "keyword": "インテル株価",
-          "score": 98
-        },
-        {
-          "keyword": "神田うの",
-          "score": 97
-        },
-        {
-          "keyword": "uefaヨーロッパリーグ",
-          "score": 96
-        },
-        {
-          "keyword": "ネトフリ",
-          "score": 95
-        },
-        {
-          "keyword": "猪俣周杜",
-          "score": 94
-        },
-        {
-          "keyword": "ボローニャ 対 セルティック",
-          "score": 93
-        },
-        {
-          "keyword": "tbs",
-          "score": 92
-        },
-        {
-          "keyword": "岩渕麗楽",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-22T19:42:37.977Z",
       "geo": "JP",
       "source": "google",
@@ -7565,6 +7518,53 @@
         },
         {
           "keyword": "レクサス",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-26T19:22:24.459Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "天気天気",
+          "score": 100
+        },
+        {
+          "keyword": "のん",
+          "score": 99
+        },
+        {
+          "keyword": "netflix",
+          "score": 98
+        },
+        {
+          "keyword": "lol",
+          "score": 97
+        },
+        {
+          "keyword": "apple",
+          "score": 96
+        },
+        {
+          "keyword": "cien",
+          "score": 95
+        },
+        {
+          "keyword": "コードヴェイン2",
+          "score": 94
+        },
+        {
+          "keyword": "ロト6 2071回 当選番号",
+          "score": 93
+        },
+        {
+          "keyword": "横浜市 交通事故 速報",
+          "score": 92
+        },
+        {
+          "keyword": "小椋佳",
           "score": 91
         }
       ]
