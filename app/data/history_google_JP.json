@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T09:49:32.058Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "fgo",
-          "score": 100
-        },
-        {
-          "keyword": "バロー",
-          "score": 99
-        },
-        {
-          "keyword": "江戸川コナン失踪事件",
-          "score": 98
-        },
-        {
-          "keyword": "ameba",
-          "score": 97
-        },
-        {
-          "keyword": "田中千晴",
-          "score": 96
-        },
-        {
-          "keyword": "琴櫻",
-          "score": 95
-        },
-        {
-          "keyword": "abema",
-          "score": 94
-        },
-        {
-          "keyword": "大相撲結果",
-          "score": 93
-        },
-        {
-          "keyword": "串カツ田中",
-          "score": 92
-        },
-        {
-          "keyword": "wurts",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T10:15:18.588Z",
       "geo": "JP",
       "source": "google",
@@ -7471,6 +7424,53 @@
         },
         {
           "keyword": "喧嘩独学",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T09:53:15.279Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "カープ",
+          "score": 100
+        },
+        {
+          "keyword": "プーマ",
+          "score": 99
+        },
+        {
+          "keyword": "エリナ・スビトリナ",
+          "score": 98
+        },
+        {
+          "keyword": "アイプリバース",
+          "score": 97
+        },
+        {
+          "keyword": "スシロー ジョジョ コラボ",
+          "score": 96
+        },
+        {
+          "keyword": "ギガ",
+          "score": 95
+        },
+        {
+          "keyword": "諏訪市四賀",
+          "score": 94
+        },
+        {
+          "keyword": "富津市",
+          "score": 93
+        },
+        {
+          "keyword": "プレミアムバンダイ ドラゴンボール",
+          "score": 92
+        },
+        {
+          "keyword": "名鉄",
           "score": 91
         }
       ]

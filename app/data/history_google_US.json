@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T09:49:29.296Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "political",
-          "score": 100
-        },
-        {
-          "keyword": "tennis scores",
-          "score": 99
-        },
-        {
-          "keyword": "kai cenat clothing brand",
-          "score": 98
-        },
-        {
-          "keyword": "now",
-          "score": 97
-        },
-        {
-          "keyword": "cece",
-          "score": 96
-        },
-        {
-          "keyword": "chance",
-          "score": 95
-        },
-        {
-          "keyword": "nothing",
-          "score": 94
-        },
-        {
-          "keyword": "alliant energy",
-          "score": 93
-        },
-        {
-          "keyword": "today",
-          "score": 92
-        },
-        {
-          "keyword": "seat",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T10:15:15.852Z",
       "geo": "US",
       "source": "google",
@@ -7471,6 +7424,53 @@
         },
         {
           "keyword": "china coup",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T09:53:12.394Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "non fungible tokens",
+          "score": 100
+        },
+        {
+          "keyword": "carlos alcaraz",
+          "score": 99
+        },
+        {
+          "keyword": "gofundme",
+          "score": 98
+        },
+        {
+          "keyword": "england vs sri lanka",
+          "score": 97
+        },
+        {
+          "keyword": "travel",
+          "score": 96
+        },
+        {
+          "keyword": "alex de minaur",
+          "score": 95
+        },
+        {
+          "keyword": "freeze warning",
+          "score": 94
+        },
+        {
+          "keyword": "coco gauff",
+          "score": 93
+        },
+        {
+          "keyword": "wonder man release date",
+          "score": 92
+        },
+        {
+          "keyword": "john force racing",
           "score": 91
         }
       ]
