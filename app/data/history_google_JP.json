@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T08:51:54.150Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "獅司",
-          "score": 100
-        },
-        {
-          "keyword": "電車",
-          "score": 99
-        },
-        {
-          "keyword": "abematv",
-          "score": 98
-        },
-        {
-          "keyword": "運行状況",
-          "score": 97
-        },
-        {
-          "keyword": "川越線",
-          "score": 96
-        },
-        {
-          "keyword": "朝乃山",
-          "score": 95
-        },
-        {
-          "keyword": "電車 遅延",
-          "score": 94
-        },
-        {
-          "keyword": "熱海富士",
-          "score": 93
-        },
-        {
-          "keyword": "上野東京ライン",
-          "score": 92
-        },
-        {
-          "keyword": "相撲観戦 有名人 今日",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T09:20:59.335Z",
       "geo": "JP",
       "source": "google",
@@ -7471,6 +7424,53 @@
         },
         {
           "keyword": "十日町市",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T08:54:16.336Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ドバイもちもちクッキー",
+          "score": 100
+        },
+        {
+          "keyword": "鹿島建設",
+          "score": 99
+        },
+        {
+          "keyword": "喧嘩独学",
+          "score": 98
+        },
+        {
+          "keyword": "共同通信",
+          "score": 97
+        },
+        {
+          "keyword": "クロアチア",
+          "score": 96
+        },
+        {
+          "keyword": "田中真弓",
+          "score": 95
+        },
+        {
+          "keyword": "国民クイズ",
+          "score": 94
+        },
+        {
+          "keyword": "慶應義塾大学",
+          "score": 93
+        },
+        {
+          "keyword": "超かぐや姫 藤本タツキ",
+          "score": 92
+        },
+        {
+          "keyword": "トランプ関税",
           "score": 91
         }
       ]
