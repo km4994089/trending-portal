@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T07:43:51.163Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "照ノ富士",
-          "score": 100
-        },
-        {
-          "keyword": "光星竜",
-          "score": 99
-        },
-        {
-          "keyword": "伊勢ケ浜親方",
-          "score": 98
-        },
-        {
-          "keyword": "西山茉希",
-          "score": 97
-        },
-        {
-          "keyword": "旭富士",
-          "score": 96
-        },
-        {
-          "keyword": "スーパーマリオ",
-          "score": 95
-        },
-        {
-          "keyword": "炎鵬",
-          "score": 94
-        },
-        {
-          "keyword": "ソニー生命",
-          "score": 93
-        },
-        {
-          "keyword": "マイル修行",
-          "score": 92
-        },
-        {
-          "keyword": "メディアプレイヤー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T08:18:19.602Z",
       "geo": "JP",
       "source": "google",
@@ -7471,6 +7424,53 @@
         },
         {
           "keyword": "australian open",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T07:47:19.771Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "国民クイズ",
+          "score": 100
+        },
+        {
+          "keyword": "慶應義塾大学",
+          "score": 99
+        },
+        {
+          "keyword": "超かぐや姫 藤本タツキ",
+          "score": 98
+        },
+        {
+          "keyword": "トランプ関税",
+          "score": 97
+        },
+        {
+          "keyword": "h3ロケット",
+          "score": 96
+        },
+        {
+          "keyword": "十日町市",
+          "score": 95
+        },
+        {
+          "keyword": "北朝鮮",
+          "score": 94
+        },
+        {
+          "keyword": "カービィのエアライダー",
+          "score": 93
+        },
+        {
+          "keyword": "ガス人間",
+          "score": 92
+        },
+        {
+          "keyword": "信越化学工業 株価",
           "score": 91
         }
       ]

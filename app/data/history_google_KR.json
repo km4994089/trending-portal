@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T07:43:49.531Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "종로3가 화재",
-          "score": 100
-        },
-        {
-          "keyword": "현대무벡스",
-          "score": 99
-        },
-        {
-          "keyword": "호서대",
-          "score": 98
-        },
-        {
-          "keyword": "레인보우로보틱스",
-          "score": 97
-        },
-        {
-          "keyword": "고려대",
-          "score": 96
-        },
-        {
-          "keyword": "카를로스 알카라스",
-          "score": 95
-        },
-        {
-          "keyword": "다닐 메드베데프",
-          "score": 94
-        },
-        {
-          "keyword": "la 클리퍼스 대 la 레이커스",
-          "score": 93
-        },
-        {
-          "keyword": "류시원",
-          "score": 92
-        },
-        {
-          "keyword": "최은석",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T08:18:18.415Z",
       "geo": "KR",
       "source": "google",
@@ -7471,6 +7424,53 @@
         },
         {
           "keyword": "칸예",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T07:47:18.649Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "시드니 스위니",
+          "score": 100
+        },
+        {
+          "keyword": "국세청장",
+          "score": 99
+        },
+        {
+          "keyword": "권순우",
+          "score": 98
+        },
+        {
+          "keyword": "판빙빙",
+          "score": 97
+        },
+        {
+          "keyword": "전북대",
+          "score": 96
+        },
+        {
+          "keyword": "하이닉스 주가",
+          "score": 95
+        },
+        {
+          "keyword": "하이닉스",
+          "score": 94
+        },
+        {
+          "keyword": "알렉산더 즈베레프",
+          "score": 93
+        },
+        {
+          "keyword": "칸예",
+          "score": 92
+        },
+        {
+          "keyword": "ev5",
           "score": 91
         }
       ]
