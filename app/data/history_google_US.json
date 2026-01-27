@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T21:12:31.297Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "michael siani",
-          "score": 100
-        },
-        {
-          "keyword": "umich",
-          "score": 99
-        },
-        {
-          "keyword": "kellen mond",
-          "score": 98
-        },
-        {
-          "keyword": "marcus moller",
-          "score": 97
-        },
-        {
-          "keyword": "university of michigan",
-          "score": 96
-        },
-        {
-          "keyword": "kennesaw state basketball",
-          "score": 95
-        },
-        {
-          "keyword": "karrueche tran",
-          "score": 94
-        },
-        {
-          "keyword": "pga",
-          "score": 93
-        },
-        {
-          "keyword": "pga leaderboard",
-          "score": 92
-        },
-        {
-          "keyword": "furman basketball",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T21:40:29.950Z",
       "geo": "US",
       "source": "google",
@@ -7424,6 +7377,53 @@
         },
         {
           "keyword": "india u-19 vs zimbabwe u-19",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T21:39:18.924Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "snow squall",
+          "score": 100
+        },
+        {
+          "keyword": "snow squall warning",
+          "score": 99
+        },
+        {
+          "keyword": "guilford county schools",
+          "score": 98
+        },
+        {
+          "keyword": "stx stock",
+          "score": 97
+        },
+        {
+          "keyword": "txn stock",
+          "score": 96
+        },
+        {
+          "keyword": "trump iowa",
+          "score": 95
+        },
+        {
+          "keyword": "dcps",
+          "score": 94
+        },
+        {
+          "keyword": "dxy",
+          "score": 93
+        },
+        {
+          "keyword": "freezing fog",
+          "score": 92
+        },
+        {
+          "keyword": "zach nunn",
           "score": 91
         }
       ]

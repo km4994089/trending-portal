@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T21:12:34.017Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "衆議院 選挙区",
-          "score": 100
-        },
-        {
-          "keyword": "セリエa",
-          "score": 99
-        },
-        {
-          "keyword": "山本建",
-          "score": 98
-        },
-        {
-          "keyword": "九州自動車道",
-          "score": 97
-        },
-        {
-          "keyword": "インテル株価",
-          "score": 96
-        },
-        {
-          "keyword": "エンドフィールド 編成",
-          "score": 95
-        },
-        {
-          "keyword": "grok",
-          "score": 94
-        },
-        {
-          "keyword": "インテル 対 ピサ",
-          "score": 93
-        },
-        {
-          "keyword": "凱旋門賞",
-          "score": 92
-        },
-        {
-          "keyword": "ホロライブ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T21:40:32.661Z",
       "geo": "JP",
       "source": "google",
@@ -7424,6 +7377,53 @@
         },
         {
           "keyword": "転生保険株式会社 r.i.p",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T21:39:21.546Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "水上恒司",
+          "score": 100
+        },
+        {
+          "keyword": "沖縄 天気",
+          "score": 99
+        },
+        {
+          "keyword": "jr北海道 運行状況",
+          "score": 98
+        },
+        {
+          "keyword": "円高",
+          "score": 97
+        },
+        {
+          "keyword": "ソフトバンク",
+          "score": 96
+        },
+        {
+          "keyword": "usd jpy",
+          "score": 95
+        },
+        {
+          "keyword": "大島由香里",
+          "score": 94
+        },
+        {
+          "keyword": "f1",
+          "score": 93
+        },
+        {
+          "keyword": "fomc",
+          "score": 92
+        },
+        {
+          "keyword": "給付金",
           "score": 91
         }
       ]
