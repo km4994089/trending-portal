@@ -1,10 +1,14 @@
 {
-  "capturedAt": "2026-01-27T21:39:20.188Z",
+  "capturedAt": "2026-01-27T22:14:20.249Z",
   "geo": "KR",
   "source": "google",
   "items": [
     {
-      "keyword": "애플 주가",
+      "keyword": "달러인덱스",
+      "articles": []
+    },
+    {
+      "keyword": "moltbot",
       "articles": []
     },
     {
@@ -37,10 +41,6 @@
     },
     {
       "keyword": "쿠팡 주가",
-      "articles": []
-    },
-    {
-      "keyword": "워너원",
       "articles": []
     }
   ]
