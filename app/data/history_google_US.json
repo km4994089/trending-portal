@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T04:26:07.262Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mike modano",
-          "score": 100
-        },
-        {
-          "keyword": "sig sauer",
-          "score": 99
-        },
-        {
-          "keyword": "sonmez tennis",
-          "score": 98
-        },
-        {
-          "keyword": "lakers vs la clippers match player stats",
-          "score": 97
-        },
-        {
-          "keyword": "ivica zubac",
-          "score": 96
-        },
-        {
-          "keyword": "austin reaves",
-          "score": 95
-        },
-        {
-          "keyword": "amber alert kansas city",
-          "score": 94
-        },
-        {
-          "keyword": "jake laravia",
-          "score": 93
-        },
-        {
-          "keyword": "portland state basketball",
-          "score": 92
-        },
-        {
-          "keyword": "chris cuomo",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T04:58:34.772Z",
       "geo": "US",
       "source": "google",
@@ -7518,6 +7471,53 @@
         },
         {
           "keyword": "scott bessent",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T04:29:33.638Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "brandin podziemski",
+          "score": 100
+        },
+        {
+          "keyword": "julius randle",
+          "score": 99
+        },
+        {
+          "keyword": "north west",
+          "score": 98
+        },
+        {
+          "keyword": "jaden mcdaniels",
+          "score": 97
+        },
+        {
+          "keyword": "rudy gobert",
+          "score": 96
+        },
+        {
+          "keyword": "kennedy",
+          "score": 95
+        },
+        {
+          "keyword": "derrick white",
+          "score": 94
+        },
+        {
+          "keyword": "caleb love",
+          "score": 93
+        },
+        {
+          "keyword": "bones hyland",
+          "score": 92
+        },
+        {
+          "keyword": "jaylen brown",
           "score": 91
         }
       ]
