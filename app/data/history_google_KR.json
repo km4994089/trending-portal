@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T18:19:55.715Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "u23",
-          "score": 100
-        },
-        {
-          "keyword": "한국 베트남",
-          "score": 99
-        },
-        {
-          "keyword": "cricbuzz",
-          "score": 98
-        },
-        {
-          "keyword": "afc u-23 축구 선수권 대회",
-          "score": 97
-        },
-        {
-          "keyword": "조봉행",
-          "score": 96
-        },
-        {
-          "keyword": "최백호",
-          "score": 95
-        },
-        {
-          "keyword": "u-23 việt nam đấu với u-23 hàn quốc",
-          "score": 94
-        },
-        {
-          "keyword": "아리아나 그란데",
-          "score": 93
-        },
-        {
-          "keyword": "배나라",
-          "score": 92
-        },
-        {
-          "keyword": "비서진",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T18:55:46.568Z",
       "geo": "KR",
       "source": "google",
@@ -7424,6 +7377,53 @@
         },
         {
           "keyword": "이선빈",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T18:24:50.207Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "웹툰",
+          "score": 100
+        },
+        {
+          "keyword": "서강준",
+          "score": 99
+        },
+        {
+          "keyword": "리즈",
+          "score": 98
+        },
+        {
+          "keyword": "현역가왕3",
+          "score": 97
+        },
+        {
+          "keyword": "하이량",
+          "score": 96
+        },
+        {
+          "keyword": "워너원",
+          "score": 95
+        },
+        {
+          "keyword": "금잔디",
+          "score": 94
+        },
+        {
+          "keyword": "채널a",
+          "score": 93
+        },
+        {
+          "keyword": "nipah virus",
+          "score": 92
+        },
+        {
+          "keyword": "최미나수",
           "score": 91
         }
       ]
