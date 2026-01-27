@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T12:26:41.959Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "andy robertson",
-          "score": 100
-        },
-        {
-          "keyword": "ruse tennis",
-          "score": 99
-        },
-        {
-          "keyword": "gasparilla 2026",
-          "score": 98
-        },
-        {
-          "keyword": "molly qerim",
-          "score": 97
-        },
-        {
-          "keyword": "columbus weather",
-          "score": 96
-        },
-        {
-          "keyword": "amanda anisimova",
-          "score": 95
-        },
-        {
-          "keyword": "weather denver",
-          "score": 94
-        },
-        {
-          "keyword": "weather philadelphia",
-          "score": 93
-        },
-        {
-          "keyword": "local weather",
-          "score": 92
-        },
-        {
-          "keyword": "omaha weather",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T13:14:30.062Z",
       "geo": "US",
       "source": "google",
@@ -7471,6 +7424,53 @@
         },
         {
           "keyword": "is school closed today",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T12:27:24.115Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "is school open today",
+          "score": 100
+        },
+        {
+          "keyword": "bafta nominations 2026",
+          "score": 99
+        },
+        {
+          "keyword": "mta",
+          "score": 98
+        },
+        {
+          "keyword": "khaby lame",
+          "score": 97
+        },
+        {
+          "keyword": "india eu trade deal",
+          "score": 96
+        },
+        {
+          "keyword": "australian open",
+          "score": 95
+        },
+        {
+          "keyword": "al roker",
+          "score": 94
+        },
+        {
+          "keyword": "tennis scores today",
+          "score": 93
+        },
+        {
+          "keyword": "montgomery county public schools",
+          "score": 92
+        },
+        {
+          "keyword": "claire danes",
           "score": 91
         }
       ]
