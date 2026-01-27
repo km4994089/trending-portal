@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T09:20:56.697Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "alliant energy",
-          "score": 100
-        },
-        {
-          "keyword": "seat",
-          "score": 99
-        },
-        {
-          "keyword": "streamex",
-          "score": 98
-        },
-        {
-          "keyword": "mark kerr",
-          "score": 97
-        },
-        {
-          "keyword": "alexander bublik",
-          "score": 96
-        },
-        {
-          "keyword": "stuff",
-          "score": 95
-        },
-        {
-          "keyword": "event",
-          "score": 94
-        },
-        {
-          "keyword": "better",
-          "score": 93
-        },
-        {
-          "keyword": "election",
-          "score": 92
-        },
-        {
-          "keyword": "price",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T09:49:29.296Z",
       "geo": "US",
       "source": "google",
@@ -7471,6 +7424,53 @@
         },
         {
           "keyword": "singles inferno",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T09:23:41.143Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "alex de minaur",
+          "score": 100
+        },
+        {
+          "keyword": "freeze warning",
+          "score": 99
+        },
+        {
+          "keyword": "coco gauff",
+          "score": 98
+        },
+        {
+          "keyword": "wonder man release date",
+          "score": 97
+        },
+        {
+          "keyword": "john force racing",
+          "score": 96
+        },
+        {
+          "keyword": "resident evil requiem",
+          "score": 95
+        },
+        {
+          "keyword": "terraria 1.4.5",
+          "score": 94
+        },
+        {
+          "keyword": "nba golden state warriors",
+          "score": 93
+        },
+        {
+          "keyword": "solo hunters codes",
+          "score": 92
+        },
+        {
+          "keyword": "china coup",
           "score": 91
         }
       ]

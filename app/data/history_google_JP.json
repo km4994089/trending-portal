@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T09:20:59.335Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "相撲",
-          "score": 100
-        },
-        {
-          "keyword": "abema",
-          "score": 99
-        },
-        {
-          "keyword": "串カツ田中",
-          "score": 98
-        },
-        {
-          "keyword": "wurts",
-          "score": 97
-        },
-        {
-          "keyword": "霧島",
-          "score": 96
-        },
-        {
-          "keyword": "電車",
-          "score": 95
-        },
-        {
-          "keyword": "獅司",
-          "score": 94
-        },
-        {
-          "keyword": "abematv",
-          "score": 93
-        },
-        {
-          "keyword": "運行状況",
-          "score": 92
-        },
-        {
-          "keyword": "川越線",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T09:49:32.058Z",
       "geo": "JP",
       "source": "google",
@@ -7471,6 +7424,53 @@
         },
         {
           "keyword": "トランプ関税",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T09:23:43.641Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ギガ",
+          "score": 100
+        },
+        {
+          "keyword": "富津市",
+          "score": 99
+        },
+        {
+          "keyword": "名鉄",
+          "score": 98
+        },
+        {
+          "keyword": "プレミアムバンダイ ドラゴンボール",
+          "score": 97
+        },
+        {
+          "keyword": "sl vs eng",
+          "score": 96
+        },
+        {
+          "keyword": "諏訪市 山火事",
+          "score": 95
+        },
+        {
+          "keyword": "松原千明",
+          "score": 94
+        },
+        {
+          "keyword": "ドバイクッキー",
+          "score": 93
+        },
+        {
+          "keyword": "鹿島建設",
+          "score": 92
+        },
+        {
+          "keyword": "喧嘩独学",
           "score": 91
         }
       ]
