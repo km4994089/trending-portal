@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T11:13:09.949Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "school closings and delays",
-          "score": 100
-        },
-        {
-          "keyword": "schools closed today",
-          "score": 99
-        },
-        {
-          "keyword": "closings",
-          "score": 98
-        },
-        {
-          "keyword": "louisville weather",
-          "score": 97
-        },
-        {
-          "keyword": "milwaukee weather",
-          "score": 96
-        },
-        {
-          "keyword": "pilot",
-          "score": 95
-        },
-        {
-          "keyword": "knoxville weather",
-          "score": 94
-        },
-        {
-          "keyword": "chattanooga weather",
-          "score": 93
-        },
-        {
-          "keyword": "wbz weather",
-          "score": 92
-        },
-        {
-          "keyword": "dc weather",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T11:40:19.072Z",
       "geo": "US",
       "source": "google",
@@ -7471,6 +7424,53 @@
         },
         {
           "keyword": "gofundme",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T11:16:04.685Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lawrence jones",
+          "score": 100
+        },
+        {
+          "keyword": "australian open results",
+          "score": 99
+        },
+        {
+          "keyword": "alerta por frío extremo",
+          "score": 98
+        },
+        {
+          "keyword": "is school closed today",
+          "score": 97
+        },
+        {
+          "keyword": "weather miami",
+          "score": 96
+        },
+        {
+          "keyword": "gwinnett county schools",
+          "score": 95
+        },
+        {
+          "keyword": "kylie kelce",
+          "score": 94
+        },
+        {
+          "keyword": "nhl teams",
+          "score": 93
+        },
+        {
+          "keyword": "mbta",
+          "score": 92
+        },
+        {
+          "keyword": "irs where's my refund",
           "score": 91
         }
       ]
