@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T15:16:26.467Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "羽生結弦",
-          "score": 100
-        },
-        {
-          "keyword": "サカナai",
-          "score": 99
-        },
-        {
-          "keyword": "安室奈美恵",
-          "score": 98
-        },
-        {
-          "keyword": "せいや",
-          "score": 97
-        },
-        {
-          "keyword": "レーヴァテイン",
-          "score": 96
-        },
-        {
-          "keyword": "ローリーズファーム ちいかわ",
-          "score": 95
-        },
-        {
-          "keyword": "坂口健太郎",
-          "score": 94
-        },
-        {
-          "keyword": "コードヴェイン2",
-          "score": 93
-        },
-        {
-          "keyword": "sam",
-          "score": 92
-        },
-        {
-          "keyword": "加藤あい",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T15:46:46.660Z",
       "geo": "JP",
       "source": "google",
@@ -7424,6 +7377,53 @@
         },
         {
           "keyword": "奥野卓志",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T15:22:17.387Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "益若つばさ",
+          "score": 100
+        },
+        {
+          "keyword": "堀江 貴文",
+          "score": 99
+        },
+        {
+          "keyword": "ホリエモン",
+          "score": 98
+        },
+        {
+          "keyword": "グランドシネマサンシャイン 池袋",
+          "score": 97
+        },
+        {
+          "keyword": "高梨沙羅",
+          "score": 96
+        },
+        {
+          "keyword": "狩野英孝",
+          "score": 95
+        },
+        {
+          "keyword": "ミラノ",
+          "score": 94
+        },
+        {
+          "keyword": "ミラノコルティナオリンピック",
+          "score": 93
+        },
+        {
+          "keyword": "紅しょうが 稲田",
+          "score": 92
+        },
+        {
+          "keyword": "衆議院 選挙区",
           "score": 91
         }
       ]

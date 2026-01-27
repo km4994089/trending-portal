@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T15:16:23.752Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "amd",
-          "score": 100
-        },
-        {
-          "keyword": "matt nagy",
-          "score": 99
-        },
-        {
-          "keyword": "colorado springs weather",
-          "score": 98
-        },
-        {
-          "keyword": "interland",
-          "score": 97
-        },
-        {
-          "keyword": "ryan wedding",
-          "score": 96
-        },
-        {
-          "keyword": "daryl mitchell",
-          "score": 95
-        },
-        {
-          "keyword": "vietnam u-23 vs south korea u-23",
-          "score": 94
-        },
-        {
-          "keyword": "claire foy",
-          "score": 93
-        },
-        {
-          "keyword": "giovanni primo blount",
-          "score": 92
-        },
-        {
-          "keyword": "benin",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T15:46:44.200Z",
       "geo": "US",
       "source": "google",
@@ -7424,6 +7377,53 @@
         },
         {
           "keyword": "miracle on ice",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T15:22:14.692Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "slv",
+          "score": 100
+        },
+        {
+          "keyword": "netflix stranger things",
+          "score": 99
+        },
+        {
+          "keyword": "rdw stock",
+          "score": 98
+        },
+        {
+          "keyword": "darian mensah",
+          "score": 97
+        },
+        {
+          "keyword": "whitney leavitt",
+          "score": 96
+        },
+        {
+          "keyword": "alex vindman",
+          "score": 95
+        },
+        {
+          "keyword": "tricia mclaughlin",
+          "score": 94
+        },
+        {
+          "keyword": "fog delays bakersfield",
+          "score": 93
+        },
+        {
+          "keyword": "jerry o'connell",
+          "score": 92
+        },
+        {
+          "keyword": "lunda wells",
           "score": 91
         }
       ]
