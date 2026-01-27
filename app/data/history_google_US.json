@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T15:46:44.200Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dylan efron",
-          "score": 100
-        },
-        {
-          "keyword": "tesla autopilot",
-          "score": 99
-        },
-        {
-          "keyword": "miss rachel",
-          "score": 98
-        },
-        {
-          "keyword": "lego crocs",
-          "score": 97
-        },
-        {
-          "keyword": "amd",
-          "score": 96
-        },
-        {
-          "keyword": "luke bryan tour",
-          "score": 95
-        },
-        {
-          "keyword": "matt nagy",
-          "score": 94
-        },
-        {
-          "keyword": "colorado springs weather",
-          "score": 93
-        },
-        {
-          "keyword": "interland",
-          "score": 92
-        },
-        {
-          "keyword": "rachin ravindra",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T16:18:01.797Z",
       "geo": "US",
       "source": "google",
@@ -7424,6 +7377,53 @@
         },
         {
           "keyword": "lunda wells",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T15:48:59.481Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "arijit singh",
+          "score": 100
+        },
+        {
+          "keyword": "will forte",
+          "score": 99
+        },
+        {
+          "keyword": "vladimir netflix",
+          "score": 98
+        },
+        {
+          "keyword": "sa vs wi",
+          "score": 97
+        },
+        {
+          "keyword": "us attorney lindsey halligan",
+          "score": 96
+        },
+        {
+          "keyword": "amazon fresh",
+          "score": 95
+        },
+        {
+          "keyword": "netflix stranger things",
+          "score": 94
+        },
+        {
+          "keyword": "slv",
+          "score": 93
+        },
+        {
+          "keyword": "rdw stock",
+          "score": 92
+        },
+        {
+          "keyword": "darian mensah",
           "score": 91
         }
       ]

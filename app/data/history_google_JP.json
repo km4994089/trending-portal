@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T15:46:46.660Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "今治造船",
-          "score": 100
-        },
-        {
-          "keyword": "メダリスト 2期",
-          "score": 99
-        },
-        {
-          "keyword": "jmu",
-          "score": 98
-        },
-        {
-          "keyword": "小出慶二容疑者",
-          "score": 97
-        },
-        {
-          "keyword": "白谷柱誠ジャック",
-          "score": 96
-        },
-        {
-          "keyword": "羽生結弦",
-          "score": 95
-        },
-        {
-          "keyword": "サカナai",
-          "score": 94
-        },
-        {
-          "keyword": "せいや",
-          "score": 93
-        },
-        {
-          "keyword": "安室奈美恵",
-          "score": 92
-        },
-        {
-          "keyword": "レーヴァテイン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T16:18:04.393Z",
       "geo": "JP",
       "source": "google",
@@ -7424,6 +7377,53 @@
         },
         {
           "keyword": "衆議院 選挙区",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T15:49:02.144Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "パーキンソン病",
+          "score": 100
+        },
+        {
+          "keyword": "ヨッシー",
+          "score": 99
+        },
+        {
+          "keyword": "玉山鉄二",
+          "score": 98
+        },
+        {
+          "keyword": "ランニングマン",
+          "score": 97
+        },
+        {
+          "keyword": "又吉直樹",
+          "score": 96
+        },
+        {
+          "keyword": "脱出おひとり島",
+          "score": 95
+        },
+        {
+          "keyword": "益若つばさ",
+          "score": 94
+        },
+        {
+          "keyword": "ホリエモン",
+          "score": 93
+        },
+        {
+          "keyword": "堀江 貴文",
+          "score": 92
+        },
+        {
+          "keyword": "グランドシネマサンシャイン 池袋",
           "score": 91
         }
       ]
