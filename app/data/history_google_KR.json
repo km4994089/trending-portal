@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T03:13:54.898Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "스테이블코인",
-          "score": 100
-        },
-        {
-          "keyword": "이혜훈",
-          "score": 99
-        },
-        {
-          "keyword": "카카오페이",
-          "score": 98
-        },
-        {
-          "keyword": "임이자",
-          "score": 97
-        },
-        {
-          "keyword": "이승주",
-          "score": 96
-        },
-        {
-          "keyword": "파파다키스",
-          "score": 95
-        },
-        {
-          "keyword": "휴림로봇",
-          "score": 94
-        },
-        {
-          "keyword": "별사랑",
-          "score": 93
-        },
-        {
-          "keyword": "국세청 연말 정산 간소화 서비스",
-          "score": 92
-        },
-        {
-          "keyword": "pbr",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T04:26:08.534Z",
       "geo": "KR",
       "source": "google",
@@ -7518,6 +7471,53 @@
         },
         {
           "keyword": "아이온큐",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T03:18:52.698Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "미네소타 대 골든 스테이트",
+          "score": 100
+        },
+        {
+          "keyword": "솜혜빈",
+          "score": 99
+        },
+        {
+          "keyword": "네이버 주가",
+          "score": 98
+        },
+        {
+          "keyword": "현대차 주가",
+          "score": 97
+        },
+        {
+          "keyword": "현대자동차 주가",
+          "score": 96
+        },
+        {
+          "keyword": "코스닥 150",
+          "score": 95
+        },
+        {
+          "keyword": "srt",
+          "score": 94
+        },
+        {
+          "keyword": "srt 설 예매",
+          "score": 93
+        },
+        {
+          "keyword": "갤럭시북6",
+          "score": 92
+        },
+        {
+          "keyword": "관세",
           "score": 91
         }
       ]
