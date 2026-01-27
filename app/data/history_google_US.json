@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T08:18:17.136Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "market",
-          "score": 100
-        },
-        {
-          "keyword": "month",
-          "score": 99
-        },
-        {
-          "keyword": "energy",
-          "score": 98
-        },
-        {
-          "keyword": "sport",
-          "score": 97
-        },
-        {
-          "keyword": "new zealand breakers",
-          "score": 96
-        },
-        {
-          "keyword": "nation",
-          "score": 95
-        },
-        {
-          "keyword": "pick",
-          "score": 94
-        },
-        {
-          "keyword": "crime",
-          "score": 93
-        },
-        {
-          "keyword": "jack nicholson",
-          "score": 92
-        },
-        {
-          "keyword": "vote",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T08:51:51.837Z",
       "geo": "US",
       "source": "google",
@@ -7471,6 +7424,53 @@
         },
         {
           "keyword": "olivia munn",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T08:20:06.703Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "terraria 1.4.5",
+          "score": 100
+        },
+        {
+          "keyword": "nba golden state warriors",
+          "score": 99
+        },
+        {
+          "keyword": "solo hunters codes",
+          "score": 98
+        },
+        {
+          "keyword": "china coup",
+          "score": 97
+        },
+        {
+          "keyword": "max holloway",
+          "score": 96
+        },
+        {
+          "keyword": "singles inferno",
+          "score": 95
+        },
+        {
+          "keyword": "alcaraz vs de minaur",
+          "score": 94
+        },
+        {
+          "keyword": "personal injury attorneys",
+          "score": 93
+        },
+        {
+          "keyword": "finding her edge season 2",
+          "score": 92
+        },
+        {
+          "keyword": "richard gere",
           "score": 91
         }
       ]

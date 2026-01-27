@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T08:18:19.602Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "間原寛",
-          "score": 100
-        },
-        {
-          "keyword": "高崎線",
-          "score": 99
-        },
-        {
-          "keyword": "まどかマギカ 映画",
-          "score": 98
-        },
-        {
-          "keyword": "為替介入",
-          "score": 97
-        },
-        {
-          "keyword": "赤羽",
-          "score": 96
-        },
-        {
-          "keyword": "休場",
-          "score": 95
-        },
-        {
-          "keyword": "埼京線",
-          "score": 94
-        },
-        {
-          "keyword": "藤ノ川",
-          "score": 93
-        },
-        {
-          "keyword": "朝青龍",
-          "score": 92
-        },
-        {
-          "keyword": "照ノ富士",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T08:51:54.150Z",
       "geo": "JP",
       "source": "google",
@@ -7471,6 +7424,53 @@
         },
         {
           "keyword": "信越化学工業 株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T08:20:09.508Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "クロアチア",
+          "score": 100
+        },
+        {
+          "keyword": "喧嘩独学",
+          "score": 99
+        },
+        {
+          "keyword": "共同通信",
+          "score": 98
+        },
+        {
+          "keyword": "田中真弓",
+          "score": 97
+        },
+        {
+          "keyword": "国民クイズ",
+          "score": 96
+        },
+        {
+          "keyword": "慶應義塾大学",
+          "score": 95
+        },
+        {
+          "keyword": "超かぐや姫 藤本タツキ",
+          "score": 94
+        },
+        {
+          "keyword": "トランプ関税",
+          "score": 93
+        },
+        {
+          "keyword": "h3ロケット",
+          "score": 92
+        },
+        {
+          "keyword": "十日町市",
           "score": 91
         }
       ]
