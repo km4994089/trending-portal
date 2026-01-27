@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T05:27:21.007Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "タイマー",
-          "score": 100
-        },
-        {
-          "keyword": "北陸自動車道",
-          "score": 99
-        },
-        {
-          "keyword": "たいまー",
-          "score": 98
-        },
-        {
-          "keyword": "まどマギ",
-          "score": 97
-        },
-        {
-          "keyword": "キムヨナ",
-          "score": 96
-        },
-        {
-          "keyword": "小日向将人",
-          "score": 95
-        },
-        {
-          "keyword": "ジャズ 対 スパーズ",
-          "score": 94
-        },
-        {
-          "keyword": "浅田真央",
-          "score": 93
-        },
-        {
-          "keyword": "増田惠子",
-          "score": 92
-        },
-        {
-          "keyword": "rizin",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T05:49:57.171Z",
       "geo": "JP",
       "source": "google",
@@ -7518,6 +7471,53 @@
         },
         {
           "keyword": "政党マッチング",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T05:48:25.462Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ラヴェニュー",
+          "score": 100
+        },
+        {
+          "keyword": "バンダイナムコ",
+          "score": 99
+        },
+        {
+          "keyword": "千葉県",
+          "score": 98
+        },
+        {
+          "keyword": "近藤健介",
+          "score": 97
+        },
+        {
+          "keyword": "ラブパワーキングダム",
+          "score": 96
+        },
+        {
+          "keyword": "北洋銀行",
+          "score": 95
+        },
+        {
+          "keyword": "ラーナー・ティエン",
+          "score": 94
+        },
+        {
+          "keyword": "藤田瞳子",
+          "score": 93
+        },
+        {
+          "keyword": "ボンボンドロップ",
+          "score": 92
+        },
+        {
+          "keyword": "音無美紀子",
           "score": 91
         }
       ]
