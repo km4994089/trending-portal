@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T20:15:05.498Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "furman basketball",
-          "score": 100
-        },
-        {
-          "keyword": "el chapo",
-          "score": 99
-        },
-        {
-          "keyword": "ligue 1",
-          "score": 98
-        },
-        {
-          "keyword": "dylan o'brien",
-          "score": 97
-        },
-        {
-          "keyword": "new haven basketball",
-          "score": 96
-        },
-        {
-          "keyword": "fc st. pauli vs hamburger sv",
-          "score": 95
-        },
-        {
-          "keyword": "cte",
-          "score": 94
-        },
-        {
-          "keyword": "inter vs pisa",
-          "score": 93
-        },
-        {
-          "keyword": "levante - elche c. f.",
-          "score": 92
-        },
-        {
-          "keyword": "inter - pisa",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T20:45:05.846Z",
       "geo": "US",
       "source": "google",
@@ -7424,6 +7377,53 @@
         },
         {
           "keyword": "texas southern basketball",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T20:44:08.401Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "richardson isd",
+          "score": 100
+        },
+        {
+          "keyword": "baltimore city public schools",
+          "score": 99
+        },
+        {
+          "keyword": "india u-19 vs zimbabwe u-19",
+          "score": 98
+        },
+        {
+          "keyword": "coppa italia",
+          "score": 97
+        },
+        {
+          "keyword": "lisd",
+          "score": 96
+        },
+        {
+          "keyword": "senior bowl 2026",
+          "score": 95
+        },
+        {
+          "keyword": "frisco isd",
+          "score": 94
+        },
+        {
+          "keyword": "jim leonhard",
+          "score": 93
+        },
+        {
+          "keyword": "arizona shooting",
+          "score": 92
+        },
+        {
+          "keyword": "plano isd",
           "score": 91
         }
       ]
