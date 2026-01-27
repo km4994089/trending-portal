@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T20:45:08.840Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "山本建",
-          "score": 100
-        },
-        {
-          "keyword": "九州自動車道",
-          "score": 99
-        },
-        {
-          "keyword": "インテル株価",
-          "score": 98
-        },
-        {
-          "keyword": "エンドフィールド 編成",
-          "score": 97
-        },
-        {
-          "keyword": "grok",
-          "score": 96
-        },
-        {
-          "keyword": "インテル 対 ピサ",
-          "score": 95
-        },
-        {
-          "keyword": "凱旋門賞",
-          "score": 94
-        },
-        {
-          "keyword": "ホロライブ",
-          "score": 93
-        },
-        {
-          "keyword": "超特急",
-          "score": 92
-        },
-        {
-          "keyword": "prime video",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T21:12:34.017Z",
       "geo": "JP",
       "source": "google",
@@ -7424,6 +7377,53 @@
         },
         {
           "keyword": "星野源",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T21:10:46.923Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ドル円チャート",
+          "score": 100
+        },
+        {
+          "keyword": "ジェイアール北海道",
+          "score": 99
+        },
+        {
+          "keyword": "大島由香里",
+          "score": 98
+        },
+        {
+          "keyword": "石原さとみ",
+          "score": 97
+        },
+        {
+          "keyword": "給付金",
+          "score": 96
+        },
+        {
+          "keyword": "地震",
+          "score": 95
+        },
+        {
+          "keyword": "安住アナ",
+          "score": 94
+        },
+        {
+          "keyword": "天気天気",
+          "score": 93
+        },
+        {
+          "keyword": "宇都宮",
+          "score": 92
+        },
+        {
+          "keyword": "転生保険株式会社 r.i.p",
           "score": 91
         }
       ]

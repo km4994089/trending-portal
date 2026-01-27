@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T20:45:05.846Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kennesaw state basketball",
-          "score": 100
-        },
-        {
-          "keyword": "karrueche tran",
-          "score": 99
-        },
-        {
-          "keyword": "pga",
-          "score": 98
-        },
-        {
-          "keyword": "pga leaderboard",
-          "score": 97
-        },
-        {
-          "keyword": "furman basketball",
-          "score": 96
-        },
-        {
-          "keyword": "el chapo",
-          "score": 95
-        },
-        {
-          "keyword": "ligue 1",
-          "score": 94
-        },
-        {
-          "keyword": "dylan o'brien",
-          "score": 93
-        },
-        {
-          "keyword": "new haven basketball",
-          "score": 92
-        },
-        {
-          "keyword": "is grok down",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T21:12:31.297Z",
       "geo": "US",
       "source": "google",
@@ -7424,6 +7377,53 @@
         },
         {
           "keyword": "plano isd",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T21:10:43.899Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cms schools",
+          "score": 100
+        },
+        {
+          "keyword": "bremen vs hoffenheim",
+          "score": 99
+        },
+        {
+          "keyword": "dfw school closings",
+          "score": 98
+        },
+        {
+          "keyword": "cms",
+          "score": 97
+        },
+        {
+          "keyword": "wake county schools",
+          "score": 96
+        },
+        {
+          "keyword": "fwisd",
+          "score": 95
+        },
+        {
+          "keyword": "cúcuta - bucaramanga",
+          "score": 94
+        },
+        {
+          "keyword": "baltimore city public schools",
+          "score": 93
+        },
+        {
+          "keyword": "richardson isd",
+          "score": 92
+        },
+        {
+          "keyword": "india u-19 vs zimbabwe u-19",
           "score": 91
         }
       ]
