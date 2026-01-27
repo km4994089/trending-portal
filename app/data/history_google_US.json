@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T04:58:34.772Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "deni avdija",
-          "score": 100
-        },
-        {
-          "keyword": "sean o'malley",
-          "score": 99
-        },
-        {
-          "keyword": "louis tomlinson",
-          "score": 98
-        },
-        {
-          "keyword": "police",
-          "score": 97
-        },
-        {
-          "keyword": "evidence",
-          "score": 96
-        },
-        {
-          "keyword": "astronauts stuck in space",
-          "score": 95
-        },
-        {
-          "keyword": "ryan garcia",
-          "score": 94
-        },
-        {
-          "keyword": "arnold allen",
-          "score": 93
-        },
-        {
-          "keyword": "keyonte george",
-          "score": 92
-        },
-        {
-          "keyword": "greg laurie",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T05:27:18.700Z",
       "geo": "US",
       "source": "google",
@@ -7518,6 +7471,53 @@
         },
         {
           "keyword": "jaylen brown",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T05:01:53.589Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "alexis ortega",
+          "score": 100
+        },
+        {
+          "keyword": "tylor chase",
+          "score": 99
+        },
+        {
+          "keyword": "pete buttigieg",
+          "score": 98
+        },
+        {
+          "keyword": "byu football",
+          "score": 97
+        },
+        {
+          "keyword": "oj simpson",
+          "score": 96
+        },
+        {
+          "keyword": "buddy hield",
+          "score": 95
+        },
+        {
+          "keyword": "martha stewart",
+          "score": 94
+        },
+        {
+          "keyword": "bonham tx",
+          "score": 93
+        },
+        {
+          "keyword": "bridgerton cast",
+          "score": 92
+        },
+        {
+          "keyword": "anne frank",
           "score": 91
         }
       ]
