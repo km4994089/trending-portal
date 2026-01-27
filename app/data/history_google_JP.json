@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T01:00:45.972Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "outlook 障害",
-          "score": 100
-        },
-        {
-          "keyword": "清水寺",
-          "score": 99
-        },
-        {
-          "keyword": "吉岡恵麻",
-          "score": 98
-        },
-        {
-          "keyword": "microsoft 365",
-          "score": 97
-        },
-        {
-          "keyword": "通訳",
-          "score": 96
-        },
-        {
-          "keyword": "消費者物価指数",
-          "score": 95
-        },
-        {
-          "keyword": "ブラジル",
-          "score": 94
-        },
-        {
-          "keyword": "国宝 アカデミー賞 ノミネート",
-          "score": 93
-        },
-        {
-          "keyword": "世界遺産",
-          "score": 92
-        },
-        {
-          "keyword": "国会",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T03:13:56.062Z",
       "geo": "JP",
       "source": "google",
@@ -7518,6 +7471,53 @@
         },
         {
           "keyword": "諏訪湖 御神渡り",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T01:03:26.756Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "通訳",
+          "score": 100
+        },
+        {
+          "keyword": "中道改革連合 比例名簿",
+          "score": 99
+        },
+        {
+          "keyword": "ブラジル",
+          "score": 98
+        },
+        {
+          "keyword": "竹財輝之助",
+          "score": 97
+        },
+        {
+          "keyword": "窪塚愛流",
+          "score": 96
+        },
+        {
+          "keyword": "バドミントン",
+          "score": 95
+        },
+        {
+          "keyword": "芦屋競艇",
+          "score": 94
+        },
+        {
+          "keyword": "大阪府",
+          "score": 93
+        },
+        {
+          "keyword": "ニッチェ",
+          "score": 92
+        },
+        {
+          "keyword": "アベマ",
           "score": 91
         }
       ]
