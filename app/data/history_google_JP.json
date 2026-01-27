@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-23T16:18:04.393Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "イヴォンヌ",
-          "score": 100
-        },
-        {
-          "keyword": "今治造船",
-          "score": 99
-        },
-        {
-          "keyword": "メダリスト 2期",
-          "score": 98
-        },
-        {
-          "keyword": "jmu",
-          "score": 97
-        },
-        {
-          "keyword": "小出慶二容疑者",
-          "score": 96
-        },
-        {
-          "keyword": "白谷柱誠ジャック",
-          "score": 95
-        },
-        {
-          "keyword": "羽生結弦",
-          "score": 94
-        },
-        {
-          "keyword": "サカナai",
-          "score": 93
-        },
-        {
-          "keyword": "安室奈美恵",
-          "score": 92
-        },
-        {
-          "keyword": "せいや",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-23T16:53:50.022Z",
       "geo": "JP",
       "source": "google",
@@ -7424,6 +7377,53 @@
         },
         {
           "keyword": "グランドシネマサンシャイン 池袋",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-27T16:19:37.631Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "星野源",
+          "score": 100
+        },
+        {
+          "keyword": "坂口健太郎",
+          "score": 99
+        },
+        {
+          "keyword": "東京タワー",
+          "score": 98
+        },
+        {
+          "keyword": "筒井真理子",
+          "score": 97
+        },
+        {
+          "keyword": "略奪奪婚",
+          "score": 96
+        },
+        {
+          "keyword": "ユナイテッドヘルス 株価",
+          "score": 95
+        },
+        {
+          "keyword": "新潟県十日町市行方不明",
+          "score": 94
+        },
+        {
+          "keyword": "パーキンソン病",
+          "score": 93
+        },
+        {
+          "keyword": "ヨッシー",
+          "score": 92
+        },
+        {
+          "keyword": "玉山鉄二",
           "score": 91
         }
       ]
