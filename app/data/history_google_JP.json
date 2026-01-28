@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T07:13:16.659Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "青錦",
-          "score": 100
-        },
-        {
-          "keyword": "レイベリング",
-          "score": 99
-        },
-        {
-          "keyword": "プロキオンステークス",
-          "score": 98
-        },
-        {
-          "keyword": "ガシャポン",
-          "score": 97
-        },
-        {
-          "keyword": "笑福亭",
-          "score": 96
-        },
-        {
-          "keyword": "初富士ステークス",
-          "score": 95
-        },
-        {
-          "keyword": "レバンガ北海道",
-          "score": 94
-        },
-        {
-          "keyword": "いわき平競輪",
-          "score": 93
-        },
-        {
-          "keyword": "スコットランド",
-          "score": 92
-        },
-        {
-          "keyword": "阪神タイガース",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T07:37:41.777Z",
       "geo": "JP",
       "source": "google",
@@ -7283,6 +7236,53 @@
         },
         {
           "keyword": "松岡茉優",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T07:25:02.652Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "全豪オープン 2026",
+          "score": 100
+        },
+        {
+          "keyword": "ニデック",
+          "score": 99
+        },
+        {
+          "keyword": "ユニクロ jリーグ",
+          "score": 98
+        },
+        {
+          "keyword": "australian open",
+          "score": 97
+        },
+        {
+          "keyword": "宗谷地方",
+          "score": 96
+        },
+        {
+          "keyword": "武田良太",
+          "score": 95
+        },
+        {
+          "keyword": "青森空港",
+          "score": 94
+        },
+        {
+          "keyword": "コムドット",
+          "score": 93
+        },
+        {
+          "keyword": "アドバンテスト",
+          "score": 92
+        },
+        {
+          "keyword": "伊藤孝恵",
           "score": 91
         }
       ]
