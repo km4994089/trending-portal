@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T23:37:48.991Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "東京マラソン 2026",
-          "score": 100
-        },
-        {
-          "keyword": "早田ひな",
-          "score": 99
-        },
-        {
-          "keyword": "幕張メッセ",
-          "score": 98
-        },
-        {
-          "keyword": "丸山希",
-          "score": 97
-        },
-        {
-          "keyword": "ハルカス",
-          "score": 96
-        },
-        {
-          "keyword": "安野貴博",
-          "score": 95
-        },
-        {
-          "keyword": "俺節",
-          "score": 94
-        },
-        {
-          "keyword": "参政党 神谷",
-          "score": 93
-        },
-        {
-          "keyword": "山本建",
-          "score": 92
-        },
-        {
-          "keyword": "札幌 雪",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-25T01:05:58.644Z",
       "geo": "JP",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "アルテミス北海道",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T23:46:03.364Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "森下千里",
+          "score": 100
+        },
+        {
+          "keyword": "ダウ90000 蓮見",
+          "score": 99
+        },
+        {
+          "keyword": "森高千里",
+          "score": 98
+        },
+        {
+          "keyword": "マジカルシークレットツアー",
+          "score": 97
+        },
+        {
+          "keyword": "徳山競艇",
+          "score": 96
+        },
+        {
+          "keyword": "菅生新樹",
+          "score": 95
+        },
+        {
+          "keyword": "nas",
+          "score": 94
+        },
+        {
+          "keyword": "竹田恒泰",
+          "score": 93
+        },
+        {
+          "keyword": "福田典子",
+          "score": 92
+        },
+        {
+          "keyword": "九州",
           "score": 91
         }
       ]

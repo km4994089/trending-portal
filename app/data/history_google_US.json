@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T23:37:46.372Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "wind advisory",
-          "score": 100
-        },
-        {
-          "keyword": "cooper flagg stats",
-          "score": 99
-        },
-        {
-          "keyword": "trinity rodman contract",
-          "score": 98
-        },
-        {
-          "keyword": "notre dame basketball",
-          "score": 97
-        },
-        {
-          "keyword": "cavaliers vs magic",
-          "score": 96
-        },
-        {
-          "keyword": "aj dybantsa",
-          "score": 95
-        },
-        {
-          "keyword": "netflix skyscraper live",
-          "score": 94
-        },
-        {
-          "keyword": "natasha lyonne",
-          "score": 93
-        },
-        {
-          "keyword": "sofi stadium",
-          "score": 92
-        },
-        {
-          "keyword": "leonardo dicaprio movies",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-25T01:05:55.567Z",
       "geo": "US",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "dc public schools",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T23:46:00.858Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "bruce willis",
+          "score": 100
+        },
+        {
+          "keyword": "iowa men's basketball",
+          "score": 99
+        },
+        {
+          "keyword": "army basketball",
+          "score": 98
+        },
+        {
+          "keyword": "tulsa public schools",
+          "score": 97
+        },
+        {
+          "keyword": "lakers vs cavaliers",
+          "score": 96
+        },
+        {
+          "keyword": "artemi panarin",
+          "score": 95
+        },
+        {
+          "keyword": "luka doncic stats",
+          "score": 94
+        },
+        {
+          "keyword": "el monte fire",
+          "score": 93
+        },
+        {
+          "keyword": "wake county schools",
+          "score": 92
+        },
+        {
+          "keyword": "fire near me",
           "score": 91
         }
       ]
