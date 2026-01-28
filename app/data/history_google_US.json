@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T20:40:33.493Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "stephen miller",
-          "score": 100
-        },
-        {
-          "keyword": "juan foyth",
-          "score": 99
-        },
-        {
-          "keyword": "trump approval rating",
-          "score": 98
-        },
-        {
-          "keyword": "braden smith",
-          "score": 97
-        },
-        {
-          "keyword": "kiyan anthony",
-          "score": 96
-        },
-        {
-          "keyword": "nikita krylov",
-          "score": 95
-        },
-        {
-          "keyword": "ty miller",
-          "score": 94
-        },
-        {
-          "keyword": "national guard minnesota",
-          "score": 93
-        },
-        {
-          "keyword": "national guard",
-          "score": 92
-        },
-        {
-          "keyword": "basketball games today",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T21:10:33.012Z",
       "geo": "US",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "current mortgage rates",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T20:53:58.393Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "real madrid",
+          "score": 100
+        },
+        {
+          "keyword": "arsenal",
+          "score": 99
+        },
+        {
+          "keyword": "barcelona hoy",
+          "score": 98
+        },
+        {
+          "keyword": "baltimore city public schools",
+          "score": 97
+        },
+        {
+          "keyword": "kylian mbappé",
+          "score": 96
+        },
+        {
+          "keyword": "mbappe",
+          "score": 95
+        },
+        {
+          "keyword": "steven adams",
+          "score": 94
+        },
+        {
+          "keyword": "fcb",
+          "score": 93
+        },
+        {
+          "keyword": "bcps",
+          "score": 92
+        },
+        {
+          "keyword": "antonio vergara",
           "score": 91
         }
       ]
