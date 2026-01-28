@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T09:39:31.206Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "池松壮亮",
-          "score": 100
-        },
-        {
-          "keyword": "スバル",
-          "score": 99
-        },
-        {
-          "keyword": "東海 雪",
-          "score": 98
-        },
-        {
-          "keyword": "レミオロメン",
-          "score": 97
-        },
-        {
-          "keyword": "吉田美和",
-          "score": 96
-        },
-        {
-          "keyword": "米子",
-          "score": 95
-        },
-        {
-          "keyword": "張又侠",
-          "score": 94
-        },
-        {
-          "keyword": "がってん寿司",
-          "score": 93
-        },
-        {
-          "keyword": "円より子",
-          "score": 92
-        },
-        {
-          "keyword": "スピード",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T10:12:28.354Z",
       "geo": "JP",
       "source": "google",
@@ -7283,6 +7236,53 @@
         },
         {
           "keyword": "ケンタッキー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T09:53:53.045Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "はしか",
+          "score": 100
+        },
+        {
+          "keyword": "セブンイレブン スイーツ",
+          "score": 99
+        },
+        {
+          "keyword": "中国",
+          "score": 98
+        },
+        {
+          "keyword": "フジテレビ",
+          "score": 97
+        },
+        {
+          "keyword": "牛角",
+          "score": 96
+        },
+        {
+          "keyword": "藤井輝夫",
+          "score": 95
+        },
+        {
+          "keyword": "nasa",
+          "score": 94
+        },
+        {
+          "keyword": "ヤニック・シナー",
+          "score": 93
+        },
+        {
+          "keyword": "熊本空港",
+          "score": 92
+        },
+        {
+          "keyword": "チケプラ",
           "score": 91
         }
       ]

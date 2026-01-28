@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T09:39:27.602Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "common",
-          "score": 100
-        },
-        {
-          "keyword": "stock",
-          "score": 99
-        },
-        {
-          "keyword": "highguard",
-          "score": 98
-        },
-        {
-          "keyword": "crime",
-          "score": 97
-        },
-        {
-          "keyword": "democrat",
-          "score": 96
-        },
-        {
-          "keyword": "its",
-          "score": 95
-        },
-        {
-          "keyword": "citizen",
-          "score": 94
-        },
-        {
-          "keyword": "but",
-          "score": 93
-        },
-        {
-          "keyword": "tax",
-          "score": 92
-        },
-        {
-          "keyword": "local",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T10:12:25.189Z",
       "geo": "US",
       "source": "google",
@@ -7283,6 +7236,53 @@
         },
         {
           "keyword": "kendall jenner",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T09:53:50.475Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ga lottery",
+          "score": 100
+        },
+        {
+          "keyword": "dave bautista",
+          "score": 99
+        },
+        {
+          "keyword": "voice",
+          "score": 98
+        },
+        {
+          "keyword": "iran news today",
+          "score": 97
+        },
+        {
+          "keyword": "ben shelton",
+          "score": 96
+        },
+        {
+          "keyword": "ryan reynolds",
+          "score": 95
+        },
+        {
+          "keyword": "kansas city chiefs",
+          "score": 94
+        },
+        {
+          "keyword": "hawaii news now",
+          "score": 93
+        },
+        {
+          "keyword": "kimi k2.5",
+          "score": 92
+        },
+        {
+          "keyword": "walkover in tennis",
           "score": 91
         }
       ]
