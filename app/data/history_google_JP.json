@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T20:12:43.258Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ネクスコ中日本",
-          "score": 100
-        },
-        {
-          "keyword": "line",
-          "score": 99
-        },
-        {
-          "keyword": "プロゲーマー",
-          "score": 98
-        },
-        {
-          "keyword": "天気大雪",
-          "score": 97
-        },
-        {
-          "keyword": "タクシー",
-          "score": 96
-        },
-        {
-          "keyword": "bournemouth vs liverpool",
-          "score": 95
-        },
-        {
-          "keyword": "ウニオン・ベルリン 対 ドルトムント",
-          "score": 94
-        },
-        {
-          "keyword": "ベルギーリーグ",
-          "score": 93
-        },
-        {
-          "keyword": "bundesliga",
-          "score": 92
-        },
-        {
-          "keyword": "ボーンマス 対 リヴァプール",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T20:40:36.365Z",
       "geo": "JP",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "町田啓太",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T20:18:34.821Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "barcelona vs copenhagen",
+          "score": 100
+        },
+        {
+          "keyword": "champions league",
+          "score": 99
+        },
+        {
+          "keyword": "uefa champions league",
+          "score": 98
+        },
+        {
+          "keyword": "cl",
+          "score": 97
+        },
+        {
+          "keyword": "cl 日程",
+          "score": 96
+        },
+        {
+          "keyword": "フランクフルト 対 トッテナム",
+          "score": 95
+        },
+        {
+          "keyword": "パリsg 対 ニューカッスル",
+          "score": 94
+        },
+        {
+          "keyword": "プロ野球",
+          "score": 93
+        },
+        {
+          "keyword": "psv 対 バイエルン",
+          "score": 92
+        },
+        {
+          "keyword": "wowow",
           "score": 91
         }
       ]
