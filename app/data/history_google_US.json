@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T18:17:41.696Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sam hoiberg",
-          "score": 100
-        },
-        {
-          "keyword": "michael johnson",
-          "score": 99
-        },
-        {
-          "keyword": "jacob frey",
-          "score": 98
-        },
-        {
-          "keyword": "ohio state of emergency",
-          "score": 97
-        },
-        {
-          "keyword": "galatasaray",
-          "score": 96
-        },
-        {
-          "keyword": "minneapolis mayor",
-          "score": 95
-        },
-        {
-          "keyword": "gasparilla parade 2026",
-          "score": 94
-        },
-        {
-          "keyword": "sabres vs islanders",
-          "score": 93
-        },
-        {
-          "keyword": "villanova vs uconn",
-          "score": 92
-        },
-        {
-          "keyword": "collin sexton",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T18:49:56.345Z",
       "geo": "US",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "bobby babich",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T18:24:54.753Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "charles victor thompson",
+          "score": 100
+        },
+        {
+          "keyword": "polio",
+          "score": 99
+        },
+        {
+          "keyword": "breeze airways",
+          "score": 98
+        },
+        {
+          "keyword": "shirley raines",
+          "score": 97
+        },
+        {
+          "keyword": "al-ahli saudi vs al-ettifaq",
+          "score": 96
+        },
+        {
+          "keyword": "henry reagan",
+          "score": 95
+        },
+        {
+          "keyword": "patrick reed",
+          "score": 94
+        },
+        {
+          "keyword": "tammy duckworth",
+          "score": 93
+        },
+        {
+          "keyword": "rand paul",
+          "score": 92
+        },
+        {
+          "keyword": "michael dell",
           "score": 91
         }
       ]
