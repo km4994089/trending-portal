@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T16:45:26.266Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "breaking news",
-          "score": 100
-        },
-        {
-          "keyword": "minneapolis star tribune",
-          "score": 99
-        },
-        {
-          "keyword": "metlife stadium",
-          "score": 98
-        },
-        {
-          "keyword": "karagümrük - galatasaray",
-          "score": 97
-        },
-        {
-          "keyword": "wizards vs hornets",
-          "score": 96
-        },
-        {
-          "keyword": "ice minnesota",
-          "score": 95
-        },
-        {
-          "keyword": "north florida basketball",
-          "score": 94
-        },
-        {
-          "keyword": "mpr",
-          "score": 93
-        },
-        {
-          "keyword": "bill parcells",
-          "score": 92
-        },
-        {
-          "keyword": "virginia military institute",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T17:10:19.565Z",
       "geo": "US",
       "source": "google",
@@ -7236,6 +7189,53 @@
         },
         {
           "keyword": "shaheen",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T17:04:43.920Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "raheem sterling",
+          "score": 100
+        },
+        {
+          "keyword": "bobby babich",
+          "score": 99
+        },
+        {
+          "keyword": "angel chivilli",
+          "score": 98
+        },
+        {
+          "keyword": "nicki minaj",
+          "score": 97
+        },
+        {
+          "keyword": "shivam dube",
+          "score": 96
+        },
+        {
+          "keyword": "apple ios 26.2 update",
+          "score": 95
+        },
+        {
+          "keyword": "giannis antetokounmpo",
+          "score": 94
+        },
+        {
+          "keyword": "giants offensive coordinator",
+          "score": 93
+        },
+        {
+          "keyword": "matt lauer",
+          "score": 92
+        },
+        {
+          "keyword": "brian duker",
           "score": 91
         }
       ]
