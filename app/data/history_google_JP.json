@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T22:11:35.297Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大森南朋",
-          "score": 100
-        },
-        {
-          "keyword": "villarreal đấu với real madrid",
-          "score": 99
-        },
-        {
-          "keyword": "シエンタ",
-          "score": 98
-        },
-        {
-          "keyword": "ダルビッシュ有",
-          "score": 97
-        },
-        {
-          "keyword": "塚地武雅",
-          "score": 96
-        },
-        {
-          "keyword": "ラ・リーガ",
-          "score": 95
-        },
-        {
-          "keyword": "新千歳空港",
-          "score": 94
-        },
-        {
-          "keyword": "英検",
-          "score": 93
-        },
-        {
-          "keyword": "藤沢市民マラソン",
-          "score": 92
-        },
-        {
-          "keyword": "アメリカ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T22:41:08.799Z",
       "geo": "JP",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "田園都市線",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T22:17:33.220Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "benfica đấu với real madrid",
+          "score": 100
+        },
+        {
+          "keyword": "アトレティコ・マドリード",
+          "score": 99
+        },
+        {
+          "keyword": "arsenal đấu với kairat",
+          "score": 98
+        },
+        {
+          "keyword": "アメリカ",
+          "score": 97
+        },
+        {
+          "keyword": "インフルエンザ",
+          "score": 96
+        },
+        {
+          "keyword": "パラオ",
+          "score": 95
+        },
+        {
+          "keyword": "パリ・サンジェルマンfc",
+          "score": 94
+        },
+        {
+          "keyword": "psg vs newcastle",
+          "score": 93
+        },
+        {
+          "keyword": "ミスオージャ",
+          "score": 92
+        },
+        {
+          "keyword": "liverpool vs qarabag fk",
           "score": 91
         }
       ]

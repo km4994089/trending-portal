@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T22:11:32.407Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "real madrid",
-          "score": 100
-        },
-        {
-          "keyword": "bruce pearl",
-          "score": 99
-        },
-        {
-          "keyword": "real madrid standings",
-          "score": 98
-        },
-        {
-          "keyword": "gulfstream park",
-          "score": 97
-        },
-        {
-          "keyword": "mike lafleur",
-          "score": 96
-        },
-        {
-          "keyword": "stubhub",
-          "score": 95
-        },
-        {
-          "keyword": "pga",
-          "score": 94
-        },
-        {
-          "keyword": "ifc",
-          "score": 93
-        },
-        {
-          "keyword": "iowa state women's basketball",
-          "score": 92
-        },
-        {
-          "keyword": "grant mccasland",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T22:41:06.136Z",
       "geo": "US",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "lamine yamal",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T22:17:30.729Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lisd",
+          "score": 100
+        },
+        {
+          "keyword": "dtf st louis",
+          "score": 99
+        },
+        {
+          "keyword": "fk bodø/glimt",
+          "score": 98
+        },
+        {
+          "keyword": "olympique de marseille",
+          "score": 97
+        },
+        {
+          "keyword": "sporting clube de portugal",
+          "score": 96
+        },
+        {
+          "keyword": "pafos fc",
+          "score": 95
+        },
+        {
+          "keyword": "dcps",
+          "score": 94
+        },
+        {
+          "keyword": "brandon sanderson",
+          "score": 93
+        },
+        {
+          "keyword": "jillian michaels",
+          "score": 92
+        },
+        {
+          "keyword": "sporting",
           "score": 91
         }
       ]
