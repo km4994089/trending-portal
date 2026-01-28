@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T02:53:19.987Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "マック",
-          "score": 100
-        },
-        {
-          "keyword": "貯蓄",
-          "score": 99
-        },
-        {
-          "keyword": "関西電力",
-          "score": 98
-        },
-        {
-          "keyword": "薬局",
-          "score": 97
-        },
-        {
-          "keyword": "ケンタッキー キャンペーン",
-          "score": 96
-        },
-        {
-          "keyword": "ヤニック・シナー",
-          "score": 95
-        },
-        {
-          "keyword": "igアリーナ",
-          "score": 94
-        },
-        {
-          "keyword": "橋本愛",
-          "score": 93
-        },
-        {
-          "keyword": "giá yên hôm nay",
-          "score": 92
-        },
-        {
-          "keyword": "マクドナルド メニュー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T03:55:37.726Z",
       "geo": "JP",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "津波",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T03:16:18.463Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "五十嵐亮太",
+          "score": 100
+        },
+        {
+          "keyword": "鳥谷敬",
+          "score": 99
+        },
+        {
+          "keyword": "blm",
+          "score": 98
+        },
+        {
+          "keyword": "ハンセン病",
+          "score": 97
+        },
+        {
+          "keyword": "給食",
+          "score": 96
+        },
+        {
+          "keyword": "ダンプカー",
+          "score": 95
+        },
+        {
+          "keyword": "エレナ・リバキナ",
+          "score": 94
+        },
+        {
+          "keyword": "帝京大学",
+          "score": 93
+        },
+        {
+          "keyword": "五ノ井里奈",
+          "score": 92
+        },
+        {
+          "keyword": "爆笑問題",
           "score": 91
         }
       ]
