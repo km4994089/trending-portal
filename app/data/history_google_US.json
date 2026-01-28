@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T18:49:56.345Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mike mccarthy",
-          "score": 100
-        },
-        {
-          "keyword": "steelers head coach",
-          "score": 99
-        },
-        {
-          "keyword": "mia brookes",
-          "score": 98
-        },
-        {
-          "keyword": "matthew lillard",
-          "score": 97
-        },
-        {
-          "keyword": "m&t bank stadium",
-          "score": 96
-        },
-        {
-          "keyword": "alexander hernandez",
-          "score": 95
-        },
-        {
-          "keyword": "ludvig aberg",
-          "score": 94
-        },
-        {
-          "keyword": "monster jam san antonio",
-          "score": 93
-        },
-        {
-          "keyword": "timothy sykes",
-          "score": 92
-        },
-        {
-          "keyword": "tre johnson",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T19:09:44.407Z",
       "geo": "US",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "michael dell",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T18:58:29.968Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mcdonald's",
+          "score": 100
+        },
+        {
+          "keyword": "fulton county",
+          "score": 99
+        },
+        {
+          "keyword": "streets of minneapolis",
+          "score": 98
+        },
+        {
+          "keyword": "dalton knecht",
+          "score": 97
+        },
+        {
+          "keyword": "cvna stock",
+          "score": 96
+        },
+        {
+          "keyword": "charles victor thompson",
+          "score": 95
+        },
+        {
+          "keyword": "polio",
+          "score": 94
+        },
+        {
+          "keyword": "breeze airways",
+          "score": 93
+        },
+        {
+          "keyword": "shirley raines",
+          "score": 92
+        },
+        {
+          "keyword": "al-ahli saudi vs al-ettifaq",
           "score": 91
         }
       ]
