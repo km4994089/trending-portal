@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T06:51:46.963Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ethan quinn",
-          "score": 100
-        },
-        {
-          "keyword": "toyota recalls",
-          "score": 99
-        },
-        {
-          "keyword": "stan wawrinka",
-          "score": 98
-        },
-        {
-          "keyword": "nba trade deadline",
-          "score": 97
-        },
-        {
-          "keyword": "weather nashville",
-          "score": 96
-        },
-        {
-          "keyword": "auto accident lawyer",
-          "score": 95
-        },
-        {
-          "keyword": "prince",
-          "score": 94
-        },
-        {
-          "keyword": "ardot",
-          "score": 93
-        },
-        {
-          "keyword": "jackee harry",
-          "score": 92
-        },
-        {
-          "keyword": "emilia clarke",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T07:13:14.171Z",
       "geo": "US",
       "source": "google",
@@ -7283,6 +7236,53 @@
         },
         {
           "keyword": "stephen colbert",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T06:58:04.977Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ben shelton vs jannik sinner",
+          "score": 100
+        },
+        {
+          "keyword": "naacp",
+          "score": 99
+        },
+        {
+          "keyword": "novak",
+          "score": 98
+        },
+        {
+          "keyword": "asml stock",
+          "score": 97
+        },
+        {
+          "keyword": "los angeles",
+          "score": 96
+        },
+        {
+          "keyword": "latvia",
+          "score": 95
+        },
+        {
+          "keyword": "putin",
+          "score": 94
+        },
+        {
+          "keyword": "tennis",
+          "score": 93
+        },
+        {
+          "keyword": "ella purnell",
+          "score": 92
+        },
+        {
+          "keyword": "arc deforester blue gate",
           "score": 91
         }
       ]
