@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T10:42:56.336Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "北陸新幹線",
-          "score": 100
-        },
-        {
-          "keyword": "森脇健児",
-          "score": 99
-        },
-        {
-          "keyword": "宇梶剛士",
-          "score": 98
-        },
-        {
-          "keyword": "サッカー u23",
-          "score": 97
-        },
-        {
-          "keyword": "相田翔子",
-          "score": 96
-        },
-        {
-          "keyword": "はいだしょうこ",
-          "score": 95
-        },
-        {
-          "keyword": "王将",
-          "score": 94
-        },
-        {
-          "keyword": "大阪王将",
-          "score": 93
-        },
-        {
-          "keyword": "タイ",
-          "score": 92
-        },
-        {
-          "keyword": "ルタオ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T11:10:25.579Z",
       "geo": "JP",
       "source": "google",
@@ -7283,6 +7236,53 @@
         },
         {
           "keyword": "藤井輝夫",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T10:52:32.869Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "三溪園",
+          "score": 100
+        },
+        {
+          "keyword": "糸井嘉男",
+          "score": 99
+        },
+        {
+          "keyword": "bリーグ",
+          "score": 98
+        },
+        {
+          "keyword": "千葉ジェッツ",
+          "score": 97
+        },
+        {
+          "keyword": "大阪工業大学",
+          "score": 96
+        },
+        {
+          "keyword": "レバンガ北海道",
+          "score": 95
+        },
+        {
+          "keyword": "御堂筋線",
+          "score": 94
+        },
+        {
+          "keyword": "コンテンツ",
+          "score": 93
+        },
+        {
+          "keyword": "衆議院選挙 選挙区",
+          "score": 92
+        },
+        {
+          "keyword": "大阪メトロ",
           "score": 91
         }
       ]
