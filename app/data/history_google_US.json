@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T11:10:22.516Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "wfaa",
-          "score": 100
-        },
-        {
-          "keyword": "delta flight status",
-          "score": 99
-        },
-        {
-          "keyword": "weather update",
-          "score": 98
-        },
-        {
-          "keyword": "netflix cancels alice in borderland",
-          "score": 97
-        },
-        {
-          "keyword": "criminal attorney",
-          "score": 96
-        },
-        {
-          "keyword": "criminal defense attorney",
-          "score": 95
-        },
-        {
-          "keyword": "dingoes",
-          "score": 94
-        },
-        {
-          "keyword": "car accident lawyer",
-          "score": 93
-        },
-        {
-          "keyword": "energy rates",
-          "score": 92
-        },
-        {
-          "keyword": "online lottery",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T11:36:07.162Z",
       "geo": "US",
       "source": "google",
@@ -7283,6 +7236,53 @@
         },
         {
           "keyword": "brisbane bullets",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T11:16:02.003Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ny lottery",
+          "score": 100
+        },
+        {
+          "keyword": "school closings today",
+          "score": 99
+        },
+        {
+          "keyword": "wood tv 8",
+          "score": 98
+        },
+        {
+          "keyword": "spencer pratt",
+          "score": 97
+        },
+        {
+          "keyword": "australian open schedule",
+          "score": 96
+        },
+        {
+          "keyword": "ios 26.2.1",
+          "score": 95
+        },
+        {
+          "keyword": "wmata",
+          "score": 94
+        },
+        {
+          "keyword": "jacksonville weather",
+          "score": 93
+        },
+        {
+          "keyword": "wktv closings",
+          "score": 92
+        },
+        {
+          "keyword": "syracuse school closings",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T11:10:25.579Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "生田斗真",
-          "score": 100
-        },
-        {
-          "keyword": "和田まんじゅう",
-          "score": 99
-        },
-        {
-          "keyword": "国立競技場",
-          "score": 98
-        },
-        {
-          "keyword": "きしたかの高野",
-          "score": 97
-        },
-        {
-          "keyword": "井桁",
-          "score": 96
-        },
-        {
-          "keyword": "北海道新幹線",
-          "score": 95
-        },
-        {
-          "keyword": "ボンボンドロップシール 抽選",
-          "score": 94
-        },
-        {
-          "keyword": "ジョコビッチ",
-          "score": 93
-        },
-        {
-          "keyword": "武夷山",
-          "score": 92
-        },
-        {
-          "keyword": "キューバ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T11:36:09.796Z",
       "geo": "JP",
       "source": "google",
@@ -7283,6 +7236,53 @@
         },
         {
           "keyword": "大阪メトロ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T11:16:04.398Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "子育て支援金",
+          "score": 100
+        },
+        {
+          "keyword": "琉球ゴールデンキングス",
+          "score": 99
+        },
+        {
+          "keyword": "sbi証券",
+          "score": 98
+        },
+        {
+          "keyword": "藤田文武",
+          "score": 97
+        },
+        {
+          "keyword": "横浜",
+          "score": 96
+        },
+        {
+          "keyword": "鳥取1区",
+          "score": 95
+        },
+        {
+          "keyword": "三溪園",
+          "score": 94
+        },
+        {
+          "keyword": "糸井嘉男",
+          "score": 93
+        },
+        {
+          "keyword": "bリーグ",
+          "score": 92
+        },
+        {
+          "keyword": "千葉ジェッツ",
           "score": 91
         }
       ]
