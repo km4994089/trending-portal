@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T12:21:57.659Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "milwaukee weather",
-          "score": 100
-        },
-        {
-          "keyword": "clima",
-          "score": 99
-        },
-        {
-          "keyword": "weather columbia sc",
-          "score": 98
-        },
-        {
-          "keyword": "amanda nunes",
-          "score": 97
-        },
-        {
-          "keyword": "west ham vs sunderland",
-          "score": 96
-        },
-        {
-          "keyword": "kmov",
-          "score": 95
-        },
-        {
-          "keyword": "local news",
-          "score": 94
-        },
-        {
-          "keyword": "daily beast",
-          "score": 93
-        },
-        {
-          "keyword": "cincinnati weather",
-          "score": 92
-        },
-        {
-          "keyword": "nj weather",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T13:05:46.830Z",
       "geo": "US",
       "source": "google",
@@ -7283,6 +7236,53 @@
         },
         {
           "keyword": "wmata",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T12:28:16.297Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nyt connections hints",
+          "score": 100
+        },
+        {
+          "keyword": "barbara corcoran",
+          "score": 99
+        },
+        {
+          "keyword": "road conditions dfw",
+          "score": 98
+        },
+        {
+          "keyword": "candace owens",
+          "score": 97
+        },
+        {
+          "keyword": "gev stock",
+          "score": 96
+        },
+        {
+          "keyword": "fintech innovation",
+          "score": 95
+        },
+        {
+          "keyword": "netflix top movies right now",
+          "score": 94
+        },
+        {
+          "keyword": "sonos",
+          "score": 93
+        },
+        {
+          "keyword": "creel",
+          "score": 92
+        },
+        {
+          "keyword": "tampa weather",
           "score": 91
         }
       ]
