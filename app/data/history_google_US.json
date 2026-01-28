@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T19:34:00.647Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "pirates of the caribbean",
-          "score": 100
-        },
-        {
-          "keyword": "karl anthony towns",
-          "score": 99
-        },
-        {
-          "keyword": "virginia tech vs louisville",
-          "score": 98
-        },
-        {
-          "keyword": "george mason basketball",
-          "score": 97
-        },
-        {
-          "keyword": "oklahoma vs missouri",
-          "score": 96
-        },
-        {
-          "keyword": "uswnt",
-          "score": 95
-        },
-        {
-          "keyword": "destin florida",
-          "score": 94
-        },
-        {
-          "keyword": "villarreal - real madrid",
-          "score": 93
-        },
-        {
-          "keyword": "knicks vs 76ers",
-          "score": 92
-        },
-        {
-          "keyword": "west virginia vs arizona",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T20:12:40.441Z",
       "geo": "US",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "monaco vs juventus",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T19:50:17.187Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "bruce springsteen streets of minneapolis",
+          "score": 100
+        },
+        {
+          "keyword": "pafos vs slavia praha",
+          "score": 99
+        },
+        {
+          "keyword": "club brugge vs marseille",
+          "score": 98
+        },
+        {
+          "keyword": "athletic club vs sporting",
+          "score": 97
+        },
+        {
+          "keyword": "dortmund - inter",
+          "score": 96
+        },
+        {
+          "keyword": "mónaco - juventus",
+          "score": 95
+        },
+        {
+          "keyword": "benfica",
+          "score": 94
+        },
+        {
+          "keyword": "jace kaminska",
+          "score": 93
+        },
+        {
+          "keyword": "barcelona - københavn",
+          "score": 92
+        },
+        {
+          "keyword": "benfica - real madrid",
           "score": 91
         }
       ]
