@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T23:11:58.598Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "山本建",
-          "score": 100
-        },
-        {
-          "keyword": "札幌 雪",
-          "score": 99
-        },
-        {
-          "keyword": "藤田文武",
-          "score": 98
-        },
-        {
-          "keyword": "ジェイアール北海道",
-          "score": 97
-        },
-        {
-          "keyword": "玉木雄一郎",
-          "score": 96
-        },
-        {
-          "keyword": "代々木公園 イベント",
-          "score": 95
-        },
-        {
-          "keyword": "堀江貴文",
-          "score": 94
-        },
-        {
-          "keyword": "札幌 積雪",
-          "score": 93
-        },
-        {
-          "keyword": "新幹線",
-          "score": 92
-        },
-        {
-          "keyword": "大石晃子",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T23:37:48.991Z",
       "geo": "JP",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "須磨シーワールド",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T23:18:05.281Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "東京 雪",
+          "score": 100
+        },
+        {
+          "keyword": "鈴木福",
+          "score": 99
+        },
+        {
+          "keyword": "津和野",
+          "score": 98
+        },
+        {
+          "keyword": "佐藤浩市",
+          "score": 97
+        },
+        {
+          "keyword": "ダンプカー",
+          "score": 96
+        },
+        {
+          "keyword": "御神渡り",
+          "score": 95
+        },
+        {
+          "keyword": "永野芽郁ボブ",
+          "score": 94
+        },
+        {
+          "keyword": "円井わん",
+          "score": 93
+        },
+        {
+          "keyword": "あのちゃん",
+          "score": 92
+        },
+        {
+          "keyword": "アルテミス北海道",
           "score": 91
         }
       ]
