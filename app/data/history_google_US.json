@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T17:10:19.565Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cnn news",
-          "score": 100
-        },
-        {
-          "keyword": "duke basketball schedule",
-          "score": 99
-        },
-        {
-          "keyword": "ice killed",
-          "score": 98
-        },
-        {
-          "keyword": "marshall university",
-          "score": 97
-        },
-        {
-          "keyword": "bournemouth vs liverpool",
-          "score": 96
-        },
-        {
-          "keyword": "sevilla - athletic",
-          "score": 95
-        },
-        {
-          "keyword": "union berlin vs dortmund",
-          "score": 94
-        },
-        {
-          "keyword": "fc union berlin - dortmund",
-          "score": 93
-        },
-        {
-          "keyword": "cbp",
-          "score": 92
-        },
-        {
-          "keyword": "ms now",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-01-24T17:39:24.284Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nebraska basketball",
-          "score": 100
-        },
-        {
-          "keyword": "cbs news",
-          "score": 99
-        },
-        {
-          "keyword": "nc state vs pittsburgh",
-          "score": 98
-        },
-        {
-          "keyword": "fiorentina - cagliari",
-          "score": 97
-        },
-        {
-          "keyword": "seatgeek",
-          "score": 96
-        },
-        {
-          "keyword": "le havre vs monaco",
-          "score": 95
-        },
-        {
-          "keyword": "arouca vs sporting",
-          "score": 94
-        },
-        {
-          "keyword": "seat geek",
-          "score": 93
-        },
-        {
-          "keyword": "avi loeb 3i atlas",
-          "score": 92
-        },
-        {
-          "keyword": "plano isd",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T18:17:41.696Z",
       "geo": "US",
       "source": "google",
@@ -7236,6 +7142,53 @@
         },
         {
           "keyword": "brian duker",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T17:54:07.938Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "polio",
+          "score": 100
+        },
+        {
+          "keyword": "breeze airways",
+          "score": 99
+        },
+        {
+          "keyword": "al-ahli saudi - al-ettifaq",
+          "score": 98
+        },
+        {
+          "keyword": "al-ahli saudi vs al-ettifaq",
+          "score": 97
+        },
+        {
+          "keyword": "henry reagan",
+          "score": 96
+        },
+        {
+          "keyword": "patrick reed",
+          "score": 95
+        },
+        {
+          "keyword": "tammy duckworth",
+          "score": 94
+        },
+        {
+          "keyword": "rand paul",
+          "score": 93
+        },
+        {
+          "keyword": "michael dell",
+          "score": 92
+        },
+        {
+          "keyword": "bobby babich",
           "score": 91
         }
       ]
