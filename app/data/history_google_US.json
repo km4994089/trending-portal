@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T11:36:07.162Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "local weather",
-          "score": 100
-        },
-        {
-          "keyword": "nyc snow forecast",
-          "score": 99
-        },
-        {
-          "keyword": "power outage",
-          "score": 98
-        },
-        {
-          "keyword": "baltimore weather",
-          "score": 97
-        },
-        {
-          "keyword": "weather atlanta",
-          "score": 96
-        },
-        {
-          "keyword": "weather philadelphia",
-          "score": 95
-        },
-        {
-          "keyword": "today's weather",
-          "score": 94
-        },
-        {
-          "keyword": "dingo",
-          "score": 93
-        },
-        {
-          "keyword": "walmart near me",
-          "score": 92
-        },
-        {
-          "keyword": "dallas news",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T12:21:57.659Z",
       "geo": "US",
       "source": "google",
@@ -7283,6 +7236,53 @@
         },
         {
           "keyword": "syracuse school closings",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T11:41:54.889Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "amazon layoff",
+          "score": 100
+        },
+        {
+          "keyword": "school closings and delays",
+          "score": 99
+        },
+        {
+          "keyword": "is there school today",
+          "score": 98
+        },
+        {
+          "keyword": "weather miami",
+          "score": 97
+        },
+        {
+          "keyword": "government shutdown update",
+          "score": 96
+        },
+        {
+          "keyword": "ny lottery",
+          "score": 95
+        },
+        {
+          "keyword": "school closings today",
+          "score": 94
+        },
+        {
+          "keyword": "spencer pratt",
+          "score": 93
+        },
+        {
+          "keyword": "ios 26.2.1",
+          "score": 92
+        },
+        {
+          "keyword": "wmata",
           "score": 91
         }
       ]
