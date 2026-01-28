@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T03:55:35.071Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "hunger games",
-          "score": 100
-        },
-        {
-          "keyword": "kiana james",
-          "score": 99
-        },
-        {
-          "keyword": "valentin vacherot",
-          "score": 98
-        },
-        {
-          "keyword": "brandon ingram",
-          "score": 97
-        },
-        {
-          "keyword": "bobby portis",
-          "score": 96
-        },
-        {
-          "keyword": "myles turner",
-          "score": 95
-        },
-        {
-          "keyword": "jalen pickett",
-          "score": 94
-        },
-        {
-          "keyword": "luguentz dort",
-          "score": 93
-        },
-        {
-          "keyword": "aus open",
-          "score": 92
-        },
-        {
-          "keyword": "hunger games movies",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T04:29:07.945Z",
       "geo": "US",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "florida panthers",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T04:28:22.340Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "james harden",
+          "score": 100
+        },
+        {
+          "keyword": "jalen duren",
+          "score": 99
+        },
+        {
+          "keyword": "rob schneider",
+          "score": 98
+        },
+        {
+          "keyword": "jonas valančiūnas",
+          "score": 97
+        },
+        {
+          "keyword": "jalen pickett",
+          "score": 96
+        },
+        {
+          "keyword": "new mexico basketball",
+          "score": 95
+        },
+        {
+          "keyword": "vegas airport",
+          "score": 94
+        },
+        {
+          "keyword": "ajit pawar",
+          "score": 93
+        },
+        {
+          "keyword": "vince carter",
+          "score": 92
+        },
+        {
+          "keyword": "connor bedard",
           "score": 91
         }
       ]
