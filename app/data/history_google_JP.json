@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T21:36:44.298Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jr北海道",
-          "score": 100
-        },
-        {
-          "keyword": "villarreal vs madrid",
-          "score": 99
-        },
-        {
-          "keyword": "焼岳",
-          "score": 98
-        },
-        {
-          "keyword": "nexco中日本",
-          "score": 97
-        },
-        {
-          "keyword": "テニス",
-          "score": 96
-        },
-        {
-          "keyword": "villarreal vs real madrid",
-          "score": 95
-        },
-        {
-          "keyword": "学童",
-          "score": 94
-        },
-        {
-          "keyword": "京都競馬場",
-          "score": 93
-        },
-        {
-          "keyword": "ネクスコ中日本",
-          "score": 92
-        },
-        {
-          "keyword": "名阪国道",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T22:11:35.297Z",
       "geo": "JP",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "エヌビディア 株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T21:51:05.221Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "リヴァプールfc",
+          "score": 100
+        },
+        {
+          "keyword": "チェルシーfc",
+          "score": 99
+        },
+        {
+          "keyword": "東京メトロ",
+          "score": 98
+        },
+        {
+          "keyword": "アーセナルfc",
+          "score": 97
+        },
+        {
+          "keyword": "インド ウイルス",
+          "score": 96
+        },
+        {
+          "keyword": "なにわ男子",
+          "score": 95
+        },
+        {
+          "keyword": "ini",
+          "score": 94
+        },
+        {
+          "keyword": "為替 ドル円",
+          "score": 93
+        },
+        {
+          "keyword": "1ドル 円",
+          "score": 92
+        },
+        {
+          "keyword": "田園都市線",
           "score": 91
         }
       ]
