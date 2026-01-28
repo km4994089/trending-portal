@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-24T22:41:06.136Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kristi noem",
-          "score": 100
-        },
-        {
-          "keyword": "amy klobuchar",
-          "score": 99
-        },
-        {
-          "keyword": "landry shamet",
-          "score": 98
-        },
-        {
-          "keyword": "paramount",
-          "score": 97
-        },
-        {
-          "keyword": "ace bailey",
-          "score": 96
-        },
-        {
-          "keyword": "neisd",
-          "score": 95
-        },
-        {
-          "keyword": "hunger games",
-          "score": 94
-        },
-        {
-          "keyword": "aoc",
-          "score": 93
-        },
-        {
-          "keyword": "mikal bridges",
-          "score": 92
-        },
-        {
-          "keyword": "onefootball",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-24T23:11:56.023Z",
       "geo": "US",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "sporting",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-28T22:51:18.013Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "edward norton",
+          "score": 100
+        },
+        {
+          "keyword": "fluminense vs grêmio",
+          "score": 99
+        },
+        {
+          "keyword": "chicago cubs",
+          "score": 98
+        },
+        {
+          "keyword": "dcps school closures",
+          "score": 97
+        },
+        {
+          "keyword": "guilford county schools",
+          "score": 96
+        },
+        {
+          "keyword": "champions league draw",
+          "score": 95
+        },
+        {
+          "keyword": "cómo quedó el barcelona",
+          "score": 94
+        },
+        {
+          "keyword": "mourinho",
+          "score": 93
+        },
+        {
+          "keyword": "real madrid standings champions league",
+          "score": 92
+        },
+        {
+          "keyword": "dtf st louis",
           "score": 91
         }
       ]
