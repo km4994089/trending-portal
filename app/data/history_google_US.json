@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-25T03:24:41.991Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sylvester stallone",
-          "score": 100
-        },
-        {
-          "keyword": "coby white",
-          "score": 99
-        },
-        {
-          "keyword": "rob lowe",
-          "score": 98
-        },
-        {
-          "keyword": "jalen smith",
-          "score": 97
-        },
-        {
-          "keyword": "namajunas",
-          "score": 96
-        },
-        {
-          "keyword": "carlos alcaraz",
-          "score": 95
-        },
-        {
-          "keyword": "amy madigan",
-          "score": 94
-        },
-        {
-          "keyword": "weapons",
-          "score": 93
-        },
-        {
-          "keyword": "putintseva",
-          "score": 92
-        },
-        {
-          "keyword": "james bond",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-25T04:34:33.905Z",
       "geo": "US",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "jim bob cooter",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-29T03:37:39.705Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "amen thompson",
+          "score": 100
+        },
+        {
+          "keyword": "gervonta davis",
+          "score": 99
+        },
+        {
+          "keyword": "delaware basketball",
+          "score": 98
+        },
+        {
+          "keyword": "guy benson",
+          "score": 97
+        },
+        {
+          "keyword": "flagler beach",
+          "score": 96
+        },
+        {
+          "keyword": "tari eason",
+          "score": 95
+        },
+        {
+          "keyword": "courtney love",
+          "score": 94
+        },
+        {
+          "keyword": "moussa diabate",
+          "score": 93
+        },
+        {
+          "keyword": "carlos trejo",
+          "score": 92
+        },
+        {
+          "keyword": "ed norton",
           "score": 91
         }
       ]
