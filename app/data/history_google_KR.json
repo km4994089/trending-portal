@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-25T22:42:10.225Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nfl",
-          "score": 100
-        },
-        {
-          "keyword": "비트코인",
-          "score": 99
-        },
-        {
-          "keyword": "수락산 산불",
-          "score": 98
-        },
-        {
-          "keyword": "serie a",
-          "score": 97
-        },
-        {
-          "keyword": "세리에 a",
-          "score": 96
-        },
-        {
-          "keyword": "liga inggris",
-          "score": 95
-        },
-        {
-          "keyword": "epl 순위",
-          "score": 94
-        },
-        {
-          "keyword": "fotmob",
-          "score": 93
-        },
-        {
-          "keyword": "맨체스터 유나이티드 fc",
-          "score": 92
-        },
-        {
-          "keyword": "앙투안 세메뇨",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-25T23:39:17.524Z",
       "geo": "KR",
       "source": "google",
@@ -6578,6 +6531,53 @@
         },
         {
           "keyword": "tsla",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-29T22:51:35.983Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tsla stock",
+          "score": 100
+        },
+        {
+          "keyword": "apple",
+          "score": 99
+        },
+        {
+          "keyword": "애플 주가",
+          "score": 98
+        },
+        {
+          "keyword": "엔비디아 주가",
+          "score": 97
+        },
+        {
+          "keyword": "마이크론 주가",
+          "score": 96
+        },
+        {
+          "keyword": "샌디스크 주가",
+          "score": 95
+        },
+        {
+          "keyword": "losc 릴 대 sc 프라이부르크",
+          "score": 94
+        },
+        {
+          "keyword": "애스턴 빌라 대 rb 잘츠부르크",
+          "score": 93
+        },
+        {
+          "keyword": "유로파리그",
+          "score": 92
+        },
+        {
+          "keyword": "붉은사막",
           "score": 91
         }
       ]
