@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-25T07:14:47.160Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "炎鵬",
-          "score": 100
-        },
-        {
-          "keyword": "シルクロードステークス",
-          "score": 99
-        },
-        {
-          "keyword": "こうせいりゅう 相撲",
-          "score": 98
-        },
-        {
-          "keyword": "藤川球児",
-          "score": 97
-        },
-        {
-          "keyword": "いわき平競輪",
-          "score": 96
-        },
-        {
-          "keyword": "エヒト",
-          "score": 95
-        },
-        {
-          "keyword": "常盤山親方",
-          "score": 94
-        },
-        {
-          "keyword": "根岸ステークス",
-          "score": 93
-        },
-        {
-          "keyword": "有働由美子",
-          "score": 92
-        },
-        {
-          "keyword": "qwen3-tts",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-01-25T07:39:08.048Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "カーインライジング",
-          "score": 100
-        },
-        {
-          "keyword": "b.league",
-          "score": 99
-        },
-        {
-          "keyword": "藤ノ川",
-          "score": 98
-        },
-        {
-          "keyword": "琴風浩一",
-          "score": 97
-        },
-        {
-          "keyword": "せいや 子供",
-          "score": 96
-        },
-        {
-          "keyword": "徳光和夫",
-          "score": 95
-        },
-        {
-          "keyword": "舞の海",
-          "score": 94
-        },
-        {
-          "keyword": "相撲協会",
-          "score": 93
-        },
-        {
-          "keyword": "シルクロードステークス",
-          "score": 92
-        },
-        {
-          "keyword": "炎鵬",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-25T08:16:26.116Z",
       "geo": "JP",
       "source": "google",
@@ -7095,6 +7001,53 @@
         },
         {
           "keyword": "下関競艇",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-29T08:01:13.189Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "千代の富士",
+          "score": 100
+        },
+        {
+          "keyword": "コンプライアンス",
+          "score": 99
+        },
+        {
+          "keyword": "サラリーマン川柳",
+          "score": 98
+        },
+        {
+          "keyword": "日野自動車",
+          "score": 97
+        },
+        {
+          "keyword": "竹中工務店",
+          "score": 96
+        },
+        {
+          "keyword": "多摩川競艇",
+          "score": 95
+        },
+        {
+          "keyword": "福岡パルコ",
+          "score": 94
+        },
+        {
+          "keyword": "中川安奈",
+          "score": 93
+        },
+        {
+          "keyword": "yahoo 天気",
+          "score": 92
+        },
+        {
+          "keyword": "富士通 株価",
           "score": 91
         }
       ]
