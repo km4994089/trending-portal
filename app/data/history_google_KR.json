@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-25T23:39:17.524Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "la liga",
-          "score": 100
-        },
-        {
-          "keyword": "리플",
-          "score": 99
-        },
-        {
-          "keyword": "산불",
-          "score": 98
-        },
-        {
-          "keyword": "арсенал – манчестер юнайтед",
-          "score": 97
-        },
-        {
-          "keyword": "nfl",
-          "score": 96
-        },
-        {
-          "keyword": "비트코인",
-          "score": 95
-        },
-        {
-          "keyword": "수락산 산불",
-          "score": 94
-        },
-        {
-          "keyword": "이더리움",
-          "score": 93
-        },
-        {
-          "keyword": "serie a",
-          "score": 92
-        },
-        {
-          "keyword": "홈플러스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-26T01:04:58.226Z",
       "geo": "KR",
       "source": "google",
@@ -6625,6 +6578,53 @@
         },
         {
           "keyword": "샌디스크 주가",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-29T23:46:10.907Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "노재헌",
+          "score": 100
+        },
+        {
+          "keyword": "aston villa vs rb salzburg",
+          "score": 99
+        },
+        {
+          "keyword": "europa league",
+          "score": 98
+        },
+        {
+          "keyword": "구글 주가",
+          "score": 97
+        },
+        {
+          "keyword": "west indies vs south africa",
+          "score": 96
+        },
+        {
+          "keyword": "테슬라 주가",
+          "score": 95
+        },
+        {
+          "keyword": "apple",
+          "score": 94
+        },
+        {
+          "keyword": "애플 주가",
+          "score": 93
+        },
+        {
+          "keyword": "마이크론 주가",
+          "score": 92
+        },
+        {
+          "keyword": "비트코인 시세",
           "score": 91
         }
       ]

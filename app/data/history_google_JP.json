@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-25T23:39:18.879Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "白湯",
-          "score": 100
-        },
-        {
-          "keyword": "nikkei",
-          "score": 99
-        },
-        {
-          "keyword": "日本経済新聞",
-          "score": 98
-        },
-        {
-          "keyword": "道南バス",
-          "score": 97
-        },
-        {
-          "keyword": "ばけばけ",
-          "score": 96
-        },
-        {
-          "keyword": "nba",
-          "score": 95
-        },
-        {
-          "keyword": "classi",
-          "score": 94
-        },
-        {
-          "keyword": "オランダリーグ",
-          "score": 93
-        },
-        {
-          "keyword": "産経新聞",
-          "score": 92
-        },
-        {
-          "keyword": "オーストラリアドル",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-26T01:04:59.607Z",
       "geo": "JP",
       "source": "google",
@@ -6625,6 +6578,53 @@
         },
         {
           "keyword": "jr運行情報",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-29T23:46:12.123Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "水卜麻美",
+          "score": 100
+        },
+        {
+          "keyword": "宇都宮",
+          "score": 99
+        },
+        {
+          "keyword": "上白石萌歌",
+          "score": 98
+        },
+        {
+          "keyword": "石田ゆり子",
+          "score": 97
+        },
+        {
+          "keyword": "関電工",
+          "score": 96
+        },
+        {
+          "keyword": "ばけばけ",
+          "score": 95
+        },
+        {
+          "keyword": "ヒコロヒー",
+          "score": 94
+        },
+        {
+          "keyword": "マイニンテンドーストア",
+          "score": 93
+        },
+        {
+          "keyword": "imp",
+          "score": 92
+        },
+        {
+          "keyword": "ばけばけ キャスト",
           "score": 91
         }
       ]
