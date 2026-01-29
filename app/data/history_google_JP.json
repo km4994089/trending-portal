@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-25T20:13:58.647Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "laliga",
-          "score": 100
-        },
-        {
-          "keyword": "26 january",
-          "score": 99
-        },
-        {
-          "keyword": "republic day",
-          "score": 98
-        },
-        {
-          "keyword": "リーグアン",
-          "score": 97
-        },
-        {
-          "keyword": "ユナイテッド",
-          "score": 96
-        },
-        {
-          "keyword": "コードヴェイン2",
-          "score": 95
-        },
-        {
-          "keyword": "premier league",
-          "score": 94
-        },
-        {
-          "keyword": "ボイジャー",
-          "score": 93
-        },
-        {
-          "keyword": "ソシエダ 対 セルタ",
-          "score": 92
-        },
-        {
-          "keyword": "ユヴェントス 対 ナポリ",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-01-25T20:42:42.397Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "la liga",
-          "score": 100
-        },
-        {
-          "keyword": "nfl",
-          "score": 99
-        },
-        {
-          "keyword": "liga inggris",
-          "score": 98
-        },
-        {
-          "keyword": "26 january",
-          "score": 97
-        },
-        {
-          "keyword": "republic day",
-          "score": 96
-        },
-        {
-          "keyword": "リーグアン",
-          "score": 95
-        },
-        {
-          "keyword": "ユナイテッド",
-          "score": 94
-        },
-        {
-          "keyword": "コードヴェイン2",
-          "score": 93
-        },
-        {
-          "keyword": "ボイジャー",
-          "score": 92
-        },
-        {
-          "keyword": "ソシエダ 対 セルタ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-25T21:11:14.327Z",
       "geo": "JP",
       "source": "google",
@@ -6625,6 +6531,53 @@
         },
         {
           "keyword": "ブルームバーグ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-29T20:51:38.163Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jr西日本",
+          "score": 100
+        },
+        {
+          "keyword": "ios26.2.1",
+          "score": 99
+        },
+        {
+          "keyword": "スポーツナビ",
+          "score": 98
+        },
+        {
+          "keyword": "積雪",
+          "score": 97
+        },
+        {
+          "keyword": "ベティス 対 フェイエノールト",
+          "score": 96
+        },
+        {
+          "keyword": "ヨーロッパリーグ",
+          "score": 95
+        },
+        {
+          "keyword": "f1",
+          "score": 94
+        },
+        {
+          "keyword": "東武東上線",
+          "score": 93
+        },
+        {
+          "keyword": "cairn",
+          "score": 92
+        },
+        {
+          "keyword": "kimi k2.5",
           "score": 91
         }
       ]
