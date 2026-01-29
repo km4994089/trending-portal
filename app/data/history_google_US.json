@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-25T16:14:24.725Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "whats open today",
-          "score": 100
-        },
-        {
-          "keyword": "leon bailey",
-          "score": 99
-        },
-        {
-          "keyword": "michael schumacher",
-          "score": 98
-        },
-        {
-          "keyword": "nz vs ind",
-          "score": 97
-        },
-        {
-          "keyword": "abhishek sharma",
-          "score": 96
-        },
-        {
-          "keyword": "ishan kishan",
-          "score": 95
-        },
-        {
-          "keyword": "dexter",
-          "score": 94
-        },
-        {
-          "keyword": "what time is the seahawks game on sunday",
-          "score": 93
-        },
-        {
-          "keyword": "jarrett stidham stats",
-          "score": 92
-        },
-        {
-          "keyword": "real oviedo",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-25T16:46:40.929Z",
       "geo": "US",
       "source": "google",
@@ -6766,6 +6719,53 @@
         },
         {
           "keyword": "sa vs wi",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-29T16:43:42.220Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sonya massey",
+          "score": 100
+        },
+        {
+          "keyword": "wi vs sa",
+          "score": 99
+        },
+        {
+          "keyword": "first brands",
+          "score": 98
+        },
+        {
+          "keyword": "bitcoin price usd",
+          "score": 97
+        },
+        {
+          "keyword": "crimson desert",
+          "score": 96
+        },
+        {
+          "keyword": "brandi carlile",
+          "score": 95
+        },
+        {
+          "keyword": "ethereum price",
+          "score": 94
+        },
+        {
+          "keyword": "spx",
+          "score": 93
+        },
+        {
+          "keyword": "matt mahan",
+          "score": 92
+        },
+        {
+          "keyword": "kitco",
           "score": 91
         }
       ]
