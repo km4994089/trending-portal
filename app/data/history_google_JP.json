@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-25T19:35:02.934Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "laliga",
-          "score": 100
-        },
-        {
-          "keyword": "republic day",
-          "score": 99
-        },
-        {
-          "keyword": "26 january",
-          "score": 98
-        },
-        {
-          "keyword": "リーグアン",
-          "score": 97
-        },
-        {
-          "keyword": "ユナイテッド",
-          "score": 96
-        },
-        {
-          "keyword": "上田綺世",
-          "score": 95
-        },
-        {
-          "keyword": "premier league",
-          "score": 94
-        },
-        {
-          "keyword": "ボイジャー",
-          "score": 93
-        },
-        {
-          "keyword": "ソシエダ 対 セルタ",
-          "score": 92
-        },
-        {
-          "keyword": "ユヴェントス 対 ナポリ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-25T20:13:58.647Z",
       "geo": "JP",
       "source": "google",
@@ -6625,6 +6578,53 @@
         },
         {
           "keyword": "コミックシーモア",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-29T19:49:22.274Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ベティス 対 フェイエノールト",
+          "score": 100
+        },
+        {
+          "keyword": "ヨーロッパリーグ",
+          "score": 99
+        },
+        {
+          "keyword": "東武東上線",
+          "score": 98
+        },
+        {
+          "keyword": "cairn",
+          "score": 97
+        },
+        {
+          "keyword": "kimi k2.5",
+          "score": 96
+        },
+        {
+          "keyword": "ipidea",
+          "score": 95
+        },
+        {
+          "keyword": "谷まりあ",
+          "score": 94
+        },
+        {
+          "keyword": "btc",
+          "score": 93
+        },
+        {
+          "keyword": "小野武彦",
+          "score": 92
+        },
+        {
+          "keyword": "ブルームバーグ",
           "score": 91
         }
       ]

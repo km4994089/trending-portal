@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-25T19:35:00.334Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jojo siwa",
-          "score": 100
-        },
-        {
-          "keyword": "jackie chan",
-          "score": 99
-        },
-        {
-          "keyword": "mercyhurst basketball",
-          "score": 98
-        },
-        {
-          "keyword": "kings vs pistons",
-          "score": 97
-        },
-        {
-          "keyword": "alavés - real betis",
-          "score": 96
-        },
-        {
-          "keyword": "alavés vs real betis",
-          "score": 95
-        },
-        {
-          "keyword": "nate burleson",
-          "score": 94
-        },
-        {
-          "keyword": "losc vs strasbourg",
-          "score": 93
-        },
-        {
-          "keyword": "brock nelson",
-          "score": 92
-        },
-        {
-          "keyword": "craig berube",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-25T20:13:55.818Z",
       "geo": "US",
       "source": "google",
@@ -6625,6 +6578,53 @@
         },
         {
           "keyword": "natalie portman",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-29T19:49:19.872Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "panathinaikos vs roma",
+          "score": 100
+        },
+        {
+          "keyword": "fcsb vs fenerbahçe",
+          "score": 99
+        },
+        {
+          "keyword": "porto vs rangers",
+          "score": 98
+        },
+        {
+          "keyword": "saudi pro league",
+          "score": 97
+        },
+        {
+          "keyword": "aston villa vs rb salzburg",
+          "score": 96
+        },
+        {
+          "keyword": "real betis - feyenoord",
+          "score": 95
+        },
+        {
+          "keyword": "lyon vs paok",
+          "score": 94
+        },
+        {
+          "keyword": "estrella roja - celta de vigo",
+          "score": 93
+        },
+        {
+          "keyword": "crvena zvezda vs celta vigo",
+          "score": 92
+        },
+        {
+          "keyword": "montgomery county public schools",
           "score": 91
         }
       ]
