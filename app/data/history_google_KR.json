@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-25T06:18:49.309Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "게이치",
-          "score": 100
-        },
-        {
-          "keyword": "한그루",
-          "score": 99
-        },
-        {
-          "keyword": "데릭 로즈",
-          "score": 98
-        },
-        {
-          "keyword": "극한직업 찐빵",
-          "score": 97
-        },
-        {
-          "keyword": "토미 폴",
-          "score": 96
-        },
-        {
-          "keyword": "미쓰홍",
-          "score": 95
-        },
-        {
-          "keyword": "호주오픈",
-          "score": 94
-        },
-        {
-          "keyword": "현숙",
-          "score": 93
-        },
-        {
-          "keyword": "윤태화",
-          "score": 92
-        },
-        {
-          "keyword": "호놀드",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-01-25T06:52:52.581Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "황우슬혜",
-          "score": 100
-        },
-        {
-          "keyword": "게이치",
-          "score": 99
-        },
-        {
-          "keyword": "한그루",
-          "score": 98
-        },
-        {
-          "keyword": "데릭 로즈",
-          "score": 97
-        },
-        {
-          "keyword": "극한직업 찐빵",
-          "score": 96
-        },
-        {
-          "keyword": "미쓰홍",
-          "score": 95
-        },
-        {
-          "keyword": "호주오픈",
-          "score": 94
-        },
-        {
-          "keyword": "현숙",
-          "score": 93
-        },
-        {
-          "keyword": "윤태화",
-          "score": 92
-        },
-        {
-          "keyword": "호놀드",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-25T07:14:45.991Z",
       "geo": "KR",
       "source": "google",
@@ -7142,6 +7048,53 @@
         },
         {
           "keyword": "국토교통부",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-29T07:10:31.910Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "부산대",
+          "score": 100
+        },
+        {
+          "keyword": "대전특별시",
+          "score": 99
+        },
+        {
+          "keyword": "중앙대",
+          "score": 98
+        },
+        {
+          "keyword": "서울교통공사",
+          "score": 97
+        },
+        {
+          "keyword": "양수호",
+          "score": 96
+        },
+        {
+          "keyword": "경상북도교육청",
+          "score": 95
+        },
+        {
+          "keyword": "우즈",
+          "score": 94
+        },
+        {
+          "keyword": "전원주 하이닉스",
+          "score": 93
+        },
+        {
+          "keyword": "대구교육청",
+          "score": 92
+        },
+        {
+          "keyword": "신은수",
           "score": 91
         }
       ]
