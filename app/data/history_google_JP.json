@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-26T23:41:58.988Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ばけばけ",
-          "score": 100
-        },
-        {
-          "keyword": "川崎宗則",
-          "score": 99
-        },
-        {
-          "keyword": "弘中綾香",
-          "score": 98
-        },
-        {
-          "keyword": "サブスク",
-          "score": 97
-        },
-        {
-          "keyword": "フィリピン",
-          "score": 96
-        },
-        {
-          "keyword": "ネットフリックス",
-          "score": 95
-        },
-        {
-          "keyword": "天気予報 寒波",
-          "score": 94
-        },
-        {
-          "keyword": "佐久間大介",
-          "score": 93
-        },
-        {
-          "keyword": "ラヴィット",
-          "score": 92
-        },
-        {
-          "keyword": "諏訪湖 御神渡り",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-27T01:03:26.756Z",
       "geo": "JP",
       "source": "google",
@@ -6249,6 +6202,53 @@
         },
         {
           "keyword": "松山英樹",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-30T23:45:06.008Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "埼京線",
+          "score": 100
+        },
+        {
+          "keyword": "旅サラダ",
+          "score": 99
+        },
+        {
+          "keyword": "レインボー",
+          "score": 98
+        },
+        {
+          "keyword": "鳩山紀一郎",
+          "score": 97
+        },
+        {
+          "keyword": "床嶋佳子",
+          "score": 96
+        },
+        {
+          "keyword": "鳴門競艇",
+          "score": 95
+        },
+        {
+          "keyword": "マリオ 映画",
+          "score": 94
+        },
+        {
+          "keyword": "pga",
+          "score": 93
+        },
+        {
+          "keyword": "パンどろぼう",
+          "score": 92
+        },
+        {
+          "keyword": "ごぶごぶフェス",
           "score": 91
         }
       ]
