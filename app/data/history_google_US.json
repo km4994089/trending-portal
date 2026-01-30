@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-26T11:14:16.643Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "delta flight status",
-          "score": 100
-        },
-        {
-          "keyword": "charli xcx",
-          "score": 99
-        },
-        {
-          "keyword": "weather tampa",
-          "score": 98
-        },
-        {
-          "keyword": "how bad are the roads right now",
-          "score": 97
-        },
-        {
-          "keyword": "ct snow totals",
-          "score": 96
-        },
-        {
-          "keyword": "13abc snow emergency levels today",
-          "score": 95
-        },
-        {
-          "keyword": "road closures in alabama today",
-          "score": 94
-        },
-        {
-          "keyword": "delaware state of emergency",
-          "score": 93
-        },
-        {
-          "keyword": "harry styles amex presale",
-          "score": 92
-        },
-        {
-          "keyword": "breakfast sandwich",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-26T11:39:54.500Z",
       "geo": "US",
       "source": "google",
@@ -6390,6 +6343,53 @@
         },
         {
           "keyword": "camila osorio",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-30T11:30:13.278Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "wood tv 8 school closings",
+          "score": 100
+        },
+        {
+          "keyword": "silver price",
+          "score": 99
+        },
+        {
+          "keyword": "uefa",
+          "score": 98
+        },
+        {
+          "keyword": "school closings today",
+          "score": 97
+        },
+        {
+          "keyword": "ga lottery",
+          "score": 96
+        },
+        {
+          "keyword": "shanghai silver price",
+          "score": 95
+        },
+        {
+          "keyword": "ios 26.2.1",
+          "score": 94
+        },
+        {
+          "keyword": "nasa artemis rocket launch",
+          "score": 93
+        },
+        {
+          "keyword": "pa lottery",
+          "score": 92
+        },
+        {
+          "keyword": "champions league draw",
           "score": 91
         }
       ]

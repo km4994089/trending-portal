@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-26T11:14:19.284Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "絢香",
-          "score": 100
-        },
-        {
-          "keyword": "宮",
-          "score": 99
-        },
-        {
-          "keyword": "不二家",
-          "score": 98
-        },
-        {
-          "keyword": "関ジャニ",
-          "score": 97
-        },
-        {
-          "keyword": "日向坂46",
-          "score": 96
-        },
-        {
-          "keyword": "大野愛実",
-          "score": 95
-        },
-        {
-          "keyword": "相撲部屋",
-          "score": 94
-        },
-        {
-          "keyword": "ノルウェー",
-          "score": 93
-        },
-        {
-          "keyword": "坂上忍",
-          "score": 92
-        },
-        {
-          "keyword": "平河悠",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-26T11:39:57.462Z",
       "geo": "JP",
       "source": "google",
@@ -6390,6 +6343,53 @@
         },
         {
           "keyword": "ノバク・ジョコビッチ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-30T11:30:15.960Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "高橋成美",
+          "score": 100
+        },
+        {
+          "keyword": "有吉弘行",
+          "score": 99
+        },
+        {
+          "keyword": "ウイスキー",
+          "score": 98
+        },
+        {
+          "keyword": "葛西紀明",
+          "score": 97
+        },
+        {
+          "keyword": "かりそめ天国",
+          "score": 96
+        },
+        {
+          "keyword": "渡部篤郎",
+          "score": 95
+        },
+        {
+          "keyword": "ザロイヤルファミリー",
+          "score": 94
+        },
+        {
+          "keyword": "アニポケ",
+          "score": 93
+        },
+        {
+          "keyword": "vini",
+          "score": 92
+        },
+        {
+          "keyword": "猪谷千春",
           "score": 91
         }
       ]
