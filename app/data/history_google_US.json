@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-26T20:15:45.797Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dropout",
-          "score": 100
-        },
-        {
-          "keyword": "dcps",
-          "score": 99
-        },
-        {
-          "keyword": "katie price",
-          "score": 98
-        },
-        {
-          "keyword": "norwich city vs coventry",
-          "score": 97
-        },
-        {
-          "keyword": "hisd",
-          "score": 96
-        },
-        {
-          "keyword": "porto vs gil vicente",
-          "score": 95
-        },
-        {
-          "keyword": "tim cook",
-          "score": 94
-        },
-        {
-          "keyword": "karen huger",
-          "score": 93
-        },
-        {
-          "keyword": "school district of philadelphia",
-          "score": 92
-        },
-        {
-          "keyword": "school closings tuesday january 27",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-26T21:15:01.960Z",
       "geo": "US",
       "source": "google",
@@ -6202,6 +6155,53 @@
         },
         {
           "keyword": "bitcoin price today",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-30T20:18:24.760Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "martha maccallum",
+          "score": 100
+        },
+        {
+          "keyword": "georgia southern basketball",
+          "score": 99
+        },
+        {
+          "keyword": "jacob wilson",
+          "score": 98
+        },
+        {
+          "keyword": "justin rose",
+          "score": 97
+        },
+        {
+          "keyword": "scheana shay",
+          "score": 96
+        },
+        {
+          "keyword": "lazio - genoa",
+          "score": 95
+        },
+        {
+          "keyword": "jokic",
+          "score": 94
+        },
+        {
+          "keyword": "lazio vs genoa",
+          "score": 93
+        },
+        {
+          "keyword": "lens vs le havre",
+          "score": 92
+        },
+        {
+          "keyword": "köln vs wolfsburg",
           "score": 91
         }
       ]
