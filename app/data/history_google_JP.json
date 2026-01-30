@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-26T21:15:04.196Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "沖縄 天気",
-          "score": 100
-        },
-        {
-          "keyword": "みずほ銀行",
-          "score": 99
-        },
-        {
-          "keyword": "小芝風花",
-          "score": 98
-        },
-        {
-          "keyword": "jrバス",
-          "score": 97
-        },
-        {
-          "keyword": "青い森鉄道",
-          "score": 96
-        },
-        {
-          "keyword": "paypay 自治体キャンペーン",
-          "score": 95
-        },
-        {
-          "keyword": "nyダウ",
-          "score": 94
-        },
-        {
-          "keyword": "al-nassr vs al-taawoun",
-          "score": 93
-        },
-        {
-          "keyword": "ミャンマー",
-          "score": 92
-        },
-        {
-          "keyword": "エヴァートン 対 リーズ u",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-26T21:44:16.516Z",
       "geo": "JP",
       "source": "google",
@@ -6249,6 +6202,53 @@
         },
         {
           "keyword": "スト6",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-30T21:19:00.707Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "キャサリンオハラ",
+          "score": 100
+        },
+        {
+          "keyword": "f1",
+          "score": 99
+        },
+        {
+          "keyword": "マイクロン株価",
+          "score": 98
+        },
+        {
+          "keyword": "アップル株価",
+          "score": 97
+        },
+        {
+          "keyword": "サンディスク 株価",
+          "score": 96
+        },
+        {
+          "keyword": "今田美桜",
+          "score": 95
+        },
+        {
+          "keyword": "gold price",
+          "score": 94
+        },
+        {
+          "keyword": "映画芸術",
+          "score": 93
+        },
+        {
+          "keyword": "安住 紳一郎",
+          "score": 92
+        },
+        {
+          "keyword": "catherine o'hara",
           "score": 91
         }
       ]
