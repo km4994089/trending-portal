@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-26T04:38:57.937Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "東京駅",
-          "score": 100
-        },
-        {
-          "keyword": "村上佳菜子",
-          "score": 99
-        },
-        {
-          "keyword": "クリッパーズ 対 ネッツ",
-          "score": 98
-        },
-        {
-          "keyword": "加賀まりこ",
-          "score": 97
-        },
-        {
-          "keyword": "早見優",
-          "score": 96
-        },
-        {
-          "keyword": "党首討論",
-          "score": 95
-        },
-        {
-          "keyword": "イヨ・スカイ",
-          "score": 94
-        },
-        {
-          "keyword": "ロッテ ガム",
-          "score": 93
-        },
-        {
-          "keyword": "にゃんこ大戦争 鬼滅の刃",
-          "score": 92
-        },
-        {
-          "keyword": "スタバ 新作",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-26T05:26:52.784Z",
       "geo": "JP",
       "source": "google",
@@ -6625,6 +6578,53 @@
         },
         {
           "keyword": "シクサーズ 対 キングス",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-30T05:03:43.507Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "福岡みなみ",
+          "score": 100
+        },
+        {
+          "keyword": "真木よう子",
+          "score": 99
+        },
+        {
+          "keyword": "コルティナ",
+          "score": 98
+        },
+        {
+          "keyword": "新世界",
+          "score": 97
+        },
+        {
+          "keyword": "すき家 にじさんじ",
+          "score": 96
+        },
+        {
+          "keyword": "ナゲッツ 対 ネッツ",
+          "score": 95
+        },
+        {
+          "keyword": "ハイキュー",
+          "score": 94
+        },
+        {
+          "keyword": "角田夏実",
+          "score": 93
+        },
+        {
+          "keyword": "マーベリックス 対 ホーネッツ",
+          "score": 92
+        },
+        {
+          "keyword": "大阪 天気",
           "score": 91
         }
       ]
