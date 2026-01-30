@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-26T03:27:23.765Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "taylor fritz",
-          "score": 100
-        },
-        {
-          "keyword": "fritz",
-          "score": 99
-        },
-        {
-          "keyword": "stephen king",
-          "score": 98
-        },
-        {
-          "keyword": "kam chancellor",
-          "score": 97
-        },
-        {
-          "keyword": "seahawks gm",
-          "score": 96
-        },
-        {
-          "keyword": "super bowl matchups",
-          "score": 95
-        },
-        {
-          "keyword": "legion of boom",
-          "score": 94
-        },
-        {
-          "keyword": "russel wilson",
-          "score": 93
-        },
-        {
-          "keyword": "super bowl 2016",
-          "score": 92
-        },
-        {
-          "keyword": "malcolm butler",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-26T04:38:55.056Z",
       "geo": "US",
       "source": "google",
@@ -6625,6 +6578,53 @@
         },
         {
           "keyword": "tcu women's basketball",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-30T03:38:00.243Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ryan seacrest",
+          "score": 100
+        },
+        {
+          "keyword": "chet holmgren",
+          "score": 99
+        },
+        {
+          "keyword": "aurora public schools",
+          "score": 98
+        },
+        {
+          "keyword": "drake maye injury",
+          "score": 97
+        },
+        {
+          "keyword": "handmaid's tale",
+          "score": 96
+        },
+        {
+          "keyword": "shannon bream",
+          "score": 95
+        },
+        {
+          "keyword": "shai gilgeous-alexander",
+          "score": 94
+        },
+        {
+          "keyword": "bones hyland",
+          "score": 93
+        },
+        {
+          "keyword": "michael misa",
+          "score": 92
+        },
+        {
+          "keyword": "vaccinations",
           "score": 91
         }
       ]
