@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-26T09:53:48.909Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "旭化成",
-          "score": 100
-        },
-        {
-          "keyword": "ライフ",
-          "score": 99
-        },
-        {
-          "keyword": "スシロー ジョジョ",
-          "score": 98
-        },
-        {
-          "keyword": "ヤニック・シナー",
-          "score": 97
-        },
-        {
-          "keyword": "大動脈解離",
-          "score": 96
-        },
-        {
-          "keyword": "第一生命",
-          "score": 95
-        },
-        {
-          "keyword": "西名阪 事故",
-          "score": 94
-        },
-        {
-          "keyword": "ポケパークカントー",
-          "score": 93
-        },
-        {
-          "keyword": "cdtv",
-          "score": 92
-        },
-        {
-          "keyword": "馬場亮 成",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-26T10:17:40.190Z",
       "geo": "JP",
       "source": "google",
@@ -6437,6 +6390,53 @@
         },
         {
           "keyword": "メラニア夫人",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-30T10:02:56.135Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "シナー",
+          "score": 100
+        },
+        {
+          "keyword": "サザエさん",
+          "score": 99
+        },
+        {
+          "keyword": "jal セール",
+          "score": 98
+        },
+        {
+          "keyword": "とりせん",
+          "score": 97
+        },
+        {
+          "keyword": "フジロック 2026",
+          "score": 96
+        },
+        {
+          "keyword": "土佐市 火事",
+          "score": 95
+        },
+        {
+          "keyword": "中央大学",
+          "score": 94
+        },
+        {
+          "keyword": "九州電力",
+          "score": 93
+        },
+        {
+          "keyword": "住宅ローン",
+          "score": 92
+        },
+        {
+          "keyword": "はたらく細胞 金曜ロードショー",
           "score": 91
         }
       ]

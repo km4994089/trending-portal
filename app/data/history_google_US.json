@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-26T09:53:46.585Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nytimes.com",
-          "score": 100
-        },
-        {
-          "keyword": "are the roads icy right now",
-          "score": 99
-        },
-        {
-          "keyword": "franklin county snow emergency",
-          "score": 98
-        },
-        {
-          "keyword": "0",
-          "score": 97
-        },
-        {
-          "keyword": "ben shelton vs casper ruud",
-          "score": 96
-        },
-        {
-          "keyword": "buffalo",
-          "score": 95
-        },
-        {
-          "keyword": "freeze warning",
-          "score": 94
-        },
-        {
-          "keyword": "camila osorio",
-          "score": 93
-        },
-        {
-          "keyword": "iga świątek",
-          "score": 92
-        },
-        {
-          "keyword": "cow",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-26T10:17:37.538Z",
       "geo": "US",
       "source": "google",
@@ -6437,6 +6390,53 @@
         },
         {
           "keyword": "donna vekic",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-30T10:02:53.581Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "fox 8 school closings",
+          "score": 100
+        },
+        {
+          "keyword": "scarlett johansson",
+          "score": 99
+        },
+        {
+          "keyword": "solana sierra",
+          "score": 98
+        },
+        {
+          "keyword": "where to watch nfl games",
+          "score": 97
+        },
+        {
+          "keyword": "camila osorio",
+          "score": 96
+        },
+        {
+          "keyword": "טל ברקוביץ",
+          "score": 95
+        },
+        {
+          "keyword": "jackie chan",
+          "score": 94
+        },
+        {
+          "keyword": "bank of america",
+          "score": 93
+        },
+        {
+          "keyword": "ssi",
+          "score": 92
+        },
+        {
+          "keyword": "energy rates",
           "score": 91
         }
       ]
