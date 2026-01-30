@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-26T23:13:29.809Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "円井わん",
-          "score": 100
-        },
-        {
-          "keyword": "御神渡り",
-          "score": 99
-        },
-        {
-          "keyword": "ラヴィット",
-          "score": 98
-        },
-        {
-          "keyword": "長尾謙杜",
-          "score": 97
-        },
-        {
-          "keyword": "his",
-          "score": 96
-        },
-        {
-          "keyword": "ゴンチャ",
-          "score": 95
-        },
-        {
-          "keyword": "松本潤",
-          "score": 94
-        },
-        {
-          "keyword": "衆院選 2026",
-          "score": 93
-        },
-        {
-          "keyword": "マックスバリュ",
-          "score": 92
-        },
-        {
-          "keyword": "エアドゥ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-26T23:41:58.988Z",
       "geo": "JP",
       "source": "google",
@@ -6249,6 +6202,53 @@
         },
         {
           "keyword": "よみうりランド",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-30T23:16:47.128Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "井上芳雄",
+          "score": 100
+        },
+        {
+          "keyword": "井川慶",
+          "score": 99
+        },
+        {
+          "keyword": "帝京大学",
+          "score": 98
+        },
+        {
+          "keyword": "芝浦工業大学",
+          "score": 97
+        },
+        {
+          "keyword": "徹子の部屋",
+          "score": 96
+        },
+        {
+          "keyword": "今井春花",
+          "score": 95
+        },
+        {
+          "keyword": "ちばぎんカップ",
+          "score": 94
+        },
+        {
+          "keyword": "真木よう子",
+          "score": 93
+        },
+        {
+          "keyword": "山口もえ",
+          "score": 92
+        },
+        {
+          "keyword": "松山英樹",
           "score": 91
         }
       ]
