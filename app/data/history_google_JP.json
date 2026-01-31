@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-27T06:58:19.581Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "カザフスタン",
-          "score": 100
-        },
-        {
-          "keyword": "信越化学工業",
-          "score": 99
-        },
-        {
-          "keyword": "australian open",
-          "score": 98
-        },
-        {
-          "keyword": "伊藤園",
-          "score": 97
-        },
-        {
-          "keyword": "パリ協定",
-          "score": 96
-        },
-        {
-          "keyword": "ntt東日本",
-          "score": 95
-        },
-        {
-          "keyword": "隕石",
-          "score": 94
-        },
-        {
-          "keyword": "トマト",
-          "score": 93
-        },
-        {
-          "keyword": "津波",
-          "score": 92
-        },
-        {
-          "keyword": "楽天モバイル 通信障害",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-27T07:26:43.473Z",
       "geo": "JP",
       "source": "google",
@@ -6202,6 +6155,53 @@
         },
         {
           "keyword": "スタバ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-31T07:02:34.907Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ダノンシーマ",
+          "score": 100
+        },
+        {
+          "keyword": "bリーグ",
+          "score": 99
+        },
+        {
+          "keyword": "小松島競輪",
+          "score": 98
+        },
+        {
+          "keyword": "ペイペイドーム",
+          "score": 97
+        },
+        {
+          "keyword": "保田圭",
+          "score": 96
+        },
+        {
+          "keyword": "味の素スタジアム",
+          "score": 95
+        },
+        {
+          "keyword": "爆笑問題",
+          "score": 94
+        },
+        {
+          "keyword": "下北沢",
+          "score": 93
+        },
+        {
+          "keyword": "舞鶴ステークス",
+          "score": 92
+        },
+        {
+          "keyword": "黒柳徹子",
           "score": 91
         }
       ]
