@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-27T05:01:53.589Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "alexis ortega",
-          "score": 100
-        },
-        {
-          "keyword": "tylor chase",
-          "score": 99
-        },
-        {
-          "keyword": "pete buttigieg",
-          "score": 98
-        },
-        {
-          "keyword": "byu football",
-          "score": 97
-        },
-        {
-          "keyword": "oj simpson",
-          "score": 96
-        },
-        {
-          "keyword": "buddy hield",
-          "score": 95
-        },
-        {
-          "keyword": "martha stewart",
-          "score": 94
-        },
-        {
-          "keyword": "bonham tx",
-          "score": 93
-        },
-        {
-          "keyword": "bridgerton cast",
-          "score": 92
-        },
-        {
-          "keyword": "anne frank",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-27T05:48:22.995Z",
       "geo": "US",
       "source": "google",
@@ -6249,6 +6202,53 @@
         },
         {
           "keyword": "snow leopard attack",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-31T05:33:36.558Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "steph curry injury",
+          "score": 100
+        },
+        {
+          "keyword": "benoit saint-denis",
+          "score": 99
+        },
+        {
+          "keyword": "iron lung box office",
+          "score": 98
+        },
+        {
+          "keyword": "stephen curry",
+          "score": 97
+        },
+        {
+          "keyword": "louis tomlinson",
+          "score": 96
+        },
+        {
+          "keyword": "did the government shutdown",
+          "score": 95
+        },
+        {
+          "keyword": "lautaro martinez",
+          "score": 94
+        },
+        {
+          "keyword": "ranveer singh",
+          "score": 93
+        },
+        {
+          "keyword": "miley cyrus",
+          "score": 92
+        },
+        {
+          "keyword": "pbr",
           "score": 91
         }
       ]
