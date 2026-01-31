@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-27T05:48:22.995Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "olivia munn",
-          "score": 100
-        },
-        {
-          "keyword": "yahya abdul-mateen ii",
-          "score": 99
-        },
-        {
-          "keyword": "snow leopard",
-          "score": 98
-        },
-        {
-          "keyword": "mountain lion san francisco",
-          "score": 97
-        },
-        {
-          "keyword": "josh shapiro",
-          "score": 96
-        },
-        {
-          "keyword": "coco gauff vs elina svitolina",
-          "score": 95
-        },
-        {
-          "keyword": "who shot alex pretti",
-          "score": 94
-        },
-        {
-          "keyword": "lee majors",
-          "score": 93
-        },
-        {
-          "keyword": "margot robbie",
-          "score": 92
-        },
-        {
-          "keyword": "ned luke",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-01-27T06:21:29.130Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sascha zverev",
-          "score": 100
-        },
-        {
-          "keyword": "richard gere",
-          "score": 99
-        },
-        {
-          "keyword": "netanyahu",
-          "score": 98
-        },
-        {
-          "keyword": "steve kerr",
-          "score": 97
-        },
-        {
-          "keyword": "olivia munn",
-          "score": 96
-        },
-        {
-          "keyword": "yahya abdul-mateen ii",
-          "score": 95
-        },
-        {
-          "keyword": "snow leopard",
-          "score": 94
-        },
-        {
-          "keyword": "mountain lion san francisco",
-          "score": 93
-        },
-        {
-          "keyword": "josh shapiro",
-          "score": 92
-        },
-        {
-          "keyword": "coco gauff vs elina svitolina",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-27T06:58:17.345Z",
       "geo": "US",
       "source": "google",
@@ -6249,6 +6155,53 @@
         },
         {
           "keyword": "pbr",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-31T06:26:19.103Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "osaa basketball",
+          "score": 100
+        },
+        {
+          "keyword": "carls jr",
+          "score": 99
+        },
+        {
+          "keyword": "christian harrison",
+          "score": 98
+        },
+        {
+          "keyword": "california mileage tax",
+          "score": 97
+        },
+        {
+          "keyword": "jackson white",
+          "score": 96
+        },
+        {
+          "keyword": "jessica williams",
+          "score": 95
+        },
+        {
+          "keyword": "warriors score",
+          "score": 94
+        },
+        {
+          "keyword": "mardaani 3",
+          "score": 93
+        },
+        {
+          "keyword": "will ferrell",
+          "score": 92
+        },
+        {
+          "keyword": "iron lung box office",
           "score": 91
         }
       ]
