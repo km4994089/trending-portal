@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-27T16:54:31.313Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "星野源",
-          "score": 100
-        },
-        {
-          "keyword": "坂口健太郎",
-          "score": 99
-        },
-        {
-          "keyword": "東京タワー",
-          "score": 98
-        },
-        {
-          "keyword": "筒井真理子",
-          "score": 97
-        },
-        {
-          "keyword": "略奪奪婚",
-          "score": 96
-        },
-        {
-          "keyword": "ユナイテッドヘルス 株価",
-          "score": 95
-        },
-        {
-          "keyword": "新潟県十日町市行方不明",
-          "score": 94
-        },
-        {
-          "keyword": "パーキンソン病",
-          "score": 93
-        },
-        {
-          "keyword": "脱出おひとり島",
-          "score": 92
-        },
-        {
-          "keyword": "ヨッシー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-27T17:20:40.906Z",
       "geo": "JP",
       "source": "google",
@@ -6249,6 +6202,53 @@
         },
         {
           "keyword": "高井幸大",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-31T17:15:37.932Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "銀魂",
+          "score": 100
+        },
+        {
+          "keyword": "チェルシー 対 ウェストハム",
+          "score": 99
+        },
+        {
+          "keyword": "マインツ",
+          "score": 98
+        },
+        {
+          "keyword": "坂本勇人",
+          "score": 97
+        },
+        {
+          "keyword": "長生炭鉱",
+          "score": 96
+        },
+        {
+          "keyword": "山口蛍",
+          "score": 95
+        },
+        {
+          "keyword": "平祐奈",
+          "score": 94
+        },
+        {
+          "keyword": "高井幸大",
+          "score": 93
+        },
+        {
+          "keyword": "堀北真希",
+          "score": 92
+        },
+        {
+          "keyword": "林志玲",
           "score": 91
         }
       ]
