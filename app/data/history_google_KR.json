@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-27T04:29:34.881Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "러너 티엔",
-          "score": 100
-        },
-        {
-          "keyword": "하이닉스 주가",
-          "score": 99
-        },
-        {
-          "keyword": "알렉산더 즈베레프",
-          "score": 98
-        },
-        {
-          "keyword": "하이닉스",
-          "score": 97
-        },
-        {
-          "keyword": "ev5",
-          "score": 96
-        },
-        {
-          "keyword": "칸예",
-          "score": 95
-        },
-        {
-          "keyword": "미네소타 대 골든 스테이트",
-          "score": 94
-        },
-        {
-          "keyword": "솜혜빈",
-          "score": 93
-        },
-        {
-          "keyword": "네이버 주가",
-          "score": 92
-        },
-        {
-          "keyword": "현대차 주가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-27T05:01:55.595Z",
       "geo": "KR",
       "source": "google",
@@ -6249,6 +6202,53 @@
         },
         {
           "keyword": "lpga",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-31T04:56:30.020Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "휴민트",
+          "score": 100
+        },
+        {
+          "keyword": "도미니카 공화국",
+          "score": 99
+        },
+        {
+          "keyword": "전현무",
+          "score": 98
+        },
+        {
+          "keyword": "천무",
+          "score": 97
+        },
+        {
+          "keyword": "입춘",
+          "score": 96
+        },
+        {
+          "keyword": "government shutdown",
+          "score": 95
+        },
+        {
+          "keyword": "금시세",
+          "score": 94
+        },
+        {
+          "keyword": "moltbook",
+          "score": 93
+        },
+        {
+          "keyword": "lpga",
+          "score": 92
+        },
+        {
+          "keyword": "al-kholood club đấu với al-nassr",
           "score": 91
         }
       ]

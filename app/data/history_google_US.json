@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-27T04:29:33.638Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "brandin podziemski",
-          "score": 100
-        },
-        {
-          "keyword": "julius randle",
-          "score": 99
-        },
-        {
-          "keyword": "north west",
-          "score": 98
-        },
-        {
-          "keyword": "jaden mcdaniels",
-          "score": 97
-        },
-        {
-          "keyword": "rudy gobert",
-          "score": 96
-        },
-        {
-          "keyword": "kennedy",
-          "score": 95
-        },
-        {
-          "keyword": "derrick white",
-          "score": 94
-        },
-        {
-          "keyword": "caleb love",
-          "score": 93
-        },
-        {
-          "keyword": "bones hyland",
-          "score": 92
-        },
-        {
-          "keyword": "jaylen brown",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-27T05:01:53.589Z",
       "geo": "US",
       "source": "google",
@@ -6249,6 +6202,53 @@
         },
         {
           "keyword": "cruz azul",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-31T04:56:28.795Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "brooklyn nets",
+          "score": 100
+        },
+        {
+          "keyword": "warriors",
+          "score": 99
+        },
+        {
+          "keyword": "moses moody",
+          "score": 98
+        },
+        {
+          "keyword": "tim hardaway jr.",
+          "score": 97
+        },
+        {
+          "keyword": "new edition tour",
+          "score": 96
+        },
+        {
+          "keyword": "tobias harris",
+          "score": 95
+        },
+        {
+          "keyword": "randy orton",
+          "score": 94
+        },
+        {
+          "keyword": "mega millions drawing",
+          "score": 93
+        },
+        {
+          "keyword": "isaiah stewart",
+          "score": 92
+        },
+        {
+          "keyword": "snow leopard attack",
           "score": 91
         }
       ]
