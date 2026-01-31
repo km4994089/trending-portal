@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-27T15:22:14.692Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "slv",
-          "score": 100
-        },
-        {
-          "keyword": "netflix stranger things",
-          "score": 99
-        },
-        {
-          "keyword": "rdw stock",
-          "score": 98
-        },
-        {
-          "keyword": "darian mensah",
-          "score": 97
-        },
-        {
-          "keyword": "whitney leavitt",
-          "score": 96
-        },
-        {
-          "keyword": "alex vindman",
-          "score": 95
-        },
-        {
-          "keyword": "tricia mclaughlin",
-          "score": 94
-        },
-        {
-          "keyword": "fog delays bakersfield",
-          "score": 93
-        },
-        {
-          "keyword": "jerry o'connell",
-          "score": 92
-        },
-        {
-          "keyword": "lunda wells",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-27T15:48:59.481Z",
       "geo": "US",
       "source": "google",
@@ -6249,6 +6202,53 @@
         },
         {
           "keyword": "kids soccer",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-31T15:43:30.159Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "pete buttigieg",
+          "score": 100
+        },
+        {
+          "keyword": "bret michaels",
+          "score": 99
+        },
+        {
+          "keyword": "when is super bowl",
+          "score": 98
+        },
+        {
+          "keyword": "byu vs kansas",
+          "score": 97
+        },
+        {
+          "keyword": "jim leonhard",
+          "score": 96
+        },
+        {
+          "keyword": "sa vs wi",
+          "score": 95
+        },
+        {
+          "keyword": "declan rice",
+          "score": 94
+        },
+        {
+          "keyword": "brenden aaronson",
+          "score": 93
+        },
+        {
+          "keyword": "paris fc vs marseille",
+          "score": 92
+        },
+        {
+          "keyword": "t20 world cup",
           "score": 91
         }
       ]
