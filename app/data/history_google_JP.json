@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-27T03:18:53.805Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "仮面ライダー",
-          "score": 100
-        },
-        {
-          "keyword": "自然災害",
-          "score": 99
-        },
-        {
-          "keyword": "陣内貴美子",
-          "score": 98
-        },
-        {
-          "keyword": "ルカ・ドンチッチ",
-          "score": 97
-        },
-        {
-          "keyword": "ウルブズ 対 ウォリアーズ",
-          "score": 96
-        },
-        {
-          "keyword": "衆議院選挙 候補者 一覧",
-          "score": 95
-        },
-        {
-          "keyword": "クラウド",
-          "score": 94
-        },
-        {
-          "keyword": "レブロン・ジェームズ",
-          "score": 93
-        },
-        {
-          "keyword": "八村塁",
-          "score": 92
-        },
-        {
-          "keyword": "ソニック",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-27T04:29:36.121Z",
       "geo": "JP",
       "source": "google",
@@ -6249,6 +6202,53 @@
         },
         {
           "keyword": "マルハニチロ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-31T03:33:51.141Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "菊川怜",
+          "score": 100
+        },
+        {
+          "keyword": "チケットぴあ",
+          "score": 99
+        },
+        {
+          "keyword": "日高屋",
+          "score": 98
+        },
+        {
+          "keyword": "ini",
+          "score": 97
+        },
+        {
+          "keyword": "gジェネエターナル",
+          "score": 96
+        },
+        {
+          "keyword": "ぴあチケット",
+          "score": 95
+        },
+        {
+          "keyword": "照ノ富士引退相撲",
+          "score": 94
+        },
+        {
+          "keyword": "広島 火事",
+          "score": 93
+        },
+        {
+          "keyword": "ウォリアーズ 対 ピストンズ",
+          "score": 92
+        },
+        {
+          "keyword": "マクドナルド メニュー",
           "score": 91
         }
       ]

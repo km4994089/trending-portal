@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-27T03:18:52.698Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "미네소타 대 골든 스테이트",
-          "score": 100
-        },
-        {
-          "keyword": "솜혜빈",
-          "score": 99
-        },
-        {
-          "keyword": "네이버 주가",
-          "score": 98
-        },
-        {
-          "keyword": "현대차 주가",
-          "score": 97
-        },
-        {
-          "keyword": "현대자동차 주가",
-          "score": 96
-        },
-        {
-          "keyword": "코스닥 150",
-          "score": 95
-        },
-        {
-          "keyword": "srt",
-          "score": 94
-        },
-        {
-          "keyword": "srt 설 예매",
-          "score": 93
-        },
-        {
-          "keyword": "갤럭시북6",
-          "score": 92
-        },
-        {
-          "keyword": "관세",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-27T04:29:34.881Z",
       "geo": "KR",
       "source": "google",
@@ -6249,6 +6202,53 @@
         },
         {
           "keyword": "김상욱 경기 시간",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-31T03:33:49.817Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "휴민트",
+          "score": 100
+        },
+        {
+          "keyword": "도미니카 공화국",
+          "score": 99
+        },
+        {
+          "keyword": "전현무",
+          "score": 98
+        },
+        {
+          "keyword": "천무",
+          "score": 97
+        },
+        {
+          "keyword": "입춘",
+          "score": 96
+        },
+        {
+          "keyword": "금값시세",
+          "score": 95
+        },
+        {
+          "keyword": "government shutdown",
+          "score": 94
+        },
+        {
+          "keyword": "금시세",
+          "score": 93
+        },
+        {
+          "keyword": "moltbook",
+          "score": 92
+        },
+        {
+          "keyword": "lpga",
           "score": 91
         }
       ]
