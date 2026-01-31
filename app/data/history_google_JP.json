@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-27T10:17:43.326Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "神楽坂",
-          "score": 100
-        },
-        {
-          "keyword": "広島東洋カープ",
-          "score": 99
-        },
-        {
-          "keyword": "カルロス・アルカラス",
-          "score": 98
-        },
-        {
-          "keyword": "中川紘一",
-          "score": 97
-        },
-        {
-          "keyword": "m3",
-          "score": 96
-        },
-        {
-          "keyword": "シャオシャオレイレイ",
-          "score": 95
-        },
-        {
-          "keyword": "羽月隆太郎",
-          "score": 94
-        },
-        {
-          "keyword": "プーマ",
-          "score": 93
-        },
-        {
-          "keyword": "エリナ・スビトリナ",
-          "score": 92
-        },
-        {
-          "keyword": "アイプリバース",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-27T10:52:36.565Z",
       "geo": "JP",
       "source": "google",
@@ -6202,6 +6155,53 @@
         },
         {
           "keyword": "岡山県",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-31T10:47:59.463Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "赤羽",
+          "score": 100
+        },
+        {
+          "keyword": "西川貴教",
+          "score": 99
+        },
+        {
+          "keyword": "赤羽駅",
+          "score": 98
+        },
+        {
+          "keyword": "内田理央",
+          "score": 97
+        },
+        {
+          "keyword": "サザンオールスターズ",
+          "score": 96
+        },
+        {
+          "keyword": "中道改革連合とは",
+          "score": 95
+        },
+        {
+          "keyword": "モノマネ国宝",
+          "score": 94
+        },
+        {
+          "keyword": "サブウェイ",
+          "score": 93
+        },
+        {
+          "keyword": "上村愛子",
+          "score": 92
+        },
+        {
+          "keyword": "新しいカギ",
           "score": 91
         }
       ]
