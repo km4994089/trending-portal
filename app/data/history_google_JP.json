@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-27T21:39:21.546Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "水上恒司",
-          "score": 100
-        },
-        {
-          "keyword": "沖縄 天気",
-          "score": 99
-        },
-        {
-          "keyword": "jr北海道 運行状況",
-          "score": 98
-        },
-        {
-          "keyword": "円高",
-          "score": 97
-        },
-        {
-          "keyword": "ソフトバンク",
-          "score": 96
-        },
-        {
-          "keyword": "usd jpy",
-          "score": 95
-        },
-        {
-          "keyword": "大島由香里",
-          "score": 94
-        },
-        {
-          "keyword": "f1",
-          "score": 93
-        },
-        {
-          "keyword": "fomc",
-          "score": 92
-        },
-        {
-          "keyword": "給付金",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-27T22:14:21.627Z",
       "geo": "JP",
       "source": "google",
@@ -6241,6 +6194,53 @@
         },
         {
           "keyword": "テニス",
+          "score": 93
+        },
+        {
+          "keyword": "リヴァプール 対 ニューカッスル",
+          "score": 92
+        },
+        {
+          "keyword": "エルチェ 対 バルセロナ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-31T21:41:27.763Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "モナコ 対 レンヌ",
+          "score": 100
+        },
+        {
+          "keyword": "松山英樹",
+          "score": 99
+        },
+        {
+          "keyword": "日本気象協会",
+          "score": 98
+        },
+        {
+          "keyword": "liverpool vs newcastle",
+          "score": 97
+        },
+        {
+          "keyword": "ゴルフ",
+          "score": 96
+        },
+        {
+          "keyword": "リヴァプール",
+          "score": 95
+        },
+        {
+          "keyword": "elche vs barcelona",
+          "score": 94
+        },
+        {
+          "keyword": "中学受験",
           "score": 93
         },
         {

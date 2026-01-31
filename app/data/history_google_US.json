@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-27T21:39:18.924Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "snow squall",
-          "score": 100
-        },
-        {
-          "keyword": "snow squall warning",
-          "score": 99
-        },
-        {
-          "keyword": "guilford county schools",
-          "score": 98
-        },
-        {
-          "keyword": "stx stock",
-          "score": 97
-        },
-        {
-          "keyword": "txn stock",
-          "score": 96
-        },
-        {
-          "keyword": "trump iowa",
-          "score": 95
-        },
-        {
-          "keyword": "dcps",
-          "score": 94
-        },
-        {
-          "keyword": "dxy",
-          "score": 93
-        },
-        {
-          "keyword": "freezing fog",
-          "score": 92
-        },
-        {
-          "keyword": "zach nunn",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-27T22:14:18.684Z",
       "geo": "US",
       "source": "google",
@@ -6249,6 +6202,53 @@
         },
         {
           "keyword": "barca",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-31T21:41:25.096Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sidney crosby",
+          "score": 100
+        },
+        {
+          "keyword": "florian wirtz",
+          "score": 99
+        },
+        {
+          "keyword": "new york rangers",
+          "score": 98
+        },
+        {
+          "keyword": "raphinha",
+          "score": 97
+        },
+        {
+          "keyword": "roman reigns",
+          "score": 96
+        },
+        {
+          "keyword": "seamus power",
+          "score": 95
+        },
+        {
+          "keyword": "américa - necaxa",
+          "score": 94
+        },
+        {
+          "keyword": "drew mcintyre",
+          "score": 93
+        },
+        {
+          "keyword": "baylor vs west virginia",
+          "score": 92
+        },
+        {
+          "keyword": "radford basketball",
           "score": 91
         }
       ]
