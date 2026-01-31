@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-27T08:54:16.336Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ドバイもちもちクッキー",
-          "score": 100
-        },
-        {
-          "keyword": "鹿島建設",
-          "score": 99
-        },
-        {
-          "keyword": "喧嘩独学",
-          "score": 98
-        },
-        {
-          "keyword": "共同通信",
-          "score": 97
-        },
-        {
-          "keyword": "クロアチア",
-          "score": 96
-        },
-        {
-          "keyword": "田中真弓",
-          "score": 95
-        },
-        {
-          "keyword": "国民クイズ",
-          "score": 94
-        },
-        {
-          "keyword": "慶應義塾大学",
-          "score": 93
-        },
-        {
-          "keyword": "超かぐや姫 藤本タツキ",
-          "score": 92
-        },
-        {
-          "keyword": "トランプ関税",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-27T09:23:43.641Z",
       "geo": "JP",
       "source": "google",
@@ -6202,6 +6155,53 @@
         },
         {
           "keyword": "jリーグ 招待",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-31T09:19:20.717Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "zard",
+          "score": 100
+        },
+        {
+          "keyword": "ポピュリスト",
+          "score": 99
+        },
+        {
+          "keyword": "サバレンカ",
+          "score": 98
+        },
+        {
+          "keyword": "アリナ・サバレンカ",
+          "score": 97
+        },
+        {
+          "keyword": "アンダークラス",
+          "score": 96
+        },
+        {
+          "keyword": "小田凱人",
+          "score": 95
+        },
+        {
+          "keyword": "iss",
+          "score": 94
+        },
+        {
+          "keyword": "佐藤輝明",
+          "score": 93
+        },
+        {
+          "keyword": "月",
+          "score": 92
+        },
+        {
+          "keyword": "下関競艇",
           "score": 91
         }
       ]
