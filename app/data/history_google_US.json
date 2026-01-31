@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-27T11:42:26.683Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "wfsb",
-          "score": 100
-        },
-        {
-          "keyword": "wmata",
-          "score": 99
-        },
-        {
-          "keyword": "where is lawrence jones on fox and friends",
-          "score": 98
-        },
-        {
-          "keyword": "ups stock",
-          "score": 97
-        },
-        {
-          "keyword": "frank reich",
-          "score": 96
-        },
-        {
-          "keyword": "penguin",
-          "score": 95
-        },
-        {
-          "keyword": "sofia falcone",
-          "score": 94
-        },
-        {
-          "keyword": "closings today",
-          "score": 93
-        },
-        {
-          "keyword": "weather miami",
-          "score": 92
-        },
-        {
-          "keyword": "is school closed today",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-27T12:27:24.115Z",
       "geo": "US",
       "source": "google",
@@ -6202,6 +6155,53 @@
         },
         {
           "keyword": "online lottery",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-31T12:25:39.480Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "real oviedo - girona",
+          "score": 100
+        },
+        {
+          "keyword": "oviedo vs girona",
+          "score": 99
+        },
+        {
+          "keyword": "wral weather",
+          "score": 98
+        },
+        {
+          "keyword": "aviso de vientos",
+          "score": 97
+        },
+        {
+          "keyword": "roger penske",
+          "score": 96
+        },
+        {
+          "keyword": "sheffield wednesday vs wrexham",
+          "score": 95
+        },
+        {
+          "keyword": "columbia sc weather",
+          "score": 94
+        },
+        {
+          "keyword": "leicester city vs charlton",
+          "score": 93
+        },
+        {
+          "keyword": "alcaraz vs djokovic",
+          "score": 92
+        },
+        {
+          "keyword": "chattanooga weather",
           "score": 91
         }
       ]
