@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-27T21:10:46.923Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ドル円チャート",
-          "score": 100
-        },
-        {
-          "keyword": "ジェイアール北海道",
-          "score": 99
-        },
-        {
-          "keyword": "大島由香里",
-          "score": 98
-        },
-        {
-          "keyword": "石原さとみ",
-          "score": 97
-        },
-        {
-          "keyword": "給付金",
-          "score": 96
-        },
-        {
-          "keyword": "地震",
-          "score": 95
-        },
-        {
-          "keyword": "安住アナ",
-          "score": 94
-        },
-        {
-          "keyword": "天気天気",
-          "score": 93
-        },
-        {
-          "keyword": "宇都宮",
-          "score": 92
-        },
-        {
-          "keyword": "転生保険株式会社 r.i.p",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-27T21:39:21.546Z",
       "geo": "JP",
       "source": "google",
@@ -6249,6 +6202,53 @@
         },
         {
           "keyword": "日曜討論",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-31T21:13:11.212Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "松山英樹",
+          "score": 100
+        },
+        {
+          "keyword": "日本気象協会",
+          "score": 99
+        },
+        {
+          "keyword": "liverpool vs newcastle",
+          "score": 98
+        },
+        {
+          "keyword": "リヴァプール",
+          "score": 97
+        },
+        {
+          "keyword": "elche vs barcelona",
+          "score": 96
+        },
+        {
+          "keyword": "ブンデスリーガ",
+          "score": 95
+        },
+        {
+          "keyword": "中学受験",
+          "score": 94
+        },
+        {
+          "keyword": "テニス",
+          "score": 93
+        },
+        {
+          "keyword": "リヴァプール 対 ニューカッスル",
+          "score": 92
+        },
+        {
+          "keyword": "エルチェ 対 バルセロナ",
           "score": 91
         }
       ]
