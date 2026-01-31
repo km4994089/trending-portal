@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-27T11:16:04.685Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lawrence jones",
-          "score": 100
-        },
-        {
-          "keyword": "australian open results",
-          "score": 99
-        },
-        {
-          "keyword": "alerta por frío extremo",
-          "score": 98
-        },
-        {
-          "keyword": "is school closed today",
-          "score": 97
-        },
-        {
-          "keyword": "weather miami",
-          "score": 96
-        },
-        {
-          "keyword": "gwinnett county schools",
-          "score": 95
-        },
-        {
-          "keyword": "kylie kelce",
-          "score": 94
-        },
-        {
-          "keyword": "nhl teams",
-          "score": 93
-        },
-        {
-          "keyword": "mbta",
-          "score": 92
-        },
-        {
-          "keyword": "irs where's my refund",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-27T11:42:26.683Z",
       "geo": "US",
       "source": "google",
@@ -6202,6 +6155,53 @@
         },
         {
           "keyword": "electric rates",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-01-31T11:40:04.856Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "wilmington nc weather",
+          "score": 100
+        },
+        {
+          "keyword": "wavy 10 weather",
+          "score": 99
+        },
+        {
+          "keyword": "myrtle beach weather",
+          "score": 98
+        },
+        {
+          "keyword": "elena rybakina husband",
+          "score": 97
+        },
+        {
+          "keyword": "pak vs aus",
+          "score": 96
+        },
+        {
+          "keyword": "bbc",
+          "score": 95
+        },
+        {
+          "keyword": "tennis scores",
+          "score": 94
+        },
+        {
+          "keyword": "nytimes.com",
+          "score": 93
+        },
+        {
+          "keyword": "belarus",
+          "score": 92
+        },
+        {
+          "keyword": "online lottery",
           "score": 91
         }
       ]
