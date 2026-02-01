@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T18:58:29.968Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mcdonald's",
-          "score": 100
-        },
-        {
-          "keyword": "fulton county",
-          "score": 99
-        },
-        {
-          "keyword": "streets of minneapolis",
-          "score": 98
-        },
-        {
-          "keyword": "dalton knecht",
-          "score": 97
-        },
-        {
-          "keyword": "cvna stock",
-          "score": 96
-        },
-        {
-          "keyword": "charles victor thompson",
-          "score": 95
-        },
-        {
-          "keyword": "polio",
-          "score": 94
-        },
-        {
-          "keyword": "breeze airways",
-          "score": 93
-        },
-        {
-          "keyword": "shirley raines",
-          "score": 92
-        },
-        {
-          "keyword": "al-ahli saudi vs al-ettifaq",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T19:27:37.738Z",
       "geo": "US",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "purdue vs maryland",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T19:22:11.894Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "senate democrats government shutdown",
+          "score": 100
+        },
+        {
+          "keyword": "mcps",
+          "score": 99
+        },
+        {
+          "keyword": "parma - juventus",
+          "score": 98
+        },
+        {
+          "keyword": "sarah ferguson",
+          "score": 97
+        },
+        {
+          "keyword": "bucaramanga - alianza",
+          "score": 96
+        },
+        {
+          "keyword": "goldie hawn",
+          "score": 95
+        },
+        {
+          "keyword": "strasbourg vs psg",
+          "score": 94
+        },
+        {
+          "keyword": "jordan hicks",
+          "score": 93
+        },
+        {
+          "keyword": "parma vs juventus",
+          "score": 92
+        },
+        {
+          "keyword": "jonnu smith",
           "score": 91
         }
       ]
