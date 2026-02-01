@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T01:00:27.761Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "フランス",
-          "score": 100
-        },
-        {
-          "keyword": "sgcホール有明",
-          "score": 99
-        },
-        {
-          "keyword": "ソシオネクスト 株価",
-          "score": 98
-        },
-        {
-          "keyword": "バスケットボール",
-          "score": 97
-        },
-        {
-          "keyword": "prism",
-          "score": 96
-        },
-        {
-          "keyword": "フジドリームエアラインズ",
-          "score": 95
-        },
-        {
-          "keyword": "フジクラ",
-          "score": 94
-        },
-        {
-          "keyword": "ブラジル",
-          "score": 93
-        },
-        {
-          "keyword": "ウィザーズ 対 ブレイザーズ",
-          "score": 92
-        },
-        {
-          "keyword": "津波",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T03:16:18.463Z",
       "geo": "JP",
       "source": "google",
@@ -6249,6 +6202,53 @@
         },
         {
           "keyword": "三戸舜介",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T01:20:34.228Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "太田光",
+          "score": 100
+        },
+        {
+          "keyword": "菅田将暉",
+          "score": 99
+        },
+        {
+          "keyword": "ラグビー大学選手権",
+          "score": 98
+        },
+        {
+          "keyword": "玉木雄一郎",
+          "score": 97
+        },
+        {
+          "keyword": "ヒート 対 ブルズ",
+          "score": 96
+        },
+        {
+          "keyword": "猪谷千春",
+          "score": 95
+        },
+        {
+          "keyword": "仲宗根泉",
+          "score": 94
+        },
+        {
+          "keyword": "大石あきこ",
+          "score": 93
+        },
+        {
+          "keyword": "misia",
+          "score": 92
+        },
+        {
+          "keyword": "原口一博",
           "score": 91
         }
       ]
