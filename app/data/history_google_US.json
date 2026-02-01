@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T20:53:58.393Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "real madrid",
-          "score": 100
-        },
-        {
-          "keyword": "arsenal",
-          "score": 99
-        },
-        {
-          "keyword": "barcelona hoy",
-          "score": 98
-        },
-        {
-          "keyword": "baltimore city public schools",
-          "score": 97
-        },
-        {
-          "keyword": "kylian mbappé",
-          "score": 96
-        },
-        {
-          "keyword": "mbappe",
-          "score": 95
-        },
-        {
-          "keyword": "steven adams",
-          "score": 94
-        },
-        {
-          "keyword": "fcb",
-          "score": 93
-        },
-        {
-          "keyword": "bcps",
-          "score": 92
-        },
-        {
-          "keyword": "antonio vergara",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T21:20:52.552Z",
       "geo": "US",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "amanda balionis",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T21:14:09.593Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "illinois basketball",
+          "score": 100
+        },
+        {
+          "keyword": "anfernee simons",
+          "score": 99
+        },
+        {
+          "keyword": "justin jefferson",
+          "score": 98
+        },
+        {
+          "keyword": "jayson tatum",
+          "score": 97
+        },
+        {
+          "keyword": "gwinnett county police",
+          "score": 96
+        },
+        {
+          "keyword": "oakland basketball",
+          "score": 95
+        },
+        {
+          "keyword": "obed vargas",
+          "score": 94
+        },
+        {
+          "keyword": "bobby portis",
+          "score": 93
+        },
+        {
+          "keyword": "doc rivers",
+          "score": 92
+        },
+        {
+          "keyword": "fcps",
           "score": 91
         }
       ]

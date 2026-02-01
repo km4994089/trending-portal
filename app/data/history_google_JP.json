@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T20:54:01.567Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "円相場",
-          "score": 100
-        },
-        {
-          "keyword": "arsenal vs kairat",
-          "score": 99
-        },
-        {
-          "keyword": "読売新聞",
-          "score": 98
-        },
-        {
-          "keyword": "バルセロナ",
-          "score": 97
-        },
-        {
-          "keyword": "モナコ 対 ユヴェントス",
-          "score": 96
-        },
-        {
-          "keyword": "barcelona vs copenhagen",
-          "score": 95
-        },
-        {
-          "keyword": "champions league",
-          "score": 94
-        },
-        {
-          "keyword": "uefa champions league",
-          "score": 93
-        },
-        {
-          "keyword": "cl",
-          "score": 92
-        },
-        {
-          "keyword": "cl 日程",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T21:20:54.982Z",
       "geo": "JP",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "ドルトムント 対 ハイデンハイム",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T21:14:12.309Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "青森市 積雪",
+          "score": 100
+        },
+        {
+          "keyword": "jr北海道 運行状況",
+          "score": 99
+        },
+        {
+          "keyword": "吉沢亮",
+          "score": 98
+        },
+        {
+          "keyword": "永作博美",
+          "score": 97
+        },
+        {
+          "keyword": "flamengo x corinthians",
+          "score": 96
+        },
+        {
+          "keyword": "葡萄",
+          "score": 95
+        },
+        {
+          "keyword": "ストラスブール 対 パリsg",
+          "score": 94
+        },
+        {
+          "keyword": "ビルバオ 対 ソシエダ",
+          "score": 93
+        },
+        {
+          "keyword": "tottenham đấu với man city",
+          "score": 92
+        },
+        {
+          "keyword": "中村雅俊",
           "score": 91
         }
       ]
