@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T11:16:02.003Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ny lottery",
-          "score": 100
-        },
-        {
-          "keyword": "school closings today",
-          "score": 99
-        },
-        {
-          "keyword": "wood tv 8",
-          "score": 98
-        },
-        {
-          "keyword": "spencer pratt",
-          "score": 97
-        },
-        {
-          "keyword": "australian open schedule",
-          "score": 96
-        },
-        {
-          "keyword": "ios 26.2.1",
-          "score": 95
-        },
-        {
-          "keyword": "wmata",
-          "score": 94
-        },
-        {
-          "keyword": "jacksonville weather",
-          "score": 93
-        },
-        {
-          "keyword": "wktv closings",
-          "score": 92
-        },
-        {
-          "keyword": "syracuse school closings",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T11:41:54.889Z",
       "geo": "US",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "decentralized finance",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T11:41:22.426Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "excelsior vs ajax",
+          "score": 100
+        },
+        {
+          "keyword": "torino vs lecce",
+          "score": 99
+        },
+        {
+          "keyword": "artificial intelligence news",
+          "score": 98
+        },
+        {
+          "keyword": "pak vs aus",
+          "score": 97
+        },
+        {
+          "keyword": "tennis scores",
+          "score": 96
+        },
+        {
+          "keyword": "best shows on hbo max",
+          "score": 95
+        },
+        {
+          "keyword": "where to watch champions league",
+          "score": 94
+        },
+        {
+          "keyword": "fintech innovation",
+          "score": 93
+        },
+        {
+          "keyword": "what is a data breach",
+          "score": 92
+        },
+        {
+          "keyword": "roger federer",
           "score": 91
         }
       ]
