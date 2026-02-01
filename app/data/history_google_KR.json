@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T03:16:17.081Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "etf",
-          "score": 100
-        },
-        {
-          "keyword": "문화누리카드",
-          "score": 99
-        },
-        {
-          "keyword": "삼성생명",
-          "score": 98
-        },
-        {
-          "keyword": "하이닉스 주가",
-          "score": 97
-        },
-        {
-          "keyword": "엘레나 리바키나",
-          "score": 96
-        },
-        {
-          "keyword": "경기도교육청",
-          "score": 95
-        },
-        {
-          "keyword": "코스닥 지수",
-          "score": 94
-        },
-        {
-          "keyword": "레인보우로보틱스",
-          "score": 93
-        },
-        {
-          "keyword": "이가 시비옹테크",
-          "score": 92
-        },
-        {
-          "keyword": "조달청",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T04:28:23.717Z",
       "geo": "KR",
       "source": "google",
@@ -6249,6 +6202,53 @@
         },
         {
           "keyword": "lpga",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T04:07:27.208Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "시드니 스위니",
+          "score": 100
+        },
+        {
+          "keyword": "캐시워크 정답",
+          "score": 99
+        },
+        {
+          "keyword": "비르츠",
+          "score": 98
+        },
+        {
+          "keyword": "신보람",
+          "score": 97
+        },
+        {
+          "keyword": "경기지역화폐",
+          "score": 96
+        },
+        {
+          "keyword": "수원페이",
+          "score": 95
+        },
+        {
+          "keyword": "볼카노프스키",
+          "score": 94
+        },
+        {
+          "keyword": "신승태",
+          "score": 93
+        },
+        {
+          "keyword": "epstein",
+          "score": 92
+        },
+        {
+          "keyword": "ufc 중계",
           "score": 91
         }
       ]

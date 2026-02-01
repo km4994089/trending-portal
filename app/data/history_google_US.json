@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T03:16:15.865Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "patrick kane",
-          "score": 100
-        },
-        {
-          "keyword": "nhl standings",
-          "score": 99
-        },
-        {
-          "keyword": "sharks vs canucks",
-          "score": 98
-        },
-        {
-          "keyword": "sri lanka",
-          "score": 97
-        },
-        {
-          "keyword": "tyler tanner",
-          "score": 96
-        },
-        {
-          "keyword": "capitals vs kraken",
-          "score": 95
-        },
-        {
-          "keyword": "uswnt",
-          "score": 94
-        },
-        {
-          "keyword": "paul george",
-          "score": 93
-        },
-        {
-          "keyword": "anthony davis",
-          "score": 92
-        },
-        {
-          "keyword": "florida panthers",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T04:28:22.340Z",
       "geo": "US",
       "source": "google",
@@ -6249,6 +6202,53 @@
         },
         {
           "keyword": "león - tigres",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T04:07:25.784Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "gwyneth paltrow",
+          "score": 100
+        },
+        {
+          "keyword": "khamzat chimaev",
+          "score": 99
+        },
+        {
+          "keyword": "gerardo taracena",
+          "score": 98
+        },
+        {
+          "keyword": "chicago bulls",
+          "score": 97
+        },
+        {
+          "keyword": "katlyn lyon",
+          "score": 96
+        },
+        {
+          "keyword": "matas buzelis",
+          "score": 95
+        },
+        {
+          "keyword": "montana basketball",
+          "score": 94
+        },
+        {
+          "keyword": "sean strickland",
+          "score": 93
+        },
+        {
+          "keyword": "pj washington",
+          "score": 92
+        },
+        {
+          "keyword": "gonzaga",
           "score": 91
         }
       ]
