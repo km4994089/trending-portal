@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T09:25:32.571Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dave bautista",
-          "score": 100
-        },
-        {
-          "keyword": "voice",
-          "score": 99
-        },
-        {
-          "keyword": "iran news today",
-          "score": 98
-        },
-        {
-          "keyword": "ben shelton",
-          "score": 97
-        },
-        {
-          "keyword": "ryan reynolds",
-          "score": 96
-        },
-        {
-          "keyword": "kansas city chiefs",
-          "score": 95
-        },
-        {
-          "keyword": "hawaii news now",
-          "score": 94
-        },
-        {
-          "keyword": "kimi k2.5",
-          "score": 93
-        },
-        {
-          "keyword": "walkover in tennis",
-          "score": 92
-        },
-        {
-          "keyword": "kendall jenner",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T09:53:50.475Z",
       "geo": "US",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "fundraiser",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T09:50:39.280Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "latest iphone rumors",
+          "score": 100
+        },
+        {
+          "keyword": "ao",
+          "score": 99
+        },
+        {
+          "keyword": "cryptocurrency trading",
+          "score": 98
+        },
+        {
+          "keyword": "rafael nadal",
+          "score": 97
+        },
+        {
+          "keyword": "nfl schedule this week",
+          "score": 96
+        },
+        {
+          "keyword": "john mcenroe",
+          "score": 95
+        },
+        {
+          "keyword": "tax filing deadline",
+          "score": 94
+        },
+        {
+          "keyword": "sara bejlek",
+          "score": 93
+        },
+        {
+          "keyword": "carls jr",
+          "score": 92
+        },
+        {
+          "keyword": "joe rogan",
           "score": 91
         }
       ]

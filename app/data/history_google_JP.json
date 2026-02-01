@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T09:25:35.552Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "フジテレビ",
-          "score": 100
-        },
-        {
-          "keyword": "牛角",
-          "score": 99
-        },
-        {
-          "keyword": "藤井輝夫",
-          "score": 98
-        },
-        {
-          "keyword": "ヤニック・シナー",
-          "score": 97
-        },
-        {
-          "keyword": "熊本空港",
-          "score": 96
-        },
-        {
-          "keyword": "nasa",
-          "score": 95
-        },
-        {
-          "keyword": "チケプラ",
-          "score": 94
-        },
-        {
-          "keyword": "原大智",
-          "score": 93
-        },
-        {
-          "keyword": "北京",
-          "score": 92
-        },
-        {
-          "keyword": "ケンタッキー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T09:53:53.045Z",
       "geo": "JP",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "高田純次",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T09:50:41.980Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "シリア",
+          "score": 100
+        },
+        {
+          "keyword": "立川",
+          "score": 99
+        },
+        {
+          "keyword": "草津",
+          "score": 98
+        },
+        {
+          "keyword": "アサド",
+          "score": 97
+        },
+        {
+          "keyword": "青森市",
+          "score": 96
+        },
+        {
+          "keyword": "鶴瓶",
+          "score": 95
+        },
+        {
+          "keyword": "平祐奈",
+          "score": 94
+        },
+        {
+          "keyword": "佐々木彩夏",
+          "score": 93
+        },
+        {
+          "keyword": "スリランカ",
+          "score": 92
+        },
+        {
+          "keyword": "オーストラリア",
           "score": 91
         }
       ]
