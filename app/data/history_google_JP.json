@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T09:53:53.045Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "はしか",
-          "score": 100
-        },
-        {
-          "keyword": "セブンイレブン スイーツ",
-          "score": 99
-        },
-        {
-          "keyword": "中国",
-          "score": 98
-        },
-        {
-          "keyword": "フジテレビ",
-          "score": 97
-        },
-        {
-          "keyword": "牛角",
-          "score": 96
-        },
-        {
-          "keyword": "藤井輝夫",
-          "score": 95
-        },
-        {
-          "keyword": "nasa",
-          "score": 94
-        },
-        {
-          "keyword": "ヤニック・シナー",
-          "score": 93
-        },
-        {
-          "keyword": "熊本空港",
-          "score": 92
-        },
-        {
-          "keyword": "チケプラ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T10:18:44.837Z",
       "geo": "JP",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "オーストラリア",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T10:15:39.425Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "岐阜県",
+          "score": 100
+        },
+        {
+          "keyword": "carlos alcaraz",
+          "score": 99
+        },
+        {
+          "keyword": "高木美帆",
+          "score": 98
+        },
+        {
+          "keyword": "匝瑳市",
+          "score": 97
+        },
+        {
+          "keyword": "オリンピック 日程",
+          "score": 96
+        },
+        {
+          "keyword": "シリア",
+          "score": 95
+        },
+        {
+          "keyword": "立川",
+          "score": 94
+        },
+        {
+          "keyword": "草津",
+          "score": 93
+        },
+        {
+          "keyword": "アサド",
+          "score": 92
+        },
+        {
+          "keyword": "青森市",
           "score": 91
         }
       ]
