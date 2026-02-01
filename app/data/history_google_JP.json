@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T17:54:10.569Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "スズキ・ジムニー",
-          "score": 100
-        },
-        {
-          "keyword": "kimi k2.5",
-          "score": 99
-        },
-        {
-          "keyword": "highguard ハイガード",
-          "score": 98
-        },
-        {
-          "keyword": "緊急取調室",
-          "score": 97
-        },
-        {
-          "keyword": "のん",
-          "score": 96
-        },
-        {
-          "keyword": "仲里依紗",
-          "score": 95
-        },
-        {
-          "keyword": "ハリーポッター",
-          "score": 94
-        },
-        {
-          "keyword": "経済指標",
-          "score": 93
-        },
-        {
-          "keyword": "スターフライヤー",
-          "score": 92
-        },
-        {
-          "keyword": "マイクロン株価",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T18:24:57.898Z",
       "geo": "JP",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "アストンヴィラ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T18:21:01.496Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "マンチェスターシティ",
+          "score": 100
+        },
+        {
+          "keyword": "大野愛実",
+          "score": 99
+        },
+        {
+          "keyword": "クレモネーゼ 対 インテル",
+          "score": 98
+        },
+        {
+          "keyword": "日曜劇場 リブート",
+          "score": 97
+        },
+        {
+          "keyword": "liga inggris",
+          "score": 96
+        },
+        {
+          "keyword": "リヨン 対 リール",
+          "score": 95
+        },
+        {
+          "keyword": "櫻坂",
+          "score": 94
+        },
+        {
+          "keyword": "清水宏保",
+          "score": 93
+        },
+        {
+          "keyword": "tottenham vs man city",
+          "score": 92
+        },
+        {
+          "keyword": "ユナイテッド",
           "score": 91
         }
       ]

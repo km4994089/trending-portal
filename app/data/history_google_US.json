@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T17:54:07.938Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "polio",
-          "score": 100
-        },
-        {
-          "keyword": "breeze airways",
-          "score": 99
-        },
-        {
-          "keyword": "al-ahli saudi - al-ettifaq",
-          "score": 98
-        },
-        {
-          "keyword": "al-ahli saudi vs al-ettifaq",
-          "score": 97
-        },
-        {
-          "keyword": "henry reagan",
-          "score": 96
-        },
-        {
-          "keyword": "patrick reed",
-          "score": 95
-        },
-        {
-          "keyword": "tammy duckworth",
-          "score": 94
-        },
-        {
-          "keyword": "rand paul",
-          "score": 93
-        },
-        {
-          "keyword": "michael dell",
-          "score": 92
-        },
-        {
-          "keyword": "bobby babich",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T18:24:54.753Z",
       "geo": "US",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "india u-19 vs pakistan u-19",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T18:20:59.100Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "alabama basketball",
+          "score": 100
+        },
+        {
+          "keyword": "purdue vs maryland",
+          "score": 99
+        },
+        {
+          "keyword": "furman basketball",
+          "score": 98
+        },
+        {
+          "keyword": "barcelona - sevilla",
+          "score": 97
+        },
+        {
+          "keyword": "cameron diaz",
+          "score": 96
+        },
+        {
+          "keyword": "azzi fudd",
+          "score": 95
+        },
+        {
+          "keyword": "gwinnett county",
+          "score": 94
+        },
+        {
+          "keyword": "al-ittihad vs al-najma saudi",
+          "score": 93
+        },
+        {
+          "keyword": "when is the nba trade deadline",
+          "score": 92
+        },
+        {
+          "keyword": "james boasberg",
           "score": 91
         }
       ]
