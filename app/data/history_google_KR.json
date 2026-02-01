@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T10:18:43.556Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "계명대",
-          "score": 100
-        },
-        {
-          "keyword": "야닉 시너",
-          "score": 99
-        },
-        {
-          "keyword": "하이닉스 자사주 소각",
-          "score": 98
-        },
-        {
-          "keyword": "토스 허니콤보 레벨",
-          "score": 97
-        },
-        {
-          "keyword": "모수진",
-          "score": 96
-        },
-        {
-          "keyword": "권성동",
-          "score": 95
-        },
-        {
-          "keyword": "백석대",
-          "score": 94
-        },
-        {
-          "keyword": "유병장수걸",
-          "score": 93
-        },
-        {
-          "keyword": "#ajitpawar",
-          "score": 92
-        },
-        {
-          "keyword": "asml",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T10:52:31.202Z",
       "geo": "KR",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "현주엽",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T10:50:13.767Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lck컵",
+          "score": 100
+        },
+        {
+          "keyword": "기상청",
+          "score": 99
+        },
+        {
+          "keyword": "3443",
+          "score": 98
+        },
+        {
+          "keyword": "루크먼",
+          "score": 97
+        },
+        {
+          "keyword": "제니",
+          "score": 96
+        },
+        {
+          "keyword": "일기예보",
+          "score": 95
+        },
+        {
+          "keyword": "조코비치",
+          "score": 94
+        },
+        {
+          "keyword": "젠지 한화",
+          "score": 93
+        },
+        {
+          "keyword": "호주오픈",
+          "score": 92
+        },
+        {
+          "keyword": "노바크 조코비치",
           "score": 91
         }
       ]
