@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T11:41:54.889Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "amazon layoff",
-          "score": 100
-        },
-        {
-          "keyword": "school closings and delays",
-          "score": 99
-        },
-        {
-          "keyword": "is there school today",
-          "score": 98
-        },
-        {
-          "keyword": "weather miami",
-          "score": 97
-        },
-        {
-          "keyword": "government shutdown update",
-          "score": 96
-        },
-        {
-          "keyword": "ny lottery",
-          "score": 95
-        },
-        {
-          "keyword": "school closings today",
-          "score": 94
-        },
-        {
-          "keyword": "spencer pratt",
-          "score": 93
-        },
-        {
-          "keyword": "ios 26.2.1",
-          "score": 92
-        },
-        {
-          "keyword": "wmata",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T12:28:16.297Z",
       "geo": "US",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "roger federer",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T12:27:06.021Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "real madrid - rayo vallecano",
+          "score": 100
+        },
+        {
+          "keyword": "orlando weather",
+          "score": 99
+        },
+        {
+          "keyword": "rafa nadal",
+          "score": 98
+        },
+        {
+          "keyword": "punxsutawney phil",
+          "score": 97
+        },
+        {
+          "keyword": "u19 world cup",
+          "score": 96
+        },
+        {
+          "keyword": "charlotte airport",
+          "score": 95
+        },
+        {
+          "keyword": "stock market news today",
+          "score": 94
+        },
+        {
+          "keyword": "fpl",
+          "score": 93
+        },
+        {
+          "keyword": "excelsior vs ajax",
+          "score": 92
+        },
+        {
+          "keyword": "federer",
           "score": 91
         }
       ]
