@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T12:28:16.297Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nyt connections hints",
-          "score": 100
-        },
-        {
-          "keyword": "barbara corcoran",
-          "score": 99
-        },
-        {
-          "keyword": "road conditions dfw",
-          "score": 98
-        },
-        {
-          "keyword": "candace owens",
-          "score": 97
-        },
-        {
-          "keyword": "gev stock",
-          "score": 96
-        },
-        {
-          "keyword": "fintech innovation",
-          "score": 95
-        },
-        {
-          "keyword": "netflix top movies right now",
-          "score": 94
-        },
-        {
-          "keyword": "sonos",
-          "score": 93
-        },
-        {
-          "keyword": "creel",
-          "score": 92
-        },
-        {
-          "keyword": "tampa weather",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T13:28:14.208Z",
       "geo": "US",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "federer",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T13:23:59.054Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "aston villa vs brentford",
+          "score": 100
+        },
+        {
+          "keyword": "nottm forest vs crystal palace",
+          "score": 99
+        },
+        {
+          "keyword": "where to watch real madrid vs rayo vallecano",
+          "score": 98
+        },
+        {
+          "keyword": "leylah fernandez",
+          "score": 97
+        },
+        {
+          "keyword": "patriots send off rally",
+          "score": 96
+        },
+        {
+          "keyword": "como vs atalanta",
+          "score": 95
+        },
+        {
+          "keyword": "real id",
+          "score": 94
+        },
+        {
+          "keyword": "jude bellingham",
+          "score": 93
+        },
+        {
+          "keyword": "man united vs fulham",
+          "score": 92
+        },
+        {
+          "keyword": "fire damage restoration",
           "score": 91
         }
       ]
