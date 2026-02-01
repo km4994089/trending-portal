@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T22:51:19.291Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "srt 설 예매",
-          "score": 100
-        },
-        {
-          "keyword": "อาร์เซนอล พบ ไครัต",
-          "score": 99
-        },
-        {
-          "keyword": "napoli vs chelsea",
-          "score": 98
-        },
-        {
-          "keyword": "man city vs galatasaray",
-          "score": 97
-        },
-        {
-          "keyword": "benfica vs real madrid",
-          "score": 96
-        },
-        {
-          "keyword": "ลิเวอร์พูล พบ คาราบัค",
-          "score": 95
-        },
-        {
-          "keyword": "메타 주가",
-          "score": 94
-        },
-        {
-          "keyword": "arsenal vs kairat",
-          "score": 93
-        },
-        {
-          "keyword": "real madrid",
-          "score": 92
-        },
-        {
-          "keyword": "마이크로소프트 주가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T23:18:03.905Z",
       "geo": "KR",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "epl 순위",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T23:15:37.816Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "비트코인 달러",
+          "score": 100
+        },
+        {
+          "keyword": "bitcoin price usd",
+          "score": 99
+        },
+        {
+          "keyword": "lpga",
+          "score": 98
+        },
+        {
+          "keyword": "스트라스부르 대 psg",
+          "score": 97
+        },
+        {
+          "keyword": "pl",
+          "score": 96
+        },
+        {
+          "keyword": "สเปอร์ส พบ แมนซิตี",
+          "score": 95
+        },
+        {
+          "keyword": "tottenham đấu với man city",
+          "score": 94
+        },
+        {
+          "keyword": "토트넘",
+          "score": 93
+        },
+        {
+          "keyword": "tottenham vs man city",
+          "score": 92
+        },
+        {
+          "keyword": "브루노 페르난데스",
           "score": 91
         }
       ]
