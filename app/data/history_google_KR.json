@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T21:20:53.713Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "fotmob",
-          "score": 100
-        },
-        {
-          "keyword": "psg",
-          "score": 99
-        },
-        {
-          "keyword": "챔피언스리그",
-          "score": 98
-        },
-        {
-          "keyword": "champions league",
-          "score": 97
-        },
-        {
-          "keyword": "스포티비",
-          "score": 96
-        },
-        {
-          "keyword": "김민재",
-          "score": 95
-        },
-        {
-          "keyword": "아인트라흐트 대 토트넘",
-          "score": 94
-        },
-        {
-          "keyword": "psg 대 뉴캐슬",
-          "score": 93
-        },
-        {
-          "keyword": "에인트호번 대 바이에른",
-          "score": 92
-        },
-        {
-          "keyword": "나폴리 대 첼시",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T21:51:03.801Z",
       "geo": "KR",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "fotmob",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T21:43:36.029Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "스트라스부르 대 psg",
+          "score": 100
+        },
+        {
+          "keyword": "pl",
+          "score": 99
+        },
+        {
+          "keyword": "tottenham đấu với man city",
+          "score": 98
+        },
+        {
+          "keyword": "맨시티",
+          "score": 97
+        },
+        {
+          "keyword": "토트넘",
+          "score": 96
+        },
+        {
+          "keyword": "tottenham vs man city",
+          "score": 95
+        },
+        {
+          "keyword": "브루노 페르난데스",
+          "score": 94
+        },
+        {
+          "keyword": "epl 순위",
+          "score": 93
+        },
+        {
+          "keyword": "snowfall warning",
+          "score": 92
+        },
+        {
+          "keyword": "맨유 순위",
           "score": 91
         }
       ]

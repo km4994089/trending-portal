@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T21:20:54.982Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "レアル・マドリード",
-          "score": 100
-        },
-        {
-          "keyword": "napoli vs chelsea",
-          "score": 99
-        },
-        {
-          "keyword": "マイクロソフト株価",
-          "score": 98
-        },
-        {
-          "keyword": "adr",
-          "score": 97
-        },
-        {
-          "keyword": "テスラ 株価",
-          "score": 96
-        },
-        {
-          "keyword": "benfica vs madrid",
-          "score": 95
-        },
-        {
-          "keyword": "中野美奈子",
-          "score": 94
-        },
-        {
-          "keyword": "メタ株価",
-          "score": 93
-        },
-        {
-          "keyword": "ビンゴ5",
-          "score": 92
-        },
-        {
-          "keyword": "エヌビディア 株価",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T21:51:05.221Z",
       "geo": "JP",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "中村雅俊",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T21:43:37.468Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "松山英樹",
+          "score": 100
+        },
+        {
+          "keyword": "めざましテレビ",
+          "score": 99
+        },
+        {
+          "keyword": "有本香",
+          "score": 98
+        },
+        {
+          "keyword": "apex switch2",
+          "score": 97
+        },
+        {
+          "keyword": "リーグ・アン",
+          "score": 96
+        },
+        {
+          "keyword": "青森市 天気",
+          "score": 95
+        },
+        {
+          "keyword": "青森市 積雪",
+          "score": 94
+        },
+        {
+          "keyword": "jr北海道 運行状況",
+          "score": 93
+        },
+        {
+          "keyword": "吉沢亮",
+          "score": 92
+        },
+        {
+          "keyword": "永作博美",
           "score": 91
         }
       ]
