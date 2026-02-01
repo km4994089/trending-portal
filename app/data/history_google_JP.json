@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T08:55:05.801Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "北京",
-          "score": 100
-        },
-        {
-          "keyword": "ケンタッキー",
-          "score": 99
-        },
-        {
-          "keyword": "金建希",
-          "score": 98
-        },
-        {
-          "keyword": "キーコーヒー",
-          "score": 97
-        },
-        {
-          "keyword": "プリウス リコール",
-          "score": 96
-        },
-        {
-          "keyword": "kfc",
-          "score": 95
-        },
-        {
-          "keyword": "浅田真央",
-          "score": 94
-        },
-        {
-          "keyword": "大井競馬",
-          "score": 93
-        },
-        {
-          "keyword": "福岡競艇",
-          "score": 92
-        },
-        {
-          "keyword": "立花孝志",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T09:25:35.552Z",
       "geo": "JP",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "twitch",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T09:21:19.959Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "前田利家",
+          "score": 100
+        },
+        {
+          "keyword": "和田アキ子",
+          "score": 99
+        },
+        {
+          "keyword": "加治将樹",
+          "score": 98
+        },
+        {
+          "keyword": "ほどなくお別れです 映画",
+          "score": 97
+        },
+        {
+          "keyword": "ノバク・ジョコビッチ",
+          "score": 96
+        },
+        {
+          "keyword": "サンドウィッチマン",
+          "score": 95
+        },
+        {
+          "keyword": "カルロス・アルカラス",
+          "score": 94
+        },
+        {
+          "keyword": "群馬クレインサンダーズ",
+          "score": 93
+        },
+        {
+          "keyword": "ตรวจหวย",
+          "score": 92
+        },
+        {
+          "keyword": "高田純次",
           "score": 91
         }
       ]

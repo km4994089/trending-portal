@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T08:55:03.075Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jannik sinner",
-          "score": 100
-        },
-        {
-          "keyword": "iran news today",
-          "score": 99
-        },
-        {
-          "keyword": "ben shelton",
-          "score": 98
-        },
-        {
-          "keyword": "ryan reynolds",
-          "score": 97
-        },
-        {
-          "keyword": "kansas city chiefs",
-          "score": 96
-        },
-        {
-          "keyword": "hawaii news now",
-          "score": 95
-        },
-        {
-          "keyword": "kimi k2.5",
-          "score": 94
-        },
-        {
-          "keyword": "kendall jenner",
-          "score": 93
-        },
-        {
-          "keyword": "aaron's",
-          "score": 92
-        },
-        {
-          "keyword": "arc raiders servers",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T09:25:32.571Z",
       "geo": "US",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "john deere",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T09:21:17.366Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "rafael nadal",
+          "score": 100
+        },
+        {
+          "keyword": "nfl schedule this week",
+          "score": 99
+        },
+        {
+          "keyword": "john mcenroe",
+          "score": 98
+        },
+        {
+          "keyword": "tax filing deadline",
+          "score": 97
+        },
+        {
+          "keyword": "sara bejlek",
+          "score": 96
+        },
+        {
+          "keyword": "carls jr",
+          "score": 95
+        },
+        {
+          "keyword": "joe rogan",
+          "score": 94
+        },
+        {
+          "keyword": "childcare",
+          "score": 93
+        },
+        {
+          "keyword": "sports club",
+          "score": 92
+        },
+        {
+          "keyword": "fundraiser",
           "score": 91
         }
       ]
