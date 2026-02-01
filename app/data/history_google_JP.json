@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T23:18:05.281Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "東京 雪",
-          "score": 100
-        },
-        {
-          "keyword": "鈴木福",
-          "score": 99
-        },
-        {
-          "keyword": "津和野",
-          "score": 98
-        },
-        {
-          "keyword": "佐藤浩市",
-          "score": 97
-        },
-        {
-          "keyword": "ダンプカー",
-          "score": 96
-        },
-        {
-          "keyword": "御神渡り",
-          "score": 95
-        },
-        {
-          "keyword": "永野芽郁ボブ",
-          "score": 94
-        },
-        {
-          "keyword": "円井わん",
-          "score": 93
-        },
-        {
-          "keyword": "あのちゃん",
-          "score": 92
-        },
-        {
-          "keyword": "アルテミス北海道",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T23:46:03.364Z",
       "geo": "JP",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "インフルエンザb型",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T23:45:17.499Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "金相場",
+          "score": 100
+        },
+        {
+          "keyword": "パペットスンスン",
+          "score": 99
+        },
+        {
+          "keyword": "三国競艇",
+          "score": 98
+        },
+        {
+          "keyword": "あさイチ",
+          "score": 97
+        },
+        {
+          "keyword": "ヒート 対 ブルズ",
+          "score": 96
+        },
+        {
+          "keyword": "classi",
+          "score": 95
+        },
+        {
+          "keyword": "小林死刑囚",
+          "score": 94
+        },
+        {
+          "keyword": "青森 雪",
+          "score": 93
+        },
+        {
+          "keyword": "時刻",
+          "score": 92
+        },
+        {
+          "keyword": "福田 拓也 俳優",
           "score": 91
         }
       ]
