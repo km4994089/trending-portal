@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T19:27:37.738Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "benfica - real madrid",
-          "score": 100
-        },
-        {
-          "keyword": "arsenal vs kairat",
-          "score": 99
-        },
-        {
-          "keyword": "man city vs galatasaray",
-          "score": 98
-        },
-        {
-          "keyword": "psg vs newcastle",
-          "score": 97
-        },
-        {
-          "keyword": "napoli vs chelsea",
-          "score": 96
-        },
-        {
-          "keyword": "liverpool vs qarabag fk",
-          "score": 95
-        },
-        {
-          "keyword": "psv vs bayern",
-          "score": 94
-        },
-        {
-          "keyword": "manchester city - galatasaray",
-          "score": 93
-        },
-        {
-          "keyword": "dortmund vs inter",
-          "score": 92
-        },
-        {
-          "keyword": "monaco vs juventus",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T19:50:17.187Z",
       "geo": "US",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "jonnu smith",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T19:42:27.939Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "penn state basketball",
+          "score": 100
+        },
+        {
+          "keyword": "athletic - real sociedad",
+          "score": 99
+        },
+        {
+          "keyword": "iowa state vs kansas state",
+          "score": 98
+        },
+        {
+          "keyword": "tcu basketball",
+          "score": 97
+        },
+        {
+          "keyword": "mike lafleur",
+          "score": 96
+        },
+        {
+          "keyword": "senate democrats government shutdown",
+          "score": 95
+        },
+        {
+          "keyword": "parma - juventus",
+          "score": 94
+        },
+        {
+          "keyword": "mcps",
+          "score": 93
+        },
+        {
+          "keyword": "goldie hawn",
+          "score": 92
+        },
+        {
+          "keyword": "bucaramanga - alianza",
           "score": 91
         }
       ]
