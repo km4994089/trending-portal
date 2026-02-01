@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-28T18:24:57.898Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "町田啓太",
-          "score": 100
-        },
-        {
-          "keyword": "スズキ・ジムニー",
-          "score": 99
-        },
-        {
-          "keyword": "kimi k2.5",
-          "score": 98
-        },
-        {
-          "keyword": "highguard ハイガード",
-          "score": 97
-        },
-        {
-          "keyword": "緊急取調室",
-          "score": 96
-        },
-        {
-          "keyword": "のん",
-          "score": 95
-        },
-        {
-          "keyword": "仲里依紗",
-          "score": 94
-        },
-        {
-          "keyword": "ハリーポッター",
-          "score": 93
-        },
-        {
-          "keyword": "経済指標",
-          "score": 92
-        },
-        {
-          "keyword": "スターフライヤー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-28T18:58:32.500Z",
       "geo": "JP",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "ユナイテッド",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-01T18:57:52.452Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "天気天気",
+          "score": 100
+        },
+        {
+          "keyword": "大野愛実",
+          "score": 99
+        },
+        {
+          "keyword": "クレモネーゼ 対 インテル",
+          "score": 98
+        },
+        {
+          "keyword": "日曜劇場 リブート",
+          "score": 97
+        },
+        {
+          "keyword": "ヤニねこ",
+          "score": 96
+        },
+        {
+          "keyword": "liga inggris",
+          "score": 95
+        },
+        {
+          "keyword": "櫻坂46",
+          "score": 94
+        },
+        {
+          "keyword": "リヨン 対 リール",
+          "score": 93
+        },
+        {
+          "keyword": "清水宏保",
+          "score": 92
+        },
+        {
+          "keyword": "tottenham vs man city",
           "score": 91
         }
       ]
