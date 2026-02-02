@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-29T23:46:10.907Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "노재헌",
-          "score": 100
-        },
-        {
-          "keyword": "aston villa vs rb salzburg",
-          "score": 99
-        },
-        {
-          "keyword": "europa league",
-          "score": 98
-        },
-        {
-          "keyword": "구글 주가",
-          "score": 97
-        },
-        {
-          "keyword": "west indies vs south africa",
-          "score": 96
-        },
-        {
-          "keyword": "테슬라 주가",
-          "score": 95
-        },
-        {
-          "keyword": "apple",
-          "score": 94
-        },
-        {
-          "keyword": "애플 주가",
-          "score": 93
-        },
-        {
-          "keyword": "마이크론 주가",
-          "score": 92
-        },
-        {
-          "keyword": "비트코인 시세",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-30T01:09:39.258Z",
       "geo": "KR",
       "source": "google",
@@ -5732,6 +5685,53 @@
         },
         {
           "keyword": "필라델피아 반도체 지수",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-02T23:49:03.983Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sunderland vs burnley",
+          "score": 100
+        },
+        {
+          "keyword": "pltr",
+          "score": 99
+        },
+        {
+          "keyword": "중앙일보",
+          "score": 98
+        },
+        {
+          "keyword": "xai",
+          "score": 97
+        },
+        {
+          "keyword": "금값시세",
+          "score": 96
+        },
+        {
+          "keyword": "다우지수",
+          "score": 95
+        },
+        {
+          "keyword": "팔란티어",
+          "score": 94
+        },
+        {
+          "keyword": "al-riyadh đấu với al-nassr",
+          "score": 93
+        },
+        {
+          "keyword": "엔비디아 주가",
+          "score": 92
+        },
+        {
+          "keyword": "테슬라 주가",
           "score": 91
         }
       ]

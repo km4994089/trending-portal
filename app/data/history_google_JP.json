@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-29T23:46:12.123Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "水卜麻美",
-          "score": 100
-        },
-        {
-          "keyword": "宇都宮",
-          "score": 99
-        },
-        {
-          "keyword": "上白石萌歌",
-          "score": 98
-        },
-        {
-          "keyword": "石田ゆり子",
-          "score": 97
-        },
-        {
-          "keyword": "関電工",
-          "score": 96
-        },
-        {
-          "keyword": "ばけばけ",
-          "score": 95
-        },
-        {
-          "keyword": "ヒコロヒー",
-          "score": 94
-        },
-        {
-          "keyword": "マイニンテンドーストア",
-          "score": 93
-        },
-        {
-          "keyword": "imp",
-          "score": 92
-        },
-        {
-          "keyword": "ばけばけ キャスト",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-30T01:09:40.823Z",
       "geo": "JP",
       "source": "google",
@@ -5732,6 +5685,53 @@
         },
         {
           "keyword": "祝日",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-02T23:49:05.762Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "退職代行モームリ",
+          "score": 100
+        },
+        {
+          "keyword": "石原良純",
+          "score": 99
+        },
+        {
+          "keyword": "三国競艇",
+          "score": 98
+        },
+        {
+          "keyword": "日本維新の会",
+          "score": 97
+        },
+        {
+          "keyword": "金田朋子",
+          "score": 96
+        },
+        {
+          "keyword": "北野谷ふくこ",
+          "score": 95
+        },
+        {
+          "keyword": "アルヒラル",
+          "score": 94
+        },
+        {
+          "keyword": "学級閉鎖",
+          "score": 93
+        },
+        {
+          "keyword": "バロー",
+          "score": 92
+        },
+        {
+          "keyword": "麒麟川島",
           "score": 91
         }
       ]
