@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-29T14:32:11.280Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "리지",
-          "score": 100
-        },
-        {
-          "keyword": "시드니 스위니",
-          "score": 99
-        },
-        {
-          "keyword": "전현무",
-          "score": 98
-        },
-        {
-          "keyword": "티빙",
-          "score": 97
-        },
-        {
-          "keyword": "엠넷플러스",
-          "score": 96
-        },
-        {
-          "keyword": "브리저튼 시즌4",
-          "score": 95
-        },
-        {
-          "keyword": "이나영",
-          "score": 94
-        },
-        {
-          "keyword": "제시카 페굴라",
-          "score": 93
-        },
-        {
-          "keyword": "fc",
-          "score": 92
-        },
-        {
-          "keyword": "캐시워크 정답",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-29T15:26:27.537Z",
       "geo": "KR",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "서경대",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-02T14:35:22.724Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "송민규",
+          "score": 100
+        },
+        {
+          "keyword": "아너",
+          "score": 99
+        },
+        {
+          "keyword": "오라클 주가",
+          "score": 98
+        },
+        {
+          "keyword": "오라클",
+          "score": 97
+        },
+        {
+          "keyword": "희토류",
+          "score": 96
+        },
+        {
+          "keyword": "팔란티어 실적발표",
+          "score": 95
+        },
+        {
+          "keyword": "아오모리",
+          "score": 94
+        },
+        {
+          "keyword": "빌리 아일리시",
+          "score": 93
+        },
+        {
+          "keyword": "달",
+          "score": 92
+        },
+        {
+          "keyword": "대마도",
           "score": 91
         }
       ]
