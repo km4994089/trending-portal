@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-29T17:30:13.553Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tsla",
-          "score": 100
-        },
-        {
-          "keyword": "이더리움",
-          "score": 99
-        },
-        {
-          "keyword": "giá vàng",
-          "score": 98
-        },
-        {
-          "keyword": "미국주식",
-          "score": 97
-        },
-        {
-          "keyword": "금",
-          "score": 96
-        },
-        {
-          "keyword": "이란",
-          "score": 95
-        },
-        {
-          "keyword": "qqq",
-          "score": 94
-        },
-        {
-          "keyword": "업비트",
-          "score": 93
-        },
-        {
-          "keyword": "팔란티어 주가",
-          "score": 92
-        },
-        {
-          "keyword": "미국",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-29T18:31:17.499Z",
       "geo": "KR",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "희토류",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-02T18:01:36.364Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "al-riyadh vs al-nassr",
+          "score": 100
+        },
+        {
+          "keyword": "샌디스크",
+          "score": 99
+        },
+        {
+          "keyword": "복지로",
+          "score": 98
+        },
+        {
+          "keyword": "탁재훈",
+          "score": 97
+        },
+        {
+          "keyword": "알리야드 대 알나스르",
+          "score": 96
+        },
+        {
+          "keyword": "심권호",
+          "score": 95
+        },
+        {
+          "keyword": "송민규",
+          "score": 94
+        },
+        {
+          "keyword": "아너",
+          "score": 93
+        },
+        {
+          "keyword": "오라클 주가",
+          "score": 92
+        },
+        {
+          "keyword": "오라클",
           "score": 91
         }
       ]

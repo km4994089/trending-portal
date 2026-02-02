@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-29T17:30:15.082Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "giá vàng thế giới",
-          "score": 100
-        },
-        {
-          "keyword": "谷まりあ",
-          "score": 99
-        },
-        {
-          "keyword": "btc",
-          "score": 98
-        },
-        {
-          "keyword": "小野武彦",
-          "score": 97
-        },
-        {
-          "keyword": "s&p",
-          "score": 96
-        },
-        {
-          "keyword": "ブルームバーグ",
-          "score": 95
-        },
-        {
-          "keyword": "ダウ",
-          "score": 94
-        },
-        {
-          "keyword": "ビットコイン",
-          "score": 93
-        },
-        {
-          "keyword": "gold price",
-          "score": 92
-        },
-        {
-          "keyword": "mリーグ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-29T18:31:18.803Z",
       "geo": "JP",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "サブウェイ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-02T18:01:37.277Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "楽天モバイル",
+          "score": 100
+        },
+        {
+          "keyword": "cdtv ライブ snowman",
+          "score": 99
+        },
+        {
+          "keyword": "hulu",
+          "score": 98
+        },
+        {
+          "keyword": "上岡龍太郎",
+          "score": 97
+        },
+        {
+          "keyword": "大竹まこと",
+          "score": 96
+        },
+        {
+          "keyword": "花澤香菜",
+          "score": 95
+        },
+        {
+          "keyword": "爱泼斯坦",
+          "score": 94
+        },
+        {
+          "keyword": "徳永英明",
+          "score": 93
+        },
+        {
+          "keyword": "al-riyadh vs al-nassr",
+          "score": 92
+        },
+        {
+          "keyword": "ジェットスター",
           "score": 91
         }
       ]
