@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-29T03:37:39.705Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "amen thompson",
-          "score": 100
-        },
-        {
-          "keyword": "gervonta davis",
-          "score": 99
-        },
-        {
-          "keyword": "delaware basketball",
-          "score": 98
-        },
-        {
-          "keyword": "guy benson",
-          "score": 97
-        },
-        {
-          "keyword": "flagler beach",
-          "score": 96
-        },
-        {
-          "keyword": "tari eason",
-          "score": 95
-        },
-        {
-          "keyword": "courtney love",
-          "score": 94
-        },
-        {
-          "keyword": "moussa diabate",
-          "score": 93
-        },
-        {
-          "keyword": "carlos trejo",
-          "score": 92
-        },
-        {
-          "keyword": "ed norton",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-29T05:00:51.115Z",
       "geo": "US",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "paramount plus free trial",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-02T03:59:47.319Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "axl rose",
+          "score": 100
+        },
+        {
+          "keyword": "d'angelo russell",
+          "score": 99
+        },
+        {
+          "keyword": "lizzo",
+          "score": 98
+        },
+        {
+          "keyword": "metallica",
+          "score": 97
+        },
+        {
+          "keyword": "samuel l jackson",
+          "score": 96
+        },
+        {
+          "keyword": "tim hardaway jr",
+          "score": 95
+        },
+        {
+          "keyword": "beyonce",
+          "score": 94
+        },
+        {
+          "keyword": "pharell williams",
+          "score": 93
+        },
+        {
+          "keyword": "denver nuggets",
+          "score": 92
+        },
+        {
+          "keyword": "jake guentzel",
           "score": 91
         }
       ]
