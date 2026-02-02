@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-29T11:49:53.335Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "荒川静香",
-          "score": 100
-        },
-        {
-          "keyword": "高橋大輔",
-          "score": 99
-        },
-        {
-          "keyword": "ソチ",
-          "score": 98
-        },
-        {
-          "keyword": "宝くじ当選番号",
-          "score": 97
-        },
-        {
-          "keyword": "羽生結弦",
-          "score": 96
-        },
-        {
-          "keyword": "名古屋競馬",
-          "score": 95
-        },
-        {
-          "keyword": "浅田真央",
-          "score": 94
-        },
-        {
-          "keyword": "チケプラ",
-          "score": 93
-        },
-        {
-          "keyword": "paypayドーム",
-          "score": 92
-        },
-        {
-          "keyword": "亀梨和也",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-29T12:33:26.722Z",
       "geo": "JP",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "阿部寛",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-02T11:56:40.973Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "akb48",
+          "score": 100
+        },
+        {
+          "keyword": "akb48 メンバー",
+          "score": 99
+        },
+        {
+          "keyword": "浜辺美波",
+          "score": 98
+        },
+        {
+          "keyword": "菊地亜美",
+          "score": 97
+        },
+        {
+          "keyword": "ちゃんみな",
+          "score": 96
+        },
+        {
+          "keyword": "岩本照",
+          "score": 95
+        },
+        {
+          "keyword": "ガンプラ",
+          "score": 94
+        },
+        {
+          "keyword": "ドバイ",
+          "score": 93
+        },
+        {
+          "keyword": "玉森裕太",
+          "score": 92
+        },
+        {
+          "keyword": "ふみの",
           "score": 91
         }
       ]
