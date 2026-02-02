@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-29T08:01:13.189Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "千代の富士",
-          "score": 100
-        },
-        {
-          "keyword": "コンプライアンス",
-          "score": 99
-        },
-        {
-          "keyword": "サラリーマン川柳",
-          "score": 98
-        },
-        {
-          "keyword": "日野自動車",
-          "score": 97
-        },
-        {
-          "keyword": "竹中工務店",
-          "score": 96
-        },
-        {
-          "keyword": "多摩川競艇",
-          "score": 95
-        },
-        {
-          "keyword": "福岡パルコ",
-          "score": 94
-        },
-        {
-          "keyword": "中川安奈",
-          "score": 93
-        },
-        {
-          "keyword": "yahoo 天気",
-          "score": 92
-        },
-        {
-          "keyword": "富士通 株価",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-29T09:04:13.863Z",
       "geo": "JP",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "清原翔",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-02T08:31:35.926Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "太田光",
+          "score": 100
+        },
+        {
+          "keyword": "cdtvライブ ライブ",
+          "score": 99
+        },
+        {
+          "keyword": "二階堂蓮",
+          "score": 98
+        },
+        {
+          "keyword": "京葉線",
+          "score": 97
+        },
+        {
+          "keyword": "クルド人",
+          "score": 96
+        },
+        {
+          "keyword": "ダイハツ ハイゼットカーゴ",
+          "score": 95
+        },
+        {
+          "keyword": "戸田競艇",
+          "score": 94
+        },
+        {
+          "keyword": "麿赤兒",
+          "score": 93
+        },
+        {
+          "keyword": "みずほ",
+          "score": 92
+        },
+        {
+          "keyword": "中部電力",
           "score": 91
         }
       ]
