@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-29T15:58:49.109Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kitco",
-          "score": 100
-        },
-        {
-          "keyword": "matt mahan",
-          "score": 99
-        },
-        {
-          "keyword": "stock market today",
-          "score": 98
-        },
-        {
-          "keyword": "stock market",
-          "score": 97
-        },
-        {
-          "keyword": "silver price",
-          "score": 96
-        },
-        {
-          "keyword": "qqq",
-          "score": 95
-        },
-        {
-          "keyword": "slv stock",
-          "score": 94
-        },
-        {
-          "keyword": "xrp",
-          "score": 93
-        },
-        {
-          "keyword": "bitcoin price",
-          "score": 92
-        },
-        {
-          "keyword": "sa vs wi",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-29T16:43:42.220Z",
       "geo": "US",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "pfe stock",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-02T16:25:31.482Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "anthony santos",
+          "score": 100
+        },
+        {
+          "keyword": "walmart stock",
+          "score": 99
+        },
+        {
+          "keyword": "dan bongino",
+          "score": 98
+        },
+        {
+          "keyword": "sndk stock",
+          "score": 97
+        },
+        {
+          "keyword": "earthquake san jose",
+          "score": 96
+        },
+        {
+          "keyword": "ionq stock",
+          "score": 95
+        },
+        {
+          "keyword": "benjy taylor",
+          "score": 94
+        },
+        {
+          "keyword": "google stock price",
+          "score": 93
+        },
+        {
+          "keyword": "slv stock",
+          "score": 92
+        },
+        {
+          "keyword": "nasdaq index",
           "score": 91
         }
       ]
