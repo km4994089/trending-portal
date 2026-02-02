@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-29T12:33:26.722Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "高島礼子",
-          "score": 100
-        },
-        {
-          "keyword": "上智大学",
-          "score": 99
-        },
-        {
-          "keyword": "トモコレダイレクト",
-          "score": 98
-        },
-        {
-          "keyword": "尾上右近",
-          "score": 97
-        },
-        {
-          "keyword": "宇野昌磨",
-          "score": 96
-        },
-        {
-          "keyword": "下松市",
-          "score": 95
-        },
-        {
-          "keyword": "小林陵侑",
-          "score": 94
-        },
-        {
-          "keyword": "西川きよし",
-          "score": 93
-        },
-        {
-          "keyword": "中島彩",
-          "score": 92
-        },
-        {
-          "keyword": "みきママ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-29T13:52:34.892Z",
       "geo": "JP",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "ふみの",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-02T12:43:46.811Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "高橋優",
+          "score": 100
+        },
+        {
+          "keyword": "広島3区",
+          "score": 99
+        },
+        {
+          "keyword": "hbc",
+          "score": 98
+        },
+        {
+          "keyword": "三山凌輝",
+          "score": 97
+        },
+        {
+          "keyword": "渡辺直美",
+          "score": 96
+        },
+        {
+          "keyword": "米津玄師",
+          "score": 95
+        },
+        {
+          "keyword": "ラブリ",
+          "score": 94
+        },
+        {
+          "keyword": "私立高校",
+          "score": 93
+        },
+        {
+          "keyword": "公立高校",
+          "score": 92
+        },
+        {
+          "keyword": "ノルディック複合",
           "score": 91
         }
       ]
