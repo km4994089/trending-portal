@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-29T11:02:55.894Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "pakistan vs australia",
-          "score": 100
-        },
-        {
-          "keyword": "セブンイレブン スイーツ",
-          "score": 99
-        },
-        {
-          "keyword": "8番出口 映画",
-          "score": 98
-        },
-        {
-          "keyword": "ウルフルズ",
-          "score": 97
-        },
-        {
-          "keyword": "プレバト",
-          "score": 96
-        },
-        {
-          "keyword": "山下美月",
-          "score": 95
-        },
-        {
-          "keyword": "アイシン",
-          "score": 94
-        },
-        {
-          "keyword": "河内大和",
-          "score": 93
-        },
-        {
-          "keyword": "中島みゆき",
-          "score": 92
-        },
-        {
-          "keyword": "日立建機",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-29T11:49:53.335Z",
       "geo": "JP",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "袁惟仁",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-02T11:29:10.763Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "稲垣吾郎",
+          "score": 100
+        },
+        {
+          "keyword": "高橋一生",
+          "score": 99
+        },
+        {
+          "keyword": "デンマーク",
+          "score": 98
+        },
+        {
+          "keyword": "岸優太",
+          "score": 97
+        },
+        {
+          "keyword": "イーロンマスク",
+          "score": 96
+        },
+        {
+          "keyword": "堺雅人",
+          "score": 95
+        },
+        {
+          "keyword": "森本慎太郎",
+          "score": 94
+        },
+        {
+          "keyword": "前澤友作",
+          "score": 93
+        },
+        {
+          "keyword": "平野紫耀",
+          "score": 92
+        },
+        {
+          "keyword": "阿部寛",
           "score": 91
         }
       ]
