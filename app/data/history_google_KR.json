@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-29T07:10:31.910Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "부산대",
-          "score": 100
-        },
-        {
-          "keyword": "대전특별시",
-          "score": 99
-        },
-        {
-          "keyword": "중앙대",
-          "score": 98
-        },
-        {
-          "keyword": "서울교통공사",
-          "score": 97
-        },
-        {
-          "keyword": "양수호",
-          "score": 96
-        },
-        {
-          "keyword": "경상북도교육청",
-          "score": 95
-        },
-        {
-          "keyword": "우즈",
-          "score": 94
-        },
-        {
-          "keyword": "전원주 하이닉스",
-          "score": 93
-        },
-        {
-          "keyword": "대구교육청",
-          "score": 92
-        },
-        {
-          "keyword": "신은수",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-29T08:01:11.589Z",
       "geo": "KR",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "연준의장",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-02T07:43:39.891Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "오태석",
+          "score": 100
+        },
+        {
+          "keyword": "창원대",
+          "score": 99
+        },
+        {
+          "keyword": "강원기",
+          "score": 98
+        },
+        {
+          "keyword": "경상대",
+          "score": 97
+        },
+        {
+          "keyword": "서울교통공사",
+          "score": 96
+        },
+        {
+          "keyword": "인하대",
+          "score": 95
+        },
+        {
+          "keyword": "chappell roan",
+          "score": 94
+        },
+        {
+          "keyword": "고성국",
+          "score": 93
+        },
+        {
+          "keyword": "고영욱",
+          "score": 92
+        },
+        {
+          "keyword": "kospi",
           "score": 91
         }
       ]
