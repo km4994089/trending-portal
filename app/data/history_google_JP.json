@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-29T16:43:45.087Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "btc",
-          "score": 100
-        },
-        {
-          "keyword": "谷まりあ",
-          "score": 99
-        },
-        {
-          "keyword": "小野武彦",
-          "score": 98
-        },
-        {
-          "keyword": "s&p",
-          "score": 97
-        },
-        {
-          "keyword": "ブルームバーグ",
-          "score": 96
-        },
-        {
-          "keyword": "ダウ",
-          "score": 95
-        },
-        {
-          "keyword": "ビットコイン",
-          "score": 94
-        },
-        {
-          "keyword": "gold price",
-          "score": 93
-        },
-        {
-          "keyword": "松田好花",
-          "score": 92
-        },
-        {
-          "keyword": "mリーグ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-29T17:30:15.082Z",
       "geo": "JP",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "エヌビディア 株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-02T17:08:29.270Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "上岡龍太郎",
+          "score": 100
+        },
+        {
+          "keyword": "大竹まこと",
+          "score": 99
+        },
+        {
+          "keyword": "花澤香菜",
+          "score": 98
+        },
+        {
+          "keyword": "爱泼斯坦",
+          "score": 97
+        },
+        {
+          "keyword": "アフターピル 薬局",
+          "score": 96
+        },
+        {
+          "keyword": "徳永英明",
+          "score": 95
+        },
+        {
+          "keyword": "al-riyadh vs al-nassr",
+          "score": 94
+        },
+        {
+          "keyword": "菊池風磨",
+          "score": 93
+        },
+        {
+          "keyword": "ジェットスター",
+          "score": 92
+        },
+        {
+          "keyword": "サブウェイ",
           "score": 91
         }
       ]

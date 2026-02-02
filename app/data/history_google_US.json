@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-29T16:43:42.220Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sonya massey",
-          "score": 100
-        },
-        {
-          "keyword": "wi vs sa",
-          "score": 99
-        },
-        {
-          "keyword": "first brands",
-          "score": 98
-        },
-        {
-          "keyword": "bitcoin price usd",
-          "score": 97
-        },
-        {
-          "keyword": "crimson desert",
-          "score": 96
-        },
-        {
-          "keyword": "brandi carlile",
-          "score": 95
-        },
-        {
-          "keyword": "ethereum price",
-          "score": 94
-        },
-        {
-          "keyword": "spx",
-          "score": 93
-        },
-        {
-          "keyword": "matt mahan",
-          "score": 92
-        },
-        {
-          "keyword": "kitco",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-29T17:30:12.242Z",
       "geo": "US",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "nasdaq index",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-02T17:08:26.131Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "contexto",
+          "score": 100
+        },
+        {
+          "keyword": "gracie abrams",
+          "score": 99
+        },
+        {
+          "keyword": "kocaelispor - fenerbahçe",
+          "score": 98
+        },
+        {
+          "keyword": "tulsi gabbard",
+          "score": 97
+        },
+        {
+          "keyword": "james talarico",
+          "score": 96
+        },
+        {
+          "keyword": "emma raducanu",
+          "score": 95
+        },
+        {
+          "keyword": "dianna russini",
+          "score": 94
+        },
+        {
+          "keyword": "ella langley",
+          "score": 93
+        },
+        {
+          "keyword": "kocaelispor vs fenerbahçe",
+          "score": 92
+        },
+        {
+          "keyword": "anthony santos",
           "score": 91
         }
       ]
