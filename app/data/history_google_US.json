@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-29T05:00:51.115Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "chris o'leary",
-          "score": 100
-        },
-        {
-          "keyword": "julian champagnie",
-          "score": 99
-        },
-        {
-          "keyword": "coastal flood advisory",
-          "score": 98
-        },
-        {
-          "keyword": "rockets",
-          "score": 97
-        },
-        {
-          "keyword": "ucla vs oregon",
-          "score": 96
-        },
-        {
-          "keyword": "ucla basketball",
-          "score": 95
-        },
-        {
-          "keyword": "desi lydic",
-          "score": 94
-        },
-        {
-          "keyword": "dylan harper",
-          "score": 93
-        },
-        {
-          "keyword": "santa clara basketball",
-          "score": 92
-        },
-        {
-          "keyword": "moses moody",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-29T06:03:28.228Z",
       "geo": "US",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "jake guentzel",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-02T05:24:40.270Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lucy letby",
+          "score": 100
+        },
+        {
+          "keyword": "personal injury attorney",
+          "score": 99
+        },
+        {
+          "keyword": "oscars 2026",
+          "score": 98
+        },
+        {
+          "keyword": "drake grammys",
+          "score": 97
+        },
+        {
+          "keyword": "rayo valenzuela",
+          "score": 96
+        },
+        {
+          "keyword": "steve young",
+          "score": 95
+        },
+        {
+          "keyword": "savannah guthrie",
+          "score": 94
+        },
+        {
+          "keyword": "zoe kravitz",
+          "score": 93
+        },
+        {
+          "keyword": "when are the oscars 2026",
+          "score": 92
+        },
+        {
+          "keyword": "one direction",
           "score": 91
         }
       ]
