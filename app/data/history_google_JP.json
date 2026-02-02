@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-29T10:02:32.841Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "オモロー山下",
-          "score": 100
-        },
-        {
-          "keyword": "fgo イベント",
-          "score": 99
-        },
-        {
-          "keyword": "dfm",
-          "score": 98
-        },
-        {
-          "keyword": "メラニア 映画",
-          "score": 97
-        },
-        {
-          "keyword": "iss",
-          "score": 96
-        },
-        {
-          "keyword": "宍粟市",
-          "score": 95
-        },
-        {
-          "keyword": "石井亮次",
-          "score": 94
-        },
-        {
-          "keyword": "にじさんじ",
-          "score": 93
-        },
-        {
-          "keyword": "熊谷組",
-          "score": 92
-        },
-        {
-          "keyword": "アリナ・サバレンカ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-29T11:02:55.894Z",
       "geo": "JP",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "京葉線",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-02T10:34:30.323Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "伊野尾慧",
+          "score": 100
+        },
+        {
+          "keyword": "平祐奈",
+          "score": 99
+        },
+        {
+          "keyword": "中島裕翔",
+          "score": 98
+        },
+        {
+          "keyword": "ちびまる子ちゃん",
+          "score": 97
+        },
+        {
+          "keyword": "松岡茉優",
+          "score": 96
+        },
+        {
+          "keyword": "江夏詩織",
+          "score": 95
+        },
+        {
+          "keyword": "カルビー",
+          "score": 94
+        },
+        {
+          "keyword": "東京7区",
+          "score": 93
+        },
+        {
+          "keyword": "にこたま ドラマ",
+          "score": 92
+        },
+        {
+          "keyword": "袁惟仁",
           "score": 91
         }
       ]
