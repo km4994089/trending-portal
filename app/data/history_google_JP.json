@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-29T09:04:13.863Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "山本一太",
-          "score": 100
-        },
-        {
-          "keyword": "バーガーキング",
-          "score": 99
-        },
-        {
-          "keyword": "天気予報 東京",
-          "score": 98
-        },
-        {
-          "keyword": "新垣結衣",
-          "score": 97
-        },
-        {
-          "keyword": "中外製薬",
-          "score": 96
-        },
-        {
-          "keyword": "渡辺勇大",
-          "score": 95
-        },
-        {
-          "keyword": "29の日",
-          "score": 94
-        },
-        {
-          "keyword": "阿佐ヶ谷 火事 ニュース",
-          "score": 93
-        },
-        {
-          "keyword": "仮面 ライダー カブト 20 周年",
-          "score": 92
-        },
-        {
-          "keyword": "銀価格",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-29T10:02:32.841Z",
       "geo": "JP",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "中部電力",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-02T09:36:24.179Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "月 今日",
+          "score": 100
+        },
+        {
+          "keyword": "市川由衣",
+          "score": 99
+        },
+        {
+          "keyword": "jba",
+          "score": 98
+        },
+        {
+          "keyword": "自民党 300議席",
+          "score": 97
+        },
+        {
+          "keyword": "強盗事件",
+          "score": 96
+        },
+        {
+          "keyword": "ダライ・ラマ",
+          "score": 95
+        },
+        {
+          "keyword": "太田光",
+          "score": 94
+        },
+        {
+          "keyword": "cdtvライブ ライブ",
+          "score": 93
+        },
+        {
+          "keyword": "二階堂蓮",
+          "score": 92
+        },
+        {
+          "keyword": "京葉線",
           "score": 91
         }
       ]
