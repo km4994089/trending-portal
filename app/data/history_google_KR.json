@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-30T01:09:39.258Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "미래에셋증권",
-          "score": 100
-        },
-        {
-          "keyword": "덕양에너젠",
-          "score": 99
-        },
-        {
-          "keyword": "노재헌",
-          "score": 98
-        },
-        {
-          "keyword": "aston villa vs rb salzburg",
-          "score": 97
-        },
-        {
-          "keyword": "europa league",
-          "score": 96
-        },
-        {
-          "keyword": "west indies vs south africa",
-          "score": 95
-        },
-        {
-          "keyword": "구글 주가",
-          "score": 94
-        },
-        {
-          "keyword": "테슬라 주가",
-          "score": 93
-        },
-        {
-          "keyword": "애플 주가",
-          "score": 92
-        },
-        {
-          "keyword": "마이크론 주가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-30T03:38:01.364Z",
       "geo": "KR",
       "source": "google",
@@ -5732,6 +5685,53 @@
         },
         {
           "keyword": "테슬라 주가",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-03T01:13:13.380Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "장학재단",
+          "score": 100
+        },
+        {
+          "keyword": "성균관대학교",
+          "score": 99
+        },
+        {
+          "keyword": "중앙대학교",
+          "score": 98
+        },
+        {
+          "keyword": "백석대학교",
+          "score": 97
+        },
+        {
+          "keyword": "박근형",
+          "score": 96
+        },
+        {
+          "keyword": "제주항공",
+          "score": 95
+        },
+        {
+          "keyword": "정성국",
+          "score": 94
+        },
+        {
+          "keyword": "파두",
+          "score": 93
+        },
+        {
+          "keyword": "sunderland vs burnley",
+          "score": 92
+        },
+        {
+          "keyword": "국제금시세",
           "score": 91
         }
       ]
