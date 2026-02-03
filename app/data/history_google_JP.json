@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-30T10:02:56.135Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "シナー",
-          "score": 100
-        },
-        {
-          "keyword": "サザエさん",
-          "score": 99
-        },
-        {
-          "keyword": "jal セール",
-          "score": 98
-        },
-        {
-          "keyword": "とりせん",
-          "score": 97
-        },
-        {
-          "keyword": "フジロック 2026",
-          "score": 96
-        },
-        {
-          "keyword": "土佐市 火事",
-          "score": 95
-        },
-        {
-          "keyword": "中央大学",
-          "score": 94
-        },
-        {
-          "keyword": "九州電力",
-          "score": 93
-        },
-        {
-          "keyword": "住宅ローン",
-          "score": 92
-        },
-        {
-          "keyword": "はたらく細胞 金曜ロードショー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-30T10:59:29.686Z",
       "geo": "JP",
       "source": "google",
@@ -5732,6 +5685,53 @@
         },
         {
           "keyword": "京王線",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-03T10:29:52.116Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "上地雄輔",
+          "score": 100
+        },
+        {
+          "keyword": "石原慎太郎",
+          "score": 99
+        },
+        {
+          "keyword": "石原伸晃",
+          "score": 98
+        },
+        {
+          "keyword": "今日の月",
+          "score": 97
+        },
+        {
+          "keyword": "足立梨花",
+          "score": 96
+        },
+        {
+          "keyword": "梅澤美波",
+          "score": 95
+        },
+        {
+          "keyword": "スーパー",
+          "score": 94
+        },
+        {
+          "keyword": "サンケイビル",
+          "score": 93
+        },
+        {
+          "keyword": "だんじり",
+          "score": 92
+        },
+        {
+          "keyword": "リアルタイム",
           "score": 91
         }
       ]

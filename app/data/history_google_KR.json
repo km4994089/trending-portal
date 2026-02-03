@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-30T10:02:54.825Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "블리자드",
-          "score": 100
-        },
-        {
-          "keyword": "openclaw",
-          "score": 99
-        },
-        {
-          "keyword": "시드니 스위니",
-          "score": 98
-        },
-        {
-          "keyword": "루닛",
-          "score": 97
-        },
-        {
-          "keyword": "진학사",
-          "score": 96
-        },
-        {
-          "keyword": "테러맨",
-          "score": 95
-        },
-        {
-          "keyword": "양승태",
-          "score": 94
-        },
-        {
-          "keyword": "장학재단",
-          "score": 93
-        },
-        {
-          "keyword": "동국대",
-          "score": 92
-        },
-        {
-          "keyword": "조훈현",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-30T10:59:27.814Z",
       "geo": "KR",
       "source": "google",
@@ -5732,6 +5685,53 @@
         },
         {
           "keyword": "전한길",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-03T10:29:50.482Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "박정민",
+          "score": 100
+        },
+        {
+          "keyword": "spc 화재",
+          "score": 99
+        },
+        {
+          "keyword": "spc",
+          "score": 98
+        },
+        {
+          "keyword": "우크라이나",
+          "score": 97
+        },
+        {
+          "keyword": "추성훈 이혼",
+          "score": 96
+        },
+        {
+          "keyword": "삼성전자 주가",
+          "score": 95
+        },
+        {
+          "keyword": "삼성전자",
+          "score": 94
+        },
+        {
+          "keyword": "롯데시네마",
+          "score": 93
+        },
+        {
+          "keyword": "오현규",
+          "score": 92
+        },
+        {
+          "keyword": "김병헌",
           "score": 91
         }
       ]
