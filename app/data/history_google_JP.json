@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-30T19:24:54.979Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "三浦春馬",
-          "score": 100
-        },
-        {
-          "keyword": "衆議院選挙 選挙区",
-          "score": 99
-        },
-        {
-          "keyword": "井上清華",
-          "score": 98
-        },
-        {
-          "keyword": "スト6",
-          "score": 97
-        },
-        {
-          "keyword": "石川県 地震",
-          "score": 96
-        },
-        {
-          "keyword": "上坂すみれ",
-          "score": 95
-        },
-        {
-          "keyword": "緊急取調室",
-          "score": 94
-        },
-        {
-          "keyword": "ネトフリ",
-          "score": 93
-        },
-        {
-          "keyword": "バズリズム",
-          "score": 92
-        },
-        {
-          "keyword": "金価格 下落",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-30T19:51:19.969Z",
       "geo": "JP",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "2026 winter olympics",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-03T19:39:27.466Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "アルバセテ 対 バルセロナ",
+          "score": 100
+        },
+        {
+          "keyword": "ブルームバーグ",
+          "score": 99
+        },
+        {
+          "keyword": "地震 千葉",
+          "score": 98
+        },
+        {
+          "keyword": "2026冬季オリンピック 開催地",
+          "score": 97
+        },
+        {
+          "keyword": "野田佳彦",
+          "score": 96
+        },
+        {
+          "keyword": "apex",
+          "score": 95
+        },
+        {
+          "keyword": "thế vận hội mùa đông 2026",
+          "score": 94
+        },
+        {
+          "keyword": "ホロスコープ",
+          "score": 93
+        },
+        {
+          "keyword": "脱出おひとり島5",
+          "score": 92
+        },
+        {
+          "keyword": "2026년 동계 올림픽",
           "score": 91
         }
       ]
