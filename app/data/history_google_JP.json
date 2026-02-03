@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-30T13:47:53.135Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "板垣李光人",
-          "score": 100
-        },
-        {
-          "keyword": "別府大分毎日マラソン",
-          "score": 99
-        },
-        {
-          "keyword": "萩生田光一",
-          "score": 98
-        },
-        {
-          "keyword": "浜松",
-          "score": 97
-        },
-        {
-          "keyword": "三ツ矢雄二",
-          "score": 96
-        },
-        {
-          "keyword": "sl vs eng",
-          "score": 95
-        },
-        {
-          "keyword": "大阪16区",
-          "score": 94
-        },
-        {
-          "keyword": "岩瀬洋志",
-          "score": 93
-        },
-        {
-          "keyword": "献血",
-          "score": 92
-        },
-        {
-          "keyword": "boa",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-30T14:27:31.815Z",
       "geo": "JP",
       "source": "google",
@@ -5732,6 +5685,53 @@
         },
         {
           "keyword": "成田凌",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-03T13:57:08.013Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "アンミカ",
+          "score": 100
+        },
+        {
+          "keyword": "カラバオカップ",
+          "score": 99
+        },
+        {
+          "keyword": "兵頭功海",
+          "score": 98
+        },
+        {
+          "keyword": "sl vs eng",
+          "score": 97
+        },
+        {
+          "keyword": "向山じゅん",
+          "score": 96
+        },
+        {
+          "keyword": "恒松祐里",
+          "score": 95
+        },
+        {
+          "keyword": "麻生太郎",
+          "score": 94
+        },
+        {
+          "keyword": "大泉洋",
+          "score": 93
+        },
+        {
+          "keyword": "ios 26.2",
+          "score": 92
+        },
+        {
+          "keyword": "志田未来",
           "score": 91
         }
       ]
