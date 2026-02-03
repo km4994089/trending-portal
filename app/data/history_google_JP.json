@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-30T05:03:43.507Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "福岡みなみ",
-          "score": 100
-        },
-        {
-          "keyword": "真木よう子",
-          "score": 99
-        },
-        {
-          "keyword": "コルティナ",
-          "score": 98
-        },
-        {
-          "keyword": "新世界",
-          "score": 97
-        },
-        {
-          "keyword": "すき家 にじさんじ",
-          "score": 96
-        },
-        {
-          "keyword": "ナゲッツ 対 ネッツ",
-          "score": 95
-        },
-        {
-          "keyword": "ハイキュー",
-          "score": 94
-        },
-        {
-          "keyword": "角田夏実",
-          "score": 93
-        },
-        {
-          "keyword": "マーベリックス 対 ホーネッツ",
-          "score": 92
-        },
-        {
-          "keyword": "大阪 天気",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-30T06:05:17.632Z",
       "geo": "JP",
       "source": "google",
@@ -5732,6 +5685,53 @@
         },
         {
           "keyword": "森口博子",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-03T05:10:40.281Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "粛清",
+          "score": 100
+        },
+        {
+          "keyword": "住友化学",
+          "score": 99
+        },
+        {
+          "keyword": "shiho",
+          "score": 98
+        },
+        {
+          "keyword": "jamstec",
+          "score": 97
+        },
+        {
+          "keyword": "ヒルナンデス",
+          "score": 96
+        },
+        {
+          "keyword": "オバジ",
+          "score": 95
+        },
+        {
+          "keyword": "高橋真麻",
+          "score": 94
+        },
+        {
+          "keyword": "デフテック",
+          "score": 93
+        },
+        {
+          "keyword": "船越英一郎",
+          "score": 92
+        },
+        {
+          "keyword": "侍ジャパン サポートメンバー",
           "score": 91
         }
       ]
