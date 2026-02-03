@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-30T11:30:15.960Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "高橋成美",
-          "score": 100
-        },
-        {
-          "keyword": "有吉弘行",
-          "score": 99
-        },
-        {
-          "keyword": "ウイスキー",
-          "score": 98
-        },
-        {
-          "keyword": "葛西紀明",
-          "score": 97
-        },
-        {
-          "keyword": "かりそめ天国",
-          "score": 96
-        },
-        {
-          "keyword": "渡部篤郎",
-          "score": 95
-        },
-        {
-          "keyword": "ザロイヤルファミリー",
-          "score": 94
-        },
-        {
-          "keyword": "アニポケ",
-          "score": 93
-        },
-        {
-          "keyword": "vini",
-          "score": 92
-        },
-        {
-          "keyword": "猪谷千春",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-30T12:32:04.219Z",
       "geo": "JP",
       "source": "google",
@@ -5732,6 +5685,53 @@
         },
         {
           "keyword": "z世代",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-03T11:54:11.491Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ほどなくお別れです",
+          "score": 100
+        },
+        {
+          "keyword": "河合優実",
+          "score": 99
+        },
+        {
+          "keyword": "明天的天氣",
+          "score": 98
+        },
+        {
+          "keyword": "水森かおり",
+          "score": 97
+        },
+        {
+          "keyword": "町田市",
+          "score": 96
+        },
+        {
+          "keyword": "浜辺美波",
+          "score": 95
+        },
+        {
+          "keyword": "矢沢永吉",
+          "score": 94
+        },
+        {
+          "keyword": "神戸大学",
+          "score": 93
+        },
+        {
+          "keyword": "久保田利伸",
+          "score": 92
+        },
+        {
+          "keyword": "尾道",
           "score": 91
         }
       ]
