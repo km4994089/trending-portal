@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-30T12:32:04.219Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ミスチル",
-          "score": 100
-        },
-        {
-          "keyword": "崎陽軒",
-          "score": 99
-        },
-        {
-          "keyword": "ハロプロ",
-          "score": 98
-        },
-        {
-          "keyword": "松本若菜",
-          "score": 97
-        },
-        {
-          "keyword": "片岡愛之助",
-          "score": 96
-        },
-        {
-          "keyword": "kevin warsh",
-          "score": 95
-        },
-        {
-          "keyword": "ちゃんみな ライブ",
-          "score": 94
-        },
-        {
-          "keyword": "白砂あやね",
-          "score": 93
-        },
-        {
-          "keyword": "山村紅葉",
-          "score": 92
-        },
-        {
-          "keyword": "マツコデラックス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-30T13:47:53.135Z",
       "geo": "JP",
       "source": "google",
@@ -5732,6 +5685,53 @@
         },
         {
           "keyword": "尾道",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-03T12:36:01.821Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "金子ノブアキ",
+          "score": 100
+        },
+        {
+          "keyword": "進撃の巨人",
+          "score": 99
+        },
+        {
+          "keyword": "マツコデラックス",
+          "score": 98
+        },
+        {
+          "keyword": "サイレンススズカ",
+          "score": 97
+        },
+        {
+          "keyword": "手塚治虫",
+          "score": 96
+        },
+        {
+          "keyword": "北斗の拳",
+          "score": 95
+        },
+        {
+          "keyword": "マツコの知らない世界",
+          "score": 94
+        },
+        {
+          "keyword": "櫻井よしこ",
+          "score": 93
+        },
+        {
+          "keyword": "近畿大学",
+          "score": 92
+        },
+        {
+          "keyword": "成田凌",
           "score": 91
         }
       ]
