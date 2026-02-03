@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-30T07:11:37.843Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "下層 階級",
-          "score": 100
-        },
-        {
-          "keyword": "レインボーシックス",
-          "score": 99
-        },
-        {
-          "keyword": "中国電力",
-          "score": 98
-        },
-        {
-          "keyword": "moltbot",
-          "score": 97
-        },
-        {
-          "keyword": "鬼滅コラボにゃんこ",
-          "score": 96
-        },
-        {
-          "keyword": "えい児",
-          "score": 95
-        },
-        {
-          "keyword": "scsk",
-          "score": 94
-        },
-        {
-          "keyword": "東北電力",
-          "score": 93
-        },
-        {
-          "keyword": "レーザーテック",
-          "score": 92
-        },
-        {
-          "keyword": "つがいけマウンテンリゾート",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-30T07:57:05.761Z",
       "geo": "JP",
       "source": "google",
@@ -5732,6 +5685,53 @@
         },
         {
           "keyword": "大麻",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-03T07:13:51.288Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "はま寿司 フェア",
+          "score": 100
+        },
+        {
+          "keyword": "豊田通商",
+          "score": 99
+        },
+        {
+          "keyword": "三菱電機",
+          "score": 98
+        },
+        {
+          "keyword": "適時開示",
+          "score": 97
+        },
+        {
+          "keyword": "住友電工",
+          "score": 96
+        },
+        {
+          "keyword": "川崎競馬",
+          "score": 95
+        },
+        {
+          "keyword": "稲葉浩志 タッチ",
+          "score": 94
+        },
+        {
+          "keyword": "ベッカム",
+          "score": 93
+        },
+        {
+          "keyword": "メーガン妃",
+          "score": 92
+        },
+        {
+          "keyword": "新浜レオン",
           "score": 91
         }
       ]
