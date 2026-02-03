@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-30T09:29:20.710Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "はしか",
-          "score": 100
-        },
-        {
-          "keyword": "生田絵梨花",
-          "score": 99
-        },
-        {
-          "keyword": "麻疹",
-          "score": 98
-        },
-        {
-          "keyword": "神戸ルミナリエ 2026",
-          "score": 97
-        },
-        {
-          "keyword": "鈴木貴子",
-          "score": 96
-        },
-        {
-          "keyword": "アコスタ",
-          "score": 95
-        },
-        {
-          "keyword": "スリムビューティハウス",
-          "score": 94
-        },
-        {
-          "keyword": "高木菜那",
-          "score": 93
-        },
-        {
-          "keyword": "下関競艇",
-          "score": 92
-        },
-        {
-          "keyword": "メラニア夫人",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-30T10:02:56.135Z",
       "geo": "JP",
       "source": "google",
@@ -5732,6 +5685,53 @@
         },
         {
           "keyword": "はま寿司 フェア",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-03T09:30:40.542Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "フジテレビ",
+          "score": 100
+        },
+        {
+          "keyword": "earthquake japan",
+          "score": 99
+        },
+        {
+          "keyword": "地震",
+          "score": 98
+        },
+        {
+          "keyword": "地震速報",
+          "score": 97
+        },
+        {
+          "keyword": "liquipedia",
+          "score": 96
+        },
+        {
+          "keyword": "ipo",
+          "score": 95
+        },
+        {
+          "keyword": "矢部美穂",
+          "score": 94
+        },
+        {
+          "keyword": "名鉄",
+          "score": 93
+        },
+        {
+          "keyword": "兵庫県公立高校 倍率 2026",
+          "score": 92
+        },
+        {
+          "keyword": "京王線",
           "score": 91
         }
       ]
