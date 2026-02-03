@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-30T03:38:02.641Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ice",
-          "score": 100
-        },
-        {
-          "keyword": "皇居",
-          "score": 99
-        },
-        {
-          "keyword": "金輪島",
-          "score": 98
-        },
-        {
-          "keyword": "ソト",
-          "score": 97
-        },
-        {
-          "keyword": "長野大学",
-          "score": 96
-        },
-        {
-          "keyword": "根岸ステークス 過去",
-          "score": 95
-        },
-        {
-          "keyword": "一山麻緒",
-          "score": 94
-        },
-        {
-          "keyword": "せたな町",
-          "score": 93
-        },
-        {
-          "keyword": "ピーチ",
-          "score": 92
-        },
-        {
-          "keyword": "シクサーズ 対 キングス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-30T05:03:43.507Z",
       "geo": "JP",
       "source": "google",
@@ -5732,6 +5685,53 @@
         },
         {
           "keyword": "武豊",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-03T03:44:54.171Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "幸楽苑",
+          "score": 100
+        },
+        {
+          "keyword": "双日",
+          "score": 99
+        },
+        {
+          "keyword": "任天堂 決算",
+          "score": 98
+        },
+        {
+          "keyword": "サイボウズ",
+          "score": 97
+        },
+        {
+          "keyword": "天気予報 雪",
+          "score": 96
+        },
+        {
+          "keyword": "ぱーてぃーちゃん",
+          "score": 95
+        },
+        {
+          "keyword": "クリッパーズ 対 シクサーズ",
+          "score": 94
+        },
+        {
+          "keyword": "衆議院選挙 中道",
+          "score": 93
+        },
+        {
+          "keyword": "前田敦子",
+          "score": 92
+        },
+        {
+          "keyword": "森口博子",
           "score": 91
         }
       ]
