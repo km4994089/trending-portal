@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-31T03:33:48.769Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "fafo",
-          "score": 100
-        },
-        {
-          "keyword": "north west",
-          "score": 99
-        },
-        {
-          "keyword": "nevada basketball",
-          "score": 98
-        },
-        {
-          "keyword": "college basketball rankings",
-          "score": 97
-        },
-        {
-          "keyword": "bill maher",
-          "score": 96
-        },
-        {
-          "keyword": "ace bailey",
-          "score": 95
-        },
-        {
-          "keyword": "anthony black",
-          "score": 94
-        },
-        {
-          "keyword": "jalen suggs",
-          "score": 93
-        },
-        {
-          "keyword": "eva longoria",
-          "score": 92
-        },
-        {
-          "keyword": "cruz azul",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-31T04:56:28.795Z",
       "geo": "US",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "tari eason",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-04T03:41:58.077Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "micah parsons",
+          "score": 100
+        },
+        {
+          "keyword": "san diego fc vs pumas unam",
+          "score": 99
+        },
+        {
+          "keyword": "bernie goetz",
+          "score": 98
+        },
+        {
+          "keyword": "brandin podziemski",
+          "score": 97
+        },
+        {
+          "keyword": "baylor scheierman",
+          "score": 96
+        },
+        {
+          "keyword": "derrick white",
+          "score": 95
+        },
+        {
+          "keyword": "katie miller",
+          "score": 94
+        },
+        {
+          "keyword": "jalen johnson",
+          "score": 93
+        },
+        {
+          "keyword": "brian angelichio",
+          "score": 92
+        },
+        {
+          "keyword": "is steph curry playing tonight",
           "score": 91
         }
       ]

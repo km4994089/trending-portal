@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-31T03:33:49.817Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "휴민트",
-          "score": 100
-        },
-        {
-          "keyword": "도미니카 공화국",
-          "score": 99
-        },
-        {
-          "keyword": "전현무",
-          "score": 98
-        },
-        {
-          "keyword": "천무",
-          "score": 97
-        },
-        {
-          "keyword": "입춘",
-          "score": 96
-        },
-        {
-          "keyword": "금값시세",
-          "score": 95
-        },
-        {
-          "keyword": "government shutdown",
-          "score": 94
-        },
-        {
-          "keyword": "금시세",
-          "score": 93
-        },
-        {
-          "keyword": "moltbook",
-          "score": 92
-        },
-        {
-          "keyword": "lpga",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-31T04:56:30.020Z",
       "geo": "KR",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "제미나이",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-04T03:41:59.272Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "대구광역시교육청",
+          "score": 100
+        },
+        {
+          "keyword": "대구시교육청",
+          "score": 99
+        },
+        {
+          "keyword": "금왕읍 삼봉리 641",
+          "score": 98
+        },
+        {
+          "keyword": "에어부산",
+          "score": 97
+        },
+        {
+          "keyword": "서울시교육청",
+          "score": 96
+        },
+        {
+          "keyword": "송민규",
+          "score": 95
+        },
+        {
+          "keyword": "이스타항공",
+          "score": 94
+        },
+        {
+          "keyword": "계명대학교",
+          "score": 93
+        },
+        {
+          "keyword": "에이피알",
+          "score": 92
+        },
+        {
+          "keyword": "제주",
           "score": 91
         }
       ]
