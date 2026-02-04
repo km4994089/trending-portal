@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-31T23:13:14.900Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "guardians of the galaxy",
-          "score": 100
-        },
-        {
-          "keyword": "kentucky vs arkansas",
-          "score": 99
-        },
-        {
-          "keyword": "são paulo vs santos",
-          "score": 98
-        },
-        {
-          "keyword": "shavkat rakhmonov",
-          "score": 97
-        },
-        {
-          "keyword": "randy orton",
-          "score": 96
-        },
-        {
-          "keyword": "atlas - mazatlán",
-          "score": 95
-        },
-        {
-          "keyword": "road to ufc",
-          "score": 94
-        },
-        {
-          "keyword": "cody brundage",
-          "score": 93
-        },
-        {
-          "keyword": "la knight",
-          "score": 92
-        },
-        {
-          "keyword": "the miz",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-31T23:42:04.563Z",
       "geo": "US",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "tomas machac",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-04T23:17:42.791Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ronaldo",
+          "score": 100
+        },
+        {
+          "keyword": "lake nona middle school",
+          "score": 99
+        },
+        {
+          "keyword": "david zayas",
+          "score": 98
+        },
+        {
+          "keyword": "santos vs são paulo",
+          "score": 97
+        },
+        {
+          "keyword": "2030 winter olympics",
+          "score": 96
+        },
+        {
+          "keyword": "joseph gordon-levitt",
+          "score": 95
+        },
+        {
+          "keyword": "save act bill",
+          "score": 94
+        },
+        {
+          "keyword": "mcnugget caviar kit",
+          "score": 93
+        },
+        {
+          "keyword": "war machine 2026",
+          "score": 92
+        },
+        {
+          "keyword": "nancy grace",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-31T23:13:16.248Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ufc",
-          "score": 100
-        },
-        {
-          "keyword": "티빙",
-          "score": 99
-        },
-        {
-          "keyword": "김상욱 ufc",
-          "score": 98
-        },
-        {
-          "keyword": "liverpool vs newcastle",
-          "score": 97
-        },
-        {
-          "keyword": "btc usd",
-          "score": 96
-        },
-        {
-          "keyword": "ลิเวอร์พูล พบ นิวคาสเซิล",
-          "score": 95
-        },
-        {
-          "keyword": "elche vs barcelona",
-          "score": 94
-        },
-        {
-          "keyword": "바르셀로나",
-          "score": 93
-        },
-        {
-          "keyword": "리버풀",
-          "score": 92
-        },
-        {
-          "keyword": "เชลซี พบ เวสต์แฮม",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-31T23:42:05.702Z",
       "geo": "KR",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "마이크론 주가",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-04T23:17:43.999Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "манчестер сити – ньюкасл юнайтед",
+          "score": 100
+        },
+        {
+          "keyword": "허가윤",
+          "score": 99
+        },
+        {
+          "keyword": "오현규",
+          "score": 98
+        },
+        {
+          "keyword": "애버딘 대 셀틱",
+          "score": 97
+        },
+        {
+          "keyword": "แมนซิตี พบ นิวคาสเซิล",
+          "score": 96
+        },
+        {
+          "keyword": "브로드컴 주가",
+          "score": 95
+        },
+        {
+          "keyword": "man city đấu với newcastle",
+          "score": 94
+        },
+        {
+          "keyword": "맨시티",
+          "score": 93
+        },
+        {
+          "keyword": "구글 주가",
+          "score": 92
+        },
+        {
+          "keyword": "man city vs newcastle",
           "score": 91
         }
       ]
