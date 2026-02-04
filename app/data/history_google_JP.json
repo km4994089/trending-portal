@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-31T22:45:32.234Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ufc",
-          "score": 100
-        },
-        {
-          "keyword": "石丸幹二",
-          "score": 99
-        },
-        {
-          "keyword": "高須順一",
-          "score": 98
-        },
-        {
-          "keyword": "国民審査",
-          "score": 97
-        },
-        {
-          "keyword": "安住淳",
-          "score": 96
-        },
-        {
-          "keyword": "森高千里",
-          "score": 95
-        },
-        {
-          "keyword": "野中瑠衣",
-          "score": 94
-        },
-        {
-          "keyword": "木村了",
-          "score": 93
-        },
-        {
-          "keyword": "森下千里",
-          "score": 92
-        },
-        {
-          "keyword": "小泉進次郎",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-31T23:13:17.700Z",
       "geo": "JP",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "なにわ男子",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-04T22:49:39.739Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "西武新宿線",
+          "score": 100
+        },
+        {
+          "keyword": "イタリア",
+          "score": 99
+        },
+        {
+          "keyword": "千葉14区",
+          "score": 98
+        },
+        {
+          "keyword": "宮崎市天気",
+          "score": 97
+        },
+        {
+          "keyword": "インフルエンザb型",
+          "score": 96
+        },
+        {
+          "keyword": "蘇我駅",
+          "score": 95
+        },
+        {
+          "keyword": "スターウォーズ",
+          "score": 94
+        },
+        {
+          "keyword": "山時聡真",
+          "score": 93
+        },
+        {
+          "keyword": "坂本花織",
+          "score": 92
+        },
+        {
+          "keyword": "東京理科大学",
           "score": 91
         }
       ]
