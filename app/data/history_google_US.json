@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-31T21:13:08.519Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "scooter braun",
-          "score": 100
-        },
-        {
-          "keyword": "hallie aiono",
-          "score": 99
-        },
-        {
-          "keyword": "sebastian szalay",
-          "score": 98
-        },
-        {
-          "keyword": "penguins",
-          "score": 97
-        },
-        {
-          "keyword": "coastal flood statement",
-          "score": 96
-        },
-        {
-          "keyword": "sharks vs flames",
-          "score": 95
-        },
-        {
-          "keyword": "fred biery",
-          "score": 94
-        },
-        {
-          "keyword": "ms state vs missouri",
-          "score": 93
-        },
-        {
-          "keyword": "oban elliott",
-          "score": 92
-        },
-        {
-          "keyword": "barca",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-31T21:41:25.096Z",
       "geo": "US",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "nhl trades",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-04T21:30:27.216Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "avgo stock",
+          "score": 100
+        },
+        {
+          "keyword": "travis kelce",
+          "score": 99
+        },
+        {
+          "keyword": "caleb jones",
+          "score": 98
+        },
+        {
+          "keyword": "google stock price",
+          "score": 97
+        },
+        {
+          "keyword": "snap stock",
+          "score": 96
+        },
+        {
+          "keyword": "qcom stock",
+          "score": 95
+        },
+        {
+          "keyword": "arm stock",
+          "score": 94
+        },
+        {
+          "keyword": "cam thomas",
+          "score": 93
+        },
+        {
+          "keyword": "valencia fc",
+          "score": 92
+        },
+        {
+          "keyword": "stuttgart fc",
           "score": 91
         }
       ]
