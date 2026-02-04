@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-31T05:33:39.296Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "仲野太賀",
-          "score": 100
-        },
-        {
-          "keyword": "資生堂",
-          "score": 99
-        },
-        {
-          "keyword": "レバンガ北海道",
-          "score": 98
-        },
-        {
-          "keyword": "筧美和子",
-          "score": 97
-        },
-        {
-          "keyword": "比嘉愛未",
-          "score": 96
-        },
-        {
-          "keyword": "genie3",
-          "score": 95
-        },
-        {
-          "keyword": "宮澤エマ",
-          "score": 94
-        },
-        {
-          "keyword": "バスケットライブ",
-          "score": 93
-        },
-        {
-          "keyword": "恵方巻",
-          "score": 92
-        },
-        {
-          "keyword": "オートミール",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-31T06:26:22.012Z",
       "geo": "JP",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "住友商事",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-04T06:09:26.212Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "花王",
+          "score": 100
+        },
+        {
+          "keyword": "麻布台ヒルズ",
+          "score": 99
+        },
+        {
+          "keyword": "チームみらい",
+          "score": 98
+        },
+        {
+          "keyword": "吉野家 超特盛祭",
+          "score": 97
+        },
+        {
+          "keyword": "俳優",
+          "score": 96
+        },
+        {
+          "keyword": "黒岩知事",
+          "score": 95
+        },
+        {
+          "keyword": "佐田真由美",
+          "score": 94
+        },
+        {
+          "keyword": "西畑大吾",
+          "score": 93
+        },
+        {
+          "keyword": "西田ひかる",
+          "score": 92
+        },
+        {
+          "keyword": "運勢",
           "score": 91
         }
       ]
