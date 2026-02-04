@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-31T12:25:41.764Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "稲田朋美",
-          "score": 100
-        },
-        {
-          "keyword": "藤あや子",
-          "score": 99
-        },
-        {
-          "keyword": "鎌倉",
-          "score": 98
-        },
-        {
-          "keyword": "外為特会",
-          "score": 97
-        },
-        {
-          "keyword": "豊洲市場",
-          "score": 96
-        },
-        {
-          "keyword": "共同通信社",
-          "score": 95
-        },
-        {
-          "keyword": "唐田えりか",
-          "score": 94
-        },
-        {
-          "keyword": "メラニア",
-          "score": 93
-        },
-        {
-          "keyword": "jisoo",
-          "score": 92
-        },
-        {
-          "keyword": "宇多田ヒカル",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-31T13:14:39.362Z",
       "geo": "JP",
       "source": "google",
@@ -5356,6 +5309,53 @@
         },
         {
           "keyword": "黒岩祐治知事",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-04T12:35:57.587Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ai",
+          "score": 100
+        },
+        {
+          "keyword": "本並健治",
+          "score": 99
+        },
+        {
+          "keyword": "翔平",
+          "score": 98
+        },
+        {
+          "keyword": "柴田",
+          "score": 97
+        },
+        {
+          "keyword": "大久保佳代子",
+          "score": 96
+        },
+        {
+          "keyword": "永尾柚乃",
+          "score": 95
+        },
+        {
+          "keyword": "明治大学",
+          "score": 94
+        },
+        {
+          "keyword": "ムビチケ",
+          "score": 93
+        },
+        {
+          "keyword": "フォールアウト",
+          "score": 92
+        },
+        {
+          "keyword": "岸谷蘭丸",
           "score": 91
         }
       ]
