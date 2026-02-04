@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-31T04:56:28.795Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "brooklyn nets",
-          "score": 100
-        },
-        {
-          "keyword": "warriors",
-          "score": 99
-        },
-        {
-          "keyword": "moses moody",
-          "score": 98
-        },
-        {
-          "keyword": "tim hardaway jr.",
-          "score": 97
-        },
-        {
-          "keyword": "new edition tour",
-          "score": 96
-        },
-        {
-          "keyword": "tobias harris",
-          "score": 95
-        },
-        {
-          "keyword": "randy orton",
-          "score": 94
-        },
-        {
-          "keyword": "mega millions drawing",
-          "score": 93
-        },
-        {
-          "keyword": "isaiah stewart",
-          "score": 92
-        },
-        {
-          "keyword": "snow leopard attack",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-31T05:33:36.558Z",
       "geo": "US",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "is steph curry playing tonight",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-04T05:04:20.719Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ted danson",
+          "score": 100
+        },
+        {
+          "keyword": "monarch legacy of monsters",
+          "score": 99
+        },
+        {
+          "keyword": "collin gillespie",
+          "score": 98
+        },
+        {
+          "keyword": "jerami grant",
+          "score": 97
+        },
+        {
+          "keyword": "iranian drones",
+          "score": 96
+        },
+        {
+          "keyword": "toumani camara",
+          "score": 95
+        },
+        {
+          "keyword": "shaedon sharpe",
+          "score": 94
+        },
+        {
+          "keyword": "wyoming basketball",
+          "score": 93
+        },
+        {
+          "keyword": "fresno state basketball",
+          "score": 92
+        },
+        {
+          "keyword": "nc state basketball",
           "score": 91
         }
       ]
