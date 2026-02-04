@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-31T23:42:05.702Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tving",
-          "score": 100
-        },
-        {
-          "keyword": "티빙",
-          "score": 99
-        },
-        {
-          "keyword": "ufc",
-          "score": 98
-        },
-        {
-          "keyword": "liverpool vs newcastle",
-          "score": 97
-        },
-        {
-          "keyword": "btc usd",
-          "score": 96
-        },
-        {
-          "keyword": "lpga",
-          "score": 95
-        },
-        {
-          "keyword": "ลิเวอร์พูล พบ นิวคาสเซิล",
-          "score": 94
-        },
-        {
-          "keyword": "elche vs barcelona",
-          "score": 93
-        },
-        {
-          "keyword": "바르셀로나",
-          "score": 92
-        },
-        {
-          "keyword": "리버풀",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-01T01:20:32.975Z",
       "geo": "KR",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "man city vs newcastle",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-04T23:47:57.273Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "inter vs torino",
+          "score": 100
+        },
+        {
+          "keyword": "claude cowork",
+          "score": 99
+        },
+        {
+          "keyword": "манчестер сити – ньюкасл юнайтед",
+          "score": 98
+        },
+        {
+          "keyword": "허가윤",
+          "score": 97
+        },
+        {
+          "keyword": "팔란티어 주가",
+          "score": 96
+        },
+        {
+          "keyword": "오현규",
+          "score": 95
+        },
+        {
+          "keyword": "애버딘 대 셀틱",
+          "score": 94
+        },
+        {
+          "keyword": "인테르",
+          "score": 93
+        },
+        {
+          "keyword": "แมนซิตี พบ นิวคาสเซิล",
+          "score": 92
+        },
+        {
+          "keyword": "브로드컴 주가",
           "score": 91
         }
       ]

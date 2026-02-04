@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-31T23:42:04.563Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ben kindel",
-          "score": 100
-        },
-        {
-          "keyword": "hawks vs pacers",
-          "score": 99
-        },
-        {
-          "keyword": "notre dame vs syracuse",
-          "score": 98
-        },
-        {
-          "keyword": "vix",
-          "score": 97
-        },
-        {
-          "keyword": "guardians of the galaxy",
-          "score": 96
-        },
-        {
-          "keyword": "kentucky vs arkansas",
-          "score": 95
-        },
-        {
-          "keyword": "são paulo vs santos",
-          "score": 94
-        },
-        {
-          "keyword": "shavkat rakhmonov",
-          "score": 93
-        },
-        {
-          "keyword": "is it snowing in florida",
-          "score": 92
-        },
-        {
-          "keyword": "atlas - mazatlán",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-01T01:20:31.687Z",
       "geo": "US",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "nancy grace",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-04T23:47:56.044Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lincoln lawyer season 4",
+          "score": 100
+        },
+        {
+          "keyword": "joey logano",
+          "score": 99
+        },
+        {
+          "keyword": "nuggets vs knicks",
+          "score": 98
+        },
+        {
+          "keyword": "satoshi nakamoto",
+          "score": 97
+        },
+        {
+          "keyword": "steve martin",
+          "score": 96
+        },
+        {
+          "keyword": "ronaldo",
+          "score": 95
+        },
+        {
+          "keyword": "lake nona middle school",
+          "score": 94
+        },
+        {
+          "keyword": "david zayas",
+          "score": 93
+        },
+        {
+          "keyword": "2030 winter olympics",
+          "score": 92
+        },
+        {
+          "keyword": "santos vs são paulo",
           "score": 91
         }
       ]
