@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-31T20:45:36.840Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ゴルフ",
-          "score": 100
-        },
-        {
-          "keyword": "リヴァプール",
-          "score": 99
-        },
-        {
-          "keyword": "elche vs barcelona",
-          "score": 98
-        },
-        {
-          "keyword": "ブンデスリーガ",
-          "score": 97
-        },
-        {
-          "keyword": "中学受験",
-          "score": 96
-        },
-        {
-          "keyword": "リヴァプール 対 ニューカッスル",
-          "score": 95
-        },
-        {
-          "keyword": "エルチェ 対 バルセロナ",
-          "score": 94
-        },
-        {
-          "keyword": "hulu",
-          "score": 93
-        },
-        {
-          "keyword": "ビットコイン",
-          "score": 92
-        },
-        {
-          "keyword": "日曜討論",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-31T21:13:11.212Z",
       "geo": "JP",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "向井地美音",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-04T20:57:46.659Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "マンチェスターシティ",
+          "score": 100
+        },
+        {
+          "keyword": "倉悠貴",
+          "score": 99
+        },
+        {
+          "keyword": "小芝風花",
+          "score": 98
+        },
+        {
+          "keyword": "コパ・デル・レイ",
+          "score": 97
+        },
+        {
+          "keyword": "気象庁 天気予報",
+          "score": 96
+        },
+        {
+          "keyword": "nyダウ",
+          "score": 95
+        },
+        {
+          "keyword": "man city vs newcastle",
+          "score": 94
+        },
+        {
+          "keyword": "サンディスク 株価",
+          "score": 93
+        },
+        {
+          "keyword": "nasdaq",
+          "score": 92
+        },
+        {
+          "keyword": "マンc 対 ニューカッスル",
           "score": 91
         }
       ]
