@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-31T14:15:47.237Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "諏訪湖",
-          "score": 100
-        },
-        {
-          "keyword": "会津若松",
-          "score": 99
-        },
-        {
-          "keyword": "河合郁人",
-          "score": 98
-        },
-        {
-          "keyword": "ドンデコルテ",
-          "score": 97
-        },
-        {
-          "keyword": "三谷幸喜",
-          "score": 96
-        },
-        {
-          "keyword": "東京科学大学",
-          "score": 95
-        },
-        {
-          "keyword": "ブリジャートン家",
-          "score": 94
-        },
-        {
-          "keyword": "ホラン千秋",
-          "score": 93
-        },
-        {
-          "keyword": "黒木華",
-          "score": 92
-        },
-        {
-          "keyword": "エンティーム",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-31T14:47:35.309Z",
       "geo": "JP",
       "source": "google",
@@ -5309,6 +5262,53 @@
         },
         {
           "keyword": "水不足",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-04T14:37:19.409Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "松田好花",
+          "score": 100
+        },
+        {
+          "keyword": "bmsg",
+          "score": 99
+        },
+        {
+          "keyword": "鍵山優真",
+          "score": 98
+        },
+        {
+          "keyword": "バスケ 日本代表",
+          "score": 97
+        },
+        {
+          "keyword": "周東佑京",
+          "score": 96
+        },
+        {
+          "keyword": "今泉力哉",
+          "score": 95
+        },
+        {
+          "keyword": "ラムネモンキー 主題歌",
+          "score": 94
+        },
+        {
+          "keyword": "ニンダイ",
+          "score": 93
+        },
+        {
+          "keyword": "niziu リオ",
+          "score": 92
+        },
+        {
+          "keyword": "武田良太",
           "score": 91
         }
       ]
