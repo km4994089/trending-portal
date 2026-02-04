@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-01-31T01:06:03.749Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "富山",
-          "score": 100
-        },
-        {
-          "keyword": "長島昭久",
-          "score": 99
-        },
-        {
-          "keyword": "中村倫也",
-          "score": 98
-        },
-        {
-          "keyword": "ミニ軽トラ スズキ",
-          "score": 97
-        },
-        {
-          "keyword": "明治座",
-          "score": 96
-        },
-        {
-          "keyword": "なにわ男子",
-          "score": 95
-        },
-        {
-          "keyword": "ピクミンブルーム",
-          "score": 94
-        },
-        {
-          "keyword": "藤原さくら",
-          "score": 93
-        },
-        {
-          "keyword": "デジポリス",
-          "score": 92
-        },
-        {
-          "keyword": "マルハニチロ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-01-31T03:33:51.141Z",
       "geo": "JP",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "柿澤勇人",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-04T01:08:09.675Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "高嶋ちさ子",
+          "score": 100
+        },
+        {
+          "keyword": "住友化学",
+          "score": 99
+        },
+        {
+          "keyword": "ソニー 株価",
+          "score": 98
+        },
+        {
+          "keyword": "地球温暖化",
+          "score": 97
+        },
+        {
+          "keyword": "少子高齢化",
+          "score": 96
+        },
+        {
+          "keyword": "イビデン 株価",
+          "score": 95
+        },
+        {
+          "keyword": "カプコン 株価",
+          "score": 94
+        },
+        {
+          "keyword": "サウジアラビア",
+          "score": 93
+        },
+        {
+          "keyword": "任天堂 株価",
+          "score": 92
+        },
+        {
+          "keyword": "エーペックスレジェンズ",
           "score": 91
         }
       ]
