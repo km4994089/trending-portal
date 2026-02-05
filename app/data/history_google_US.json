@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-01T21:14:09.593Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "illinois basketball",
-          "score": 100
-        },
-        {
-          "keyword": "anfernee simons",
-          "score": 99
-        },
-        {
-          "keyword": "justin jefferson",
-          "score": 98
-        },
-        {
-          "keyword": "jayson tatum",
-          "score": 97
-        },
-        {
-          "keyword": "gwinnett county police",
-          "score": 96
-        },
-        {
-          "keyword": "oakland basketball",
-          "score": 95
-        },
-        {
-          "keyword": "obed vargas",
-          "score": 94
-        },
-        {
-          "keyword": "bobby portis",
-          "score": 93
-        },
-        {
-          "keyword": "doc rivers",
-          "score": 92
-        },
-        {
-          "keyword": "fcps",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-01T21:43:34.803Z",
       "geo": "US",
       "source": "google",
@@ -4557,6 +4510,53 @@
         },
         {
           "keyword": "jim carrey",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-05T21:23:05.872Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "xavier tillman",
+          "score": 100
+        },
+        {
+          "keyword": "rddt stock",
+          "score": 99
+        },
+        {
+          "keyword": "mstr earnings",
+          "score": 98
+        },
+        {
+          "keyword": "iren stock",
+          "score": 97
+        },
+        {
+          "keyword": "amazon stock price",
+          "score": 96
+        },
+        {
+          "keyword": "mark l wolf",
+          "score": 95
+        },
+        {
+          "keyword": "lego project hail mary",
+          "score": 94
+        },
+        {
+          "keyword": "amazon earnings",
+          "score": 93
+        },
+        {
+          "keyword": "tony hawk",
+          "score": 92
+        },
+        {
+          "keyword": "six nations",
           "score": 91
         }
       ]
