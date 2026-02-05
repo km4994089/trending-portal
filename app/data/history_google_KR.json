@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-01T22:48:35.141Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "weather",
-          "score": 100
-        },
-        {
-          "keyword": "bitcoin price usd",
-          "score": 99
-        },
-        {
-          "keyword": "lpga",
-          "score": 98
-        },
-        {
-          "keyword": "스트라스부르 대 psg",
-          "score": 97
-        },
-        {
-          "keyword": "pl",
-          "score": 96
-        },
-        {
-          "keyword": "tottenham đấu với man city",
-          "score": 95
-        },
-        {
-          "keyword": "토트넘",
-          "score": 94
-        },
-        {
-          "keyword": "tottenham vs man city",
-          "score": 93
-        },
-        {
-          "keyword": "브루노 페르난데스",
-          "score": 92
-        },
-        {
-          "keyword": "epl 순위",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-01T23:15:37.816Z",
       "geo": "KR",
       "source": "google",
@@ -4557,6 +4510,53 @@
         },
         {
           "keyword": "업비트",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-05T22:52:29.715Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "real betis vs atlético madrid",
+          "score": 100
+        },
+        {
+          "keyword": "s&p 500",
+          "score": 99
+        },
+        {
+          "keyword": "코파 델 레이",
+          "score": 98
+        },
+        {
+          "keyword": "아마존",
+          "score": 97
+        },
+        {
+          "keyword": "나스닥",
+          "score": 96
+        },
+        {
+          "keyword": "mstr",
+          "score": 95
+        },
+        {
+          "keyword": "미국주식",
+          "score": 94
+        },
+        {
+          "keyword": "빗썸",
+          "score": 93
+        },
+        {
+          "keyword": "유벤투스",
+          "score": 92
+        },
+        {
+          "keyword": "알오크두드 클럽 대 알힐랄",
           "score": 91
         }
       ]
