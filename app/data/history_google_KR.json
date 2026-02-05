@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-01T11:41:23.590Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lck",
-          "score": 100
-        },
-        {
-          "keyword": "한화",
-          "score": 99
-        },
-        {
-          "keyword": "lck컵",
-          "score": 98
-        },
-        {
-          "keyword": "기상청",
-          "score": 97
-        },
-        {
-          "keyword": "3443",
-          "score": 96
-        },
-        {
-          "keyword": "ao",
-          "score": 95
-        },
-        {
-          "keyword": "루크먼",
-          "score": 94
-        },
-        {
-          "keyword": "마니또 클럽",
-          "score": 93
-        },
-        {
-          "keyword": "일기예보",
-          "score": 92
-        },
-        {
-          "keyword": "조코비치",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-01T12:27:07.291Z",
       "geo": "KR",
       "source": "google",
@@ -4839,6 +4792,53 @@
         },
         {
           "keyword": "메이플",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-05T11:56:03.948Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "xrp",
+          "score": 100
+        },
+        {
+          "keyword": "동아대",
+          "score": 99
+        },
+        {
+          "keyword": "리플",
+          "score": 98
+        },
+        {
+          "keyword": "박호산",
+          "score": 97
+        },
+        {
+          "keyword": "광운대",
+          "score": 96
+        },
+        {
+          "keyword": "금오공대",
+          "score": 95
+        },
+        {
+          "keyword": "강원대",
+          "score": 94
+        },
+        {
+          "keyword": "밀라노 올림픽",
+          "score": 93
+        },
+        {
+          "keyword": "권창영",
+          "score": 92
+        },
+        {
+          "keyword": "명태균",
           "score": 91
         }
       ]
