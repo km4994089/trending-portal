@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-01T22:13:57.520Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lpga",
-          "score": 100
-        },
-        {
-          "keyword": "스트라스부르 대 psg",
-          "score": 99
-        },
-        {
-          "keyword": "pl",
-          "score": 98
-        },
-        {
-          "keyword": "tottenham đấu với man city",
-          "score": 97
-        },
-        {
-          "keyword": "맨시티",
-          "score": 96
-        },
-        {
-          "keyword": "토트넘",
-          "score": 95
-        },
-        {
-          "keyword": "tottenham vs man city",
-          "score": 94
-        },
-        {
-          "keyword": "브루노 페르난데스",
-          "score": 93
-        },
-        {
-          "keyword": "epl 순위",
-          "score": 92
-        },
-        {
-          "keyword": "snowfall warning",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-01T22:48:35.141Z",
       "geo": "KR",
       "source": "google",
@@ -4557,6 +4510,53 @@
         },
         {
           "keyword": "cryptocurrency trading",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-05T22:17:08.546Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "나스닥",
+          "score": 100
+        },
+        {
+          "keyword": "nasdaq",
+          "score": 99
+        },
+        {
+          "keyword": "빗썸",
+          "score": 98
+        },
+        {
+          "keyword": "유벤투스",
+          "score": 97
+        },
+        {
+          "keyword": "미국주식",
+          "score": 96
+        },
+        {
+          "keyword": "알오크두드 클럽 대 알힐랄",
+          "score": 95
+        },
+        {
+          "keyword": "bitcoin",
+          "score": 94
+        },
+        {
+          "keyword": "스트래티지",
+          "score": 93
+        },
+        {
+          "keyword": "비트코인",
+          "score": 92
+        },
+        {
+          "keyword": "업비트",
           "score": 91
         }
       ]
