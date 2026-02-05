@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-01T06:37:23.829Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sydney kings",
-          "score": 100
-        },
-        {
-          "keyword": "aaron taylor johnson",
-          "score": 99
-        },
-        {
-          "keyword": "covered california",
-          "score": 98
-        },
-        {
-          "keyword": "kanye west concert",
-          "score": 97
-        },
-        {
-          "keyword": "ryan garcia vs barrios",
-          "score": 96
-        },
-        {
-          "keyword": "conor benn",
-          "score": 95
-        },
-        {
-          "keyword": "shakur stevenson girlfriend",
-          "score": 94
-        },
-        {
-          "keyword": "jason kidd",
-          "score": 93
-        },
-        {
-          "keyword": "thomas massie",
-          "score": 92
-        },
-        {
-          "keyword": "nau student death",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-01T07:31:06.107Z",
       "geo": "US",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "cam spencer",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-05T07:30:23.207Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "affordable housing",
+          "score": 100
+        },
+        {
+          "keyword": "polar vortex forecast",
+          "score": 99
+        },
+        {
+          "keyword": "latest earthquake near me",
+          "score": 98
+        },
+        {
+          "keyword": "stock market news today",
+          "score": 97
+        },
+        {
+          "keyword": "new zealand breakers",
+          "score": 96
+        },
+        {
+          "keyword": "bts lightsticks",
+          "score": 95
+        },
+        {
+          "keyword": "where to watch nfl games",
+          "score": 94
+        },
+        {
+          "keyword": "neymar",
+          "score": 93
+        },
+        {
+          "keyword": "fintech innovation",
+          "score": 92
+        },
+        {
+          "keyword": "tax filing deadline",
           "score": 91
         }
       ]
