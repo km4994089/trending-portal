@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-01T10:50:13.767Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lck컵",
-          "score": 100
-        },
-        {
-          "keyword": "기상청",
-          "score": 99
-        },
-        {
-          "keyword": "3443",
-          "score": 98
-        },
-        {
-          "keyword": "루크먼",
-          "score": 97
-        },
-        {
-          "keyword": "제니",
-          "score": 96
-        },
-        {
-          "keyword": "일기예보",
-          "score": 95
-        },
-        {
-          "keyword": "조코비치",
-          "score": 94
-        },
-        {
-          "keyword": "젠지 한화",
-          "score": 93
-        },
-        {
-          "keyword": "호주오픈",
-          "score": 92
-        },
-        {
-          "keyword": "노바크 조코비치",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-02-01T11:14:29.602Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "한화",
-          "score": 100
-        },
-        {
-          "keyword": "lck컵",
-          "score": 99
-        },
-        {
-          "keyword": "기상청",
-          "score": 98
-        },
-        {
-          "keyword": "ao",
-          "score": 97
-        },
-        {
-          "keyword": "3443",
-          "score": 96
-        },
-        {
-          "keyword": "루크먼",
-          "score": 95
-        },
-        {
-          "keyword": "마니또 클럽",
-          "score": 94
-        },
-        {
-          "keyword": "일기예보",
-          "score": 93
-        },
-        {
-          "keyword": "조코비치",
-          "score": 92
-        },
-        {
-          "keyword": "알카라스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-01T11:41:23.590Z",
       "geo": "KR",
       "source": "google",
@@ -4886,6 +4792,53 @@
         },
         {
           "keyword": "강남구청장",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-05T11:28:20.033Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "금오공대",
+          "score": 100
+        },
+        {
+          "keyword": "강원대",
+          "score": 99
+        },
+        {
+          "keyword": "밀라노 올림픽",
+          "score": 98
+        },
+        {
+          "keyword": "권창영",
+          "score": 97
+        },
+        {
+          "keyword": "명태균",
+          "score": 96
+        },
+        {
+          "keyword": "김혜수",
+          "score": 95
+        },
+        {
+          "keyword": "손아섭",
+          "score": 94
+        },
+        {
+          "keyword": "벤제마",
+          "score": 93
+        },
+        {
+          "keyword": "nep vs can",
+          "score": 92
+        },
+        {
+          "keyword": "메이플",
           "score": 91
         }
       ]
