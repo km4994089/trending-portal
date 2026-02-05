@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-01T04:07:25.784Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "gwyneth paltrow",
-          "score": 100
-        },
-        {
-          "keyword": "khamzat chimaev",
-          "score": 99
-        },
-        {
-          "keyword": "gerardo taracena",
-          "score": 98
-        },
-        {
-          "keyword": "chicago bulls",
-          "score": 97
-        },
-        {
-          "keyword": "katlyn lyon",
-          "score": 96
-        },
-        {
-          "keyword": "matas buzelis",
-          "score": 95
-        },
-        {
-          "keyword": "montana basketball",
-          "score": 94
-        },
-        {
-          "keyword": "sean strickland",
-          "score": 93
-        },
-        {
-          "keyword": "pj washington",
-          "score": 92
-        },
-        {
-          "keyword": "gonzaga",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-01T05:41:02.542Z",
       "geo": "US",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "marathon game",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-05T05:12:07.009Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ethan hawke",
+          "score": 100
+        },
+        {
+          "keyword": "warriors roster",
+          "score": 99
+        },
+        {
+          "keyword": "ian mckellen",
+          "score": 98
+        },
+        {
+          "keyword": "nintendo direct",
+          "score": 97
+        },
+        {
+          "keyword": "porzingis injury",
+          "score": 96
+        },
+        {
+          "keyword": "utah mammoth",
+          "score": 95
+        },
+        {
+          "keyword": "stephon castle",
+          "score": 94
+        },
+        {
+          "keyword": "harrison barnes",
+          "score": 93
+        },
+        {
+          "keyword": "trayce jackson-davis",
+          "score": 92
+        },
+        {
+          "keyword": "arizona state vs utah",
           "score": 91
         }
       ]
