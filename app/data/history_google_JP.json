@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-01T20:47:11.153Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "葡萄",
-          "score": 100
-        },
-        {
-          "keyword": "ストラスブール 対 パリsg",
-          "score": 99
-        },
-        {
-          "keyword": "安住紳一郎",
-          "score": 98
-        },
-        {
-          "keyword": "tottenham đấu với man city",
-          "score": 97
-        },
-        {
-          "keyword": "中村雅俊",
-          "score": 96
-        },
-        {
-          "keyword": "吉井明子",
-          "score": 95
-        },
-        {
-          "keyword": "天気天気",
-          "score": 94
-        },
-        {
-          "keyword": "大野愛実",
-          "score": 93
-        },
-        {
-          "keyword": "クレモネーゼ 対 インテル",
-          "score": 92
-        },
-        {
-          "keyword": "ドルトムント 対 ハイデンハイム",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-01T21:14:12.309Z",
       "geo": "JP",
       "source": "google",
@@ -4557,6 +4510,53 @@
         },
         {
           "keyword": "ビットコイン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-05T20:56:52.938Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "岩瀬洋志",
+          "score": 100
+        },
+        {
+          "keyword": "ストラスブール 対 モナコ",
+          "score": 99
+        },
+        {
+          "keyword": "土屋太鳳",
+          "score": 98
+        },
+        {
+          "keyword": "アタランタ 対 ユヴェントス",
+          "score": 97
+        },
+        {
+          "keyword": "ネトフリ",
+          "score": 96
+        },
+        {
+          "keyword": "大雪予報",
+          "score": 95
+        },
+        {
+          "keyword": "恒松祐里",
+          "score": 94
+        },
+        {
+          "keyword": "市川実日子",
+          "score": 93
+        },
+        {
+          "keyword": "木村良平",
+          "score": 92
+        },
+        {
+          "keyword": "ルークケナード",
           "score": 91
         }
       ]
