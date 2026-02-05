@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-01T05:41:05.240Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "植草美幸",
-          "score": 100
-        },
-        {
-          "keyword": "流雪溝",
-          "score": 99
-        },
-        {
-          "keyword": "コンテンツ",
-          "score": 98
-        },
-        {
-          "keyword": "仙台 対 a千葉",
-          "score": 97
-        },
-        {
-          "keyword": "秋田 対 大阪",
-          "score": 96
-        },
-        {
-          "keyword": "滋賀 対 三遠",
-          "score": 95
-        },
-        {
-          "keyword": "gmoインターネット",
-          "score": 94
-        },
-        {
-          "keyword": "丹沢",
-          "score": 93
-        },
-        {
-          "keyword": "gmoインターネットグループ",
-          "score": 92
-        },
-        {
-          "keyword": "若林宏樹",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-01T06:37:26.199Z",
       "geo": "JP",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "ポケパーク カントー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-05T06:13:39.170Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "新幹線 指定席",
+          "score": 100
+        },
+        {
+          "keyword": "松本智津夫",
+          "score": 99
+        },
+        {
+          "keyword": "増田大輝",
+          "score": 98
+        },
+        {
+          "keyword": "大阪 火事",
+          "score": 97
+        },
+        {
+          "keyword": "ポルジンギス",
+          "score": 96
+        },
+        {
+          "keyword": "マリオ",
+          "score": 95
+        },
+        {
+          "keyword": "カメラを止めるな",
+          "score": 94
+        },
+        {
+          "keyword": "東大寺",
+          "score": 93
+        },
+        {
+          "keyword": "山口百恵",
+          "score": 92
+        },
+        {
+          "keyword": "富士フイルム",
           "score": 91
         }
       ]
