@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-01T12:27:06.021Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "real madrid - rayo vallecano",
-          "score": 100
-        },
-        {
-          "keyword": "orlando weather",
-          "score": 99
-        },
-        {
-          "keyword": "rafa nadal",
-          "score": 98
-        },
-        {
-          "keyword": "punxsutawney phil",
-          "score": 97
-        },
-        {
-          "keyword": "u19 world cup",
-          "score": 96
-        },
-        {
-          "keyword": "charlotte airport",
-          "score": 95
-        },
-        {
-          "keyword": "stock market news today",
-          "score": 94
-        },
-        {
-          "keyword": "fpl",
-          "score": 93
-        },
-        {
-          "keyword": "excelsior vs ajax",
-          "score": 92
-        },
-        {
-          "keyword": "federer",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-01T13:23:59.054Z",
       "geo": "US",
       "source": "google",
@@ -4839,6 +4792,53 @@
         },
         {
           "keyword": "northern lights",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-05T12:42:01.690Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "elizabeth smart",
+          "score": 100
+        },
+        {
+          "keyword": "bitcoin price",
+          "score": 99
+        },
+        {
+          "keyword": "jessie diggins",
+          "score": 98
+        },
+        {
+          "keyword": "buncombe county schools",
+          "score": 97
+        },
+        {
+          "keyword": "mandelson",
+          "score": 96
+        },
+        {
+          "keyword": "mikie sherrill",
+          "score": 95
+        },
+        {
+          "keyword": "nancy meyers",
+          "score": 94
+        },
+        {
+          "keyword": "eileen gu",
+          "score": 93
+        },
+        {
+          "keyword": "australia vs netherlands",
+          "score": 92
+        },
+        {
+          "keyword": "sonay kartal",
           "score": 91
         }
       ]
