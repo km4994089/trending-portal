@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-01T23:45:17.499Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "金相場",
-          "score": 100
-        },
-        {
-          "keyword": "パペットスンスン",
-          "score": 99
-        },
-        {
-          "keyword": "三国競艇",
-          "score": 98
-        },
-        {
-          "keyword": "あさイチ",
-          "score": 97
-        },
-        {
-          "keyword": "ヒート 対 ブルズ",
-          "score": 96
-        },
-        {
-          "keyword": "classi",
-          "score": 95
-        },
-        {
-          "keyword": "小林死刑囚",
-          "score": 94
-        },
-        {
-          "keyword": "青森 雪",
-          "score": 93
-        },
-        {
-          "keyword": "時刻",
-          "score": 92
-        },
-        {
-          "keyword": "福田 拓也 俳優",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-02T01:12:36.706Z",
       "geo": "JP",
       "source": "google",
@@ -4557,6 +4510,53 @@
         },
         {
           "keyword": "ロイター",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-05T23:45:41.872Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "松任谷正隆",
+          "score": 100
+        },
+        {
+          "keyword": "徳山競艇",
+          "score": 99
+        },
+        {
+          "keyword": "フォアローゼズ",
+          "score": 98
+        },
+        {
+          "keyword": "多摩川競艇",
+          "score": 97
+        },
+        {
+          "keyword": "選挙",
+          "score": 96
+        },
+        {
+          "keyword": "投票",
+          "score": 95
+        },
+        {
+          "keyword": "佐藤浩市",
+          "score": 94
+        },
+        {
+          "keyword": "長嶋 一茂",
+          "score": 93
+        },
+        {
+          "keyword": "松江",
+          "score": 92
+        },
+        {
+          "keyword": "池脇千鶴",
           "score": 91
         }
       ]

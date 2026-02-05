@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-01T23:45:14.985Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "teddy swims",
-          "score": 100
-        },
-        {
-          "keyword": "chet holmgren",
-          "score": 99
-        },
-        {
-          "keyword": "jalen duren",
-          "score": 98
-        },
-        {
-          "keyword": "alex warren",
-          "score": 97
-        },
-        {
-          "keyword": "nasdaq futures",
-          "score": 96
-        },
-        {
-          "keyword": "shanghai silver price",
-          "score": 95
-        },
-        {
-          "keyword": "pelle larsson",
-          "score": 94
-        },
-        {
-          "keyword": "addison rae",
-          "score": 93
-        },
-        {
-          "keyword": "caitlin clark",
-          "score": 92
-        },
-        {
-          "keyword": "norman powell",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-02T01:12:34.144Z",
       "geo": "US",
       "source": "google",
@@ -4557,6 +4510,53 @@
         },
         {
           "keyword": "seth jarvis",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-05T23:45:39.239Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "barry manilow",
+          "score": 100
+        },
+        {
+          "keyword": "penn state vs michigan",
+          "score": 99
+        },
+        {
+          "keyword": "vermont basketball",
+          "score": 98
+        },
+        {
+          "keyword": "corinthians x capivariano",
+          "score": 97
+        },
+        {
+          "keyword": "wizards vs pistons",
+          "score": 96
+        },
+        {
+          "keyword": "nets vs magic",
+          "score": 95
+        },
+        {
+          "keyword": "la bowl",
+          "score": 94
+        },
+        {
+          "keyword": "satoshi nakamoto",
+          "score": 93
+        },
+        {
+          "keyword": "scott bessent",
+          "score": 92
+        },
+        {
+          "keyword": "horizon hunters gathering",
           "score": 91
         }
       ]
