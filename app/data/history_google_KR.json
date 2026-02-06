@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-02T23:18:34.942Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "pltr",
-          "score": 100
-        },
-        {
-          "keyword": "중앙일보",
-          "score": 99
-        },
-        {
-          "keyword": "xai",
-          "score": 98
-        },
-        {
-          "keyword": "금값시세",
-          "score": 97
-        },
-        {
-          "keyword": "다우지수",
-          "score": 96
-        },
-        {
-          "keyword": "팔란티어",
-          "score": 95
-        },
-        {
-          "keyword": "al-riyadh đấu với al-nassr",
-          "score": 94
-        },
-        {
-          "keyword": "엔비디아 주가",
-          "score": 93
-        },
-        {
-          "keyword": "테슬라 주가",
-          "score": 92
-        },
-        {
-          "keyword": "필라델피아 반도체 지수",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-02T23:49:03.983Z",
       "geo": "KR",
       "source": "google",
@@ -4933,6 +4886,53 @@
         },
         {
           "keyword": "비비",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-06T23:46:16.070Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "비트코인시세",
+          "score": 100
+        },
+        {
+          "keyword": "al-nassr đấu với al ittihad",
+          "score": 99
+        },
+        {
+          "keyword": "al-nassr vs al-ittihad",
+          "score": 98
+        },
+        {
+          "keyword": "머라이어 캐리",
+          "score": 97
+        },
+        {
+          "keyword": "y",
+          "score": 96
+        },
+        {
+          "keyword": "2026 冬季奧運",
+          "score": 95
+        },
+        {
+          "keyword": "박지현",
+          "score": 94
+        },
+        {
+          "keyword": "비비",
+          "score": 93
+        },
+        {
+          "keyword": "단종",
+          "score": 92
+        },
+        {
+          "keyword": "조인성",
           "score": 91
         }
       ]

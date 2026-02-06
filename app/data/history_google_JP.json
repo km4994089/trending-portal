@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-02T23:18:36.472Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "田村真子",
-          "score": 100
-        },
-        {
-          "keyword": "上野愛奈",
-          "score": 99
-        },
-        {
-          "keyword": "野間口徹 炎上",
-          "score": 98
-        },
-        {
-          "keyword": "ømi",
-          "score": 97
-        },
-        {
-          "keyword": "神奈中バス",
-          "score": 96
-        },
-        {
-          "keyword": "川島明",
-          "score": 95
-        },
-        {
-          "keyword": "織田信成",
-          "score": 94
-        },
-        {
-          "keyword": "花粉 今日",
-          "score": 93
-        },
-        {
-          "keyword": "阿部亮平",
-          "score": 92
-        },
-        {
-          "keyword": "祝日",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-02T23:49:05.762Z",
       "geo": "JP",
       "source": "google",
@@ -4933,6 +4886,53 @@
         },
         {
           "keyword": "沖縄 天気",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-06T23:46:17.388Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ミニストップ",
+          "score": 100
+        },
+        {
+          "keyword": "平祐奈",
+          "score": 99
+        },
+        {
+          "keyword": "ヤオコー",
+          "score": 98
+        },
+        {
+          "keyword": "ドラえもん映画",
+          "score": 97
+        },
+        {
+          "keyword": "攀枝花",
+          "score": 96
+        },
+        {
+          "keyword": "三重県",
+          "score": 95
+        },
+        {
+          "keyword": "箱根",
+          "score": 94
+        },
+        {
+          "keyword": "東名高速",
+          "score": 93
+        },
+        {
+          "keyword": "オードリー",
+          "score": 92
+        },
+        {
+          "keyword": "ダチョウ倶楽部",
           "score": 91
         }
       ]
