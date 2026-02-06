@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-02T10:34:27.889Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "artificial intelligence news",
-          "score": 100
-        },
-        {
-          "keyword": "袁惟仁",
-          "score": 99
-        },
-        {
-          "keyword": "what is a data breach",
-          "score": 98
-        },
-        {
-          "keyword": "nytimes.com",
-          "score": 97
-        },
-        {
-          "keyword": "lottery results today",
-          "score": 96
-        },
-        {
-          "keyword": "kaja juvan",
-          "score": 95
-        },
-        {
-          "keyword": "daria kasatkina",
-          "score": 94
-        },
-        {
-          "keyword": "tax filing deadline",
-          "score": 93
-        },
-        {
-          "keyword": "weather radar map",
-          "score": 92
-        },
-        {
-          "keyword": "latest iphone rumors",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-02T11:29:08.024Z",
       "geo": "US",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "fintech innovation",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-06T11:05:16.466Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "extreme cold warning",
+          "score": 100
+        },
+        {
+          "keyword": "world's tallest buildings",
+          "score": 99
+        },
+        {
+          "keyword": "new show to watch",
+          "score": 98
+        },
+        {
+          "keyword": "wind advisory",
+          "score": 97
+        },
+        {
+          "keyword": "best shows on hbo max",
+          "score": 96
+        },
+        {
+          "keyword": "u19 world cup",
+          "score": 95
+        },
+        {
+          "keyword": "artificial intelligence news",
+          "score": 94
+        },
+        {
+          "keyword": "incident response plans",
+          "score": 93
+        },
+        {
+          "keyword": "what is a data breach",
+          "score": 92
+        },
+        {
+          "keyword": "stock market news today",
           "score": 91
         }
       ]
