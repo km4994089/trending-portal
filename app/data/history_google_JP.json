@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-02T17:08:29.270Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "上岡龍太郎",
-          "score": 100
-        },
-        {
-          "keyword": "大竹まこと",
-          "score": 99
-        },
-        {
-          "keyword": "花澤香菜",
-          "score": 98
-        },
-        {
-          "keyword": "爱泼斯坦",
-          "score": 97
-        },
-        {
-          "keyword": "アフターピル 薬局",
-          "score": 96
-        },
-        {
-          "keyword": "徳永英明",
-          "score": 95
-        },
-        {
-          "keyword": "al-riyadh vs al-nassr",
-          "score": 94
-        },
-        {
-          "keyword": "菊池風磨",
-          "score": 93
-        },
-        {
-          "keyword": "ジェットスター",
-          "score": 92
-        },
-        {
-          "keyword": "サブウェイ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-02T18:01:37.277Z",
       "geo": "JP",
       "source": "google",
@@ -4557,6 +4510,53 @@
         },
         {
           "keyword": "earthquake",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-06T17:34:15.744Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ゆうちょ銀行 金利",
+          "score": 100
+        },
+        {
+          "keyword": "アベイル",
+          "score": 99
+        },
+        {
+          "keyword": "東日本大震災",
+          "score": 98
+        },
+        {
+          "keyword": "婚活バトルフィールド37",
+          "score": 97
+        },
+        {
+          "keyword": "南海トラフ",
+          "score": 96
+        },
+        {
+          "keyword": "神奈川",
+          "score": 95
+        },
+        {
+          "keyword": "地震",
+          "score": 94
+        },
+        {
+          "keyword": "地震速報",
+          "score": 93
+        },
+        {
+          "keyword": "東京 地震",
+          "score": 92
+        },
+        {
+          "keyword": "earthquake japan",
           "score": 91
         }
       ]
