@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-02T05:24:41.498Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "고성국",
-          "score": 100
-        },
-        {
-          "keyword": "고영욱",
-          "score": 99
-        },
-        {
-          "keyword": "kospi",
-          "score": 98
-        },
-        {
-          "keyword": "연준의장",
-          "score": 97
-        },
-        {
-          "keyword": "sk하이닉스 주가",
-          "score": 96
-        },
-        {
-          "keyword": "사이드카",
-          "score": 95
-        },
-        {
-          "keyword": "ราคาทองวันนี้",
-          "score": 94
-        },
-        {
-          "keyword": "학자금대출",
-          "score": 93
-        },
-        {
-          "keyword": "에어로케이",
-          "score": 92
-        },
-        {
-          "keyword": "남서울대",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-02T06:36:39.402Z",
       "geo": "KR",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "wbc",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-06T06:10:54.227Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "notepad++",
+          "score": 100
+        },
+        {
+          "keyword": "미국 이란",
+          "score": 99
+        },
+        {
+          "keyword": "한화솔루션",
+          "score": 98
+        },
+        {
+          "keyword": "파리바게트",
+          "score": 97
+        },
+        {
+          "keyword": "남부내륙철도",
+          "score": 96
+        },
+        {
+          "keyword": "la 레이커스 대 필라데피아",
+          "score": 95
+        },
+        {
+          "keyword": "위트컴",
+          "score": 94
+        },
+        {
+          "keyword": "codex",
+          "score": 93
+        },
+        {
+          "keyword": "상명대",
+          "score": 92
+        },
+        {
+          "keyword": "kospi",
           "score": 91
         }
       ]
