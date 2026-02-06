@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-02T14:35:21.126Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "earthquake san ramon",
-          "score": 100
-        },
-        {
-          "keyword": "simu liu",
-          "score": 99
-        },
-        {
-          "keyword": "gus malzahn",
-          "score": 98
-        },
-        {
-          "keyword": "notepad++",
-          "score": 97
-        },
-        {
-          "keyword": "malone university",
-          "score": 96
-        },
-        {
-          "keyword": "keke palmer",
-          "score": 95
-        },
-        {
-          "keyword": "jimmy the groundhog",
-          "score": 94
-        },
-        {
-          "keyword": "devon energy",
-          "score": 93
-        },
-        {
-          "keyword": "peter mandelson",
-          "score": 92
-        },
-        {
-          "keyword": "gemma arterton",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-02-02T15:30:20.711Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tuskegee coach handcuffed",
-          "score": 100
-        },
-        {
-          "keyword": "vz stock",
-          "score": 99
-        },
-        {
-          "keyword": "spx",
-          "score": 98
-        },
-        {
-          "keyword": "nasdaq index",
-          "score": 97
-        },
-        {
-          "keyword": "earthquake",
-          "score": 96
-        },
-        {
-          "keyword": "earthquake oakland",
-          "score": 95
-        },
-        {
-          "keyword": "earthquake just now",
-          "score": 94
-        },
-        {
-          "keyword": "barry trotz",
-          "score": 93
-        },
-        {
-          "keyword": "googl stock",
-          "score": 92
-        },
-        {
-          "keyword": "pfe stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-02T16:25:31.482Z",
       "geo": "US",
       "source": "google",
@@ -4604,6 +4510,53 @@
         },
         {
           "keyword": "conduent",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-06T15:30:54.525Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "benghazi attack",
+          "score": 100
+        },
+        {
+          "keyword": "jackie robinson",
+          "score": 99
+        },
+        {
+          "keyword": "hailey baptiste",
+          "score": 98
+        },
+        {
+          "keyword": "josh charles",
+          "score": 97
+        },
+        {
+          "keyword": "jerry rice",
+          "score": 96
+        },
+        {
+          "keyword": "tpusa halftime show",
+          "score": 95
+        },
+        {
+          "keyword": "zendaya",
+          "score": 94
+        },
+        {
+          "keyword": "hbo max",
+          "score": 93
+        },
+        {
+          "keyword": "hbomax",
+          "score": 92
+        },
+        {
+          "keyword": "mike tyson",
           "score": 91
         }
       ]
