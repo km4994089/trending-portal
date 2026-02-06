@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-02T11:56:38.112Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "alternate side parking nyc",
-          "score": 100
-        },
-        {
-          "keyword": "school closures monday feb 2",
-          "score": 99
-        },
-        {
-          "keyword": "mstr stock",
-          "score": 98
-        },
-        {
-          "keyword": "weather miami",
-          "score": 97
-        },
-        {
-          "keyword": "orcl stock",
-          "score": 96
-        },
-        {
-          "keyword": "alycia parks",
-          "score": 95
-        },
-        {
-          "keyword": "pg county schools",
-          "score": 94
-        },
-        {
-          "keyword": "alerta por helada",
-          "score": 93
-        },
-        {
-          "keyword": "marple bosch",
-          "score": 92
-        },
-        {
-          "keyword": "baltimore city public schools",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-02T12:43:44.255Z",
       "geo": "US",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "wind advisory",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-06T12:35:39.138Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "donald trump",
+          "score": 100
+        },
+        {
+          "keyword": "nfl schedule this week",
+          "score": 99
+        },
+        {
+          "keyword": "jonbenet ramsey",
+          "score": 98
+        },
+        {
+          "keyword": "mortgage rates today",
+          "score": 97
+        },
+        {
+          "keyword": "india a vs namibia",
+          "score": 96
+        },
+        {
+          "keyword": "where to watch super bowl 2026",
+          "score": 95
+        },
+        {
+          "keyword": "taylor swift",
+          "score": 94
+        },
+        {
+          "keyword": "pedro sanchez",
+          "score": 93
+        },
+        {
+          "keyword": "landon dickerson",
+          "score": 92
+        },
+        {
+          "keyword": "bechet allen",
           "score": 91
         }
       ]
