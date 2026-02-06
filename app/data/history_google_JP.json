@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-02T01:12:36.706Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "寺田心",
-          "score": 100
-        },
-        {
-          "keyword": "日経株価",
-          "score": 99
-        },
-        {
-          "keyword": "東日本大震災",
-          "score": 98
-        },
-        {
-          "keyword": "ブルズ",
-          "score": 97
-        },
-        {
-          "keyword": "川島明",
-          "score": 96
-        },
-        {
-          "keyword": "自然災害",
-          "score": 95
-        },
-        {
-          "keyword": "コマツ株価",
-          "score": 94
-        },
-        {
-          "keyword": "キオクシア 株価",
-          "score": 93
-        },
-        {
-          "keyword": "ひな祭り",
-          "score": 92
-        },
-        {
-          "keyword": "レーザーテック 株価",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-02T03:59:50.080Z",
       "geo": "JP",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "ラプターズ 対 ブルズ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-06T03:42:35.978Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "フェイラー",
+          "score": 100
+        },
+        {
+          "keyword": "one piece heroines アニメ",
+          "score": 99
+        },
+        {
+          "keyword": "マリノス",
+          "score": 98
+        },
+        {
+          "keyword": "ストライカーズコレクション",
+          "score": 97
+        },
+        {
+          "keyword": "安治川親方",
+          "score": 96
+        },
+        {
+          "keyword": "福山雅治",
+          "score": 95
+        },
+        {
+          "keyword": "ロケッツ 対 ホーネッツ",
+          "score": 94
+        },
+        {
+          "keyword": "書類送検",
+          "score": 93
+        },
+        {
+          "keyword": "土田慎",
+          "score": 92
+        },
+        {
+          "keyword": "bts",
           "score": 91
         }
       ]

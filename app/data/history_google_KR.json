@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-02T01:12:35.507Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "충남대학교",
-          "score": 100
-        },
-        {
-          "keyword": "인천대",
-          "score": 99
-        },
-        {
-          "keyword": "문화누리카드",
-          "score": 98
-        },
-        {
-          "keyword": "충남대",
-          "score": 97
-        },
-        {
-          "keyword": "비트코인 시세",
-          "score": 96
-        },
-        {
-          "keyword": "btc",
-          "score": 95
-        },
-        {
-          "keyword": "인베스팅닷컴",
-          "score": 94
-        },
-        {
-          "keyword": "와우넷",
-          "score": 93
-        },
-        {
-          "keyword": "그래미",
-          "score": 92
-        },
-        {
-          "keyword": "제레미 자케",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-02T03:59:48.681Z",
       "geo": "KR",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "s&p 500",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-06T03:42:34.498Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "위트컴",
+          "score": 100
+        },
+        {
+          "keyword": "codex 5.3",
+          "score": 99
+        },
+        {
+          "keyword": "상명대",
+          "score": 98
+        },
+        {
+          "keyword": "kospi",
+          "score": 97
+        },
+        {
+          "keyword": "코스피",
+          "score": 96
+        },
+        {
+          "keyword": "wbc",
+          "score": 95
+        },
+        {
+          "keyword": "전남대학교",
+          "score": 94
+        },
+        {
+          "keyword": "주식",
+          "score": 93
+        },
+        {
+          "keyword": "claude cowork",
+          "score": 92
+        },
+        {
+          "keyword": "트럼프rx",
           "score": 91
         }
       ]
