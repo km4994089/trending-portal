@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-02T11:29:10.763Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "稲垣吾郎",
-          "score": 100
-        },
-        {
-          "keyword": "高橋一生",
-          "score": 99
-        },
-        {
-          "keyword": "デンマーク",
-          "score": 98
-        },
-        {
-          "keyword": "岸優太",
-          "score": 97
-        },
-        {
-          "keyword": "イーロンマスク",
-          "score": 96
-        },
-        {
-          "keyword": "堺雅人",
-          "score": 95
-        },
-        {
-          "keyword": "森本慎太郎",
-          "score": 94
-        },
-        {
-          "keyword": "前澤友作",
-          "score": 93
-        },
-        {
-          "keyword": "平野紫耀",
-          "score": 92
-        },
-        {
-          "keyword": "阿部寛",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-02T11:56:40.973Z",
       "geo": "JP",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "住之江競艇",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-06T11:52:32.139Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "倉悠貴",
+          "score": 100
+        },
+        {
+          "keyword": "湘南新宿ライン",
+          "score": 99
+        },
+        {
+          "keyword": "運行情報",
+          "score": 98
+        },
+        {
+          "keyword": "杉浦友紀",
+          "score": 97
+        },
+        {
+          "keyword": "とにかく明るい安村",
+          "score": 96
+        },
+        {
+          "keyword": "ウルフアロン",
+          "score": 95
+        },
+        {
+          "keyword": "アメリカ合衆国 ミラノ・コルティナ 2026",
+          "score": 94
+        },
+        {
+          "keyword": "清水エスパルス",
+          "score": 93
+        },
+        {
+          "keyword": "明日の天気",
+          "score": 92
+        },
+        {
+          "keyword": "cuaca besok",
           "score": 91
         }
       ]
