@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-02T12:43:45.463Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "아오모리",
-          "score": 100
-        },
-        {
-          "keyword": "달",
-          "score": 99
-        },
-        {
-          "keyword": "대마도",
-          "score": 98
-        },
-        {
-          "keyword": "슈카",
-          "score": 97
-        },
-        {
-          "keyword": "울산 웨일즈",
-          "score": 96
-        },
-        {
-          "keyword": "서울 sk 대 부산 kcc",
-          "score": 95
-        },
-        {
-          "keyword": "서희원",
-          "score": 94
-        },
-        {
-          "keyword": "이언주",
-          "score": 93
-        },
-        {
-          "keyword": "시립대",
-          "score": 92
-        },
-        {
-          "keyword": "서경대",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-02T13:55:18.316Z",
       "geo": "KR",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "이주형",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-06T13:54:58.915Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "decentralized finance",
+          "score": 100
+        },
+        {
+          "keyword": "tax filing deadline",
+          "score": 99
+        },
+        {
+          "keyword": "leadership development",
+          "score": 98
+        },
+        {
+          "keyword": "stock market news today",
+          "score": 97
+        },
+        {
+          "keyword": "mortgage rates today",
+          "score": 96
+        },
+        {
+          "keyword": "nba standings",
+          "score": 95
+        },
+        {
+          "keyword": "cryptocurrency trading",
+          "score": 94
+        },
+        {
+          "keyword": "오상진",
+          "score": 93
+        },
+        {
+          "keyword": "이수혁",
+          "score": 92
+        },
+        {
+          "keyword": "persib bandung vs malut united",
           "score": 91
         }
       ]
