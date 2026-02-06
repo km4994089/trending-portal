@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-02T09:36:21.610Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tax filing deadline",
-          "score": 100
-        },
-        {
-          "keyword": "latest iphone rumors",
-          "score": 99
-        },
-        {
-          "keyword": "cryptocurrency trading",
-          "score": 98
-        },
-        {
-          "keyword": "tennis scores today",
-          "score": 97
-        },
-        {
-          "keyword": "federal government shutdown 2026",
-          "score": 96
-        },
-        {
-          "keyword": "best shows on hbo max",
-          "score": 95
-        },
-        {
-          "keyword": "where to watch champions league",
-          "score": 94
-        },
-        {
-          "keyword": "netflix top movies right now",
-          "score": 93
-        },
-        {
-          "keyword": "solar flares",
-          "score": 92
-        },
-        {
-          "keyword": "fintech innovation",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-02T10:34:27.889Z",
       "geo": "US",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "mortgages",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-06T10:03:55.993Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cricbuzz",
+          "score": 100
+        },
+        {
+          "keyword": "new show to watch",
+          "score": 99
+        },
+        {
+          "keyword": "best shows on hbo max",
+          "score": 98
+        },
+        {
+          "keyword": "u19 world cup",
+          "score": 97
+        },
+        {
+          "keyword": "incident response plans",
+          "score": 96
+        },
+        {
+          "keyword": "what is a data breach",
+          "score": 95
+        },
+        {
+          "keyword": "trump obama",
+          "score": 94
+        },
+        {
+          "keyword": "stock market news today",
+          "score": 93
+        },
+        {
+          "keyword": "cryptocurrency trading",
+          "score": 92
+        },
+        {
+          "keyword": "fintech innovation",
           "score": 91
         }
       ]
