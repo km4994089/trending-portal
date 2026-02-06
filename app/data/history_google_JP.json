@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-02T13:55:19.471Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "歌舞伎",
-          "score": 100
-        },
-        {
-          "keyword": "中村海人",
-          "score": 99
-        },
-        {
-          "keyword": "東北大学",
-          "score": 98
-        },
-        {
-          "keyword": "テストステロン",
-          "score": 97
-        },
-        {
-          "keyword": "中村芝翫",
-          "score": 96
-        },
-        {
-          "keyword": "uta",
-          "score": 95
-        },
-        {
-          "keyword": "大政絢",
-          "score": 94
-        },
-        {
-          "keyword": "西田有志",
-          "score": 93
-        },
-        {
-          "keyword": "千葉工業大学",
-          "score": 92
-        },
-        {
-          "keyword": "ナンバーズ当選番号",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-02T14:35:24.260Z",
       "geo": "JP",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "牛カルビコーン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-06T14:34:54.564Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ラブブ",
+          "score": 100
+        },
+        {
+          "keyword": "ティモシー",
+          "score": 99
+        },
+        {
+          "keyword": "ハサウェイ",
+          "score": 98
+        },
+        {
+          "keyword": "佐久間みなみ",
+          "score": 97
+        },
+        {
+          "keyword": "ウエストランド",
+          "score": 96
+        },
+        {
+          "keyword": "ファイナルファンタジー",
+          "score": 95
+        },
+        {
+          "keyword": "オーストリア",
+          "score": 94
+        },
+        {
+          "keyword": "ラグーナテンボス",
+          "score": 93
+        },
+        {
+          "keyword": "浜辺美波",
+          "score": 92
+        },
+        {
+          "keyword": "赤楚衛二",
           "score": 91
         }
       ]
