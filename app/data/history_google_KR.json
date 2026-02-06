@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-02T03:59:48.681Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "에어로케이",
-          "score": 100
-        },
-        {
-          "keyword": "남서울대",
-          "score": 99
-        },
-        {
-          "keyword": "덕성여대",
-          "score": 98
-        },
-        {
-          "keyword": "지역상품권 chak",
-          "score": 97
-        },
-        {
-          "keyword": "소상공인 경영안정바우처",
-          "score": 96
-        },
-        {
-          "keyword": "grammy awards 2026",
-          "score": 95
-        },
-        {
-          "keyword": "제주대학교",
-          "score": 94
-        },
-        {
-          "keyword": "세종대",
-          "score": 93
-        },
-        {
-          "keyword": "경기도교육청",
-          "score": 92
-        },
-        {
-          "keyword": "한양대학교",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-02T05:24:41.498Z",
       "geo": "KR",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "트럼프rx",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-06T05:10:33.375Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "한화솔루션",
+          "score": 100
+        },
+        {
+          "keyword": "파리바게트",
+          "score": 99
+        },
+        {
+          "keyword": "남부내륙철도",
+          "score": 98
+        },
+        {
+          "keyword": "la 레이커스 대 필라데피아",
+          "score": 97
+        },
+        {
+          "keyword": "위트컴",
+          "score": 96
+        },
+        {
+          "keyword": "codex",
+          "score": 95
+        },
+        {
+          "keyword": "상명대",
+          "score": 94
+        },
+        {
+          "keyword": "kospi",
+          "score": 93
+        },
+        {
+          "keyword": "코스피",
+          "score": 92
+        },
+        {
+          "keyword": "wbc",
           "score": 91
         }
       ]

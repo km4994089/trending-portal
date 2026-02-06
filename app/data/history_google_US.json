@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-02T03:59:47.319Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "axl rose",
-          "score": 100
-        },
-        {
-          "keyword": "d'angelo russell",
-          "score": 99
-        },
-        {
-          "keyword": "lizzo",
-          "score": 98
-        },
-        {
-          "keyword": "metallica",
-          "score": 97
-        },
-        {
-          "keyword": "samuel l jackson",
-          "score": 96
-        },
-        {
-          "keyword": "tim hardaway jr",
-          "score": 95
-        },
-        {
-          "keyword": "beyonce",
-          "score": 94
-        },
-        {
-          "keyword": "pharell williams",
-          "score": 93
-        },
-        {
-          "keyword": "denver nuggets",
-          "score": 92
-        },
-        {
-          "keyword": "jake guentzel",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-02T05:24:40.270Z",
       "geo": "US",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "caleb williams",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-06T05:10:32.061Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "halle berry",
+          "score": 100
+        },
+        {
+          "keyword": "milo ventimiglia",
+          "score": 99
+        },
+        {
+          "keyword": "van hunt",
+          "score": 98
+        },
+        {
+          "keyword": "weather snow storm",
+          "score": 97
+        },
+        {
+          "keyword": "tarleton state basketball",
+          "score": 96
+        },
+        {
+          "keyword": "nioh 3",
+          "score": 95
+        },
+        {
+          "keyword": "collin gillespie",
+          "score": 94
+        },
+        {
+          "keyword": "kara swisher",
+          "score": 93
+        },
+        {
+          "keyword": "gui santos",
+          "score": 92
+        },
+        {
+          "keyword": "darren woodson",
           "score": 91
         }
       ]
