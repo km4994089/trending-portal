@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-03T21:00:15.967Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "arsenal đấu với chelsea",
-          "score": 100
-        },
-        {
-          "keyword": "ジェミニ",
-          "score": 99
-        },
-        {
-          "keyword": "吉岡里帆",
-          "score": 98
-        },
-        {
-          "keyword": "サンディスク 株価",
-          "score": 97
-        },
-        {
-          "keyword": "アーセナル",
-          "score": 96
-        },
-        {
-          "keyword": "平祐奈",
-          "score": 95
-        },
-        {
-          "keyword": "arsenal",
-          "score": 94
-        },
-        {
-          "keyword": "arsenal vs chelsea",
-          "score": 93
-        },
-        {
-          "keyword": "albacete vs barcelona",
-          "score": 92
-        },
-        {
-          "keyword": "チェルシー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-03T21:39:29.089Z",
       "geo": "JP",
       "source": "google",
@@ -5403,6 +5356,53 @@
         },
         {
           "keyword": "スポーツナビ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-07T21:16:55.777Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "小田急線",
+          "score": 100
+        },
+        {
+          "keyword": "小田急",
+          "score": 99
+        },
+        {
+          "keyword": "東海道新幹線",
+          "score": 98
+        },
+        {
+          "keyword": "東急",
+          "score": 97
+        },
+        {
+          "keyword": "内房線",
+          "score": 96
+        },
+        {
+          "keyword": "イリア マリニン",
+          "score": 95
+        },
+        {
+          "keyword": "ベネチア",
+          "score": 94
+        },
+        {
+          "keyword": "高速道路情報",
+          "score": 93
+        },
+        {
+          "keyword": "さいたまマラソン 中止",
+          "score": 92
+        },
+        {
+          "keyword": "jr",
           "score": 91
         }
       ]
