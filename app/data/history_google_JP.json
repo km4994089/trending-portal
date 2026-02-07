@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-03T14:40:41.148Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "吉村洋文",
-          "score": 100
-        },
-        {
-          "keyword": "ドムドムバーガー",
-          "score": 99
-        },
-        {
-          "keyword": "川崎宗則",
-          "score": 98
-        },
-        {
-          "keyword": "おひとり島",
-          "score": 97
-        },
-        {
-          "keyword": "未来のムスコ 主題歌",
-          "score": 96
-        },
-        {
-          "keyword": "松坂大輔",
-          "score": 95
-        },
-        {
-          "keyword": "工藤璃星",
-          "score": 94
-        },
-        {
-          "keyword": "安藤萌々",
-          "score": 93
-        },
-        {
-          "keyword": "名倉潤",
-          "score": 92
-        },
-        {
-          "keyword": "ポプラ社",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-03T15:39:47.065Z",
       "geo": "JP",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "クリスティアン・ロメロ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-07T14:50:03.210Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "井上芳雄",
+          "score": 100
+        },
+        {
+          "keyword": "barcelona vs mallorca",
+          "score": 99
+        },
+        {
+          "keyword": "arsenal vs sunderland",
+          "score": 98
+        },
+        {
+          "keyword": "ain",
+          "score": 97
+        },
+        {
+          "keyword": "バーミンガム 対 レスターc",
+          "score": 96
+        },
+        {
+          "keyword": "きさらぎ賞 過去",
+          "score": 95
+        },
+        {
+          "keyword": "バルセロナ 対 マヨルカ",
+          "score": 94
+        },
+        {
+          "keyword": "マンチェスターユナイテッド",
+          "score": 93
+        },
+        {
+          "keyword": "オダウエダ",
+          "score": 92
+        },
+        {
+          "keyword": "小選挙区 比例代表",
           "score": 91
         }
       ]
