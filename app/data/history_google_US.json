@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-03T15:39:43.765Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "reshona landfair",
-          "score": 100
-        },
-        {
-          "keyword": "schd",
-          "score": 99
-        },
-        {
-          "keyword": "walmart stock",
-          "score": 98
-        },
-        {
-          "keyword": "crm stock",
-          "score": 97
-        },
-        {
-          "keyword": "matt nagy",
-          "score": 96
-        },
-        {
-          "keyword": "jackie robinson",
-          "score": 95
-        },
-        {
-          "keyword": "barack obama",
-          "score": 94
-        },
-        {
-          "keyword": "laurie hernandez",
-          "score": 93
-        },
-        {
-          "keyword": "williams f1",
-          "score": 92
-        },
-        {
-          "keyword": "the drama",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-03T16:40:39.156Z",
       "geo": "US",
       "source": "google",
@@ -5168,6 +5121,53 @@
         },
         {
           "keyword": "harmeet singh",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-07T15:45:31.236Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "usa hockey",
+          "score": 100
+        },
+        {
+          "keyword": "stuttgart fc",
+          "score": 99
+        },
+        {
+          "keyword": "merel conijn",
+          "score": 98
+        },
+        {
+          "keyword": "ain country",
+          "score": 97
+        },
+        {
+          "keyword": "ain",
+          "score": 96
+        },
+        {
+          "keyword": "jutta leerdam olympics",
+          "score": 95
+        },
+        {
+          "keyword": "pfl",
+          "score": 94
+        },
+        {
+          "keyword": "francesca lollobrigida",
+          "score": 93
+        },
+        {
+          "keyword": "figure skating schedule and results",
+          "score": 92
+        },
+        {
+          "keyword": "greta myers",
           "score": 91
         }
       ]
