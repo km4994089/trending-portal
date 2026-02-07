@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-03T13:57:05.024Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "bill maher",
-          "score": 100
-        },
-        {
-          "keyword": "noam chomsky",
-          "score": 99
-        },
-        {
-          "keyword": "josh d'amaro",
-          "score": 98
-        },
-        {
-          "keyword": "tim mcgraw tour",
-          "score": 97
-        },
-        {
-          "keyword": "alpha school",
-          "score": 96
-        },
-        {
-          "keyword": "emma navarro",
-          "score": 95
-        },
-        {
-          "keyword": "gabrielle union",
-          "score": 94
-        },
-        {
-          "keyword": "susan lucci",
-          "score": 93
-        },
-        {
-          "keyword": "save act",
-          "score": 92
-        },
-        {
-          "keyword": "kathy ruemmler",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-03T14:40:37.949Z",
       "geo": "US",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "fintech innovation",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-07T14:21:36.064Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "curling scoring",
+          "score": 100
+        },
+        {
+          "keyword": "cricbuzz",
+          "score": 99
+        },
+        {
+          "keyword": "wolfsburg vs dortmund",
+          "score": 98
+        },
+        {
+          "keyword": "ali khan",
+          "score": 97
+        },
+        {
+          "keyword": "estonia",
+          "score": 96
+        },
+        {
+          "keyword": "sara bejlek",
+          "score": 95
+        },
+        {
+          "keyword": "trumprx.com website",
+          "score": 94
+        },
+        {
+          "keyword": "alex hall skier",
+          "score": 93
+        },
+        {
+          "keyword": "incident response plans",
+          "score": 92
+        },
+        {
+          "keyword": "best shows on hbo max",
           "score": 91
         }
       ]
