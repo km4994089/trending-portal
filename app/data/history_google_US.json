@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-03T07:59:10.649Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "爱泼斯坦",
-          "score": 100
-        },
-        {
-          "keyword": "#aryankhan",
-          "score": 99
-        },
-        {
-          "keyword": "measles symptoms",
-          "score": 98
-        },
-        {
-          "keyword": "dhurandhar 2",
-          "score": 97
-        },
-        {
-          "keyword": "gabriela rico",
-          "score": 96
-        },
-        {
-          "keyword": "fallout season 2 episode 8",
-          "score": 95
-        },
-        {
-          "keyword": "ied",
-          "score": 94
-        },
-        {
-          "keyword": "madison beer",
-          "score": 93
-        },
-        {
-          "keyword": "stanley kubrick",
-          "score": 92
-        },
-        {
-          "keyword": "jordan miller",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-03T08:38:51.046Z",
       "geo": "US",
       "source": "google",
@@ -4933,6 +4886,53 @@
         },
         {
           "keyword": "mcnugget caviar",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-07T08:19:40.735Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "super bowl flyover aircraft",
+          "score": 100
+        },
+        {
+          "keyword": "poland",
+          "score": 99
+        },
+        {
+          "keyword": "wwe smackdown results",
+          "score": 98
+        },
+        {
+          "keyword": "ai",
+          "score": 97
+        },
+        {
+          "keyword": "open",
+          "score": 96
+        },
+        {
+          "keyword": "china",
+          "score": 95
+        },
+        {
+          "keyword": "nvidia",
+          "score": 94
+        },
+        {
+          "keyword": "us",
+          "score": 93
+        },
+        {
+          "keyword": "dd cafe",
+          "score": 92
+        },
+        {
+          "keyword": "aubrey plaza",
           "score": 91
         }
       ]
