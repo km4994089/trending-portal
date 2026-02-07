@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-03T12:35:59.335Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mrk stock",
-          "score": 100
-        },
-        {
-          "keyword": "paypal stock",
-          "score": 99
-        },
-        {
-          "keyword": "the day the music died",
-          "score": 98
-        },
-        {
-          "keyword": "shavkat rakhmonov",
-          "score": 97
-        },
-        {
-          "keyword": "pypl stock",
-          "score": 96
-        },
-        {
-          "keyword": "what is nationalized voting",
-          "score": 95
-        },
-        {
-          "keyword": "marius borg høiby",
-          "score": 94
-        },
-        {
-          "keyword": "strands hint",
-          "score": 93
-        },
-        {
-          "keyword": "pfe stock",
-          "score": 92
-        },
-        {
-          "keyword": "jon stewart",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-03T13:57:05.024Z",
       "geo": "US",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "lopez vs apple",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-07T13:23:53.631Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "incident response plans",
+          "score": 100
+        },
+        {
+          "keyword": "best shows on hbo max",
+          "score": 99
+        },
+        {
+          "keyword": "latest iphone rumors",
+          "score": 98
+        },
+        {
+          "keyword": "conduent",
+          "score": 97
+        },
+        {
+          "keyword": "alex hall skier",
+          "score": 96
+        },
+        {
+          "keyword": "cristian romero",
+          "score": 95
+        },
+        {
+          "keyword": "blockchain technology",
+          "score": 94
+        },
+        {
+          "keyword": "cryptocurrency trading",
+          "score": 93
+        },
+        {
+          "keyword": "michael saylor",
+          "score": 92
+        },
+        {
+          "keyword": "fintech innovation",
           "score": 91
         }
       ]

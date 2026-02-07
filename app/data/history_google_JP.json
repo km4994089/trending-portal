@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-03T12:36:01.821Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "金子ノブアキ",
-          "score": 100
-        },
-        {
-          "keyword": "進撃の巨人",
-          "score": 99
-        },
-        {
-          "keyword": "マツコデラックス",
-          "score": 98
-        },
-        {
-          "keyword": "サイレンススズカ",
-          "score": 97
-        },
-        {
-          "keyword": "手塚治虫",
-          "score": 96
-        },
-        {
-          "keyword": "北斗の拳",
-          "score": 95
-        },
-        {
-          "keyword": "マツコの知らない世界",
-          "score": 94
-        },
-        {
-          "keyword": "櫻井よしこ",
-          "score": 93
-        },
-        {
-          "keyword": "近畿大学",
-          "score": 92
-        },
-        {
-          "keyword": "成田凌",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-03T13:57:08.013Z",
       "geo": "JP",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "エミレーツ航空",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-07T13:23:56.190Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ind vs usa",
+          "score": 100
+        },
+        {
+          "keyword": "apex",
+          "score": 99
+        },
+        {
+          "keyword": "伊野尾慧",
+          "score": 98
+        },
+        {
+          "keyword": "中島裕翔",
+          "score": 97
+        },
+        {
+          "keyword": "東海オンエア",
+          "score": 96
+        },
+        {
+          "keyword": "名探偵コナン",
+          "score": 95
+        },
+        {
+          "keyword": "衆議院議員選挙 情勢",
+          "score": 94
+        },
+        {
+          "keyword": "チームみらい",
+          "score": 93
+        },
+        {
+          "keyword": "福島みずほ",
+          "score": 92
+        },
+        {
+          "keyword": "m1",
           "score": 91
         }
       ]
