@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-03T10:29:52.116Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "上地雄輔",
-          "score": 100
-        },
-        {
-          "keyword": "石原慎太郎",
-          "score": 99
-        },
-        {
-          "keyword": "石原伸晃",
-          "score": 98
-        },
-        {
-          "keyword": "今日の月",
-          "score": 97
-        },
-        {
-          "keyword": "足立梨花",
-          "score": 96
-        },
-        {
-          "keyword": "梅澤美波",
-          "score": 95
-        },
-        {
-          "keyword": "スーパー",
-          "score": 94
-        },
-        {
-          "keyword": "サンケイビル",
-          "score": 93
-        },
-        {
-          "keyword": "だんじり",
-          "score": 92
-        },
-        {
-          "keyword": "リアルタイム",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-03T11:07:40.380Z",
       "geo": "JP",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "呉市",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-07T10:50:30.265Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "菅田将暉",
+          "score": 100
+        },
+        {
+          "keyword": "向井康二",
+          "score": 99
+        },
+        {
+          "keyword": "岡田結実 出産",
+          "score": 98
+        },
+        {
+          "keyword": "布川 敏和",
+          "score": 97
+        },
+        {
+          "keyword": "川村エミコ",
+          "score": 96
+        },
+        {
+          "keyword": "小池栄子",
+          "score": 95
+        },
+        {
+          "keyword": "大久保佳代子",
+          "score": 94
+        },
+        {
+          "keyword": "どうしてもどうしても歌詞",
+          "score": 93
+        },
+        {
+          "keyword": "ice",
+          "score": 92
+        },
+        {
+          "keyword": "オバマ ゴリラ",
           "score": 91
         }
       ]
