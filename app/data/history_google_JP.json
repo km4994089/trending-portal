@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-03T05:10:40.281Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "粛清",
-          "score": 100
-        },
-        {
-          "keyword": "住友化学",
-          "score": 99
-        },
-        {
-          "keyword": "shiho",
-          "score": 98
-        },
-        {
-          "keyword": "jamstec",
-          "score": 97
-        },
-        {
-          "keyword": "ヒルナンデス",
-          "score": 96
-        },
-        {
-          "keyword": "オバジ",
-          "score": 95
-        },
-        {
-          "keyword": "高橋真麻",
-          "score": 94
-        },
-        {
-          "keyword": "デフテック",
-          "score": 93
-        },
-        {
-          "keyword": "船越英一郎",
-          "score": 92
-        },
-        {
-          "keyword": "侍ジャパン サポートメンバー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-03T06:09:13.301Z",
       "geo": "JP",
       "source": "google",
@@ -4933,6 +4886,53 @@
         },
         {
           "keyword": "ジャンボたかお",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-07T06:00:26.745Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "t20 world cup",
+          "score": 100
+        },
+        {
+          "keyword": "桜井ユキ",
+          "score": 99
+        },
+        {
+          "keyword": "滝沢カレン",
+          "score": 98
+        },
+        {
+          "keyword": "中田翔",
+          "score": 97
+        },
+        {
+          "keyword": "新浜レオン",
+          "score": 96
+        },
+        {
+          "keyword": "サッカー",
+          "score": 95
+        },
+        {
+          "keyword": "ベルマーレ",
+          "score": 94
+        },
+        {
+          "keyword": "沖雅也",
+          "score": 93
+        },
+        {
+          "keyword": "ジュビロ",
+          "score": 92
+        },
+        {
+          "keyword": "湘南ベルマーレ",
           "score": 91
         }
       ]
