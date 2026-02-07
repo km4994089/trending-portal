@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-03T22:21:00.751Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "モーグル",
-          "score": 100
-        },
-        {
-          "keyword": "大塚拓",
-          "score": 99
-        },
-        {
-          "keyword": "モルトブック",
-          "score": 98
-        },
-        {
-          "keyword": "札幌雪まつり 2026",
-          "score": 97
-        },
-        {
-          "keyword": "個人向け国債",
-          "score": 96
-        },
-        {
-          "keyword": "片山さつき",
-          "score": 95
-        },
-        {
-          "keyword": "東京24区",
-          "score": 94
-        },
-        {
-          "keyword": "アンソロピック",
-          "score": 93
-        },
-        {
-          "keyword": "piala liga",
-          "score": 92
-        },
-        {
-          "keyword": "墨田区 投票済証",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-03T22:54:42.419Z",
       "geo": "JP",
       "source": "google",
@@ -5450,6 +5403,53 @@
         },
         {
           "keyword": "埼玉 天気",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-07T22:50:45.862Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "三菱ufj",
+          "score": 100
+        },
+        {
+          "keyword": "山陽本線",
+          "score": 99
+        },
+        {
+          "keyword": "神姫バス",
+          "score": 98
+        },
+        {
+          "keyword": "ビッグエアー",
+          "score": 97
+        },
+        {
+          "keyword": "島根銀行",
+          "score": 96
+        },
+        {
+          "keyword": "ネッツ 対 ウィザーズ",
+          "score": 95
+        },
+        {
+          "keyword": "九州道",
+          "score": 94
+        },
+        {
+          "keyword": "宮古島駅伝",
+          "score": 93
+        },
+        {
+          "keyword": "レンタカー",
+          "score": 92
+        },
+        {
+          "keyword": "阪急",
           "score": 91
         }
       ]
