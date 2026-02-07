@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-03T03:44:54.171Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "幸楽苑",
-          "score": 100
-        },
-        {
-          "keyword": "双日",
-          "score": 99
-        },
-        {
-          "keyword": "任天堂 決算",
-          "score": 98
-        },
-        {
-          "keyword": "サイボウズ",
-          "score": 97
-        },
-        {
-          "keyword": "天気予報 雪",
-          "score": 96
-        },
-        {
-          "keyword": "ぱーてぃーちゃん",
-          "score": 95
-        },
-        {
-          "keyword": "クリッパーズ 対 シクサーズ",
-          "score": 94
-        },
-        {
-          "keyword": "衆議院選挙 中道",
-          "score": 93
-        },
-        {
-          "keyword": "前田敦子",
-          "score": 92
-        },
-        {
-          "keyword": "森口博子",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-03T05:10:40.281Z",
       "geo": "JP",
       "source": "google",
@@ -4933,6 +4886,53 @@
         },
         {
           "keyword": "比例代表選挙",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-07T05:00:33.799Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "大宮 対 松本",
+          "score": 100
+        },
+        {
+          "keyword": "前田利家",
+          "score": 99
+        },
+        {
+          "keyword": "千葉 対 a東京",
+          "score": 98
+        },
+        {
+          "keyword": "浦和レッドダイヤモンズ",
+          "score": 97
+        },
+        {
+          "keyword": "スターダム",
+          "score": 96
+        },
+        {
+          "keyword": "選挙速報",
+          "score": 95
+        },
+        {
+          "keyword": "早春ステークス",
+          "score": 94
+        },
+        {
+          "keyword": "百瀬夢奏喫煙",
+          "score": 93
+        },
+        {
+          "keyword": "渡邉美穂",
+          "score": 92
+        },
+        {
+          "keyword": "ジャンボたかお",
           "score": 91
         }
       ]
