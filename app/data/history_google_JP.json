@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-04T22:49:39.739Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "西武新宿線",
-          "score": 100
-        },
-        {
-          "keyword": "イタリア",
-          "score": 99
-        },
-        {
-          "keyword": "千葉14区",
-          "score": 98
-        },
-        {
-          "keyword": "宮崎市天気",
-          "score": 97
-        },
-        {
-          "keyword": "インフルエンザb型",
-          "score": 96
-        },
-        {
-          "keyword": "蘇我駅",
-          "score": 95
-        },
-        {
-          "keyword": "スターウォーズ",
-          "score": 94
-        },
-        {
-          "keyword": "山時聡真",
-          "score": 93
-        },
-        {
-          "keyword": "坂本花織",
-          "score": 92
-        },
-        {
-          "keyword": "東京理科大学",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-04T23:17:45.347Z",
       "geo": "JP",
       "source": "google",
@@ -5873,6 +5826,53 @@
         },
         {
           "keyword": "坂本勇人",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-08T22:52:58.323Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "祝日",
+          "score": 100
+        },
+        {
+          "keyword": "メダル",
+          "score": 99
+        },
+        {
+          "keyword": "近江鉄道",
+          "score": 98
+        },
+        {
+          "keyword": "オーストラリアドル",
+          "score": 97
+        },
+        {
+          "keyword": "神戸市営地下鉄",
+          "score": 96
+        },
+        {
+          "keyword": "アリサ リュウ",
+          "score": 95
+        },
+        {
+          "keyword": "水道 凍結",
+          "score": 94
+        },
+        {
+          "keyword": "山岡達丸",
+          "score": 93
+        },
+        {
+          "keyword": "遅延",
+          "score": 92
+        },
+        {
+          "keyword": "jr東日本",
           "score": 91
         }
       ]

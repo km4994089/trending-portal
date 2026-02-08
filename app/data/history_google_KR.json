@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-04T22:49:38.252Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "허가윤",
-          "score": 100
-        },
-        {
-          "keyword": "팔란티어 주가",
-          "score": 99
-        },
-        {
-          "keyword": "오현규",
-          "score": 98
-        },
-        {
-          "keyword": "แมนซิตี พบ นิวคาสเซิล",
-          "score": 97
-        },
-        {
-          "keyword": "브로드컴 주가",
-          "score": 96
-        },
-        {
-          "keyword": "man city đấu với newcastle",
-          "score": 95
-        },
-        {
-          "keyword": "맨시티",
-          "score": 94
-        },
-        {
-          "keyword": "구글 주가",
-          "score": 93
-        },
-        {
-          "keyword": "man city vs newcastle",
-          "score": 92
-        },
-        {
-          "keyword": "마이크론 주가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-04T23:17:43.999Z",
       "geo": "KR",
       "source": "google",
@@ -5873,6 +5826,53 @@
         },
         {
           "keyword": "ลิเวอร์พูล พบ แมนซิตี",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-08T22:52:56.987Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "psg vs marseille",
+          "score": 100
+        },
+        {
+          "keyword": "valencia vs real madrid",
+          "score": 99
+        },
+        {
+          "keyword": "valencia đấu với real madrid",
+          "score": 98
+        },
+        {
+          "keyword": "real madrid",
+          "score": 97
+        },
+        {
+          "keyword": "ливерпуль – манчестер сити",
+          "score": 96
+        },
+        {
+          "keyword": "레알마드리드",
+          "score": 95
+        },
+        {
+          "keyword": "lafc",
+          "score": 94
+        },
+        {
+          "keyword": "발렌시아 대 레알 마드리드",
+          "score": 93
+        },
+        {
+          "keyword": "psg 대 마르세유",
+          "score": 92
+        },
+        {
+          "keyword": "오현규",
           "score": 91
         }
       ]
