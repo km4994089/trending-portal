@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-04T07:13:52.457Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "三菱ufj 決算",
-          "score": 100
-        },
-        {
-          "keyword": "エンリケ ヘルナンデス",
-          "score": 99
-        },
-        {
-          "keyword": "適時開示",
-          "score": 98
-        },
-        {
-          "keyword": "小泉進次郎",
-          "score": 97
-        },
-        {
-          "keyword": "ダイハツ・ミライース",
-          "score": 96
-        },
-        {
-          "keyword": "マイル修行",
-          "score": 95
-        },
-        {
-          "keyword": "ブレイザーズ 対 サンズ",
-          "score": 94
-        },
-        {
-          "keyword": "iij",
-          "score": 93
-        },
-        {
-          "keyword": "八木山橋",
-          "score": 92
-        },
-        {
-          "keyword": "アカデミック・ハラスメント",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-04T07:59:56.916Z",
       "geo": "JP",
       "source": "google",
@@ -5403,6 +5356,53 @@
         },
         {
           "keyword": "世界らん展2026",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-08T07:32:30.433Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ガクテンソク",
+          "score": 100
+        },
+        {
+          "keyword": "公職選挙法",
+          "score": 99
+        },
+        {
+          "keyword": "日本大相撲トーナメント",
+          "score": 98
+        },
+        {
+          "keyword": "狩野英孝",
+          "score": 97
+        },
+        {
+          "keyword": "全九州選抜高校バレーボール大会 2026",
+          "score": 96
+        },
+        {
+          "keyword": "徳光和夫",
+          "score": 95
+        },
+        {
+          "keyword": "岡田圭右",
+          "score": 94
+        },
+        {
+          "keyword": "木村勇大",
+          "score": 93
+        },
+        {
+          "keyword": "再放送",
+          "score": 92
+        },
+        {
+          "keyword": "ツエーゲン金沢",
           "score": 91
         }
       ]
