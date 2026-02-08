@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-04T12:35:57.587Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ai",
-          "score": 100
-        },
-        {
-          "keyword": "本並健治",
-          "score": 99
-        },
-        {
-          "keyword": "翔平",
-          "score": 98
-        },
-        {
-          "keyword": "柴田",
-          "score": 97
-        },
-        {
-          "keyword": "大久保佳代子",
-          "score": 96
-        },
-        {
-          "keyword": "永尾柚乃",
-          "score": 95
-        },
-        {
-          "keyword": "明治大学",
-          "score": 94
-        },
-        {
-          "keyword": "ムビチケ",
-          "score": 93
-        },
-        {
-          "keyword": "フォールアウト",
-          "score": 92
-        },
-        {
-          "keyword": "岸谷蘭丸",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-04T13:56:14.344Z",
       "geo": "JP",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "大泉洋",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-08T13:25:21.809Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ブライトン 対 クリスタル・パレス",
+          "score": 100
+        },
+        {
+          "keyword": "ビッグマック",
+          "score": 99
+        },
+        {
+          "keyword": "ニコニコ動画",
+          "score": 98
+        },
+        {
+          "keyword": "korn ferry",
+          "score": 97
+        },
+        {
+          "keyword": "リハック",
+          "score": 96
+        },
+        {
+          "keyword": "片山さつき 選挙",
+          "score": 95
+        },
+        {
+          "keyword": "後藤",
+          "score": 94
+        },
+        {
+          "keyword": "cnn",
+          "score": 93
+        },
+        {
+          "keyword": "アルクマール 対 アヤックス",
+          "score": 92
+        },
+        {
+          "keyword": "リンゼイ・ボン",
           "score": 91
         }
       ]
