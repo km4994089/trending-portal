@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-04T20:57:46.659Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "マンチェスターシティ",
-          "score": 100
-        },
-        {
-          "keyword": "倉悠貴",
-          "score": 99
-        },
-        {
-          "keyword": "小芝風花",
-          "score": 98
-        },
-        {
-          "keyword": "コパ・デル・レイ",
-          "score": 97
-        },
-        {
-          "keyword": "気象庁 天気予報",
-          "score": 96
-        },
-        {
-          "keyword": "nyダウ",
-          "score": 95
-        },
-        {
-          "keyword": "man city vs newcastle",
-          "score": 94
-        },
-        {
-          "keyword": "サンディスク 株価",
-          "score": 93
-        },
-        {
-          "keyword": "nasdaq",
-          "score": 92
-        },
-        {
-          "keyword": "マンc 対 ニューカッスル",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-04T21:30:30.118Z",
       "geo": "JP",
       "source": "google",
@@ -5873,6 +5826,53 @@
         },
         {
           "keyword": "アンバー グレン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-08T21:17:14.881Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "阪急",
+          "score": 100
+        },
+        {
+          "keyword": "湘南新宿ライン",
+          "score": 99
+        },
+        {
+          "keyword": "nhk オリンピック",
+          "score": 98
+        },
+        {
+          "keyword": "ダウ先物",
+          "score": 97
+        },
+        {
+          "keyword": "valencia vs madrid",
+          "score": 96
+        },
+        {
+          "keyword": "pixel 7",
+          "score": 95
+        },
+        {
+          "keyword": "レアル・マドリード",
+          "score": 94
+        },
+        {
+          "keyword": "東海道線",
+          "score": 93
+        },
+        {
+          "keyword": "イリア マリニン",
+          "score": 92
+        },
+        {
+          "keyword": "近鉄",
           "score": 91
         }
       ]
