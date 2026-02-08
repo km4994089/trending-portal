@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-04T05:04:23.124Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "西畑大吾",
-          "score": 100
-        },
-        {
-          "keyword": "西田ひかる",
-          "score": 99
-        },
-        {
-          "keyword": "運勢",
-          "score": 98
-        },
-        {
-          "keyword": "ボンドロ",
-          "score": 97
-        },
-        {
-          "keyword": "メンフィス・グリズリーズ",
-          "score": 96
-        },
-        {
-          "keyword": "富士通",
-          "score": 95
-        },
-        {
-          "keyword": "群馬県",
-          "score": 94
-        },
-        {
-          "keyword": "中井貴一",
-          "score": 93
-        },
-        {
-          "keyword": "池松壮亮",
-          "score": 92
-        },
-        {
-          "keyword": "住友商事",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-04T06:09:26.212Z",
       "geo": "JP",
       "source": "google",
@@ -5403,6 +5356,53 @@
         },
         {
           "keyword": "vote",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-08T05:43:53.558Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "池上彰",
+          "score": 100
+        },
+        {
+          "keyword": "ジェームズ・ハーデン",
+          "score": 99
+        },
+        {
+          "keyword": "川崎f 対 柏",
+          "score": 98
+        },
+        {
+          "keyword": "fc大阪 対 讃岐",
+          "score": 97
+        },
+        {
+          "keyword": "イスラエル",
+          "score": 96
+        },
+        {
+          "keyword": "fc今治",
+          "score": 95
+        },
+        {
+          "keyword": "大分3区",
+          "score": 94
+        },
+        {
+          "keyword": "広島 対 秋田",
+          "score": 93
+        },
+        {
+          "keyword": "リニア新幹線",
+          "score": 92
+        },
+        {
+          "keyword": "比企理恵",
           "score": 91
         }
       ]

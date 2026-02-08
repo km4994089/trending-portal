@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-04T05:04:20.719Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ted danson",
-          "score": 100
-        },
-        {
-          "keyword": "monarch legacy of monsters",
-          "score": 99
-        },
-        {
-          "keyword": "collin gillespie",
-          "score": 98
-        },
-        {
-          "keyword": "jerami grant",
-          "score": 97
-        },
-        {
-          "keyword": "iranian drones",
-          "score": 96
-        },
-        {
-          "keyword": "toumani camara",
-          "score": 95
-        },
-        {
-          "keyword": "shaedon sharpe",
-          "score": 94
-        },
-        {
-          "keyword": "wyoming basketball",
-          "score": 93
-        },
-        {
-          "keyword": "fresno state basketball",
-          "score": 92
-        },
-        {
-          "keyword": "nc state basketball",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-04T06:09:23.187Z",
       "geo": "US",
       "source": "google",
@@ -5403,6 +5356,53 @@
         },
         {
           "keyword": "earthquake summerville sc",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-08T05:43:50.841Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kingston flemings",
+          "score": 100
+        },
+        {
+          "keyword": "demar derozan",
+          "score": 99
+        },
+        {
+          "keyword": "huntington bank",
+          "score": 98
+        },
+        {
+          "keyword": "arizona state vs colorado",
+          "score": 97
+        },
+        {
+          "keyword": "kobe bufkin",
+          "score": 96
+        },
+        {
+          "keyword": "portland trail blazers",
+          "score": 95
+        },
+        {
+          "keyword": "devin carter",
+          "score": 94
+        },
+        {
+          "keyword": "tabla liga mx",
+          "score": 93
+        },
+        {
+          "keyword": "lorenzo hunt",
+          "score": 92
+        },
+        {
+          "keyword": "surya bonaly",
           "score": 91
         }
       ]
