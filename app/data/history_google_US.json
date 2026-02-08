@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-04T21:30:27.216Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "avgo stock",
-          "score": 100
-        },
-        {
-          "keyword": "travis kelce",
-          "score": 99
-        },
-        {
-          "keyword": "caleb jones",
-          "score": 98
-        },
-        {
-          "keyword": "google stock price",
-          "score": 97
-        },
-        {
-          "keyword": "snap stock",
-          "score": 96
-        },
-        {
-          "keyword": "qcom stock",
-          "score": 95
-        },
-        {
-          "keyword": "arm stock",
-          "score": 94
-        },
-        {
-          "keyword": "cam thomas",
-          "score": 93
-        },
-        {
-          "keyword": "valencia fc",
-          "score": 92
-        },
-        {
-          "keyword": "stuttgart fc",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-04T22:16:28.084Z",
       "geo": "US",
       "source": "google",
@@ -5873,6 +5826,53 @@
         },
         {
           "keyword": "polymarket",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-08T21:47:15.932Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "hunter henry",
+          "score": 100
+        },
+        {
+          "keyword": "marshawn lynch",
+          "score": 99
+        },
+        {
+          "keyword": "kayshon boutte stats",
+          "score": 98
+        },
+        {
+          "keyword": "ndsu football",
+          "score": 97
+        },
+        {
+          "keyword": "super bowl ticket prices",
+          "score": 96
+        },
+        {
+          "keyword": "patriots depth chart",
+          "score": 95
+        },
+        {
+          "keyword": "nfl network",
+          "score": 94
+        },
+        {
+          "keyword": "super bowl tailgate concert",
+          "score": 93
+        },
+        {
+          "keyword": "chris stapleton",
+          "score": 92
+        },
+        {
+          "keyword": "mack hollins",
           "score": 91
         }
       ]
