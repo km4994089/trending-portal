@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-04T11:07:25.068Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "タコス",
-          "score": 100
-        },
-        {
-          "keyword": "森本晋太郎",
-          "score": 99
-        },
-        {
-          "keyword": "二条城",
-          "score": 98
-        },
-        {
-          "keyword": "高橋真麻",
-          "score": 97
-        },
-        {
-          "keyword": "ダイアン津田",
-          "score": 96
-        },
-        {
-          "keyword": "湊かなえ",
-          "score": 95
-        },
-        {
-          "keyword": "平野歩夢 怪我",
-          "score": 94
-        },
-        {
-          "keyword": "名取裕子",
-          "score": 93
-        },
-        {
-          "keyword": "瀬戸朝香",
-          "score": 92
-        },
-        {
-          "keyword": "観月ありさ 旦那",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-04T11:51:43.275Z",
       "geo": "JP",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "おいしい給食",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-08T11:15:55.567Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "森下千里",
+          "score": 100
+        },
+        {
+          "keyword": "鈴木貴子",
+          "score": 99
+        },
+        {
+          "keyword": "小沢一郎",
+          "score": 98
+        },
+        {
+          "keyword": "新潟 選挙",
+          "score": 97
+        },
+        {
+          "keyword": "兵庫8区",
+          "score": 96
+        },
+        {
+          "keyword": "千葉14区",
+          "score": 95
+        },
+        {
+          "keyword": "麻生太郎",
+          "score": 94
+        },
+        {
+          "keyword": "野田佳彦 選挙区",
+          "score": 93
+        },
+        {
+          "keyword": "三重3区",
+          "score": 92
+        },
+        {
+          "keyword": "小泉進次郎",
           "score": 91
         }
       ]
