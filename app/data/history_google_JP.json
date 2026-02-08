@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-04T16:34:53.610Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "葬送のフリーレン",
-          "score": 100
-        },
-        {
-          "keyword": "向井地美音",
-          "score": 99
-        },
-        {
-          "keyword": "akb48",
-          "score": 98
-        },
-        {
-          "keyword": "ソラシド",
-          "score": 97
-        },
-        {
-          "keyword": "柏木由紀",
-          "score": 96
-        },
-        {
-          "keyword": "amd",
-          "score": 95
-        },
-        {
-          "keyword": "チームみらい安野貴博",
-          "score": 94
-        },
-        {
-          "keyword": "緒方恵美",
-          "score": 93
-        },
-        {
-          "keyword": "パランティア",
-          "score": 92
-        },
-        {
-          "keyword": "橋本愛",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-04T17:38:09.491Z",
       "geo": "JP",
       "source": "google",
@@ -5685,6 +5638,53 @@
         },
         {
           "keyword": "停電",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-08T16:54:11.654Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ダーウィン事変",
+          "score": 100
+        },
+        {
+          "keyword": "乃木坂",
+          "score": 99
+        },
+        {
+          "keyword": "星ひとみ 占い",
+          "score": 98
+        },
+        {
+          "keyword": "リュージュ",
+          "score": 97
+        },
+        {
+          "keyword": "星ひとみ",
+          "score": 96
+        },
+        {
+          "keyword": "liverpool vs man city",
+          "score": 95
+        },
+        {
+          "keyword": "リヴァプール 対 マンc",
+          "score": 94
+        },
+        {
+          "keyword": "バイエルン 対 ホッフェンハイム",
+          "score": 93
+        },
+        {
+          "keyword": "参政党 松田学",
+          "score": 92
+        },
+        {
+          "keyword": "近畿 比例",
           "score": 91
         }
       ]
