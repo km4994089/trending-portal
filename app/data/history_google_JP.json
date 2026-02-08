@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-04T08:48:57.064Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "liquipedia",
-          "score": 100
-        },
-        {
-          "keyword": "ヤング ケアラー 探偵 ナイトスクープ",
-          "score": 99
-        },
-        {
-          "keyword": "サブスク",
-          "score": 98
-        },
-        {
-          "keyword": "荒川静香",
-          "score": 97
-        },
-        {
-          "keyword": "アムゼ",
-          "score": 96
-        },
-        {
-          "keyword": "火事",
-          "score": 95
-        },
-        {
-          "keyword": "唐津競艇",
-          "score": 94
-        },
-        {
-          "keyword": "timelesz",
-          "score": 93
-        },
-        {
-          "keyword": "浜名湖競艇",
-          "score": 92
-        },
-        {
-          "keyword": "東京ドーム イベント",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-04T09:33:43.105Z",
       "geo": "JP",
       "source": "google",
@@ -5403,6 +5356,53 @@
         },
         {
           "keyword": "ガクテンソク",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-08T08:54:36.688Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "eng vs nep",
+          "score": 100
+        },
+        {
+          "keyword": "垂秀夫",
+          "score": 99
+        },
+        {
+          "keyword": "前原瑞樹",
+          "score": 98
+        },
+        {
+          "keyword": "ウエストランド",
+          "score": 97
+        },
+        {
+          "keyword": "斯波正樹",
+          "score": 96
+        },
+        {
+          "keyword": "東京ドーム イベント",
+          "score": 95
+        },
+        {
+          "keyword": "長崎県知事選挙",
+          "score": 94
+        },
+        {
+          "keyword": "伊東",
+          "score": 93
+        },
+        {
+          "keyword": "茨城 対 fe名古屋",
+          "score": 92
+        },
+        {
+          "keyword": "広電",
           "score": 91
         }
       ]
