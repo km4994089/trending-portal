@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-04T17:38:09.491Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "極楽湯",
-          "score": 100
-        },
-        {
-          "keyword": "葬送のフリーレン",
-          "score": 99
-        },
-        {
-          "keyword": "向井地美音",
-          "score": 98
-        },
-        {
-          "keyword": "akb48",
-          "score": 97
-        },
-        {
-          "keyword": "ソラシド",
-          "score": 96
-        },
-        {
-          "keyword": "nissy",
-          "score": 95
-        },
-        {
-          "keyword": "amd",
-          "score": 94
-        },
-        {
-          "keyword": "柏木由紀",
-          "score": 93
-        },
-        {
-          "keyword": "緒方恵美",
-          "score": 92
-        },
-        {
-          "keyword": "パランティア",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-04T18:35:22.052Z",
       "geo": "JP",
       "source": "google",
@@ -5732,6 +5685,53 @@
         },
         {
           "keyword": "バイエルン 対 ホッフェンハイム",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-08T17:49:58.639Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "アトレティコ 対 ベティス",
+          "score": 100
+        },
+        {
+          "keyword": "2026 年冬季奥运会",
+          "score": 99
+        },
+        {
+          "keyword": "有本香",
+          "score": 98
+        },
+        {
+          "keyword": "東京 比例",
+          "score": 97
+        },
+        {
+          "keyword": "ダーウィン事変",
+          "score": 96
+        },
+        {
+          "keyword": "乃木坂",
+          "score": 95
+        },
+        {
+          "keyword": "ビルバオ 対 レバンテ",
+          "score": 94
+        },
+        {
+          "keyword": "リュージュ",
+          "score": 93
+        },
+        {
+          "keyword": "星ひとみ 占い",
+          "score": 92
+        },
+        {
+          "keyword": "星ひとみ",
           "score": 91
         }
       ]
