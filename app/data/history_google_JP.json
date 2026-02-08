@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-04T06:09:26.212Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "花王",
-          "score": 100
-        },
-        {
-          "keyword": "麻布台ヒルズ",
-          "score": 99
-        },
-        {
-          "keyword": "チームみらい",
-          "score": 98
-        },
-        {
-          "keyword": "吉野家 超特盛祭",
-          "score": 97
-        },
-        {
-          "keyword": "俳優",
-          "score": 96
-        },
-        {
-          "keyword": "黒岩知事",
-          "score": 95
-        },
-        {
-          "keyword": "佐田真由美",
-          "score": 94
-        },
-        {
-          "keyword": "西畑大吾",
-          "score": 93
-        },
-        {
-          "keyword": "西田ひかる",
-          "score": 92
-        },
-        {
-          "keyword": "運勢",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-04T07:13:52.457Z",
       "geo": "JP",
       "source": "google",
@@ -5403,6 +5356,53 @@
         },
         {
           "keyword": "比企理恵",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-08T06:38:21.914Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "日向坂",
+          "score": 100
+        },
+        {
+          "keyword": "シスメックス",
+          "score": 99
+        },
+        {
+          "keyword": "モロッコ",
+          "score": 98
+        },
+        {
+          "keyword": "東京v 対 水戸",
+          "score": 97
+        },
+        {
+          "keyword": "いわき市",
+          "score": 96
+        },
+        {
+          "keyword": "柏レイソル",
+          "score": 95
+        },
+        {
+          "keyword": "曽野舜太",
+          "score": 94
+        },
+        {
+          "keyword": "総選挙",
+          "score": 93
+        },
+        {
+          "keyword": "コンソール アーカイブス switch",
+          "score": 92
+        },
+        {
+          "keyword": "世界らん展2026",
           "score": 91
         }
       ]
