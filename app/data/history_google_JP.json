@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-04T23:17:45.347Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ブリスベン",
-          "score": 100
-        },
-        {
-          "keyword": "義家弘介",
-          "score": 99
-        },
-        {
-          "keyword": "大森元貴 ソロ",
-          "score": 98
-        },
-        {
-          "keyword": "pixel 10a",
-          "score": 97
-        },
-        {
-          "keyword": "かっぱ寿司",
-          "score": 96
-        },
-        {
-          "keyword": "エヌビディア",
-          "score": 95
-        },
-        {
-          "keyword": "地面師",
-          "score": 94
-        },
-        {
-          "keyword": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
-          "score": 93
-        },
-        {
-          "keyword": "西武線",
-          "score": 92
-        },
-        {
-          "keyword": "西武鉄道",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-04T23:47:58.592Z",
       "geo": "JP",
       "source": "google",
@@ -5873,6 +5826,53 @@
         },
         {
           "keyword": "jr東日本",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-08T23:21:00.793Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "新幹線 遅延",
+          "score": 100
+        },
+        {
+          "keyword": "dazn",
+          "score": 99
+        },
+        {
+          "keyword": "クライム101",
+          "score": 98
+        },
+        {
+          "keyword": "小泉八雲",
+          "score": 97
+        },
+        {
+          "keyword": "熊本",
+          "score": 96
+        },
+        {
+          "keyword": "今週の天気",
+          "score": 95
+        },
+        {
+          "keyword": "野村康太",
+          "score": 94
+        },
+        {
+          "keyword": "匝瑳市",
+          "score": 93
+        },
+        {
+          "keyword": "真木よう子",
+          "score": 92
+        },
+        {
+          "keyword": "国民審査 結果",
           "score": 91
         }
       ]
