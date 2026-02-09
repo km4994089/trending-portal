@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-05T20:22:30.939Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ネトフリ",
-          "score": 100
-        },
-        {
-          "keyword": "スイッチ2",
-          "score": 99
-        },
-        {
-          "keyword": "大雪予報",
-          "score": 98
-        },
-        {
-          "keyword": "恒松祐里",
-          "score": 97
-        },
-        {
-          "keyword": "市川実日子",
-          "score": 96
-        },
-        {
-          "keyword": "木村良平",
-          "score": 95
-        },
-        {
-          "keyword": "イーサリアム",
-          "score": 94
-        },
-        {
-          "keyword": "ルークケナード",
-          "score": 93
-        },
-        {
-          "keyword": "メタプラネット",
-          "score": 92
-        },
-        {
-          "keyword": "ビットコイン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-05T20:56:52.938Z",
       "geo": "JP",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "山田梨央",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-09T20:34:27.893Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ダウ",
+          "score": 100
+        },
+        {
+          "keyword": "日刊スポーツ",
+          "score": 99
+        },
+        {
+          "keyword": "オリンピック",
+          "score": 98
+        },
+        {
+          "keyword": "dni",
+          "score": 97
+        },
+        {
+          "keyword": "ビッグエア 女子",
+          "score": 96
+        },
+        {
+          "keyword": "ユ・スンウン",
+          "score": 95
+        },
+        {
+          "keyword": "nhk one",
+          "score": 94
+        },
+        {
+          "keyword": "ナンバーズ当選番号",
+          "score": 93
+        },
+        {
+          "keyword": "tver",
+          "score": 92
+        },
+        {
+          "keyword": "スキージャンプ",
           "score": 91
         }
       ]
