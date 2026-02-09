@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-05T06:13:39.170Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "新幹線 指定席",
-          "score": 100
-        },
-        {
-          "keyword": "松本智津夫",
-          "score": 99
-        },
-        {
-          "keyword": "増田大輝",
-          "score": 98
-        },
-        {
-          "keyword": "大阪 火事",
-          "score": 97
-        },
-        {
-          "keyword": "ポルジンギス",
-          "score": 96
-        },
-        {
-          "keyword": "マリオ",
-          "score": 95
-        },
-        {
-          "keyword": "カメラを止めるな",
-          "score": 94
-        },
-        {
-          "keyword": "東大寺",
-          "score": 93
-        },
-        {
-          "keyword": "山口百恵",
-          "score": 92
-        },
-        {
-          "keyword": "富士フイルム",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-05T07:30:25.512Z",
       "geo": "JP",
       "source": "google",
@@ -5873,6 +5826,53 @@
         },
         {
           "keyword": "横尾忠則",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-09T06:54:38.837Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "トリプル馬単",
+          "score": 100
+        },
+        {
+          "keyword": "オリックス",
+          "score": 99
+        },
+        {
+          "keyword": "住友生命",
+          "score": 98
+        },
+        {
+          "keyword": "ばけばけ",
+          "score": 97
+        },
+        {
+          "keyword": "船橋競馬",
+          "score": 96
+        },
+        {
+          "keyword": "ソニー ブルーレイレコーダー",
+          "score": 95
+        },
+        {
+          "keyword": "住友金属鉱山",
+          "score": 94
+        },
+        {
+          "keyword": "ひな祭り",
+          "score": 93
+        },
+        {
+          "keyword": "古河電工",
+          "score": 92
+        },
+        {
+          "keyword": "田中角栄",
           "score": 91
         }
       ]

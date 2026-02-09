@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-05T06:13:36.820Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "flagstaff",
-          "score": 100
-        },
-        {
-          "keyword": "jeremy fears",
-          "score": 99
-        },
-        {
-          "keyword": "benjamin netanyahu",
-          "score": 98
-        },
-        {
-          "keyword": "oregon state basketball",
-          "score": 97
-        },
-        {
-          "keyword": "nick jonas",
-          "score": 96
-        },
-        {
-          "keyword": "cavs game",
-          "score": 95
-        },
-        {
-          "keyword": "michael irvin",
-          "score": 94
-        },
-        {
-          "keyword": "aurora borealis tonight",
-          "score": 93
-        },
-        {
-          "keyword": "demar derozan",
-          "score": 92
-        },
-        {
-          "keyword": "cam spencer",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-05T07:30:23.207Z",
       "geo": "US",
       "source": "google",
@@ -5873,6 +5826,53 @@
         },
         {
           "keyword": "juan pablo guanipa",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-09T06:54:33.216Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "clash",
+          "score": 100
+        },
+        {
+          "keyword": "julia simon",
+          "score": 99
+        },
+        {
+          "keyword": "asia",
+          "score": 98
+        },
+        {
+          "keyword": "shanghai",
+          "score": 97
+        },
+        {
+          "keyword": "australian",
+          "score": 96
+        },
+        {
+          "keyword": "xiaomi",
+          "score": 95
+        },
+        {
+          "keyword": "india",
+          "score": 94
+        },
+        {
+          "keyword": "portugal",
+          "score": 93
+        },
+        {
+          "keyword": "seedance 2.0",
+          "score": 92
+        },
+        {
+          "keyword": "france",
           "score": 91
         }
       ]
