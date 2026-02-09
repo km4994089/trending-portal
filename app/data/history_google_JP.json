@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-05T10:31:21.748Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "岡村隆史",
-          "score": 100
-        },
-        {
-          "keyword": "坂下千里子",
-          "score": 99
-        },
-        {
-          "keyword": "絢香",
-          "score": 98
-        },
-        {
-          "keyword": "コブクロ",
-          "score": 97
-        },
-        {
-          "keyword": "西山茉希",
-          "score": 96
-        },
-        {
-          "keyword": "フォートナイト",
-          "score": 95
-        },
-        {
-          "keyword": "枝野幸男",
-          "score": 94
-        },
-        {
-          "keyword": "日光",
-          "score": 93
-        },
-        {
-          "keyword": "山下リオ",
-          "score": 92
-        },
-        {
-          "keyword": "藤田ニコル",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-05T11:28:21.370Z",
       "geo": "JP",
       "source": "google",
@@ -5873,6 +5826,53 @@
         },
         {
           "keyword": "ゴーゴ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-09T10:47:55.404Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "隠岐の島",
+          "score": 100
+        },
+        {
+          "keyword": "柏木由紀",
+          "score": 99
+        },
+        {
+          "keyword": "星野真里",
+          "score": 98
+        },
+        {
+          "keyword": "中島ひとみ",
+          "score": 97
+        },
+        {
+          "keyword": "同志社大学",
+          "score": 96
+        },
+        {
+          "keyword": "gta",
+          "score": 95
+        },
+        {
+          "keyword": "滑降",
+          "score": 94
+        },
+        {
+          "keyword": "冬季オリンピック 日程",
+          "score": 93
+        },
+        {
+          "keyword": "松平健",
+          "score": 92
+        },
+        {
+          "keyword": "ハロプロ サブスク",
           "score": 91
         }
       ]
