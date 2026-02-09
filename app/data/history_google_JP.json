@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-05T01:09:48.101Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ain",
-          "score": 100
-        },
-        {
-          "keyword": "エムスリー 株価",
-          "score": 99
-        },
-        {
-          "keyword": "イビデン 株価",
-          "score": 98
-        },
-        {
-          "keyword": "エムスリー",
-          "score": 97
-        },
-        {
-          "keyword": "サウジアラビア",
-          "score": 96
-        },
-        {
-          "keyword": "任天堂株価",
-          "score": 95
-        },
-        {
-          "keyword": "ソニーグループ 株価",
-          "score": 94
-        },
-        {
-          "keyword": "ルネサス 株価",
-          "score": 93
-        },
-        {
-          "keyword": "日本精密 株価",
-          "score": 92
-        },
-        {
-          "keyword": "8306",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-05T03:43:11.260Z",
       "geo": "JP",
       "source": "google",
@@ -5873,6 +5826,53 @@
         },
         {
           "keyword": "gdo",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-09T01:15:04.477Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jr東海 株価",
+          "score": 100
+        },
+        {
+          "keyword": "東京エレクトロン",
+          "score": 99
+        },
+        {
+          "keyword": "ヤマハ発動機 株価",
+          "score": 98
+        },
+        {
+          "keyword": "太陽誘電 株価",
+          "score": 97
+        },
+        {
+          "keyword": "ユニチャーム 株価",
+          "score": 96
+        },
+        {
+          "keyword": "ihi",
+          "score": 95
+        },
+        {
+          "keyword": "ニデック 株価",
+          "score": 94
+        },
+        {
+          "keyword": "kddi株価",
+          "score": 93
+        },
+        {
+          "keyword": "花王 株価",
+          "score": 92
+        },
+        {
+          "keyword": "キッコーマン株価",
           "score": 91
         }
       ]
