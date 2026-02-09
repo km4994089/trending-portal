@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-05T05:12:09.612Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "三井化学",
-          "score": 100
-        },
-        {
-          "keyword": "スポーツ",
-          "score": 99
-        },
-        {
-          "keyword": "ntt",
-          "score": 98
-        },
-        {
-          "keyword": "鶴見辰吾",
-          "score": 97
-        },
-        {
-          "keyword": "鶴見慎吾",
-          "score": 96
-        },
-        {
-          "keyword": "長嶋茂雄",
-          "score": 95
-        },
-        {
-          "keyword": "富野由悠季",
-          "score": 94
-        },
-        {
-          "keyword": "オムロン",
-          "score": 93
-        },
-        {
-          "keyword": "ブシュロン",
-          "score": 92
-        },
-        {
-          "keyword": "ポケパーク カントー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-05T06:13:39.170Z",
       "geo": "JP",
       "source": "google",
@@ -5873,6 +5826,53 @@
         },
         {
           "keyword": "b'z",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-09T05:50:23.085Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "古河電工",
+          "score": 100
+        },
+        {
+          "keyword": "田中真美子",
+          "score": 99
+        },
+        {
+          "keyword": "田中角栄",
+          "score": 98
+        },
+        {
+          "keyword": "杉村太蔵",
+          "score": 97
+        },
+        {
+          "keyword": "たいまー",
+          "score": 96
+        },
+        {
+          "keyword": "田中真紀子",
+          "score": 95
+        },
+        {
+          "keyword": "フジクラ",
+          "score": 94
+        },
+        {
+          "keyword": "コウノトリ",
+          "score": 93
+        },
+        {
+          "keyword": "宮崎麗果",
+          "score": 92
+        },
+        {
+          "keyword": "横尾忠則",
           "score": 91
         }
       ]
