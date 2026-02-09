@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-05T14:43:17.606Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "バイオハザード レクイエム",
-          "score": 100
-        },
-        {
-          "keyword": "バイオハザード",
-          "score": 99
-        },
-        {
-          "keyword": "tokyo scramble",
-          "score": 98
-        },
-        {
-          "keyword": "石川佳純",
-          "score": 97
-        },
-        {
-          "keyword": "宮ヶ瀬ダム",
-          "score": 96
-        },
-        {
-          "keyword": "フォールアウト",
-          "score": 95
-        },
-        {
-          "keyword": "konami",
-          "score": 94
-        },
-        {
-          "keyword": "カルドセプト",
-          "score": 93
-        },
-        {
-          "keyword": "ベセスダ",
-          "score": 92
-        },
-        {
-          "keyword": "近藤心音",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-05T15:32:34.944Z",
       "geo": "JP",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "上村愛子",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-09T15:28:32.684Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ワークマン",
+          "score": 100
+        },
+        {
+          "keyword": "エアドゥ",
+          "score": 99
+        },
+        {
+          "keyword": "三四郎小宮",
+          "score": 98
+        },
+        {
+          "keyword": "airdo",
+          "score": 97
+        },
+        {
+          "keyword": "東京新聞杯 過去",
+          "score": 96
+        },
+        {
+          "keyword": "seedance 2.0",
+          "score": 95
+        },
+        {
+          "keyword": "mリーグ",
+          "score": 94
+        },
+        {
+          "keyword": "光宗薫",
+          "score": 93
+        },
+        {
+          "keyword": "高梨沙羅",
+          "score": 92
+        },
+        {
+          "keyword": "高木美帆",
           "score": 91
         }
       ]
