@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-05T07:30:23.207Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "affordable housing",
-          "score": 100
-        },
-        {
-          "keyword": "polar vortex forecast",
-          "score": 99
-        },
-        {
-          "keyword": "latest earthquake near me",
-          "score": 98
-        },
-        {
-          "keyword": "stock market news today",
-          "score": 97
-        },
-        {
-          "keyword": "new zealand breakers",
-          "score": 96
-        },
-        {
-          "keyword": "bts lightsticks",
-          "score": 95
-        },
-        {
-          "keyword": "where to watch nfl games",
-          "score": 94
-        },
-        {
-          "keyword": "neymar",
-          "score": 93
-        },
-        {
-          "keyword": "fintech innovation",
-          "score": 92
-        },
-        {
-          "keyword": "tax filing deadline",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-05T08:31:51.608Z",
       "geo": "US",
       "source": "google",
@@ -5873,6 +5826,53 @@
         },
         {
           "keyword": "france",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-09T07:48:45.693Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "2026 年冬季奥运会",
+          "score": 100
+        },
+        {
+          "keyword": "lottery",
+          "score": 99
+        },
+        {
+          "keyword": "new cyberpunk game",
+          "score": 98
+        },
+        {
+          "keyword": "mckinsey",
+          "score": 97
+        },
+        {
+          "keyword": "philippines",
+          "score": 96
+        },
+        {
+          "keyword": "iot",
+          "score": 95
+        },
+        {
+          "keyword": "clash",
+          "score": 94
+        },
+        {
+          "keyword": "julia simon",
+          "score": 93
+        },
+        {
+          "keyword": "asia",
+          "score": 92
+        },
+        {
+          "keyword": "australian",
           "score": 91
         }
       ]
