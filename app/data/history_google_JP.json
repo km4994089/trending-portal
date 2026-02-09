@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-05T21:51:17.079Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "amd 株価",
-          "score": 100
-        },
-        {
-          "keyword": "宮崎市天気",
-          "score": 99
-        },
-        {
-          "keyword": "インフルエンザb型",
-          "score": 98
-        },
-        {
-          "keyword": "snow storm warning",
-          "score": 97
-        },
-        {
-          "keyword": "ワークマン",
-          "score": 96
-        },
-        {
-          "keyword": "鈴木俊一",
-          "score": 95
-        },
-        {
-          "keyword": "衆議院選挙 終盤情勢",
-          "score": 94
-        },
-        {
-          "keyword": "天気予報 札幌",
-          "score": 93
-        },
-        {
-          "keyword": "羽田空港",
-          "score": 92
-        },
-        {
-          "keyword": "熊本天気",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-02-05T22:17:10.007Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "betis vs atlético madrid",
-          "score": 100
-        },
-        {
-          "keyword": "スルメイカ",
-          "score": 99
-        },
-        {
-          "keyword": "柄本佑",
-          "score": 98
-        },
-        {
-          "keyword": "コパ・デル・レイ",
-          "score": 97
-        },
-        {
-          "keyword": "浜辺美波",
-          "score": 96
-        },
-        {
-          "keyword": "宮崎市天気",
-          "score": 95
-        },
-        {
-          "keyword": "amd 株価",
-          "score": 94
-        },
-        {
-          "keyword": "インフルエンザb型",
-          "score": 93
-        },
-        {
-          "keyword": "snow storm warning",
-          "score": 92
-        },
-        {
-          "keyword": "ワークマン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-05T22:52:31.487Z",
       "geo": "JP",
       "source": "google",
@@ -5732,6 +5638,53 @@
         },
         {
           "keyword": "エスアンドピー500",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-09T22:26:15.649Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "葛西紀明",
+          "score": 100
+        },
+        {
+          "keyword": "京都天気",
+          "score": 99
+        },
+        {
+          "keyword": "ハチミツ二郎",
+          "score": 98
+        },
+        {
+          "keyword": "シンガポール",
+          "score": 97
+        },
+        {
+          "keyword": "ミラノオリンピック マスコット",
+          "score": 96
+        },
+        {
+          "keyword": "食料品消費税ゼロ",
+          "score": 95
+        },
+        {
+          "keyword": "misamo",
+          "score": 94
+        },
+        {
+          "keyword": "熊本 天気",
+          "score": 93
+        },
+        {
+          "keyword": "倉悠貴",
+          "score": 92
+        },
+        {
+          "keyword": "東京新聞杯",
           "score": 91
         }
       ]
