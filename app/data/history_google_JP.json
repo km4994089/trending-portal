@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-05T20:56:52.938Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "岩瀬洋志",
-          "score": 100
-        },
-        {
-          "keyword": "ストラスブール 対 モナコ",
-          "score": 99
-        },
-        {
-          "keyword": "土屋太鳳",
-          "score": 98
-        },
-        {
-          "keyword": "アタランタ 対 ユヴェントス",
-          "score": 97
-        },
-        {
-          "keyword": "ネトフリ",
-          "score": 96
-        },
-        {
-          "keyword": "大雪予報",
-          "score": 95
-        },
-        {
-          "keyword": "恒松祐里",
-          "score": 94
-        },
-        {
-          "keyword": "市川実日子",
-          "score": 93
-        },
-        {
-          "keyword": "木村良平",
-          "score": 92
-        },
-        {
-          "keyword": "ルークケナード",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-02-05T21:23:08.747Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "インフルエンザ",
-          "score": 100
-        },
-        {
-          "keyword": "テレビ番組表",
-          "score": 99
-        },
-        {
-          "keyword": "トランプ",
-          "score": 98
-        },
-        {
-          "keyword": "天気 札幌",
-          "score": 97
-        },
-        {
-          "keyword": "三橋くん",
-          "score": 96
-        },
-        {
-          "keyword": "岩瀬洋志",
-          "score": 95
-        },
-        {
-          "keyword": "ストラスブール 対 モナコ",
-          "score": 94
-        },
-        {
-          "keyword": "土屋太鳳",
-          "score": 93
-        },
-        {
-          "keyword": "アタランタ 対 ユヴェントス",
-          "score": 92
-        },
-        {
-          "keyword": "ベティス 対 アトレティコ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-05T21:51:17.079Z",
       "geo": "JP",
       "source": "google",
@@ -5779,6 +5685,53 @@
         },
         {
           "keyword": "スキージャンプ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-09T21:30:47.665Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jr西日本",
+          "score": 100
+        },
+        {
+          "keyword": "ポルト 対 スポルティングcp",
+          "score": 99
+        },
+        {
+          "keyword": "tokioインカラミ",
+          "score": 98
+        },
+        {
+          "keyword": "アルファベット株価",
+          "score": 97
+        },
+        {
+          "keyword": "sp500",
+          "score": 96
+        },
+        {
+          "keyword": "adr",
+          "score": 95
+        },
+        {
+          "keyword": "モーグル",
+          "score": 94
+        },
+        {
+          "keyword": "jr京都線",
+          "score": 93
+        },
+        {
+          "keyword": "オリンピック 速報",
+          "score": 92
+        },
+        {
+          "keyword": "エスアンドピー500",
           "score": 91
         }
       ]
