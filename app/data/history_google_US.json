@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-05T08:31:51.608Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "meta stock price",
-          "score": 100
-        },
-        {
-          "keyword": "best shows on hbo max",
-          "score": 99
-        },
-        {
-          "keyword": "influencer marketing",
-          "score": 98
-        },
-        {
-          "keyword": "nepal vs canada",
-          "score": 97
-        },
-        {
-          "keyword": "tennis scores today",
-          "score": 96
-        },
-        {
-          "keyword": "trade deadline nba trades",
-          "score": 95
-        },
-        {
-          "keyword": "affordable housing",
-          "score": 94
-        },
-        {
-          "keyword": "stock market news today",
-          "score": 93
-        },
-        {
-          "keyword": "latest earthquake near me",
-          "score": 92
-        },
-        {
-          "keyword": "avery brooks",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-05T09:34:16.678Z",
       "geo": "US",
       "source": "google",
@@ -5873,6 +5826,53 @@
         },
         {
           "keyword": "australian",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-09T08:38:35.862Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "hawaii weather forecast",
+          "score": 100
+        },
+        {
+          "keyword": "netflix top movies right now",
+          "score": 99
+        },
+        {
+          "keyword": "tax filing deadline",
+          "score": 98
+        },
+        {
+          "keyword": "best shows on hbo max",
+          "score": 97
+        },
+        {
+          "keyword": "blockchain technology",
+          "score": 96
+        },
+        {
+          "keyword": "mortgage rates today",
+          "score": 95
+        },
+        {
+          "keyword": "personal injury attorney",
+          "score": 94
+        },
+        {
+          "keyword": "vehicle accident lawyers",
+          "score": 93
+        },
+        {
+          "keyword": "auto accident attorney",
+          "score": 92
+        },
+        {
+          "keyword": "pedestrian accident lawyers",
           "score": 91
         }
       ]
