@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-05T19:31:48.418Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ネトフリ",
-          "score": 100
-        },
-        {
-          "keyword": "スイッチ2",
-          "score": 99
-        },
-        {
-          "keyword": "大雪予報",
-          "score": 98
-        },
-        {
-          "keyword": "恒松祐里",
-          "score": 97
-        },
-        {
-          "keyword": "市川実日子",
-          "score": 96
-        },
-        {
-          "keyword": "木村良平",
-          "score": 95
-        },
-        {
-          "keyword": "ルークケナード",
-          "score": 94
-        },
-        {
-          "keyword": "イーサリアム",
-          "score": 93
-        },
-        {
-          "keyword": "メタプラネット",
-          "score": 92
-        },
-        {
-          "keyword": "ビットコイン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-05T20:22:30.939Z",
       "geo": "JP",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "小平奈緒",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-09T19:56:56.947Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nhk one",
+          "score": 100
+        },
+        {
+          "keyword": "ナンバーズ当選番号",
+          "score": 99
+        },
+        {
+          "keyword": "tver",
+          "score": 98
+        },
+        {
+          "keyword": "スキージャンプ",
+          "score": 97
+        },
+        {
+          "keyword": "femke kok",
+          "score": 96
+        },
+        {
+          "keyword": "nyダウ",
+          "score": 95
+        },
+        {
+          "keyword": "小林陵侑",
+          "score": 94
+        },
+        {
+          "keyword": "オランダ",
+          "score": 93
+        },
+        {
+          "keyword": "ユッタ・リールダム",
+          "score": 92
+        },
+        {
+          "keyword": "山田梨央",
           "score": 91
         }
       ]
