@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-05T22:52:31.487Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "本田真凜",
-          "score": 100
-        },
-        {
-          "keyword": "市川中車",
-          "score": 99
-        },
-        {
-          "keyword": "ポケモンフォレスト",
-          "score": 98
-        },
-        {
-          "keyword": "花粉情報",
-          "score": 97
-        },
-        {
-          "keyword": "アデモラ・ルックマン",
-          "score": 96
-        },
-        {
-          "keyword": "サンフレッチェ広島",
-          "score": 95
-        },
-        {
-          "keyword": "名城大学",
-          "score": 94
-        },
-        {
-          "keyword": "アークナイツ エンドフィールド 指名招集券",
-          "score": 93
-        },
-        {
-          "keyword": "saasの死",
-          "score": 92
-        },
-        {
-          "keyword": "六本木",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-05T23:16:06.389Z",
       "geo": "JP",
       "source": "google",
@@ -5685,6 +5638,53 @@
         },
         {
           "keyword": "東京新聞杯",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-09T23:03:02.509Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "都営新宿線",
+          "score": 100
+        },
+        {
+          "keyword": "柄本佑",
+          "score": 99
+        },
+        {
+          "keyword": "斉藤里恵",
+          "score": 98
+        },
+        {
+          "keyword": "福田昭夫",
+          "score": 97
+        },
+        {
+          "keyword": "渡辺創",
+          "score": 96
+        },
+        {
+          "keyword": "建国記念の日",
+          "score": 95
+        },
+        {
+          "keyword": "豪ドル",
+          "score": 94
+        },
+        {
+          "keyword": "jutta leerdam",
+          "score": 93
+        },
+        {
+          "keyword": "葛西紀明",
+          "score": 92
+        },
+        {
+          "keyword": "た",
           "score": 91
         }
       ]
