@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-06T22:47:27.785Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "terry gannon",
-          "score": 100
-        },
-        {
-          "keyword": "jd vance booed",
-          "score": 99
-        },
-        {
-          "keyword": "alberto tomba",
-          "score": 98
-        },
-        {
-          "keyword": "henrique maderite",
-          "score": 97
-        },
-        {
-          "keyword": "cecilia bartoli",
-          "score": 96
-        },
-        {
-          "keyword": "super bowl halftime show",
-          "score": 95
-        },
-        {
-          "keyword": "charlize theron",
-          "score": 94
-        },
-        {
-          "keyword": "ghali",
-          "score": 93
-        },
-        {
-          "keyword": "nelson mandela",
-          "score": 92
-        },
-        {
-          "keyword": "dr peter attia",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-06T23:16:07.186Z",
       "geo": "US",
       "source": "google",
@@ -5403,6 +5356,53 @@
         },
         {
           "keyword": "jill zarin bad bunny",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-10T23:09:04.021Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "pacers vs knicks",
+          "score": 100
+        },
+        {
+          "keyword": "unc vs miami fl",
+          "score": 99
+        },
+        {
+          "keyword": "winter storm warning weather",
+          "score": 98
+        },
+        {
+          "keyword": "jahmyr gibbs",
+          "score": 97
+        },
+        {
+          "keyword": "coppa italia",
+          "score": 96
+        },
+        {
+          "keyword": "biathlon olympics",
+          "score": 95
+        },
+        {
+          "keyword": "united strand",
+          "score": 94
+        },
+        {
+          "keyword": "man united game",
+          "score": 93
+        },
+        {
+          "keyword": "purdue vs nebraska",
+          "score": 92
+        },
+        {
+          "keyword": "sarasota shooting",
           "score": 91
         }
       ]
