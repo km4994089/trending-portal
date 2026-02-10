@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-06T10:03:55.993Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cricbuzz",
-          "score": 100
-        },
-        {
-          "keyword": "new show to watch",
-          "score": 99
-        },
-        {
-          "keyword": "best shows on hbo max",
-          "score": 98
-        },
-        {
-          "keyword": "u19 world cup",
-          "score": 97
-        },
-        {
-          "keyword": "incident response plans",
-          "score": 96
-        },
-        {
-          "keyword": "what is a data breach",
-          "score": 95
-        },
-        {
-          "keyword": "trump obama",
-          "score": 94
-        },
-        {
-          "keyword": "stock market news today",
-          "score": 93
-        },
-        {
-          "keyword": "cryptocurrency trading",
-          "score": 92
-        },
-        {
-          "keyword": "fintech innovation",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-06T11:05:16.466Z",
       "geo": "US",
       "source": "google",
@@ -5591,6 +5544,53 @@
         },
         {
           "keyword": "tennis scores today",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-10T10:43:54.023Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "california mask ban",
+          "score": 100
+        },
+        {
+          "keyword": "uae vs new zealand",
+          "score": 99
+        },
+        {
+          "keyword": "flash flood warning",
+          "score": 98
+        },
+        {
+          "keyword": "incident response plans",
+          "score": 97
+        },
+        {
+          "keyword": "fintech innovation",
+          "score": 96
+        },
+        {
+          "keyword": "netflix top movies right now",
+          "score": 95
+        },
+        {
+          "keyword": "latest iphone rumors",
+          "score": 94
+        },
+        {
+          "keyword": "where to watch nfl games",
+          "score": 93
+        },
+        {
+          "keyword": "cryptocurrency trading",
+          "score": 92
+        },
+        {
+          "keyword": "mortgage rates today",
           "score": 91
         }
       ]

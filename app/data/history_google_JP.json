@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-06T10:03:58.659Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "日本共産党",
-          "score": 100
-        },
-        {
-          "keyword": "町田樹",
-          "score": 99
-        },
-        {
-          "keyword": "瀬戸サオリ",
-          "score": 98
-        },
-        {
-          "keyword": "ジョージア",
-          "score": 97
-        },
-        {
-          "keyword": "トラウト",
-          "score": 96
-        },
-        {
-          "keyword": "j2",
-          "score": 95
-        },
-        {
-          "keyword": "山手線",
-          "score": 94
-        },
-        {
-          "keyword": "アーモンドアイ",
-          "score": 93
-        },
-        {
-          "keyword": "山手線 遅延",
-          "score": 92
-        },
-        {
-          "keyword": "タリーズ トムジェリ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-06T11:05:19.390Z",
       "geo": "JP",
       "source": "google",
@@ -5591,6 +5544,53 @@
         },
         {
           "keyword": "ピザーラ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-10T10:43:56.535Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ミスチル",
+          "score": 100
+        },
+        {
+          "keyword": "かつや",
+          "score": 99
+        },
+        {
+          "keyword": "宮本徹",
+          "score": 98
+        },
+        {
+          "keyword": "手取川",
+          "score": 97
+        },
+        {
+          "keyword": "ain オリンピック",
+          "score": 96
+        },
+        {
+          "keyword": "目黒蓮 映画",
+          "score": 95
+        },
+        {
+          "keyword": "apple iphone 17e",
+          "score": 94
+        },
+        {
+          "keyword": "サンフレッチェ広島",
+          "score": 93
+        },
+        {
+          "keyword": "映画",
+          "score": 92
+        },
+        {
+          "keyword": "山岸一生",
           "score": 91
         }
       ]
