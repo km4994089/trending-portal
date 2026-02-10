@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-06T05:10:32.061Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "halle berry",
-          "score": 100
-        },
-        {
-          "keyword": "milo ventimiglia",
-          "score": 99
-        },
-        {
-          "keyword": "van hunt",
-          "score": 98
-        },
-        {
-          "keyword": "weather snow storm",
-          "score": 97
-        },
-        {
-          "keyword": "tarleton state basketball",
-          "score": 96
-        },
-        {
-          "keyword": "nioh 3",
-          "score": 95
-        },
-        {
-          "keyword": "collin gillespie",
-          "score": 94
-        },
-        {
-          "keyword": "kara swisher",
-          "score": 93
-        },
-        {
-          "keyword": "gui santos",
-          "score": 92
-        },
-        {
-          "keyword": "darren woodson",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-06T06:10:52.956Z",
       "geo": "US",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "melvin council jr",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-10T06:05:50.664Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "pat spencer",
+          "score": 100
+        },
+        {
+          "keyword": "al horford",
+          "score": 99
+        },
+        {
+          "keyword": "namibia vs netherlands",
+          "score": 98
+        },
+        {
+          "keyword": "jahmai mashack",
+          "score": 97
+        },
+        {
+          "keyword": "marcus smart",
+          "score": 96
+        },
+        {
+          "keyword": "chet holmgren",
+          "score": 95
+        },
+        {
+          "keyword": "austin rivers",
+          "score": 94
+        },
+        {
+          "keyword": "cedric coward",
+          "score": 93
+        },
+        {
+          "keyword": "gg jackson ii",
+          "score": 92
+        },
+        {
+          "keyword": "jake laravia",
           "score": 91
         }
       ]

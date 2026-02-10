@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-06T05:10:33.375Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "한화솔루션",
-          "score": 100
-        },
-        {
-          "keyword": "파리바게트",
-          "score": 99
-        },
-        {
-          "keyword": "남부내륙철도",
-          "score": 98
-        },
-        {
-          "keyword": "la 레이커스 대 필라데피아",
-          "score": 97
-        },
-        {
-          "keyword": "위트컴",
-          "score": 96
-        },
-        {
-          "keyword": "codex",
-          "score": 95
-        },
-        {
-          "keyword": "상명대",
-          "score": 94
-        },
-        {
-          "keyword": "kospi",
-          "score": 93
-        },
-        {
-          "keyword": "코스피",
-          "score": 92
-        },
-        {
-          "keyword": "wbc",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-06T06:10:54.227Z",
       "geo": "KR",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "유진로봇",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-10T06:05:52.068Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "한온시스템",
+          "score": 100
+        },
+        {
+          "keyword": "티켓링크",
+          "score": 99
+        },
+        {
+          "keyword": "토익",
+          "score": 98
+        },
+        {
+          "keyword": "부산 눈",
+          "score": 97
+        },
+        {
+          "keyword": "정다빈",
+          "score": 96
+        },
+        {
+          "keyword": "la 레이커스 대 오클라호마시티",
+          "score": 95
+        },
+        {
+          "keyword": "부산 날씨",
+          "score": 94
+        },
+        {
+          "keyword": "대우건설",
+          "score": 93
+        },
+        {
+          "keyword": "한국외대",
+          "score": 92
+        },
+        {
+          "keyword": "한남대학교",
           "score": 91
         }
       ]
