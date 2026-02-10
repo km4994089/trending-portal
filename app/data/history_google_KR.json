@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-06T01:08:25.547Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "트럼프rx",
-          "score": 100
-        },
-        {
-          "keyword": "삼성전자 주식",
-          "score": 99
-        },
-        {
-          "keyword": "삼성전자 주가",
-          "score": 98
-        },
-        {
-          "keyword": "아이온큐",
-          "score": 97
-        },
-        {
-          "keyword": "atalanta vs juventus",
-          "score": 96
-        },
-        {
-          "keyword": "opus 4.6",
-          "score": 95
-        },
-        {
-          "keyword": "iren",
-          "score": 94
-        },
-        {
-          "keyword": "코파 이탈리아",
-          "score": 93
-        },
-        {
-          "keyword": "real betis vs atlético madrid",
-          "score": 92
-        },
-        {
-          "keyword": "s&p 500",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-06T03:42:34.498Z",
       "geo": "KR",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "이상화",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-10T02:04:56.398Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "한국외대",
+          "score": 100
+        },
+        {
+          "keyword": "한남대",
+          "score": 99
+        },
+        {
+          "keyword": "전남대학교",
+          "score": 98
+        },
+        {
+          "keyword": "유진로봇",
+          "score": 97
+        },
+        {
+          "keyword": "2xko",
+          "score": 96
+        },
+        {
+          "keyword": "김수철",
+          "score": 95
+        },
+        {
+          "keyword": "일기예보",
+          "score": 94
+        },
+        {
+          "keyword": "jutta leerdam",
+          "score": 93
+        },
+        {
+          "keyword": "다우지수",
+          "score": 92
+        },
+        {
+          "keyword": "날씨",
           "score": 91
         }
       ]
