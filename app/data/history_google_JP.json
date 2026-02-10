@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-06T03:42:35.978Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "フェイラー",
-          "score": 100
-        },
-        {
-          "keyword": "one piece heroines アニメ",
-          "score": 99
-        },
-        {
-          "keyword": "マリノス",
-          "score": 98
-        },
-        {
-          "keyword": "ストライカーズコレクション",
-          "score": 97
-        },
-        {
-          "keyword": "安治川親方",
-          "score": 96
-        },
-        {
-          "keyword": "福山雅治",
-          "score": 95
-        },
-        {
-          "keyword": "ロケッツ 対 ホーネッツ",
-          "score": 94
-        },
-        {
-          "keyword": "書類送検",
-          "score": 93
-        },
-        {
-          "keyword": "土田慎",
-          "score": 92
-        },
-        {
-          "keyword": "bts",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-06T05:10:34.681Z",
       "geo": "JP",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "三菱マテリアル株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-10T04:40:46.372Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "都道府県",
+          "score": 100
+        },
+        {
+          "keyword": "上坂樹里",
+          "score": 99
+        },
+        {
+          "keyword": "小室眞子",
+          "score": 98
+        },
+        {
+          "keyword": "研ナオコ",
+          "score": 97
+        },
+        {
+          "keyword": "芳野友子会長",
+          "score": 96
+        },
+        {
+          "keyword": "博報堂",
+          "score": 95
+        },
+        {
+          "keyword": "ゴディバ",
+          "score": 94
+        },
+        {
+          "keyword": "坂本怜",
+          "score": 93
+        },
+        {
+          "keyword": "東レ",
+          "score": 92
+        },
+        {
+          "keyword": "大東文化大学",
           "score": 91
         }
       ]

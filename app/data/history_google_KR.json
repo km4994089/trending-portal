@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-06T03:42:34.498Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "위트컴",
-          "score": 100
-        },
-        {
-          "keyword": "codex 5.3",
-          "score": 99
-        },
-        {
-          "keyword": "상명대",
-          "score": 98
-        },
-        {
-          "keyword": "kospi",
-          "score": 97
-        },
-        {
-          "keyword": "코스피",
-          "score": 96
-        },
-        {
-          "keyword": "wbc",
-          "score": 95
-        },
-        {
-          "keyword": "전남대학교",
-          "score": 94
-        },
-        {
-          "keyword": "주식",
-          "score": 93
-        },
-        {
-          "keyword": "claude cowork",
-          "score": 92
-        },
-        {
-          "keyword": "트럼프rx",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-06T05:10:33.375Z",
       "geo": "KR",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "날씨",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-10T04:40:45.306Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "토익",
+          "score": 100
+        },
+        {
+          "keyword": "부산 눈",
+          "score": 99
+        },
+        {
+          "keyword": "정다빈",
+          "score": 98
+        },
+        {
+          "keyword": "la 레이커스 대 오클라호마시티",
+          "score": 97
+        },
+        {
+          "keyword": "부산 날씨",
+          "score": 96
+        },
+        {
+          "keyword": "대우건설",
+          "score": 95
+        },
+        {
+          "keyword": "한국외대",
+          "score": 94
+        },
+        {
+          "keyword": "한남대학교",
+          "score": 93
+        },
+        {
+          "keyword": "전남대학교",
+          "score": 92
+        },
+        {
+          "keyword": "유진로봇",
           "score": 91
         }
       ]
