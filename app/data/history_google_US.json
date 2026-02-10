@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-06T16:32:38.720Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "catalina island",
-          "score": 100
-        },
-        {
-          "keyword": "emma raducanu",
-          "score": 99
-        },
-        {
-          "keyword": "harford county public schools",
-          "score": 98
-        },
-        {
-          "keyword": "sonny jurgensen",
-          "score": 97
-        },
-        {
-          "keyword": "ekaterina alexandrova",
-          "score": 96
-        },
-        {
-          "keyword": "benghazi attack",
-          "score": 95
-        },
-        {
-          "keyword": "jackie robinson",
-          "score": 94
-        },
-        {
-          "keyword": "hailey baptiste",
-          "score": 93
-        },
-        {
-          "keyword": "josh charles",
-          "score": 92
-        },
-        {
-          "keyword": "rock the country festival",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-06T17:34:13.015Z",
       "geo": "US",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "paula moltzan",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-10T16:54:04.857Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ticketmaster",
+          "score": 100
+        },
+        {
+          "keyword": "costco food court",
+          "score": 99
+        },
+        {
+          "keyword": "jonah heim",
+          "score": 98
+        },
+        {
+          "keyword": "alycia parks",
+          "score": 97
+        },
+        {
+          "keyword": "lutnick",
+          "score": 96
+        },
+        {
+          "keyword": "rachel zoe",
+          "score": 95
+        },
+        {
+          "keyword": "tony yayo",
+          "score": 94
+        },
+        {
+          "keyword": "julius erving",
+          "score": 93
+        },
+        {
+          "keyword": "michelle randolph",
+          "score": 92
+        },
+        {
+          "keyword": "nicholas braun",
           "score": 91
         }
       ]
