@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-06T18:34:35.480Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "monica lewinsky",
-          "score": 100
-        },
-        {
-          "keyword": "lil jon son",
-          "score": 99
-        },
-        {
-          "keyword": "italy",
-          "score": 98
-        },
-        {
-          "keyword": "david tepper",
-          "score": 97
-        },
-        {
-          "keyword": "gta vi",
-          "score": 96
-        },
-        {
-          "keyword": "georgia country",
-          "score": 95
-        },
-        {
-          "keyword": "karoline leavitt",
-          "score": 94
-        },
-        {
-          "keyword": "aoc",
-          "score": 93
-        },
-        {
-          "keyword": "timothy busfield",
-          "score": 92
-        },
-        {
-          "keyword": "stanley tucci",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-06T19:31:29.242Z",
       "geo": "US",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "mixed doubles curling",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-10T18:53:40.972Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cnn",
+          "score": 100
+        },
+        {
+          "keyword": "detroit tigers",
+          "score": 99
+        },
+        {
+          "keyword": "everton vs bournemouth",
+          "score": 98
+        },
+        {
+          "keyword": "breaking news",
+          "score": 97
+        },
+        {
+          "keyword": "fox news live",
+          "score": 96
+        },
+        {
+          "keyword": "justin verlander",
+          "score": 95
+        },
+        {
+          "keyword": "cnn news",
+          "score": 94
+        },
+        {
+          "keyword": "nancy guthrie",
+          "score": 93
+        },
+        {
+          "keyword": "nancy guthrie's son in law",
+          "score": 92
+        },
+        {
+          "keyword": "baby keem",
           "score": 91
         }
       ]
