@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-06T13:54:57.706Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "hbo max",
-          "score": 100
-        },
-        {
-          "keyword": "hbomax",
-          "score": 99
-        },
-        {
-          "keyword": "zendaya",
-          "score": 98
-        },
-        {
-          "keyword": "trump",
-          "score": 97
-        },
-        {
-          "keyword": "mike tyson",
-          "score": 96
-        },
-        {
-          "keyword": "joe montana",
-          "score": 95
-        },
-        {
-          "keyword": "who is playing in the super bowl",
-          "score": 94
-        },
-        {
-          "keyword": "conduent",
-          "score": 93
-        },
-        {
-          "keyword": "alysa liu",
-          "score": 92
-        },
-        {
-          "keyword": "once upon a farm",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-06T14:34:51.894Z",
       "geo": "US",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "elise mertens",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-10T14:16:25.968Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ehsan adil",
+          "score": 100
+        },
+        {
+          "keyword": "paula moltzan",
+          "score": 99
+        },
+        {
+          "keyword": "rivian",
+          "score": 98
+        },
+        {
+          "keyword": "youtube videos",
+          "score": 97
+        },
+        {
+          "keyword": "trump accounts for kids",
+          "score": 96
+        },
+        {
+          "keyword": "elisabetta cocciaretto",
+          "score": 95
+        },
+        {
+          "keyword": "gma",
+          "score": 94
+        },
+        {
+          "keyword": "man united",
+          "score": 93
+        },
+        {
+          "keyword": "ben ogden",
+          "score": 92
+        },
+        {
+          "keyword": "dwts announcement",
           "score": 91
         }
       ]
