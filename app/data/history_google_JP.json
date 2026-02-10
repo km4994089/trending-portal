@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-06T19:31:31.891Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "リーズ u 対 ノッティンガム・フォレスト",
-          "score": 100
-        },
-        {
-          "keyword": "nyダウ",
-          "score": 99
-        },
-        {
-          "keyword": "ウニオン・ベルリン 対 フランクフルト",
-          "score": 98
-        },
-        {
-          "keyword": "nhkプラス",
-          "score": 97
-        },
-        {
-          "keyword": "丸山希",
-          "score": 96
-        },
-        {
-          "keyword": "nhk one",
-          "score": 95
-        },
-        {
-          "keyword": "ヤマザキマリ",
-          "score": 94
-        },
-        {
-          "keyword": "claude code",
-          "score": 93
-        },
-        {
-          "keyword": "2026冬季オリンピック 開催地",
-          "score": 92
-        },
-        {
-          "keyword": "nhk",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-06T20:22:25.779Z",
       "geo": "JP",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "道後温泉",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-10T19:54:48.613Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "エヴァートン 対 ボーンマス",
+          "score": 100
+        },
+        {
+          "keyword": "ウェストハム 対 マンu",
+          "score": 99
+        },
+        {
+          "keyword": "衆議院選挙結果 中道",
+          "score": 98
+        },
+        {
+          "keyword": "プレミアリーグ",
+          "score": 97
+        },
+        {
+          "keyword": "金博洋",
+          "score": 96
+        },
+        {
+          "keyword": "スロベニア",
+          "score": 95
+        },
+        {
+          "keyword": "トッテナム 対 ニューカッスル",
+          "score": 94
+        },
+        {
+          "keyword": "菅野智之",
+          "score": 93
+        },
+        {
+          "keyword": "チェルシー 対 リーズ u",
+          "score": 92
+        },
+        {
+          "keyword": "スキージャンプ",
           "score": 91
         }
       ]
