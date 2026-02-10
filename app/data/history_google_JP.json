@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-06T08:00:50.446Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "京都サンガ",
-          "score": 100
-        },
-        {
-          "keyword": "最高裁判所裁判官国民審査どんな人",
-          "score": 99
-        },
-        {
-          "keyword": "円井わん",
-          "score": 98
-        },
-        {
-          "keyword": "伊丹空港",
-          "score": 97
-        },
-        {
-          "keyword": "鶴田真由",
-          "score": 96
-        },
-        {
-          "keyword": "eneos",
-          "score": 95
-        },
-        {
-          "keyword": "デビスカップ",
-          "score": 94
-        },
-        {
-          "keyword": "適時開示",
-          "score": 93
-        },
-        {
-          "keyword": "東京エレクトロン",
-          "score": 92
-        },
-        {
-          "keyword": "サイバーエージェント",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-06T09:05:37.013Z",
       "geo": "JP",
       "source": "google",
@@ -5591,6 +5544,53 @@
         },
         {
           "keyword": "マジックサンズ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-10T08:39:14.944Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "山口裕子",
+          "score": 100
+        },
+        {
+          "keyword": "森田望智",
+          "score": 99
+        },
+        {
+          "keyword": "大阪大学",
+          "score": 98
+        },
+        {
+          "keyword": "葉月里緒奈",
+          "score": 97
+        },
+        {
+          "keyword": "メリーマート",
+          "score": 96
+        },
+        {
+          "keyword": "船橋競馬",
+          "score": 95
+        },
+        {
+          "keyword": "共同通信杯",
+          "score": 94
+        },
+        {
+          "keyword": "三菱地所",
+          "score": 93
+        },
+        {
+          "keyword": "ファミチキ チーズ",
+          "score": 92
+        },
+        {
+          "keyword": "さくらインターネット",
           "score": 91
         }
       ]
