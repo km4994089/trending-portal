@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-06T09:05:37.013Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "名古屋グランパス",
-          "score": 100
-        },
-        {
-          "keyword": "マカオ",
-          "score": 99
-        },
-        {
-          "keyword": "投票済証",
-          "score": 98
-        },
-        {
-          "keyword": "にじさんじ",
-          "score": 97
-        },
-        {
-          "keyword": "太田光",
-          "score": 96
-        },
-        {
-          "keyword": "東京都公式アプリ 11000",
-          "score": 95
-        },
-        {
-          "keyword": "高橋大輔",
-          "score": 94
-        },
-        {
-          "keyword": "荒川静香",
-          "score": 93
-        },
-        {
-          "keyword": "cbcテレビ",
-          "score": 92
-        },
-        {
-          "keyword": "重盛さと美",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-06T10:03:58.659Z",
       "geo": "JP",
       "source": "google",
@@ -5591,6 +5544,53 @@
         },
         {
           "keyword": "さくらインターネット",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-10T09:51:20.874Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "中国 高市",
+          "score": 100
+        },
+        {
+          "keyword": "ハイチ",
+          "score": 99
+        },
+        {
+          "keyword": "マックメニュー",
+          "score": 98
+        },
+        {
+          "keyword": "ショートトラック",
+          "score": 97
+        },
+        {
+          "keyword": "中島未莉",
+          "score": 96
+        },
+        {
+          "keyword": "豊浜トンネル崩落事故",
+          "score": 95
+        },
+        {
+          "keyword": "ガスト",
+          "score": 94
+        },
+        {
+          "keyword": "はるな愛",
+          "score": 93
+        },
+        {
+          "keyword": "ホリエモン",
+          "score": 92
+        },
+        {
+          "keyword": "ピザーラ",
           "score": 91
         }
       ]
