@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-06T11:05:16.466Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "extreme cold warning",
-          "score": 100
-        },
-        {
-          "keyword": "world's tallest buildings",
-          "score": 99
-        },
-        {
-          "keyword": "new show to watch",
-          "score": 98
-        },
-        {
-          "keyword": "wind advisory",
-          "score": 97
-        },
-        {
-          "keyword": "best shows on hbo max",
-          "score": 96
-        },
-        {
-          "keyword": "u19 world cup",
-          "score": 95
-        },
-        {
-          "keyword": "artificial intelligence news",
-          "score": 94
-        },
-        {
-          "keyword": "incident response plans",
-          "score": 93
-        },
-        {
-          "keyword": "what is a data breach",
-          "score": 92
-        },
-        {
-          "keyword": "stock market news today",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-06T11:52:29.215Z",
       "geo": "US",
       "source": "google",
@@ -5591,6 +5544,53 @@
         },
         {
           "keyword": "mortgage rates today",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-10T11:42:26.165Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "good morning america",
+          "score": 100
+        },
+        {
+          "keyword": "eddie bauer",
+          "score": 99
+        },
+        {
+          "keyword": "jasmine paolini",
+          "score": 98
+        },
+        {
+          "keyword": "pak vs usa",
+          "score": 97
+        },
+        {
+          "keyword": "elise mertens",
+          "score": 96
+        },
+        {
+          "keyword": "california mask ban",
+          "score": 95
+        },
+        {
+          "keyword": "uae vs new zealand",
+          "score": 94
+        },
+        {
+          "keyword": "flash flood warning",
+          "score": 93
+        },
+        {
+          "keyword": "incident response plans",
+          "score": 92
+        },
+        {
+          "keyword": "cryptocurrency trading",
           "score": 91
         }
       ]
