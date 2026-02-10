@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-06T20:22:25.779Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ダウ平均",
-          "score": 100
-        },
-        {
-          "keyword": "松山英樹",
-          "score": 99
-        },
-        {
-          "keyword": "リーズ u 対 ノッティンガム・フォレスト",
-          "score": 98
-        },
-        {
-          "keyword": "ウニオン・ベルリン 対 フランクフルト",
-          "score": 97
-        },
-        {
-          "keyword": "al-nassr vs al-ittihad",
-          "score": 96
-        },
-        {
-          "keyword": "丸山希",
-          "score": 95
-        },
-        {
-          "keyword": "nhk one",
-          "score": 94
-        },
-        {
-          "keyword": "アル・ナスル 対 アル・イテハド",
-          "score": 93
-        },
-        {
-          "keyword": "ヤマザキマリ",
-          "score": 92
-        },
-        {
-          "keyword": "claude code",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-06T20:56:18.514Z",
       "geo": "JP",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "スキージャンプ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-10T20:35:02.969Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "オリンピック",
+          "score": 100
+        },
+        {
+          "keyword": "葛西紀明",
+          "score": 99
+        },
+        {
+          "keyword": "west ham vs man utd",
+          "score": 98
+        },
+        {
+          "keyword": "冬季オリンピックの日本選手団",
+          "score": 97
+        },
+        {
+          "keyword": "iphone17e",
+          "score": 96
+        },
+        {
+          "keyword": "高梨沙羅",
+          "score": 95
+        },
+        {
+          "keyword": "エヴァートン 対 ボーンマス",
+          "score": 94
+        },
+        {
+          "keyword": "ウェストハム 対 マンu",
+          "score": 93
+        },
+        {
+          "keyword": "プレミアリーグ",
+          "score": 92
+        },
+        {
+          "keyword": "金博洋",
           "score": 91
         }
       ]
