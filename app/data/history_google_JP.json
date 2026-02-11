@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-07T05:00:33.799Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大宮 対 松本",
-          "score": 100
-        },
-        {
-          "keyword": "前田利家",
-          "score": 99
-        },
-        {
-          "keyword": "千葉 対 a東京",
-          "score": 98
-        },
-        {
-          "keyword": "浦和レッドダイヤモンズ",
-          "score": 97
-        },
-        {
-          "keyword": "スターダム",
-          "score": 96
-        },
-        {
-          "keyword": "選挙速報",
-          "score": 95
-        },
-        {
-          "keyword": "早春ステークス",
-          "score": 94
-        },
-        {
-          "keyword": "百瀬夢奏喫煙",
-          "score": 93
-        },
-        {
-          "keyword": "渡邉美穂",
-          "score": 92
-        },
-        {
-          "keyword": "ジャンボたかお",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-02-07T06:00:26.745Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "t20 world cup",
-          "score": 100
-        },
-        {
-          "keyword": "桜井ユキ",
-          "score": 99
-        },
-        {
-          "keyword": "滝沢カレン",
-          "score": 98
-        },
-        {
-          "keyword": "中田翔",
-          "score": 97
-        },
-        {
-          "keyword": "新浜レオン",
-          "score": 96
-        },
-        {
-          "keyword": "サッカー",
-          "score": 95
-        },
-        {
-          "keyword": "ベルマーレ",
-          "score": 94
-        },
-        {
-          "keyword": "沖雅也",
-          "score": 93
-        },
-        {
-          "keyword": "ジュビロ",
-          "score": 92
-        },
-        {
-          "keyword": "湘南ベルマーレ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-07T07:05:28.630Z",
       "geo": "JP",
       "source": "google",
@@ -5356,6 +5262,53 @@
         },
         {
           "keyword": "房日新聞",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-11T06:02:53.916Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ノジマ",
+          "score": 100
+        },
+        {
+          "keyword": "階猛",
+          "score": 99
+        },
+        {
+          "keyword": "スタバ",
+          "score": 98
+        },
+        {
+          "keyword": "鈴木京香",
+          "score": 97
+        },
+        {
+          "keyword": "巨人 紅白戦",
+          "score": 96
+        },
+        {
+          "keyword": "平野歩夢",
+          "score": 95
+        },
+        {
+          "keyword": "古舘伊知郎",
+          "score": 94
+        },
+        {
+          "keyword": "サーティワン",
+          "score": 93
+        },
+        {
+          "keyword": "眞鍋かをり",
+          "score": 92
+        },
+        {
+          "keyword": "新日本プロレス",
           "score": 91
         }
       ]
