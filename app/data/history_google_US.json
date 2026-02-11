@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-07T18:21:08.819Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "latvia",
-          "score": 100
-        },
-        {
-          "keyword": "jack schlossberg",
-          "score": 99
-        },
-        {
-          "keyword": "felix loch",
-          "score": 98
-        },
-        {
-          "keyword": "leverkusen",
-          "score": 97
-        },
-        {
-          "keyword": "keshad johnson",
-          "score": 96
-        },
-        {
-          "keyword": "seth ryan",
-          "score": 95
-        },
-        {
-          "keyword": "laliga",
-          "score": 94
-        },
-        {
-          "keyword": "nithya raman",
-          "score": 93
-        },
-        {
-          "keyword": "amber glenn",
-          "score": 92
-        },
-        {
-          "keyword": "virginia tech vs nc state",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-07T18:58:00.134Z",
       "geo": "US",
       "source": "google",
@@ -4792,6 +4745,53 @@
         },
         {
           "keyword": "live nation",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-11T18:49:47.577Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tommy paul",
+          "score": 100
+        },
+        {
+          "keyword": "tame impala",
+          "score": 99
+        },
+        {
+          "keyword": "samuel hlavaj",
+          "score": 98
+        },
+        {
+          "keyword": "sunderland vs liverpool",
+          "score": 97
+        },
+        {
+          "keyword": "catalina foothills",
+          "score": 96
+        },
+        {
+          "keyword": "qinwen zheng",
+          "score": 95
+        },
+        {
+          "keyword": "evan phillips",
+          "score": 94
+        },
+        {
+          "keyword": "jordan stolz",
+          "score": 93
+        },
+        {
+          "keyword": "king 5",
+          "score": 92
+        },
+        {
+          "keyword": "bath body works disney princess",
           "score": 91
         }
       ]
