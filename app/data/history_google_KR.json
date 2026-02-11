@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-07T23:19:58.586Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "제주공항",
-          "score": 100
-        },
-        {
-          "keyword": "newcastle vs brentford",
-          "score": 99
-        },
-        {
-          "keyword": "2026년 동계 올림픽 종목",
-          "score": 98
-        },
-        {
-          "keyword": "môn trượt ván trên tuyết tại thế vận hội olympic mùa đông 2026",
-          "score": 97
-        },
-        {
-          "keyword": "뉴캐슬",
-          "score": 96
-        },
-        {
-          "keyword": "2026冬季オリンピック - スノーボード",
-          "score": 95
-        },
-        {
-          "keyword": "아스날",
-          "score": 94
-        },
-        {
-          "keyword": "วูล์ฟแฮมป์ตัน พบ เชลซี",
-          "score": 93
-        },
-        {
-          "keyword": "황희찬",
-          "score": 92
-        },
-        {
-          "keyword": "barcelona đấu với mallorca",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-07T23:52:44.041Z",
       "geo": "KR",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "pl",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-11T23:26:47.419Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "james van der beek",
+          "score": 100
+        },
+        {
+          "keyword": "sunderland đấu với liverpool",
+          "score": 99
+        },
+        {
+          "keyword": "미세먼지",
+          "score": 98
+        },
+        {
+          "keyword": "манчестер сити – фулхэм",
+          "score": 97
+        },
+        {
+          "keyword": "마이크론",
+          "score": 96
+        },
+        {
+          "keyword": "프리미어리그",
+          "score": 95
+        },
+        {
+          "keyword": "แมนซิตี พบ ฟูลัม",
+          "score": 94
+        },
+        {
+          "keyword": "디아2",
+          "score": 93
+        },
+        {
+          "keyword": "sunderland vs liverpool",
+          "score": 92
+        },
+        {
+          "keyword": "man city đấu với fulham",
           "score": 91
         }
       ]
