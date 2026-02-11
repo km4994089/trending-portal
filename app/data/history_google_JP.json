@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-07T20:15:11.958Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jr東日本",
-          "score": 100
-        },
-        {
-          "keyword": "埼玉マラソン",
-          "score": 99
-        },
-        {
-          "keyword": "運行情報",
-          "score": 98
-        },
-        {
-          "keyword": "松山英樹",
-          "score": 97
-        },
-        {
-          "keyword": "九州自動車道",
-          "score": 96
-        },
-        {
-          "keyword": "jr 運行状況",
-          "score": 95
-        },
-        {
-          "keyword": "羽田空港",
-          "score": 94
-        },
-        {
-          "keyword": "dni",
-          "score": 93
-        },
-        {
-          "keyword": "交通情報",
-          "score": 92
-        },
-        {
-          "keyword": "高梨沙羅 オリンピック",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-07T20:48:51.130Z",
       "geo": "JP",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "しなこ ランドセル",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-11T20:29:11.797Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "坂口涼太郎",
+          "score": 100
+        },
+        {
+          "keyword": "premier league",
+          "score": 99
+        },
+        {
+          "keyword": "アイスダンス",
+          "score": 98
+        },
+        {
+          "keyword": "プレミアリーグ",
+          "score": 97
+        },
+        {
+          "keyword": "man city vs fulham",
+          "score": 96
+        },
+        {
+          "keyword": "インフルエンザb 症状",
+          "score": 95
+        },
+        {
+          "keyword": "渡辺直美",
+          "score": 94
+        },
+        {
+          "keyword": "ブライトン",
+          "score": 93
+        },
+        {
+          "keyword": "サンダーランド 対 リヴァプール",
+          "score": 92
+        },
+        {
+          "keyword": "バイエルン 対 rbライプツィヒ",
           "score": 91
         }
       ]
