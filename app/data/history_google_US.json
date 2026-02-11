@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-07T09:51:47.782Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "amd",
-          "score": 100
-        },
-        {
-          "keyword": "ja",
-          "score": 99
-        },
-        {
-          "keyword": "who",
-          "score": 98
-        },
-        {
-          "keyword": "peter mandelson",
-          "score": 97
-        },
-        {
-          "keyword": "singapore",
-          "score": 96
-        },
-        {
-          "keyword": "japan",
-          "score": 95
-        },
-        {
-          "keyword": "wi vs sco",
-          "score": 94
-        },
-        {
-          "keyword": "india",
-          "score": 93
-        },
-        {
-          "keyword": "uk",
-          "score": 92
-        },
-        {
-          "keyword": "germany",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-02-07T10:15:42.978Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "drug",
-          "score": 100
-        },
-        {
-          "keyword": "european",
-          "score": 99
-        },
-        {
-          "keyword": "william",
-          "score": 98
-        },
-        {
-          "keyword": "ieee",
-          "score": 97
-        },
-        {
-          "keyword": "imf",
-          "score": 96
-        },
-        {
-          "keyword": "online lottery",
-          "score": 95
-        },
-        {
-          "keyword": "images",
-          "score": 94
-        },
-        {
-          "keyword": "asia",
-          "score": 93
-        },
-        {
-          "keyword": "maglev",
-          "score": 92
-        },
-        {
-          "keyword": "huawei",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-07T10:50:27.759Z",
       "geo": "US",
       "source": "google",
@@ -5215,6 +5121,53 @@
         },
         {
           "keyword": "cryptocurrency trading",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-11T10:39:29.034Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "school closings ct",
+          "score": 100
+        },
+        {
+          "keyword": "madison prewett",
+          "score": 99
+        },
+        {
+          "keyword": "wmur weather",
+          "score": 98
+        },
+        {
+          "keyword": "moon",
+          "score": 97
+        },
+        {
+          "keyword": "maria sakkari",
+          "score": 96
+        },
+        {
+          "keyword": "school closings massachusetts",
+          "score": 95
+        },
+        {
+          "keyword": "australia vs ireland",
+          "score": 94
+        },
+        {
+          "keyword": "what is phishing",
+          "score": 93
+        },
+        {
+          "keyword": "artificial intelligence news",
+          "score": 92
+        },
+        {
+          "keyword": "fintech innovation",
           "score": 91
         }
       ]
