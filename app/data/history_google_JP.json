@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-07T20:48:51.130Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "高速道路情報",
-          "score": 100
-        },
-        {
-          "keyword": "さいたまマラソン 中止",
-          "score": 99
-        },
-        {
-          "keyword": "jr",
-          "score": 98
-        },
-        {
-          "keyword": "羽生結弦",
-          "score": 97
-        },
-        {
-          "keyword": "京葉線",
-          "score": 96
-        },
-        {
-          "keyword": "マリニン",
-          "score": 95
-        },
-        {
-          "keyword": "京成電鉄",
-          "score": 94
-        },
-        {
-          "keyword": "田園都市線",
-          "score": 93
-        },
-        {
-          "keyword": "jr九州",
-          "score": 92
-        },
-        {
-          "keyword": "スポーツナビ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-07T21:16:55.777Z",
       "geo": "JP",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "バイエルン 対 rbライプツィヒ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-11T21:04:05.189Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sunderland vs liverpool",
+          "score": 100
+        },
+        {
+          "keyword": "nec 対 ユトレヒト",
+          "score": 99
+        },
+        {
+          "keyword": "病院",
+          "score": 98
+        },
+        {
+          "keyword": "アイスダンス 日本",
+          "score": 97
+        },
+        {
+          "keyword": "ios26.3",
+          "score": 96
+        },
+        {
+          "keyword": "吉瀬美智子",
+          "score": 95
+        },
+        {
+          "keyword": "f1",
+          "score": 94
+        },
+        {
+          "keyword": "james van der beek",
+          "score": 93
+        },
+        {
+          "keyword": "坂口涼太郎",
+          "score": 92
+        },
+        {
+          "keyword": "アイスダンス",
           "score": 91
         }
       ]
