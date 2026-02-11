@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-07T21:16:55.777Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "小田急線",
-          "score": 100
-        },
-        {
-          "keyword": "小田急",
-          "score": 99
-        },
-        {
-          "keyword": "東海道新幹線",
-          "score": 98
-        },
-        {
-          "keyword": "東急",
-          "score": 97
-        },
-        {
-          "keyword": "内房線",
-          "score": 96
-        },
-        {
-          "keyword": "イリア マリニン",
-          "score": 95
-        },
-        {
-          "keyword": "ベネチア",
-          "score": 94
-        },
-        {
-          "keyword": "高速道路情報",
-          "score": 93
-        },
-        {
-          "keyword": "さいたまマラソン 中止",
-          "score": 92
-        },
-        {
-          "keyword": "jr",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-02-07T21:46:50.417Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "首都高速",
-          "score": 100
-        },
-        {
-          "keyword": "明治大学",
-          "score": 99
-        },
-        {
-          "keyword": "法政大学",
-          "score": 98
-        },
-        {
-          "keyword": "西武線",
-          "score": 97
-        },
-        {
-          "keyword": "遅延",
-          "score": 96
-        },
-        {
-          "keyword": "さいたま市",
-          "score": 95
-        },
-        {
-          "keyword": "小田急線",
-          "score": 94
-        },
-        {
-          "keyword": "小田急",
-          "score": 93
-        },
-        {
-          "keyword": "東海道新幹線",
-          "score": 92
-        },
-        {
-          "keyword": "東急",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-07T22:15:09.236Z",
       "geo": "JP",
       "source": "google",
@@ -4698,6 +4604,53 @@
         },
         {
           "keyword": "アイスダンス",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-11T21:56:03.003Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "黒川想矢",
+          "score": 100
+        },
+        {
+          "keyword": "為替 ドル円",
+          "score": 99
+        },
+        {
+          "keyword": "花粉情報",
+          "score": 98
+        },
+        {
+          "keyword": "日大三高",
+          "score": 97
+        },
+        {
+          "keyword": "岩橋玄樹",
+          "score": 96
+        },
+        {
+          "keyword": "hiv",
+          "score": 95
+        },
+        {
+          "keyword": "man city đấu với fulham",
+          "score": 94
+        },
+        {
+          "keyword": "フィジー",
+          "score": 93
+        },
+        {
+          "keyword": "クリスタルパレス サッカー",
+          "score": 92
+        },
+        {
+          "keyword": "安青錦",
           "score": 91
         }
       ]
