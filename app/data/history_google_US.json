@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-07T07:05:26.477Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dd cafe",
-          "score": 100
-        },
-        {
-          "keyword": "aubrey plaza",
-          "score": 99
-        },
-        {
-          "keyword": "mega millions winning numbers",
-          "score": 98
-        },
-        {
-          "keyword": "will smith",
-          "score": 97
-        },
-        {
-          "keyword": "polar vortex split forecast",
-          "score": 96
-        },
-        {
-          "keyword": "movies streaming this weekend",
-          "score": 95
-        },
-        {
-          "keyword": "willow tv",
-          "score": 94
-        },
-        {
-          "keyword": "lil uzi vert",
-          "score": 93
-        },
-        {
-          "keyword": "50 cent",
-          "score": 92
-        },
-        {
-          "keyword": "green day",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-07T07:48:47.600Z",
       "geo": "US",
       "source": "google",
@@ -5309,6 +5262,53 @@
         },
         {
           "keyword": "spurs game",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-11T07:33:29.886Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "seamus culleton ice detention",
+          "score": 100
+        },
+        {
+          "keyword": "kristen stewart",
+          "score": 99
+        },
+        {
+          "keyword": "jonbenet ramsey",
+          "score": 98
+        },
+        {
+          "keyword": "dalton knecht",
+          "score": 97
+        },
+        {
+          "keyword": "derby",
+          "score": 96
+        },
+        {
+          "keyword": "los angeles weather",
+          "score": 95
+        },
+        {
+          "keyword": "cancer",
+          "score": 94
+        },
+        {
+          "keyword": "adou thiero",
+          "score": 93
+        },
+        {
+          "keyword": "josh peck",
+          "score": 92
+        },
+        {
+          "keyword": "ego nwodim",
           "score": 91
         }
       ]
