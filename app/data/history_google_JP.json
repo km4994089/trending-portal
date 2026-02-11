@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-07T22:50:45.862Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "三菱ufj",
-          "score": 100
-        },
-        {
-          "keyword": "山陽本線",
-          "score": 99
-        },
-        {
-          "keyword": "神姫バス",
-          "score": 98
-        },
-        {
-          "keyword": "ビッグエアー",
-          "score": 97
-        },
-        {
-          "keyword": "島根銀行",
-          "score": 96
-        },
-        {
-          "keyword": "ネッツ 対 ウィザーズ",
-          "score": 95
-        },
-        {
-          "keyword": "九州道",
-          "score": 94
-        },
-        {
-          "keyword": "宮古島駅伝",
-          "score": 93
-        },
-        {
-          "keyword": "レンタカー",
-          "score": 92
-        },
-        {
-          "keyword": "阪急",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-07T23:19:59.830Z",
       "geo": "JP",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "花粉情報",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-11T22:56:55.793Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sunderland đấu với liverpool",
+          "score": 100
+        },
+        {
+          "keyword": "tokioインカラミ",
+          "score": 99
+        },
+        {
+          "keyword": "z世代",
+          "score": 98
+        },
+        {
+          "keyword": "催眠商法",
+          "score": 97
+        },
+        {
+          "keyword": "高橋ひかる",
+          "score": 96
+        },
+        {
+          "keyword": "箱根",
+          "score": 95
+        },
+        {
+          "keyword": "慶應義塾大学",
+          "score": 94
+        },
+        {
+          "keyword": "バングラデシュ",
+          "score": 93
+        },
+        {
+          "keyword": "ピクサー展",
+          "score": 92
+        },
+        {
+          "keyword": "サウジカップ 2026",
           "score": 91
         }
       ]
