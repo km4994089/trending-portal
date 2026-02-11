@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-07T01:07:43.162Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "松竹座",
-          "score": 100
-        },
-        {
-          "keyword": "フランス",
-          "score": 99
-        },
-        {
-          "keyword": "長野県",
-          "score": 98
-        },
-        {
-          "keyword": "炎炎 スマスロ",
-          "score": 97
-        },
-        {
-          "keyword": "モルドバ",
-          "score": 96
-        },
-        {
-          "keyword": "プエルトリコ",
-          "score": 95
-        },
-        {
-          "keyword": "大阪府知事選挙",
-          "score": 94
-        },
-        {
-          "keyword": "ルクセンブルク",
-          "score": 93
-        },
-        {
-          "keyword": "山本期日前",
-          "score": 92
-        },
-        {
-          "keyword": "ポルトガル",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-07T03:36:24.694Z",
       "geo": "JP",
       "source": "google",
@@ -5356,6 +5309,53 @@
         },
         {
           "keyword": "五木寛之",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-11T02:23:29.765Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "鎌倉パスタ",
+          "score": 100
+        },
+        {
+          "keyword": "チャーハン",
+          "score": 99
+        },
+        {
+          "keyword": "nissy",
+          "score": 98
+        },
+        {
+          "keyword": "朝比奈彩",
+          "score": 97
+        },
+        {
+          "keyword": "くら寿司",
+          "score": 96
+        },
+        {
+          "keyword": "スシロー",
+          "score": 95
+        },
+        {
+          "keyword": "須田亜香里",
+          "score": 94
+        },
+        {
+          "keyword": "ワイモバイル",
+          "score": 93
+        },
+        {
+          "keyword": "ジョーシン",
+          "score": 92
+        },
+        {
+          "keyword": "イクスピアリ",
           "score": 91
         }
       ]
