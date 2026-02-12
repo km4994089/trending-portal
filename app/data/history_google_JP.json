@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-08T21:17:14.881Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "阪急",
-          "score": 100
-        },
-        {
-          "keyword": "湘南新宿ライン",
-          "score": 99
-        },
-        {
-          "keyword": "nhk オリンピック",
-          "score": 98
-        },
-        {
-          "keyword": "ダウ先物",
-          "score": 97
-        },
-        {
-          "keyword": "valencia vs madrid",
-          "score": 96
-        },
-        {
-          "keyword": "pixel 7",
-          "score": 95
-        },
-        {
-          "keyword": "レアル・マドリード",
-          "score": 94
-        },
-        {
-          "keyword": "東海道線",
-          "score": 93
-        },
-        {
-          "keyword": "イリア マリニン",
-          "score": 92
-        },
-        {
-          "keyword": "近鉄",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-08T21:47:18.502Z",
       "geo": "JP",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "brentford vs arsenal",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-12T21:27:56.542Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "atlético madrid vs barcelona",
+          "score": 100
+        },
+        {
+          "keyword": "花粉情報",
+          "score": 99
+        },
+        {
+          "keyword": "adr",
+          "score": 98
+        },
+        {
+          "keyword": "アトレティコ 対 バルセロナ",
+          "score": 97
+        },
+        {
+          "keyword": "インフルエンザb 症状",
+          "score": 96
+        },
+        {
+          "keyword": "波瑠",
+          "score": 95
+        },
+        {
+          "keyword": "ロト6当選番号速報 みずほ銀行",
+          "score": 94
+        },
+        {
+          "keyword": "メダルランキング",
+          "score": 93
+        },
+        {
+          "keyword": "金井莉佳",
+          "score": 92
+        },
+        {
+          "keyword": "薛剣",
           "score": 91
         }
       ]

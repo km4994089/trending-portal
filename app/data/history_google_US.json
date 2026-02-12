@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-08T21:17:12.080Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "brian boitano",
-          "score": 100
-        },
-        {
-          "keyword": "kyle shanahan",
-          "score": 99
-        },
-        {
-          "keyword": "harry potter",
-          "score": 98
-        },
-        {
-          "keyword": "measles dc",
-          "score": 97
-        },
-        {
-          "keyword": "is peacock free",
-          "score": 96
-        },
-        {
-          "keyword": "daniel radcliffe",
-          "score": 95
-        },
-        {
-          "keyword": "tracy morgan",
-          "score": 94
-        },
-        {
-          "keyword": "auston matthews",
-          "score": 93
-        },
-        {
-          "keyword": "maxim naumov",
-          "score": 92
-        },
-        {
-          "keyword": "polymarket",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-08T21:47:15.932Z",
       "geo": "US",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "joan garcía",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-12T21:27:53.652Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "rivian stock",
+          "score": 100
+        },
+        {
+          "keyword": "pins stock",
+          "score": 99
+        },
+        {
+          "keyword": "coin stock",
+          "score": 98
+        },
+        {
+          "keyword": "marc casadó",
+          "score": 97
+        },
+        {
+          "keyword": "tj oshie",
+          "score": 96
+        },
+        {
+          "keyword": "alexander bublik",
+          "score": 95
+        },
+        {
+          "keyword": "tage thompson",
+          "score": 94
+        },
+        {
+          "keyword": "xandra velzeboer",
+          "score": 93
+        },
+        {
+          "keyword": "jt miller",
+          "score": 92
+        },
+        {
+          "keyword": "denis shapovalov",
           "score": 91
         }
       ]
