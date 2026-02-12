@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-08T23:21:00.793Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "新幹線 遅延",
-          "score": 100
-        },
-        {
-          "keyword": "dazn",
-          "score": 99
-        },
-        {
-          "keyword": "クライム101",
-          "score": 98
-        },
-        {
-          "keyword": "小泉八雲",
-          "score": 97
-        },
-        {
-          "keyword": "熊本",
-          "score": 96
-        },
-        {
-          "keyword": "今週の天気",
-          "score": 95
-        },
-        {
-          "keyword": "野村康太",
-          "score": 94
-        },
-        {
-          "keyword": "匝瑳市",
-          "score": 93
-        },
-        {
-          "keyword": "真木よう子",
-          "score": 92
-        },
-        {
-          "keyword": "国民審査 結果",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-08T23:50:59.715Z",
       "geo": "JP",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "ラリーガ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-12T23:27:06.748Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "吉沢亮",
+          "score": 100
+        },
+        {
+          "keyword": "小泉八雲",
+          "score": 99
+        },
+        {
+          "keyword": "sq",
+          "score": 98
+        },
+        {
+          "keyword": "岩瀬洋志",
+          "score": 97
+        },
+        {
+          "keyword": "剱岳",
+          "score": 96
+        },
+        {
+          "keyword": "松江",
+          "score": 95
+        },
+        {
+          "keyword": "明治",
+          "score": 94
+        },
+        {
+          "keyword": "朝ドラ 次",
+          "score": 93
+        },
+        {
+          "keyword": "熊本城マラソン",
+          "score": 92
+        },
+        {
+          "keyword": "みちょぱ 旦那",
           "score": 91
         }
       ]

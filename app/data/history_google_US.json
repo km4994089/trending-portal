@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-08T23:20:58.543Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "joe montana",
-          "score": 100
-        },
-        {
-          "keyword": "green day members",
-          "score": 99
-        },
-        {
-          "keyword": "jerry rice",
-          "score": 98
-        },
-        {
-          "keyword": "jalen hurts",
-          "score": 97
-        },
-        {
-          "keyword": "chris collinsworth",
-          "score": 96
-        },
-        {
-          "keyword": "emmitt smith",
-          "score": 95
-        },
-        {
-          "keyword": "eli manning",
-          "score": 94
-        },
-        {
-          "keyword": "sofi stadium",
-          "score": 93
-        },
-        {
-          "keyword": "sam darnold grandfather",
-          "score": 92
-        },
-        {
-          "keyword": "maverick mcnealy",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-08T23:50:57.152Z",
       "geo": "US",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "dead or alive 6",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-12T23:27:04.081Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "god of war",
+          "score": 100
+        },
+        {
+          "keyword": "daytona duels",
+          "score": 99
+        },
+        {
+          "keyword": "marvel tokon",
+          "score": 98
+        },
+        {
+          "keyword": "cruz azul vs vancouver fc",
+          "score": 97
+        },
+        {
+          "keyword": "buffalo bills football",
+          "score": 96
+        },
+        {
+          "keyword": "umbc basketball",
+          "score": 95
+        },
+        {
+          "keyword": "once caldas - junior",
+          "score": 94
+        },
+        {
+          "keyword": "njit basketball",
+          "score": 93
+        },
+        {
+          "keyword": "saros",
+          "score": 92
+        },
+        {
+          "keyword": "marathon",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-08T23:20:59.710Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "psg vs marseille",
-          "score": 100
-        },
-        {
-          "keyword": "valencia vs real madrid",
-          "score": 99
-        },
-        {
-          "keyword": "valencia đấu với real madrid",
-          "score": 98
-        },
-        {
-          "keyword": "real madrid",
-          "score": 97
-        },
-        {
-          "keyword": "소상공인 경영안정바우처",
-          "score": 96
-        },
-        {
-          "keyword": "ливерпуль – манчестер сити",
-          "score": 95
-        },
-        {
-          "keyword": "레알마드리드",
-          "score": 94
-        },
-        {
-          "keyword": "lafc",
-          "score": 93
-        },
-        {
-          "keyword": "발렌시아 대 레알 마드리드",
-          "score": 92
-        },
-        {
-          "keyword": "라리가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-08T23:50:58.294Z",
       "geo": "KR",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "brentford vs arsenal",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-12T23:27:05.502Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "밀라노 올림픽 메달",
+          "score": 100
+        },
+        {
+          "keyword": "올림픽 메달",
+          "score": 99
+        },
+        {
+          "keyword": "atlético madrid vs barcelona",
+          "score": 98
+        },
+        {
+          "keyword": "바르샤",
+          "score": 97
+        },
+        {
+          "keyword": "2026冬季オリンピック - 男子フィギュア スケート",
+          "score": 96
+        },
+        {
+          "keyword": "아스날",
+          "score": 95
+        },
+        {
+          "keyword": "brentford đấu với arsenal",
+          "score": 94
+        },
+        {
+          "keyword": "코파 델 레이",
+          "score": 93
+        },
+        {
+          "keyword": "เบรนท์ฟอร์ด พบ อาร์เซนอล",
+          "score": 92
+        },
+        {
+          "keyword": "아틀레티코 대 바르셀로나",
           "score": 91
         }
       ]
