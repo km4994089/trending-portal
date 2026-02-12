@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-07T23:52:44.041Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "제주공항",
-          "score": 100
-        },
-        {
-          "keyword": "newcastle vs brentford",
-          "score": 99
-        },
-        {
-          "keyword": "môn trượt ván trên tuyết tại thế vận hội olympic mùa đông 2026",
-          "score": 98
-        },
-        {
-          "keyword": "뉴캐슬",
-          "score": 97
-        },
-        {
-          "keyword": "2026冬季オリンピック - スノーボード",
-          "score": 96
-        },
-        {
-          "keyword": "라리가",
-          "score": 95
-        },
-        {
-          "keyword": "아스날",
-          "score": 94
-        },
-        {
-          "keyword": "วูล์ฟแฮมป์ตัน พบ เชลซี",
-          "score": 93
-        },
-        {
-          "keyword": "황희찬",
-          "score": 92
-        },
-        {
-          "keyword": "barcelona đấu với mallorca",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-08T01:30:48.126Z",
       "geo": "KR",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "man city đấu với fulham",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-12T01:14:07.598Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "세미콘 코리아 2026",
+          "score": 100
+        },
+        {
+          "keyword": "키움증권",
+          "score": 99
+        },
+        {
+          "keyword": "카카오",
+          "score": 98
+        },
+        {
+          "keyword": "james van der beek",
+          "score": 97
+        },
+        {
+          "keyword": "sunderland đấu với liverpool",
+          "score": 96
+        },
+        {
+          "keyword": "미세먼지",
+          "score": 95
+        },
+        {
+          "keyword": "манчестер сити – фулхэм",
+          "score": 94
+        },
+        {
+          "keyword": "마이크론",
+          "score": 93
+        },
+        {
+          "keyword": "프리미어리그",
+          "score": 92
+        },
+        {
+          "keyword": "แมนซิตี พบ ฟูลัม",
           "score": 91
         }
       ]
