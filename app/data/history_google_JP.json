@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-08T01:30:49.455Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "選挙 投票率",
-          "score": 100
-        },
-        {
-          "keyword": "ホワイトアウト",
-          "score": 99
-        },
-        {
-          "keyword": "炎炎 スマスロ",
-          "score": 98
-        },
-        {
-          "keyword": "葛西紀明",
-          "score": 97
-        },
-        {
-          "keyword": "カップヌードル",
-          "score": 96
-        },
-        {
-          "keyword": "東横イン",
-          "score": 95
-        },
-        {
-          "keyword": "大分トリニータ",
-          "score": 94
-        },
-        {
-          "keyword": "選挙 ネット投票",
-          "score": 93
-        },
-        {
-          "keyword": "ブルズ 対 ナゲッツ",
-          "score": 92
-        },
-        {
-          "keyword": "バイオハザード レクイエム",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-08T04:25:50.696Z",
       "geo": "JP",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "ホンダ株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-12T04:01:15.429Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "スナイデルホーム たまごっち",
+          "score": 100
+        },
+        {
+          "keyword": "kikito",
+          "score": 99
+        },
+        {
+          "keyword": "高橋一生",
+          "score": 98
+        },
+        {
+          "keyword": "ロケッツ 対 クリッパーズ",
+          "score": 97
+        },
+        {
+          "keyword": "ミスド",
+          "score": 96
+        },
+        {
+          "keyword": "円高",
+          "score": 95
+        },
+        {
+          "keyword": "まつり",
+          "score": 94
+        },
+        {
+          "keyword": "東京太",
+          "score": 93
+        },
+        {
+          "keyword": "国分太一",
+          "score": 92
+        },
+        {
+          "keyword": "友近",
           "score": 91
         }
       ]
