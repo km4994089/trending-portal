@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-08T23:50:57.152Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "disclosure day",
-          "score": 100
-        },
-        {
-          "keyword": "peyton manning",
-          "score": 99
-        },
-        {
-          "keyword": "trump account for kids",
-          "score": 98
-        },
-        {
-          "keyword": "steven spielberg",
-          "score": 97
-        },
-        {
-          "keyword": "who won the coin toss",
-          "score": 96
-        },
-        {
-          "keyword": "steven spielberg movies",
-          "score": 95
-        },
-        {
-          "keyword": "independence day",
-          "score": 94
-        },
-        {
-          "keyword": "christian gonzalez",
-          "score": 93
-        },
-        {
-          "keyword": "marcus jones",
-          "score": 92
-        },
-        {
-          "keyword": "emily blunt",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-09T01:15:01.654Z",
       "geo": "US",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "marathon",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-12T23:51:59.932Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ozark trail hiker backpack",
+          "score": 100
+        },
+        {
+          "keyword": "love story jfk jr",
+          "score": 99
+        },
+        {
+          "keyword": "god of war",
+          "score": 98
+        },
+        {
+          "keyword": "nascar duels",
+          "score": 97
+        },
+        {
+          "keyword": "marvel tokon",
+          "score": 96
+        },
+        {
+          "keyword": "once caldas - junior",
+          "score": 95
+        },
+        {
+          "keyword": "njit basketball",
+          "score": 94
+        },
+        {
+          "keyword": "cruz azul vs vancouver fc",
+          "score": 93
+        },
+        {
+          "keyword": "umbc basketball",
+          "score": 92
+        },
+        {
+          "keyword": "buffalo bills football",
           "score": 91
         }
       ]
