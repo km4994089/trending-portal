@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-08T20:48:50.982Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "carmelo anthony",
-          "score": 100
-        },
-        {
-          "keyword": "viktor hovland",
-          "score": 99
-        },
-        {
-          "keyword": "sakamoto kaori",
-          "score": 98
-        },
-        {
-          "keyword": "dawn staley",
-          "score": 97
-        },
-        {
-          "keyword": "northwestern vs iowa",
-          "score": 96
-        },
-        {
-          "keyword": "jake knapp",
-          "score": 95
-        },
-        {
-          "keyword": "maryland basketball",
-          "score": 94
-        },
-        {
-          "keyword": "anna gasser",
-          "score": 93
-        },
-        {
-          "keyword": "damian lillard",
-          "score": 92
-        },
-        {
-          "keyword": "anastasiia gubanova",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-08T21:17:12.080Z",
       "geo": "US",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "madison beer",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-12T20:56:41.622Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "auston matthews",
+          "score": 100
+        },
+        {
+          "keyword": "fotmob",
+          "score": 99
+        },
+        {
+          "keyword": "caleb wilson",
+          "score": 98
+        },
+        {
+          "keyword": "winter olympics figure skating",
+          "score": 97
+        },
+        {
+          "keyword": "brock nelson",
+          "score": 96
+        },
+        {
+          "keyword": "elvis merzlikins",
+          "score": 95
+        },
+        {
+          "keyword": "mike sullivan",
+          "score": 94
+        },
+        {
+          "keyword": "quinn hughes",
+          "score": 93
+        },
+        {
+          "keyword": "barca game",
+          "score": 92
+        },
+        {
+          "keyword": "joan garcía",
           "score": 91
         }
       ]
