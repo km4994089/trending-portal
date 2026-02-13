@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-09T19:56:54.547Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "wootton high school",
-          "score": 100
-        },
-        {
-          "keyword": "laurence fournier beaudry",
-          "score": 99
-        },
-        {
-          "keyword": "guillaume cizeron",
-          "score": 98
-        },
-        {
-          "keyword": "villarreal - rcd espanyol",
-          "score": 97
-        },
-        {
-          "keyword": "zoi sadowski-synnott",
-          "score": 96
-        },
-        {
-          "keyword": "villarreal vs espanyol",
-          "score": 95
-        },
-        {
-          "keyword": "roma vs cagliari",
-          "score": 94
-        },
-        {
-          "keyword": "mia brookes",
-          "score": 93
-        },
-        {
-          "keyword": "st thomas",
-          "score": 92
-        },
-        {
-          "keyword": "eric winter",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-09T20:34:24.981Z",
       "geo": "US",
       "source": "google",
@@ -4228,6 +4181,53 @@
         },
         {
           "keyword": "john fox",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-13T20:26:18.539Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ain country",
+          "score": 100
+        },
+        {
+          "keyword": "gumennik",
+          "score": 99
+        },
+        {
+          "keyword": "ain",
+          "score": 98
+        },
+        {
+          "keyword": "canada vs switzerland",
+          "score": 97
+        },
+        {
+          "keyword": "taylor fritz",
+          "score": 96
+        },
+        {
+          "keyword": "yuto totsuka",
+          "score": 95
+        },
+        {
+          "keyword": "mens halfpipe snowboard",
+          "score": 94
+        },
+        {
+          "keyword": "mónaco - nantes",
+          "score": 93
+        },
+        {
+          "keyword": "wrexham",
+          "score": 92
+        },
+        {
+          "keyword": "maxim naumov",
           "score": 91
         }
       ]
