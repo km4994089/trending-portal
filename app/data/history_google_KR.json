@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-09T04:02:10.667Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "예비군",
-          "score": 100
-        },
-        {
-          "keyword": "cgv",
-          "score": 99
-        },
-        {
-          "keyword": "롯데자이언츠",
-          "score": 98
-        },
-        {
-          "keyword": "슈퍼볼 2026",
-          "score": 97
-        },
-        {
-          "keyword": "한화솔루션 주가",
-          "score": 96
-        },
-        {
-          "keyword": "전남대",
-          "score": 95
-        },
-        {
-          "keyword": "이화여대",
-          "score": 94
-        },
-        {
-          "keyword": "제주대학교",
-          "score": 93
-        },
-        {
-          "keyword": "나사렛대학교",
-          "score": 92
-        },
-        {
-          "keyword": "한국외대",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-09T05:50:21.347Z",
       "geo": "KR",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "배재대",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-13T05:20:23.992Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cybersecurity tips",
+          "score": 100
+        },
+        {
+          "keyword": "fintech innovation",
+          "score": 99
+        },
+        {
+          "keyword": "김용",
+          "score": 98
+        },
+        {
+          "keyword": "송영길",
+          "score": 97
+        },
+        {
+          "keyword": "donald trump",
+          "score": 96
+        },
+        {
+          "keyword": "blockchain applications",
+          "score": 95
+        },
+        {
+          "keyword": "효광",
+          "score": 94
+        },
+        {
+          "keyword": "seedance",
+          "score": 93
+        },
+        {
+          "keyword": "충주시장",
+          "score": 92
+        },
+        {
+          "keyword": "강동길",
           "score": 91
         }
       ]
