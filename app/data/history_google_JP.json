@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-09T12:43:30.994Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "志田未来",
-          "score": 100
-        },
-        {
-          "keyword": "工藤美桜",
-          "score": 99
-        },
-        {
-          "keyword": "ローマ",
-          "score": 98
-        },
-        {
-          "keyword": "フリースタイルスキー",
-          "score": 97
-        },
-        {
-          "keyword": "ムーミン",
-          "score": 96
-        },
-        {
-          "keyword": "伊藤沙莉",
-          "score": 95
-        },
-        {
-          "keyword": "麻疹",
-          "score": 94
-        },
-        {
-          "keyword": "天海祐希",
-          "score": 93
-        },
-        {
-          "keyword": "abema",
-          "score": 92
-        },
-        {
-          "keyword": "今日好き",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-09T14:07:51.525Z",
       "geo": "JP",
       "source": "google",
@@ -4181,6 +4134,53 @@
         },
         {
           "keyword": "スウェーデン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-13T13:55:20.079Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "竹原ピストル",
+          "score": 100
+        },
+        {
+          "keyword": "lea casta",
+          "score": 99
+        },
+        {
+          "keyword": "ダルビッシュ有",
+          "score": 98
+        },
+        {
+          "keyword": "経済指標",
+          "score": 97
+        },
+        {
+          "keyword": "ヒロド歩美",
+          "score": 96
+        },
+        {
+          "keyword": "ストリートファイター",
+          "score": 95
+        },
+        {
+          "keyword": "canada vs uae",
+          "score": 94
+        },
+        {
+          "keyword": "伊東市",
+          "score": 93
+        },
+        {
+          "keyword": "伊東市 断水",
+          "score": 92
+        },
+        {
+          "keyword": "松山市",
           "score": 91
         }
       ]
