@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-09T23:02:59.847Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nc state vs louisville",
-          "score": 100
-        },
-        {
-          "keyword": "tibia",
-          "score": 99
-        },
-        {
-          "keyword": "johnny furphy",
-          "score": 98
-        },
-        {
-          "keyword": "pistons vs hornets",
-          "score": 97
-        },
-        {
-          "keyword": "nasir adderley",
-          "score": 96
-        },
-        {
-          "keyword": "usa women's hockey",
-          "score": 95
-        },
-        {
-          "keyword": "blake garrett",
-          "score": 94
-        },
-        {
-          "keyword": "usa hockey",
-          "score": 93
-        },
-        {
-          "keyword": "lilah fear",
-          "score": 92
-        },
-        {
-          "keyword": "chicago state basketball",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-09T23:57:21.263Z",
       "geo": "US",
       "source": "google",
@@ -4275,6 +4228,53 @@
         },
         {
           "keyword": "john wroblewski",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-13T23:28:18.876Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "austin florian",
+          "score": 100
+        },
+        {
+          "keyword": "dan barefoot",
+          "score": 99
+        },
+        {
+          "keyword": "iona basketball",
+          "score": 98
+        },
+        {
+          "keyword": "manhattan basketball",
+          "score": 97
+        },
+        {
+          "keyword": "ut austin",
+          "score": 96
+        },
+        {
+          "keyword": "ole miss baseball",
+          "score": 95
+        },
+        {
+          "keyword": "george mason basketball",
+          "score": 94
+        },
+        {
+          "keyword": "alex vesia",
+          "score": 93
+        },
+        {
+          "keyword": "gary player",
+          "score": 92
+        },
+        {
+          "keyword": "clemson baseball",
           "score": 91
         }
       ]
