@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-09T11:39:11.405Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "qqq",
-          "score": 100
-        },
-        {
-          "keyword": "xinyu wang",
-          "score": 99
-        },
-        {
-          "keyword": "statista",
-          "score": 98
-        },
-        {
-          "keyword": "magic",
-          "score": 97
-        },
-        {
-          "keyword": "lynn",
-          "score": 96
-        },
-        {
-          "keyword": "non-violent",
-          "score": 95
-        },
-        {
-          "keyword": "guangzhou",
-          "score": 94
-        },
-        {
-          "keyword": "maddison",
-          "score": 93
-        },
-        {
-          "keyword": "famous",
-          "score": 92
-        },
-        {
-          "keyword": "independent",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-09T12:43:27.936Z",
       "geo": "US",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "valentines day",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-13T11:50:59.952Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "boomer esiason",
+          "score": 100
+        },
+        {
+          "keyword": "has nancy guthrie been found",
+          "score": 99
+        },
+        {
+          "keyword": "injury lawyer",
+          "score": 98
+        },
+        {
+          "keyword": "south carolina state university",
+          "score": 97
+        },
+        {
+          "keyword": "canada vs uae",
+          "score": 96
+        },
+        {
+          "keyword": "seattle seahawks news",
+          "score": 95
+        },
+        {
+          "keyword": "skyland ranch",
+          "score": 94
+        },
+        {
+          "keyword": "kevin nash",
+          "score": 93
+        },
+        {
+          "keyword": "caf",
+          "score": 92
+        },
+        {
+          "keyword": "spacex launch",
           "score": 91
         }
       ]

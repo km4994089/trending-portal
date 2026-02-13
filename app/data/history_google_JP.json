@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-09T11:39:14.150Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "近畿地方",
-          "score": 100
-        },
-        {
-          "keyword": "フェイラー サンリオ",
-          "score": 99
-        },
-        {
-          "keyword": "尖閣",
-          "score": 98
-        },
-        {
-          "keyword": "名取裕子",
-          "score": 97
-        },
-        {
-          "keyword": "長澤まさみ",
-          "score": 96
-        },
-        {
-          "keyword": "奈緒",
-          "score": 95
-        },
-        {
-          "keyword": "押井守",
-          "score": 94
-        },
-        {
-          "keyword": "小島よしお",
-          "score": 93
-        },
-        {
-          "keyword": "アイスホッケー女子",
-          "score": 92
-        },
-        {
-          "keyword": "城崎温泉",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-09T12:43:30.994Z",
       "geo": "JP",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "チケットぴあ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-13T11:51:03.054Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "クレボ ノルウェー",
+          "score": 100
+        },
+        {
+          "keyword": "ain オリンピック",
+          "score": 99
+        },
+        {
+          "keyword": "不二家",
+          "score": 98
+        },
+        {
+          "keyword": "渡辺翔太",
+          "score": 97
+        },
+        {
+          "keyword": "フィンランド",
+          "score": 96
+        },
+        {
+          "keyword": "常盤貴子",
+          "score": 95
+        },
+        {
+          "keyword": "マツコ",
+          "score": 94
+        },
+        {
+          "keyword": "ラウール",
+          "score": 93
+        },
+        {
+          "keyword": "ain",
+          "score": 92
+        },
+        {
+          "keyword": "ノルウェー",
           "score": 91
         }
       ]
