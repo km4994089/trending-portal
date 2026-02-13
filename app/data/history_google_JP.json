@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-09T08:38:38.473Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "マツコデラックス",
-          "score": 100
-        },
-        {
-          "keyword": "肉の日",
-          "score": 99
-        },
-        {
-          "keyword": "桜蘭高校ホスト部",
-          "score": 98
-        },
-        {
-          "keyword": "ゴーゴ",
-          "score": 97
-        },
-        {
-          "keyword": "ソフトバンク 決算",
-          "score": 96
-        },
-        {
-          "keyword": "奈良育英高校",
-          "score": 95
-        },
-        {
-          "keyword": "愛媛大学",
-          "score": 94
-        },
-        {
-          "keyword": "イープラス",
-          "score": 93
-        },
-        {
-          "keyword": "トリプル馬単",
-          "score": 92
-        },
-        {
-          "keyword": "住友生命",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-09T09:51:33.592Z",
       "geo": "JP",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "インフォマート",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-13T09:34:03.795Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "神戸 対 長崎",
+          "score": 100
+        },
+        {
+          "keyword": "テレビ大阪",
+          "score": 99
+        },
+        {
+          "keyword": "コストコ値下げ",
+          "score": 98
+        },
+        {
+          "keyword": "ラグナロクオンライン3",
+          "score": 97
+        },
+        {
+          "keyword": "三吉彩花",
+          "score": 96
+        },
+        {
+          "keyword": "国仲涼子",
+          "score": 95
+        },
+        {
+          "keyword": "ptsランキング",
+          "score": 94
+        },
+        {
+          "keyword": "エアウォーター",
+          "score": 93
+        },
+        {
+          "keyword": "日本医科大学武蔵小杉病院",
+          "score": 92
+        },
+        {
+          "keyword": "宮城県高校 倍率 2026",
           "score": 91
         }
       ]

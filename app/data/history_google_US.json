@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-09T08:38:35.862Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "hawaii weather forecast",
-          "score": 100
-        },
-        {
-          "keyword": "netflix top movies right now",
-          "score": 99
-        },
-        {
-          "keyword": "tax filing deadline",
-          "score": 98
-        },
-        {
-          "keyword": "best shows on hbo max",
-          "score": 97
-        },
-        {
-          "keyword": "blockchain technology",
-          "score": 96
-        },
-        {
-          "keyword": "mortgage rates today",
-          "score": 95
-        },
-        {
-          "keyword": "personal injury attorney",
-          "score": 94
-        },
-        {
-          "keyword": "vehicle accident lawyers",
-          "score": 93
-        },
-        {
-          "keyword": "auto accident attorney",
-          "score": 92
-        },
-        {
-          "keyword": "pedestrian accident lawyers",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-09T09:51:30.844Z",
       "geo": "US",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "the traitors season 4 episode 9",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-13T09:34:01.010Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "spacex launch",
+          "score": 100
+        },
+        {
+          "keyword": "0",
+          "score": 99
+        },
+        {
+          "keyword": "apple",
+          "score": 98
+        },
+        {
+          "keyword": "valentines day",
+          "score": 97
+        },
+        {
+          "keyword": "sports",
+          "score": 96
+        },
+        {
+          "keyword": "stock markets",
+          "score": 95
+        },
+        {
+          "keyword": "funny videos",
+          "score": 94
+        },
+        {
+          "keyword": "r",
+          "score": 93
+        },
+        {
+          "keyword": "ai in healthcare",
+          "score": 92
+        },
+        {
+          "keyword": "b",
           "score": 91
         }
       ]
