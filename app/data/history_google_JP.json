@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-09T22:26:15.649Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "葛西紀明",
-          "score": 100
-        },
-        {
-          "keyword": "京都天気",
-          "score": 99
-        },
-        {
-          "keyword": "ハチミツ二郎",
-          "score": 98
-        },
-        {
-          "keyword": "シンガポール",
-          "score": 97
-        },
-        {
-          "keyword": "ミラノオリンピック マスコット",
-          "score": 96
-        },
-        {
-          "keyword": "食料品消費税ゼロ",
-          "score": 95
-        },
-        {
-          "keyword": "misamo",
-          "score": 94
-        },
-        {
-          "keyword": "熊本 天気",
-          "score": 93
-        },
-        {
-          "keyword": "倉悠貴",
-          "score": 92
-        },
-        {
-          "keyword": "東京新聞杯",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-09T23:03:02.509Z",
       "geo": "JP",
       "source": "google",
@@ -4275,6 +4228,53 @@
         },
         {
           "keyword": "水滸伝",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-13T22:57:56.495Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "今井春花",
+          "score": 100
+        },
+        {
+          "keyword": "フィギュアスケート 女子",
+          "score": 99
+        },
+        {
+          "keyword": "園田彩乃",
+          "score": 98
+        },
+        {
+          "keyword": "花粉情報",
+          "score": 97
+        },
+        {
+          "keyword": "pisa vs milan",
+          "score": 96
+        },
+        {
+          "keyword": "女子フィギュアスケート",
+          "score": 95
+        },
+        {
+          "keyword": "フィギュアスケート ペア",
+          "score": 94
+        },
+        {
+          "keyword": "石塚英彦",
+          "score": 93
+        },
+        {
+          "keyword": "羽生結弦 オリンピック",
+          "score": 92
+        },
+        {
+          "keyword": "鍵山優真 コーチ",
           "score": 91
         }
       ]
