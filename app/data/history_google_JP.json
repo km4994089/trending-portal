@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-09T20:34:27.893Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ダウ",
-          "score": 100
-        },
-        {
-          "keyword": "日刊スポーツ",
-          "score": 99
-        },
-        {
-          "keyword": "オリンピック",
-          "score": 98
-        },
-        {
-          "keyword": "dni",
-          "score": 97
-        },
-        {
-          "keyword": "ビッグエア 女子",
-          "score": 96
-        },
-        {
-          "keyword": "ユ・スンウン",
-          "score": 95
-        },
-        {
-          "keyword": "nhk one",
-          "score": 94
-        },
-        {
-          "keyword": "ナンバーズ当選番号",
-          "score": 93
-        },
-        {
-          "keyword": "tver",
-          "score": 92
-        },
-        {
-          "keyword": "スキージャンプ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-09T21:30:47.665Z",
       "geo": "JP",
       "source": "google",
@@ -4228,6 +4181,53 @@
         },
         {
           "keyword": "dni",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-13T21:02:30.418Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "モナコ 対 ナント",
+          "score": 100
+        },
+        {
+          "keyword": "佐藤駿",
+          "score": 99
+        },
+        {
+          "keyword": "hull city vs chelsea",
+          "score": 98
+        },
+        {
+          "keyword": "町田樹",
+          "score": 97
+        },
+        {
+          "keyword": "アシックス",
+          "score": 96
+        },
+        {
+          "keyword": "イリア マリニン",
+          "score": 95
+        },
+        {
+          "keyword": "スポーツナビ",
+          "score": 94
+        },
+        {
+          "keyword": "ピョートル・グメンニク",
+          "score": 93
+        },
+        {
+          "keyword": "ソニーゲーム",
+          "score": 92
+        },
+        {
+          "keyword": "鍵山優真",
           "score": 91
         }
       ]
