@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-09T15:28:32.684Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ワークマン",
-          "score": 100
-        },
-        {
-          "keyword": "エアドゥ",
-          "score": 99
-        },
-        {
-          "keyword": "三四郎小宮",
-          "score": 98
-        },
-        {
-          "keyword": "airdo",
-          "score": 97
-        },
-        {
-          "keyword": "東京新聞杯 過去",
-          "score": 96
-        },
-        {
-          "keyword": "seedance 2.0",
-          "score": 95
-        },
-        {
-          "keyword": "mリーグ",
-          "score": 94
-        },
-        {
-          "keyword": "光宗薫",
-          "score": 93
-        },
-        {
-          "keyword": "高梨沙羅",
-          "score": 92
-        },
-        {
-          "keyword": "高木美帆",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-09T16:30:32.580Z",
       "geo": "JP",
       "source": "google",
@@ -4181,6 +4134,53 @@
         },
         {
           "keyword": "草彅剛",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-13T15:33:03.420Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ミャンマー",
+          "score": 100
+        },
+        {
+          "keyword": "有村架純",
+          "score": 99
+        },
+        {
+          "keyword": "valentine's day",
+          "score": 98
+        },
+        {
+          "keyword": "オールナイトニッポン",
+          "score": 97
+        },
+        {
+          "keyword": "スンスン オールナイトニッポン",
+          "score": 96
+        },
+        {
+          "keyword": "イゴールトゥドール",
+          "score": 95
+        },
+        {
+          "keyword": "igor tudor",
+          "score": 94
+        },
+        {
+          "keyword": "山田杏奈",
+          "score": 93
+        },
+        {
+          "keyword": "松田龍平",
+          "score": 92
+        },
+        {
+          "keyword": "福井県",
           "score": 91
         }
       ]
