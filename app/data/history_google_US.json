@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-09T10:47:52.632Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tesla",
-          "score": 100
-        },
-        {
-          "keyword": "oman vs zimbabwe",
-          "score": 99
-        },
-        {
-          "keyword": "pcb",
-          "score": 98
-        },
-        {
-          "keyword": "bloomberg",
-          "score": 97
-        },
-        {
-          "keyword": "nist",
-          "score": 96
-        },
-        {
-          "keyword": "geneva",
-          "score": 95
-        },
-        {
-          "keyword": "cryptocurrency",
-          "score": 94
-        },
-        {
-          "keyword": "leonardo",
-          "score": 93
-        },
-        {
-          "keyword": "shell",
-          "score": 92
-        },
-        {
-          "keyword": "hawaii weather honolulu",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-09T11:39:11.405Z",
       "geo": "US",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "ai in healthcare",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-13T11:24:21.108Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "injury lawyer",
+          "score": 100
+        },
+        {
+          "keyword": "south carolina state university",
+          "score": 99
+        },
+        {
+          "keyword": "canada vs uae",
+          "score": 98
+        },
+        {
+          "keyword": "seattle seahawks news",
+          "score": 97
+        },
+        {
+          "keyword": "skyland ranch",
+          "score": 96
+        },
+        {
+          "keyword": "kevin nash",
+          "score": 95
+        },
+        {
+          "keyword": "caf",
+          "score": 94
+        },
+        {
+          "keyword": "spacex launch",
+          "score": 93
+        },
+        {
+          "keyword": "apple",
+          "score": 92
+        },
+        {
+          "keyword": "valentines day",
           "score": 91
         }
       ]
