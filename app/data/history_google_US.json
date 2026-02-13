@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-09T21:30:44.919Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "scott hamilton",
-          "score": 100
-        },
-        {
-          "keyword": "how old is savannah guthrie",
-          "score": 99
-        },
-        {
-          "keyword": "weather winter storm warning",
-          "score": 98
-        },
-        {
-          "keyword": "ice dancing olympics 2026",
-          "score": 97
-        },
-        {
-          "keyword": "emilea zingas",
-          "score": 96
-        },
-        {
-          "keyword": "lake erie ice crack",
-          "score": 95
-        },
-        {
-          "keyword": "2xko",
-          "score": 94
-        },
-        {
-          "keyword": "us women's hockey team",
-          "score": 93
-        },
-        {
-          "keyword": "france milano cortina 2026",
-          "score": 92
-        },
-        {
-          "keyword": "rhythm dance olympics",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-09T22:26:12.693Z",
       "geo": "US",
       "source": "google",
@@ -4228,6 +4181,53 @@
         },
         {
           "keyword": "canada vs switzerland",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-13T21:56:30.838Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "presidents day",
+          "score": 100
+        },
+        {
+          "keyword": "pebble beach leaderboard",
+          "score": 99
+        },
+        {
+          "keyword": "kazakhstan",
+          "score": 98
+        },
+        {
+          "keyword": "yuma kagiyama",
+          "score": 97
+        },
+        {
+          "keyword": "us women's hockey team",
+          "score": 96
+        },
+        {
+          "keyword": "daniel grassl",
+          "score": 95
+        },
+        {
+          "keyword": "mikhail shaidorov",
+          "score": 94
+        },
+        {
+          "keyword": "michael j fox",
+          "score": 93
+        },
+        {
+          "keyword": "kendall coyne schofield",
+          "score": 92
+        },
+        {
+          "keyword": "cha jun-hwan",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-09T21:30:47.665Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jr西日本",
-          "score": 100
-        },
-        {
-          "keyword": "ポルト 対 スポルティングcp",
-          "score": 99
-        },
-        {
-          "keyword": "tokioインカラミ",
-          "score": 98
-        },
-        {
-          "keyword": "アルファベット株価",
-          "score": 97
-        },
-        {
-          "keyword": "sp500",
-          "score": 96
-        },
-        {
-          "keyword": "adr",
-          "score": 95
-        },
-        {
-          "keyword": "モーグル",
-          "score": 94
-        },
-        {
-          "keyword": "jr京都線",
-          "score": 93
-        },
-        {
-          "keyword": "オリンピック 速報",
-          "score": 92
-        },
-        {
-          "keyword": "エスアンドピー500",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-09T22:26:15.649Z",
       "geo": "JP",
       "source": "google",
@@ -4228,6 +4181,53 @@
         },
         {
           "keyword": "鍵山優真",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-13T21:56:33.785Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "酒井法子",
+          "score": 100
+        },
+        {
+          "keyword": "矢田亜希子",
+          "score": 99
+        },
+        {
+          "keyword": "水滸伝",
+          "score": 98
+        },
+        {
+          "keyword": "マイルズ・ギャレット",
+          "score": 97
+        },
+        {
+          "keyword": "ミニストップ",
+          "score": 96
+        },
+        {
+          "keyword": "赤木野々花",
+          "score": 95
+        },
+        {
+          "keyword": "田久保眞紀",
+          "score": 94
+        },
+        {
+          "keyword": "カザフスタン",
+          "score": 93
+        },
+        {
+          "keyword": "羽生結弦 現在",
+          "score": 92
+        },
+        {
+          "keyword": "武蔵野線",
           "score": 91
         }
       ]
