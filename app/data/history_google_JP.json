@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-09T17:42:31.898Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nhk オリンピック",
-          "score": 100
-        },
-        {
-          "keyword": "ユッタ・リールダム",
-          "score": 99
-        },
-        {
-          "keyword": "ナスダック総合指数",
-          "score": 98
-        },
-        {
-          "keyword": "山田梨央",
-          "score": 97
-        },
-        {
-          "keyword": "連合 芳野会長",
-          "score": 96
-        },
-        {
-          "keyword": "小平奈緒",
-          "score": 95
-        },
-        {
-          "keyword": "松岡茉優",
-          "score": 94
-        },
-        {
-          "keyword": "吉田雪乃",
-          "score": 93
-        },
-        {
-          "keyword": "スピードスケート女子",
-          "score": 92
-        },
-        {
-          "keyword": "齋藤飛鳥",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-09T18:43:41.138Z",
       "geo": "JP",
       "source": "google",
@@ -4228,6 +4181,53 @@
         },
         {
           "keyword": "nasa",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-13T18:33:16.207Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nhk one",
+          "score": 100
+        },
+        {
+          "keyword": "羽生結弦",
+          "score": 99
+        },
+        {
+          "keyword": "tver",
+          "score": 98
+        },
+        {
+          "keyword": "三浦佳生",
+          "score": 97
+        },
+        {
+          "keyword": "tver オリンピック",
+          "score": 96
+        },
+        {
+          "keyword": "レンヌ 対 パリsg",
+          "score": 95
+        },
+        {
+          "keyword": "遊戯王",
+          "score": 94
+        },
+        {
+          "keyword": "ゲッターズ飯田",
+          "score": 93
+        },
+        {
+          "keyword": "スケルトン",
+          "score": 92
+        },
+        {
+          "keyword": "中島健人",
           "score": 91
         }
       ]

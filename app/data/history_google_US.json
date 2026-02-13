@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-09T17:42:29.003Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "erin jackson",
-          "score": 100
-        },
-        {
-          "keyword": "suzanne schulting",
-          "score": 99
-        },
-        {
-          "keyword": "atalanta - cremonese",
-          "score": 98
-        },
-        {
-          "keyword": "clemency",
-          "score": 97
-        },
-        {
-          "keyword": "andy beshear",
-          "score": 96
-        },
-        {
-          "keyword": "atalanta vs cremonese",
-          "score": 95
-        },
-        {
-          "keyword": "dow jones stock markets",
-          "score": 94
-        },
-        {
-          "keyword": "fenerbahçe vs gençlerbirliği",
-          "score": 93
-        },
-        {
-          "keyword": "chris kuper",
-          "score": 92
-        },
-        {
-          "keyword": "callum vinson",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-09T18:43:38.494Z",
       "geo": "US",
       "source": "google",
@@ -4228,6 +4181,53 @@
         },
         {
           "keyword": "joey loperfido",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-13T18:33:13.705Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "donovan carrillo",
+          "score": 100
+        },
+        {
+          "keyword": "tpe country",
+          "score": 99
+        },
+        {
+          "keyword": "fort bragg",
+          "score": 98
+        },
+        {
+          "keyword": "chris paul",
+          "score": 97
+        },
+        {
+          "keyword": "adam rippon",
+          "score": 96
+        },
+        {
+          "keyword": "santa clara - benfica",
+          "score": 95
+        },
+        {
+          "keyword": "college baseball",
+          "score": 94
+        },
+        {
+          "keyword": "rennes vs psg",
+          "score": 93
+        },
+        {
+          "keyword": "rennes - psg",
+          "score": 92
+        },
+        {
+          "keyword": "caden pierce",
           "score": 91
         }
       ]
