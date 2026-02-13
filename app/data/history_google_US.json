@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-09T18:43:38.494Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "adam gase",
-          "score": 100
-        },
-        {
-          "keyword": "usa curling",
-          "score": 99
-        },
-        {
-          "keyword": "curling scoring",
-          "score": 98
-        },
-        {
-          "keyword": "femke kok",
-          "score": 97
-        },
-        {
-          "keyword": "brittany bowe",
-          "score": 96
-        },
-        {
-          "keyword": "bad bunny burning flag video",
-          "score": 95
-        },
-        {
-          "keyword": "emma raducanu",
-          "score": 94
-        },
-        {
-          "keyword": "south africa national cricket team vs canada national cricket team standings",
-          "score": 93
-        },
-        {
-          "keyword": "erin jackson",
-          "score": 92
-        },
-        {
-          "keyword": "clemency",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-09T19:56:54.547Z",
       "geo": "US",
       "source": "google",
@@ -4228,6 +4181,53 @@
         },
         {
           "keyword": "caden pierce",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-13T19:35:28.175Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "monaco vs nantes",
+          "score": 100
+        },
+        {
+          "keyword": "elche vs osasuna",
+          "score": 99
+        },
+        {
+          "keyword": "alessandro barbieri",
+          "score": 98
+        },
+        {
+          "keyword": "scotty james",
+          "score": 97
+        },
+        {
+          "keyword": "pisa - milan",
+          "score": 96
+        },
+        {
+          "keyword": "austin thompson",
+          "score": 95
+        },
+        {
+          "keyword": "fc volendam vs psv",
+          "score": 94
+        },
+        {
+          "keyword": "francisco cerundolo",
+          "score": 93
+        },
+        {
+          "keyword": "dortmund vs mainz",
+          "score": 92
+        },
+        {
+          "keyword": "john fox",
           "score": 91
         }
       ]
