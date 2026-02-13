@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-09T09:51:30.844Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "power",
-          "score": 100
-        },
-        {
-          "keyword": "iea",
-          "score": 99
-        },
-        {
-          "keyword": "warehouse",
-          "score": 98
-        },
-        {
-          "keyword": "real-world",
-          "score": 97
-        },
-        {
-          "keyword": "xiamen",
-          "score": 96
-        },
-        {
-          "keyword": "honolulu hawaii weather",
-          "score": 95
-        },
-        {
-          "keyword": "hawaii weather forecast",
-          "score": 94
-        },
-        {
-          "keyword": "netflix top movies right now",
-          "score": 93
-        },
-        {
-          "keyword": "tax filing deadline",
-          "score": 92
-        },
-        {
-          "keyword": "best shows on hbo max",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-09T10:47:52.632Z",
       "geo": "US",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "b",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-13T10:30:28.799Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "caf",
+          "score": 100
+        },
+        {
+          "keyword": "kevin nash",
+          "score": 99
+        },
+        {
+          "keyword": "spacex launch",
+          "score": 98
+        },
+        {
+          "keyword": "0",
+          "score": 97
+        },
+        {
+          "keyword": "apple",
+          "score": 96
+        },
+        {
+          "keyword": "valentines day",
+          "score": 95
+        },
+        {
+          "keyword": "sports",
+          "score": 94
+        },
+        {
+          "keyword": "funny videos",
+          "score": 93
+        },
+        {
+          "keyword": "r",
+          "score": 92
+        },
+        {
+          "keyword": "ai in healthcare",
           "score": 91
         }
       ]
