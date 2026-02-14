@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-10T06:05:53.413Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "東大寺",
-          "score": 100
-        },
-        {
-          "keyword": "森木大智",
-          "score": 99
-        },
-        {
-          "keyword": "三井e&s 株価",
-          "score": 98
-        },
-        {
-          "keyword": "三井e&s",
-          "score": 97
-        },
-        {
-          "keyword": "田村正和",
-          "score": 96
-        },
-        {
-          "keyword": "マツダ 株価",
-          "score": 95
-        },
-        {
-          "keyword": "レイカーズ",
-          "score": 94
-        },
-        {
-          "keyword": "箱根 断水",
-          "score": 93
-        },
-        {
-          "keyword": "ヘビ",
-          "score": 92
-        },
-        {
-          "keyword": "岩橋玄樹",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-10T07:35:44.956Z",
       "geo": "JP",
       "source": "google",
@@ -4369,6 +4322,53 @@
         },
         {
           "keyword": "浜松",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-14T07:07:32.481Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "シャオイムファ",
+          "score": 100
+        },
+        {
+          "keyword": "柳葉敏郎",
+          "score": 99
+        },
+        {
+          "keyword": "マリノス",
+          "score": 98
+        },
+        {
+          "keyword": "ウイニング競馬",
+          "score": 97
+        },
+        {
+          "keyword": "ファジアーノ",
+          "score": 96
+        },
+        {
+          "keyword": "ザスパ群馬",
+          "score": 95
+        },
+        {
+          "keyword": "佐々木麟太郎",
+          "score": 94
+        },
+        {
+          "keyword": "江坂任",
+          "score": 93
+        },
+        {
+          "keyword": "半導体",
+          "score": 92
+        },
+        {
+          "keyword": "j1",
           "score": 91
         }
       ]
