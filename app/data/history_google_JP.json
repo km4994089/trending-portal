@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-10T04:40:46.372Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "都道府県",
-          "score": 100
-        },
-        {
-          "keyword": "上坂樹里",
-          "score": 99
-        },
-        {
-          "keyword": "小室眞子",
-          "score": 98
-        },
-        {
-          "keyword": "研ナオコ",
-          "score": 97
-        },
-        {
-          "keyword": "芳野友子会長",
-          "score": 96
-        },
-        {
-          "keyword": "博報堂",
-          "score": 95
-        },
-        {
-          "keyword": "ゴディバ",
-          "score": 94
-        },
-        {
-          "keyword": "坂本怜",
-          "score": 93
-        },
-        {
-          "keyword": "東レ",
-          "score": 92
-        },
-        {
-          "keyword": "大東文化大学",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-10T06:05:53.413Z",
       "geo": "JP",
       "source": "google",
@@ -4322,6 +4275,53 @@
         },
         {
           "keyword": "藤本美貴",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-14T05:04:19.549Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "大宮 対 札幌",
+          "score": 100
+        },
+        {
+          "keyword": "齋藤飛鳥",
+          "score": 99
+        },
+        {
+          "keyword": "横浜fc 対 仙台",
+          "score": 98
+        },
+        {
+          "keyword": "dazn",
+          "score": 97
+        },
+        {
+          "keyword": "新井恵理那",
+          "score": 96
+        },
+        {
+          "keyword": "小倉ジャンプステークス",
+          "score": 95
+        },
+        {
+          "keyword": "広島 対 岡山",
+          "score": 94
+        },
+        {
+          "keyword": "清水 対 京都",
+          "score": 93
+        },
+        {
+          "keyword": "町田 対 水戸",
+          "score": 92
+        },
+        {
+          "keyword": "ドラマ10 nhk",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-10T04:40:45.306Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "토익",
-          "score": 100
-        },
-        {
-          "keyword": "부산 눈",
-          "score": 99
-        },
-        {
-          "keyword": "정다빈",
-          "score": 98
-        },
-        {
-          "keyword": "la 레이커스 대 오클라호마시티",
-          "score": 97
-        },
-        {
-          "keyword": "부산 날씨",
-          "score": 96
-        },
-        {
-          "keyword": "대우건설",
-          "score": 95
-        },
-        {
-          "keyword": "한국외대",
-          "score": 94
-        },
-        {
-          "keyword": "한남대학교",
-          "score": 93
-        },
-        {
-          "keyword": "전남대학교",
-          "score": 92
-        },
-        {
-          "keyword": "유진로봇",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-10T06:05:52.068Z",
       "geo": "KR",
       "source": "google",
@@ -4322,6 +4275,53 @@
         },
         {
           "keyword": "rennes vs psg",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-14T05:04:18.360Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "백사장3",
+          "score": 100
+        },
+        {
+          "keyword": "미세먼지 예보",
+          "score": 99
+        },
+        {
+          "keyword": "테일러 프리츠",
+          "score": 98
+        },
+        {
+          "keyword": "고속도로 교통상황",
+          "score": 97
+        },
+        {
+          "keyword": "hull city đấu với chelsea",
+          "score": 96
+        },
+        {
+          "keyword": "ฮัลล์ซิตี พบ เชลซี",
+          "score": 95
+        },
+        {
+          "keyword": "차준환",
+          "score": 94
+        },
+        {
+          "keyword": "hull city vs chelsea",
+          "score": 93
+        },
+        {
+          "keyword": "rennes vs psg",
+          "score": 92
+        },
+        {
+          "keyword": "헐 시티 대 첼시",
           "score": 91
         }
       ]
