@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-10T08:39:14.944Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "山口裕子",
-          "score": 100
-        },
-        {
-          "keyword": "森田望智",
-          "score": 99
-        },
-        {
-          "keyword": "大阪大学",
-          "score": 98
-        },
-        {
-          "keyword": "葉月里緒奈",
-          "score": 97
-        },
-        {
-          "keyword": "メリーマート",
-          "score": 96
-        },
-        {
-          "keyword": "船橋競馬",
-          "score": 95
-        },
-        {
-          "keyword": "共同通信杯",
-          "score": 94
-        },
-        {
-          "keyword": "三菱地所",
-          "score": 93
-        },
-        {
-          "keyword": "ファミチキ チーズ",
-          "score": 92
-        },
-        {
-          "keyword": "さくらインターネット",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-10T09:51:20.874Z",
       "geo": "JP",
       "source": "google",
@@ -4416,6 +4369,53 @@
         },
         {
           "keyword": "龍馬マラソン 2026",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-14T08:54:06.021Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "琉球ゴールデンキングス",
+          "score": 100
+        },
+        {
+          "keyword": "カーリング 日程 結果",
+          "score": 99
+        },
+        {
+          "keyword": "渡邊凌磨",
+          "score": 98
+        },
+        {
+          "keyword": "安田祐香",
+          "score": 97
+        },
+        {
+          "keyword": "スイス",
+          "score": 96
+        },
+        {
+          "keyword": "サウジカップ 過去",
+          "score": 95
+        },
+        {
+          "keyword": "吉田知那美",
+          "score": 94
+        },
+        {
+          "keyword": "浦和レッドダイヤモンズ",
+          "score": 93
+        },
+        {
+          "keyword": "共同通信杯 過去",
+          "score": 92
+        },
+        {
+          "keyword": "リンゼイ・ボン",
           "score": 91
         }
       ]
