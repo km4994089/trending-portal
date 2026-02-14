@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-10T18:53:40.972Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cnn",
-          "score": 100
-        },
-        {
-          "keyword": "detroit tigers",
-          "score": 99
-        },
-        {
-          "keyword": "everton vs bournemouth",
-          "score": 98
-        },
-        {
-          "keyword": "breaking news",
-          "score": 97
-        },
-        {
-          "keyword": "fox news live",
-          "score": 96
-        },
-        {
-          "keyword": "justin verlander",
-          "score": 95
-        },
-        {
-          "keyword": "cnn news",
-          "score": 94
-        },
-        {
-          "keyword": "nancy guthrie",
-          "score": 93
-        },
-        {
-          "keyword": "nancy guthrie's son in law",
-          "score": 92
-        },
-        {
-          "keyword": "baby keem",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-10T19:54:46.141Z",
       "geo": "US",
       "source": "google",
@@ -4886,6 +4839,53 @@
         },
         {
           "keyword": "clemson vs duke",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-14T18:57:46.915Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "providence basketball",
+          "score": 100
+        },
+        {
+          "keyword": "dunk contest 2026",
+          "score": 99
+        },
+        {
+          "keyword": "northwestern vs nebraska",
+          "score": 98
+        },
+        {
+          "keyword": "frida karlsson",
+          "score": 97
+        },
+        {
+          "keyword": "movies theaters",
+          "score": 96
+        },
+        {
+          "keyword": "amc movies",
+          "score": 95
+        },
+        {
+          "keyword": "uconn vs marquette",
+          "score": 94
+        },
+        {
+          "keyword": "fandango",
+          "score": 93
+        },
+        {
+          "keyword": "easter sunday 2026",
+          "score": 92
+        },
+        {
+          "keyword": "eddie the eagle",
           "score": 91
         }
       ]
