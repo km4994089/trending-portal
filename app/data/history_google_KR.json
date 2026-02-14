@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-10T23:09:05.066Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "chelsea đấu với leeds",
-          "score": 100
-        },
-        {
-          "keyword": "mu",
-          "score": 99
-        },
-        {
-          "keyword": "เชลซี พบ ลีดส์",
-          "score": 98
-        },
-        {
-          "keyword": "tottenham vs newcastle",
-          "score": 97
-        },
-        {
-          "keyword": "토트넘",
-          "score": 96
-        },
-        {
-          "keyword": "west ham vs man united",
-          "score": 95
-        },
-        {
-          "keyword": "west ham đấu với man utd",
-          "score": 94
-        },
-        {
-          "keyword": "เวสต์แฮม พบ แมนยู",
-          "score": 93
-        },
-        {
-          "keyword": "맨유",
-          "score": 92
-        },
-        {
-          "keyword": "pl",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-10T23:58:44.386Z",
       "geo": "KR",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "레알 마드리드 대 레알 소시에다드",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-14T23:14:37.483Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "real madrid đấu với real sociedad",
+          "score": 100
+        },
+        {
+          "keyword": "al fateh vs al-nassr",
+          "score": 99
+        },
+        {
+          "keyword": "liverpool vs brighton",
+          "score": 98
+        },
+        {
+          "keyword": "심석희",
+          "score": 97
+        },
+        {
+          "keyword": "테일러 프리츠",
+          "score": 96
+        },
+        {
+          "keyword": "ลิเวอร์พูล พบ ไบรท์ตัน",
+          "score": 95
+        },
+        {
+          "keyword": "김아랑",
+          "score": 94
+        },
+        {
+          "keyword": "real madrid vs real sociedad",
+          "score": 93
+        },
+        {
+          "keyword": "aston villa vs newcastle",
+          "score": 92
+        },
+        {
+          "keyword": "황대헌",
           "score": 91
         }
       ]

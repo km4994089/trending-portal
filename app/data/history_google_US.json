@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-10T23:09:04.021Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "pacers vs knicks",
-          "score": 100
-        },
-        {
-          "keyword": "unc vs miami fl",
-          "score": 99
-        },
-        {
-          "keyword": "winter storm warning weather",
-          "score": 98
-        },
-        {
-          "keyword": "jahmyr gibbs",
-          "score": 97
-        },
-        {
-          "keyword": "coppa italia",
-          "score": 96
-        },
-        {
-          "keyword": "biathlon olympics",
-          "score": 95
-        },
-        {
-          "keyword": "united strand",
-          "score": 94
-        },
-        {
-          "keyword": "man united game",
-          "score": 93
-        },
-        {
-          "keyword": "purdue vs nebraska",
-          "score": 92
-        },
-        {
-          "keyword": "sarasota shooting",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-10T23:58:43.027Z",
       "geo": "US",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "tornado watch vs warning",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-14T23:14:36.149Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "west virginia vs ucf",
+          "score": 100
+        },
+        {
+          "keyword": "blue moon",
+          "score": 99
+        },
+        {
+          "keyword": "shooting stars nba all star",
+          "score": 98
+        },
+        {
+          "keyword": "lsu vs tennessee",
+          "score": 97
+        },
+        {
+          "keyword": "virginia vs ohio state",
+          "score": 96
+        },
+        {
+          "keyword": "tinseltown",
+          "score": 95
+        },
+        {
+          "keyword": "devin booker",
+          "score": 94
+        },
+        {
+          "keyword": "jack hughes hockey",
+          "score": 93
+        },
+        {
+          "keyword": "rory mcilroy",
+          "score": 92
+        },
+        {
+          "keyword": "pachuca - atlas",
           "score": 91
         }
       ]
