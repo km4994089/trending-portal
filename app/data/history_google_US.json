@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-10T07:35:42.196Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "grocery",
-          "score": 100
-        },
-        {
-          "keyword": "spectrum outage",
-          "score": 99
-        },
-        {
-          "keyword": "bbc confirms doctor who",
-          "score": 98
-        },
-        {
-          "keyword": "seedance 2.0",
-          "score": 97
-        },
-        {
-          "keyword": "namibia vs netherlands",
-          "score": 96
-        },
-        {
-          "keyword": "pat spencer",
-          "score": 95
-        },
-        {
-          "keyword": "al horford",
-          "score": 94
-        },
-        {
-          "keyword": "jahmai mashack",
-          "score": 93
-        },
-        {
-          "keyword": "chet holmgren",
-          "score": 92
-        },
-        {
-          "keyword": "austin rivers",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-10T08:39:12.494Z",
       "geo": "US",
       "source": "google",
@@ -4369,6 +4322,53 @@
         },
         {
           "keyword": "gen z",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-14T07:52:02.500Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sidney crosby",
+          "score": 100
+        },
+        {
+          "keyword": "hailey baptiste",
+          "score": 99
+        },
+        {
+          "keyword": "ireland vs oman",
+          "score": 98
+        },
+        {
+          "keyword": "dustin hoffman",
+          "score": 97
+        },
+        {
+          "keyword": "peggy fleming",
+          "score": 96
+        },
+        {
+          "keyword": "día de san valentín",
+          "score": 95
+        },
+        {
+          "keyword": "aarons",
+          "score": 94
+        },
+        {
+          "keyword": "gabriela berlingeri",
+          "score": 93
+        },
+        {
+          "keyword": "northern lights aurora borealis forecast",
+          "score": 92
+        },
+        {
+          "keyword": "movies streaming this weekend",
           "score": 91
         }
       ]
