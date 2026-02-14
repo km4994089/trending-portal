@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-10T22:29:57.975Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "united strand",
-          "score": 100
-        },
-        {
-          "keyword": "man united game",
-          "score": 99
-        },
-        {
-          "keyword": "purdue vs nebraska",
-          "score": 98
-        },
-        {
-          "keyword": "sarasota shooting",
-          "score": 97
-        },
-        {
-          "keyword": "courtney love",
-          "score": 96
-        },
-        {
-          "keyword": "snowfall weather forecast",
-          "score": 95
-        },
-        {
-          "keyword": "charlie woods",
-          "score": 94
-        },
-        {
-          "keyword": "yuma kagiyama",
-          "score": 93
-        },
-        {
-          "keyword": "epl table",
-          "score": 92
-        },
-        {
-          "keyword": "jill zarin bad bunny",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-10T23:09:04.021Z",
       "geo": "US",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "lsu baseball score",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-14T22:47:22.037Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "pachuca - atlas",
+          "score": 100
+        },
+        {
+          "keyword": "norman powell",
+          "score": 99
+        },
+        {
+          "keyword": "bobby portis",
+          "score": 98
+        },
+        {
+          "keyword": "atl. san luis - querétaro",
+          "score": 97
+        },
+        {
+          "keyword": "nascar o'reilly series",
+          "score": 96
+        },
+        {
+          "keyword": "jake guentzel",
+          "score": 95
+        },
+        {
+          "keyword": "collin morikawa",
+          "score": 94
+        },
+        {
+          "keyword": "cw",
+          "score": 93
+        },
+        {
+          "keyword": "hughes brothers hockey",
+          "score": 92
+        },
+        {
+          "keyword": "tornado watch vs warning",
           "score": 91
         }
       ]
