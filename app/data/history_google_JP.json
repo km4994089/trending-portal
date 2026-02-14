@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-10T20:35:02.969Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "オリンピック",
-          "score": 100
-        },
-        {
-          "keyword": "葛西紀明",
-          "score": 99
-        },
-        {
-          "keyword": "west ham vs man utd",
-          "score": 98
-        },
-        {
-          "keyword": "冬季オリンピックの日本選手団",
-          "score": 97
-        },
-        {
-          "keyword": "iphone17e",
-          "score": 96
-        },
-        {
-          "keyword": "高梨沙羅",
-          "score": 95
-        },
-        {
-          "keyword": "エヴァートン 対 ボーンマス",
-          "score": 94
-        },
-        {
-          "keyword": "ウェストハム 対 マンu",
-          "score": 93
-        },
-        {
-          "keyword": "プレミアリーグ",
-          "score": 92
-        },
-        {
-          "keyword": "金博洋",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-10T21:34:37.241Z",
       "geo": "JP",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "藤田晋",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-14T20:47:26.231Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ゴルフ",
+          "score": 100
+        },
+        {
+          "keyword": "real madrid vs real sociedad",
+          "score": 99
+        },
+        {
+          "keyword": "roblox",
+          "score": 98
+        },
+        {
+          "keyword": "アヤックス",
+          "score": 97
+        },
+        {
+          "keyword": "スロベニア",
+          "score": 96
+        },
+        {
+          "keyword": "nhk オリンピック",
+          "score": 95
+        },
+        {
+          "keyword": "al fateh vs al-nassr",
+          "score": 94
+        },
+        {
+          "keyword": "ラツィオ 対 アタランタ",
+          "score": 93
+        },
+        {
+          "keyword": "リヴァプール 対 ブライトン",
+          "score": 92
+        },
+        {
+          "keyword": "インテル 対 ユヴェントス",
           "score": 91
         }
       ]
