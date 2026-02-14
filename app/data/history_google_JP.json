@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-10T19:54:48.613Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "エヴァートン 対 ボーンマス",
-          "score": 100
-        },
-        {
-          "keyword": "ウェストハム 対 マンu",
-          "score": 99
-        },
-        {
-          "keyword": "衆議院選挙結果 中道",
-          "score": 98
-        },
-        {
-          "keyword": "プレミアリーグ",
-          "score": 97
-        },
-        {
-          "keyword": "金博洋",
-          "score": 96
-        },
-        {
-          "keyword": "スロベニア",
-          "score": 95
-        },
-        {
-          "keyword": "トッテナム 対 ニューカッスル",
-          "score": 94
-        },
-        {
-          "keyword": "菅野智之",
-          "score": 93
-        },
-        {
-          "keyword": "チェルシー 対 リーズ u",
-          "score": 92
-        },
-        {
-          "keyword": "スキージャンプ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-10T20:35:02.969Z",
       "geo": "JP",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "レッドシーターフハンデキャップ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-14T20:15:06.063Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "スロベニア",
+          "score": 100
+        },
+        {
+          "keyword": "アヤックス",
+          "score": 99
+        },
+        {
+          "keyword": "nhk オリンピック",
+          "score": 98
+        },
+        {
+          "keyword": "ラツィオ 対 アタランタ",
+          "score": 97
+        },
+        {
+          "keyword": "al fateh vs al-nassr",
+          "score": 96
+        },
+        {
+          "keyword": "リヴァプール 対 ブライトン",
+          "score": 95
+        },
+        {
+          "keyword": "インテル 対 ユヴェントス",
+          "score": 94
+        },
+        {
+          "keyword": "rマドリード 対 ソシエダ",
+          "score": 93
+        },
+        {
+          "keyword": "停電",
+          "score": 92
+        },
+        {
+          "keyword": "藤田晋",
           "score": 91
         }
       ]
