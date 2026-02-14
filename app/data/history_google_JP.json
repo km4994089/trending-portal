@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-10T11:42:28.922Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cuaca besok",
-          "score": 100
-        },
-        {
-          "keyword": "ぱーてぃーちゃん",
-          "score": 99
-        },
-        {
-          "keyword": "キャメロンディアス",
-          "score": 98
-        },
-        {
-          "keyword": "本並健治",
-          "score": 97
-        },
-        {
-          "keyword": "ノルディック複合",
-          "score": 96
-        },
-        {
-          "keyword": "サンフレッチェ",
-          "score": 95
-        },
-        {
-          "keyword": "米倉涼子",
-          "score": 94
-        },
-        {
-          "keyword": "渡辺周",
-          "score": 93
-        },
-        {
-          "keyword": "金沢市",
-          "score": 92
-        },
-        {
-          "keyword": "井上信治",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-10T12:49:20.288Z",
       "geo": "JP",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "キャリアカー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-14T12:25:33.686Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "齊藤京子",
+          "score": 100
+        },
+        {
+          "keyword": "名鉄",
+          "score": 99
+        },
+        {
+          "keyword": "金子大地",
+          "score": 98
+        },
+        {
+          "keyword": "積水ハウス",
+          "score": 97
+        },
+        {
+          "keyword": "アミールトロフィー",
+          "score": 96
+        },
+        {
+          "keyword": "東尾理子",
+          "score": 95
+        },
+        {
+          "keyword": "宇垣アナ",
+          "score": 94
+        },
+        {
+          "keyword": "アルペン",
+          "score": 93
+        },
+        {
+          "keyword": "天童よしみ",
+          "score": 92
+        },
+        {
+          "keyword": "教場0",
           "score": 91
         }
       ]

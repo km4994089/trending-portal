@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-10T11:42:26.165Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "good morning america",
-          "score": 100
-        },
-        {
-          "keyword": "eddie bauer",
-          "score": 99
-        },
-        {
-          "keyword": "jasmine paolini",
-          "score": 98
-        },
-        {
-          "keyword": "pak vs usa",
-          "score": 97
-        },
-        {
-          "keyword": "elise mertens",
-          "score": 96
-        },
-        {
-          "keyword": "california mask ban",
-          "score": 95
-        },
-        {
-          "keyword": "uae vs new zealand",
-          "score": 94
-        },
-        {
-          "keyword": "flash flood warning",
-          "score": 93
-        },
-        {
-          "keyword": "incident response plans",
-          "score": 92
-        },
-        {
-          "keyword": "cryptocurrency trading",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-10T12:49:17.474Z",
       "geo": "US",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "ai in healthcare",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-14T12:25:31.215Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "rcd espanyol - celta de vigo",
+          "score": 100
+        },
+        {
+          "keyword": "espanyol vs celta vigo",
+          "score": 99
+        },
+        {
+          "keyword": "natalie decker",
+          "score": 98
+        },
+        {
+          "keyword": "canada curling cheating",
+          "score": 97
+        },
+        {
+          "keyword": "nancy guthrie update",
+          "score": 96
+        },
+        {
+          "keyword": "burton vs west ham",
+          "score": 95
+        },
+        {
+          "keyword": "sco vs eng",
+          "score": 94
+        },
+        {
+          "keyword": "giant",
+          "score": 93
+        },
+        {
+          "keyword": "nyt connections hints",
+          "score": 92
+        },
+        {
+          "keyword": "alaska airlines",
           "score": 91
         }
       ]
