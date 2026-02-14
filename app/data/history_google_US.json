@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-09T23:57:21.263Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "oregon vs indiana",
-          "score": 100
-        },
-        {
-          "keyword": "arizona vs kansas",
-          "score": 99
-        },
-        {
-          "keyword": "kings vs pelicans",
-          "score": 98
-        },
-        {
-          "keyword": "charles bediako",
-          "score": 97
-        },
-        {
-          "keyword": "jazz vs heat",
-          "score": 96
-        },
-        {
-          "keyword": "fifa world cup 2026",
-          "score": 95
-        },
-        {
-          "keyword": "xavier basketball",
-          "score": 94
-        },
-        {
-          "keyword": "lionel shriver",
-          "score": 93
-        },
-        {
-          "keyword": "eddie the eagle",
-          "score": 92
-        },
-        {
-          "keyword": "hawks vs timberwolves",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-10T02:04:55.143Z",
       "geo": "US",
       "source": "google",
@@ -4322,6 +4275,53 @@
         },
         {
           "keyword": "manhattan basketball",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-14T01:10:04.221Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "frankie muniz",
+          "score": 100
+        },
+        {
+          "keyword": "colgate powerhouse",
+          "score": 99
+        },
+        {
+          "keyword": "smackdown",
+          "score": 98
+        },
+        {
+          "keyword": "simu liu",
+          "score": 97
+        },
+        {
+          "keyword": "fsu baseball",
+          "score": 96
+        },
+        {
+          "keyword": "klaebo",
+          "score": 95
+        },
+        {
+          "keyword": "travis pastrana",
+          "score": 94
+        },
+        {
+          "keyword": "anthony anderson",
+          "score": 93
+        },
+        {
+          "keyword": "unrivaled 1v1",
+          "score": 92
+        },
+        {
+          "keyword": "keanu reeves",
           "score": 91
         }
       ]
