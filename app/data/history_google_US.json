@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-10T16:54:04.857Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ticketmaster",
-          "score": 100
-        },
-        {
-          "keyword": "costco food court",
-          "score": 99
-        },
-        {
-          "keyword": "jonah heim",
-          "score": 98
-        },
-        {
-          "keyword": "alycia parks",
-          "score": 97
-        },
-        {
-          "keyword": "lutnick",
-          "score": 96
-        },
-        {
-          "keyword": "rachel zoe",
-          "score": 95
-        },
-        {
-          "keyword": "tony yayo",
-          "score": 94
-        },
-        {
-          "keyword": "julius erving",
-          "score": 93
-        },
-        {
-          "keyword": "michelle randolph",
-          "score": 92
-        },
-        {
-          "keyword": "nicholas braun",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-10T17:54:23.115Z",
       "geo": "US",
       "source": "google",
@@ -4839,6 +4792,53 @@
         },
         {
           "keyword": "dual moguls",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-14T17:18:23.072Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "clemson vs duke",
+          "score": 100
+        },
+        {
+          "keyword": "lazio - atalanta",
+          "score": 99
+        },
+        {
+          "keyword": "aston villa vs newcastle",
+          "score": 98
+        },
+        {
+          "keyword": "maxim naumov",
+          "score": 97
+        },
+        {
+          "keyword": "adam rippon",
+          "score": 96
+        },
+        {
+          "keyword": "arca daytona 2026",
+          "score": 95
+        },
+        {
+          "keyword": "tcu basketball",
+          "score": 94
+        },
+        {
+          "keyword": "sevilla - alavés",
+          "score": 93
+        },
+        {
+          "keyword": "movies",
+          "score": 92
+        },
+        {
+          "keyword": "apolo ohno",
           "score": 91
         }
       ]
