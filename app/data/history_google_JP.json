@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-11T22:22:18.609Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "遠藤航",
-          "score": 100
-        },
-        {
-          "keyword": "反省してまーす",
-          "score": 99
-        },
-        {
-          "keyword": "コパ・デル・レイ",
-          "score": 98
-        },
-        {
-          "keyword": "ボローニャ 対 ラツィオ",
-          "score": 97
-        },
-        {
-          "keyword": "liga inggris",
-          "score": 96
-        },
-        {
-          "keyword": "ベンネマルス",
-          "score": 95
-        },
-        {
-          "keyword": "aston villa vs brighton",
-          "score": 94
-        },
-        {
-          "keyword": "日刊スポーツ",
-          "score": 93
-        },
-        {
-          "keyword": "黒川想矢",
-          "score": 92
-        },
-        {
-          "keyword": "花粉情報",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-11T22:56:55.793Z",
       "geo": "JP",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "札幌天気",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-15T22:48:36.212Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nba オールスター",
+          "score": 100
+        },
+        {
+          "keyword": "遠野",
+          "score": 99
+        },
+        {
+          "keyword": "西鉄電車",
+          "score": 98
+        },
+        {
+          "keyword": "寺田心",
+          "score": 97
+        },
+        {
+          "keyword": "アトレティコ・マドリード",
+          "score": 96
+        },
+        {
+          "keyword": "早稲田大学",
+          "score": 95
+        },
+        {
+          "keyword": "トモハッピー 遊楽舎",
+          "score": 94
+        },
+        {
+          "keyword": "自衛隊 最高指揮官",
+          "score": 93
+        },
+        {
+          "keyword": "今日の天気",
+          "score": 92
+        },
+        {
+          "keyword": "花粉情報",
           "score": 91
         }
       ]
