@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-11T09:42:19.540Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "what is phishing",
-          "score": 100
-        },
-        {
-          "keyword": "netflix top movies right now",
-          "score": 99
-        },
-        {
-          "keyword": "tax filing deadline",
-          "score": 98
-        },
-        {
-          "keyword": "fintech innovation",
-          "score": 97
-        },
-        {
-          "keyword": "mortgage rates today",
-          "score": 96
-        },
-        {
-          "keyword": "nfl schedule this week",
-          "score": 95
-        },
-        {
-          "keyword": "stock market news today",
-          "score": 94
-        },
-        {
-          "keyword": "lottery results today",
-          "score": 93
-        },
-        {
-          "keyword": "tennis scores today",
-          "score": 92
-        },
-        {
-          "keyword": "cryptocurrency trading",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-11T10:39:29.034Z",
       "geo": "US",
       "source": "google",
@@ -5262,6 +5215,53 @@
         },
         {
           "keyword": "playstation plus games",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-15T09:52:38.596Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "usa vs namibia",
+          "score": 100
+        },
+        {
+          "keyword": "alaska airlines",
+          "score": 99
+        },
+        {
+          "keyword": "elise mertens",
+          "score": 98
+        },
+        {
+          "keyword": "used cars",
+          "score": 97
+        },
+        {
+          "keyword": "australia women vs india women",
+          "score": 96
+        },
+        {
+          "keyword": "linda noskova",
+          "score": 95
+        },
+        {
+          "keyword": "bright horizons",
+          "score": 94
+        },
+        {
+          "keyword": "chapman",
+          "score": 93
+        },
+        {
+          "keyword": "restaurant",
+          "score": 92
+        },
+        {
+          "keyword": "politics",
           "score": 91
         }
       ]
