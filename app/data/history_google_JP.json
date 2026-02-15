@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-11T07:33:32.205Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "三四郎・小宮",
-          "score": 100
-        },
-        {
-          "keyword": "フォレスター",
-          "score": 99
-        },
-        {
-          "keyword": "朝日杯",
-          "score": 98
-        },
-        {
-          "keyword": "韓国",
-          "score": 97
-        },
-        {
-          "keyword": "藤平尚真",
-          "score": 96
-        },
-        {
-          "keyword": "ヨルシカ",
-          "score": 95
-        },
-        {
-          "keyword": "giá yên hôm nay",
-          "score": 94
-        },
-        {
-          "keyword": "クレーンゲーム",
-          "score": 93
-        },
-        {
-          "keyword": "公明党 立憲民主党",
-          "score": 92
-        },
-        {
-          "keyword": "スターバックス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-11T08:36:38.824Z",
       "geo": "JP",
       "source": "google",
@@ -5168,6 +5121,53 @@
         },
         {
           "keyword": "西田凌佑",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-15T07:53:57.976Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "阪急杯",
+          "score": 100
+        },
+        {
+          "keyword": "金沢",
+          "score": 99
+        },
+        {
+          "keyword": "香取慎吾",
+          "score": 98
+        },
+        {
+          "keyword": "リーグワン",
+          "score": 97
+        },
+        {
+          "keyword": "浜名湖競艇",
+          "score": 96
+        },
+        {
+          "keyword": "美川憲一",
+          "score": 95
+        },
+        {
+          "keyword": "函館",
+          "score": 94
+        },
+        {
+          "keyword": "バビット",
+          "score": 93
+        },
+        {
+          "keyword": "尼崎競艇",
+          "score": 92
+        },
+        {
+          "keyword": "ytv漫才新人賞",
           "score": 91
         }
       ]
