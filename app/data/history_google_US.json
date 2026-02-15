@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-11T06:02:51.200Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cancer",
-          "score": 100
-        },
-        {
-          "keyword": "josh peck",
-          "score": 99
-        },
-        {
-          "keyword": "derby",
-          "score": 98
-        },
-        {
-          "keyword": "adou thiero",
-          "score": 97
-        },
-        {
-          "keyword": "los angeles weather",
-          "score": 96
-        },
-        {
-          "keyword": "nancy guthrie carlos",
-          "score": 95
-        },
-        {
-          "keyword": "ego nwodim",
-          "score": 94
-        },
-        {
-          "keyword": "jose quintana",
-          "score": 93
-        },
-        {
-          "keyword": "2026 winter olympics ice hockey",
-          "score": 92
-        },
-        {
-          "keyword": "spurs game",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-11T07:33:29.886Z",
       "geo": "US",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "titanic",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-15T06:11:12.244Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "2026 年冬奥会高山滑雪",
+          "score": 100
+        },
+        {
+          "keyword": "laila edwards",
+          "score": 99
+        },
+        {
+          "keyword": "nepal vs west indies",
+          "score": 98
+        },
+        {
+          "keyword": "2026 winter olympics alpine skiing",
+          "score": 97
+        },
+        {
+          "keyword": "tabla liga mx",
+          "score": 96
+        },
+        {
+          "keyword": "cain velasquez",
+          "score": 95
+        },
+        {
+          "keyword": "liv golf leaderboard",
+          "score": 94
+        },
+        {
+          "keyword": "wynonna judd",
+          "score": 93
+        },
+        {
+          "keyword": "minnesota vs washington",
+          "score": 92
+        },
+        {
+          "keyword": "raphael veiga",
           "score": 91
         }
       ]

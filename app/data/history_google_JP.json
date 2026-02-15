@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-11T06:02:53.916Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ノジマ",
-          "score": 100
-        },
-        {
-          "keyword": "階猛",
-          "score": 99
-        },
-        {
-          "keyword": "スタバ",
-          "score": 98
-        },
-        {
-          "keyword": "鈴木京香",
-          "score": 97
-        },
-        {
-          "keyword": "巨人 紅白戦",
-          "score": 96
-        },
-        {
-          "keyword": "平野歩夢",
-          "score": 95
-        },
-        {
-          "keyword": "古舘伊知郎",
-          "score": 94
-        },
-        {
-          "keyword": "サーティワン",
-          "score": 93
-        },
-        {
-          "keyword": "眞鍋かをり",
-          "score": 92
-        },
-        {
-          "keyword": "新日本プロレス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-11T07:33:32.205Z",
       "geo": "JP",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "大分 対 北九州",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-15T06:11:15.067Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "磯村勇斗",
+          "score": 100
+        },
+        {
+          "keyword": "京都10レース",
+          "score": 99
+        },
+        {
+          "keyword": "深澤辰哉",
+          "score": 98
+        },
+        {
+          "keyword": "若松競艇",
+          "score": 97
+        },
+        {
+          "keyword": "ブリスベン",
+          "score": 96
+        },
+        {
+          "keyword": "カープ",
+          "score": 95
+        },
+        {
+          "keyword": "堀島行真",
+          "score": 94
+        },
+        {
+          "keyword": "j2",
+          "score": 93
+        },
+        {
+          "keyword": "藤岡弘",
+          "score": 92
+        },
+        {
+          "keyword": "アニータ事件",
           "score": 91
         }
       ]
