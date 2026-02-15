@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-11T16:53:45.357Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "live nation",
-          "score": 100
-        },
-        {
-          "keyword": "alyssa farah griffin",
-          "score": 99
-        },
-        {
-          "keyword": "drew carey",
-          "score": 98
-        },
-        {
-          "keyword": "slovakia olympic hockey team",
-          "score": 97
-        },
-        {
-          "keyword": "finland olympic hockey team",
-          "score": 96
-        },
-        {
-          "keyword": "jackson holliday",
-          "score": 95
-        },
-        {
-          "keyword": "corbin carroll",
-          "score": 94
-        },
-        {
-          "keyword": "apple tv",
-          "score": 93
-        },
-        {
-          "keyword": "pamela anderson",
-          "score": 92
-        },
-        {
-          "keyword": "f1tv",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-11T17:50:56.196Z",
       "geo": "US",
       "source": "google",
@@ -5591,6 +5544,53 @@
         },
         {
           "keyword": "nacional vs porto",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-15T16:53:51.560Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "levante - valencia c. f.",
+          "score": 100
+        },
+        {
+          "keyword": "levante vs valencia",
+          "score": 99
+        },
+        {
+          "keyword": "netherlands",
+          "score": 98
+        },
+        {
+          "keyword": "torino vs bologna",
+          "score": 97
+        },
+        {
+          "keyword": "jake paul",
+          "score": 96
+        },
+        {
+          "keyword": "who is jake paul",
+          "score": 95
+        },
+        {
+          "keyword": "tpe country",
+          "score": 94
+        },
+        {
+          "keyword": "shaheen afridi",
+          "score": 93
+        },
+        {
+          "keyword": "utah basketball",
+          "score": 92
+        },
+        {
+          "keyword": "atletico madrid",
           "score": 91
         }
       ]
