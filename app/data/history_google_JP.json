@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-11T11:37:08.935Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ミルク",
-          "score": 100
-        },
-        {
-          "keyword": "reunion",
-          "score": 99
-        },
-        {
-          "keyword": "雇用統計",
-          "score": 98
-        },
-        {
-          "keyword": "ラブパワーキングダム2",
-          "score": 97
-        },
-        {
-          "keyword": "劉佳宇",
-          "score": 96
-        },
-        {
-          "keyword": "沢田研二",
-          "score": 95
-        },
-        {
-          "keyword": "m!lk",
-          "score": 94
-        },
-        {
-          "keyword": "トーマスフランク",
-          "score": 93
-        },
-        {
-          "keyword": "news",
-          "score": 92
-        },
-        {
-          "keyword": "ドイツ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-11T12:43:44.205Z",
       "geo": "JP",
       "source": "google",
@@ -5356,6 +5309,53 @@
         },
         {
           "keyword": "ニュージーランド",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-15T11:42:37.598Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cuaca besok",
+          "score": 100
+        },
+        {
+          "keyword": "hana",
+          "score": 99
+        },
+        {
+          "keyword": "thời tiết ngày mai",
+          "score": 98
+        },
+        {
+          "keyword": "明天的天氣",
+          "score": 97
+        },
+        {
+          "keyword": "高橋成美",
+          "score": 96
+        },
+        {
+          "keyword": "バーミンガム 対 リーズ u",
+          "score": 95
+        },
+        {
+          "keyword": "ザブングル",
+          "score": 94
+        },
+        {
+          "keyword": "星野リゾート",
+          "score": 93
+        },
+        {
+          "keyword": "日野市議会議員選挙 2026",
+          "score": 92
+        },
+        {
+          "keyword": "ライフネット生命",
           "score": 91
         }
       ]
