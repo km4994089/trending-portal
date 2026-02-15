@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-10T23:58:45.781Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "矢田亜希子",
-          "score": 100
-        },
-        {
-          "keyword": "ニトリ",
-          "score": 99
-        },
-        {
-          "keyword": "イオンシネマ",
-          "score": 98
-        },
-        {
-          "keyword": "クックパッド",
-          "score": 97
-        },
-        {
-          "keyword": "スーパー",
-          "score": 96
-        },
-        {
-          "keyword": "マック ハッピーセット",
-          "score": 95
-        },
-        {
-          "keyword": "鉄道博物館",
-          "score": 94
-        },
-        {
-          "keyword": "ai story",
-          "score": 93
-        },
-        {
-          "keyword": "takahiro",
-          "score": 92
-        },
-        {
-          "keyword": "五木寛之",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-11T02:23:29.765Z",
       "geo": "JP",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "桜井日奈子",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-15T01:16:36.829Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "稲葉浩志",
+          "score": 100
+        },
+        {
+          "keyword": "日野聡",
+          "score": 99
+        },
+        {
+          "keyword": "wrc",
+          "score": 98
+        },
+        {
+          "keyword": "wbc 日程",
+          "score": 97
+        },
+        {
+          "keyword": "安藤サクラ",
+          "score": 96
+        },
+        {
+          "keyword": "wbc 放送",
+          "score": 95
+        },
+        {
+          "keyword": "奨学金",
+          "score": 94
+        },
+        {
+          "keyword": "アドベンチャーワールド",
+          "score": 93
+        },
+        {
+          "keyword": "柄本佑",
+          "score": 92
+        },
+        {
+          "keyword": "長尾謙杜",
           "score": 91
         }
       ]
