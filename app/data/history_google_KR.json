@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-11T02:23:28.565Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "우리기술",
-          "score": 100
-        },
-        {
-          "keyword": "한국외대",
-          "score": 99
-        },
-        {
-          "keyword": "강원대",
-          "score": 98
-        },
-        {
-          "keyword": "전남대학교",
-          "score": 97
-        },
-        {
-          "keyword": "성신여대",
-          "score": 96
-        },
-        {
-          "keyword": "영남대",
-          "score": 95
-        },
-        {
-          "keyword": "한온시스템",
-          "score": 94
-        },
-        {
-          "keyword": "세미콘 코리아 2026",
-          "score": 93
-        },
-        {
-          "keyword": "미세먼지",
-          "score": 92
-        },
-        {
-          "keyword": "에이프릴바이오",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-11T04:39:12.089Z",
       "geo": "KR",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "테일러 프리츠",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-15T03:59:10.208Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "정시아",
+          "score": 100
+        },
+        {
+          "keyword": "seedance",
+          "score": 99
+        },
+        {
+          "keyword": "아이유",
+          "score": 98
+        },
+        {
+          "keyword": "설날",
+          "score": 97
+        },
+        {
+          "keyword": "inter vs juventus",
+          "score": 96
+        },
+        {
+          "keyword": "동계올림픽 메달 순위",
+          "score": 95
+        },
+        {
+          "keyword": "단지누",
+          "score": 94
+        },
+        {
+          "keyword": "зимние олимпийские игры 2026 года – горнолыжный спорт",
+          "score": 93
+        },
+        {
+          "keyword": "реал мадрид – реал сосьедад",
+          "score": 92
+        },
+        {
+          "keyword": "real madrid đấu với real sociedad",
           "score": 91
         }
       ]
