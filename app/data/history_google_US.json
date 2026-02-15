@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-11T15:30:33.118Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "san diego weather",
-          "score": 100
-        },
-        {
-          "keyword": "lourdes university",
-          "score": 99
-        },
-        {
-          "keyword": "daria kasatkina",
-          "score": 98
-        },
-        {
-          "keyword": "sarah pidgeon",
-          "score": 97
-        },
-        {
-          "keyword": "brian callahan",
-          "score": 96
-        },
-        {
-          "keyword": "jordan montgomery",
-          "score": 95
-        },
-        {
-          "keyword": "cody rhodes",
-          "score": 94
-        },
-        {
-          "keyword": "dabo swinney",
-          "score": 93
-        },
-        {
-          "keyword": "elizabeth lemley",
-          "score": 92
-        },
-        {
-          "keyword": "mexico",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-11T16:53:45.357Z",
       "geo": "US",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "rayo vallecano - atlético madrid",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-15T15:45:38.753Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "dave dombrowski",
+          "score": 100
+        },
+        {
+          "keyword": "nacional vs porto",
+          "score": 99
+        },
+        {
+          "keyword": "men's team pursuit speed skating",
+          "score": 98
+        },
+        {
+          "keyword": "stephen a smith",
+          "score": 97
+        },
+        {
+          "keyword": "jason bateman",
+          "score": 96
+        },
+        {
+          "keyword": "felix auger aliassime",
+          "score": 95
+        },
+        {
+          "keyword": "hardik pandya",
+          "score": 94
+        },
+        {
+          "keyword": "rinku singh",
+          "score": 93
+        },
+        {
+          "keyword": "alex de minaur",
+          "score": 92
+        },
+        {
+          "keyword": "shivam dube",
           "score": 91
         }
       ]
