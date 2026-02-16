@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-12T08:34:16.620Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "joe biden",
-          "score": 100
-        },
-        {
-          "keyword": "flights to madrid",
-          "score": 99
-        },
-        {
-          "keyword": "windsor",
-          "score": 98
-        },
-        {
-          "keyword": "seedance",
-          "score": 97
-        },
-        {
-          "keyword": "car accident attorney",
-          "score": 96
-        },
-        {
-          "keyword": "investment property",
-          "score": 95
-        },
-        {
-          "keyword": "state of play",
-          "score": 94
-        },
-        {
-          "keyword": "jared polis",
-          "score": 93
-        },
-        {
-          "keyword": "winning powerball numbers",
-          "score": 92
-        },
-        {
-          "keyword": "korey dropkin",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-12T09:38:12.555Z",
       "geo": "US",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "uae vs afghanistan",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-16T08:35:02.723Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "politics",
+          "score": 100
+        },
+        {
+          "keyword": "munich airport flights",
+          "score": 99
+        },
+        {
+          "keyword": "varvara gracheva",
+          "score": 98
+        },
+        {
+          "keyword": "iva jovic",
+          "score": 97
+        },
+        {
+          "keyword": "frankfurt airport flights",
+          "score": 96
+        },
+        {
+          "keyword": "emma navarro",
+          "score": 95
+        },
+        {
+          "keyword": "spectrum outage",
+          "score": 94
+        },
+        {
+          "keyword": "industry",
+          "score": 93
+        },
+        {
+          "keyword": "logan paul pokémon card",
+          "score": 92
+        },
+        {
+          "keyword": "isabeau levito",
           "score": 91
         }
       ]
