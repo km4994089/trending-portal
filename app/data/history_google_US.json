@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-12T20:56:41.622Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "auston matthews",
-          "score": 100
-        },
-        {
-          "keyword": "fotmob",
-          "score": 99
-        },
-        {
-          "keyword": "caleb wilson",
-          "score": 98
-        },
-        {
-          "keyword": "winter olympics figure skating",
-          "score": 97
-        },
-        {
-          "keyword": "brock nelson",
-          "score": 96
-        },
-        {
-          "keyword": "elvis merzlikins",
-          "score": 95
-        },
-        {
-          "keyword": "mike sullivan",
-          "score": 94
-        },
-        {
-          "keyword": "quinn hughes",
-          "score": 93
-        },
-        {
-          "keyword": "barca game",
-          "score": 92
-        },
-        {
-          "keyword": "joan garcía",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-12T21:27:53.652Z",
       "geo": "US",
       "source": "google",
@@ -5920,6 +5873,53 @@
         },
         {
           "keyword": "nuno borges",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-16T21:19:47.573Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "laura nolte",
+          "score": 100
+        },
+        {
+          "keyword": "jordan love",
+          "score": 99
+        },
+        {
+          "keyword": "canada women's hockey",
+          "score": 98
+        },
+        {
+          "keyword": "coppin state basketball",
+          "score": 97
+        },
+        {
+          "keyword": "megan oldham",
+          "score": 96
+        },
+        {
+          "keyword": "ronnie hickman",
+          "score": 95
+        },
+        {
+          "keyword": "wpri",
+          "score": 94
+        },
+        {
+          "keyword": "spencer howe",
+          "score": 93
+        },
+        {
+          "keyword": "coventry vs middlesbrough",
+          "score": 92
+        },
+        {
+          "keyword": "pawtucket",
           "score": 91
         }
       ]
