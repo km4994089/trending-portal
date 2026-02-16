@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-12T10:34:41.866Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "uk",
-          "score": 100
-        },
-        {
-          "keyword": "amazon.com",
-          "score": 99
-        },
-        {
-          "keyword": "flu symptoms",
-          "score": 98
-        },
-        {
-          "keyword": "pick 3",
-          "score": 97
-        },
-        {
-          "keyword": "guy den ouden",
-          "score": 96
-        },
-        {
-          "keyword": "irs refund",
-          "score": 95
-        },
-        {
-          "keyword": "ny lottery",
-          "score": 94
-        },
-        {
-          "keyword": "mass lottery",
-          "score": 93
-        },
-        {
-          "keyword": "indeed jobs",
-          "score": 92
-        },
-        {
-          "keyword": "carfax",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-12T11:33:15.948Z",
       "geo": "US",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "industry",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-16T10:39:52.757Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "daria kasatkina",
+          "score": 100
+        },
+        {
+          "keyword": "sorana cirstea",
+          "score": 99
+        },
+        {
+          "keyword": "new show to watch",
+          "score": 98
+        },
+        {
+          "keyword": "victoria mboko",
+          "score": 97
+        },
+        {
+          "keyword": "england vs italy",
+          "score": 96
+        },
+        {
+          "keyword": "aliaksandra sasnovich",
+          "score": 95
+        },
+        {
+          "keyword": "dense fog advisory",
+          "score": 94
+        },
+        {
+          "keyword": "clara tauson",
+          "score": 93
+        },
+        {
+          "keyword": "politics",
+          "score": 92
+        },
+        {
+          "keyword": "munich airport flights",
           "score": 91
         }
       ]
