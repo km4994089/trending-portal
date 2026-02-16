@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-12T19:43:36.023Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nfl",
-          "score": 100
-        },
-        {
-          "keyword": "宝くじ 当選番号 ロト6",
-          "score": 99
-        },
-        {
-          "keyword": "ブレントフォード 対 アーセナル",
-          "score": 98
-        },
-        {
-          "keyword": "クロエ・キム",
-          "score": 97
-        },
-        {
-          "keyword": "dni",
-          "score": 96
-        },
-        {
-          "keyword": "ショートトラック 速報",
-          "score": 95
-        },
-        {
-          "keyword": "nhk one",
-          "score": 94
-        },
-        {
-          "keyword": "身代金は誘拐ですドラマ",
-          "score": 93
-        },
-        {
-          "keyword": "中川安奈",
-          "score": 92
-        },
-        {
-          "keyword": "アレン様",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-12T20:23:55.389Z",
       "geo": "JP",
       "source": "google",
@@ -5873,6 +5826,53 @@
         },
         {
           "keyword": "双日 レアアース",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-16T19:50:07.404Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ジローナ 対 バルセロナ",
+          "score": 100
+        },
+        {
+          "keyword": "カナダ ミラノ・コルティナ 2026",
+          "score": 99
+        },
+        {
+          "keyword": "スキージャンプ スーパーチーム",
+          "score": 98
+        },
+        {
+          "keyword": "nisa",
+          "score": 97
+        },
+        {
+          "keyword": "旧正月 日本",
+          "score": 96
+        },
+        {
+          "keyword": "claude",
+          "score": 95
+        },
+        {
+          "keyword": "설날",
+          "score": 94
+        },
+        {
+          "keyword": "reddit",
+          "score": 93
+        },
+        {
+          "keyword": "農曆新年",
+          "score": 92
+        },
+        {
+          "keyword": "札幌市 火事 速報",
           "score": 91
         }
       ]
