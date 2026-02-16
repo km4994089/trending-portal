@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-12T17:31:46.788Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "瀧本美織",
-          "score": 100
-        },
-        {
-          "keyword": "斉藤壮馬",
-          "score": 99
-        },
-        {
-          "keyword": "ソニー",
-          "score": 98
-        },
-        {
-          "keyword": "メガチャーレム ポケポケ",
-          "score": 97
-        },
-        {
-          "keyword": "2026 冬季奧運男子花式滑冰",
-          "score": 96
-        },
-        {
-          "keyword": "荒川静香",
-          "score": 95
-        },
-        {
-          "keyword": "アイスホッケー 世界ランキング",
-          "score": 94
-        },
-        {
-          "keyword": "nhl",
-          "score": 93
-        },
-        {
-          "keyword": "2026 年冬奥会男子花样滑冰",
-          "score": 92
-        },
-        {
-          "keyword": "マエケン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-12T18:47:29.588Z",
       "geo": "JP",
       "source": "google",
@@ -5873,6 +5826,53 @@
         },
         {
           "keyword": "农历新年",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-16T18:30:08.976Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "スキージャンプ スーパーチーム",
+          "score": 100
+        },
+        {
+          "keyword": "nisa",
+          "score": 99
+        },
+        {
+          "keyword": "旧正月 日本",
+          "score": 98
+        },
+        {
+          "keyword": "claude",
+          "score": 97
+        },
+        {
+          "keyword": "설날",
+          "score": 96
+        },
+        {
+          "keyword": "レインボー シックス シージ スネーク",
+          "score": 95
+        },
+        {
+          "keyword": "農曆新年",
+          "score": 94
+        },
+        {
+          "keyword": "reddit",
+          "score": 93
+        },
+        {
+          "keyword": "札幌市 火事 速報",
+          "score": 92
+        },
+        {
+          "keyword": "双日 レアアース",
           "score": 91
         }
       ]
