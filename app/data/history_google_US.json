@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-11T23:52:11.997Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ben roethlisberger",
-          "score": 100
-        },
-        {
-          "keyword": "mens double luge",
-          "score": 99
-        },
-        {
-          "keyword": "bulls vs celtics",
-          "score": 98
-        },
-        {
-          "keyword": "bucks vs magic",
-          "score": 97
-        },
-        {
-          "keyword": "michigan vs northwestern",
-          "score": 96
-        },
-        {
-          "keyword": "hawks vs hornets",
-          "score": 95
-        },
-        {
-          "keyword": "gallup poll presidential approval rating",
-          "score": 94
-        },
-        {
-          "keyword": "washington vs iowa",
-          "score": 93
-        },
-        {
-          "keyword": "millonarios - águilas doradas",
-          "score": 92
-        },
-        {
-          "keyword": "double luge",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-12T01:14:06.179Z",
       "geo": "US",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "san francisco basketball",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-16T01:13:46.143Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "wes moore",
+          "score": 100
+        },
+        {
+          "keyword": "adam silver",
+          "score": 99
+        },
+        {
+          "keyword": "wes moore governor",
+          "score": 98
+        },
+        {
+          "keyword": "paradise season 2",
+          "score": 97
+        },
+        {
+          "keyword": "donovan mitchell",
+          "score": 96
+        },
+        {
+          "keyword": "all star game score",
+          "score": 95
+        },
+        {
+          "keyword": "ric flair",
+          "score": 94
+        },
+        {
+          "keyword": "jerome tang",
+          "score": 93
+        },
+        {
+          "keyword": "tyrese maxey",
+          "score": 92
+        },
+        {
+          "keyword": "60 minutes",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-11T23:52:14.980Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "星野真里",
-          "score": 100
-        },
-        {
-          "keyword": "nikkei",
-          "score": 99
-        },
-        {
-          "keyword": "カナダ 銃乱射事件",
-          "score": 98
-        },
-        {
-          "keyword": "長野県",
-          "score": 97
-        },
-        {
-          "keyword": "星ひとみ",
-          "score": 96
-        },
-        {
-          "keyword": "さくらインターネット",
-          "score": 95
-        },
-        {
-          "keyword": "モルディブ",
-          "score": 94
-        },
-        {
-          "keyword": "穂志",
-          "score": 93
-        },
-        {
-          "keyword": "yahoo",
-          "score": 92
-        },
-        {
-          "keyword": "samsung galaxy s26",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-12T01:14:08.892Z",
       "geo": "JP",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "倉悠貴",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-16T01:13:48.613Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "東洋大学",
+          "score": 100
+        },
+        {
+          "keyword": "関西大学",
+          "score": 99
+        },
+        {
+          "keyword": "日本精密 株価",
+          "score": 98
+        },
+        {
+          "keyword": "パワーエックス 株価",
+          "score": 97
+        },
+        {
+          "keyword": "大気汚染",
+          "score": 96
+        },
+        {
+          "keyword": "窪塚洋介",
+          "score": 95
+        },
+        {
+          "keyword": "トライアル 株価",
+          "score": 94
+        },
+        {
+          "keyword": "アシックス 株価",
+          "score": 93
+        },
+        {
+          "keyword": "環境保全",
+          "score": 92
+        },
+        {
+          "keyword": "アメリカ",
           "score": 91
         }
       ]
