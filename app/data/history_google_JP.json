@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-12T01:14:08.892Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "東京農業大学",
-          "score": 100
-        },
-        {
-          "keyword": "キオクシア 株価",
-          "score": 99
-        },
-        {
-          "keyword": "あのちゃん",
-          "score": 98
-        },
-        {
-          "keyword": "駒澤大学",
-          "score": 97
-        },
-        {
-          "keyword": "マツダ株価",
-          "score": 96
-        },
-        {
-          "keyword": "古河機械金属 株価",
-          "score": 95
-        },
-        {
-          "keyword": "中外製薬 株価",
-          "score": 94
-        },
-        {
-          "keyword": "レーザーテック 株価",
-          "score": 93
-        },
-        {
-          "keyword": "大気汚染",
-          "score": 92
-        },
-        {
-          "keyword": "ホンダ株価",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-12T04:01:15.429Z",
       "geo": "JP",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "アメリカ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-16T04:00:14.940Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "松田元太",
+          "score": 100
+        },
+        {
+          "keyword": "ベネッセ",
+          "score": 99
+        },
+        {
+          "keyword": "ガンダムベース",
+          "score": 98
+        },
+        {
+          "keyword": "gigazine",
+          "score": 97
+        },
+        {
+          "keyword": "住友ファーマ 株価",
+          "score": 96
+        },
+        {
+          "keyword": "城島 茂",
+          "score": 95
+        },
+        {
+          "keyword": "玉山鉄二",
+          "score": 94
+        },
+        {
+          "keyword": "住友林業 株価",
+          "score": 93
+        },
+        {
+          "keyword": "nft",
+          "score": 92
+        },
+        {
+          "keyword": "武井咲",
           "score": 91
         }
       ]
