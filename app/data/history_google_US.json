@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-12T21:27:53.652Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "rivian stock",
-          "score": 100
-        },
-        {
-          "keyword": "pins stock",
-          "score": 99
-        },
-        {
-          "keyword": "coin stock",
-          "score": 98
-        },
-        {
-          "keyword": "marc casadó",
-          "score": 97
-        },
-        {
-          "keyword": "tj oshie",
-          "score": 96
-        },
-        {
-          "keyword": "alexander bublik",
-          "score": 95
-        },
-        {
-          "keyword": "tage thompson",
-          "score": 94
-        },
-        {
-          "keyword": "xandra velzeboer",
-          "score": 93
-        },
-        {
-          "keyword": "jt miller",
-          "score": 92
-        },
-        {
-          "keyword": "denis shapovalov",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-12T21:57:45.189Z",
       "geo": "US",
       "source": "google",
@@ -5920,6 +5873,53 @@
         },
         {
           "keyword": "pawtucket",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-16T21:50:14.972Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "barca game",
+          "score": 100
+        },
+        {
+          "keyword": "la liga standings",
+          "score": 99
+        },
+        {
+          "keyword": "frederick wiseman",
+          "score": 98
+        },
+        {
+          "keyword": "barcelona schedule",
+          "score": 97
+        },
+        {
+          "keyword": "pierre crinon",
+          "score": 96
+        },
+        {
+          "keyword": "old dominion basketball",
+          "score": 95
+        },
+        {
+          "keyword": "mobile alabama",
+          "score": 94
+        },
+        {
+          "keyword": "riku miura",
+          "score": 93
+        },
+        {
+          "keyword": "coppin state basketball",
+          "score": 92
+        },
+        {
+          "keyword": "jordan love",
           "score": 91
         }
       ]
