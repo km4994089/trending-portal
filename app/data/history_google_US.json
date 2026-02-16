@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-12T15:11:58.386Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "maria sakkari",
-          "score": 100
-        },
-        {
-          "keyword": "heavy snow forecast",
-          "score": 99
-        },
-        {
-          "keyword": "hilary duff",
-          "score": 98
-        },
-        {
-          "keyword": "friday the 13th",
-          "score": 97
-        },
-        {
-          "keyword": "lindsey jacobellis",
-          "score": 96
-        },
-        {
-          "keyword": "recalls",
-          "score": 95
-        },
-        {
-          "keyword": "stefanos tsitsipas",
-          "score": 94
-        },
-        {
-          "keyword": "connor watkins",
-          "score": 93
-        },
-        {
-          "keyword": "madeira",
-          "score": 92
-        },
-        {
-          "keyword": "frida karlsson",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-12T16:13:44.402Z",
       "geo": "US",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "connections hint today",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-16T15:32:36.874Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "arthur fils",
+          "score": 100
+        },
+        {
+          "keyword": "salvation army",
+          "score": 99
+        },
+        {
+          "keyword": "iowa vs nebraska",
+          "score": 98
+        },
+        {
+          "keyword": "tyra banks",
+          "score": 97
+        },
+        {
+          "keyword": "bradley chubb",
+          "score": 96
+        },
+        {
+          "keyword": "kandi burruss",
+          "score": 95
+        },
+        {
+          "keyword": "dove cameron",
+          "score": 94
+        },
+        {
+          "keyword": "sarah michelle gellar",
+          "score": 93
+        },
+        {
+          "keyword": "quentin tarantino",
+          "score": 92
+        },
+        {
+          "keyword": "australia vs sri lanka",
           "score": 91
         }
       ]
