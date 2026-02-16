@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-12T16:13:44.402Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sidney crosby",
-          "score": 100
-        },
-        {
-          "keyword": "sanofi ceo paul hudson",
-          "score": 99
-        },
-        {
-          "keyword": "canada hockey",
-          "score": 98
-        },
-        {
-          "keyword": "stan wawrinka",
-          "score": 97
-        },
-        {
-          "keyword": "keith ellison",
-          "score": 96
-        },
-        {
-          "keyword": "cdc travel advisory",
-          "score": 95
-        },
-        {
-          "keyword": "asts stock",
-          "score": 94
-        },
-        {
-          "keyword": "netflix stock",
-          "score": 93
-        },
-        {
-          "keyword": "gerhard erasmus",
-          "score": 92
-        },
-        {
-          "keyword": "maria sakkari",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-12T17:31:43.669Z",
       "geo": "US",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "australia vs sri lanka",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-16T16:31:58.711Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "state department passport",
+          "score": 100
+        },
+        {
+          "keyword": "caroline harvey",
+          "score": 99
+        },
+        {
+          "keyword": "destanee aiava",
+          "score": 98
+        },
+        {
+          "keyword": "us women's hockey team",
+          "score": 97
+        },
+        {
+          "keyword": "john wroblewski",
+          "score": 96
+        },
+        {
+          "keyword": "salvation army",
+          "score": 95
+        },
+        {
+          "keyword": "arthur fils",
+          "score": 94
+        },
+        {
+          "keyword": "iowa vs nebraska",
+          "score": 93
+        },
+        {
+          "keyword": "tyra banks",
+          "score": 92
+        },
+        {
+          "keyword": "bradley chubb",
           "score": 91
         }
       ]
