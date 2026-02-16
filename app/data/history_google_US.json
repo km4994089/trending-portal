@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-12T09:38:12.555Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "videos",
-          "score": 100
-        },
-        {
-          "keyword": "nepal vs italy",
-          "score": 99
-        },
-        {
-          "keyword": "chinese new year",
-          "score": 98
-        },
-        {
-          "keyword": "keanu reeves",
-          "score": 97
-        },
-        {
-          "keyword": "dense fog advisory",
-          "score": 96
-        },
-        {
-          "keyword": "rocket launch today",
-          "score": 95
-        },
-        {
-          "keyword": "bmw",
-          "score": 94
-        },
-        {
-          "keyword": "openai",
-          "score": 93
-        },
-        {
-          "keyword": "glm",
-          "score": 92
-        },
-        {
-          "keyword": "octavio pisano",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-12T10:34:41.866Z",
       "geo": "US",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "isabeau levito",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-16T09:41:45.930Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "dense fog advisory",
+          "score": 100
+        },
+        {
+          "keyword": "clara tauson",
+          "score": 99
+        },
+        {
+          "keyword": "politics",
+          "score": 98
+        },
+        {
+          "keyword": "emma raducanu",
+          "score": 97
+        },
+        {
+          "keyword": "munich airport flights",
+          "score": 96
+        },
+        {
+          "keyword": "varvara gracheva",
+          "score": 95
+        },
+        {
+          "keyword": "frankfurt airport flights",
+          "score": 94
+        },
+        {
+          "keyword": "emma navarro",
+          "score": 93
+        },
+        {
+          "keyword": "spectrum outage",
+          "score": 92
+        },
+        {
+          "keyword": "industry",
           "score": 91
         }
       ]
