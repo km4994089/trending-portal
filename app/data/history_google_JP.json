@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-12T11:33:18.384Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "宮沢りえ",
-          "score": 100
-        },
-        {
-          "keyword": "川島海荷",
-          "score": 99
-        },
-        {
-          "keyword": "木村拓哉",
-          "score": 98
-        },
-        {
-          "keyword": "教場 目黒蓮",
-          "score": 97
-        },
-        {
-          "keyword": "キムタク",
-          "score": 96
-        },
-        {
-          "keyword": "ディアブロ4 ウォーロック",
-          "score": 95
-        },
-        {
-          "keyword": "せいや",
-          "score": 94
-        },
-        {
-          "keyword": "afcカップ",
-          "score": 93
-        },
-        {
-          "keyword": "浅田舞",
-          "score": 92
-        },
-        {
-          "keyword": "原大智",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-12T12:40:16.626Z",
       "geo": "JP",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "嵐",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-16T12:38:38.733Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "バンクーバー",
+          "score": 100
+        },
+        {
+          "keyword": "ドバイ",
+          "score": 99
+        },
+        {
+          "keyword": "杉本哲太",
+          "score": 98
+        },
+        {
+          "keyword": "鈴木萌々",
+          "score": 97
+        },
+        {
+          "keyword": "アベマ",
+          "score": 96
+        },
+        {
+          "keyword": "abematv",
+          "score": 95
+        },
+        {
+          "keyword": "今日好き 卒業編2026",
+          "score": 94
+        },
+        {
+          "keyword": "渋谷龍太",
+          "score": 93
+        },
+        {
+          "keyword": "サイバーコネクトツー",
+          "score": 92
+        },
+        {
+          "keyword": "日本",
           "score": 91
         }
       ]
