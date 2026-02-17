@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-13T22:25:58.759Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "john wroblewski",
-          "score": 100
-        },
-        {
-          "keyword": "luis rengifo",
-          "score": 99
-        },
-        {
-          "keyword": "tennessee baseball",
-          "score": 98
-        },
-        {
-          "keyword": "johnny weir",
-          "score": 97
-        },
-        {
-          "keyword": "serie a",
-          "score": 96
-        },
-        {
-          "keyword": "presidents day",
-          "score": 95
-        },
-        {
-          "keyword": "pebble beach leaderboard",
-          "score": 94
-        },
-        {
-          "keyword": "kazakhstan",
-          "score": 93
-        },
-        {
-          "keyword": "yuma kagiyama",
-          "score": 92
-        },
-        {
-          "keyword": "daniel grassl",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-13T22:57:53.742Z",
       "geo": "US",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "alysa liu",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-17T22:55:12.593Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "robert woods",
+          "score": 100
+        },
+        {
+          "keyword": "tommy lee jones",
+          "score": 99
+        },
+        {
+          "keyword": "landon jackson",
+          "score": 98
+        },
+        {
+          "keyword": "olympic figure skating",
+          "score": 97
+        },
+        {
+          "keyword": "michigan vs purdue prediction",
+          "score": 96
+        },
+        {
+          "keyword": "amber glenn",
+          "score": 95
+        },
+        {
+          "keyword": "mike evans",
+          "score": 94
+        },
+        {
+          "keyword": "figure skating",
+          "score": 93
+        },
+        {
+          "keyword": "unc vs nc state",
+          "score": 92
+        },
+        {
+          "keyword": "kaori sakamoto",
           "score": 91
         }
       ]
