@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-13T01:17:20.007Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "東北学院大学",
-          "score": 100
-        },
-        {
-          "keyword": "インペックス株価",
-          "score": 99
-        },
-        {
-          "keyword": "rev. noir",
-          "score": 98
-        },
-        {
-          "keyword": "クボタ株価",
-          "score": 97
-        },
-        {
-          "keyword": "ユニチャーム 株価",
-          "score": 96
-        },
-        {
-          "keyword": "jx金属 株",
-          "score": 95
-        },
-        {
-          "keyword": "野村証券",
-          "score": 94
-        },
-        {
-          "keyword": "サンリオ 株価",
-          "score": 93
-        },
-        {
-          "keyword": "thk",
-          "score": 92
-        },
-        {
-          "keyword": "たいまー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-13T03:58:10.493Z",
       "geo": "JP",
       "source": "google",
@@ -5920,6 +5873,53 @@
         },
         {
           "keyword": "日高屋",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-17T03:55:40.901Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ヤオコー",
+          "score": 100
+        },
+        {
+          "keyword": "ねずみくんのチョッキ",
+          "score": 99
+        },
+        {
+          "keyword": "ひたちなか海浜鉄道",
+          "score": 98
+        },
+        {
+          "keyword": "ぽかぽか ゲスト",
+          "score": 97
+        },
+        {
+          "keyword": "アラバキロックフェス",
+          "score": 96
+        },
+        {
+          "keyword": "札幌市西区二十四軒4条3丁目",
+          "score": 95
+        },
+        {
+          "keyword": "山田裕貴",
+          "score": 94
+        },
+        {
+          "keyword": "谷繁元信",
+          "score": 93
+        },
+        {
+          "keyword": "trigun stampede",
+          "score": 92
+        },
+        {
+          "keyword": "江戸川区",
           "score": 91
         }
       ]
