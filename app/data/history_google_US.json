@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-13T09:34:01.010Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "spacex launch",
-          "score": 100
-        },
-        {
-          "keyword": "0",
-          "score": 99
-        },
-        {
-          "keyword": "apple",
-          "score": 98
-        },
-        {
-          "keyword": "valentines day",
-          "score": 97
-        },
-        {
-          "keyword": "sports",
-          "score": 96
-        },
-        {
-          "keyword": "stock markets",
-          "score": 95
-        },
-        {
-          "keyword": "funny videos",
-          "score": 94
-        },
-        {
-          "keyword": "r",
-          "score": 93
-        },
-        {
-          "keyword": "ai in healthcare",
-          "score": 92
-        },
-        {
-          "keyword": "b",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-13T10:30:28.799Z",
       "geo": "US",
       "source": "google",
@@ -5873,6 +5826,53 @@
         },
         {
           "keyword": "canada vs new zealand",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-17T09:37:34.221Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "politics",
+          "score": 100
+        },
+        {
+          "keyword": "jesse jackson",
+          "score": 99
+        },
+        {
+          "keyword": "ireland vs zimbabwe",
+          "score": 98
+        },
+        {
+          "keyword": "elise mertens",
+          "score": 97
+        },
+        {
+          "keyword": "manchester airport flights",
+          "score": 96
+        },
+        {
+          "keyword": "iva jovic",
+          "score": 95
+        },
+        {
+          "keyword": "رمضان 2026",
+          "score": 94
+        },
+        {
+          "keyword": "magda linette",
+          "score": 93
+        },
+        {
+          "keyword": "clara tauson",
+          "score": 92
+        },
+        {
+          "keyword": "jessica pegula",
           "score": 91
         }
       ]
