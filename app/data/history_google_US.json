@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-13T15:33:00.779Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "high on life 2",
-          "score": 100
-        },
-        {
-          "keyword": "al hilal - al-ettifaq",
-          "score": 99
-        },
-        {
-          "keyword": "is presidents day a federal holiday",
-          "score": 98
-        },
-        {
-          "keyword": "wake forest baseball",
-          "score": 97
-        },
-        {
-          "keyword": "joey loperfido",
-          "score": 96
-        },
-        {
-          "keyword": "alex de minaur",
-          "score": 95
-        },
-        {
-          "keyword": "al-shabab vs al-ahli",
-          "score": 94
-        },
-        {
-          "keyword": "halle berry",
-          "score": 93
-        },
-        {
-          "keyword": "john harbaugh",
-          "score": 92
-        },
-        {
-          "keyword": "jason",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-13T16:33:12.405Z",
       "geo": "US",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "havana syndrome",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-17T16:13:12.014Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "savannah chrisley",
+          "score": 100
+        },
+        {
+          "keyword": "al sadd vs al-ittihad",
+          "score": 99
+        },
+        {
+          "keyword": "elena rybakina",
+          "score": 98
+        },
+        {
+          "keyword": "denver weather",
+          "score": 97
+        },
+        {
+          "keyword": "nasdaq today",
+          "score": 96
+        },
+        {
+          "keyword": "nasdaq composite",
+          "score": 95
+        },
+        {
+          "keyword": "dobie high school",
+          "score": 94
+        },
+        {
+          "keyword": "tony clark",
+          "score": 93
+        },
+        {
+          "keyword": "milo ventimiglia",
+          "score": 92
+        },
+        {
+          "keyword": "billie jean king",
           "score": 91
         }
       ]
