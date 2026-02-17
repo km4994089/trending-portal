@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-13T19:35:31.207Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dni",
-          "score": 100
-        },
-        {
-          "keyword": "オリンピック 2026",
-          "score": 99
-        },
-        {
-          "keyword": "トリプルコーク1440",
-          "score": 98
-        },
-        {
-          "keyword": "ドルトムント 対 マインツ",
-          "score": 97
-        },
-        {
-          "keyword": "スノーボード",
-          "score": 96
-        },
-        {
-          "keyword": "オリンピック ライブ配信",
-          "score": 95
-        },
-        {
-          "keyword": "スコッティ・ジェームス",
-          "score": 94
-        },
-        {
-          "keyword": "nhkプラス",
-          "score": 93
-        },
-        {
-          "keyword": "nhk one",
-          "score": 92
-        },
-        {
-          "keyword": "羽生結弦",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-13T20:26:21.489Z",
       "geo": "JP",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "吉田知那美夫",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-17T19:40:27.290Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "apple iphone 17e",
+          "score": 100
+        },
+        {
+          "keyword": "アリサ リュウ",
+          "score": 99
+        },
+        {
+          "keyword": "ain",
+          "score": 98
+        },
+        {
+          "keyword": "星野源",
+          "score": 97
+        },
+        {
+          "keyword": "古畑星夏",
+          "score": 96
+        },
+        {
+          "keyword": "ガラタサライ 対 ユヴェントス",
+          "score": 95
+        },
+        {
+          "keyword": "星ひとみ",
+          "score": 94
+        },
+        {
+          "keyword": "トゥルソワ",
+          "score": 93
+        },
+        {
+          "keyword": "豊川市 麻疹",
+          "score": 92
+        },
+        {
+          "keyword": "中井亜美",
           "score": 91
         }
       ]

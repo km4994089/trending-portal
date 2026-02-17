@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-13T19:35:28.175Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "monaco vs nantes",
-          "score": 100
-        },
-        {
-          "keyword": "elche vs osasuna",
-          "score": 99
-        },
-        {
-          "keyword": "alessandro barbieri",
-          "score": 98
-        },
-        {
-          "keyword": "scotty james",
-          "score": 97
-        },
-        {
-          "keyword": "pisa - milan",
-          "score": 96
-        },
-        {
-          "keyword": "austin thompson",
-          "score": 95
-        },
-        {
-          "keyword": "fc volendam vs psv",
-          "score": 94
-        },
-        {
-          "keyword": "francisco cerundolo",
-          "score": 93
-        },
-        {
-          "keyword": "dortmund vs mainz",
-          "score": 92
-        },
-        {
-          "keyword": "john fox",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-13T20:26:18.539Z",
       "geo": "US",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "ikea tulsa",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-17T19:40:24.828Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "iida karhunen",
+          "score": 100
+        },
+        {
+          "keyword": "noa lang",
+          "score": 99
+        },
+        {
+          "keyword": "zayden high",
+          "score": 98
+        },
+        {
+          "keyword": "benfica - real madrid",
+          "score": 97
+        },
+        {
+          "keyword": "mónaco - psg",
+          "score": 96
+        },
+        {
+          "keyword": "dortmund vs atalanta",
+          "score": 95
+        },
+        {
+          "keyword": "andrey rublev",
+          "score": 94
+        },
+        {
+          "keyword": "parker sutherland",
+          "score": 93
+        },
+        {
+          "keyword": "earthquake now",
+          "score": 92
+        },
+        {
+          "keyword": "earthquake",
           "score": 91
         }
       ]
