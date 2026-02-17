@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-13T14:35:22.381Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "joey loperfido",
-          "score": 100
-        },
-        {
-          "keyword": "alex de minaur",
-          "score": 99
-        },
-        {
-          "keyword": "al-shabab vs al-ahli",
-          "score": 98
-        },
-        {
-          "keyword": "halle berry",
-          "score": 97
-        },
-        {
-          "keyword": "john harbaugh",
-          "score": 96
-        },
-        {
-          "keyword": "usa vs netherlands",
-          "score": 95
-        },
-        {
-          "keyword": "conduent",
-          "score": 94
-        },
-        {
-          "keyword": "stephen wilson jr",
-          "score": 93
-        },
-        {
-          "keyword": "igor tudor",
-          "score": 92
-        },
-        {
-          "keyword": "dense fog advisory",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-13T15:33:00.779Z",
       "geo": "US",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "jeff hardy",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-17T15:10:53.913Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tony clark",
+          "score": 100
+        },
+        {
+          "keyword": "dobie high school",
+          "score": 99
+        },
+        {
+          "keyword": "milo ventimiglia",
+          "score": 98
+        },
+        {
+          "keyword": "billie jean king",
+          "score": 97
+        },
+        {
+          "keyword": "gina carano",
+          "score": 96
+        },
+        {
+          "keyword": "scotland vs nepal",
+          "score": 95
+        },
+        {
+          "keyword": "simone biles",
+          "score": 94
+        },
+        {
+          "keyword": "shinedown",
+          "score": 93
+        },
+        {
+          "keyword": "wynton marsalis",
+          "score": 92
+        },
+        {
+          "keyword": "havana syndrome",
           "score": 91
         }
       ]
