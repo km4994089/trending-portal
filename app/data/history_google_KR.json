@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-13T10:30:30.241Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이상",
-          "score": 100
-        },
-        {
-          "keyword": "구정",
-          "score": 99
-        },
-        {
-          "keyword": "레이디 두아",
-          "score": 98
-        },
-        {
-          "keyword": "백사장3",
-          "score": 97
-        },
-        {
-          "keyword": "클로버 게임즈",
-          "score": 96
-        },
-        {
-          "keyword": "명절인사",
-          "score": 95
-        },
-        {
-          "keyword": "배현진",
-          "score": 94
-        },
-        {
-          "keyword": "명절",
-          "score": 93
-        },
-        {
-          "keyword": "고양시장",
-          "score": 92
-        },
-        {
-          "keyword": "고승민",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-13T11:24:22.562Z",
       "geo": "KR",
       "source": "google",
@@ -5873,6 +5826,53 @@
         },
         {
           "keyword": "이바컵",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-17T10:35:25.264Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "현역가왕3",
+          "score": 100
+        },
+        {
+          "keyword": "김주애",
+          "score": 99
+        },
+        {
+          "keyword": "fc 서울 대 산프레체",
+          "score": 98
+        },
+        {
+          "keyword": "1승",
+          "score": 97
+        },
+        {
+          "keyword": "김준현",
+          "score": 96
+        },
+        {
+          "keyword": "임종언",
+          "score": 95
+        },
+        {
+          "keyword": "박지훈",
+          "score": 94
+        },
+        {
+          "keyword": "canada vs new zealand",
+          "score": 93
+        },
+        {
+          "keyword": "설윤",
+          "score": 92
+        },
+        {
+          "keyword": "대구 한국가스공사 대 수원 kt",
           "score": 91
         }
       ]
