@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-13T03:58:10.493Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "中村隼人",
-          "score": 100
-        },
-        {
-          "keyword": "松岡昌宏",
-          "score": 99
-        },
-        {
-          "keyword": "モンスト",
-          "score": 98
-        },
-        {
-          "keyword": "三井海洋開発",
-          "score": 97
-        },
-        {
-          "keyword": "トミカ",
-          "score": 96
-        },
-        {
-          "keyword": "石原さとみ",
-          "score": 95
-        },
-        {
-          "keyword": "クイーンカップ",
-          "score": 94
-        },
-        {
-          "keyword": "rizin",
-          "score": 93
-        },
-        {
-          "keyword": "小島瑠璃子",
-          "score": 92
-        },
-        {
-          "keyword": "順天堂大学",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-13T05:20:25.588Z",
       "geo": "JP",
       "source": "google",
@@ -5920,6 +5873,53 @@
         },
         {
           "keyword": "江戸川区",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-17T05:17:23.910Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "嵐 コンサート",
+          "score": 100
+        },
+        {
+          "keyword": "三船敏郎",
+          "score": 99
+        },
+        {
+          "keyword": "bリーグ",
+          "score": 98
+        },
+        {
+          "keyword": "中道 離党",
+          "score": 97
+        },
+        {
+          "keyword": "仮面ライダーアギト",
+          "score": 96
+        },
+        {
+          "keyword": "黒柳 徹子",
+          "score": 95
+        },
+        {
+          "keyword": "篠井英介",
+          "score": 94
+        },
+        {
+          "keyword": "午前十時の映画祭",
+          "score": 93
+        },
+        {
+          "keyword": "アドマイヤテラ",
+          "score": 92
+        },
+        {
+          "keyword": "船越英一郎",
           "score": 91
         }
       ]
