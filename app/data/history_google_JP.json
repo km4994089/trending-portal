@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-13T23:28:21.605Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "樋口新葉",
-          "score": 100
-        },
-        {
-          "keyword": "佐藤駿 コーチ",
-          "score": 99
-        },
-        {
-          "keyword": "櫻井翔",
-          "score": 98
-        },
-        {
-          "keyword": "久常涼",
-          "score": 97
-        },
-        {
-          "keyword": "ポケモンgo イベント",
-          "score": 96
-        },
-        {
-          "keyword": "櫻井淳子",
-          "score": 95
-        },
-        {
-          "keyword": "河津桜まつり",
-          "score": 94
-        },
-        {
-          "keyword": "あべのハルカス",
-          "score": 93
-        },
-        {
-          "keyword": "吉瀬美智子 相葉雅紀とやりたいこと",
-          "score": 92
-        },
-        {
-          "keyword": "神奈川県警",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-13T23:52:45.746Z",
       "geo": "JP",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "松平容保",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-17T23:50:55.375Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "claude",
+          "score": 100
+        },
+        {
+          "keyword": "坂下千里子",
+          "score": 99
+        },
+        {
+          "keyword": "トムとジェリー",
+          "score": 98
+        },
+        {
+          "keyword": "村主章枝",
+          "score": 97
+        },
+        {
+          "keyword": "あさイチ",
+          "score": 96
+        },
+        {
+          "keyword": "古屋圭司",
+          "score": 95
+        },
+        {
+          "keyword": "シスメックス",
+          "score": 94
+        },
+        {
+          "keyword": "ブルーノマーズ",
+          "score": 93
+        },
+        {
+          "keyword": "るなしい",
+          "score": 92
+        },
+        {
+          "keyword": "奈緒",
           "score": 91
         }
       ]

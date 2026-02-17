@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-13T23:28:18.876Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "austin florian",
-          "score": 100
-        },
-        {
-          "keyword": "dan barefoot",
-          "score": 99
-        },
-        {
-          "keyword": "iona basketball",
-          "score": 98
-        },
-        {
-          "keyword": "manhattan basketball",
-          "score": 97
-        },
-        {
-          "keyword": "ut austin",
-          "score": 96
-        },
-        {
-          "keyword": "ole miss baseball",
-          "score": 95
-        },
-        {
-          "keyword": "george mason basketball",
-          "score": 94
-        },
-        {
-          "keyword": "alex vesia",
-          "score": 93
-        },
-        {
-          "keyword": "gary player",
-          "score": 92
-        },
-        {
-          "keyword": "clemson baseball",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-13T23:52:43.281Z",
       "geo": "US",
       "source": "google",
@@ -5822,6 +5775,53 @@
         },
         {
           "keyword": "kaori sakamoto",
+          "score": 92
+        },
+        {
+          "keyword": "tremaine edmunds",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-17T23:50:52.676Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ucla vs mi state",
+          "score": 100
+        },
+        {
+          "keyword": "boston college basketball",
+          "score": 99
+        },
+        {
+          "keyword": "wisconsin vs ohio state",
+          "score": 98
+        },
+        {
+          "keyword": "rosie o'donnell",
+          "score": 97
+        },
+        {
+          "keyword": "robert woods",
+          "score": 96
+        },
+        {
+          "keyword": "tommy lee jones",
+          "score": 95
+        },
+        {
+          "keyword": "landon jackson",
+          "score": 94
+        },
+        {
+          "keyword": "mike evans",
+          "score": 93
+        },
+        {
+          "keyword": "unc vs nc state",
           "score": 92
         },
         {
