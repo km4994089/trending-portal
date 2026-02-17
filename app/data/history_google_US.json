@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-13T21:56:30.838Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "presidents day",
-          "score": 100
-        },
-        {
-          "keyword": "pebble beach leaderboard",
-          "score": 99
-        },
-        {
-          "keyword": "kazakhstan",
-          "score": 98
-        },
-        {
-          "keyword": "yuma kagiyama",
-          "score": 97
-        },
-        {
-          "keyword": "us women's hockey team",
-          "score": 96
-        },
-        {
-          "keyword": "daniel grassl",
-          "score": 95
-        },
-        {
-          "keyword": "mikhail shaidorov",
-          "score": 94
-        },
-        {
-          "keyword": "michael j fox",
-          "score": 93
-        },
-        {
-          "keyword": "kendall coyne schofield",
-          "score": 92
-        },
-        {
-          "keyword": "cha jun-hwan",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-13T22:25:58.759Z",
       "geo": "US",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "michigan vs purdue",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-17T22:20:20.384Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mike evans",
+          "score": 100
+        },
+        {
+          "keyword": "womens figure skating",
+          "score": 99
+        },
+        {
+          "keyword": "unc vs nc state",
+          "score": 98
+        },
+        {
+          "keyword": "kaori sakamoto",
+          "score": 97
+        },
+        {
+          "keyword": "tremaine edmunds",
+          "score": 96
+        },
+        {
+          "keyword": "anastasiia gubanova",
+          "score": 95
+        },
+        {
+          "keyword": "baker mayfield",
+          "score": 94
+        },
+        {
+          "keyword": "img academy",
+          "score": 93
+        },
+        {
+          "keyword": "devin bush",
+          "score": 92
+        },
+        {
+          "keyword": "alysa liu",
           "score": 91
         }
       ]
