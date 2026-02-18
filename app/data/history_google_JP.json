@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-14T05:04:19.549Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大宮 対 札幌",
-          "score": 100
-        },
-        {
-          "keyword": "齋藤飛鳥",
-          "score": 99
-        },
-        {
-          "keyword": "横浜fc 対 仙台",
-          "score": 98
-        },
-        {
-          "keyword": "dazn",
-          "score": 97
-        },
-        {
-          "keyword": "新井恵理那",
-          "score": 96
-        },
-        {
-          "keyword": "小倉ジャンプステークス",
-          "score": 95
-        },
-        {
-          "keyword": "広島 対 岡山",
-          "score": 94
-        },
-        {
-          "keyword": "清水 対 京都",
-          "score": 93
-        },
-        {
-          "keyword": "町田 対 水戸",
-          "score": 92
-        },
-        {
-          "keyword": "ドラマ10 nhk",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-14T06:02:52.374Z",
       "geo": "JP",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "所得税",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-18T05:20:53.673Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "バウンティ",
+          "score": 100
+        },
+        {
+          "keyword": "羽月隆太郎",
+          "score": 99
+        },
+        {
+          "keyword": "ひるおび",
+          "score": 98
+        },
+        {
+          "keyword": "高専",
+          "score": 97
+        },
+        {
+          "keyword": "バナナマン",
+          "score": 96
+        },
+        {
+          "keyword": "篠井英介",
+          "score": 95
+        },
+        {
+          "keyword": "森英介",
+          "score": 94
+        },
+        {
+          "keyword": "シャイアラブーフ",
+          "score": 93
+        },
+        {
+          "keyword": "増田三莉音",
+          "score": 92
+        },
+        {
+          "keyword": "小倉優子",
           "score": 91
         }
       ]
