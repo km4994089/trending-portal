@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-14T07:07:32.481Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "シャオイムファ",
-          "score": 100
-        },
-        {
-          "keyword": "柳葉敏郎",
-          "score": 99
-        },
-        {
-          "keyword": "マリノス",
-          "score": 98
-        },
-        {
-          "keyword": "ウイニング競馬",
-          "score": 97
-        },
-        {
-          "keyword": "ファジアーノ",
-          "score": 96
-        },
-        {
-          "keyword": "ザスパ群馬",
-          "score": 95
-        },
-        {
-          "keyword": "佐々木麟太郎",
-          "score": 94
-        },
-        {
-          "keyword": "江坂任",
-          "score": 93
-        },
-        {
-          "keyword": "半導体",
-          "score": 92
-        },
-        {
-          "keyword": "j1",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-14T07:52:04.943Z",
       "geo": "JP",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "バナナマン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-18T07:43:54.502Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "任天堂",
+          "score": 100
+        },
+        {
+          "keyword": "ホンダ 日産",
+          "score": 99
+        },
+        {
+          "keyword": "王将戦",
+          "score": 98
+        },
+        {
+          "keyword": "片寄涼太",
+          "score": 97
+        },
+        {
+          "keyword": "水岡俊一",
+          "score": 96
+        },
+        {
+          "keyword": "あづきおねえさん",
+          "score": 95
+        },
+        {
+          "keyword": "paramount+",
+          "score": 94
+        },
+        {
+          "keyword": "池江璃花子",
+          "score": 93
+        },
+        {
+          "keyword": "歴代総理大臣",
+          "score": 92
+        },
+        {
+          "keyword": "uae vs south africa",
           "score": 91
         }
       ]
