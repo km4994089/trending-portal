@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-14T22:13:34.309Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "bill maher",
-          "score": 100
-        },
-        {
-          "keyword": "tornado watch",
-          "score": 99
-        },
-        {
-          "keyword": "usa",
-          "score": 98
-        },
-        {
-          "keyword": "florida state vs virginia tech",
-          "score": 97
-        },
-        {
-          "keyword": "cameron diaz",
-          "score": 96
-        },
-        {
-          "keyword": "tj oshie",
-          "score": 95
-        },
-        {
-          "keyword": "richie saunders",
-          "score": 94
-        },
-        {
-          "keyword": "nc state basketball",
-          "score": 93
-        },
-        {
-          "keyword": "vincent trocheck",
-          "score": 92
-        },
-        {
-          "keyword": "lsu baseball score",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-14T22:47:22.037Z",
       "geo": "US",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "serie a",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-18T22:22:52.463Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "arsenal standings",
+          "score": 100
+        },
+        {
+          "keyword": "iftar time 2026",
+          "score": 99
+        },
+        {
+          "keyword": "iowa alpha delta phi",
+          "score": 98
+        },
+        {
+          "keyword": "sabonis",
+          "score": 97
+        },
+        {
+          "keyword": "dash stock",
+          "score": 96
+        },
+        {
+          "keyword": "dylan larkin",
+          "score": 95
+        },
+        {
+          "keyword": "jack hughes",
+          "score": 94
+        },
+        {
+          "keyword": "peter greene",
+          "score": 93
+        },
+        {
+          "keyword": "cvna stock",
+          "score": 92
+        },
+        {
+          "keyword": "figma stock",
           "score": 91
         }
       ]
