@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-14T20:47:26.231Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ゴルフ",
-          "score": 100
-        },
-        {
-          "keyword": "real madrid vs real sociedad",
-          "score": 99
-        },
-        {
-          "keyword": "roblox",
-          "score": 98
-        },
-        {
-          "keyword": "アヤックス",
-          "score": 97
-        },
-        {
-          "keyword": "スロベニア",
-          "score": 96
-        },
-        {
-          "keyword": "nhk オリンピック",
-          "score": 95
-        },
-        {
-          "keyword": "al fateh vs al-nassr",
-          "score": 94
-        },
-        {
-          "keyword": "ラツィオ 対 アタランタ",
-          "score": 93
-        },
-        {
-          "keyword": "リヴァプール 対 ブライトン",
-          "score": 92
-        },
-        {
-          "keyword": "インテル 対 ユヴェントス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-14T21:15:04.755Z",
       "geo": "JP",
       "source": "google",
@@ -5168,6 +5121,53 @@
         },
         {
           "keyword": "エプスタインとは",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-18T21:03:58.026Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "石井杏奈",
+          "score": 100
+        },
+        {
+          "keyword": "橋本愛",
+          "score": 99
+        },
+        {
+          "keyword": "アーセナル",
+          "score": 98
+        },
+        {
+          "keyword": "キンプリ",
+          "score": 97
+        },
+        {
+          "keyword": "中央バス",
+          "score": 96
+        },
+        {
+          "keyword": "吉田知那美",
+          "score": 95
+        },
+        {
+          "keyword": "ロコソラーレ",
+          "score": 94
+        },
+        {
+          "keyword": "加藤あい",
+          "score": 93
+        },
+        {
+          "keyword": "ボデ/グリムト 対 インテル",
+          "score": 92
+        },
+        {
+          "keyword": "jr北海道",
           "score": 91
         }
       ]
