@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-14T03:39:39.807Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kdf",
-          "score": 100
-        },
-        {
-          "keyword": "紀文",
-          "score": 99
-        },
-        {
-          "keyword": "宝くじ 当選番号 ロト7",
-          "score": 98
-        },
-        {
-          "keyword": "若本豊嗣",
-          "score": 97
-        },
-        {
-          "keyword": "the alfee",
-          "score": 96
-        },
-        {
-          "keyword": "にじさんじ",
-          "score": 95
-        },
-        {
-          "keyword": "下川恭平",
-          "score": 94
-        },
-        {
-          "keyword": "原田雅彦",
-          "score": 93
-        },
-        {
-          "keyword": "キムタク",
-          "score": 92
-        },
-        {
-          "keyword": "藤本美貴",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-14T05:04:19.549Z",
       "geo": "JP",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "ユニチカ 株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-18T03:57:11.901Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ダイタク",
+          "score": 100
+        },
+        {
+          "keyword": "俺たちの箱根駅伝",
+          "score": 99
+        },
+        {
+          "keyword": "スタバ 新作",
+          "score": 98
+        },
+        {
+          "keyword": "アンバー・グレン",
+          "score": 97
+        },
+        {
+          "keyword": "深田竜生",
+          "score": 96
+        },
+        {
+          "keyword": "旭ダイヤモンド",
+          "score": 95
+        },
+        {
+          "keyword": "トミーリージョーンズ",
+          "score": 94
+        },
+        {
+          "keyword": "ブロック崩し",
+          "score": 93
+        },
+        {
+          "keyword": "imf",
+          "score": 92
+        },
+        {
+          "keyword": "所得税",
           "score": 91
         }
       ]
