@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-14T19:42:28.996Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "st john's basketball",
-          "score": 100
-        },
-        {
-          "keyword": "gio ruggiero",
-          "score": 99
-        },
-        {
-          "keyword": "tabitha stoecker",
-          "score": 98
-        },
-        {
-          "keyword": "smu vs syracuse",
-          "score": 97
-        },
-        {
-          "keyword": "sam burns",
-          "score": 96
-        },
-        {
-          "keyword": "real madrid - real sociedad",
-          "score": 95
-        },
-        {
-          "keyword": "liverpool vs brighton",
-          "score": 94
-        },
-        {
-          "keyword": "austin weather",
-          "score": 93
-        },
-        {
-          "keyword": "felix auger aliassime",
-          "score": 92
-        },
-        {
-          "keyword": "usa mens hockey today",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-02-14T20:15:02.983Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "eileen gu",
-          "score": 100
-        },
-        {
-          "keyword": "mike sullivan",
-          "score": 99
-        },
-        {
-          "keyword": "kentucky vs florida",
-          "score": 98
-        },
-        {
-          "keyword": "usa hockey schedule",
-          "score": 97
-        },
-        {
-          "keyword": "villanova basketball",
-          "score": 96
-        },
-        {
-          "keyword": "nicole kidman",
-          "score": 95
-        },
-        {
-          "keyword": "janine flock",
-          "score": 94
-        },
-        {
-          "keyword": "akshay bhatia",
-          "score": 93
-        },
-        {
-          "keyword": "jimmy lai",
-          "score": 92
-        },
-        {
-          "keyword": "milan momcilovic",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-14T20:47:23.588Z",
       "geo": "US",
       "source": "google",
@@ -5215,6 +5121,53 @@
         },
         {
           "keyword": "alexandra eala",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-18T20:28:07.954Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mike sullivan",
+          "score": 100
+        },
+        {
+          "keyword": "minkah fitzpatrick",
+          "score": 99
+        },
+        {
+          "keyword": "ac milan",
+          "score": 98
+        },
+        {
+          "keyword": "olympiacos vs leverkusen",
+          "score": 97
+        },
+        {
+          "keyword": "club brujas - atlético madrid",
+          "score": 96
+        },
+        {
+          "keyword": "club brugge vs atlético madrid",
+          "score": 95
+        },
+        {
+          "keyword": "bodø/glimt vs inter",
+          "score": 94
+        },
+        {
+          "keyword": "milan vs como",
+          "score": 93
+        },
+        {
+          "keyword": "diego garcia",
+          "score": 92
+        },
+        {
+          "keyword": "kaila kuhn",
           "score": 91
         }
       ]
