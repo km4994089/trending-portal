@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-15T20:47:40.934Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "justin allgaier",
-          "score": 100
-        },
-        {
-          "keyword": "bradley basketball",
-          "score": 99
-        },
-        {
-          "keyword": "johnny gaudreau",
-          "score": 98
-        },
-        {
-          "keyword": "leon draisaitl",
-          "score": 97
-        },
-        {
-          "keyword": "jack hughes",
-          "score": 96
-        },
-        {
-          "keyword": "collin morikawa",
-          "score": 95
-        },
-        {
-          "keyword": "south florida basketball",
-          "score": 94
-        },
-        {
-          "keyword": "iona basketball",
-          "score": 93
-        },
-        {
-          "keyword": "usa hockey schedule",
-          "score": 92
-        },
-        {
-          "keyword": "cruz azul vs tigres uanl",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-15T21:15:14.504Z",
       "geo": "US",
       "source": "google",
@@ -4557,6 +4510,53 @@
         },
         {
           "keyword": "rou country",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-19T20:55:26.432Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "usa hockey",
+          "score": 100
+        },
+        {
+          "keyword": "laila edwards",
+          "score": 99
+        },
+        {
+          "keyword": "anna pigeon",
+          "score": 98
+        },
+        {
+          "keyword": "lille fc",
+          "score": 97
+        },
+        {
+          "keyword": "olympic hockey overtime rules",
+          "score": 96
+        },
+        {
+          "keyword": "usa",
+          "score": 95
+        },
+        {
+          "keyword": "amber glenn",
+          "score": 94
+        },
+        {
+          "keyword": "jakub mensik",
+          "score": 93
+        },
+        {
+          "keyword": "cassie sharpe",
+          "score": 92
+        },
+        {
+          "keyword": "jagiellonia białystok vs fiorentina",
           "score": 91
         }
       ]
