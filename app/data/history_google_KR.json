@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-15T03:59:10.208Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "정시아",
-          "score": 100
-        },
-        {
-          "keyword": "seedance",
-          "score": 99
-        },
-        {
-          "keyword": "아이유",
-          "score": 98
-        },
-        {
-          "keyword": "설날",
-          "score": 97
-        },
-        {
-          "keyword": "inter vs juventus",
-          "score": 96
-        },
-        {
-          "keyword": "동계올림픽 메달 순위",
-          "score": 95
-        },
-        {
-          "keyword": "단지누",
-          "score": 94
-        },
-        {
-          "keyword": "зимние олимпийские игры 2026 года – горнолыжный спорт",
-          "score": 93
-        },
-        {
-          "keyword": "реал мадрид – реал сосьедад",
-          "score": 92
-        },
-        {
-          "keyword": "real madrid đấu với real sociedad",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-15T05:19:18.254Z",
       "geo": "KR",
       "source": "google",
@@ -5168,6 +5121,53 @@
         },
         {
           "keyword": "삼성전자 주가",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-19T05:18:58.122Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "조현아",
+          "score": 100
+        },
+        {
+          "keyword": "네이버페이",
+          "score": 99
+        },
+        {
+          "keyword": "이상",
+          "score": 98
+        },
+        {
+          "keyword": "한화솔루션",
+          "score": 97
+        },
+        {
+          "keyword": "한전",
+          "score": 96
+        },
+        {
+          "keyword": "장학재단",
+          "score": 95
+        },
+        {
+          "keyword": "한화오션 주가",
+          "score": 94
+        },
+        {
+          "keyword": "농협은행",
+          "score": 93
+        },
+        {
+          "keyword": "미래에셋증권 주가",
+          "score": 92
+        },
+        {
+          "keyword": "이스타항공",
           "score": 91
         }
       ]
