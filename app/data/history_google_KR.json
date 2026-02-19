@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-15T01:16:35.600Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "설날",
-          "score": 100
-        },
-        {
-          "keyword": "inter vs juventus",
-          "score": 99
-        },
-        {
-          "keyword": "동계올림픽 메달 순위",
-          "score": 98
-        },
-        {
-          "keyword": "реал мадрид – реал сосьедад",
-          "score": 97
-        },
-        {
-          "keyword": "real madrid đấu với real sociedad",
-          "score": 96
-        },
-        {
-          "keyword": "al fateh vs al-nassr",
-          "score": 95
-        },
-        {
-          "keyword": "liverpool vs brighton",
-          "score": 94
-        },
-        {
-          "keyword": "고속도로 교통상황",
-          "score": 93
-        },
-        {
-          "keyword": "심석희",
-          "score": 92
-        },
-        {
-          "keyword": "테일러 프리츠",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-15T03:59:10.208Z",
       "geo": "KR",
       "source": "google",
@@ -5168,6 +5121,53 @@
         },
         {
           "keyword": "미래에셋증권",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-19T03:56:46.010Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "한화솔루션",
+          "score": 100
+        },
+        {
+          "keyword": "한전",
+          "score": 99
+        },
+        {
+          "keyword": "장학재단",
+          "score": 98
+        },
+        {
+          "keyword": "한화오션 주가",
+          "score": 97
+        },
+        {
+          "keyword": "농협은행",
+          "score": 96
+        },
+        {
+          "keyword": "미래에셋증권 주가",
+          "score": 95
+        },
+        {
+          "keyword": "이스타항공",
+          "score": 94
+        },
+        {
+          "keyword": "삼성중공업 주가",
+          "score": 93
+        },
+        {
+          "keyword": "예비군",
+          "score": 92
+        },
+        {
+          "keyword": "삼성전자 주가",
           "score": 91
         }
       ]
