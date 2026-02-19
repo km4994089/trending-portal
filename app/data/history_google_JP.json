@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-15T22:48:36.212Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nba オールスター",
-          "score": 100
-        },
-        {
-          "keyword": "遠野",
-          "score": 99
-        },
-        {
-          "keyword": "西鉄電車",
-          "score": 98
-        },
-        {
-          "keyword": "寺田心",
-          "score": 97
-        },
-        {
-          "keyword": "アトレティコ・マドリード",
-          "score": 96
-        },
-        {
-          "keyword": "早稲田大学",
-          "score": 95
-        },
-        {
-          "keyword": "トモハッピー 遊楽舎",
-          "score": 94
-        },
-        {
-          "keyword": "自衛隊 最高指揮官",
-          "score": 93
-        },
-        {
-          "keyword": "今日の天気",
-          "score": 92
-        },
-        {
-          "keyword": "花粉情報",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-15T23:16:44.166Z",
       "geo": "JP",
       "source": "google",
@@ -4557,6 +4510,53 @@
         },
         {
           "keyword": "中島健人",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-19T22:56:51.844Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "フィギュアスケート エキシビション",
+          "score": 100
+        },
+        {
+          "keyword": "田中麗奈",
+          "score": 99
+        },
+        {
+          "keyword": "ロシア",
+          "score": 98
+        },
+        {
+          "keyword": "宮尾登美子",
+          "score": 97
+        },
+        {
+          "keyword": "メダルランキング",
+          "score": 96
+        },
+        {
+          "keyword": "河津桜",
+          "score": 95
+        },
+        {
+          "keyword": "アライグマ",
+          "score": 94
+        },
+        {
+          "keyword": "後藤啓介",
+          "score": 93
+        },
+        {
+          "keyword": "樋口新葉",
+          "score": 92
+        },
+        {
+          "keyword": "安藤美姫",
           "score": 91
         }
       ]
