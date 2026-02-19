@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-15T22:14:04.966Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "自衛隊 最高指揮官",
-          "score": 100
-        },
-        {
-          "keyword": "今日の天気",
-          "score": 99
-        },
-        {
-          "keyword": "花粉",
-          "score": 98
-        },
-        {
-          "keyword": "今井春花",
-          "score": 97
-        },
-        {
-          "keyword": "オリンピック メダルランキング",
-          "score": 96
-        },
-        {
-          "keyword": "新潟 天気",
-          "score": 95
-        },
-        {
-          "keyword": "天気",
-          "score": 94
-        },
-        {
-          "keyword": "weather",
-          "score": 93
-        },
-        {
-          "keyword": "伊達さゆり",
-          "score": 92
-        },
-        {
-          "keyword": "札幌天気",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-15T22:48:36.212Z",
       "geo": "JP",
       "source": "google",
@@ -4557,6 +4510,53 @@
         },
         {
           "keyword": "ain",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-19T22:21:23.635Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "冬季オリンピック メダル",
+          "score": 100
+        },
+        {
+          "keyword": "中井亜美 高校 どこ",
+          "score": 99
+        },
+        {
+          "keyword": "ザキトワ",
+          "score": 98
+        },
+        {
+          "keyword": "オリンピックメダル",
+          "score": 97
+        },
+        {
+          "keyword": "mlb",
+          "score": 96
+        },
+        {
+          "keyword": "メダル 数 ランキング",
+          "score": 95
+        },
+        {
+          "keyword": "ニュース速報",
+          "score": 94
+        },
+        {
+          "keyword": "nhkニュース",
+          "score": 93
+        },
+        {
+          "keyword": "トリプルアクセル 女子",
+          "score": 92
+        },
+        {
+          "keyword": "中島健人",
           "score": 91
         }
       ]
