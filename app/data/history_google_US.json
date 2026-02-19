@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-15T17:48:31.550Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "greg biffle",
-          "score": 100
-        },
-        {
-          "keyword": "indiana vs illinois",
-          "score": 99
-        },
-        {
-          "keyword": "angela vergara",
-          "score": 98
-        },
-        {
-          "keyword": "sara bejlek",
-          "score": 97
-        },
-        {
-          "keyword": "connor zilisch",
-          "score": 96
-        },
-        {
-          "keyword": "brad keselowski",
-          "score": 95
-        },
-        {
-          "keyword": "macklin celebrini",
-          "score": 94
-        },
-        {
-          "keyword": "levante - valencia c. f.",
-          "score": 93
-        },
-        {
-          "keyword": "levante vs valencia",
-          "score": 92
-        },
-        {
-          "keyword": "netherlands",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-15T18:21:53.458Z",
       "geo": "US",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "savannah chrisley",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-19T18:10:01.697Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "alcaraz",
+          "score": 100
+        },
+        {
+          "keyword": "carlos alcaraz",
+          "score": 99
+        },
+        {
+          "keyword": "wrongful death lawyer",
+          "score": 98
+        },
+        {
+          "keyword": "elina svitolina",
+          "score": 97
+        },
+        {
+          "keyword": "national margarita day",
+          "score": 96
+        },
+        {
+          "keyword": "fenerbahçe - nottingham forest",
+          "score": 95
+        },
+        {
+          "keyword": "paok vs celta vigo",
+          "score": 94
+        },
+        {
+          "keyword": "winter storm warning",
+          "score": 93
+        },
+        {
+          "keyword": "womens hockey usa",
+          "score": 92
+        },
+        {
+          "keyword": "flood watch",
           "score": 91
         }
       ]
