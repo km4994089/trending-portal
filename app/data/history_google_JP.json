@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-15T23:16:44.166Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "倉悠貴",
-          "score": 100
-        },
-        {
-          "keyword": "伊藤みき",
-          "score": 99
-        },
-        {
-          "keyword": "ロッテリア",
-          "score": 98
-        },
-        {
-          "keyword": "春節",
-          "score": 97
-        },
-        {
-          "keyword": "エアウォーター",
-          "score": 96
-        },
-        {
-          "keyword": "東京マラソン",
-          "score": 95
-        },
-        {
-          "keyword": "大阪マラソン",
-          "score": 94
-        },
-        {
-          "keyword": "キッザニア",
-          "score": 93
-        },
-        {
-          "keyword": "コージーコーナー",
-          "score": 92
-        },
-        {
-          "keyword": "ベルギー・プロ・リーグ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-15T23:47:15.360Z",
       "geo": "JP",
       "source": "google",
@@ -4557,6 +4510,53 @@
         },
         {
           "keyword": "安藤美姫",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-19T23:24:30.902Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "上谷沙弥",
+          "score": 100
+        },
+        {
+          "keyword": "大阪マラソン",
+          "score": 99
+        },
+        {
+          "keyword": "田村淳",
+          "score": 98
+        },
+        {
+          "keyword": "倉木麻衣",
+          "score": 97
+        },
+        {
+          "keyword": "his",
+          "score": 96
+        },
+        {
+          "keyword": "賀来賢人",
+          "score": 95
+        },
+        {
+          "keyword": "日本アカデミー賞",
+          "score": 94
+        },
+        {
+          "keyword": "ハナマサ",
+          "score": 93
+        },
+        {
+          "keyword": "eileen gu",
+          "score": 92
+        },
+        {
+          "keyword": "田中麗奈",
           "score": 91
         }
       ]
