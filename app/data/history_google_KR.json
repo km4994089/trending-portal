@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-16T08:35:04.001Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "게임",
-          "score": 100
-        },
-        {
-          "keyword": "kbl",
-          "score": 99
-        },
-        {
-          "keyword": "넷플릭스",
-          "score": 98
-        },
-        {
-          "keyword": "홍주",
-          "score": 97
-        },
-        {
-          "keyword": "지예은",
-          "score": 96
-        },
-        {
-          "keyword": "uae vs afghanistan",
-          "score": 95
-        },
-        {
-          "keyword": "신세경",
-          "score": 94
-        },
-        {
-          "keyword": "세뱃돈",
-          "score": 93
-        },
-        {
-          "keyword": "레이",
-          "score": 92
-        },
-        {
-          "keyword": "창원 lg 대 고양 소노",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-16T09:41:47.204Z",
       "geo": "KR",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "블랙록",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-20T09:03:04.426Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "에릭 데인",
+          "score": 100
+        },
+        {
+          "keyword": "한화오션",
+          "score": 99
+        },
+        {
+          "keyword": "양우현",
+          "score": 98
+        },
+        {
+          "keyword": "노경은",
+          "score": 97
+        },
+        {
+          "keyword": "동아대학교",
+          "score": 96
+        },
+        {
+          "keyword": "동아대",
+          "score": 95
+        },
+        {
+          "keyword": "메가박스",
+          "score": 94
+        },
+        {
+          "keyword": "김동완",
+          "score": 93
+        },
+        {
+          "keyword": "최불암",
+          "score": 92
+        },
+        {
+          "keyword": "fc온라인",
           "score": 91
         }
       ]
