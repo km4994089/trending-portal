@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-16T22:17:54.356Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "フィギュアスケート 解説者",
-          "score": 100
-        },
-        {
-          "keyword": "fis",
-          "score": 99
-        },
-        {
-          "keyword": "オリンピック ライブ配信",
-          "score": 98
-        },
-        {
-          "keyword": "稲川くるみ",
-          "score": 97
-        },
-        {
-          "keyword": "車掌スイッチ",
-          "score": 96
-        },
-        {
-          "keyword": "날씨",
-          "score": 95
-        },
-        {
-          "keyword": "nhkone",
-          "score": 94
-        },
-        {
-          "keyword": "堂本光一",
-          "score": 93
-        },
-        {
-          "keyword": "オリンピック",
-          "score": 92
-        },
-        {
-          "keyword": "ジョージア",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-16T22:53:32.196Z",
       "geo": "JP",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "黄砂情報",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-20T22:50:47.115Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "生田斗真",
+          "score": 100
+        },
+        {
+          "keyword": "なか卯",
+          "score": 99
+        },
+        {
+          "keyword": "足立梨花",
+          "score": 98
+        },
+        {
+          "keyword": "常陸太田市 火事",
+          "score": 97
+        },
+        {
+          "keyword": "新生丸 貨物船",
+          "score": 96
+        },
+        {
+          "keyword": "トミカ",
+          "score": 95
+        },
+        {
+          "keyword": "wbc 放送",
+          "score": 94
+        },
+        {
+          "keyword": "ラヴィット 田村淳",
+          "score": 93
+        },
+        {
+          "keyword": "上谷沙弥",
+          "score": 92
+        },
+        {
+          "keyword": "多摩動物公園",
           "score": 91
         }
       ]
