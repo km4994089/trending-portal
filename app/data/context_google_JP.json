@@ -1,8 +1,12 @@
 {
-  "capturedAt": "2026-02-20T18:50:45.958Z",
+  "capturedAt": "2026-02-20T19:30:48.246Z",
   "geo": "JP",
   "source": "google",
   "items": [
+    {
+      "keyword": "mlb",
+      "articles": []
+    },
     {
       "keyword": "nhl",
       "articles": []
@@ -32,15 +36,11 @@
       "articles": []
     },
     {
-      "keyword": "オランダ",
-      "articles": []
-    },
-    {
-      "keyword": "ned",
-      "articles": []
-    },
-    {
       "keyword": "oman vs australia",
+      "articles": []
+    },
+    {
+      "keyword": "オランダ",
       "articles": []
     }
   ]

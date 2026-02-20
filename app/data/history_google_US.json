@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-16T19:10:46.147Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "consigliere",
-          "score": 100
-        },
-        {
-          "keyword": "tommy lee jones",
-          "score": 99
-        },
-        {
-          "keyword": "macclesfield vs brentford",
-          "score": 98
-        },
-        {
-          "keyword": "al pacino",
-          "score": 97
-        },
-        {
-          "keyword": "duval",
-          "score": 96
-        },
-        {
-          "keyword": "east texas a&m basketball",
-          "score": 95
-        },
-        {
-          "keyword": "kurt van dyke",
-          "score": 94
-        },
-        {
-          "keyword": "solar eclipse 2026",
-          "score": 93
-        },
-        {
-          "keyword": "daniil medvedev",
-          "score": 92
-        },
-        {
-          "keyword": "flash flood warning",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-16T19:50:04.665Z",
       "geo": "US",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "connor mcdavid",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-20T19:30:45.747Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "athletic - elche c. f.",
+          "score": 100
+        },
+        {
+          "keyword": "fetty wap",
+          "score": 99
+        },
+        {
+          "keyword": "gus kenworthy",
+          "score": 98
+        },
+        {
+          "keyword": "john irving",
+          "score": 97
+        },
+        {
+          "keyword": "brest vs marseille",
+          "score": 96
+        },
+        {
+          "keyword": "nick goepper",
+          "score": 95
+        },
+        {
+          "keyword": "qatar open",
+          "score": 94
+        },
+        {
+          "keyword": "workday",
+          "score": 93
+        },
+        {
+          "keyword": "orioles",
+          "score": 92
+        },
+        {
+          "keyword": "red sox",
           "score": 91
         }
       ]
