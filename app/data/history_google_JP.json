@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-16T21:19:50.240Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "フィギュアスケート",
-          "score": 100
-        },
-        {
-          "keyword": "名鉄",
-          "score": 99
-        },
-        {
-          "keyword": "ラ・リーガ",
-          "score": 98
-        },
-        {
-          "keyword": "ロバート・デュバル",
-          "score": 97
-        },
-        {
-          "keyword": "nhk one",
-          "score": 96
-        },
-        {
-          "keyword": "nhk オリンピック",
-          "score": 95
-        },
-        {
-          "keyword": "スケート",
-          "score": 94
-        },
-        {
-          "keyword": "スポーツナビ",
-          "score": 93
-        },
-        {
-          "keyword": "広瀬アリス",
-          "score": 92
-        },
-        {
-          "keyword": "パシュートとは",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-16T21:50:17.519Z",
       "geo": "JP",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "nhl",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-20T21:46:44.859Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "高速道路 渋滞",
+          "score": 100
+        },
+        {
+          "keyword": "カルロス・アルカラス",
+          "score": 99
+        },
+        {
+          "keyword": "黄砂情報",
+          "score": 98
+        },
+        {
+          "keyword": "矢上 雅義",
+          "score": 97
+        },
+        {
+          "keyword": "スキーハーフパイプオリンピック",
+          "score": 96
+        },
+        {
+          "keyword": "宮澤エマ",
+          "score": 95
+        },
+        {
+          "keyword": "ドジャース",
+          "score": 94
+        },
+        {
+          "keyword": "instagram",
+          "score": 93
+        },
+        {
+          "keyword": "長森遥南",
+          "score": 92
+        },
+        {
+          "keyword": "niat puasa ramadhan",
           "score": 91
         }
       ]

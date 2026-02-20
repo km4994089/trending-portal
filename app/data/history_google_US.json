@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-16T21:19:47.573Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "laura nolte",
-          "score": 100
-        },
-        {
-          "keyword": "jordan love",
-          "score": 99
-        },
-        {
-          "keyword": "canada women's hockey",
-          "score": 98
-        },
-        {
-          "keyword": "coppin state basketball",
-          "score": 97
-        },
-        {
-          "keyword": "megan oldham",
-          "score": 96
-        },
-        {
-          "keyword": "ronnie hickman",
-          "score": 95
-        },
-        {
-          "keyword": "wpri",
-          "score": 94
-        },
-        {
-          "keyword": "spencer howe",
-          "score": 93
-        },
-        {
-          "keyword": "coventry vs middlesbrough",
-          "score": 92
-        },
-        {
-          "keyword": "pawtucket",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-16T21:50:14.972Z",
       "geo": "US",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "juraj slafkovsky",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-20T21:46:42.264Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "auston matthews",
+          "score": 100
+        },
+        {
+          "keyword": "wayne gretzky",
+          "score": 99
+        },
+        {
+          "keyword": "tomas tatar",
+          "score": 98
+        },
+        {
+          "keyword": "kamila sellier",
+          "score": 97
+        },
+        {
+          "keyword": "charlie mcavoy",
+          "score": 96
+        },
+        {
+          "keyword": "lindsay clancy",
+          "score": 95
+        },
+        {
+          "keyword": "sam antonacci",
+          "score": 94
+        },
+        {
+          "keyword": "logan wilson",
+          "score": 93
+        },
+        {
+          "keyword": "tj oshie",
+          "score": 92
+        },
+        {
+          "keyword": "casper ruud",
           "score": 91
         }
       ]
