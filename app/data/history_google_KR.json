@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-16T06:52:28.531Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "세뱃돈",
-          "score": 100
-        },
-        {
-          "keyword": "레이",
-          "score": 99
-        },
-        {
-          "keyword": "김병현",
-          "score": 98
-        },
-        {
-          "keyword": "세배",
-          "score": 97
-        },
-        {
-          "keyword": "이준혁",
-          "score": 96
-        },
-        {
-          "keyword": "박보검",
-          "score": 95
-        },
-        {
-          "keyword": "류시원",
-          "score": 94
-        },
-        {
-          "keyword": "장동혁",
-          "score": 93
-        },
-        {
-          "keyword": "설 인사",
-          "score": 92
-        },
-        {
-          "keyword": "국립중앙박물관",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-16T07:44:56.514Z",
       "geo": "KR",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "복지로",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-20T07:28:26.557Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "한화오션",
+          "score": 100
+        },
+        {
+          "keyword": "양우현",
+          "score": 99
+        },
+        {
+          "keyword": "노경은",
+          "score": 98
+        },
+        {
+          "keyword": "동아대학교",
+          "score": 97
+        },
+        {
+          "keyword": "동아대",
+          "score": 96
+        },
+        {
+          "keyword": "메가박스",
+          "score": 95
+        },
+        {
+          "keyword": "김동완",
+          "score": 94
+        },
+        {
+          "keyword": "최불암",
+          "score": 93
+        },
+        {
+          "keyword": "fc온라인",
+          "score": 92
+        },
+        {
+          "keyword": "블랙록",
           "score": 91
         }
       ]
