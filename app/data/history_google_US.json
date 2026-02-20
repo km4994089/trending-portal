@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-16T09:41:45.930Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dense fog advisory",
-          "score": 100
-        },
-        {
-          "keyword": "clara tauson",
-          "score": 99
-        },
-        {
-          "keyword": "politics",
-          "score": 98
-        },
-        {
-          "keyword": "emma raducanu",
-          "score": 97
-        },
-        {
-          "keyword": "munich airport flights",
-          "score": 96
-        },
-        {
-          "keyword": "varvara gracheva",
-          "score": 95
-        },
-        {
-          "keyword": "frankfurt airport flights",
-          "score": 94
-        },
-        {
-          "keyword": "emma navarro",
-          "score": 93
-        },
-        {
-          "keyword": "spectrum outage",
-          "score": 92
-        },
-        {
-          "keyword": "industry",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-16T10:39:52.757Z",
       "geo": "US",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "victoria justice",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-20T10:01:26.889Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "brisbane bullets",
+          "score": 100
+        },
+        {
+          "keyword": "politics",
+          "score": 99
+        },
+        {
+          "keyword": "jes staley",
+          "score": 98
+        },
+        {
+          "keyword": "ice immigration",
+          "score": 97
+        },
+        {
+          "keyword": "2026 年冬奥会冰上曲棍球",
+          "score": 96
+        },
+        {
+          "keyword": "new movie",
+          "score": 95
+        },
+        {
+          "keyword": "asos",
+          "score": 94
+        },
+        {
+          "keyword": "del taco",
+          "score": 93
+        },
+        {
+          "keyword": "pokemon day",
+          "score": 92
+        },
+        {
+          "keyword": "gta 6 release date",
           "score": 91
         }
       ]
