@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-16T12:38:37.262Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "hanne desmet",
-          "score": 100
-        },
-        {
-          "keyword": "이정민 쇼트트랙",
-          "score": 99
-        },
-        {
-          "keyword": "박지원",
-          "score": 98
-        },
-        {
-          "keyword": "kbs",
-          "score": 97
-        },
-        {
-          "keyword": "동계올림픽 메달 순위",
-          "score": 96
-        },
-        {
-          "keyword": "산다라박",
-          "score": 95
-        },
-        {
-          "keyword": "남보라",
-          "score": 94
-        },
-        {
-          "keyword": "브랜던 킴",
-          "score": 93
-        },
-        {
-          "keyword": "미쓰홍",
-          "score": 92
-        },
-        {
-          "keyword": "린샤오쥔",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-16T13:59:12.174Z",
       "geo": "KR",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "노경은",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-20T13:53:43.995Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "남보라",
+          "score": 100
+        },
+        {
+          "keyword": "이승훈",
+          "score": 99
+        },
+        {
+          "keyword": "파반느",
+          "score": 98
+        },
+        {
+          "keyword": "태극기",
+          "score": 97
+        },
+        {
+          "keyword": "서강대",
+          "score": 96
+        },
+        {
+          "keyword": "패트릭 쇠더룬드",
+          "score": 95
+        },
+        {
+          "keyword": "조보아",
+          "score": 94
+        },
+        {
+          "keyword": "에릭 데인",
+          "score": 93
+        },
+        {
+          "keyword": "한화오션",
+          "score": 92
+        },
+        {
+          "keyword": "양우현",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-16T12:38:36.036Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "irs tax refund",
-          "score": 100
-        },
-        {
-          "keyword": "george washington",
-          "score": 99
-        },
-        {
-          "keyword": "amber ruffin",
-          "score": 98
-        },
-        {
-          "keyword": "stephanie pratt",
-          "score": 97
-        },
-        {
-          "keyword": "doe",
-          "score": 96
-        },
-        {
-          "keyword": "dubai open",
-          "score": 95
-        },
-        {
-          "keyword": "riot",
-          "score": 94
-        },
-        {
-          "keyword": "flight",
-          "score": 93
-        },
-        {
-          "keyword": "xandra velzeboer",
-          "score": 92
-        },
-        {
-          "keyword": "courtney sarault",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-16T13:59:10.581Z",
       "geo": "US",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "perth wildcats",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-20T13:53:42.672Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "hilary duff",
+          "score": 100
+        },
+        {
+          "keyword": "pce report",
+          "score": 99
+        },
+        {
+          "keyword": "gdp",
+          "score": 98
+        },
+        {
+          "keyword": "haley winn",
+          "score": 97
+        },
+        {
+          "keyword": "yankees",
+          "score": 96
+        },
+        {
+          "keyword": "aus vs oma",
+          "score": 95
+        },
+        {
+          "keyword": "conduent",
+          "score": 94
+        },
+        {
+          "keyword": "aj brown",
+          "score": 93
+        },
+        {
+          "keyword": "noaa weather",
+          "score": 92
+        },
+        {
+          "keyword": "today's weather",
           "score": 91
         }
       ]
