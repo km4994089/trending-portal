@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-16T04:00:12.579Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sofia goggia",
-          "score": 100
-        },
-        {
-          "keyword": "luka berulava",
-          "score": 99
-        },
-        {
-          "keyword": "industry season 4",
-          "score": 98
-        },
-        {
-          "keyword": "dolomites",
-          "score": 97
-        },
-        {
-          "keyword": "stake",
-          "score": 96
-        },
-        {
-          "keyword": "curling rules",
-          "score": 95
-        },
-        {
-          "keyword": "ryan gosling",
-          "score": 94
-        },
-        {
-          "keyword": "paula moltzan",
-          "score": 93
-        },
-        {
-          "keyword": "barkley marathon",
-          "score": 92
-        },
-        {
-          "keyword": "albania",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-16T05:37:58.389Z",
       "geo": "US",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "tmz",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-20T05:11:46.521Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nasa spacex rocket launch",
+          "score": 100
+        },
+        {
+          "keyword": "jokic",
+          "score": 99
+        },
+        {
+          "keyword": "gable steveson",
+          "score": 98
+        },
+        {
+          "keyword": "rafael olarra",
+          "score": 97
+        },
+        {
+          "keyword": "obama aliens",
+          "score": 96
+        },
+        {
+          "keyword": "bennedict mathurin",
+          "score": 95
+        },
+        {
+          "keyword": "tulane basketball",
+          "score": 94
+        },
+        {
+          "keyword": "warriors",
+          "score": 93
+        },
+        {
+          "keyword": "baby keem",
+          "score": 92
+        },
+        {
+          "keyword": "payton pritchard",
           "score": 91
         }
       ]
