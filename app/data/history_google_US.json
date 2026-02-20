@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-16T11:33:10.318Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "春晚",
-          "score": 100
-        },
-        {
-          "keyword": "leylah fernandez",
-          "score": 99
-        },
-        {
-          "keyword": "belinda bencic",
-          "score": 98
-        },
-        {
-          "keyword": "alaska airlines",
-          "score": 97
-        },
-        {
-          "keyword": "daria kasatkina",
-          "score": 96
-        },
-        {
-          "keyword": "sorana cirstea",
-          "score": 95
-        },
-        {
-          "keyword": "new show to watch",
-          "score": 94
-        },
-        {
-          "keyword": "victoria mboko",
-          "score": 93
-        },
-        {
-          "keyword": "england vs italy",
-          "score": 92
-        },
-        {
-          "keyword": "aliaksandra sasnovich",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-16T12:38:36.036Z",
       "geo": "US",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "ice immigration",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-20T11:50:29.792Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "wmur weather",
+          "score": 100
+        },
+        {
+          "keyword": "boston weather",
+          "score": 99
+        },
+        {
+          "keyword": "virginia giuffre death",
+          "score": 98
+        },
+        {
+          "keyword": "perth wildcats",
+          "score": 97
+        },
+        {
+          "keyword": "school closings ct",
+          "score": 96
+        },
+        {
+          "keyword": "where my refund",
+          "score": 95
+        },
+        {
+          "keyword": "kcci",
+          "score": 94
+        },
+        {
+          "keyword": "prayer time",
+          "score": 93
+        },
+        {
+          "keyword": "fajr",
+          "score": 92
+        },
+        {
+          "keyword": "sehri time today",
           "score": 91
         }
       ]
