@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-16T15:32:39.641Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lunar new year",
-          "score": 100
-        },
-        {
-          "keyword": "táo quân 2026",
-          "score": 99
-        },
-        {
-          "keyword": "香港エクスプレス",
-          "score": 98
-        },
-        {
-          "keyword": "pfas",
-          "score": 97
-        },
-        {
-          "keyword": "王菲",
-          "score": 96
-        },
-        {
-          "keyword": "本田武史",
-          "score": 95
-        },
-        {
-          "keyword": "宇佐美 貴史",
-          "score": 94
-        },
-        {
-          "keyword": "アンドロメダ銀河",
-          "score": 93
-        },
-        {
-          "keyword": "エプスタインファイル公開",
-          "score": 92
-        },
-        {
-          "keyword": "ゴマキ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-16T16:32:01.078Z",
       "geo": "JP",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "超かぐや姫 映画",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-20T16:01:41.066Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "2026 年冬奥会自由式滑雪",
+          "score": 100
+        },
+        {
+          "keyword": "cnn",
+          "score": 99
+        },
+        {
+          "keyword": "スピードスケート",
+          "score": 98
+        },
+        {
+          "keyword": "マススタート",
+          "score": 97
+        },
+        {
+          "keyword": "femke kok",
+          "score": 96
+        },
+        {
+          "keyword": "佐久間大介",
+          "score": 95
+        },
+        {
+          "keyword": "mr.children",
+          "score": 94
+        },
+        {
+          "keyword": "トランプ関税",
+          "score": 93
+        },
+        {
+          "keyword": "2026 winter olympics freestyle skiing",
+          "score": 92
+        },
+        {
+          "keyword": "トランプ大統領",
           "score": 91
         }
       ]

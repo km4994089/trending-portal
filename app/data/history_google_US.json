@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-16T15:32:36.874Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "arthur fils",
-          "score": 100
-        },
-        {
-          "keyword": "salvation army",
-          "score": 99
-        },
-        {
-          "keyword": "iowa vs nebraska",
-          "score": 98
-        },
-        {
-          "keyword": "tyra banks",
-          "score": 97
-        },
-        {
-          "keyword": "bradley chubb",
-          "score": 96
-        },
-        {
-          "keyword": "kandi burruss",
-          "score": 95
-        },
-        {
-          "keyword": "dove cameron",
-          "score": 94
-        },
-        {
-          "keyword": "sarah michelle gellar",
-          "score": 93
-        },
-        {
-          "keyword": "quentin tarantino",
-          "score": 92
-        },
-        {
-          "keyword": "australia vs sri lanka",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-16T16:31:58.711Z",
       "geo": "US",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "oman vs australia",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-20T16:01:37.813Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "voo",
+          "score": 100
+        },
+        {
+          "keyword": "msnow",
+          "score": 99
+        },
+        {
+          "keyword": "spy stock",
+          "score": 98
+        },
+        {
+          "keyword": "nytimes",
+          "score": 97
+        },
+        {
+          "keyword": "spy",
+          "score": 96
+        },
+        {
+          "keyword": "s and p 500",
+          "score": 95
+        },
+        {
+          "keyword": "nyt",
+          "score": 94
+        },
+        {
+          "keyword": "costco stock",
+          "score": 93
+        },
+        {
+          "keyword": "dow jones",
+          "score": 92
+        },
+        {
+          "keyword": "cnbc",
           "score": 91
         }
       ]
