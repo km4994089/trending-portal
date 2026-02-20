@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-16T14:41:43.669Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sarah michelle gellar",
-          "score": 100
-        },
-        {
-          "keyword": "quentin tarantino",
-          "score": 99
-        },
-        {
-          "keyword": "australia vs sri lanka",
-          "score": 98
-        },
-        {
-          "keyword": "ray romano",
-          "score": 97
-        },
-        {
-          "keyword": "president's day",
-          "score": 96
-        },
-        {
-          "keyword": "is twitter down",
-          "score": 95
-        },
-        {
-          "keyword": "david archuleta",
-          "score": 94
-        },
-        {
-          "keyword": "gma deals and steals",
-          "score": 93
-        },
-        {
-          "keyword": "presidents day sales",
-          "score": 92
-        },
-        {
-          "keyword": "connections hint today",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-16T15:32:36.874Z",
       "geo": "US",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "conduent",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-20T15:29:39.984Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "dunkin mitten",
+          "score": 100
+        },
+        {
+          "keyword": "scotus blog",
+          "score": 99
+        },
+        {
+          "keyword": "hilary duff tickets",
+          "score": 98
+        },
+        {
+          "keyword": "scotusblog",
+          "score": 97
+        },
+        {
+          "keyword": "supreme court",
+          "score": 96
+        },
+        {
+          "keyword": "blue owl",
+          "score": 95
+        },
+        {
+          "keyword": "kelly ripa",
+          "score": 94
+        },
+        {
+          "keyword": "sri lanka women vs west indies women",
+          "score": 93
+        },
+        {
+          "keyword": "jessica pegula",
+          "score": 92
+        },
+        {
+          "keyword": "oman vs australia",
           "score": 91
         }
       ]
