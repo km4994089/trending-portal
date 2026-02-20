@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-16T21:50:14.972Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "barca game",
-          "score": 100
-        },
-        {
-          "keyword": "la liga standings",
-          "score": 99
-        },
-        {
-          "keyword": "frederick wiseman",
-          "score": 98
-        },
-        {
-          "keyword": "barcelona schedule",
-          "score": 97
-        },
-        {
-          "keyword": "pierre crinon",
-          "score": 96
-        },
-        {
-          "keyword": "old dominion basketball",
-          "score": 95
-        },
-        {
-          "keyword": "mobile alabama",
-          "score": 94
-        },
-        {
-          "keyword": "riku miura",
-          "score": 93
-        },
-        {
-          "keyword": "coppin state basketball",
-          "score": 92
-        },
-        {
-          "keyword": "jordan love",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-16T22:17:51.965Z",
       "geo": "US",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "casper ruud",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-20T22:14:57.065Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "marco penge",
+          "score": 100
+        },
+        {
+          "keyword": "national margarita day",
+          "score": 99
+        },
+        {
+          "keyword": "alexandra daddario",
+          "score": 98
+        },
+        {
+          "keyword": "luke hughes",
+          "score": 97
+        },
+        {
+          "keyword": "auston matthews",
+          "score": 96
+        },
+        {
+          "keyword": "wayne gretzky",
+          "score": 95
+        },
+        {
+          "keyword": "kamila sellier",
+          "score": 94
+        },
+        {
+          "keyword": "tomas tatar",
+          "score": 93
+        },
+        {
+          "keyword": "charlie mcavoy",
+          "score": 92
+        },
+        {
+          "keyword": "lindsay clancy",
           "score": 91
         }
       ]
