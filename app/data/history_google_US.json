@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-16T20:52:26.151Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "spencer howe",
-          "score": 100
-        },
-        {
-          "keyword": "coventry vs middlesbrough",
-          "score": 99
-        },
-        {
-          "keyword": "pawtucket",
-          "score": 98
-        },
-        {
-          "keyword": "armenia",
-          "score": 97
-        },
-        {
-          "keyword": "venezuela",
-          "score": 96
-        },
-        {
-          "keyword": "jeff skinner",
-          "score": 95
-        },
-        {
-          "keyword": "cagliari vs lecce",
-          "score": 94
-        },
-        {
-          "keyword": "rafael olarra",
-          "score": 93
-        },
-        {
-          "keyword": "girona - barcelona",
-          "score": 92
-        },
-        {
-          "keyword": "nuno borges",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-16T21:19:47.573Z",
       "geo": "US",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "dylan larkin",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-20T21:15:10.996Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "logan wilson",
+          "score": 100
+        },
+        {
+          "keyword": "tj oshie",
+          "score": 99
+        },
+        {
+          "keyword": "joey aguilar",
+          "score": 98
+        },
+        {
+          "keyword": "casper ruud",
+          "score": 97
+        },
+        {
+          "keyword": "tage thompson",
+          "score": 96
+        },
+        {
+          "keyword": "brady tkachuk",
+          "score": 95
+        },
+        {
+          "keyword": "white sox",
+          "score": 94
+        },
+        {
+          "keyword": "texas rangers",
+          "score": 93
+        },
+        {
+          "keyword": "asha sharma",
+          "score": 92
+        },
+        {
+          "keyword": "juraj slafkovsky",
           "score": 91
         }
       ]
