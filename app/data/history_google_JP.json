@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-17T22:55:15.517Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "松平容保",
-          "score": 100
-        },
-        {
-          "keyword": "スタバ新作",
-          "score": 99
-        },
-        {
-          "keyword": "水卜麻美",
-          "score": 98
-        },
-        {
-          "keyword": "パリサンジェルマン",
-          "score": 97
-        },
-        {
-          "keyword": "夙川アトム",
-          "score": 96
-        },
-        {
-          "keyword": "東京科学大学",
-          "score": 95
-        },
-        {
-          "keyword": "菊池彩花",
-          "score": 94
-        },
-        {
-          "keyword": "対米投資",
-          "score": 93
-        },
-        {
-          "keyword": "特別国会",
-          "score": 92
-        },
-        {
-          "keyword": "明石市",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-17T23:19:56.736Z",
       "geo": "JP",
       "source": "google",
@@ -5356,6 +5309,53 @@
         },
         {
           "keyword": "トランプ関税 最高裁",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-21T23:15:02.008Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "中田翔",
+          "score": 100
+        },
+        {
+          "keyword": "ミツカン",
+          "score": 99
+        },
+        {
+          "keyword": "菅原道真",
+          "score": 98
+        },
+        {
+          "keyword": "ガンダムベース",
+          "score": 97
+        },
+        {
+          "keyword": "いわきサンシャインマラソン",
+          "score": 96
+        },
+        {
+          "keyword": "北野天満宮",
+          "score": 95
+        },
+        {
+          "keyword": "上野動物園",
+          "score": 94
+        },
+        {
+          "keyword": "デニーズ",
+          "score": 93
+        },
+        {
+          "keyword": "アウディ",
+          "score": 92
+        },
+        {
+          "keyword": "東京マラソン",
           "score": 91
         }
       ]
