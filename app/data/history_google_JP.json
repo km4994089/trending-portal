@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-17T05:17:23.910Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "嵐 コンサート",
-          "score": 100
-        },
-        {
-          "keyword": "三船敏郎",
-          "score": 99
-        },
-        {
-          "keyword": "bリーグ",
-          "score": 98
-        },
-        {
-          "keyword": "中道 離党",
-          "score": 97
-        },
-        {
-          "keyword": "仮面ライダーアギト",
-          "score": 96
-        },
-        {
-          "keyword": "黒柳 徹子",
-          "score": 95
-        },
-        {
-          "keyword": "篠井英介",
-          "score": 94
-        },
-        {
-          "keyword": "午前十時の映画祭",
-          "score": 93
-        },
-        {
-          "keyword": "アドマイヤテラ",
-          "score": 92
-        },
-        {
-          "keyword": "船越英一郎",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-17T06:14:24.073Z",
       "geo": "JP",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "dazn",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-21T06:00:04.602Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ラオス",
+          "score": 100
+        },
+        {
+          "keyword": "超特急",
+          "score": 99
+        },
+        {
+          "keyword": "エスパルス",
+          "score": 98
+        },
+        {
+          "keyword": "トライアル西友",
+          "score": 97
+        },
+        {
+          "keyword": "巨人",
+          "score": 96
+        },
+        {
+          "keyword": "池脇 千鶴",
+          "score": 95
+        },
+        {
+          "keyword": "カプセルトイ トーシン",
+          "score": 94
+        },
+        {
+          "keyword": "和田明日香",
+          "score": 93
+        },
+        {
+          "keyword": "中日ドラゴンズ",
+          "score": 92
+        },
+        {
+          "keyword": "三国競艇",
           "score": 91
         }
       ]
