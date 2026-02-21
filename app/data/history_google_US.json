@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-17T23:19:54.093Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "rosie o'donnell",
-          "score": 100
-        },
-        {
-          "keyword": "robert woods",
-          "score": 99
-        },
-        {
-          "keyword": "tommy lee jones",
-          "score": 98
-        },
-        {
-          "keyword": "landon jackson",
-          "score": 97
-        },
-        {
-          "keyword": "olympic figure skating",
-          "score": 96
-        },
-        {
-          "keyword": "mike evans",
-          "score": 95
-        },
-        {
-          "keyword": "figure skating",
-          "score": 94
-        },
-        {
-          "keyword": "unc vs nc state",
-          "score": 93
-        },
-        {
-          "keyword": "kaori sakamoto",
-          "score": 92
-        },
-        {
-          "keyword": "tremaine edmunds",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-17T23:50:52.676Z",
       "geo": "US",
       "source": "google",
@@ -5356,6 +5309,53 @@
         },
         {
           "keyword": "iftar time",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-21T23:43:42.833Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "capital one arena",
+          "score": 100
+        },
+        {
+          "keyword": "nora cornolle",
+          "score": 99
+        },
+        {
+          "keyword": "rajah caruth",
+          "score": 98
+        },
+        {
+          "keyword": "anthony black",
+          "score": 97
+        },
+        {
+          "keyword": "yaxel lendeborg",
+          "score": 96
+        },
+        {
+          "keyword": "rockets vs knicks",
+          "score": 95
+        },
+        {
+          "keyword": "macklin celebrini",
+          "score": 94
+        },
+        {
+          "keyword": "dazn boxing",
+          "score": 93
+        },
+        {
+          "keyword": "kings vs spurs",
+          "score": 92
+        },
+        {
+          "keyword": "michel pereira",
           "score": 91
         }
       ]

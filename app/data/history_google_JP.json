@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-17T23:19:56.736Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "人工ダイヤモンド",
-          "score": 100
-        },
-        {
-          "keyword": "新垣結衣",
-          "score": 99
-        },
-        {
-          "keyword": "大井競馬場",
-          "score": 98
-        },
-        {
-          "keyword": "ソニック",
-          "score": 97
-        },
-        {
-          "keyword": "横田真悠",
-          "score": 96
-        },
-        {
-          "keyword": "山口馬木也",
-          "score": 95
-        },
-        {
-          "keyword": "久留里線",
-          "score": 94
-        },
-        {
-          "keyword": "エヌビディア",
-          "score": 93
-        },
-        {
-          "keyword": "隋文静",
-          "score": 92
-        },
-        {
-          "keyword": "松平容保",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-17T23:50:55.375Z",
       "geo": "JP",
       "source": "google",
@@ -5356,6 +5309,53 @@
         },
         {
           "keyword": "東京マラソン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-21T23:43:45.536Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "レアアース",
+          "score": 100
+        },
+        {
+          "keyword": "王子動物園",
+          "score": 99
+        },
+        {
+          "keyword": "宮崎 天気",
+          "score": 98
+        },
+        {
+          "keyword": "小野寺五典",
+          "score": 97
+        },
+        {
+          "keyword": "階",
+          "score": 96
+        },
+        {
+          "keyword": "階 猛",
+          "score": 95
+        },
+        {
+          "keyword": "鉄道博物館",
+          "score": 94
+        },
+        {
+          "keyword": "ランクルfj",
+          "score": 93
+        },
+        {
+          "keyword": "金子文子",
+          "score": 92
+        },
+        {
+          "keyword": "味の素",
           "score": 91
         }
       ]
