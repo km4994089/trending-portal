@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-17T19:40:24.828Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "iida karhunen",
-          "score": 100
-        },
-        {
-          "keyword": "noa lang",
-          "score": 99
-        },
-        {
-          "keyword": "zayden high",
-          "score": 98
-        },
-        {
-          "keyword": "benfica - real madrid",
-          "score": 97
-        },
-        {
-          "keyword": "mónaco - psg",
-          "score": 96
-        },
-        {
-          "keyword": "dortmund vs atalanta",
-          "score": 95
-        },
-        {
-          "keyword": "andrey rublev",
-          "score": 94
-        },
-        {
-          "keyword": "parker sutherland",
-          "score": 93
-        },
-        {
-          "keyword": "earthquake now",
-          "score": 92
-        },
-        {
-          "keyword": "earthquake",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-17T20:26:23.179Z",
       "geo": "US",
       "source": "google",
@@ -5262,6 +5215,53 @@
         },
         {
           "keyword": "f1 san francisco",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-21T19:42:53.539Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "psg vs metz",
+          "score": 100
+        },
+        {
+          "keyword": "psg - metz",
+          "score": 99
+        },
+        {
+          "keyword": "red sox",
+          "score": 98
+        },
+        {
+          "keyword": "aaron judge",
+          "score": 97
+        },
+        {
+          "keyword": "figure skating gala olympics 2026",
+          "score": 96
+        },
+        {
+          "keyword": "man city vs newcastle",
+          "score": 95
+        },
+        {
+          "keyword": "atlético madrid - rcd espanyol",
+          "score": 94
+        },
+        {
+          "keyword": "atlético madrid vs espanyol",
+          "score": 93
+        },
+        {
+          "keyword": "georgia tech vs louisville",
+          "score": 92
+        },
+        {
+          "keyword": "echopark speedway",
           "score": 91
         }
       ]
