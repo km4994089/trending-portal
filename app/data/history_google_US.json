@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-17T16:13:12.014Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "savannah chrisley",
-          "score": 100
-        },
-        {
-          "keyword": "al sadd vs al-ittihad",
-          "score": 99
-        },
-        {
-          "keyword": "elena rybakina",
-          "score": 98
-        },
-        {
-          "keyword": "denver weather",
-          "score": 97
-        },
-        {
-          "keyword": "nasdaq today",
-          "score": 96
-        },
-        {
-          "keyword": "nasdaq composite",
-          "score": 95
-        },
-        {
-          "keyword": "dobie high school",
-          "score": 94
-        },
-        {
-          "keyword": "tony clark",
-          "score": 93
-        },
-        {
-          "keyword": "milo ventimiglia",
-          "score": 92
-        },
-        {
-          "keyword": "billie jean king",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-17T17:30:39.368Z",
       "geo": "US",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "real betis vs rayo vallecano",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-21T16:17:09.296Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "serie a",
+          "score": 100
+        },
+        {
+          "keyword": "jessica pegula",
+          "score": 99
+        },
+        {
+          "keyword": "dusty may",
+          "score": 98
+        },
+        {
+          "keyword": "james milner",
+          "score": 97
+        },
+        {
+          "keyword": "lens vs monaco",
+          "score": 96
+        },
+        {
+          "keyword": "michigan vs duke",
+          "score": 95
+        },
+        {
+          "keyword": "osasuna vs real madrid",
+          "score": 94
+        },
+        {
+          "keyword": "greta myers",
+          "score": 93
+        },
+        {
+          "keyword": "chevrolet gmc cadillac recall",
+          "score": 92
+        },
+        {
+          "keyword": "punch monkey japan",
           "score": 91
         }
       ]
