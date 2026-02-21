@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-17T03:55:40.901Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ヤオコー",
-          "score": 100
-        },
-        {
-          "keyword": "ねずみくんのチョッキ",
-          "score": 99
-        },
-        {
-          "keyword": "ひたちなか海浜鉄道",
-          "score": 98
-        },
-        {
-          "keyword": "ぽかぽか ゲスト",
-          "score": 97
-        },
-        {
-          "keyword": "アラバキロックフェス",
-          "score": 96
-        },
-        {
-          "keyword": "札幌市西区二十四軒4条3丁目",
-          "score": 95
-        },
-        {
-          "keyword": "山田裕貴",
-          "score": 94
-        },
-        {
-          "keyword": "谷繁元信",
-          "score": 93
-        },
-        {
-          "keyword": "trigun stampede",
-          "score": 92
-        },
-        {
-          "keyword": "江戸川区",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-17T05:17:23.910Z",
       "geo": "JP",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "松重豊",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-21T05:00:50.933Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "高石あかり",
+          "score": 100
+        },
+        {
+          "keyword": "磐田 対 松本",
+          "score": 99
+        },
+        {
+          "keyword": "大宮 対 福島",
+          "score": 98
+        },
+        {
+          "keyword": "宮崎 対 鳥栖",
+          "score": 97
+        },
+        {
+          "keyword": "熊野古道",
+          "score": 96
+        },
+        {
+          "keyword": "マルタ",
+          "score": 95
+        },
+        {
+          "keyword": "藤枝 対 甲府",
+          "score": 94
+        },
+        {
+          "keyword": "グランマエストロ",
+          "score": 93
+        },
+        {
+          "keyword": "セブンイレブン",
+          "score": 92
+        },
+        {
+          "keyword": "dazn",
           "score": 91
         }
       ]
