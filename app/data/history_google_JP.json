@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-17T09:37:36.907Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大戸屋",
-          "score": 100
-        },
-        {
-          "keyword": "山一ハガネ",
-          "score": 99
-        },
-        {
-          "keyword": "アレン様",
-          "score": 98
-        },
-        {
-          "keyword": "小倉駅",
-          "score": 97
-        },
-        {
-          "keyword": "高知競馬",
-          "score": 96
-        },
-        {
-          "keyword": "ラモス瑠偉",
-          "score": 95
-        },
-        {
-          "keyword": "megumi",
-          "score": 94
-        },
-        {
-          "keyword": "渋谷龍太",
-          "score": 93
-        },
-        {
-          "keyword": "岡崎朋美",
-          "score": 92
-        },
-        {
-          "keyword": "稲森稔尚",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-17T10:35:26.544Z",
       "geo": "JP",
       "source": "google",
@@ -4792,6 +4745,53 @@
         },
         {
           "keyword": "大村競艇",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-21T09:50:21.097Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "荻原次晴",
+          "score": 100
+        },
+        {
+          "keyword": "新しいカギ",
+          "score": 99
+        },
+        {
+          "keyword": "渡辺謙",
+          "score": 98
+        },
+        {
+          "keyword": "神戸 花火",
+          "score": 97
+        },
+        {
+          "keyword": "die",
+          "score": 96
+        },
+        {
+          "keyword": "hero",
+          "score": 95
+        },
+        {
+          "keyword": "チケットぴあ",
+          "score": 94
+        },
+        {
+          "keyword": "田中貴金属",
+          "score": 93
+        },
+        {
+          "keyword": "新居浜市",
+          "score": 92
+        },
+        {
+          "keyword": "ぴあ",
           "score": 91
         }
       ]
