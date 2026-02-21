@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-17T20:26:23.179Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dortmund",
-          "score": 100
-        },
-        {
-          "keyword": "doug moe",
-          "score": 99
-        },
-        {
-          "keyword": "tormod frostad",
-          "score": 98
-        },
-        {
-          "keyword": "fire weather watch",
-          "score": 97
-        },
-        {
-          "keyword": "psg",
-          "score": 96
-        },
-        {
-          "keyword": "vix",
-          "score": 95
-        },
-        {
-          "keyword": "wrexham",
-          "score": 94
-        },
-        {
-          "keyword": "tiger woods",
-          "score": 93
-        },
-        {
-          "keyword": "mac forehand",
-          "score": 92
-        },
-        {
-          "keyword": "real madrid",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-17T21:01:25.526Z",
       "geo": "US",
       "source": "google",
@@ -5309,6 +5262,53 @@
         },
         {
           "keyword": "psg - metz",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-21T20:46:02.010Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "bobsled",
+          "score": 100
+        },
+        {
+          "keyword": "coastal flood warning",
+          "score": 99
+        },
+        {
+          "keyword": "brewers",
+          "score": 98
+        },
+        {
+          "keyword": "uh basketball",
+          "score": 97
+        },
+        {
+          "keyword": "dodgers vs angels",
+          "score": 96
+        },
+        {
+          "keyword": "koa peat",
+          "score": 95
+        },
+        {
+          "keyword": "kansas state vs texas tech",
+          "score": 94
+        },
+        {
+          "keyword": "lafc vs inter miami",
+          "score": 93
+        },
+        {
+          "keyword": "miami fl vs virginia",
+          "score": 92
+        },
+        {
+          "keyword": "marco penge",
           "score": 91
         }
       ]
