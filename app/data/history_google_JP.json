@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-17T06:14:24.073Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ニチレイ",
-          "score": 100
-        },
-        {
-          "keyword": "資生堂 株価",
-          "score": 99
-        },
-        {
-          "keyword": "鈴木誠也",
-          "score": 98
-        },
-        {
-          "keyword": "嵐 コンサート",
-          "score": 97
-        },
-        {
-          "keyword": "三船敏郎",
-          "score": 96
-        },
-        {
-          "keyword": "bリーグ",
-          "score": 95
-        },
-        {
-          "keyword": "中道 離党",
-          "score": 94
-        },
-        {
-          "keyword": "仮面ライダーアギト",
-          "score": 93
-        },
-        {
-          "keyword": "黒柳 徹子",
-          "score": 92
-        },
-        {
-          "keyword": "篠井英介",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-17T07:30:50.574Z",
       "geo": "JP",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "三国競艇",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-21T06:48:31.250Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "名古屋グランパス",
+          "score": 100
+        },
+        {
+          "keyword": "地上げ",
+          "score": 99
+        },
+        {
+          "keyword": "鹿島 対 柏",
+          "score": 98
+        },
+        {
+          "keyword": "岡田将生",
+          "score": 97
+        },
+        {
+          "keyword": "カロリーナ・コストナー",
+          "score": 96
+        },
+        {
+          "keyword": "lakers vs clippers",
+          "score": 95
+        },
+        {
+          "keyword": "ヴィッセル神戸",
+          "score": 94
+        },
+        {
+          "keyword": "メイウェザー",
+          "score": 93
+        },
+        {
+          "keyword": "野球",
+          "score": 92
+        },
+        {
+          "keyword": "松坂桃李",
           "score": 91
         }
       ]
