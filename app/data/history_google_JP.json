@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-17T01:12:59.692Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ココス",
-          "score": 100
-        },
-        {
-          "keyword": "能登半島地震",
-          "score": 99
-        },
-        {
-          "keyword": "住友ファーマ 株価",
-          "score": 98
-        },
-        {
-          "keyword": "ハイランダー トヨタ",
-          "score": 97
-        },
-        {
-          "keyword": "立命館",
-          "score": 96
-        },
-        {
-          "keyword": "大気汚染",
-          "score": 95
-        },
-        {
-          "keyword": "津波",
-          "score": 94
-        },
-        {
-          "keyword": "レクサス・rz",
-          "score": 93
-        },
-        {
-          "keyword": "ユニチカ 株価",
-          "score": 92
-        },
-        {
-          "keyword": "日高屋",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-17T03:55:40.901Z",
       "geo": "JP",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "横尾渉",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-21T03:34:55.035Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "嵐莉菜",
+          "score": 100
+        },
+        {
+          "keyword": "大井競馬場",
+          "score": 99
+        },
+        {
+          "keyword": "せやねん",
+          "score": 98
+        },
+        {
+          "keyword": "東北新幹線",
+          "score": 97
+        },
+        {
+          "keyword": "横澤夏子",
+          "score": 96
+        },
+        {
+          "keyword": "ネイマール",
+          "score": 95
+        },
+        {
+          "keyword": "北陸新幹線",
+          "score": 94
+        },
+        {
+          "keyword": "星野源",
+          "score": 93
+        },
+        {
+          "keyword": "中央線",
+          "score": 92
+        },
+        {
+          "keyword": "松重豊",
           "score": 91
         }
       ]
