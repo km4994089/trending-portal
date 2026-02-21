@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-16T23:50:26.310Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "織田信成",
-          "score": 100
-        },
-        {
-          "keyword": "小泉セツ",
-          "score": 99
-        },
-        {
-          "keyword": "三国競艇",
-          "score": 98
-        },
-        {
-          "keyword": "松尾諭",
-          "score": 97
-        },
-        {
-          "keyword": "池脇千鶴",
-          "score": 96
-        },
-        {
-          "keyword": "ルミネ",
-          "score": 95
-        },
-        {
-          "keyword": "葛西紀明",
-          "score": 94
-        },
-        {
-          "keyword": "豊嶋花",
-          "score": 93
-        },
-        {
-          "keyword": "国宝 映画",
-          "score": 92
-        },
-        {
-          "keyword": "西川貴教",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-17T01:12:59.692Z",
       "geo": "JP",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "神保町",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-21T01:07:57.226Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "東洋大学",
+          "score": 100
+        },
+        {
+          "keyword": "三軒茶屋",
+          "score": 99
+        },
+        {
+          "keyword": "king gnu",
+          "score": 98
+        },
+        {
+          "keyword": "名古屋城",
+          "score": 97
+        },
+        {
+          "keyword": "アドベンチャーワールド",
+          "score": 96
+        },
+        {
+          "keyword": "片山さつき",
+          "score": 95
+        },
+        {
+          "keyword": "福岡大学",
+          "score": 94
+        },
+        {
+          "keyword": "棋王戦",
+          "score": 93
+        },
+        {
+          "keyword": "万博記念公園 イベント",
+          "score": 92
+        },
+        {
+          "keyword": "横尾渉",
           "score": 91
         }
       ]
