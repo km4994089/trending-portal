@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-17T14:00:22.337Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "simone biles",
-          "score": 100
-        },
-        {
-          "keyword": "shinedown",
-          "score": 99
-        },
-        {
-          "keyword": "scotland vs nepal",
-          "score": 98
-        },
-        {
-          "keyword": "wynton marsalis",
-          "score": 97
-        },
-        {
-          "keyword": "havana syndrome",
-          "score": 96
-        },
-        {
-          "keyword": "washoe county school district",
-          "score": 95
-        },
-        {
-          "keyword": "conduent",
-          "score": 94
-        },
-        {
-          "keyword": "wordle hint",
-          "score": 93
-        },
-        {
-          "keyword": "matt shumer ai article",
-          "score": 92
-        },
-        {
-          "keyword": "jeff hardy",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-17T15:10:53.913Z",
       "geo": "US",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "ski mountaineering",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-21T14:20:00.002Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "union berlin vs leverkusen",
+          "score": 100
+        },
+        {
+          "keyword": "bayern vs eintracht frankfurt",
+          "score": 99
+        },
+        {
+          "keyword": "shockoe bottom shooting",
+          "score": 98
+        },
+        {
+          "keyword": "real sociedad",
+          "score": 97
+        },
+        {
+          "keyword": "dorothea wierer",
+          "score": 96
+        },
+        {
+          "keyword": "nasa artemis rocket launch",
+          "score": 95
+        },
+        {
+          "keyword": "juventus vs como",
+          "score": 94
+        },
+        {
+          "keyword": "juventus - como",
+          "score": 93
+        },
+        {
+          "keyword": "washington post reporter",
+          "score": 92
+        },
+        {
+          "keyword": "jet blue",
           "score": 91
         }
       ]
