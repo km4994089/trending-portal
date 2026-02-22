@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-18T05:20:53.673Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "バウンティ",
-          "score": 100
-        },
-        {
-          "keyword": "羽月隆太郎",
-          "score": 99
-        },
-        {
-          "keyword": "ひるおび",
-          "score": 98
-        },
-        {
-          "keyword": "高専",
-          "score": 97
-        },
-        {
-          "keyword": "バナナマン",
-          "score": 96
-        },
-        {
-          "keyword": "篠井英介",
-          "score": 95
-        },
-        {
-          "keyword": "森英介",
-          "score": 94
-        },
-        {
-          "keyword": "シャイアラブーフ",
-          "score": 93
-        },
-        {
-          "keyword": "増田三莉音",
-          "score": 92
-        },
-        {
-          "keyword": "小倉優子",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-18T06:35:58.331Z",
       "geo": "JP",
       "source": "google",
@@ -5356,6 +5309,53 @@
         },
         {
           "keyword": "内館牧子",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-22T06:07:49.281Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "j2",
+          "score": 100
+        },
+        {
+          "keyword": "三浦涼介",
+          "score": 99
+        },
+        {
+          "keyword": "東京ドーム イベント",
+          "score": 98
+        },
+        {
+          "keyword": "大地真央",
+          "score": 97
+        },
+        {
+          "keyword": "宮崎",
+          "score": 96
+        },
+        {
+          "keyword": "横浜fc",
+          "score": 95
+        },
+        {
+          "keyword": "山下美月",
+          "score": 94
+        },
+        {
+          "keyword": "宮城大弥",
+          "score": 93
+        },
+        {
+          "keyword": "宝塚",
+          "score": 92
+        },
+        {
+          "keyword": "秋広優人",
           "score": 91
         }
       ]
