@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-18T23:28:13.960Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ダウ90000 蓮見",
-          "score": 100
-        },
-        {
-          "keyword": "天皇誕生日",
-          "score": 99
-        },
-        {
-          "keyword": "池脇千鶴",
-          "score": 98
-        },
-        {
-          "keyword": "住吉美紀",
-          "score": 97
-        },
-        {
-          "keyword": "パーキンソン病",
-          "score": 96
-        },
-        {
-          "keyword": "ini",
-          "score": 95
-        },
-        {
-          "keyword": "liga inggris",
-          "score": 94
-        },
-        {
-          "keyword": "岩橋玄樹",
-          "score": 93
-        },
-        {
-          "keyword": "イラン",
-          "score": 92
-        },
-        {
-          "keyword": "竹内夢",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-18T23:53:11.169Z",
       "geo": "JP",
       "source": "google",
@@ -6014,6 +5967,53 @@
         },
         {
           "keyword": "風間俊介",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-22T23:45:54.631Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "飯山トンネル",
+          "score": 100
+        },
+        {
+          "keyword": "北野天満宮",
+          "score": 99
+        },
+        {
+          "keyword": "多摩動物公園",
+          "score": 98
+        },
+        {
+          "keyword": "ラヴィット",
+          "score": 97
+        },
+        {
+          "keyword": "動物園",
+          "score": 96
+        },
+        {
+          "keyword": "あべのハルカス",
+          "score": 95
+        },
+        {
+          "keyword": "北陸新幹線",
+          "score": 94
+        },
+        {
+          "keyword": "ばけばけ",
+          "score": 93
+        },
+        {
+          "keyword": "イオンシネマ",
+          "score": 92
+        },
+        {
+          "keyword": "朝ドラ",
           "score": 91
         }
       ]
