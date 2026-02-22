@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-18T06:35:57.003Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "백사장3",
-          "score": 100
-        },
-        {
-          "keyword": "태진아",
-          "score": 99
-        },
-        {
-          "keyword": "맥도날드",
-          "score": 98
-        },
-        {
-          "keyword": "레알 에스파냐 대 엘에이 fc",
-          "score": 97
-        },
-        {
-          "keyword": "dc",
-          "score": 96
-        },
-        {
-          "keyword": "뉴스",
-          "score": 95
-        },
-        {
-          "keyword": "한그루",
-          "score": 94
-        },
-        {
-          "keyword": "장윤정",
-          "score": 93
-        },
-        {
-          "keyword": "유튜브 문제가 발생했습니다",
-          "score": 92
-        },
-        {
-          "keyword": "유투브",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-18T07:43:53.191Z",
       "geo": "KR",
       "source": "google",
@@ -5356,6 +5309,53 @@
         },
         {
           "keyword": "스포츠티비",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-22T07:09:33.547Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "서주경",
+          "score": 100
+        },
+        {
+          "keyword": "두쫀쿠 원조",
+          "score": 99
+        },
+        {
+          "keyword": "rondale moore",
+          "score": 98
+        },
+        {
+          "keyword": "전소미",
+          "score": 97
+        },
+        {
+          "keyword": "천록담",
+          "score": 96
+        },
+        {
+          "keyword": "남보라",
+          "score": 95
+        },
+        {
+          "keyword": "스타벅스 리유저블컵",
+          "score": 94
+        },
+        {
+          "keyword": "호날두",
+          "score": 93
+        },
+        {
+          "keyword": "김은희",
+          "score": 92
+        },
+        {
+          "keyword": "미세먼지",
           "score": 91
         }
       ]
