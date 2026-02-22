@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-18T21:03:58.026Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "石井杏奈",
-          "score": 100
-        },
-        {
-          "keyword": "橋本愛",
-          "score": 99
-        },
-        {
-          "keyword": "アーセナル",
-          "score": 98
-        },
-        {
-          "keyword": "キンプリ",
-          "score": 97
-        },
-        {
-          "keyword": "中央バス",
-          "score": 96
-        },
-        {
-          "keyword": "吉田知那美",
-          "score": 95
-        },
-        {
-          "keyword": "ロコソラーレ",
-          "score": 94
-        },
-        {
-          "keyword": "加藤あい",
-          "score": 93
-        },
-        {
-          "keyword": "ボデ/グリムト 対 インテル",
-          "score": 92
-        },
-        {
-          "keyword": "jr北海道",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-18T21:53:36.537Z",
       "geo": "JP",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "rip",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-22T21:15:28.858Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "京都天気",
+          "score": 100
+        },
+        {
+          "keyword": "ライアン・ウォード",
+          "score": 99
+        },
+        {
+          "keyword": "エプスタイン文書",
+          "score": 98
+        },
+        {
+          "keyword": "ノルウェー",
+          "score": 97
+        },
+        {
+          "keyword": "ポケモンgo",
+          "score": 96
+        },
+        {
+          "keyword": "zozo",
+          "score": 95
+        },
+        {
+          "keyword": "なか卯",
+          "score": 94
+        },
+        {
+          "keyword": "荻原次晴",
+          "score": 93
+        },
+        {
+          "keyword": "セルタ 対 マヨルカ",
+          "score": 92
+        },
+        {
+          "keyword": "プレミアリーグ 試合",
           "score": 91
         }
       ]
