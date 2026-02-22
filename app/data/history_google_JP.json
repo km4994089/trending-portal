@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-18T22:58:36.109Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "岩橋玄樹",
-          "score": 100
-        },
-        {
-          "keyword": "イラン",
-          "score": 99
-        },
-        {
-          "keyword": "竹内夢",
-          "score": 98
-        },
-        {
-          "keyword": "セブン アイカツカード",
-          "score": 97
-        },
-        {
-          "keyword": "ドラえもん映画",
-          "score": 96
-        },
-        {
-          "keyword": "netflix",
-          "score": 95
-        },
-        {
-          "keyword": "成田童夢",
-          "score": 94
-        },
-        {
-          "keyword": "インテル",
-          "score": 93
-        },
-        {
-          "keyword": "住友ファーマ",
-          "score": 92
-        },
-        {
-          "keyword": "住友ファーマ 株価",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-18T23:28:13.960Z",
       "geo": "JP",
       "source": "google",
@@ -6014,6 +5967,53 @@
         },
         {
           "keyword": "飯田圭織",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-22T23:16:05.827Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "コーナン",
+          "score": 100
+        },
+        {
+          "keyword": "マールアラーゴ",
+          "score": 99
+        },
+        {
+          "keyword": "カープ",
+          "score": 98
+        },
+        {
+          "keyword": "花粉",
+          "score": 97
+        },
+        {
+          "keyword": "モーニング娘",
+          "score": 96
+        },
+        {
+          "keyword": "東海道新幹線",
+          "score": 95
+        },
+        {
+          "keyword": "ソラマチ",
+          "score": 94
+        },
+        {
+          "keyword": "メキシコ",
+          "score": 93
+        },
+        {
+          "keyword": "俵万智",
+          "score": 92
+        },
+        {
+          "keyword": "風間俊介",
           "score": 91
         }
       ]
