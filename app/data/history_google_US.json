@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-18T14:01:17.849Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "daniil medvedev",
-          "score": 100
-        },
-        {
-          "keyword": "kate hudson",
-          "score": 99
-        },
-        {
-          "keyword": "thomas hammock",
-          "score": 98
-        },
-        {
-          "keyword": "delroy lindo",
-          "score": 97
-        },
-        {
-          "keyword": "paula moltzan",
-          "score": 96
-        },
-        {
-          "keyword": "t20 world cup schedule",
-          "score": 95
-        },
-        {
-          "keyword": "elina svitolina",
-          "score": 94
-        },
-        {
-          "keyword": "chamberlain harris",
-          "score": 93
-        },
-        {
-          "keyword": "flights to london",
-          "score": 92
-        },
-        {
-          "keyword": "ash wednesday fasting rules",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-18T15:09:41.191Z",
       "geo": "US",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "lake placid olympics",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-22T14:20:35.829Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mar a lago",
+          "score": 100
+        },
+        {
+          "keyword": "florian wirtz",
+          "score": 99
+        },
+        {
+          "keyword": "dunkin bucket",
+          "score": 98
+        },
+        {
+          "keyword": "wirtz",
+          "score": 97
+        },
+        {
+          "keyword": "alex ovechkin",
+          "score": 96
+        },
+        {
+          "keyword": "winter olympics 2030",
+          "score": 95
+        },
+        {
+          "keyword": "summer olympics 2028",
+          "score": 94
+        },
+        {
+          "keyword": "cam newton",
+          "score": 93
+        },
+        {
+          "keyword": "trocheck",
+          "score": 92
+        },
+        {
+          "keyword": "milano cortina",
           "score": 91
         }
       ]
