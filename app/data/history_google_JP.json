@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-18T12:37:59.324Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "木村拓哉",
-          "score": 100
-        },
-        {
-          "keyword": "キムタク",
-          "score": 99
-        },
-        {
-          "keyword": "バッジオ",
-          "score": 98
-        },
-        {
-          "keyword": "菅田琳寧",
-          "score": 97
-        },
-        {
-          "keyword": "世古万美子",
-          "score": 96
-        },
-        {
-          "keyword": "내일 날씨",
-          "score": 95
-        },
-        {
-          "keyword": "道後公園",
-          "score": 94
-        },
-        {
-          "keyword": "シャープ",
-          "score": 93
-        },
-        {
-          "keyword": "ロベルトバッジョ",
-          "score": 92
-        },
-        {
-          "keyword": "wbc 2026",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-18T14:01:20.646Z",
       "geo": "JP",
       "source": "google",
@@ -5591,6 +5544,53 @@
         },
         {
           "keyword": "クロスカントリー 50キロ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-22T13:24:23.228Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ノッティンガム・フォレスト 対 リヴァプール",
+          "score": 100
+        },
+        {
+          "keyword": "クリスタル・パレス 対 ウルブス",
+          "score": 99
+        },
+        {
+          "keyword": "山之内すず",
+          "score": 98
+        },
+        {
+          "keyword": "lck",
+          "score": 97
+        },
+        {
+          "keyword": "中川大輔",
+          "score": 96
+        },
+        {
+          "keyword": "吉田知那美",
+          "score": 95
+        },
+        {
+          "keyword": "nhl",
+          "score": 94
+        },
+        {
+          "keyword": "今井美樹 現在",
+          "score": 93
+        },
+        {
+          "keyword": "アイスホッケー オリンピック",
+          "score": 92
+        },
+        {
+          "keyword": "井端監督",
           "score": 91
         }
       ]

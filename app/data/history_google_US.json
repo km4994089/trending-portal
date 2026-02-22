@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-18T12:37:56.725Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "rybakina",
-          "score": 100
-        },
-        {
-          "keyword": "chamberlain harris",
-          "score": 99
-        },
-        {
-          "keyword": "su yiming",
-          "score": 98
-        },
-        {
-          "keyword": "flights to london",
-          "score": 97
-        },
-        {
-          "keyword": "ash wednesday fasting rules",
-          "score": 96
-        },
-        {
-          "keyword": "germany vs slovakia hockey",
-          "score": 95
-        },
-        {
-          "keyword": "colbert",
-          "score": 94
-        },
-        {
-          "keyword": "why is the air quality bad today",
-          "score": 93
-        },
-        {
-          "keyword": "mamdani",
-          "score": 92
-        },
-        {
-          "keyword": "galgotias university",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-18T14:01:17.849Z",
       "geo": "US",
       "source": "google",
@@ -5591,6 +5544,53 @@
         },
         {
           "keyword": "wmur weather",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-22T13:24:20.484Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nottm forest vs liverpool",
+          "score": 100
+        },
+        {
+          "keyword": "brad marchand",
+          "score": 99
+        },
+        {
+          "keyword": "matt boldy",
+          "score": 98
+        },
+        {
+          "keyword": "sunderland vs fulham",
+          "score": 97
+        },
+        {
+          "keyword": "crystal palace vs wolves",
+          "score": 96
+        },
+        {
+          "keyword": "dylan larkin",
+          "score": 95
+        },
+        {
+          "keyword": "connor bedard",
+          "score": 94
+        },
+        {
+          "keyword": "jack eichel",
+          "score": 93
+        },
+        {
+          "keyword": "trader joes",
+          "score": 92
+        },
+        {
+          "keyword": "charlie mcavoy",
           "score": 91
         }
       ]
