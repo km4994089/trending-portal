@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-19T12:39:21.290Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "andrey rublev",
-          "score": 100
-        },
-        {
-          "keyword": "board of peace",
-          "score": 99
-        },
-        {
-          "keyword": "milo ventimiglia",
-          "score": 98
-        },
-        {
-          "keyword": "prince edward",
-          "score": 97
-        },
-        {
-          "keyword": "wmt stock",
-          "score": 96
-        },
-        {
-          "keyword": "this is us",
-          "score": 95
-        },
-        {
-          "keyword": "irs",
-          "score": 94
-        },
-        {
-          "keyword": "amanda anisimova",
-          "score": 93
-        },
-        {
-          "keyword": "nancy kerrigan",
-          "score": 92
-        },
-        {
-          "keyword": "the guardian",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-19T14:02:24.097Z",
       "geo": "US",
       "source": "google",
@@ -6014,6 +5967,53 @@
         },
         {
           "keyword": "today's weather",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-23T14:01:23.660Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tim tebow",
+          "score": 100
+        },
+        {
+          "keyword": "chicago weather",
+          "score": 99
+        },
+        {
+          "keyword": "stan wawrinka",
+          "score": 98
+        },
+        {
+          "keyword": "norah o'donnell",
+          "score": 97
+        },
+        {
+          "keyword": "conduent",
+          "score": 96
+        },
+        {
+          "keyword": "school district of philadelphia",
+          "score": 95
+        },
+        {
+          "keyword": "nfl combine 2026",
+          "score": 94
+        },
+        {
+          "keyword": "nick reiner",
+          "score": 93
+        },
+        {
+          "keyword": "jerry o'connell",
+          "score": 92
+        },
+        {
+          "keyword": "how much snow did nyc get",
           "score": 91
         }
       ]
