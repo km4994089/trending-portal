@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-19T01:14:27.264Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "네이버",
-          "score": 100
-        },
-        {
-          "keyword": "동의대",
-          "score": 99
-        },
-        {
-          "keyword": "에어로케이",
-          "score": 98
-        },
-        {
-          "keyword": "삼성카드",
-          "score": 97
-        },
-        {
-          "keyword": "다음",
-          "score": 96
-        },
-        {
-          "keyword": "삼성증권",
-          "score": 95
-        },
-        {
-          "keyword": "와우넷",
-          "score": 94
-        },
-        {
-          "keyword": "충남대",
-          "score": 93
-        },
-        {
-          "keyword": "키움증권",
-          "score": 92
-        },
-        {
-          "keyword": "미래에셋증권",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-02-19T03:56:46.010Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "한화솔루션",
-          "score": 100
-        },
-        {
-          "keyword": "한전",
-          "score": 99
-        },
-        {
-          "keyword": "장학재단",
-          "score": 98
-        },
-        {
-          "keyword": "한화오션 주가",
-          "score": 97
-        },
-        {
-          "keyword": "농협은행",
-          "score": 96
-        },
-        {
-          "keyword": "미래에셋증권 주가",
-          "score": 95
-        },
-        {
-          "keyword": "이스타항공",
-          "score": 94
-        },
-        {
-          "keyword": "삼성중공업 주가",
-          "score": 93
-        },
-        {
-          "keyword": "예비군",
-          "score": 92
-        },
-        {
-          "keyword": "삼성전자 주가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-19T05:18:58.122Z",
       "geo": "KR",
       "source": "google",
@@ -6014,6 +5920,53 @@
         },
         {
           "keyword": "엘 멘초",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-23T03:59:23.620Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cjng",
+          "score": 100
+        },
+        {
+          "keyword": "한전",
+          "score": 99
+        },
+        {
+          "keyword": "신사동호랭이",
+          "score": 98
+        },
+        {
+          "keyword": "캐시워크 정답",
+          "score": 97
+        },
+        {
+          "keyword": "이스타항공",
+          "score": 96
+        },
+        {
+          "keyword": "비트코인",
+          "score": 95
+        },
+        {
+          "keyword": "티웨이",
+          "score": 94
+        },
+        {
+          "keyword": "중앙대",
+          "score": 93
+        },
+        {
+          "keyword": "미래에셋증권 주가",
+          "score": 92
+        },
+        {
+          "keyword": "sk하이닉스 주가",
           "score": 91
         }
       ]
