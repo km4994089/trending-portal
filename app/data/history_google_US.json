@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-19T10:33:44.072Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "clara tauson",
-          "score": 100
-        },
-        {
-          "keyword": "jessica pegula",
-          "score": 99
-        },
-        {
-          "keyword": "jam buka puasa",
-          "score": 98
-        },
-        {
-          "keyword": "toyota supra",
-          "score": 97
-        },
-        {
-          "keyword": "prince andrew",
-          "score": 96
-        },
-        {
-          "keyword": "alaska airlines flights",
-          "score": 95
-        },
-        {
-          "keyword": "suhoor time",
-          "score": 94
-        },
-        {
-          "keyword": "sri lanka vs zimbabwe",
-          "score": 93
-        },
-        {
-          "keyword": "ski mountaineering",
-          "score": 92
-        },
-        {
-          "keyword": "on",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-19T11:31:34.902Z",
       "geo": "US",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "usgs earthquake",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-23T10:39:51.024Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "school closings",
+          "score": 100
+        },
+        {
+          "keyword": "sehri time today",
+          "score": 99
+        },
+        {
+          "keyword": "school closing",
+          "score": 98
+        },
+        {
+          "keyword": "jcpl",
+          "score": 97
+        },
+        {
+          "keyword": "wgal",
+          "score": 96
+        },
+        {
+          "keyword": "frederick county public schools",
+          "score": 95
+        },
+        {
+          "keyword": "national grid",
+          "score": 94
+        },
+        {
+          "keyword": "new movie",
+          "score": 93
+        },
+        {
+          "keyword": "school closings today",
+          "score": 92
+        },
+        {
+          "keyword": "hawaiian airlines",
           "score": 91
         }
       ]

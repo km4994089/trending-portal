@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-19T10:33:46.785Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "堀内敬子",
-          "score": 100
-        },
-        {
-          "keyword": "小柳ルミ子",
-          "score": 99
-        },
-        {
-          "keyword": "プレバト",
-          "score": 98
-        },
-        {
-          "keyword": "バンプオブチキン",
-          "score": 97
-        },
-        {
-          "keyword": "glay",
-          "score": 96
-        },
-        {
-          "keyword": "ミャクミャク",
-          "score": 95
-        },
-        {
-          "keyword": "acl2",
-          "score": 94
-        },
-        {
-          "keyword": "サントリー生ビール",
-          "score": 93
-        },
-        {
-          "keyword": "寺尾聰",
-          "score": 92
-        },
-        {
-          "keyword": "ブノワリショー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-19T11:31:37.496Z",
       "geo": "JP",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "ネパール",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-23T10:39:53.468Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ふかわりょう",
+          "score": 100
+        },
+        {
+          "keyword": "嬉野",
+          "score": 99
+        },
+        {
+          "keyword": "加藤茶",
+          "score": 98
+        },
+        {
+          "keyword": "エリザベート",
+          "score": 97
+        },
+        {
+          "keyword": "カズレーザー",
+          "score": 96
+        },
+        {
+          "keyword": "加藤あい",
+          "score": 95
+        },
+        {
+          "keyword": "新撰組",
+          "score": 94
+        },
+        {
+          "keyword": "モンスト カミキヒカル",
+          "score": 93
+        },
+        {
+          "keyword": "庵野秀明",
+          "score": 92
+        },
+        {
+          "keyword": "テレビ番組表",
           "score": 91
         }
       ]
