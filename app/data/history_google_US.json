@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-19T19:16:00.574Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "figure skating",
-          "score": 100
-        },
-        {
-          "keyword": "hazing",
-          "score": 99
-        },
-        {
-          "keyword": "nbc olympics",
-          "score": 98
-        },
-        {
-          "keyword": "livia kaiser",
-          "score": 97
-        },
-        {
-          "keyword": "kimmy repond",
-          "score": 96
-        },
-        {
-          "keyword": "learner tien",
-          "score": 95
-        },
-        {
-          "keyword": "glyphosate",
-          "score": 94
-        },
-        {
-          "keyword": "hilary knight",
-          "score": 93
-        },
-        {
-          "keyword": "mariia seniuk",
-          "score": 92
-        },
-        {
-          "keyword": "caroline harvey",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-19T19:53:31.274Z",
       "geo": "US",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "ssi",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-23T19:51:28.634Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ibm stock",
+          "score": 100
+        },
+        {
+          "keyword": "alavés vs girona",
+          "score": 99
+        },
+        {
+          "keyword": "alavés - girona",
+          "score": 98
+        },
+        {
+          "keyword": "ita airways",
+          "score": 97
+        },
+        {
+          "keyword": "ap poll basketball",
+          "score": 96
+        },
+        {
+          "keyword": "red sox",
+          "score": 95
+        },
+        {
+          "keyword": "blizzard of 78",
+          "score": 94
+        },
+        {
+          "keyword": "samsung galaxy galaxy s26 ultra",
+          "score": 93
+        },
+        {
+          "keyword": "kyle pitts",
+          "score": 92
+        },
+        {
+          "keyword": "everton vs man united",
           "score": 91
         }
       ]

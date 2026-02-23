@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-19T19:16:02.033Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "gemini 3.1",
-          "score": 100
-        },
-        {
-          "keyword": "meta stock price",
-          "score": 99
-        },
-        {
-          "keyword": "김민석",
-          "score": 98
-        },
-        {
-          "keyword": "2026 winter olympics ice hockey",
-          "score": 97
-        },
-        {
-          "keyword": "윤태화",
-          "score": 96
-        },
-        {
-          "keyword": "정재원",
-          "score": 95
-        },
-        {
-          "keyword": "컬링",
-          "score": 94
-        },
-        {
-          "keyword": "afghanistan vs canada",
-          "score": 93
-        },
-        {
-          "keyword": "미국 이란",
-          "score": 92
-        },
-        {
-          "keyword": "이엘리야",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-19T19:53:32.561Z",
       "geo": "KR",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "노보노디스크",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-23T19:51:29.958Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "피오렌티나",
+          "score": 100
+        },
+        {
+          "keyword": "mlb",
+          "score": 99
+        },
+        {
+          "keyword": "sydney sweeney",
+          "score": 98
+        },
+        {
+          "keyword": "카시오",
+          "score": 97
+        },
+        {
+          "keyword": "티비",
+          "score": 96
+        },
+        {
+          "keyword": "팔란티어",
+          "score": 95
+        },
+        {
+          "keyword": "다시보기",
+          "score": 94
+        },
+        {
+          "keyword": "진선유",
+          "score": 93
+        },
+        {
+          "keyword": "west indies vs zimbabwe",
+          "score": 92
+        },
+        {
+          "keyword": "유이",
           "score": 91
         }
       ]

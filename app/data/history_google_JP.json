@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-19T19:16:03.226Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "アンバー グレン",
-          "score": 100
-        },
-        {
-          "keyword": "ザグレブ 対 ゲンク",
-          "score": 99
-        },
-        {
-          "keyword": "オリンピック フィギュアスケート",
-          "score": 98
-        },
-        {
-          "keyword": "蟻戸一永",
-          "score": 97
-        },
-        {
-          "keyword": "2026 年冬奥会冰上曲棍球",
-          "score": 96
-        },
-        {
-          "keyword": "愛沢えみり",
-          "score": 95
-        },
-        {
-          "keyword": "国立新美術館",
-          "score": 94
-        },
-        {
-          "keyword": "オナイウ阿道",
-          "score": 93
-        },
-        {
-          "keyword": "林ゆめ",
-          "score": 92
-        },
-        {
-          "keyword": "シネマシティ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-19T19:53:33.930Z",
       "geo": "JP",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "江戸川区 河津桜",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-23T19:51:31.568Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "チェンソーマン",
+          "score": 100
+        },
+        {
+          "keyword": "エヌビディア 株価",
+          "score": 99
+        },
+        {
+          "keyword": "岡本和真",
+          "score": 98
+        },
+        {
+          "keyword": "nvidia",
+          "score": 97
+        },
+        {
+          "keyword": "エプスタイン文書",
+          "score": 96
+        },
+        {
+          "keyword": "ぱーてぃーちゃん信子",
+          "score": 95
+        },
+        {
+          "keyword": "らじるらじる",
+          "score": 94
+        },
+        {
+          "keyword": "大森元貴",
+          "score": 93
+        },
+        {
+          "keyword": "たくろう",
+          "score": 92
+        },
+        {
+          "keyword": "岡山大学",
           "score": 91
         }
       ]
