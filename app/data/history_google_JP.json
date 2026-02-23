@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-19T23:51:19.929Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "藤木直人",
-          "score": 100
-        },
-        {
-          "keyword": "鈴木奈穂子",
-          "score": 99
-        },
-        {
-          "keyword": "鈴木奈々",
-          "score": 98
-        },
-        {
-          "keyword": "ウエルシア",
-          "score": 97
-        },
-        {
-          "keyword": "ipo",
-          "score": 96
-        },
-        {
-          "keyword": "電撃ネットワーク",
-          "score": 95
-        },
-        {
-          "keyword": "gemini 3.1",
-          "score": 94
-        },
-        {
-          "keyword": "athletico-pr x corinthians",
-          "score": 93
-        },
-        {
-          "keyword": "シスメックス",
-          "score": 92
-        },
-        {
-          "keyword": "上谷沙弥",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-20T01:10:10.332Z",
       "geo": "JP",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "インフルエンザb",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-23T23:51:40.990Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "オーランド",
+          "score": 100
+        },
+        {
+          "keyword": "西川史子",
+          "score": 99
+        },
+        {
+          "keyword": "あさイチ",
+          "score": 98
+        },
+        {
+          "keyword": "ラジコ",
+          "score": 97
+        },
+        {
+          "keyword": "ヒコロヒー",
+          "score": 96
+        },
+        {
+          "keyword": "0",
+          "score": 95
+        },
+        {
+          "keyword": "ex",
+          "score": 94
+        },
+        {
+          "keyword": "宇連ダム",
+          "score": 93
+        },
+        {
+          "keyword": "梅宮アンナ",
+          "score": 92
+        },
+        {
+          "keyword": "ibm",
           "score": 91
         }
       ]
