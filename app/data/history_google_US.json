@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-19T18:10:01.697Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "alcaraz",
-          "score": 100
-        },
-        {
-          "keyword": "carlos alcaraz",
-          "score": 99
-        },
-        {
-          "keyword": "wrongful death lawyer",
-          "score": 98
-        },
-        {
-          "keyword": "elina svitolina",
-          "score": 97
-        },
-        {
-          "keyword": "national margarita day",
-          "score": 96
-        },
-        {
-          "keyword": "fenerbahçe - nottingham forest",
-          "score": 95
-        },
-        {
-          "keyword": "paok vs celta vigo",
-          "score": 94
-        },
-        {
-          "keyword": "winter storm warning",
-          "score": 93
-        },
-        {
-          "keyword": "womens hockey usa",
-          "score": 92
-        },
-        {
-          "keyword": "flood watch",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-19T19:16:00.574Z",
       "geo": "US",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "trick williams",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-23T18:49:38.876Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "blizzard of 78",
+          "score": 100
+        },
+        {
+          "keyword": "samsung galaxy galaxy s26 ultra",
+          "score": 99
+        },
+        {
+          "keyword": "kyle pitts",
+          "score": 98
+        },
+        {
+          "keyword": "fenerbahçe",
+          "score": 97
+        },
+        {
+          "keyword": "alycia parks",
+          "score": 96
+        },
+        {
+          "keyword": "everton vs man united",
+          "score": 95
+        },
+        {
+          "keyword": "pat mcafee show",
+          "score": 94
+        },
+        {
+          "keyword": "west indies cricket team vs zimbabwe national cricket team standings",
+          "score": 93
+        },
+        {
+          "keyword": "product recall",
+          "score": 92
+        },
+        {
+          "keyword": "ssi",
           "score": 91
         }
       ]
