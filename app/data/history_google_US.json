@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-19T11:31:34.902Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sarah ferguson",
-          "score": 100
-        },
-        {
-          "keyword": "fox 8 cleveland",
-          "score": 99
-        },
-        {
-          "keyword": "st jude dream home 2026",
-          "score": 98
-        },
-        {
-          "keyword": "dense fog advisory",
-          "score": 97
-        },
-        {
-          "keyword": "banchero",
-          "score": 96
-        },
-        {
-          "keyword": "fox 8 news",
-          "score": 95
-        },
-        {
-          "keyword": "women free skating 2026",
-          "score": 94
-        },
-        {
-          "keyword": "cars",
-          "score": 93
-        },
-        {
-          "keyword": "fortnite servers",
-          "score": 92
-        },
-        {
-          "keyword": "bbc news",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-19T12:39:21.290Z",
       "geo": "US",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "hawaiian airlines",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-23T11:33:13.464Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "wfsb",
+          "score": 100
+        },
+        {
+          "keyword": "ri energy",
+          "score": 99
+        },
+        {
+          "keyword": "zim vs wi",
+          "score": 98
+        },
+        {
+          "keyword": "nvo stock",
+          "score": 97
+        },
+        {
+          "keyword": "local news",
+          "score": 96
+        },
+        {
+          "keyword": "who won the fight last night",
+          "score": 95
+        },
+        {
+          "keyword": "red flag (fire weather) warning",
+          "score": 94
+        },
+        {
+          "keyword": "moez echargui",
+          "score": 93
+        },
+        {
+          "keyword": "delmarva power outage",
+          "score": 92
+        },
+        {
+          "keyword": "school closures",
           "score": 91
         }
       ]
