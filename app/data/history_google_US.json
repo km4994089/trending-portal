@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-19T14:02:24.097Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "fantasia",
-          "score": 100
-        },
-        {
-          "keyword": "chicago weather",
-          "score": 99
-        },
-        {
-          "keyword": "sri lanka national cricket team vs zimbabwe national cricket team standings",
-          "score": 98
-        },
-        {
-          "keyword": "conduent",
-          "score": 97
-        },
-        {
-          "keyword": "summerfest 2026",
-          "score": 96
-        },
-        {
-          "keyword": "afg vs can",
-          "score": 95
-        },
-        {
-          "keyword": "prince william",
-          "score": 94
-        },
-        {
-          "keyword": "eva marcille",
-          "score": 93
-        },
-        {
-          "keyword": "brittany bowe",
-          "score": 92
-        },
-        {
-          "keyword": "board of peace",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-19T15:11:20.704Z",
       "geo": "US",
       "source": "google",
@@ -6014,6 +5967,53 @@
         },
         {
           "keyword": "how much snow did nyc get",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-23T15:11:06.077Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "beirut",
+          "score": 100
+        },
+        {
+          "keyword": "nbc olympics figure skating",
+          "score": 99
+        },
+        {
+          "keyword": "west indies vs zimbabwe",
+          "score": 98
+        },
+        {
+          "keyword": "tim tebow",
+          "score": 97
+        },
+        {
+          "keyword": "chicago weather",
+          "score": 96
+        },
+        {
+          "keyword": "stan wawrinka",
+          "score": 95
+        },
+        {
+          "keyword": "norah o'donnell",
+          "score": 94
+        },
+        {
+          "keyword": "conduent",
+          "score": 93
+        },
+        {
+          "keyword": "school district of philadelphia",
+          "score": 92
+        },
+        {
+          "keyword": "nfl combine 2026",
           "score": 91
         }
       ]
