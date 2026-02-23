@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-19T05:18:58.122Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "조현아",
-          "score": 100
-        },
-        {
-          "keyword": "네이버페이",
-          "score": 99
-        },
-        {
-          "keyword": "이상",
-          "score": 98
-        },
-        {
-          "keyword": "한화솔루션",
-          "score": 97
-        },
-        {
-          "keyword": "한전",
-          "score": 96
-        },
-        {
-          "keyword": "장학재단",
-          "score": 95
-        },
-        {
-          "keyword": "한화오션 주가",
-          "score": 94
-        },
-        {
-          "keyword": "농협은행",
-          "score": 93
-        },
-        {
-          "keyword": "미래에셋증권 주가",
-          "score": 92
-        },
-        {
-          "keyword": "이스타항공",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-19T06:34:45.644Z",
       "geo": "KR",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "sk하이닉스 주가",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-23T05:26:10.078Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "스타벅스 리유저블컵",
+          "score": 100
+        },
+        {
+          "keyword": "윤영경",
+          "score": 99
+        },
+        {
+          "keyword": "이학재",
+          "score": 98
+        },
+        {
+          "keyword": "bts 광화문 공연",
+          "score": 97
+        },
+        {
+          "keyword": "액스비스",
+          "score": 96
+        },
+        {
+          "keyword": "송성문",
+          "score": 95
+        },
+        {
+          "keyword": "정동원",
+          "score": 94
+        },
+        {
+          "keyword": "mexico",
+          "score": 93
+        },
+        {
+          "keyword": "cjng",
+          "score": 92
+        },
+        {
+          "keyword": "한전",
           "score": 91
         }
       ]
