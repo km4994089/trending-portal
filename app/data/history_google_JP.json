@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-19T08:32:18.703Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "朱易",
-          "score": 100
-        },
-        {
-          "keyword": "jre go",
-          "score": 99
-        },
-        {
-          "keyword": "ハナマサ",
-          "score": 98
-        },
-        {
-          "keyword": "大村競艇",
-          "score": 97
-        },
-        {
-          "keyword": "清宮幸太郎",
-          "score": 96
-        },
-        {
-          "keyword": "三井住友銀行",
-          "score": 95
-        },
-        {
-          "keyword": "ペースメーカー",
-          "score": 94
-        },
-        {
-          "keyword": "教場0",
-          "score": 93
-        },
-        {
-          "keyword": "トー横",
-          "score": 92
-        },
-        {
-          "keyword": "野呂佳代",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-19T09:35:16.016Z",
       "geo": "JP",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "サグラダファミリア 完成",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-23T08:36:56.462Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "川地洋平",
+          "score": 100
+        },
+        {
+          "keyword": "川中美幸",
+          "score": 99
+        },
+        {
+          "keyword": "ピッチクロック",
+          "score": 98
+        },
+        {
+          "keyword": "浜名湖競艇",
+          "score": 97
+        },
+        {
+          "keyword": "大相撲",
+          "score": 96
+        },
+        {
+          "keyword": "仲田慶介",
+          "score": 95
+        },
+        {
+          "keyword": "スポナビ",
+          "score": 94
+        },
+        {
+          "keyword": "千島海溝",
+          "score": 93
+        },
+        {
+          "keyword": "フランスアルプスオリンピック",
+          "score": 92
+        },
+        {
+          "keyword": "ahamo",
           "score": 91
         }
       ]
