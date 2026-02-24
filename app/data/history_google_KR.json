@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-20T22:14:58.341Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "신지아",
-          "score": 100
-        },
-        {
-          "keyword": "최민정",
-          "score": 99
-        },
-        {
-          "keyword": "밀라노 올림픽 메달",
-          "score": 98
-        },
-        {
-          "keyword": "안현수",
-          "score": 97
-        },
-        {
-          "keyword": "이정민",
-          "score": 96
-        },
-        {
-          "keyword": "단지누",
-          "score": 95
-        },
-        {
-          "keyword": "올림픽 메달 순위",
-          "score": 94
-        },
-        {
-          "keyword": "치지직",
-          "score": 93
-        },
-        {
-          "keyword": "jtbc",
-          "score": 92
-        },
-        {
-          "keyword": "카를로스 알카라스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-20T22:50:45.636Z",
       "geo": "KR",
       "source": "google",
@@ -5591,6 +5544,53 @@
         },
         {
           "keyword": "인테르",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-24T22:25:54.913Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "inter vs bodø/glimt",
+          "score": 100
+        },
+        {
+          "keyword": "오늘의 운세",
+          "score": 99
+        },
+        {
+          "keyword": "장항준",
+          "score": 98
+        },
+        {
+          "keyword": "พยากรณ์อากาศ",
+          "score": 97
+        },
+        {
+          "keyword": "리니지 클래식",
+          "score": 96
+        },
+        {
+          "keyword": "뉴캐슬",
+          "score": 95
+        },
+        {
+          "keyword": "엔비디아 실적발표",
+          "score": 94
+        },
+        {
+          "keyword": "레버쿠젠",
+          "score": 93
+        },
+        {
+          "keyword": "at마드리드",
+          "score": 92
+        },
+        {
+          "keyword": "mlb",
           "score": 91
         }
       ]
