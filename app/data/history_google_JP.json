@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-20T03:43:02.054Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "村主章枝",
-          "score": 100
-        },
-        {
-          "keyword": "新井浩文",
-          "score": 99
-        },
-        {
-          "keyword": "massive attack",
-          "score": 98
-        },
-        {
-          "keyword": "栗東トレセン",
-          "score": 97
-        },
-        {
-          "keyword": "ドラえもん 映画",
-          "score": 96
-        },
-        {
-          "keyword": "阪急杯",
-          "score": 95
-        },
-        {
-          "keyword": "クレヨンしんちゃん 映画",
-          "score": 94
-        },
-        {
-          "keyword": "イラン情勢",
-          "score": 93
-        },
-        {
-          "keyword": "下関市豊浦町川棚の正琳寺",
-          "score": 92
-        },
-        {
-          "keyword": "神奈川県警 不祥事",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-20T05:11:48.987Z",
       "geo": "JP",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "任天堂 株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-24T03:55:18.639Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "花澤香菜",
+          "score": 100
+        },
+        {
+          "keyword": "ロシア",
+          "score": 99
+        },
+        {
+          "keyword": "ウマ娘 攻略",
+          "score": 98
+        },
+        {
+          "keyword": "京王線",
+          "score": 97
+        },
+        {
+          "keyword": "松本大",
+          "score": 96
+        },
+        {
+          "keyword": "中国商務省",
+          "score": 95
+        },
+        {
+          "keyword": "join alive",
+          "score": 94
+        },
+        {
+          "keyword": "金与正",
+          "score": 93
+        },
+        {
+          "keyword": "ローソンキャンペーン",
+          "score": 92
+        },
+        {
+          "keyword": "フィギュアスケート りくりゅう",
           "score": 91
         }
       ]

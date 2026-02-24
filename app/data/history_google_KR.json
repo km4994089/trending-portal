@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-20T03:43:00.716Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "eric dane",
-          "score": 100
-        },
-        {
-          "keyword": "sk하이닉스",
-          "score": 99
-        },
-        {
-          "keyword": "테일러 프리츠",
-          "score": 98
-        },
-        {
-          "keyword": "복지로",
-          "score": 97
-        },
-        {
-          "keyword": "채현일",
-          "score": 96
-        },
-        {
-          "keyword": "금오공대",
-          "score": 95
-        },
-        {
-          "keyword": "동의대학교",
-          "score": 94
-        },
-        {
-          "keyword": "동의대",
-          "score": 93
-        },
-        {
-          "keyword": "성균관대",
-          "score": 92
-        },
-        {
-          "keyword": "요요미",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-20T05:11:47.744Z",
       "geo": "KR",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "premier league",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-24T03:55:17.471Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "하이닉스",
+          "score": 100
+        },
+        {
+          "keyword": "김규리",
+          "score": 99
+        },
+        {
+          "keyword": "하이닉스 주가",
+          "score": 98
+        },
+        {
+          "keyword": "장학재단",
+          "score": 97
+        },
+        {
+          "keyword": "한국보건복지인재원",
+          "score": 96
+        },
+        {
+          "keyword": "한화비전",
+          "score": 95
+        },
+        {
+          "keyword": "삼전 주가",
+          "score": 94
+        },
+        {
+          "keyword": "한국도로공사",
+          "score": 93
+        },
+        {
+          "keyword": "공주대",
+          "score": 92
+        },
+        {
+          "keyword": "강원대",
           "score": 91
         }
       ]

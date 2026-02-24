@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-20T03:42:59.516Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tara lipinski",
-          "score": 100
-        },
-        {
-          "keyword": "elon musk net worth",
-          "score": 99
-        },
-        {
-          "keyword": "kamila valieva",
-          "score": 98
-        },
-        {
-          "keyword": "oksana baiul",
-          "score": 97
-        },
-        {
-          "keyword": "mls",
-          "score": 96
-        },
-        {
-          "keyword": "kristaps porziņģis",
-          "score": 95
-        },
-        {
-          "keyword": "tim curry",
-          "score": 94
-        },
-        {
-          "keyword": "meryl streep",
-          "score": 93
-        },
-        {
-          "keyword": "martha maccallum",
-          "score": 92
-        },
-        {
-          "keyword": "tmz",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-20T05:11:46.521Z",
       "geo": "US",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "tv guide",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-24T03:55:16.152Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ace bailey",
+          "score": 100
+        },
+        {
+          "keyword": "jabari smith jr.",
+          "score": 99
+        },
+        {
+          "keyword": "russell westbrook",
+          "score": 98
+        },
+        {
+          "keyword": "utah jazz",
+          "score": 97
+        },
+        {
+          "keyword": "kevin love",
+          "score": 96
+        },
+        {
+          "keyword": "keegan murray",
+          "score": 95
+        },
+        {
+          "keyword": "cia",
+          "score": 94
+        },
+        {
+          "keyword": "cia tv show",
+          "score": 93
+        },
+        {
+          "keyword": "sam smith",
+          "score": 92
+        },
+        {
+          "keyword": "kelvin sampson",
           "score": 91
         }
       ]
