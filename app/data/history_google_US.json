@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-20T17:59:08.363Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "juuse saros",
-          "score": 100
-        },
-        {
-          "keyword": "macklin celebrini",
-          "score": 99
-        },
-        {
-          "keyword": "carlos alcaraz",
-          "score": 98
-        },
-        {
-          "keyword": "seatgeek",
-          "score": 97
-        },
-        {
-          "keyword": "coco gauff",
-          "score": 96
-        },
-        {
-          "keyword": "haylie duff",
-          "score": 95
-        },
-        {
-          "keyword": "finland hockey roster",
-          "score": 94
-        },
-        {
-          "keyword": "mlb",
-          "score": 93
-        },
-        {
-          "keyword": "mikko rantanen",
-          "score": 92
-        },
-        {
-          "keyword": "politico",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-20T18:50:43.380Z",
       "geo": "US",
       "source": "google",
@@ -5685,6 +5638,53 @@
         },
         {
           "keyword": "stefanos tsitsipas",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-24T18:47:44.091Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sarah jessica parker",
+          "score": 100
+        },
+        {
+          "keyword": "al-taawoun vs al-hilal",
+          "score": 99
+        },
+        {
+          "keyword": "ucl",
+          "score": 98
+        },
+        {
+          "keyword": "club brugge",
+          "score": 97
+        },
+        {
+          "keyword": "jessica pegula",
+          "score": 96
+        },
+        {
+          "keyword": "wrexham vs portsmouth",
+          "score": 95
+        },
+        {
+          "keyword": "champions league schedule",
+          "score": 94
+        },
+        {
+          "keyword": "iva jovic",
+          "score": 93
+        },
+        {
+          "keyword": "champions league",
+          "score": 92
+        },
+        {
+          "keyword": "brett kulak",
           "score": 91
         }
       ]
