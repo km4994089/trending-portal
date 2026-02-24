@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-20T01:10:10.332Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "チケットぴあ",
-          "score": 100
-        },
-        {
-          "keyword": "中京大学",
-          "score": 99
-        },
-        {
-          "keyword": "ぴあ",
-          "score": 98
-        },
-        {
-          "keyword": "ぴあチケット",
-          "score": 97
-        },
-        {
-          "keyword": "名城大学",
-          "score": 96
-        },
-        {
-          "keyword": "ブルズ 対 ラプターズ",
-          "score": 95
-        },
-        {
-          "keyword": "三井金属 株価",
-          "score": 94
-        },
-        {
-          "keyword": "ピクサー",
-          "score": 93
-        },
-        {
-          "keyword": "立命館大学",
-          "score": 92
-        },
-        {
-          "keyword": "東京福祉大学",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-20T03:43:02.054Z",
       "geo": "JP",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "ibm",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-24T01:11:14.117Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "キオクシア 株価",
+          "score": 100
+        },
+        {
+          "keyword": "黒島結菜",
+          "score": 99
+        },
+        {
+          "keyword": "オリエンタルランド 株価",
+          "score": 98
+        },
+        {
+          "keyword": "みずほ株価",
+          "score": 97
+        },
+        {
+          "keyword": "クロード",
+          "score": 96
+        },
+        {
+          "keyword": "ヤフーファイナンス",
+          "score": 95
+        },
+        {
+          "keyword": "c",
+          "score": 94
+        },
+        {
+          "keyword": "ntt 株価",
+          "score": 93
+        },
+        {
+          "keyword": "ソニー株価",
+          "score": 92
+        },
+        {
+          "keyword": "任天堂 株価",
           "score": 91
         }
       ]
