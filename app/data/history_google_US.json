@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-20T20:19:36.702Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "marseille fc",
-          "score": 100
-        },
-        {
-          "keyword": "anthony geary",
-          "score": 99
-        },
-        {
-          "keyword": "sassuolo vs verona",
-          "score": 98
-        },
-        {
-          "keyword": "mainz vs hamburg",
-          "score": 97
-        },
-        {
-          "keyword": "cubs",
-          "score": 96
-        },
-        {
-          "keyword": "jakub mensik",
-          "score": 95
-        },
-        {
-          "keyword": "arthur fils",
-          "score": 94
-        },
-        {
-          "keyword": "lsu baseball schedule",
-          "score": 93
-        },
-        {
-          "keyword": "athletic - elche c. f.",
-          "score": 92
-        },
-        {
-          "keyword": "alex ferreira",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-20T20:52:00.669Z",
       "geo": "US",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "mike tauchman",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-24T20:24:10.245Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "washington university danforth campus",
+          "score": 100
+        },
+        {
+          "keyword": "championship",
+          "score": 99
+        },
+        {
+          "keyword": "martin short",
+          "score": 98
+        },
+        {
+          "keyword": "leverkusen",
+          "score": 97
+        },
+        {
+          "keyword": "rafael olarra",
+          "score": 96
+        },
+        {
+          "keyword": "jake guentzel",
+          "score": 95
+        },
+        {
+          "keyword": "chet holmgren",
+          "score": 94
+        },
+        {
+          "keyword": "konnor griffin mlb",
+          "score": 93
+        },
+        {
+          "keyword": "anna kepner",
+          "score": 92
+        },
+        {
+          "keyword": "inter - bodø/glimt",
           "score": 91
         }
       ]
