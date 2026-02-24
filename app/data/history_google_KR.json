@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-20T06:11:32.295Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "동아대",
-          "score": 100
-        },
-        {
-          "keyword": "메가박스",
-          "score": 99
-        },
-        {
-          "keyword": "김동완",
-          "score": 98
-        },
-        {
-          "keyword": "최불암",
-          "score": 97
-        },
-        {
-          "keyword": "fc온라인",
-          "score": 96
-        },
-        {
-          "keyword": "블랙록",
-          "score": 95
-        },
-        {
-          "keyword": "eric dane",
-          "score": 94
-        },
-        {
-          "keyword": "하이닉스",
-          "score": 93
-        },
-        {
-          "keyword": "테일러 프리츠",
-          "score": 92
-        },
-        {
-          "keyword": "복지로",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-20T07:28:26.557Z",
       "geo": "KR",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "장학재단",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-24T06:33:03.880Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "두산베어스",
+          "score": 100
+        },
+        {
+          "keyword": "인천유나이티드",
+          "score": 99
+        },
+        {
+          "keyword": "대구 날씨",
+          "score": 98
+        },
+        {
+          "keyword": "스타벅스 리유저블컵",
+          "score": 97
+        },
+        {
+          "keyword": "청년문화예술패스",
+          "score": 96
+        },
+        {
+          "keyword": "윤하",
+          "score": 95
+        },
+        {
+          "keyword": "액스비스",
+          "score": 94
+        },
+        {
+          "keyword": "디트로이트 대 샌안토니오",
+          "score": 93
+        },
+        {
+          "keyword": "삼전",
+          "score": 92
+        },
+        {
+          "keyword": "대전 날씨",
           "score": 91
         }
       ]
