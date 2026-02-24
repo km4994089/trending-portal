@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-20T11:01:59.401Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ct school closings",
-          "score": 100
-        },
-        {
-          "keyword": "kcci",
-          "score": 99
-        },
-        {
-          "keyword": "prayer time",
-          "score": 98
-        },
-        {
-          "keyword": "fajr",
-          "score": 97
-        },
-        {
-          "keyword": "sehri time today",
-          "score": 96
-        },
-        {
-          "keyword": "ig",
-          "score": 95
-        },
-        {
-          "keyword": "brisbane bullets",
-          "score": 94
-        },
-        {
-          "keyword": "politics",
-          "score": 93
-        },
-        {
-          "keyword": "jes staley",
-          "score": 92
-        },
-        {
-          "keyword": "ice immigration",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-20T11:50:29.792Z",
       "geo": "US",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "peso pluma",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-24T11:33:28.904Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "red flag (fire weather) warning",
+          "score": 100
+        },
+        {
+          "keyword": "weather miami",
+          "score": 99
+        },
+        {
+          "keyword": "texas lottery",
+          "score": 98
+        },
+        {
+          "keyword": "baltimore county public schools",
+          "score": 97
+        },
+        {
+          "keyword": "septa",
+          "score": 96
+        },
+        {
+          "keyword": "wordle hint",
+          "score": 95
+        },
+        {
+          "keyword": "winter olympics ice hockey gold medal",
+          "score": 94
+        },
+        {
+          "keyword": "jenson brooksby",
+          "score": 93
+        },
+        {
+          "keyword": "eng vs pak",
+          "score": 92
+        },
+        {
+          "keyword": "daniil medvedev",
           "score": 91
         }
       ]

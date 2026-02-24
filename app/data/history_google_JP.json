@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-20T11:02:02.209Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "有村架純",
-          "score": 100
-        },
-        {
-          "keyword": "広陵高校",
-          "score": 99
-        },
-        {
-          "keyword": "高橋克典",
-          "score": 98
-        },
-        {
-          "keyword": "八嶋智人",
-          "score": 97
-        },
-        {
-          "keyword": "吉永小百合",
-          "score": 96
-        },
-        {
-          "keyword": "清須市",
-          "score": 95
-        },
-        {
-          "keyword": "タモリステーション",
-          "score": 94
-        },
-        {
-          "keyword": "ベローチェ",
-          "score": 93
-        },
-        {
-          "keyword": "ジェシー",
-          "score": 92
-        },
-        {
-          "keyword": "井桁弘恵",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-20T11:50:32.585Z",
       "geo": "JP",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "隠岐の島",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-24T11:33:31.185Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "丘みどり",
+          "score": 100
+        },
+        {
+          "keyword": "青山新",
+          "score": 99
+        },
+        {
+          "keyword": "平愛梨",
+          "score": 98
+        },
+        {
+          "keyword": "バナナマン",
+          "score": 97
+        },
+        {
+          "keyword": "郷ひろみ",
+          "score": 96
+        },
+        {
+          "keyword": "日村勇紀",
+          "score": 95
+        },
+        {
+          "keyword": "宗像市",
+          "score": 94
+        },
+        {
+          "keyword": "おかしな刑事",
+          "score": 93
+        },
+        {
+          "keyword": "うたコン",
+          "score": 92
+        },
+        {
+          "keyword": "都はるみ",
           "score": 91
         }
       ]
