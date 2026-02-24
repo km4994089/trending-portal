@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-20T20:52:00.669Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "padres",
-          "score": 100
-        },
-        {
-          "keyword": "connor hellebuyck",
-          "score": 99
-        },
-        {
-          "keyword": "del taco restaurant closures",
-          "score": 98
-        },
-        {
-          "keyword": "phil spencer",
-          "score": 97
-        },
-        {
-          "keyword": "samuel hlavaj",
-          "score": 96
-        },
-        {
-          "keyword": "usa hockey",
-          "score": 95
-        },
-        {
-          "keyword": "johnny gaudreau",
-          "score": 94
-        },
-        {
-          "keyword": "slovakia hockey roster",
-          "score": 93
-        },
-        {
-          "keyword": "corinne stoddard",
-          "score": 92
-        },
-        {
-          "keyword": "dylan larkin",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-20T21:15:10.996Z",
       "geo": "US",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "inter - bodø/glimt",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-24T21:00:26.622Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "candace owens",
+          "score": 100
+        },
+        {
+          "keyword": "washington university danforth campus",
+          "score": 99
+        },
+        {
+          "keyword": "championship",
+          "score": 98
+        },
+        {
+          "keyword": "martin short",
+          "score": 97
+        },
+        {
+          "keyword": "leverkusen",
+          "score": 96
+        },
+        {
+          "keyword": "rafael olarra",
+          "score": 95
+        },
+        {
+          "keyword": "jake guentzel",
+          "score": 94
+        },
+        {
+          "keyword": "champions",
+          "score": 93
+        },
+        {
+          "keyword": "chet holmgren",
+          "score": 92
+        },
+        {
+          "keyword": "konnor griffin mlb",
           "score": 91
         }
       ]

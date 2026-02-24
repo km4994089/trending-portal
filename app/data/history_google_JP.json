@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-20T20:52:02.927Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "矢上 雅義",
-          "score": 100
-        },
-        {
-          "keyword": "スキーハーフパイプオリンピック",
-          "score": 99
-        },
-        {
-          "keyword": "instagram",
-          "score": 98
-        },
-        {
-          "keyword": "長森遥南",
-          "score": 97
-        },
-        {
-          "keyword": "niat puasa ramadhan",
-          "score": 96
-        },
-        {
-          "keyword": "菅田将暉",
-          "score": 95
-        },
-        {
-          "keyword": "openclaw",
-          "score": 94
-        },
-        {
-          "keyword": "mlb",
-          "score": 93
-        },
-        {
-          "keyword": "パチンコ",
-          "score": 92
-        },
-        {
-          "keyword": "nhl",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-20T21:15:13.666Z",
       "geo": "JP",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "エポスカード",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-24T21:00:28.890Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "天気",
+          "score": 100
+        },
+        {
+          "keyword": "天気予報",
+          "score": 99
+        },
+        {
+          "keyword": "大阪天気",
+          "score": 98
+        },
+        {
+          "keyword": "ジュニア special",
+          "score": 97
+        },
+        {
+          "keyword": "広島 天気",
+          "score": 96
+        },
+        {
+          "keyword": "岡田准一",
+          "score": 95
+        },
+        {
+          "keyword": "天気予報 東京",
+          "score": 94
+        },
+        {
+          "keyword": "weather today",
+          "score": 93
+        },
+        {
+          "keyword": "エヌビディア",
+          "score": 92
+        },
+        {
+          "keyword": "気象庁",
           "score": 91
         }
       ]
