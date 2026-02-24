@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-20T07:28:25.576Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kindergarten",
-          "score": 100
-        },
-        {
-          "keyword": "pokemon fire red",
-          "score": 99
-        },
-        {
-          "keyword": "victoria justice",
-          "score": 98
-        },
-        {
-          "keyword": "dhs",
-          "score": 97
-        },
-        {
-          "keyword": "derrick jones jr.",
-          "score": 96
-        },
-        {
-          "keyword": "jamal murray",
-          "score": 95
-        },
-        {
-          "keyword": "target",
-          "score": 94
-        },
-        {
-          "keyword": "delta airlines",
-          "score": 93
-        },
-        {
-          "keyword": "olivia rodrigo",
-          "score": 92
-        },
-        {
-          "keyword": "cal poly basketball",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-20T08:01:35.240Z",
       "geo": "US",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "katy perry",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-24T07:43:20.845Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tropical cyclone horacio",
+          "score": 100
+        },
+        {
+          "keyword": "panama canal ports",
+          "score": 99
+        },
+        {
+          "keyword": "bobby cannavale",
+          "score": 98
+        },
+        {
+          "keyword": "pokemon 30th anniversary logo",
+          "score": 97
+        },
+        {
+          "keyword": "winter olympics gold medals",
+          "score": 96
+        },
+        {
+          "keyword": "nbc renewals",
+          "score": 95
+        },
+        {
+          "keyword": "scottie",
+          "score": 94
+        },
+        {
+          "keyword": "david carradine",
+          "score": 93
+        },
+        {
+          "keyword": "neve campbell",
+          "score": 92
+        },
+        {
+          "keyword": "rafael jodar",
           "score": 91
         }
       ]
