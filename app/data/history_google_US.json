@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-20T18:50:43.380Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "orioles",
-          "score": 100
-        },
-        {
-          "keyword": "doha open",
-          "score": 99
-        },
-        {
-          "keyword": "red sox",
-          "score": 98
-        },
-        {
-          "keyword": "bet365",
-          "score": 97
-        },
-        {
-          "keyword": "winter storm watch",
-          "score": 96
-        },
-        {
-          "keyword": "brad marchand",
-          "score": 95
-        },
-        {
-          "keyword": "shea theodore",
-          "score": 94
-        },
-        {
-          "keyword": "macklin celebrini",
-          "score": 93
-        },
-        {
-          "keyword": "carlos alcaraz",
-          "score": 92
-        },
-        {
-          "keyword": "connor mcdavid",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-02-20T19:30:45.747Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "athletic - elche c. f.",
-          "score": 100
-        },
-        {
-          "keyword": "fetty wap",
-          "score": 99
-        },
-        {
-          "keyword": "gus kenworthy",
-          "score": 98
-        },
-        {
-          "keyword": "john irving",
-          "score": 97
-        },
-        {
-          "keyword": "brest vs marseille",
-          "score": 96
-        },
-        {
-          "keyword": "nick goepper",
-          "score": 95
-        },
-        {
-          "keyword": "qatar open",
-          "score": 94
-        },
-        {
-          "keyword": "workday",
-          "score": 93
-        },
-        {
-          "keyword": "orioles",
-          "score": 92
-        },
-        {
-          "keyword": "red sox",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-20T20:19:36.702Z",
       "geo": "US",
       "source": "google",
@@ -5685,6 +5591,53 @@
         },
         {
           "keyword": "brett kulak",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-24T19:43:34.484Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "chet holmgren",
+          "score": 100
+        },
+        {
+          "keyword": "anna kepner",
+          "score": 99
+        },
+        {
+          "keyword": "konnor griffin mlb",
+          "score": 98
+        },
+        {
+          "keyword": "newcastle vs qarabag fk",
+          "score": 97
+        },
+        {
+          "keyword": "leverkusen vs olympiacos",
+          "score": 96
+        },
+        {
+          "keyword": "marie antoinette",
+          "score": 95
+        },
+        {
+          "keyword": "middlesbrough vs leicester city",
+          "score": 94
+        },
+        {
+          "keyword": "ford explorer recalls",
+          "score": 93
+        },
+        {
+          "keyword": "alavés vs girona",
+          "score": 92
+        },
+        {
+          "keyword": "mike tauchman",
           "score": 91
         }
       ]
