@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-20T21:15:10.996Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "logan wilson",
-          "score": 100
-        },
-        {
-          "keyword": "tj oshie",
-          "score": 99
-        },
-        {
-          "keyword": "joey aguilar",
-          "score": 98
-        },
-        {
-          "keyword": "casper ruud",
-          "score": 97
-        },
-        {
-          "keyword": "tage thompson",
-          "score": 96
-        },
-        {
-          "keyword": "brady tkachuk",
-          "score": 95
-        },
-        {
-          "keyword": "white sox",
-          "score": 94
-        },
-        {
-          "keyword": "texas rangers",
-          "score": 93
-        },
-        {
-          "keyword": "asha sharma",
-          "score": 92
-        },
-        {
-          "keyword": "juraj slafkovsky",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-02-20T21:46:42.264Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "auston matthews",
-          "score": 100
-        },
-        {
-          "keyword": "wayne gretzky",
-          "score": 99
-        },
-        {
-          "keyword": "tomas tatar",
-          "score": 98
-        },
-        {
-          "keyword": "kamila sellier",
-          "score": 97
-        },
-        {
-          "keyword": "charlie mcavoy",
-          "score": 96
-        },
-        {
-          "keyword": "lindsay clancy",
-          "score": 95
-        },
-        {
-          "keyword": "sam antonacci",
-          "score": 94
-        },
-        {
-          "keyword": "logan wilson",
-          "score": 93
-        },
-        {
-          "keyword": "tj oshie",
-          "score": 92
-        },
-        {
-          "keyword": "casper ruud",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-20T22:14:57.065Z",
       "geo": "US",
       "source": "google",
@@ -5638,6 +5544,53 @@
         },
         {
           "keyword": "konnor griffin mlb",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-24T21:56:10.986Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "duke vs notre dame",
+          "score": 100
+        },
+        {
+          "keyword": "76ers vs pacers",
+          "score": 99
+        },
+        {
+          "keyword": "kentucky vs south carolina",
+          "score": 98
+        },
+        {
+          "keyword": "laura ann tull greys anatomy",
+          "score": 97
+        },
+        {
+          "keyword": "zeta stock",
+          "score": 96
+        },
+        {
+          "keyword": "axon stock",
+          "score": 95
+        },
+        {
+          "keyword": "cava stock",
+          "score": 94
+        },
+        {
+          "keyword": "jackson lacombe",
+          "score": 93
+        },
+        {
+          "keyword": "nfl draft",
+          "score": 92
+        },
+        {
+          "keyword": "meli stock",
           "score": 91
         }
       ]
