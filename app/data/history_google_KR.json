@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-20T05:11:47.744Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "최불암",
-          "score": 100
-        },
-        {
-          "keyword": "fc온라인",
-          "score": 99
-        },
-        {
-          "keyword": "블랙록",
-          "score": 98
-        },
-        {
-          "keyword": "eric dane",
-          "score": 97
-        },
-        {
-          "keyword": "하이닉스",
-          "score": 96
-        },
-        {
-          "keyword": "sk하이닉스",
-          "score": 95
-        },
-        {
-          "keyword": "테일러 프리츠",
-          "score": 94
-        },
-        {
-          "keyword": "복지로",
-          "score": 93
-        },
-        {
-          "keyword": "장동혁",
-          "score": 92
-        },
-        {
-          "keyword": "채현일",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-20T06:11:32.295Z",
       "geo": "KR",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "강원대",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-24T05:17:20.002Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "삼성전자",
+          "score": 100
+        },
+        {
+          "keyword": "청년문화예술패스",
+          "score": 99
+        },
+        {
+          "keyword": "윤하",
+          "score": 98
+        },
+        {
+          "keyword": "액스비스",
+          "score": 97
+        },
+        {
+          "keyword": "디트로이트 대 샌안토니오",
+          "score": 96
+        },
+        {
+          "keyword": "김규리",
+          "score": 95
+        },
+        {
+          "keyword": "sk하이닉스",
+          "score": 94
+        },
+        {
+          "keyword": "하이닉스",
+          "score": 93
+        },
+        {
+          "keyword": "하이닉스 주가",
+          "score": 92
+        },
+        {
+          "keyword": "장학재단",
           "score": 91
         }
       ]
