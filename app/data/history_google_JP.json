@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-20T23:19:45.767Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "永平寺",
-          "score": 100
-        },
-        {
-          "keyword": "花粉情報",
-          "score": 99
-        },
-        {
-          "keyword": "みんなで大家さん",
-          "score": 98
-        },
-        {
-          "keyword": "ごぶごぶフェス",
-          "score": 97
-        },
-        {
-          "keyword": "動物園",
-          "score": 96
-        },
-        {
-          "keyword": "アンミカ",
-          "score": 95
-        },
-        {
-          "keyword": "ジェミニ",
-          "score": 94
-        },
-        {
-          "keyword": "グーグル",
-          "score": 93
-        },
-        {
-          "keyword": "広瀬すず",
-          "score": 92
-        },
-        {
-          "keyword": "jre go",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-20T23:49:01.241Z",
       "geo": "JP",
       "source": "google",
@@ -5591,6 +5544,53 @@
         },
         {
           "keyword": "ボデグリムト",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-24T23:30:31.170Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "栗原類",
+          "score": 100
+        },
+        {
+          "keyword": "京急",
+          "score": 99
+        },
+        {
+          "keyword": "名古屋大学",
+          "score": 98
+        },
+        {
+          "keyword": "空飛ぶクルマ",
+          "score": 97
+        },
+        {
+          "keyword": "西田陸浮",
+          "score": 96
+        },
+        {
+          "keyword": "京王線",
+          "score": 95
+        },
+        {
+          "keyword": "富山湾",
+          "score": 94
+        },
+        {
+          "keyword": "jr西日本",
+          "score": 93
+        },
+        {
+          "keyword": "ラヴィット",
+          "score": 92
+        },
+        {
+          "keyword": "大勢",
           "score": 91
         }
       ]
