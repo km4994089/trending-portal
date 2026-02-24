@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-20T10:01:28.394Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "서강대",
-          "score": 100
-        },
-        {
-          "keyword": "패트릭 쇠더룬드",
-          "score": 99
-        },
-        {
-          "keyword": "조보아",
-          "score": 98
-        },
-        {
-          "keyword": "에릭 데인",
-          "score": 97
-        },
-        {
-          "keyword": "한화오션",
-          "score": 96
-        },
-        {
-          "keyword": "양우현",
-          "score": 95
-        },
-        {
-          "keyword": "노경은",
-          "score": 94
-        },
-        {
-          "keyword": "동아대학교",
-          "score": 93
-        },
-        {
-          "keyword": "동아대",
-          "score": 92
-        },
-        {
-          "keyword": "메가박스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-20T11:02:00.808Z",
       "geo": "KR",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "대구 날씨",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-24T10:37:59.214Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ibm 주가",
+          "score": 100
+        },
+        {
+          "keyword": "민생지원금",
+          "score": 99
+        },
+        {
+          "keyword": "전현무 칼빵",
+          "score": 98
+        },
+        {
+          "keyword": "엔화",
+          "score": 97
+        },
+        {
+          "keyword": "챈슬러",
+          "score": 96
+        },
+        {
+          "keyword": "강선우",
+          "score": 95
+        },
+        {
+          "keyword": "근로장려금",
+          "score": 94
+        },
+        {
+          "keyword": "케이뱅크 공모주",
+          "score": 93
+        },
+        {
+          "keyword": "안귀령",
+          "score": 92
+        },
+        {
+          "keyword": "두산베어스",
           "score": 91
         }
       ]
