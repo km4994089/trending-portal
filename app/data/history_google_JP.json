@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-21T07:48:49.636Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "小倉大賞典",
-          "score": 100
-        },
-        {
-          "keyword": "韓国国旗",
-          "score": 99
-        },
-        {
-          "keyword": "浦和レッドダイヤモンズ",
-          "score": 98
-        },
-        {
-          "keyword": "金メダル フィギュアスケート",
-          "score": 97
-        },
-        {
-          "keyword": "中川翔子",
-          "score": 96
-        },
-        {
-          "keyword": "weリーグ",
-          "score": 95
-        },
-        {
-          "keyword": "テラサ",
-          "score": 94
-        },
-        {
-          "keyword": "ldk 4月号",
-          "score": 93
-        },
-        {
-          "keyword": "ソンシ",
-          "score": 92
-        },
-        {
-          "keyword": "名古屋グランパス",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-02-21T08:18:59.998Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "シランケド",
-          "score": 100
-        },
-        {
-          "keyword": "エスパルス 試合",
-          "score": 99
-        },
-        {
-          "keyword": "平原綾香",
-          "score": 98
-        },
-        {
-          "keyword": "リーグワン",
-          "score": 97
-        },
-        {
-          "keyword": "アトリエシリーズ",
-          "score": 96
-        },
-        {
-          "keyword": "ファーストリテイリング",
-          "score": 95
-        },
-        {
-          "keyword": "長崎",
-          "score": 94
-        },
-        {
-          "keyword": "中日",
-          "score": 93
-        },
-        {
-          "keyword": "ブラウブリッツ秋田",
-          "score": 92
-        },
-        {
-          "keyword": "カープ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-21T08:52:35.593Z",
       "geo": "JP",
       "source": "google",
@@ -5497,6 +5403,53 @@
         },
         {
           "keyword": "コムドット ひゅうが",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-25T08:36:59.937Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "マックナゲット",
+          "score": 100
+        },
+        {
+          "keyword": "東邦チタニウム",
+          "score": 99
+        },
+        {
+          "keyword": "コメダ ポケモン",
+          "score": 98
+        },
+        {
+          "keyword": "日経平均株価 最高値",
+          "score": 97
+        },
+        {
+          "keyword": "ユングフラウ賞",
+          "score": 96
+        },
+        {
+          "keyword": "蘭越",
+          "score": 95
+        },
+        {
+          "keyword": "マイクロソフト",
+          "score": 94
+        },
+        {
+          "keyword": "韓国",
+          "score": 93
+        },
+        {
+          "keyword": "江別市",
+          "score": 92
+        },
+        {
+          "keyword": "さいたま市",
           "score": 91
         }
       ]
