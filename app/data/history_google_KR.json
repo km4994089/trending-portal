@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-21T18:20:50.295Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김준수",
-          "score": 100
-        },
-        {
-          "keyword": "김보름",
-          "score": 99
-        },
-        {
-          "keyword": "เชลซี พบ เบิร์นลีย์",
-          "score": 98
-        },
-        {
-          "keyword": "첼트넘 대 솔퍼드 시티",
-          "score": 97
-        },
-        {
-          "keyword": "bayern vs eintracht frankfurt",
-          "score": 96
-        },
-        {
-          "keyword": "chelsea vs burnley",
-          "score": 95
-        },
-        {
-          "keyword": "노상원",
-          "score": 94
-        },
-        {
-          "keyword": "유벤투스",
-          "score": 93
-        },
-        {
-          "keyword": "juventus vs como",
-          "score": 92
-        },
-        {
-          "keyword": "첼시 대 번리",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-21T18:57:46.926Z",
       "geo": "KR",
       "source": "google",
@@ -4886,6 +4839,53 @@
         },
         {
           "keyword": "icc",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-25T18:52:19.721Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "도르트문트",
+          "score": 100
+        },
+        {
+          "keyword": "최현욱",
+          "score": 99
+        },
+        {
+          "keyword": "s26",
+          "score": 98
+        },
+        {
+          "keyword": "videos",
+          "score": 97
+        },
+        {
+          "keyword": "엔비디아",
+          "score": 96
+        },
+        {
+          "keyword": "박영규",
+          "score": 95
+        },
+        {
+          "keyword": "대진대",
+          "score": 94
+        },
+        {
+          "keyword": "노민우",
+          "score": 93
+        },
+        {
+          "keyword": "현주엽",
+          "score": 92
+        },
+        {
+          "keyword": "갤럭시 언팩",
           "score": 91
         }
       ]
