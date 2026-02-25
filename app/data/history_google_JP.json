@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-21T23:43:45.536Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "レアアース",
-          "score": 100
-        },
-        {
-          "keyword": "王子動物園",
-          "score": 99
-        },
-        {
-          "keyword": "宮崎 天気",
-          "score": 98
-        },
-        {
-          "keyword": "小野寺五典",
-          "score": 97
-        },
-        {
-          "keyword": "階",
-          "score": 96
-        },
-        {
-          "keyword": "階 猛",
-          "score": 95
-        },
-        {
-          "keyword": "鉄道博物館",
-          "score": 94
-        },
-        {
-          "keyword": "ランクルfj",
-          "score": 93
-        },
-        {
-          "keyword": "金子文子",
-          "score": 92
-        },
-        {
-          "keyword": "味の素",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-22T01:13:32.625Z",
       "geo": "JP",
       "source": "google",
@@ -4745,6 +4698,53 @@
         },
         {
           "keyword": "天気予報 名古屋",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-25T23:51:20.478Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "インフラ",
+          "score": 100
+        },
+        {
+          "keyword": "埼玉りそな銀行",
+          "score": 99
+        },
+        {
+          "keyword": "パンチくん",
+          "score": 98
+        },
+        {
+          "keyword": "cruzeiro x corinthians",
+          "score": 97
+        },
+        {
+          "keyword": "東北電力",
+          "score": 96
+        },
+        {
+          "keyword": "黄砂",
+          "score": 95
+        },
+        {
+          "keyword": "銀行",
+          "score": 94
+        },
+        {
+          "keyword": "ピーチ航空",
+          "score": 93
+        },
+        {
+          "keyword": "エヌビディア決算発表",
+          "score": 92
+        },
+        {
+          "keyword": "加藤清史郎",
           "score": 91
         }
       ]
