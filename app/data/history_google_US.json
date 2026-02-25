@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-21T20:46:02.010Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "bobsled",
-          "score": 100
-        },
-        {
-          "keyword": "coastal flood warning",
-          "score": 99
-        },
-        {
-          "keyword": "brewers",
-          "score": 98
-        },
-        {
-          "keyword": "uh basketball",
-          "score": 97
-        },
-        {
-          "keyword": "dodgers vs angels",
-          "score": 96
-        },
-        {
-          "keyword": "koa peat",
-          "score": 95
-        },
-        {
-          "keyword": "kansas state vs texas tech",
-          "score": 94
-        },
-        {
-          "keyword": "lafc vs inter miami",
-          "score": 93
-        },
-        {
-          "keyword": "miami fl vs virginia",
-          "score": 92
-        },
-        {
-          "keyword": "marco penge",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-21T21:13:45.260Z",
       "geo": "US",
       "source": "google",
@@ -4792,6 +4745,53 @@
         },
         {
           "keyword": "real madrid - benfica",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-25T20:59:55.268Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "psg",
+          "score": 100
+        },
+        {
+          "keyword": "juventus",
+          "score": 99
+        },
+        {
+          "keyword": "richard ríos",
+          "score": 98
+        },
+        {
+          "keyword": "s.l. benfica",
+          "score": 97
+        },
+        {
+          "keyword": "arda güler",
+          "score": 96
+        },
+        {
+          "keyword": "pat mcafee",
+          "score": 95
+        },
+        {
+          "keyword": "taylor townsend",
+          "score": 94
+        },
+        {
+          "keyword": "tudn",
+          "score": 93
+        },
+        {
+          "keyword": "champions league standings",
+          "score": 92
+        },
+        {
+          "keyword": "real madrid",
           "score": 91
         }
       ]
