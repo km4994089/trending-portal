@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-21T21:13:46.815Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "카를로스 알카라스",
-          "score": 100
-        },
-        {
-          "keyword": "осасуна – реал мадрид",
-          "score": 99
-        },
-        {
-          "keyword": "왕사남",
-          "score": 98
-        },
-        {
-          "keyword": "osasuna vs madrid",
-          "score": 97
-        },
-        {
-          "keyword": "osasuna vs real madrid",
-          "score": 96
-        },
-        {
-          "keyword": "레알",
-          "score": 95
-        },
-        {
-          "keyword": "첼시",
-          "score": 94
-        },
-        {
-          "keyword": "김준수",
-          "score": 93
-        },
-        {
-          "keyword": "김보름",
-          "score": 92
-        },
-        {
-          "keyword": "เชลซี พบ เบิร์นลีย์",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-21T21:43:18.538Z",
       "geo": "KR",
       "source": "google",
@@ -4792,6 +4745,53 @@
         },
         {
           "keyword": "최현욱",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-25T21:37:33.001Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "real madrid",
+          "score": 100
+        },
+        {
+          "keyword": "real madrid vs benfica",
+          "score": 99
+        },
+        {
+          "keyword": "atalanta vs dortmund",
+          "score": 98
+        },
+        {
+          "keyword": "챔피언스리그",
+          "score": 97
+        },
+        {
+          "keyword": "레알마드리드",
+          "score": 96
+        },
+        {
+          "keyword": "유벤투스",
+          "score": 95
+        },
+        {
+          "keyword": "psg",
+          "score": 94
+        },
+        {
+          "keyword": "스포티비",
+          "score": 93
+        },
+        {
+          "keyword": "psg 대 as 모나코",
+          "score": 92
+        },
+        {
+          "keyword": "버즈4",
           "score": 91
         }
       ]

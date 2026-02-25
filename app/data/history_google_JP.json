@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-21T21:13:48.301Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "関越自動車道 渋滞",
-          "score": 100
-        },
-        {
-          "keyword": "al-nassr vs al-hazem",
-          "score": 99
-        },
-        {
-          "keyword": "スポーツ",
-          "score": 98
-        },
-        {
-          "keyword": "man city vs newcastle",
-          "score": 97
-        },
-        {
-          "keyword": "アンバーグレン",
-          "score": 96
-        },
-        {
-          "keyword": "アヤックス 対 nec",
-          "score": 95
-        },
-        {
-          "keyword": "ドジャース",
-          "score": 94
-        },
-        {
-          "keyword": "マンc 対 ニューカッスル",
-          "score": 93
-        },
-        {
-          "keyword": "カルロス・アルカラス",
-          "score": 92
-        },
-        {
-          "keyword": "フォートナイト",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-21T21:43:19.781Z",
       "geo": "JP",
       "source": "google",
@@ -4792,6 +4745,53 @@
         },
         {
           "keyword": "jr西日本",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-25T21:37:34.642Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "レアル",
+          "score": 100
+        },
+        {
+          "keyword": "saas",
+          "score": 99
+        },
+        {
+          "keyword": "ユベントス",
+          "score": 98
+        },
+        {
+          "keyword": "uefaチャンピオンズリーグ",
+          "score": 97
+        },
+        {
+          "keyword": "千原ジュニア",
+          "score": 96
+        },
+        {
+          "keyword": "セールスフォース 株価",
+          "score": 95
+        },
+        {
+          "keyword": "天気予報 東京",
+          "score": 94
+        },
+        {
+          "keyword": "天気 東京",
+          "score": 93
+        },
+        {
+          "keyword": "今日の天気は",
+          "score": 92
+        },
+        {
+          "keyword": "西武鉄道",
           "score": 91
         }
       ]

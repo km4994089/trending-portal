@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-21T21:13:45.260Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "missouri vs arkansas",
-          "score": 100
-        },
-        {
-          "keyword": "texas vs georgia",
-          "score": 99
-        },
-        {
-          "keyword": "sporting cristal - universitario",
-          "score": 98
-        },
-        {
-          "keyword": "primera división de arabia saudita",
-          "score": 97
-        },
-        {
-          "keyword": "jacob bridgeman",
-          "score": 96
-        },
-        {
-          "keyword": "sebastian korda",
-          "score": 95
-        },
-        {
-          "keyword": "washington vs maryland",
-          "score": 94
-        },
-        {
-          "keyword": "magic vs suns",
-          "score": 93
-        },
-        {
-          "keyword": "finland hockey",
-          "score": 92
-        },
-        {
-          "keyword": "sf giants",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-21T21:43:17.301Z",
       "geo": "US",
       "source": "google",
@@ -4792,6 +4745,53 @@
         },
         {
           "keyword": "real madrid",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-25T21:37:31.452Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "st john's vs uconn",
+          "score": 100
+        },
+        {
+          "keyword": "ionq stock",
+          "score": 99
+        },
+        {
+          "keyword": "fifa world cup",
+          "score": 98
+        },
+        {
+          "keyword": "crm stock",
+          "score": 97
+        },
+        {
+          "keyword": "jackson hewitt tax service",
+          "score": 96
+        },
+        {
+          "keyword": "snow stock",
+          "score": 95
+        },
+        {
+          "keyword": "ttd stock",
+          "score": 94
+        },
+        {
+          "keyword": "saudi pro league",
+          "score": 93
+        },
+        {
+          "keyword": "uefa",
+          "score": 92
+        },
+        {
+          "keyword": "rashaun jones",
           "score": 91
         }
       ]
