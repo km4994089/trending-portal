@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-21T09:50:21.097Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "荻原次晴",
-          "score": 100
-        },
-        {
-          "keyword": "新しいカギ",
-          "score": 99
-        },
-        {
-          "keyword": "渡辺謙",
-          "score": 98
-        },
-        {
-          "keyword": "神戸 花火",
-          "score": 97
-        },
-        {
-          "keyword": "die",
-          "score": 96
-        },
-        {
-          "keyword": "hero",
-          "score": 95
-        },
-        {
-          "keyword": "チケットぴあ",
-          "score": 94
-        },
-        {
-          "keyword": "田中貴金属",
-          "score": 93
-        },
-        {
-          "keyword": "新居浜市",
-          "score": 92
-        },
-        {
-          "keyword": "ぴあ",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-02-21T10:15:37.103Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "吉川愛",
-          "score": 100
-        },
-        {
-          "keyword": "不二家",
-          "score": 99
-        },
-        {
-          "keyword": "福士蒼汰",
-          "score": 98
-        },
-        {
-          "keyword": "大友康平",
-          "score": 97
-        },
-        {
-          "keyword": "エアリアル",
-          "score": 96
-        },
-        {
-          "keyword": "八木勇征",
-          "score": 95
-        },
-        {
-          "keyword": "久野美咲",
-          "score": 94
-        },
-        {
-          "keyword": "グリーンランド",
-          "score": 93
-        },
-        {
-          "keyword": "スキークロス オリンピック",
-          "score": 92
-        },
-        {
-          "keyword": "いすみ市",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-21T10:49:22.043Z",
       "geo": "JP",
       "source": "google",
@@ -5403,6 +5309,53 @@
         },
         {
           "keyword": "池田伸子",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-25T10:40:23.471Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "イーロンマスク",
+          "score": 100
+        },
+        {
+          "keyword": "スティーブジョブズ",
+          "score": 99
+        },
+        {
+          "keyword": "レアアース",
+          "score": 98
+        },
+        {
+          "keyword": "テスラ",
+          "score": 97
+        },
+        {
+          "keyword": "トムクルーズ",
+          "score": 96
+        },
+        {
+          "keyword": "アップル",
+          "score": 95
+        },
+        {
+          "keyword": "伊藤健太郎",
+          "score": 94
+        },
+        {
+          "keyword": "スピルバーグ",
+          "score": 93
+        },
+        {
+          "keyword": "ピーター",
+          "score": 92
+        },
+        {
+          "keyword": "スターウォーズ",
           "score": 91
         }
       ]
