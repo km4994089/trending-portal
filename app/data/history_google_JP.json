@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-21T03:34:55.035Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "嵐莉菜",
-          "score": 100
-        },
-        {
-          "keyword": "大井競馬場",
-          "score": 99
-        },
-        {
-          "keyword": "せやねん",
-          "score": 98
-        },
-        {
-          "keyword": "東北新幹線",
-          "score": 97
-        },
-        {
-          "keyword": "横澤夏子",
-          "score": 96
-        },
-        {
-          "keyword": "ネイマール",
-          "score": 95
-        },
-        {
-          "keyword": "北陸新幹線",
-          "score": 94
-        },
-        {
-          "keyword": "星野源",
-          "score": 93
-        },
-        {
-          "keyword": "中央線",
-          "score": 92
-        },
-        {
-          "keyword": "松重豊",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-21T05:00:50.933Z",
       "geo": "JP",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "イビデン 株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-25T03:56:44.242Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "claude",
+          "score": 100
+        },
+        {
+          "keyword": "claude code",
+          "score": 99
+        },
+        {
+          "keyword": "バスケ 日本代表",
+          "score": 98
+        },
+        {
+          "keyword": "punch the monkey",
+          "score": 97
+        },
+        {
+          "keyword": "ebidan メンバー",
+          "score": 96
+        },
+        {
+          "keyword": "ドムドムバーガー",
+          "score": 95
+        },
+        {
+          "keyword": "伊東秀仁",
+          "score": 94
+        },
+        {
+          "keyword": "ぴあ",
+          "score": 93
+        },
+        {
+          "keyword": "超特急 メンバー",
+          "score": 92
+        },
+        {
+          "keyword": "弥生",
           "score": 91
         }
       ]
