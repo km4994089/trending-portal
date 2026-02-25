@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-20T23:49:01.241Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "トヨタ・ハイエース",
-          "score": 100
-        },
-        {
-          "keyword": "岡本和真",
-          "score": 99
-        },
-        {
-          "keyword": "亀梨和也",
-          "score": 98
-        },
-        {
-          "keyword": "徳山競艇",
-          "score": 97
-        },
-        {
-          "keyword": "suica",
-          "score": 96
-        },
-        {
-          "keyword": "オリンピック 閉会式",
-          "score": 95
-        },
-        {
-          "keyword": "代々木公園",
-          "score": 94
-        },
-        {
-          "keyword": "ユニバーサル",
-          "score": 93
-        },
-        {
-          "keyword": "星野リゾート",
-          "score": 92
-        },
-        {
-          "keyword": "神保町",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-02-21T01:07:57.226Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "東洋大学",
-          "score": 100
-        },
-        {
-          "keyword": "三軒茶屋",
-          "score": 99
-        },
-        {
-          "keyword": "king gnu",
-          "score": 98
-        },
-        {
-          "keyword": "名古屋城",
-          "score": 97
-        },
-        {
-          "keyword": "アドベンチャーワールド",
-          "score": 96
-        },
-        {
-          "keyword": "片山さつき",
-          "score": 95
-        },
-        {
-          "keyword": "福岡大学",
-          "score": 94
-        },
-        {
-          "keyword": "棋王戦",
-          "score": 93
-        },
-        {
-          "keyword": "万博記念公園 イベント",
-          "score": 92
-        },
-        {
-          "keyword": "横尾渉",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-21T03:34:55.035Z",
       "geo": "JP",
       "source": "google",
@@ -5591,6 +5497,53 @@
         },
         {
           "keyword": "大勢",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-25T01:16:56.690Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "萩原利久",
+          "score": 100
+        },
+        {
+          "keyword": "中間淳太",
+          "score": 99
+        },
+        {
+          "keyword": "8306",
+          "score": 98
+        },
+        {
+          "keyword": "岡三証券",
+          "score": 97
+        },
+        {
+          "keyword": "メッシ",
+          "score": 96
+        },
+        {
+          "keyword": "sdgs",
+          "score": 95
+        },
+        {
+          "keyword": "地球温暖化",
+          "score": 94
+        },
+        {
+          "keyword": "ユネスコ",
+          "score": 93
+        },
+        {
+          "keyword": "宮城県",
+          "score": 92
+        },
+        {
+          "keyword": "イビデン 株価",
           "score": 91
         }
       ]
