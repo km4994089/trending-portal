@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-22T01:13:30.320Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jalen green",
-          "score": 100
-        },
-        {
-          "keyword": "sheldon creed",
-          "score": 99
-        },
-        {
-          "keyword": "minnesota vs austin",
-          "score": 98
-        },
-        {
-          "keyword": "arizona state vs baylor",
-          "score": 97
-        },
-        {
-          "keyword": "necaxa - toluca",
-          "score": 96
-        },
-        {
-          "keyword": "costco food court",
-          "score": 95
-        },
-        {
-          "keyword": "olivia jade",
-          "score": 94
-        },
-        {
-          "keyword": "ncaa basketball scores",
-          "score": 93
-        },
-        {
-          "keyword": "león - santos",
-          "score": 92
-        },
-        {
-          "keyword": "chidi njokuani",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-22T03:54:19.981Z",
       "geo": "US",
       "source": "google",
@@ -4792,6 +4745,53 @@
         },
         {
           "keyword": "copa libertadores",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-26T03:44:24.988Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "robert de niro",
+          "score": 100
+        },
+        {
+          "keyword": "smu basketball",
+          "score": 99
+        },
+        {
+          "keyword": "nikola jokic",
+          "score": 98
+        },
+        {
+          "keyword": "jets vs canucks",
+          "score": 97
+        },
+        {
+          "keyword": "ihsa boys basketball",
+          "score": 96
+        },
+        {
+          "keyword": "spurs schedule",
+          "score": 95
+        },
+        {
+          "keyword": "michigan vs ohio state",
+          "score": 94
+        },
+        {
+          "keyword": "oilers vs ducks",
+          "score": 93
+        },
+        {
+          "keyword": "lsu basketball",
+          "score": 92
+        },
+        {
+          "keyword": "jarrett allen",
           "score": 91
         }
       ]
