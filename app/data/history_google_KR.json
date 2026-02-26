@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-22T07:09:33.547Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "서주경",
-          "score": 100
-        },
-        {
-          "keyword": "두쫀쿠 원조",
-          "score": 99
-        },
-        {
-          "keyword": "rondale moore",
-          "score": 98
-        },
-        {
-          "keyword": "전소미",
-          "score": 97
-        },
-        {
-          "keyword": "천록담",
-          "score": 96
-        },
-        {
-          "keyword": "남보라",
-          "score": 95
-        },
-        {
-          "keyword": "스타벅스 리유저블컵",
-          "score": 94
-        },
-        {
-          "keyword": "호날두",
-          "score": 93
-        },
-        {
-          "keyword": "김은희",
-          "score": 92
-        },
-        {
-          "keyword": "미세먼지",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-22T07:52:22.749Z",
       "geo": "KR",
       "source": "google",
@@ -4745,6 +4698,53 @@
         },
         {
           "keyword": "영남대",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-26T07:43:44.949Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "주식",
+          "score": 100
+        },
+        {
+          "keyword": "현대모비스",
+          "score": 99
+        },
+        {
+          "keyword": "가비",
+          "score": 98
+        },
+        {
+          "keyword": "현대차",
+          "score": 97
+        },
+        {
+          "keyword": "유해진",
+          "score": 96
+        },
+        {
+          "keyword": "예술의전당",
+          "score": 95
+        },
+        {
+          "keyword": "티켓링크",
+          "score": 94
+        },
+        {
+          "keyword": "한화비전",
+          "score": 93
+        },
+        {
+          "keyword": "한미반도체 주가",
+          "score": 92
+        },
+        {
+          "keyword": "박수홍",
           "score": 91
         }
       ]
