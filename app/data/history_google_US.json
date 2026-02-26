@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-22T22:48:24.841Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "iftar time today",
-          "score": 100
-        },
-        {
-          "keyword": "knicks vs bulls",
-          "score": 99
-        },
-        {
-          "keyword": "sebastian korda",
-          "score": 98
-        },
-        {
-          "keyword": "pumas - monterrey",
-          "score": 97
-        },
-        {
-          "keyword": "kyle larson",
-          "score": 96
-        },
-        {
-          "keyword": "baltimore county public schools",
-          "score": 95
-        },
-        {
-          "keyword": "adam scott golfer",
-          "score": 94
-        },
-        {
-          "keyword": "hornets vs wizards",
-          "score": 93
-        },
-        {
-          "keyword": "adam scott",
-          "score": 92
-        },
-        {
-          "keyword": "vélez - river plate",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-22T23:16:02.974Z",
       "geo": "US",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "block",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-26T22:58:25.090Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "iftar time today",
+          "score": 100
+        },
+        {
+          "keyword": "gretchen whitmer",
+          "score": 99
+        },
+        {
+          "keyword": "river plate - banfield",
+          "score": 98
+        },
+        {
+          "keyword": "hornets vs pacers",
+          "score": 97
+        },
+        {
+          "keyword": "bruins",
+          "score": 96
+        },
+        {
+          "keyword": "david bailey",
+          "score": 95
+        },
+        {
+          "keyword": "rockets vs magic",
+          "score": 94
+        },
+        {
+          "keyword": "square",
+          "score": 93
+        },
+        {
+          "keyword": "rhode island basketball",
+          "score": 92
+        },
+        {
+          "keyword": "zohran mamdani",
           "score": 91
         }
       ]

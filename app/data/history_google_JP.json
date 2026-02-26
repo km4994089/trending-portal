@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-22T22:48:27.620Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "俵万智",
-          "score": 100
-        },
-        {
-          "keyword": "風間俊介",
-          "score": 99
-        },
-        {
-          "keyword": "椿野ゆうこ",
-          "score": 98
-        },
-        {
-          "keyword": "遠野",
-          "score": 97
-        },
-        {
-          "keyword": "競輪結果",
-          "score": 96
-        },
-        {
-          "keyword": "el mencho",
-          "score": 95
-        },
-        {
-          "keyword": "コナン映画",
-          "score": 94
-        },
-        {
-          "keyword": "コメダ",
-          "score": 93
-        },
-        {
-          "keyword": "ハイデンハイム 対 シュトゥットガルト",
-          "score": 92
-        },
-        {
-          "keyword": "飯田圭織",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-22T23:16:05.827Z",
       "geo": "JP",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "大阪天気",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-26T22:58:27.935Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "桑田佳祐 落語",
+          "score": 100
+        },
+        {
+          "keyword": "el",
+          "score": 99
+        },
+        {
+          "keyword": "ドラえもん",
+          "score": 98
+        },
+        {
+          "keyword": "オラキオ",
+          "score": 97
+        },
+        {
+          "keyword": "オーシャンステークス",
+          "score": 96
+        },
+        {
+          "keyword": "リテラシー",
+          "score": 95
+        },
+        {
+          "keyword": "みずほ",
+          "score": 94
+        },
+        {
+          "keyword": "阿部亮平",
+          "score": 93
+        },
+        {
+          "keyword": "yahoo天気",
+          "score": 92
+        },
+        {
+          "keyword": "金ロー",
           "score": 91
         }
       ]
