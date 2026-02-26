@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-22T22:14:01.993Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ハイデンハイム 対 シュトゥットガルト",
-          "score": 100
-        },
-        {
-          "keyword": "今日の天気は",
-          "score": 99
-        },
-        {
-          "keyword": "倉悠貴",
-          "score": 98
-        },
-        {
-          "keyword": "茅原悠紀フライング",
-          "score": 97
-        },
-        {
-          "keyword": "アフォーダブル住宅",
-          "score": 96
-        },
-        {
-          "keyword": "デフテック",
-          "score": 95
-        },
-        {
-          "keyword": "黄砂 今日",
-          "score": 94
-        },
-        {
-          "keyword": "朝マック",
-          "score": 93
-        },
-        {
-          "keyword": "ウォリアーズ 対 ナゲッツ",
-          "score": 92
-        },
-        {
-          "keyword": "パラリンピック",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-22T22:48:27.620Z",
       "geo": "JP",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "ゲンク 対 ザグレブ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-26T22:22:20.265Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "エプスタイン",
+          "score": 100
+        },
+        {
+          "keyword": "松本大",
+          "score": 99
+        },
+        {
+          "keyword": "高橋凛",
+          "score": 98
+        },
+        {
+          "keyword": "黒田アナ",
+          "score": 97
+        },
+        {
+          "keyword": "今日の天気",
+          "score": 96
+        },
+        {
+          "keyword": "eu",
+          "score": 95
+        },
+        {
+          "keyword": "날씨",
+          "score": 94
+        },
+        {
+          "keyword": "東京マラソン 2026",
+          "score": 93
+        },
+        {
+          "keyword": "成田エクスプレス",
+          "score": 92
+        },
+        {
+          "keyword": "大阪天気",
           "score": 91
         }
       ]
