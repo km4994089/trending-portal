@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-22T23:45:54.631Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "飯山トンネル",
-          "score": 100
-        },
-        {
-          "keyword": "北野天満宮",
-          "score": 99
-        },
-        {
-          "keyword": "多摩動物公園",
-          "score": 98
-        },
-        {
-          "keyword": "ラヴィット",
-          "score": 97
-        },
-        {
-          "keyword": "動物園",
-          "score": 96
-        },
-        {
-          "keyword": "あべのハルカス",
-          "score": 95
-        },
-        {
-          "keyword": "北陸新幹線",
-          "score": 94
-        },
-        {
-          "keyword": "ばけばけ",
-          "score": 93
-        },
-        {
-          "keyword": "イオンシネマ",
-          "score": 92
-        },
-        {
-          "keyword": "朝ドラ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-23T01:13:06.821Z",
       "geo": "JP",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "グッドモーニング",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-26T23:52:48.055Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "パラマウント",
+          "score": 100
+        },
+        {
+          "keyword": "今井達也",
+          "score": 99
+        },
+        {
+          "keyword": "三重県 後期選抜 倍率",
+          "score": 98
+        },
+        {
+          "keyword": "仲野太賀",
+          "score": 97
+        },
+        {
+          "keyword": "みずほ銀行",
+          "score": 96
+        },
+        {
+          "keyword": "近藤千尋",
+          "score": 95
+        },
+        {
+          "keyword": "千葉銀行",
+          "score": 94
+        },
+        {
+          "keyword": "永野芽郁",
+          "score": 93
+        },
+        {
+          "keyword": "西鉄バス",
+          "score": 92
+        },
+        {
+          "keyword": "白石聖",
           "score": 91
         }
       ]
