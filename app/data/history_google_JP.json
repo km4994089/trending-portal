@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-22T06:07:49.281Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "j2",
-          "score": 100
-        },
-        {
-          "keyword": "三浦涼介",
-          "score": 99
-        },
-        {
-          "keyword": "東京ドーム イベント",
-          "score": 98
-        },
-        {
-          "keyword": "大地真央",
-          "score": 97
-        },
-        {
-          "keyword": "宮崎",
-          "score": 96
-        },
-        {
-          "keyword": "横浜fc",
-          "score": 95
-        },
-        {
-          "keyword": "山下美月",
-          "score": 94
-        },
-        {
-          "keyword": "宮城大弥",
-          "score": 93
-        },
-        {
-          "keyword": "宝塚",
-          "score": 92
-        },
-        {
-          "keyword": "秋広優人",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-22T07:09:35.155Z",
       "geo": "JP",
       "source": "google",
@@ -4745,6 +4698,53 @@
         },
         {
           "keyword": "木下直哉",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-26T06:31:47.504Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "大阪府",
+          "score": 100
+        },
+        {
+          "keyword": "大杉漣",
+          "score": 99
+        },
+        {
+          "keyword": "侍ジャパン 日程",
+          "score": 98
+        },
+        {
+          "keyword": "本田望結",
+          "score": 97
+        },
+        {
+          "keyword": "仮面ライダーゼッツ",
+          "score": 96
+        },
+        {
+          "keyword": "大田区",
+          "score": 95
+        },
+        {
+          "keyword": "宝塚記念",
+          "score": 94
+        },
+        {
+          "keyword": "梶裕貴",
+          "score": 93
+        },
+        {
+          "keyword": "国民年金",
+          "score": 92
+        },
+        {
+          "keyword": "バンテリンドーム",
           "score": 91
         }
       ]

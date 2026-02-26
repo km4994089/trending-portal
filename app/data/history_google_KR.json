@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-22T06:07:48.219Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "두쫀쿠 원조",
-          "score": 100
-        },
-        {
-          "keyword": "rondale moore",
-          "score": 99
-        },
-        {
-          "keyword": "천록담",
-          "score": 98
-        },
-        {
-          "keyword": "남보라",
-          "score": 97
-        },
-        {
-          "keyword": "스타벅스 리유저블컵",
-          "score": 96
-        },
-        {
-          "keyword": "호날두",
-          "score": 95
-        },
-        {
-          "keyword": "김은희",
-          "score": 94
-        },
-        {
-          "keyword": "미세먼지",
-          "score": 93
-        },
-        {
-          "keyword": "노영대",
-          "score": 92
-        },
-        {
-          "keyword": "스포츠티비",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-22T07:09:33.547Z",
       "geo": "KR",
       "source": "google",
@@ -4745,6 +4698,53 @@
         },
         {
           "keyword": "상법",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-26T06:31:46.213Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "유해진",
+          "score": 100
+        },
+        {
+          "keyword": "예술의전당",
+          "score": 99
+        },
+        {
+          "keyword": "티켓링크",
+          "score": 98
+        },
+        {
+          "keyword": "포모",
+          "score": 97
+        },
+        {
+          "keyword": "한화비전",
+          "score": 96
+        },
+        {
+          "keyword": "한미반도체 주가",
+          "score": 95
+        },
+        {
+          "keyword": "박수홍",
+          "score": 94
+        },
+        {
+          "keyword": "punch the monkey",
+          "score": 93
+        },
+        {
+          "keyword": "etf",
+          "score": 92
+        },
+        {
+          "keyword": "영남대",
           "score": 91
         }
       ]
