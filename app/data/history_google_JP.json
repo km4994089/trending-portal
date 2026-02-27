@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-23T07:46:56.227Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ahamo",
-          "score": 100
-        },
-        {
-          "keyword": "フランスアルプスオリンピック",
-          "score": 99
-        },
-        {
-          "keyword": "佐藤龍之介",
-          "score": 98
-        },
-        {
-          "keyword": "秋広優人",
-          "score": 97
-        },
-        {
-          "keyword": "原大智",
-          "score": 96
-        },
-        {
-          "keyword": "笹川吉康",
-          "score": 95
-        },
-        {
-          "keyword": "源田壮亮",
-          "score": 94
-        },
-        {
-          "keyword": "藤原大翔",
-          "score": 93
-        },
-        {
-          "keyword": "オートレース",
-          "score": 92
-        },
-        {
-          "keyword": "サグラダファミリア 完成",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-23T08:36:56.462Z",
       "geo": "JP",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "京王線",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-27T08:00:53.785Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ピョン・ヨハン",
+          "score": 100
+        },
+        {
+          "keyword": "多摩川競艇",
+          "score": 99
+        },
+        {
+          "keyword": "藤木勇我",
+          "score": 98
+        },
+        {
+          "keyword": "児島競艇",
+          "score": 97
+        },
+        {
+          "keyword": "モンスターラボ",
+          "score": 96
+        },
+        {
+          "keyword": "大塚千弘",
+          "score": 95
+        },
+        {
+          "keyword": "天覧試合",
+          "score": 94
+        },
+        {
+          "keyword": "三井不動産",
+          "score": 93
+        },
+        {
+          "keyword": "武道館",
+          "score": 92
+        },
+        {
+          "keyword": "lg",
           "score": 91
         }
       ]
