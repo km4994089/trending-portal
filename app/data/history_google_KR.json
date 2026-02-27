@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-23T05:26:10.078Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "스타벅스 리유저블컵",
-          "score": 100
-        },
-        {
-          "keyword": "윤영경",
-          "score": 99
-        },
-        {
-          "keyword": "이학재",
-          "score": 98
-        },
-        {
-          "keyword": "bts 광화문 공연",
-          "score": 97
-        },
-        {
-          "keyword": "액스비스",
-          "score": 96
-        },
-        {
-          "keyword": "송성문",
-          "score": 95
-        },
-        {
-          "keyword": "정동원",
-          "score": 94
-        },
-        {
-          "keyword": "mexico",
-          "score": 93
-        },
-        {
-          "keyword": "cjng",
-          "score": 92
-        },
-        {
-          "keyword": "한전",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-23T06:39:26.812Z",
       "geo": "KR",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "한국전력",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-27T06:09:20.447Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "현대제철",
+          "score": 100
+        },
+        {
+          "keyword": "군산대",
+          "score": 99
+        },
+        {
+          "keyword": "정의선",
+          "score": 98
+        },
+        {
+          "keyword": "에어로카노",
+          "score": 97
+        },
+        {
+          "keyword": "국세청 경매",
+          "score": 96
+        },
+        {
+          "keyword": "현대차",
+          "score": 95
+        },
+        {
+          "keyword": "파키스탄",
+          "score": 94
+        },
+        {
+          "keyword": "반포대교 포르쉐",
+          "score": 93
+        },
+        {
+          "keyword": "새만금",
+          "score": 92
+        },
+        {
+          "keyword": "서울옥션",
           "score": 91
         }
       ]

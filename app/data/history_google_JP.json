@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-23T05:26:11.448Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "周東佑京",
-          "score": 100
-        },
-        {
-          "keyword": "星座占い",
-          "score": 99
-        },
-        {
-          "keyword": "石川柊太",
-          "score": 98
-        },
-        {
-          "keyword": "prime video",
-          "score": 97
-        },
-        {
-          "keyword": "ポケモン30周年",
-          "score": 96
-        },
-        {
-          "keyword": "ミニストップ",
-          "score": 95
-        },
-        {
-          "keyword": "プライムビデオ",
-          "score": 94
-        },
-        {
-          "keyword": "吉井理人",
-          "score": 93
-        },
-        {
-          "keyword": "amazon prime video",
-          "score": 92
-        },
-        {
-          "keyword": "超かぐや姫 映画",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-23T06:39:28.152Z",
       "geo": "JP",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "皇位継承",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-27T06:09:21.726Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "上野賢一郎",
+          "score": 100
+        },
+        {
+          "keyword": "blackpink",
+          "score": 99
+        },
+        {
+          "keyword": "トトロ",
+          "score": 98
+        },
+        {
+          "keyword": "城内実",
+          "score": 97
+        },
+        {
+          "keyword": "アントニオ猪木",
+          "score": 96
+        },
+        {
+          "keyword": "福井県立大学",
+          "score": 95
+        },
+        {
+          "keyword": "国民年金",
+          "score": 94
+        },
+        {
+          "keyword": "ユニチカ",
+          "score": 93
+        },
+        {
+          "keyword": "イオン銀行",
+          "score": 92
+        },
+        {
+          "keyword": "eneos",
           "score": 91
         }
       ]
