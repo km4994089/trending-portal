@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-23T20:34:08.446Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "naomi watts",
-          "score": 100
-        },
-        {
-          "keyword": "peter attia",
-          "score": 99
-        },
-        {
-          "keyword": "mortgage rates",
-          "score": 98
-        },
-        {
-          "keyword": "bologna vs udinese",
-          "score": 97
-        },
-        {
-          "keyword": "ibm stock",
-          "score": 96
-        },
-        {
-          "keyword": "alavés vs girona",
-          "score": 95
-        },
-        {
-          "keyword": "alavés - girona",
-          "score": 94
-        },
-        {
-          "keyword": "ita airways",
-          "score": 93
-        },
-        {
-          "keyword": "ap poll basketball",
-          "score": 92
-        },
-        {
-          "keyword": "red sox",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-23T21:35:16.730Z",
       "geo": "US",
       "source": "google",
@@ -4322,6 +4275,53 @@
         },
         {
           "keyword": "al-ittihad vs al-khaleej",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-27T20:49:20.056Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sporting vs estoril praia",
+          "score": 100
+        },
+        {
+          "keyword": "jd graham",
+          "score": 99
+        },
+        {
+          "keyword": "cavan sullivan",
+          "score": 98
+        },
+        {
+          "keyword": "parma vs cagliari",
+          "score": 97
+        },
+        {
+          "keyword": "max landis",
+          "score": 96
+        },
+        {
+          "keyword": "rico verhoeven",
+          "score": 95
+        },
+        {
+          "keyword": "makai lemon",
+          "score": 94
+        },
+        {
+          "keyword": "tye kartye",
+          "score": 93
+        },
+        {
+          "keyword": "wolves vs aston villa",
+          "score": 92
+        },
+        {
+          "keyword": "levante - alavés",
           "score": 91
         }
       ]
