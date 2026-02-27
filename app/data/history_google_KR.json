@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-23T12:39:19.002Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "thời tiết ngày mai",
-          "score": 100
-        },
-        {
-          "keyword": "cuaca besok",
-          "score": 99
-        },
-        {
-          "keyword": "제임스 밀너",
-          "score": 98
-        },
-        {
-          "keyword": "박진희",
-          "score": 97
-        },
-        {
-          "keyword": "김지호",
-          "score": 96
-        },
-        {
-          "keyword": "전현무",
-          "score": 95
-        },
-        {
-          "keyword": "티켓링크",
-          "score": 94
-        },
-        {
-          "keyword": "동아대",
-          "score": 93
-        },
-        {
-          "keyword": "nol ticket",
-          "score": 92
-        },
-        {
-          "keyword": "봄동비빔밥",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-23T14:01:24.962Z",
       "geo": "KR",
       "source": "google",
@@ -4181,6 +4134,53 @@
         },
         {
           "keyword": "유키스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-27T13:52:50.418Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "남보라",
+          "score": 100
+        },
+        {
+          "keyword": "선예",
+          "score": 99
+        },
+        {
+          "keyword": "챔스 16강",
+          "score": 98
+        },
+        {
+          "keyword": "etf",
+          "score": 97
+        },
+        {
+          "keyword": "uefa",
+          "score": 96
+        },
+        {
+          "keyword": "김범석",
+          "score": 95
+        },
+        {
+          "keyword": "스포티비",
+          "score": 94
+        },
+        {
+          "keyword": "김지훈",
+          "score": 93
+        },
+        {
+          "keyword": "한동훈",
+          "score": 92
+        },
+        {
+          "keyword": "펜앤마이크",
           "score": 91
         }
       ]
