@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-23T06:39:28.152Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ソフィアカークビー",
-          "score": 100
-        },
-        {
-          "keyword": "牧原大成",
-          "score": 99
-        },
-        {
-          "keyword": "プロ野球速報",
-          "score": 98
-        },
-        {
-          "keyword": "杉谷拳士",
-          "score": 97
-        },
-        {
-          "keyword": "おかしな刑事",
-          "score": 96
-        },
-        {
-          "keyword": "高橋宏斗",
-          "score": 95
-        },
-        {
-          "keyword": "水上恒司",
-          "score": 94
-        },
-        {
-          "keyword": "ピッチコム",
-          "score": 93
-        },
-        {
-          "keyword": "隅田知一郎",
-          "score": 92
-        },
-        {
-          "keyword": "歯ピアス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-23T07:46:56.227Z",
       "geo": "JP",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "eneos",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-27T07:26:26.377Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "天覧試合",
+          "score": 100
+        },
+        {
+          "keyword": "大塚千弘",
+          "score": 99
+        },
+        {
+          "keyword": "三井不動産",
+          "score": 98
+        },
+        {
+          "keyword": "武道館",
+          "score": 97
+        },
+        {
+          "keyword": "lg",
+          "score": 96
+        },
+        {
+          "keyword": "祖父江大輔",
+          "score": 95
+        },
+        {
+          "keyword": "福岡 ダム 貯水率",
+          "score": 94
+        },
+        {
+          "keyword": "npbプラス",
+          "score": 93
+        },
+        {
+          "keyword": "宮古島 地震",
+          "score": 92
+        },
+        {
+          "keyword": "京王線",
           "score": 91
         }
       ]

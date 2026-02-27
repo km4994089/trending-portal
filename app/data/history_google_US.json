@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-23T06:39:25.714Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "earthquake today",
-          "score": 100
-        },
-        {
-          "keyword": "earthquake california",
-          "score": 99
-        },
-        {
-          "keyword": "governor ned lamont",
-          "score": 98
-        },
-        {
-          "keyword": "earthquake now",
-          "score": 97
-        },
-        {
-          "keyword": "allyson friedman",
-          "score": 96
-        },
-        {
-          "keyword": "millionaire for life",
-          "score": 95
-        },
-        {
-          "keyword": "roman reigns",
-          "score": 94
-        },
-        {
-          "keyword": "brock lesnar",
-          "score": 93
-        },
-        {
-          "keyword": "dexter sol ansell",
-          "score": 92
-        },
-        {
-          "keyword": "emma stone",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-23T07:46:53.695Z",
       "geo": "US",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "jaden mcdaniels",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-27T07:26:24.350Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jon hamm",
+          "score": 100
+        },
+        {
+          "keyword": "amber alert",
+          "score": 99
+        },
+        {
+          "keyword": "what is a blue alert",
+          "score": 98
+        },
+        {
+          "keyword": "blue alert",
+          "score": 97
+        },
+        {
+          "keyword": "blue alert issued today",
+          "score": 96
+        },
+        {
+          "keyword": "public safety alert",
+          "score": 95
+        },
+        {
+          "keyword": "india women vs australia women",
+          "score": 94
+        },
+        {
+          "keyword": "who is ethel kennedy",
+          "score": 93
+        },
+        {
+          "keyword": "bruno mars new album",
+          "score": 92
+        },
+        {
+          "keyword": "kyron horman",
           "score": 91
         }
       ]
