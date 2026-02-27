@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-23T03:59:24.638Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ioi",
-          "score": 100
-        },
-        {
-          "keyword": "星野リゾート",
-          "score": 99
-        },
-        {
-          "keyword": "玉山鉄二",
-          "score": 98
-        },
-        {
-          "keyword": "宮世琉弥",
-          "score": 97
-        },
-        {
-          "keyword": "山田裕貴",
-          "score": 96
-        },
-        {
-          "keyword": "やす子",
-          "score": 95
-        },
-        {
-          "keyword": "武井咲",
-          "score": 94
-        },
-        {
-          "keyword": "福岡競艇",
-          "score": 93
-        },
-        {
-          "keyword": "かっぱ寿司",
-          "score": 92
-        },
-        {
-          "keyword": "ぽかぽか",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-23T05:26:11.448Z",
       "geo": "JP",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "ムビチケ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-27T05:10:14.002Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "福井県立大学",
+          "score": 100
+        },
+        {
+          "keyword": "ユニチカ",
+          "score": 99
+        },
+        {
+          "keyword": "イオン銀行",
+          "score": 98
+        },
+        {
+          "keyword": "年金",
+          "score": 97
+        },
+        {
+          "keyword": "王林ちゃん",
+          "score": 96
+        },
+        {
+          "keyword": "関西みらい銀行",
+          "score": 95
+        },
+        {
+          "keyword": "eneos",
+          "score": 94
+        },
+        {
+          "keyword": "年金生活者支援給付金",
+          "score": 93
+        },
+        {
+          "keyword": "cptpp",
+          "score": 92
+        },
+        {
+          "keyword": "皇位継承",
           "score": 91
         }
       ]
