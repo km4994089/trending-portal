@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-23T22:31:01.052Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "市川市動植物園",
-          "score": 100
-        },
-        {
-          "keyword": "井上尚弥",
-          "score": 99
-        },
-        {
-          "keyword": "mlb",
-          "score": 98
-        },
-        {
-          "keyword": "アンソロピック",
-          "score": 97
-        },
-        {
-          "keyword": "西川遥輝",
-          "score": 96
-        },
-        {
-          "keyword": "tokyo weather",
-          "score": 95
-        },
-        {
-          "keyword": "トンガ",
-          "score": 94
-        },
-        {
-          "keyword": "鈴木誠也",
-          "score": 93
-        },
-        {
-          "keyword": "亀山",
-          "score": 92
-        },
-        {
-          "keyword": "ngoại hạng anh",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-23T23:26:31.121Z",
       "geo": "JP",
       "source": "google",
@@ -4416,6 +4369,53 @@
         },
         {
           "keyword": "きついとこいけ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-27T22:47:46.774Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "小寺真理",
+          "score": 100
+        },
+        {
+          "keyword": "北野天満宮",
+          "score": 99
+        },
+        {
+          "keyword": "木下直哉社長",
+          "score": 98
+        },
+        {
+          "keyword": "ひな祭り",
+          "score": 97
+        },
+        {
+          "keyword": "向井理",
+          "score": 96
+        },
+        {
+          "keyword": "八雲町",
+          "score": 95
+        },
+        {
+          "keyword": "gigo",
+          "score": 94
+        },
+        {
+          "keyword": "望海風斗",
+          "score": 93
+        },
+        {
+          "keyword": "今日の天気は",
+          "score": 92
+        },
+        {
+          "keyword": "日本エコロジー",
           "score": 91
         }
       ]

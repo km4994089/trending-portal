@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-23T22:30:59.853Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "weather",
-          "score": 100
-        },
-        {
-          "keyword": "일기예보",
-          "score": 99
-        },
-        {
-          "keyword": "대구날씨",
-          "score": 98
-        },
-        {
-          "keyword": "mexico",
-          "score": 97
-        },
-        {
-          "keyword": "인천공항",
-          "score": 96
-        },
-        {
-          "keyword": "manchester united",
-          "score": 95
-        },
-        {
-          "keyword": "พยากรณ์อากาศ",
-          "score": 94
-        },
-        {
-          "keyword": "맨유",
-          "score": 93
-        },
-        {
-          "keyword": "에버턴 대 맨유",
-          "score": 92
-        },
-        {
-          "keyword": "붉은 진주",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-23T23:26:29.683Z",
       "geo": "KR",
       "source": "google",
@@ -4404,6 +4357,53 @@
         },
         {
           "keyword": "pokemon",
+          "score": 94
+        },
+        {
+          "keyword": "꽃분이",
+          "score": 93
+        },
+        {
+          "keyword": "허경환",
+          "score": 92
+        },
+        {
+          "keyword": "닌텐도",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-27T22:47:45.087Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "วูล์ฟแฮมป์ตัน พบ แอสตันวิลลา",
+          "score": 100
+        },
+        {
+          "keyword": "s&p 500",
+          "score": 99
+        },
+        {
+          "keyword": "앤트로픽",
+          "score": 98
+        },
+        {
+          "keyword": "mlb",
+          "score": 97
+        },
+        {
+          "keyword": "울브스 대 애스턴 빌라",
+          "score": 96
+        },
+        {
+          "keyword": "서명옥",
+          "score": 95
+        },
+        {
+          "keyword": "왕사남",
           "score": 94
         },
         {
