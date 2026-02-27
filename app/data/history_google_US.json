@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-23T14:01:23.660Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tim tebow",
-          "score": 100
-        },
-        {
-          "keyword": "chicago weather",
-          "score": 99
-        },
-        {
-          "keyword": "stan wawrinka",
-          "score": 98
-        },
-        {
-          "keyword": "norah o'donnell",
-          "score": 97
-        },
-        {
-          "keyword": "conduent",
-          "score": 96
-        },
-        {
-          "keyword": "school district of philadelphia",
-          "score": 95
-        },
-        {
-          "keyword": "nfl combine 2026",
-          "score": 94
-        },
-        {
-          "keyword": "nick reiner",
-          "score": 93
-        },
-        {
-          "keyword": "jerry o'connell",
-          "score": 92
-        },
-        {
-          "keyword": "how much snow did nyc get",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-23T15:11:06.077Z",
       "geo": "US",
       "source": "google",
@@ -4181,6 +4134,53 @@
         },
         {
           "keyword": "pokemon",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-27T14:32:59.357Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "israel",
+          "score": 100
+        },
+        {
+          "keyword": "pato o'ward",
+          "score": 99
+        },
+        {
+          "keyword": "norah o'donnell",
+          "score": 98
+        },
+        {
+          "keyword": "dominican republic",
+          "score": 97
+        },
+        {
+          "keyword": "claude ai",
+          "score": 96
+        },
+        {
+          "keyword": "ppi",
+          "score": 95
+        },
+        {
+          "keyword": "connor storrie",
+          "score": 94
+        },
+        {
+          "keyword": "daniil medvedev",
+          "score": 93
+        },
+        {
+          "keyword": "friday",
+          "score": 92
+        },
+        {
+          "keyword": "lindsay lohan",
           "score": 91
         }
       ]
