@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-23T08:36:55.246Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "한화생명",
-          "score": 100
-        },
-        {
-          "keyword": "이언주",
-          "score": 99
-        },
-        {
-          "keyword": "아이오아이",
-          "score": 98
-        },
-        {
-          "keyword": "모텔 살인 피의자",
-          "score": 97
-        },
-        {
-          "keyword": "룰라 대통령",
-          "score": 96
-        },
-        {
-          "keyword": "김보름",
-          "score": 95
-        },
-        {
-          "keyword": "김남국",
-          "score": 94
-        },
-        {
-          "keyword": "스타벅스 리유저블컵",
-          "score": 93
-        },
-        {
-          "keyword": "윤영경",
-          "score": 92
-        },
-        {
-          "keyword": "이학재",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-23T09:42:58.248Z",
       "geo": "KR",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "군산대",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-27T09:03:35.612Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "근로장려금",
+          "score": 100
+        },
+        {
+          "keyword": "변요한",
+          "score": 99
+        },
+        {
+          "keyword": "백석대",
+          "score": 98
+        },
+        {
+          "keyword": "두쫀쿠 소주",
+          "score": 97
+        },
+        {
+          "keyword": "블랙록",
+          "score": 96
+        },
+        {
+          "keyword": "한국연구재단",
+          "score": 95
+        },
+        {
+          "keyword": "메가박스",
+          "score": 94
+        },
+        {
+          "keyword": "박영재",
+          "score": 93
+        },
+        {
+          "keyword": "블랙핑크",
+          "score": 92
+        },
+        {
+          "keyword": "현대제철",
           "score": 91
         }
       ]

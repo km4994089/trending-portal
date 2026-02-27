@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-23T08:36:53.874Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "alabama barker",
-          "score": 100
-        },
-        {
-          "keyword": "auto accident attorneys",
-          "score": 99
-        },
-        {
-          "keyword": "accident lawyers",
-          "score": 98
-        },
-        {
-          "keyword": "truck accident lawyers",
-          "score": 97
-        },
-        {
-          "keyword": "injury attorney",
-          "score": 96
-        },
-        {
-          "keyword": "shakira",
-          "score": 95
-        },
-        {
-          "keyword": "earthquake today",
-          "score": 94
-        },
-        {
-          "keyword": "governor ned lamont",
-          "score": 93
-        },
-        {
-          "keyword": "earthquake california",
-          "score": 92
-        },
-        {
-          "keyword": "earthquake now",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-23T09:42:57.050Z",
       "geo": "US",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "bruno mars new album",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-27T09:03:34.652Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "immunizations",
+          "score": 100
+        },
+        {
+          "keyword": "flu shots",
+          "score": 99
+        },
+        {
+          "keyword": "vaccinations",
+          "score": 98
+        },
+        {
+          "keyword": "organ transport box re9",
+          "score": 97
+        },
+        {
+          "keyword": "ভূমিকম্প",
+          "score": 96
+        },
+        {
+          "keyword": "pizza",
+          "score": 95
+        },
+        {
+          "keyword": "monkey",
+          "score": 94
+        },
+        {
+          "keyword": "re9 safe code",
+          "score": 93
+        },
+        {
+          "keyword": "jon hamm",
+          "score": 92
+        },
+        {
+          "keyword": "amber alert",
           "score": 91
         }
       ]
