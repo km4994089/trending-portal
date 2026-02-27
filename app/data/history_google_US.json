@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-23T10:39:51.024Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "school closings",
-          "score": 100
-        },
-        {
-          "keyword": "sehri time today",
-          "score": 99
-        },
-        {
-          "keyword": "school closing",
-          "score": 98
-        },
-        {
-          "keyword": "jcpl",
-          "score": 97
-        },
-        {
-          "keyword": "wgal",
-          "score": 96
-        },
-        {
-          "keyword": "frederick county public schools",
-          "score": 95
-        },
-        {
-          "keyword": "national grid",
-          "score": 94
-        },
-        {
-          "keyword": "new movie",
-          "score": 93
-        },
-        {
-          "keyword": "school closings today",
-          "score": 92
-        },
-        {
-          "keyword": "hawaiian airlines",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-23T11:33:13.464Z",
       "geo": "US",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "pizza",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-27T11:02:50.410Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nytimes.com",
+          "score": 100
+        },
+        {
+          "keyword": "injury lawyer",
+          "score": 99
+        },
+        {
+          "keyword": "champions league draw",
+          "score": 98
+        },
+        {
+          "keyword": "veronika erjavec",
+          "score": 97
+        },
+        {
+          "keyword": "makeup",
+          "score": 96
+        },
+        {
+          "keyword": "divorce lawyer",
+          "score": 95
+        },
+        {
+          "keyword": "google",
+          "score": 94
+        },
+        {
+          "keyword": "flu shots",
+          "score": 93
+        },
+        {
+          "keyword": "immunizations",
+          "score": 92
+        },
+        {
+          "keyword": "vaccines",
           "score": 91
         }
       ]
