@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-23T01:13:05.689Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "건국대",
-          "score": 100
-        },
-        {
-          "keyword": "미래에셋증권",
-          "score": 99
-        },
-        {
-          "keyword": "업비트",
-          "score": 98
-        },
-        {
-          "keyword": "한남대",
-          "score": 97
-        },
-        {
-          "keyword": "예비군",
-          "score": 96
-        },
-        {
-          "keyword": "딴지일보",
-          "score": 95
-        },
-        {
-          "keyword": "노시환",
-          "score": 94
-        },
-        {
-          "keyword": "신보람",
-          "score": 93
-        },
-        {
-          "keyword": "전한길",
-          "score": 92
-        },
-        {
-          "keyword": "엘 멘초",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-23T03:59:23.620Z",
       "geo": "KR",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "포켓몬 30주년",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-27T03:41:11.053Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이준석 전한길 토론",
+          "score": 100
+        },
+        {
+          "keyword": "한국전력",
+          "score": 99
+        },
+        {
+          "keyword": "강릉원주대",
+          "score": 98
+        },
+        {
+          "keyword": "대상포진",
+          "score": 97
+        },
+        {
+          "keyword": "이태성",
+          "score": 96
+        },
+        {
+          "keyword": "삼천당제약 주가",
+          "score": 95
+        },
+        {
+          "keyword": "나노바나나2",
+          "score": 94
+        },
+        {
+          "keyword": "넷플릭스 주가",
+          "score": 93
+        },
+        {
+          "keyword": "nottm forest vs fenerbahçe",
+          "score": 92
+        },
+        {
+          "keyword": "포르쉐 추락",
           "score": 91
         }
       ]

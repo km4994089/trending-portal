@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-23T01:13:06.821Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "シープラ 休業",
-          "score": 100
-        },
-        {
-          "keyword": "ブルズ 対 ニックス",
-          "score": 99
-        },
-        {
-          "keyword": "イオン",
-          "score": 98
-        },
-        {
-          "keyword": "桜井日奈子",
-          "score": 97
-        },
-        {
-          "keyword": "ノンストップ",
-          "score": 96
-        },
-        {
-          "keyword": "未解決の女",
-          "score": 95
-        },
-        {
-          "keyword": "ポルトガル",
-          "score": 94
-        },
-        {
-          "keyword": "須磨シーワールド",
-          "score": 93
-        },
-        {
-          "keyword": "corinthians",
-          "score": 92
-        },
-        {
-          "keyword": "モーニングショー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-23T03:59:24.638Z",
       "geo": "JP",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "榊原信行",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-27T03:41:12.336Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ちるらん 新撰組鎮魂歌",
+          "score": 100
+        },
+        {
+          "keyword": "龍谷大学",
+          "score": 99
+        },
+        {
+          "keyword": "桜 開花予想",
+          "score": 98
+        },
+        {
+          "keyword": "金曜ロードショー",
+          "score": 97
+        },
+        {
+          "keyword": "日光",
+          "score": 96
+        },
+        {
+          "keyword": "柄本佑",
+          "score": 95
+        },
+        {
+          "keyword": "柄本明",
+          "score": 94
+        },
+        {
+          "keyword": "日光東照宮",
+          "score": 93
+        },
+        {
+          "keyword": "カイロス",
+          "score": 92
+        },
+        {
+          "keyword": "ムビチケ",
           "score": 91
         }
       ]
