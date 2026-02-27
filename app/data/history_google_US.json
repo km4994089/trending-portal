@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-23T15:11:06.077Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "beirut",
-          "score": 100
-        },
-        {
-          "keyword": "nbc olympics figure skating",
-          "score": 99
-        },
-        {
-          "keyword": "west indies vs zimbabwe",
-          "score": 98
-        },
-        {
-          "keyword": "tim tebow",
-          "score": 97
-        },
-        {
-          "keyword": "chicago weather",
-          "score": 96
-        },
-        {
-          "keyword": "stan wawrinka",
-          "score": 95
-        },
-        {
-          "keyword": "norah o'donnell",
-          "score": 94
-        },
-        {
-          "keyword": "conduent",
-          "score": 93
-        },
-        {
-          "keyword": "school district of philadelphia",
-          "score": 92
-        },
-        {
-          "keyword": "nfl combine 2026",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-23T16:08:46.698Z",
       "geo": "US",
       "source": "google",
@@ -4181,6 +4134,53 @@
         },
         {
           "keyword": "lindsay lohan",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-27T15:30:09.825Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "dell stock",
+          "score": 100
+        },
+        {
+          "keyword": "coreweave stock",
+          "score": 99
+        },
+        {
+          "keyword": "pokemon winds and waves",
+          "score": 98
+        },
+        {
+          "keyword": "courteney cox",
+          "score": 97
+        },
+        {
+          "keyword": "israel",
+          "score": 96
+        },
+        {
+          "keyword": "pato o'ward",
+          "score": 95
+        },
+        {
+          "keyword": "norah o'donnell",
+          "score": 94
+        },
+        {
+          "keyword": "claude ai",
+          "score": 93
+        },
+        {
+          "keyword": "ppi",
+          "score": 92
+        },
+        {
+          "keyword": "connor storrie",
           "score": 91
         }
       ]
