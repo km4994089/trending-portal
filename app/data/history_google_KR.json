@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T21:00:27.768Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "리니지클래식",
-          "score": 100
-        },
-        {
-          "keyword": "mlb",
-          "score": 99
-        },
-        {
-          "keyword": "atlético madrid vs club brugge",
-          "score": 98
-        },
-        {
-          "keyword": "아틀레티코 마드리드",
-          "score": 97
-        },
-        {
-          "keyword": "인테르",
-          "score": 96
-        },
-        {
-          "keyword": "챔피언스리그",
-          "score": 95
-        },
-        {
-          "keyword": "챔스",
-          "score": 94
-        },
-        {
-          "keyword": "에어부산",
-          "score": 93
-        },
-        {
-          "keyword": "ns홈쇼핑",
-          "score": 92
-        },
-        {
-          "keyword": "금잔디",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T21:56:12.473Z",
       "geo": "KR",
       "source": "google",
@@ -5168,6 +5121,53 @@
         },
         {
           "keyword": "스포티파이",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T21:12:03.260Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "btc",
+          "score": 100
+        },
+        {
+          "keyword": "psg",
+          "score": 99
+        },
+        {
+          "keyword": "ลีดส์ พบ แมนซิตี",
+          "score": 98
+        },
+        {
+          "keyword": "나폴리",
+          "score": 97
+        },
+        {
+          "keyword": "leeds united vs man city",
+          "score": 96
+        },
+        {
+          "keyword": "분데스리가",
+          "score": 95
+        },
+        {
+          "keyword": "맨시티",
+          "score": 94
+        },
+        {
+          "keyword": "산티아고",
+          "score": 93
+        },
+        {
+          "keyword": "la liga",
+          "score": 92
+        },
+        {
+          "keyword": "나이스",
           "score": 91
         }
       ]
