@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T05:17:20.002Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "삼성전자",
-          "score": 100
-        },
-        {
-          "keyword": "청년문화예술패스",
-          "score": 99
-        },
-        {
-          "keyword": "윤하",
-          "score": 98
-        },
-        {
-          "keyword": "액스비스",
-          "score": 97
-        },
-        {
-          "keyword": "디트로이트 대 샌안토니오",
-          "score": 96
-        },
-        {
-          "keyword": "김규리",
-          "score": 95
-        },
-        {
-          "keyword": "sk하이닉스",
-          "score": 94
-        },
-        {
-          "keyword": "하이닉스",
-          "score": 93
-        },
-        {
-          "keyword": "하이닉스 주가",
-          "score": 92
-        },
-        {
-          "keyword": "장학재단",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T06:33:03.880Z",
       "geo": "KR",
       "source": "google",
@@ -4463,6 +4416,53 @@
         },
         {
           "keyword": "유독",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T05:26:08.139Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "인천 대 fc 서울",
+          "score": 100
+        },
+        {
+          "keyword": "울산 대 강원",
+          "score": 99
+        },
+        {
+          "keyword": "수원삼성",
+          "score": 98
+        },
+        {
+          "keyword": "에어로카노",
+          "score": 97
+        },
+        {
+          "keyword": "다이소",
+          "score": 96
+        },
+        {
+          "keyword": "버거킹",
+          "score": 95
+        },
+        {
+          "keyword": "토스 행운퀴즈 정답",
+          "score": 94
+        },
+        {
+          "keyword": "아이폰 17",
+          "score": 93
+        },
+        {
+          "keyword": "amazon",
+          "score": 92
+        },
+        {
+          "keyword": "supreme",
           "score": 91
         }
       ]

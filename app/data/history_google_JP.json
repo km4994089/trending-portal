@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T05:17:21.165Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "エアウィーヴ",
-          "score": 100
-        },
-        {
-          "keyword": "ガンダムエアマスター",
-          "score": 99
-        },
-        {
-          "keyword": "大和路線",
-          "score": 98
-        },
-        {
-          "keyword": "金正恩",
-          "score": 97
-        },
-        {
-          "keyword": "oda",
-          "score": 96
-        },
-        {
-          "keyword": "フジクラ",
-          "score": 95
-        },
-        {
-          "keyword": "又吉直樹",
-          "score": 94
-        },
-        {
-          "keyword": "ラヴェニュー",
-          "score": 93
-        },
-        {
-          "keyword": "スンスン スシロー 2026",
-          "score": 92
-        },
-        {
-          "keyword": "ぴあアリーナ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T06:33:05.073Z",
       "geo": "JP",
       "source": "google",
@@ -4463,6 +4416,53 @@
         },
         {
           "keyword": "スガキヤ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T05:26:09.285Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "g大阪 対 清水",
+          "score": 100
+        },
+        {
+          "keyword": "fc東京 対 柏",
+          "score": 99
+        },
+        {
+          "keyword": "琉球 対 宮崎",
+          "score": 98
+        },
+        {
+          "keyword": "ミツカン",
+          "score": 97
+        },
+        {
+          "keyword": "ヴァンラーレ八戸",
+          "score": 96
+        },
+        {
+          "keyword": "algs",
+          "score": 95
+        },
+        {
+          "keyword": "唐沢寿明",
+          "score": 94
+        },
+        {
+          "keyword": "富山 対 fc大阪",
+          "score": 93
+        },
+        {
+          "keyword": "nifty",
+          "score": 92
+        },
+        {
+          "keyword": "めおと日和",
           "score": 91
         }
       ]

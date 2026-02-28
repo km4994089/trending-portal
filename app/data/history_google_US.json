@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T05:17:18.739Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "travel ban rhode island",
-          "score": 100
-        },
-        {
-          "keyword": "cameron norrie",
-          "score": 99
-        },
-        {
-          "keyword": "carrie underwood",
-          "score": 98
-        },
-        {
-          "keyword": "katy perry",
-          "score": 97
-        },
-        {
-          "keyword": "millionaire for life",
-          "score": 96
-        },
-        {
-          "keyword": "robert carradine",
-          "score": 95
-        },
-        {
-          "keyword": "prince",
-          "score": 94
-        },
-        {
-          "keyword": "bill self",
-          "score": 93
-        },
-        {
-          "keyword": "amen thompson",
-          "score": 92
-        },
-        {
-          "keyword": "nj transit bus",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T06:33:02.492Z",
       "geo": "US",
       "source": "google",
@@ -4463,6 +4416,53 @@
         },
         {
           "keyword": "f1",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T05:26:06.647Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jared mccain",
+          "score": 100
+        },
+        {
+          "keyword": "cason wallace",
+          "score": 99
+        },
+        {
+          "keyword": "alex caruso",
+          "score": 98
+        },
+        {
+          "keyword": "jalen williams",
+          "score": 97
+        },
+        {
+          "keyword": "cameron johnson",
+          "score": 96
+        },
+        {
+          "keyword": "aaron gordon",
+          "score": 95
+        },
+        {
+          "keyword": "wbc",
+          "score": 94
+        },
+        {
+          "keyword": "novak",
+          "score": 93
+        },
+        {
+          "keyword": "sam rockwell",
+          "score": 92
+        },
+        {
+          "keyword": "julian strawther",
           "score": 91
         }
       ]
