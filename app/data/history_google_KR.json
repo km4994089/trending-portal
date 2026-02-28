@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T20:24:11.772Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "at마드리드",
-          "score": 100
-        },
-        {
-          "keyword": "mlb",
-          "score": 99
-        },
-        {
-          "keyword": "atlético madrid vs club brugge",
-          "score": 98
-        },
-        {
-          "keyword": "인테르",
-          "score": 97
-        },
-        {
-          "keyword": "챔피언스리그",
-          "score": 96
-        },
-        {
-          "keyword": "챔스",
-          "score": 95
-        },
-        {
-          "keyword": "에어부산",
-          "score": 94
-        },
-        {
-          "keyword": "ns홈쇼핑",
-          "score": 93
-        },
-        {
-          "keyword": "금잔디",
-          "score": 92
-        },
-        {
-          "keyword": "윤유선",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T21:00:27.768Z",
       "geo": "KR",
       "source": "google",
@@ -5168,6 +5121,53 @@
         },
         {
           "keyword": "바르샤",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T20:44:26.953Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "psg",
+          "score": 100
+        },
+        {
+          "keyword": "ลีดส์ พบ แมนซิตี",
+          "score": 99
+        },
+        {
+          "keyword": "나폴리",
+          "score": 98
+        },
+        {
+          "keyword": "leeds united vs man city",
+          "score": 97
+        },
+        {
+          "keyword": "분데스리가",
+          "score": 96
+        },
+        {
+          "keyword": "맨시티",
+          "score": 95
+        },
+        {
+          "keyword": "산티아고",
+          "score": 94
+        },
+        {
+          "keyword": "la liga",
+          "score": 93
+        },
+        {
+          "keyword": "나이스",
+          "score": 92
+        },
+        {
+          "keyword": "스포티파이",
           "score": 91
         }
       ]

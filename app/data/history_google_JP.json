@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T20:24:13.097Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "エヌビディア",
-          "score": 100
-        },
-        {
-          "keyword": "weather",
-          "score": 99
-        },
-        {
-          "keyword": "jadwal sholat",
-          "score": 98
-        },
-        {
-          "keyword": "宇連ダム 貯水率",
-          "score": 97
-        },
-        {
-          "keyword": "楽天銀行",
-          "score": 96
-        },
-        {
-          "keyword": "atlético madrid vs club brugge",
-          "score": 95
-        },
-        {
-          "keyword": "地震",
-          "score": 94
-        },
-        {
-          "keyword": "地震速報",
-          "score": 93
-        },
-        {
-          "keyword": "チェンソーマン",
-          "score": 92
-        },
-        {
-          "keyword": "エポスカード",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T21:00:28.890Z",
       "geo": "JP",
       "source": "google",
@@ -5168,6 +5121,53 @@
         },
         {
           "keyword": "santiago",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T20:44:28.199Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "井口綾子",
+          "score": 100
+        },
+        {
+          "keyword": "インテル 対 ジェノア",
+          "score": 99
+        },
+        {
+          "keyword": "ゆず",
+          "score": 98
+        },
+        {
+          "keyword": "ル・アーヴル 対 パリsg",
+          "score": 97
+        },
+        {
+          "keyword": "jadwal sholat",
+          "score": 96
+        },
+        {
+          "keyword": "dortmund vs bayern",
+          "score": 95
+        },
+        {
+          "keyword": "モナコ 対 アンジェ",
+          "score": 94
+        },
+        {
+          "keyword": "佐々木沙羅",
+          "score": 93
+        },
+        {
+          "keyword": "小泉今日子",
+          "score": 92
+        },
+        {
+          "keyword": "leeds united vs man city",
           "score": 91
         }
       ]
