@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T15:14:54.067Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kirk cousins",
-          "score": 100
-        },
-        {
-          "keyword": "matt luff",
-          "score": 99
-        },
-        {
-          "keyword": "sofia vergara",
-          "score": 98
-        },
-        {
-          "keyword": "jeff probst",
-          "score": 97
-        },
-        {
-          "keyword": "march 2026 calendar",
-          "score": 96
-        },
-        {
-          "keyword": "leann rimes",
-          "score": 95
-        },
-        {
-          "keyword": "pakistan vs england",
-          "score": 94
-        },
-        {
-          "keyword": "chris sale",
-          "score": 93
-        },
-        {
-          "keyword": "braves vision",
-          "score": 92
-        },
-        {
-          "keyword": "detroit lions",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T16:33:18.408Z",
       "geo": "US",
       "source": "google",
@@ -4933,6 +4886,53 @@
         },
         {
           "keyword": "liverpool vs west ham",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T15:41:35.283Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "barca",
+          "score": 100
+        },
+        {
+          "keyword": "kayleigh mcenany",
+          "score": 99
+        },
+        {
+          "keyword": "barca vs",
+          "score": 98
+        },
+        {
+          "keyword": "zoo",
+          "score": 97
+        },
+        {
+          "keyword": "jd",
+          "score": 96
+        },
+        {
+          "keyword": "shah of iran",
+          "score": 95
+        },
+        {
+          "keyword": "kelly osbourne",
+          "score": 94
+        },
+        {
+          "keyword": "diego garcia",
+          "score": 93
+        },
+        {
+          "keyword": "barcelona schedule",
+          "score": 92
+        },
+        {
+          "keyword": "nfl combine schedule",
           "score": 91
         }
       ]
