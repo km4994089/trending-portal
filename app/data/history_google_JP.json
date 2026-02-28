@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T17:50:53.039Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "プルデンシャル生命",
-          "score": 100
-        },
-        {
-          "keyword": "アトレティコ 対 クラブ・ブルッヘ",
-          "score": 99
-        },
-        {
-          "keyword": "fod",
-          "score": 98
-        },
-        {
-          "keyword": "目黒蓮",
-          "score": 97
-        },
-        {
-          "keyword": "飯島直子",
-          "score": 96
-        },
-        {
-          "keyword": "上坂すみれ",
-          "score": 95
-        },
-        {
-          "keyword": "篠塚大輝",
-          "score": 94
-        },
-        {
-          "keyword": "テレビ千鳥",
-          "score": 93
-        },
-        {
-          "keyword": "ロナウド",
-          "score": 92
-        },
-        {
-          "keyword": "高島屋",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T18:47:47.013Z",
       "geo": "JP",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "newcastle vs everton",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T18:19:02.112Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "leeds united vs man city",
+          "score": 100
+        },
+        {
+          "keyword": "santiago",
+          "score": 99
+        },
+        {
+          "keyword": "メタマスク",
+          "score": 98
+        },
+        {
+          "keyword": "ラリーガ",
+          "score": 97
+        },
+        {
+          "keyword": "高橋ヒロム",
+          "score": 96
+        },
+        {
+          "keyword": "twitch",
+          "score": 95
+        },
+        {
+          "keyword": "ドルトムント 対 バイエルン",
+          "score": 94
+        },
+        {
+          "keyword": "マヨルカ 対 ソシエダ",
+          "score": 93
+        },
+        {
+          "keyword": "バイオハザード レクイエム 最後の謎",
+          "score": 92
+        },
+        {
+          "keyword": "剛力彩芽",
           "score": 91
         }
       ]
