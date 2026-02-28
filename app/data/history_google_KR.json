@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T10:37:59.214Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ibm 주가",
-          "score": 100
-        },
-        {
-          "keyword": "민생지원금",
-          "score": 99
-        },
-        {
-          "keyword": "전현무 칼빵",
-          "score": 98
-        },
-        {
-          "keyword": "엔화",
-          "score": 97
-        },
-        {
-          "keyword": "챈슬러",
-          "score": 96
-        },
-        {
-          "keyword": "강선우",
-          "score": 95
-        },
-        {
-          "keyword": "근로장려금",
-          "score": 94
-        },
-        {
-          "keyword": "케이뱅크 공모주",
-          "score": 93
-        },
-        {
-          "keyword": "안귀령",
-          "score": 92
-        },
-        {
-          "keyword": "두산베어스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T11:33:30.173Z",
       "geo": "KR",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "bitcoin price usd",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T10:44:55.836Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "양상국",
+          "score": 100
+        },
+        {
+          "keyword": "두바이",
+          "score": 99
+        },
+        {
+          "keyword": "이더리움",
+          "score": 98
+        },
+        {
+          "keyword": "맘스터치",
+          "score": 97
+        },
+        {
+          "keyword": "gold price",
+          "score": 96
+        },
+        {
+          "keyword": "컴프야",
+          "score": 95
+        },
+        {
+          "keyword": "자두",
+          "score": 94
+        },
+        {
+          "keyword": "이소나",
+          "score": 93
+        },
+        {
+          "keyword": "iran war",
+          "score": 92
+        },
+        {
+          "keyword": "나스닥 선물",
           "score": 91
         }
       ]

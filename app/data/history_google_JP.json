@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T10:38:00.443Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "一山本",
-          "score": 100
-        },
-        {
-          "keyword": "御嶽海",
-          "score": 99
-        },
-        {
-          "keyword": "オズワルド",
-          "score": 98
-        },
-        {
-          "keyword": "友風",
-          "score": 97
-        },
-        {
-          "keyword": "さらば青春の光",
-          "score": 96
-        },
-        {
-          "keyword": "豊昇龍",
-          "score": 95
-        },
-        {
-          "keyword": "森脇梨々夏",
-          "score": 94
-        },
-        {
-          "keyword": "鈴木幹事長",
-          "score": 93
-        },
-        {
-          "keyword": "jo1",
-          "score": 92
-        },
-        {
-          "keyword": "隠岐の島",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T11:33:31.185Z",
       "geo": "JP",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "関門トンネル",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T10:44:56.948Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "侍ジャパン",
+          "score": 100
+        },
+        {
+          "keyword": "ドバイ",
+          "score": 99
+        },
+        {
+          "keyword": "ニューヨーク屋敷",
+          "score": 98
+        },
+        {
+          "keyword": "ブルボン",
+          "score": 97
+        },
+        {
+          "keyword": "ピッチコム",
+          "score": 96
+        },
+        {
+          "keyword": "wbc 日本代表",
+          "score": 95
+        },
+        {
+          "keyword": "ワールドカップ 2026",
+          "score": 94
+        },
+        {
+          "keyword": "純烈",
+          "score": 93
+        },
+        {
+          "keyword": "チロルチョコ",
+          "score": 92
+        },
+        {
+          "keyword": "菊池雄星",
           "score": 91
         }
       ]
