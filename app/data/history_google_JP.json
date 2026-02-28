@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-23T23:51:40.990Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "オーランド",
-          "score": 100
-        },
-        {
-          "keyword": "西川史子",
-          "score": 99
-        },
-        {
-          "keyword": "あさイチ",
-          "score": 98
-        },
-        {
-          "keyword": "ラジコ",
-          "score": 97
-        },
-        {
-          "keyword": "ヒコロヒー",
-          "score": 96
-        },
-        {
-          "keyword": "0",
-          "score": 95
-        },
-        {
-          "keyword": "ex",
-          "score": 94
-        },
-        {
-          "keyword": "宇連ダム",
-          "score": 93
-        },
-        {
-          "keyword": "梅宮アンナ",
-          "score": 92
-        },
-        {
-          "keyword": "ibm",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T01:11:14.117Z",
       "geo": "JP",
       "source": "google",
@@ -4463,6 +4416,53 @@
         },
         {
           "keyword": "名古屋城",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T01:03:57.483Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "エコノミスト",
+          "score": 100
+        },
+        {
+          "keyword": "supreme",
+          "score": 99
+        },
+        {
+          "keyword": "jreポイント",
+          "score": 98
+        },
+        {
+          "keyword": "阪神競馬場",
+          "score": 97
+        },
+        {
+          "keyword": "伊野尾慧",
+          "score": 96
+        },
+        {
+          "keyword": "ニール・セダカ",
+          "score": 95
+        },
+        {
+          "keyword": "ニールセダカ",
+          "score": 94
+        },
+        {
+          "keyword": "ニーサ",
+          "score": 93
+        },
+        {
+          "keyword": "横須賀",
+          "score": 92
+        },
+        {
+          "keyword": "湘南新宿ライン",
           "score": 91
         }
       ]
