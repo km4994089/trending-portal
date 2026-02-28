@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T16:33:21.170Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "目黒蓮",
-          "score": 100
-        },
-        {
-          "keyword": "飯島直子",
-          "score": 99
-        },
-        {
-          "keyword": "被告",
-          "score": 98
-        },
-        {
-          "keyword": "上坂すみれ",
-          "score": 97
-        },
-        {
-          "keyword": "篠塚大輝",
-          "score": 96
-        },
-        {
-          "keyword": "ロナウド",
-          "score": 95
-        },
-        {
-          "keyword": "高島屋",
-          "score": 94
-        },
-        {
-          "keyword": "川崎希",
-          "score": 93
-        },
-        {
-          "keyword": "品川",
-          "score": 92
-        },
-        {
-          "keyword": "カルシャガ・ダウトベック",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T17:50:53.039Z",
       "geo": "JP",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "ドバイワールドカップ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T16:46:01.079Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "剛力彩芽",
+          "score": 100
+        },
+        {
+          "keyword": "バイオハザード レクイエム 最後の謎",
+          "score": 99
+        },
+        {
+          "keyword": "藤木勇我",
+          "score": 98
+        },
+        {
+          "keyword": "newcastle vs everton",
+          "score": 97
+        },
+        {
+          "keyword": "原嘉孝",
+          "score": 96
+        },
+        {
+          "keyword": "wowow",
+          "score": 95
+        },
+        {
+          "keyword": "リヴァプール",
+          "score": 94
+        },
+        {
+          "keyword": "dubai",
+          "score": 93
+        },
+        {
+          "keyword": "浅香航大",
+          "score": 92
+        },
+        {
+          "keyword": "sahibzada farhan",
           "score": 91
         }
       ]
