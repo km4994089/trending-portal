@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T22:25:54.913Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "inter vs bodø/glimt",
-          "score": 100
-        },
-        {
-          "keyword": "오늘의 운세",
-          "score": 99
-        },
-        {
-          "keyword": "장항준",
-          "score": 98
-        },
-        {
-          "keyword": "พยากรณ์อากาศ",
-          "score": 97
-        },
-        {
-          "keyword": "리니지 클래식",
-          "score": 96
-        },
-        {
-          "keyword": "뉴캐슬",
-          "score": 95
-        },
-        {
-          "keyword": "엔비디아 실적발표",
-          "score": 94
-        },
-        {
-          "keyword": "레버쿠젠",
-          "score": 93
-        },
-        {
-          "keyword": "at마드리드",
-          "score": 92
-        },
-        {
-          "keyword": "mlb",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T22:58:26.461Z",
       "geo": "KR",
       "source": "google",
@@ -5215,6 +5168,53 @@
         },
         {
           "keyword": "leeds united vs man city",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T22:44:19.484Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "al-fayha vs al-nassr",
+          "score": 100
+        },
+        {
+          "keyword": "구글 지도",
+          "score": 99
+        },
+        {
+          "keyword": "비트코인시세",
+          "score": 98
+        },
+        {
+          "keyword": "laliga",
+          "score": 97
+        },
+        {
+          "keyword": "동아일보",
+          "score": 96
+        },
+        {
+          "keyword": "틱톡",
+          "score": 95
+        },
+        {
+          "keyword": "leeds đấu với man city",
+          "score": 94
+        },
+        {
+          "keyword": "이란 대통령",
+          "score": 93
+        },
+        {
+          "keyword": "dortmund vs bayern",
+          "score": 92
+        },
+        {
+          "keyword": "psg",
           "score": 91
         }
       ]
