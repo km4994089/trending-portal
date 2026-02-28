@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T06:33:05.073Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "筑波大学",
-          "score": 100
-        },
-        {
-          "keyword": "沢口靖子",
-          "score": 99
-        },
-        {
-          "keyword": "バンテリンドーム",
-          "score": 98
-        },
-        {
-          "keyword": "ロケッツ 対 ジャズ",
-          "score": 97
-        },
-        {
-          "keyword": "小栗忠順",
-          "score": 96
-        },
-        {
-          "keyword": "スクーバル",
-          "score": 95
-        },
-        {
-          "keyword": "テニス",
-          "score": 94
-        },
-        {
-          "keyword": "フジテレビ f1",
-          "score": 93
-        },
-        {
-          "keyword": "ガンダムx",
-          "score": 92
-        },
-        {
-          "keyword": "鈴木俊一",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T07:43:23.507Z",
       "geo": "JP",
       "source": "google",
@@ -4557,6 +4510,53 @@
         },
         {
           "keyword": "サガン鳥栖",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T07:00:46.024Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cnn",
+          "score": 100
+        },
+        {
+          "keyword": "イラン情勢",
+          "score": 99
+        },
+        {
+          "keyword": "フリッカージャブ",
+          "score": 98
+        },
+        {
+          "keyword": "伊朗",
+          "score": 97
+        },
+        {
+          "keyword": "ザスパ群馬",
+          "score": 96
+        },
+        {
+          "keyword": "イスラエル",
+          "score": 95
+        },
+        {
+          "keyword": "iran",
+          "score": 94
+        },
+        {
+          "keyword": "川口駅",
+          "score": 93
+        },
+        {
+          "keyword": "柳楽優弥",
+          "score": 92
+        },
+        {
+          "keyword": "龍宮城",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T06:33:02.492Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "bobby cannavale",
-          "score": 100
-        },
-        {
-          "keyword": "winter olympics gold medals",
-          "score": 99
-        },
-        {
-          "keyword": "pokemon 30th anniversary logo",
-          "score": 98
-        },
-        {
-          "keyword": "scottie",
-          "score": 97
-        },
-        {
-          "keyword": "neve campbell",
-          "score": 96
-        },
-        {
-          "keyword": "rafael jodar",
-          "score": 95
-        },
-        {
-          "keyword": "adam walton",
-          "score": 94
-        },
-        {
-          "keyword": "cameron norrie",
-          "score": 93
-        },
-        {
-          "keyword": "travel ban rhode island",
-          "score": 92
-        },
-        {
-          "keyword": "katy perry",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T07:43:20.845Z",
       "geo": "US",
       "source": "google",
@@ -4557,6 +4510,53 @@
         },
         {
           "keyword": "jared mccain",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T07:00:43.771Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "car insurance",
+          "score": 100
+        },
+        {
+          "keyword": "cnn news",
+          "score": 99
+        },
+        {
+          "keyword": "polymarket",
+          "score": 98
+        },
+        {
+          "keyword": "以色列",
+          "score": 97
+        },
+        {
+          "keyword": "breaking news",
+          "score": 96
+        },
+        {
+          "keyword": "war",
+          "score": 95
+        },
+        {
+          "keyword": "iran international",
+          "score": 94
+        },
+        {
+          "keyword": "connor storrie",
+          "score": 93
+        },
+        {
+          "keyword": "ig",
+          "score": 92
+        },
+        {
+          "keyword": "scream 8",
           "score": 91
         }
       ]

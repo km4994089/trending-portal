@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T06:33:03.880Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "두산베어스",
-          "score": 100
-        },
-        {
-          "keyword": "인천유나이티드",
-          "score": 99
-        },
-        {
-          "keyword": "대구 날씨",
-          "score": 98
-        },
-        {
-          "keyword": "스타벅스 리유저블컵",
-          "score": 97
-        },
-        {
-          "keyword": "청년문화예술패스",
-          "score": 96
-        },
-        {
-          "keyword": "윤하",
-          "score": 95
-        },
-        {
-          "keyword": "액스비스",
-          "score": 94
-        },
-        {
-          "keyword": "디트로이트 대 샌안토니오",
-          "score": 93
-        },
-        {
-          "keyword": "삼전",
-          "score": 92
-        },
-        {
-          "keyword": "대전 날씨",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T07:43:22.350Z",
       "geo": "KR",
       "source": "google",
@@ -4537,6 +4490,53 @@
         },
         {
           "keyword": "인천 대 fc 서울",
+          "score": 96
+        },
+        {
+          "keyword": "에어로카노",
+          "score": 95
+        },
+        {
+          "keyword": "다이소",
+          "score": 94
+        },
+        {
+          "keyword": "버거킹",
+          "score": 93
+        },
+        {
+          "keyword": "토스 행운퀴즈 정답",
+          "score": 92
+        },
+        {
+          "keyword": "아이폰 17",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T07:00:45.023Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "라쿠텐",
+          "score": 100
+        },
+        {
+          "keyword": "k리그2",
+          "score": 99
+        },
+        {
+          "keyword": "웹젠",
+          "score": 98
+        },
+        {
+          "keyword": "인천 대 fc 서울",
+          "score": 97
+        },
+        {
+          "keyword": "울산 대 강원",
           "score": 96
         },
         {
