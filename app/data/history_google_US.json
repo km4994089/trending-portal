@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T03:55:16.152Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ace bailey",
-          "score": 100
-        },
-        {
-          "keyword": "jabari smith jr.",
-          "score": 99
-        },
-        {
-          "keyword": "russell westbrook",
-          "score": 98
-        },
-        {
-          "keyword": "utah jazz",
-          "score": 97
-        },
-        {
-          "keyword": "kevin love",
-          "score": 96
-        },
-        {
-          "keyword": "keegan murray",
-          "score": 95
-        },
-        {
-          "keyword": "cia",
-          "score": 94
-        },
-        {
-          "keyword": "cia tv show",
-          "score": 93
-        },
-        {
-          "keyword": "sam smith",
-          "score": 92
-        },
-        {
-          "keyword": "kelvin sampson",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T05:17:18.739Z",
       "geo": "US",
       "source": "google",
@@ -4463,6 +4416,53 @@
         },
         {
           "keyword": "ausar thompson",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T04:38:01.047Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "isaiah hartenstein",
+          "score": 100
+        },
+        {
+          "keyword": "cam spencer",
+          "score": 99
+        },
+        {
+          "keyword": "alex pereira",
+          "score": 98
+        },
+        {
+          "keyword": "mark sanchez",
+          "score": 97
+        },
+        {
+          "keyword": "frances tiafoe",
+          "score": 96
+        },
+        {
+          "keyword": "smackdown results",
+          "score": 95
+        },
+        {
+          "keyword": "nebraska baseball",
+          "score": 94
+        },
+        {
+          "keyword": "pumas",
+          "score": 93
+        },
+        {
+          "keyword": "bev turner",
+          "score": 92
+        },
+        {
+          "keyword": "f1",
           "score": 91
         }
       ]
