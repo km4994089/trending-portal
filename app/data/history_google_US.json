@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T11:33:28.904Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "red flag (fire weather) warning",
-          "score": 100
-        },
-        {
-          "keyword": "weather miami",
-          "score": 99
-        },
-        {
-          "keyword": "texas lottery",
-          "score": 98
-        },
-        {
-          "keyword": "baltimore county public schools",
-          "score": 97
-        },
-        {
-          "keyword": "septa",
-          "score": 96
-        },
-        {
-          "keyword": "wordle hint",
-          "score": 95
-        },
-        {
-          "keyword": "winter olympics ice hockey gold medal",
-          "score": 94
-        },
-        {
-          "keyword": "jenson brooksby",
-          "score": 93
-        },
-        {
-          "keyword": "eng vs pak",
-          "score": 92
-        },
-        {
-          "keyword": "daniil medvedev",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T12:40:06.423Z",
       "geo": "US",
       "source": "google",
@@ -4745,6 +4698,53 @@
         },
         {
           "keyword": "rockstar",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T11:38:43.483Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "wrongful death attorney",
+          "score": 100
+        },
+        {
+          "keyword": "gwen stefani",
+          "score": 99
+        },
+        {
+          "keyword": "allstate insurance",
+          "score": 98
+        },
+        {
+          "keyword": "ali shamkhani",
+          "score": 97
+        },
+        {
+          "keyword": "comcast xfinity",
+          "score": 96
+        },
+        {
+          "keyword": "turkish airlines",
+          "score": 95
+        },
+        {
+          "keyword": "oman",
+          "score": 94
+        },
+        {
+          "keyword": "woodbury commons parma",
+          "score": 93
+        },
+        {
+          "keyword": "federico cina",
+          "score": 92
+        },
+        {
+          "keyword": "anhelina kalinina",
           "score": 91
         }
       ]
