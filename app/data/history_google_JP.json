@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T01:11:14.117Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "キオクシア 株価",
-          "score": 100
-        },
-        {
-          "keyword": "黒島結菜",
-          "score": 99
-        },
-        {
-          "keyword": "オリエンタルランド 株価",
-          "score": 98
-        },
-        {
-          "keyword": "みずほ株価",
-          "score": 97
-        },
-        {
-          "keyword": "クロード",
-          "score": 96
-        },
-        {
-          "keyword": "ヤフーファイナンス",
-          "score": 95
-        },
-        {
-          "keyword": "c",
-          "score": 94
-        },
-        {
-          "keyword": "ntt 株価",
-          "score": 93
-        },
-        {
-          "keyword": "ソニー株価",
-          "score": 92
-        },
-        {
-          "keyword": "任天堂 株価",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T03:55:18.639Z",
       "geo": "JP",
       "source": "google",
@@ -4463,6 +4416,53 @@
         },
         {
           "keyword": "湘南新宿ライン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T03:22:42.102Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "横浜fm 対 東京v",
+          "score": 100
+        },
+        {
+          "keyword": "土居",
+          "score": 99
+        },
+        {
+          "keyword": "竹内涼真",
+          "score": 98
+        },
+        {
+          "keyword": "スペースワン",
+          "score": 97
+        },
+        {
+          "keyword": "花粉",
+          "score": 96
+        },
+        {
+          "keyword": "クリントン",
+          "score": 95
+        },
+        {
+          "keyword": "三吉彩花",
+          "score": 94
+        },
+        {
+          "keyword": "ホウオウプロサンゲ",
+          "score": 93
+        },
+        {
+          "keyword": "ハンギョドン",
+          "score": 92
+        },
+        {
+          "keyword": "水野真紀",
           "score": 91
         }
       ]

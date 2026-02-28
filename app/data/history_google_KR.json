@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T01:11:12.695Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "백석대학교",
-          "score": 100
-        },
-        {
-          "keyword": "줌",
-          "score": 99
-        },
-        {
-          "keyword": "에스팀",
-          "score": 98
-        },
-        {
-          "keyword": "대전보건대",
-          "score": 97
-        },
-        {
-          "keyword": "연세대학교",
-          "score": 96
-        },
-        {
-          "keyword": "claude ai",
-          "score": 95
-        },
-        {
-          "keyword": "한국투자증권",
-          "score": 94
-        },
-        {
-          "keyword": "은마아파트",
-          "score": 93
-        },
-        {
-          "keyword": "부산 날씨",
-          "score": 92
-        },
-        {
-          "keyword": "premier league",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T03:55:17.471Z",
       "geo": "KR",
       "source": "google",
@@ -4463,6 +4416,53 @@
         },
         {
           "keyword": "앤트로픽",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T03:22:40.871Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "한지민",
+          "score": 100
+        },
+        {
+          "keyword": "국립중앙박물관",
+          "score": 99
+        },
+        {
+          "keyword": "supreme",
+          "score": 98
+        },
+        {
+          "keyword": "k리그",
+          "score": 97
+        },
+        {
+          "keyword": "한효주",
+          "score": 96
+        },
+        {
+          "keyword": "정월대보름",
+          "score": 95
+        },
+        {
+          "keyword": "박보영",
+          "score": 94
+        },
+        {
+          "keyword": "윤유선",
+          "score": 93
+        },
+        {
+          "keyword": "길찾기",
+          "score": 92
+        },
+        {
+          "keyword": "왕과 사는 남자 관객수",
           "score": 91
         }
       ]
