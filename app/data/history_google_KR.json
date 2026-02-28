@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T21:56:12.473Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "비트코인 usd",
-          "score": 100
-        },
-        {
-          "keyword": "리니지 클래식",
-          "score": 99
-        },
-        {
-          "keyword": "뉴캐슬",
-          "score": 98
-        },
-        {
-          "keyword": "레버쿠젠",
-          "score": 97
-        },
-        {
-          "keyword": "at마드리드",
-          "score": 96
-        },
-        {
-          "keyword": "mlb",
-          "score": 95
-        },
-        {
-          "keyword": "리니지",
-          "score": 94
-        },
-        {
-          "keyword": "atlético madrid vs club brugge",
-          "score": 93
-        },
-        {
-          "keyword": "아틀레티코 마드리드",
-          "score": 92
-        },
-        {
-          "keyword": "인테르",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T22:25:54.913Z",
       "geo": "KR",
       "source": "google",
@@ -5215,6 +5168,53 @@
         },
         {
           "keyword": "산티아고",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T22:13:17.806Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "laliga",
+          "score": 100
+        },
+        {
+          "keyword": "틱톡",
+          "score": 99
+        },
+        {
+          "keyword": "leeds đấu với man city",
+          "score": 98
+        },
+        {
+          "keyword": "dortmund vs bayern",
+          "score": 97
+        },
+        {
+          "keyword": "psg",
+          "score": 96
+        },
+        {
+          "keyword": "ลีดส์ พบ แมนซิตี",
+          "score": 95
+        },
+        {
+          "keyword": "liverpool đấu với west ham",
+          "score": 94
+        },
+        {
+          "keyword": "나폴리",
+          "score": 93
+        },
+        {
+          "keyword": "멸망전",
+          "score": 92
+        },
+        {
+          "keyword": "leeds united vs man city",
           "score": 91
         }
       ]
