@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T18:47:44.091Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sarah jessica parker",
-          "score": 100
-        },
-        {
-          "keyword": "al-taawoun vs al-hilal",
-          "score": 99
-        },
-        {
-          "keyword": "ucl",
-          "score": 98
-        },
-        {
-          "keyword": "club brugge",
-          "score": 97
-        },
-        {
-          "keyword": "jessica pegula",
-          "score": 96
-        },
-        {
-          "keyword": "wrexham vs portsmouth",
-          "score": 95
-        },
-        {
-          "keyword": "champions league schedule",
-          "score": 94
-        },
-        {
-          "keyword": "iva jovic",
-          "score": 93
-        },
-        {
-          "keyword": "champions league",
-          "score": 92
-        },
-        {
-          "keyword": "brett kulak",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T19:43:34.484Z",
       "geo": "US",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "bayern munich",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T18:53:03.764Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "six flags",
+          "score": 100
+        },
+        {
+          "keyword": "uconn basketball",
+          "score": 99
+        },
+        {
+          "keyword": "nfl combine results",
+          "score": 98
+        },
+        {
+          "keyword": "koe wetzel",
+          "score": 97
+        },
+        {
+          "keyword": "fbi",
+          "score": 96
+        },
+        {
+          "keyword": "nomma zarubina",
+          "score": 95
+        },
+        {
+          "keyword": "al-fayha vs al-nassr",
+          "score": 94
+        },
+        {
+          "keyword": "mario andretti",
+          "score": 93
+        },
+        {
+          "keyword": "jack nicklaus",
+          "score": 92
+        },
+        {
+          "keyword": "mike washington jr",
           "score": 91
         }
       ]

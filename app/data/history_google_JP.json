@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T18:47:47.013Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "地震速報",
-          "score": 100
-        },
-        {
-          "keyword": "チェンソーマン",
-          "score": 99
-        },
-        {
-          "keyword": "エポスカード",
-          "score": 98
-        },
-        {
-          "keyword": "kick",
-          "score": 97
-        },
-        {
-          "keyword": "プルデンシャル生命",
-          "score": 96
-        },
-        {
-          "keyword": "アトレティコ 対 クラブ・ブルッヘ",
-          "score": 95
-        },
-        {
-          "keyword": "fod",
-          "score": 94
-        },
-        {
-          "keyword": "目黒蓮",
-          "score": 93
-        },
-        {
-          "keyword": "飯島直子",
-          "score": 92
-        },
-        {
-          "keyword": "上坂すみれ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T19:43:38.510Z",
       "geo": "JP",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "剛力彩芽",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T18:53:06.285Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "小泉今日子",
+          "score": 100
+        },
+        {
+          "keyword": "ツイッチ",
+          "score": 99
+        },
+        {
+          "keyword": "leeds united vs man city",
+          "score": 98
+        },
+        {
+          "keyword": "santiago",
+          "score": 97
+        },
+        {
+          "keyword": "メタマスク",
+          "score": 96
+        },
+        {
+          "keyword": "ラリーガ",
+          "score": 95
+        },
+        {
+          "keyword": "高橋ヒロム",
+          "score": 94
+        },
+        {
+          "keyword": "twitch",
+          "score": 93
+        },
+        {
+          "keyword": "マヨルカ 対 ソシエダ",
+          "score": 92
+        },
+        {
+          "keyword": "ドルトムント 対 バイエルン",
           "score": 91
         }
       ]
