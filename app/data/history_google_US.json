@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T07:43:20.845Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tropical cyclone horacio",
-          "score": 100
-        },
-        {
-          "keyword": "panama canal ports",
-          "score": 99
-        },
-        {
-          "keyword": "bobby cannavale",
-          "score": 98
-        },
-        {
-          "keyword": "pokemon 30th anniversary logo",
-          "score": 97
-        },
-        {
-          "keyword": "winter olympics gold medals",
-          "score": 96
-        },
-        {
-          "keyword": "nbc renewals",
-          "score": 95
-        },
-        {
-          "keyword": "scottie",
-          "score": 94
-        },
-        {
-          "keyword": "david carradine",
-          "score": 93
-        },
-        {
-          "keyword": "neve campbell",
-          "score": 92
-        },
-        {
-          "keyword": "rafael jodar",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-24T08:34:59.097Z",
       "geo": "US",
       "source": "google",
@@ -4557,6 +4510,53 @@
         },
         {
           "keyword": "scream 8",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T07:44:31.696Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "truth social",
+          "score": 100
+        },
+        {
+          "keyword": "xrp price",
+          "score": 99
+        },
+        {
+          "keyword": "us war",
+          "score": 98
+        },
+        {
+          "keyword": "washington post",
+          "score": 97
+        },
+        {
+          "keyword": "russia",
+          "score": 96
+        },
+        {
+          "keyword": "supermarket",
+          "score": 95
+        },
+        {
+          "keyword": "nbc news",
+          "score": 94
+        },
+        {
+          "keyword": "oil prices",
+          "score": 93
+        },
+        {
+          "keyword": "bitcoin price",
+          "score": 92
+        },
+        {
+          "keyword": "fox news",
           "score": 91
         }
       ]
