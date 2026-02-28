@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-24T23:30:30.066Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "금시세",
-          "score": 100
-        },
-        {
-          "keyword": "조선일보",
-          "score": 99
-        },
-        {
-          "keyword": "갤럭시 s26",
-          "score": 98
-        },
-        {
-          "keyword": "s26",
-          "score": 97
-        },
-        {
-          "keyword": "서울날씨",
-          "score": 96
-        },
-        {
-          "keyword": "newcastle vs qarabag fk",
-          "score": 95
-        },
-        {
-          "keyword": "นิวคาสเซิล พบ คาราบัค",
-          "score": 94
-        },
-        {
-          "keyword": "weather today",
-          "score": 93
-        },
-        {
-          "keyword": "알타아원 대 알힐랄",
-          "score": 92
-        },
-        {
-          "keyword": "엔비디아 실적",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-25T01:16:55.251Z",
       "geo": "KR",
       "source": "google",
@@ -5215,6 +5168,53 @@
         },
         {
           "keyword": "이란 대통령",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-02-28T23:40:54.906Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "real oviedo vs atlético madrid",
+          "score": 100
+        },
+        {
+          "keyword": "그록",
+          "score": 99
+        },
+        {
+          "keyword": "기상청 날씨누리",
+          "score": 98
+        },
+        {
+          "keyword": "al-fayha vs al-nassr",
+          "score": 97
+        },
+        {
+          "keyword": "구글 지도",
+          "score": 96
+        },
+        {
+          "keyword": "비트코인시세",
+          "score": 95
+        },
+        {
+          "keyword": "laliga",
+          "score": 94
+        },
+        {
+          "keyword": "인천공항",
+          "score": 93
+        },
+        {
+          "keyword": "동아일보",
+          "score": 92
+        },
+        {
+          "keyword": "bundesliga",
           "score": 91
         }
       ]
