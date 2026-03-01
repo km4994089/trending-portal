@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-25T12:39:44.233Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "felix auger aliassime",
-          "score": 100
-        },
-        {
-          "keyword": "rock and roll hall of fame",
-          "score": 99
-        },
-        {
-          "keyword": "matthew lillard",
-          "score": 98
-        },
-        {
-          "keyword": "strands hint",
-          "score": 97
-        },
-        {
-          "keyword": "casey means",
-          "score": 96
-        },
-        {
-          "keyword": "tua tagovailoa",
-          "score": 95
-        },
-        {
-          "keyword": "nyc schools",
-          "score": 94
-        },
-        {
-          "keyword": "mortgage",
-          "score": 93
-        },
-        {
-          "keyword": "breeze airways",
-          "score": 92
-        },
-        {
-          "keyword": "debt relief",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-25T15:15:38.227Z",
       "geo": "US",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "strands hint",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-01T13:13:49.992Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "manchester united",
+          "score": 100
+        },
+        {
+          "keyword": "wall street journal",
+          "score": 99
+        },
+        {
+          "keyword": "nc lottery",
+          "score": 98
+        },
+        {
+          "keyword": "st davids day",
+          "score": 97
+        },
+        {
+          "keyword": "bracketology",
+          "score": 96
+        },
+        {
+          "keyword": "beit shemesh",
+          "score": 95
+        },
+        {
+          "keyword": "british airways",
+          "score": 94
+        },
+        {
+          "keyword": "dow futures",
+          "score": 93
+        },
+        {
+          "keyword": "wral",
+          "score": 92
+        },
+        {
+          "keyword": "elche c. f. - rcd espanyol",
           "score": 91
         }
       ]

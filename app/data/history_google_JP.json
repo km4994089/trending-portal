@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-25T12:39:47.150Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "遊戯王",
-          "score": 100
-        },
-        {
-          "keyword": "エンティーム",
-          "score": 99
-        },
-        {
-          "keyword": "チームみらい 安野",
-          "score": 98
-        },
-        {
-          "keyword": "川村エミコ",
-          "score": 97
-        },
-        {
-          "keyword": "宇都宮動物園",
-          "score": 96
-        },
-        {
-          "keyword": "寺脇康文",
-          "score": 95
-        },
-        {
-          "keyword": "春雨",
-          "score": 94
-        },
-        {
-          "keyword": "中川翔子",
-          "score": 93
-        },
-        {
-          "keyword": "白洲迅",
-          "score": 92
-        },
-        {
-          "keyword": "ゼット世代",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-25T15:15:40.735Z",
       "geo": "JP",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "セイコー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-01T13:13:52.582Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ai",
+          "score": 100
+        },
+        {
+          "keyword": "古舘伊知郎",
+          "score": 99
+        },
+        {
+          "keyword": "あい",
+          "score": 98
+        },
+        {
+          "keyword": "フォレスター",
+          "score": 97
+        },
+        {
+          "keyword": "日経平均株価とは",
+          "score": 96
+        },
+        {
+          "keyword": "クロード",
+          "score": 95
+        },
+        {
+          "keyword": "藤原紀香",
+          "score": 94
+        },
+        {
+          "keyword": "黒木メイサ",
+          "score": 93
+        },
+        {
+          "keyword": "小田さくら",
+          "score": 92
+        },
+        {
+          "keyword": "相田みつを",
           "score": 91
         }
       ]
