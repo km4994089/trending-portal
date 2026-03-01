@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-25T21:37:34.642Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "レアル",
-          "score": 100
-        },
-        {
-          "keyword": "saas",
-          "score": 99
-        },
-        {
-          "keyword": "ユベントス",
-          "score": 98
-        },
-        {
-          "keyword": "uefaチャンピオンズリーグ",
-          "score": 97
-        },
-        {
-          "keyword": "千原ジュニア",
-          "score": 96
-        },
-        {
-          "keyword": "セールスフォース 株価",
-          "score": 95
-        },
-        {
-          "keyword": "天気予報 東京",
-          "score": 94
-        },
-        {
-          "keyword": "天気 東京",
-          "score": 93
-        },
-        {
-          "keyword": "今日の天気は",
-          "score": 92
-        },
-        {
-          "keyword": "西武鉄道",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-25T22:22:24.206Z",
       "geo": "JP",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "chelsea",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-01T21:41:52.937Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "市川中車",
+          "score": 100
+        },
+        {
+          "keyword": "安住 紳一郎 体調不良",
+          "score": 99
+        },
+        {
+          "keyword": "常人仮面原作者",
+          "score": 98
+        },
+        {
+          "keyword": "福岡天気",
+          "score": 97
+        },
+        {
+          "keyword": "沢尻エリカ",
+          "score": 96
+        },
+        {
+          "keyword": "パラマウント",
+          "score": 95
+        },
+        {
+          "keyword": "天気予報",
+          "score": 94
+        },
+        {
+          "keyword": "今日の天気",
+          "score": 93
+        },
+        {
+          "keyword": "紅プリンセス",
+          "score": 92
+        },
+        {
+          "keyword": "白線流し",
           "score": 91
         }
       ]
