@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-25T09:42:32.588Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "erie insurance",
-          "score": 100
-        },
-        {
-          "keyword": "spacex rocket launch",
-          "score": 99
-        },
-        {
-          "keyword": "today wordle answers",
-          "score": 98
-        },
-        {
-          "keyword": "qqq",
-          "score": 97
-        },
-        {
-          "keyword": "nba mock draft",
-          "score": 96
-        },
-        {
-          "keyword": "apple",
-          "score": 95
-        },
-        {
-          "keyword": "energy",
-          "score": 94
-        },
-        {
-          "keyword": "morningstar",
-          "score": 93
-        },
-        {
-          "keyword": "longi",
-          "score": 92
-        },
-        {
-          "keyword": "starlink",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-25T10:40:21.035Z",
       "geo": "US",
       "source": "google",
@@ -5356,6 +5309,53 @@
         },
         {
           "keyword": "ohio",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-01T09:49:18.667Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "dennys",
+          "score": 100
+        },
+        {
+          "keyword": "australia vs philippines",
+          "score": 99
+        },
+        {
+          "keyword": "zim vs sa",
+          "score": 98
+        },
+        {
+          "keyword": "disney",
+          "score": 97
+        },
+        {
+          "keyword": "austin news",
+          "score": 96
+        },
+        {
+          "keyword": "austin shooting",
+          "score": 95
+        },
+        {
+          "keyword": "ind vs wi",
+          "score": 94
+        },
+        {
+          "keyword": "crypto atm",
+          "score": 93
+        },
+        {
+          "keyword": "motogp",
+          "score": 92
+        },
+        {
+          "keyword": "gloria trevi",
           "score": 91
         }
       ]
