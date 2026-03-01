@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-25T01:16:54.007Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "spike lee",
-          "score": 100
-        },
-        {
-          "keyword": "haley robson",
-          "score": 99
-        },
-        {
-          "keyword": "ncis",
-          "score": 98
-        },
-        {
-          "keyword": "designated survivor",
-          "score": 97
-        },
-        {
-          "keyword": "kent state basketball",
-          "score": 96
-        },
-        {
-          "keyword": "bridgerton season 4 part 2",
-          "score": 95
-        },
-        {
-          "keyword": "taylor tomlinson",
-          "score": 94
-        },
-        {
-          "keyword": "nashville vs ottawa",
-          "score": 93
-        },
-        {
-          "keyword": "tv guide",
-          "score": 92
-        },
-        {
-          "keyword": "cincinnati basketball",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-25T03:56:41.722Z",
       "geo": "US",
       "source": "google",
@@ -5215,6 +5168,53 @@
         },
         {
           "keyword": "ryan gandra",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-01T01:19:01.541Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "alison sweeney",
+          "score": 100
+        },
+        {
+          "keyword": "kick",
+          "score": 99
+        },
+        {
+          "keyword": "florida basketball",
+          "score": 98
+        },
+        {
+          "keyword": "mission impossible",
+          "score": 97
+        },
+        {
+          "keyword": "kyshawn george",
+          "score": 96
+        },
+        {
+          "keyword": "best movies to stream right now",
+          "score": 95
+        },
+        {
+          "keyword": "curmel moton",
+          "score": 94
+        },
+        {
+          "keyword": "columbus vs sporting kc",
+          "score": 93
+        },
+        {
+          "keyword": "scarlett johansson",
+          "score": 92
+        },
+        {
+          "keyword": "scottie barnes",
           "score": 91
         }
       ]
