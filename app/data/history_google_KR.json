@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-25T22:22:22.703Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "psg vs monaco",
-          "score": 100
-        },
-        {
-          "keyword": "아이온큐",
-          "score": 99
-        },
-        {
-          "keyword": "nvidia",
-          "score": 98
-        },
-        {
-          "keyword": "реал мадрид – бенфика",
-          "score": 97
-        },
-        {
-          "keyword": "พยากรณ์อากาศ",
-          "score": 96
-        },
-        {
-          "keyword": "real madrid",
-          "score": 95
-        },
-        {
-          "keyword": "real madrid vs benfica",
-          "score": 94
-        },
-        {
-          "keyword": "atalanta vs dortmund",
-          "score": 93
-        },
-        {
-          "keyword": "챔피언스리그 경기",
-          "score": 92
-        },
-        {
-          "keyword": "챔피언스리그",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-25T22:58:37.796Z",
       "geo": "KR",
       "source": "google",
@@ -6014,6 +5967,53 @@
         },
         {
           "keyword": "아스날",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-01T22:46:20.023Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "날씨",
+          "score": 100
+        },
+        {
+          "keyword": "roma vs juventus",
+          "score": 99
+        },
+        {
+          "keyword": "weather",
+          "score": 98
+        },
+        {
+          "keyword": "그록",
+          "score": 97
+        },
+        {
+          "keyword": "동아일보",
+          "score": 96
+        },
+        {
+          "keyword": "장원영",
+          "score": 95
+        },
+        {
+          "keyword": "기상청 날씨누리",
+          "score": 94
+        },
+        {
+          "keyword": "달러",
+          "score": 93
+        },
+        {
+          "keyword": "산티아고",
+          "score": 92
+        },
+        {
+          "keyword": "시아파",
           "score": 91
         }
       ]
