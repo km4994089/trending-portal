@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-25T20:59:58.084Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "運行情報",
-          "score": 100
-        },
-        {
-          "keyword": "吉岡里帆",
-          "score": 99
-        },
-        {
-          "keyword": "宮崎あおい",
-          "score": 98
-        },
-        {
-          "keyword": "アタランタ",
-          "score": 97
-        },
-        {
-          "keyword": "西武新宿線",
-          "score": 96
-        },
-        {
-          "keyword": "jr",
-          "score": 95
-        },
-        {
-          "keyword": "cl 日程",
-          "score": 94
-        },
-        {
-          "keyword": "jr神戸線",
-          "score": 93
-        },
-        {
-          "keyword": "champions league",
-          "score": 92
-        },
-        {
-          "keyword": "jr西日本",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-25T21:37:34.642Z",
       "geo": "JP",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "サッスオーロ 対 アタランタ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-01T21:13:45.684Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "羽鳥慎一",
+          "score": 100
+        },
+        {
+          "keyword": "村木厚子",
+          "score": 99
+        },
+        {
+          "keyword": "ブルズ 対 バックス",
+          "score": 98
+        },
+        {
+          "keyword": "日経先物",
+          "score": 97
+        },
+        {
+          "keyword": "加藤茶",
+          "score": 96
+        },
+        {
+          "keyword": "前田敦子",
+          "score": 95
+        },
+        {
+          "keyword": "iphone17e",
+          "score": 94
+        },
+        {
+          "keyword": "近藤千尋",
+          "score": 93
+        },
+        {
+          "keyword": "liga inggris",
+          "score": 92
+        },
+        {
+          "keyword": "chelsea",
           "score": 91
         }
       ]
