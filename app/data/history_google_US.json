@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-25T06:37:17.206Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "judi dench",
-          "score": 100
-        },
-        {
-          "keyword": "los angeles lakers",
-          "score": 99
-        },
-        {
-          "keyword": "pod save america",
-          "score": 98
-        },
-        {
-          "keyword": "lakers score",
-          "score": 97
-        },
-        {
-          "keyword": "declan rice",
-          "score": 96
-        },
-        {
-          "keyword": "donovan clingan",
-          "score": 95
-        },
-        {
-          "keyword": "james cook",
-          "score": 94
-        },
-        {
-          "keyword": "shakira",
-          "score": 93
-        },
-        {
-          "keyword": "courteney cox",
-          "score": 92
-        },
-        {
-          "keyword": "jimmy kimmel",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-25T07:45:03.894Z",
       "geo": "US",
       "source": "google",
@@ -5262,6 +5215,53 @@
         },
         {
           "keyword": "colin jost",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-01T07:06:48.472Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "xbox",
+          "score": 100
+        },
+        {
+          "keyword": "tony cooper",
+          "score": 99
+        },
+        {
+          "keyword": "free movies",
+          "score": 98
+        },
+        {
+          "keyword": "severance",
+          "score": 97
+        },
+        {
+          "keyword": "stephen hawking",
+          "score": 96
+        },
+        {
+          "keyword": "indian wells",
+          "score": 95
+        },
+        {
+          "keyword": "noah kahan",
+          "score": 94
+        },
+        {
+          "keyword": "quentin tarantino",
+          "score": 93
+        },
+        {
+          "keyword": "johannesburg",
+          "score": 92
+        },
+        {
+          "keyword": "who sang with mumford and sons on snl",
           "score": 91
         }
       ]
