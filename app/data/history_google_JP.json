@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-25T03:56:44.242Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "claude",
-          "score": 100
-        },
-        {
-          "keyword": "claude code",
-          "score": 99
-        },
-        {
-          "keyword": "バスケ 日本代表",
-          "score": 98
-        },
-        {
-          "keyword": "punch the monkey",
-          "score": 97
-        },
-        {
-          "keyword": "ebidan メンバー",
-          "score": 96
-        },
-        {
-          "keyword": "ドムドムバーガー",
-          "score": 95
-        },
-        {
-          "keyword": "伊東秀仁",
-          "score": 94
-        },
-        {
-          "keyword": "ぴあ",
-          "score": 93
-        },
-        {
-          "keyword": "超特急 メンバー",
-          "score": 92
-        },
-        {
-          "keyword": "弥生",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-25T05:20:11.857Z",
       "geo": "JP",
       "source": "google",
@@ -5215,6 +5168,53 @@
         },
         {
           "keyword": "ガチャ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-01T03:59:59.285Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ナルト",
+          "score": 100
+        },
+        {
+          "keyword": "スーパーマリオ",
+          "score": 99
+        },
+        {
+          "keyword": "横山由依",
+          "score": 98
+        },
+        {
+          "keyword": "波田陽区",
+          "score": 97
+        },
+        {
+          "keyword": "nhkのど自慢",
+          "score": 96
+        },
+        {
+          "keyword": "イーブイ",
+          "score": 95
+        },
+        {
+          "keyword": "和田アキ子",
+          "score": 94
+        },
+        {
+          "keyword": "みそきん 店舗",
+          "score": 93
+        },
+        {
+          "keyword": "のど自慢",
+          "score": 92
+        },
+        {
+          "keyword": "前川清",
           "score": 91
         }
       ]

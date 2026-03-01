@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-25T03:56:41.722Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "congressional medal of honor",
-          "score": 100
-        },
-        {
-          "keyword": "chinook helicopter",
-          "score": 99
-        },
-        {
-          "keyword": "space force",
-          "score": 98
-        },
-        {
-          "keyword": "medal of honor",
-          "score": 97
-        },
-        {
-          "keyword": "maduro",
-          "score": 96
-        },
-        {
-          "keyword": "nicolas maduro",
-          "score": 95
-        },
-        {
-          "keyword": "delcy rodríguez",
-          "score": 94
-        },
-        {
-          "keyword": "kris murray",
-          "score": 93
-        },
-        {
-          "keyword": "operation midnight hammer",
-          "score": 92
-        },
-        {
-          "keyword": "steve witkoff",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-25T05:20:09.164Z",
       "geo": "US",
       "source": "google",
@@ -5215,6 +5168,53 @@
         },
         {
           "keyword": "scottie barnes",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-01T03:59:56.681Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cardi b",
+          "score": 100
+        },
+        {
+          "keyword": "frances tiafoe",
+          "score": 99
+        },
+        {
+          "keyword": "taylor tomlinson",
+          "score": 98
+        },
+        {
+          "keyword": "charles oliveira",
+          "score": 97
+        },
+        {
+          "keyword": "jasmine paolini",
+          "score": 96
+        },
+        {
+          "keyword": "vargas vs quintana",
+          "score": 95
+        },
+        {
+          "keyword": "msu hockey",
+          "score": 94
+        },
+        {
+          "keyword": "jackie chan",
+          "score": 93
+        },
+        {
+          "keyword": "keyonte george",
+          "score": 92
+        },
+        {
+          "keyword": "sombr",
           "score": 91
         }
       ]
