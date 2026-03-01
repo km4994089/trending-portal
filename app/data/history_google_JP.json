@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-25T08:36:59.937Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "マックナゲット",
-          "score": 100
-        },
-        {
-          "keyword": "東邦チタニウム",
-          "score": 99
-        },
-        {
-          "keyword": "コメダ ポケモン",
-          "score": 98
-        },
-        {
-          "keyword": "日経平均株価 最高値",
-          "score": 97
-        },
-        {
-          "keyword": "ユングフラウ賞",
-          "score": 96
-        },
-        {
-          "keyword": "蘭越",
-          "score": 95
-        },
-        {
-          "keyword": "マイクロソフト",
-          "score": 94
-        },
-        {
-          "keyword": "韓国",
-          "score": 93
-        },
-        {
-          "keyword": "江別市",
-          "score": 92
-        },
-        {
-          "keyword": "さいたま市",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-25T09:42:35.035Z",
       "geo": "JP",
       "source": "google",
@@ -5309,6 +5262,53 @@
         },
         {
           "keyword": "森泉",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-01T08:51:26.690Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "阪神巨人",
+          "score": 100
+        },
+        {
+          "keyword": "ドラゴンズ",
+          "score": 99
+        },
+        {
+          "keyword": "オール阪神巨人",
+          "score": 98
+        },
+        {
+          "keyword": "テレビ静岡",
+          "score": 97
+        },
+        {
+          "keyword": "満月",
+          "score": 96
+        },
+        {
+          "keyword": "徳光和夫",
+          "score": 95
+        },
+        {
+          "keyword": "石川祐希",
+          "score": 94
+        },
+        {
+          "keyword": "ジェジュン",
+          "score": 93
+        },
+        {
+          "keyword": "水戸ホーリーホック",
+          "score": 92
+        },
+        {
+          "keyword": "矢田亜希子",
           "score": 91
         }
       ]

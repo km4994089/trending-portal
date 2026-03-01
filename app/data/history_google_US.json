@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-25T08:36:57.332Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "obama",
-          "score": 100
-        },
-        {
-          "keyword": "qqq",
-          "score": 99
-        },
-        {
-          "keyword": "nba mock draft",
-          "score": 98
-        },
-        {
-          "keyword": "apple",
-          "score": 97
-        },
-        {
-          "keyword": "low-carbon",
-          "score": 96
-        },
-        {
-          "keyword": "ethereum",
-          "score": 95
-        },
-        {
-          "keyword": "finland",
-          "score": 94
-        },
-        {
-          "keyword": "industry",
-          "score": 93
-        },
-        {
-          "keyword": "starlink",
-          "score": 92
-        },
-        {
-          "keyword": "software",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-25T09:42:32.588Z",
       "geo": "US",
       "source": "google",
@@ -5309,6 +5262,53 @@
         },
         {
           "keyword": "xbox",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-01T08:51:24.257Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "austin shooting",
+          "score": 100
+        },
+        {
+          "keyword": "ind vs wi",
+          "score": 99
+        },
+        {
+          "keyword": "crypto atm",
+          "score": 98
+        },
+        {
+          "keyword": "motogp",
+          "score": 97
+        },
+        {
+          "keyword": "gloria trevi",
+          "score": 96
+        },
+        {
+          "keyword": "ohio shooting",
+          "score": 95
+        },
+        {
+          "keyword": "shogakukan",
+          "score": 94
+        },
+        {
+          "keyword": "ohio",
+          "score": 93
+        },
+        {
+          "keyword": "karachi",
+          "score": 92
+        },
+        {
+          "keyword": "riverfront live",
           "score": 91
         }
       ]
