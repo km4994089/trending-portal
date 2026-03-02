@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-26T07:43:44.949Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "주식",
-          "score": 100
-        },
-        {
-          "keyword": "현대모비스",
-          "score": 99
-        },
-        {
-          "keyword": "가비",
-          "score": 98
-        },
-        {
-          "keyword": "현대차",
-          "score": 97
-        },
-        {
-          "keyword": "유해진",
-          "score": 96
-        },
-        {
-          "keyword": "예술의전당",
-          "score": 95
-        },
-        {
-          "keyword": "티켓링크",
-          "score": 94
-        },
-        {
-          "keyword": "한화비전",
-          "score": 93
-        },
-        {
-          "keyword": "한미반도체 주가",
-          "score": 92
-        },
-        {
-          "keyword": "박수홍",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-26T08:34:38.575Z",
       "geo": "KR",
       "source": "google",
@@ -6014,6 +5967,53 @@
         },
         {
           "keyword": "kbs",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-02T08:02:10.923Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이병태",
+          "score": 100
+        },
+        {
+          "keyword": "박홍근",
+          "score": 99
+        },
+        {
+          "keyword": "장항준",
+          "score": 98
+        },
+        {
+          "keyword": "충남 아산 fc 대 파주",
+          "score": 97
+        },
+        {
+          "keyword": "류현진",
+          "score": 96
+        },
+        {
+          "keyword": "대전 대 안양",
+          "score": 95
+        },
+        {
+          "keyword": "wbc 평가전",
+          "score": 94
+        },
+        {
+          "keyword": "일본증시",
+          "score": 93
+        },
+        {
+          "keyword": "이소나",
+          "score": 92
+        },
+        {
+          "keyword": "한신 타이거즈",
           "score": 91
         }
       ]
