@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-26T06:31:47.504Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大阪府",
-          "score": 100
-        },
-        {
-          "keyword": "大杉漣",
-          "score": 99
-        },
-        {
-          "keyword": "侍ジャパン 日程",
-          "score": 98
-        },
-        {
-          "keyword": "本田望結",
-          "score": 97
-        },
-        {
-          "keyword": "仮面ライダーゼッツ",
-          "score": 96
-        },
-        {
-          "keyword": "大田区",
-          "score": 95
-        },
-        {
-          "keyword": "宝塚記念",
-          "score": 94
-        },
-        {
-          "keyword": "梶裕貴",
-          "score": 93
-        },
-        {
-          "keyword": "国民年金",
-          "score": 92
-        },
-        {
-          "keyword": "バンテリンドーム",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-26T07:43:46.579Z",
       "geo": "JP",
       "source": "google",
@@ -6014,6 +5967,53 @@
         },
         {
           "keyword": "ネトゲ速報",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-02T07:30:08.827Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "チームみらい",
+          "score": 100
+        },
+        {
+          "keyword": "ew",
+          "score": 99
+        },
+        {
+          "keyword": "アエバ外科病院",
+          "score": 98
+        },
+        {
+          "keyword": "テキーラ",
+          "score": 97
+        },
+        {
+          "keyword": "井上尚弥 中谷潤人",
+          "score": 96
+        },
+        {
+          "keyword": "山下美月",
+          "score": 95
+        },
+        {
+          "keyword": "警視庁",
+          "score": 94
+        },
+        {
+          "keyword": "小牧市 火事",
+          "score": 93
+        },
+        {
+          "keyword": "堺雅人",
+          "score": 92
+        },
+        {
+          "keyword": "リユース",
           "score": 91
         }
       ]

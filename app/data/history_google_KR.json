@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-26T06:31:46.213Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "유해진",
-          "score": 100
-        },
-        {
-          "keyword": "예술의전당",
-          "score": 99
-        },
-        {
-          "keyword": "티켓링크",
-          "score": 98
-        },
-        {
-          "keyword": "포모",
-          "score": 97
-        },
-        {
-          "keyword": "한화비전",
-          "score": 96
-        },
-        {
-          "keyword": "한미반도체 주가",
-          "score": 95
-        },
-        {
-          "keyword": "박수홍",
-          "score": 94
-        },
-        {
-          "keyword": "punch the monkey",
-          "score": 93
-        },
-        {
-          "keyword": "etf",
-          "score": 92
-        },
-        {
-          "keyword": "영남대",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-26T07:43:44.949Z",
       "geo": "KR",
       "source": "google",
@@ -6014,6 +5967,53 @@
         },
         {
           "keyword": "mbc",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-02T07:30:07.326Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "박홍근",
+          "score": 100
+        },
+        {
+          "keyword": "장항준",
+          "score": 99
+        },
+        {
+          "keyword": "충남 아산 fc 대 파주",
+          "score": 98
+        },
+        {
+          "keyword": "류현진",
+          "score": 97
+        },
+        {
+          "keyword": "대전 대 안양",
+          "score": 96
+        },
+        {
+          "keyword": "wbc 평가전",
+          "score": 95
+        },
+        {
+          "keyword": "이소나",
+          "score": 94
+        },
+        {
+          "keyword": "젠데이아",
+          "score": 93
+        },
+        {
+          "keyword": "한신 타이거즈",
+          "score": 92
+        },
+        {
+          "keyword": "kbs",
           "score": 91
         }
       ]
