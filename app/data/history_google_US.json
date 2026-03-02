@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-26T08:34:37.273Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kalshi",
-          "score": 100
-        },
-        {
-          "keyword": "sam altman",
-          "score": 99
-        },
-        {
-          "keyword": "sony wf‑1000xm6",
-          "score": 98
-        },
-        {
-          "keyword": "wi vs sa",
-          "score": 97
-        },
-        {
-          "keyword": "cubans",
-          "score": 96
-        },
-        {
-          "keyword": "jake shane",
-          "score": 95
-        },
-        {
-          "keyword": "leann rimes",
-          "score": 94
-        },
-        {
-          "keyword": "gael monfils",
-          "score": 93
-        },
-        {
-          "keyword": "ducks",
-          "score": 92
-        },
-        {
-          "keyword": "max scherzer",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-26T09:39:01.740Z",
       "geo": "US",
       "source": "google",
@@ -6014,6 +5967,53 @@
         },
         {
           "keyword": "hotels",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-02T09:05:00.803Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "target",
+          "score": 100
+        },
+        {
+          "keyword": "умар джабраилов",
+          "score": 99
+        },
+        {
+          "keyword": "turkey",
+          "score": 98
+        },
+        {
+          "keyword": "elena pridankina",
+          "score": 97
+        },
+        {
+          "keyword": "teodora kostovic",
+          "score": 96
+        },
+        {
+          "keyword": "laura pigossi",
+          "score": 95
+        },
+        {
+          "keyword": "aramco",
+          "score": 94
+        },
+        {
+          "keyword": "earthquake san ramon",
+          "score": 93
+        },
+        {
+          "keyword": "earthquake near me",
+          "score": 92
+        },
+        {
+          "keyword": "us embassy kuwait",
           "score": 91
         }
       ]
