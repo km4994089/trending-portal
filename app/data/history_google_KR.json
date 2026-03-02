@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-26T05:15:44.536Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "한화비전",
-          "score": 100
-        },
-        {
-          "keyword": "한미반도체 주가",
-          "score": 99
-        },
-        {
-          "keyword": "박수홍",
-          "score": 98
-        },
-        {
-          "keyword": "punch the monkey",
-          "score": 97
-        },
-        {
-          "keyword": "etf",
-          "score": 96
-        },
-        {
-          "keyword": "영남대",
-          "score": 95
-        },
-        {
-          "keyword": "삼천당제약",
-          "score": 94
-        },
-        {
-          "keyword": "sk증권",
-          "score": 93
-        },
-        {
-          "keyword": "카카오",
-          "score": 92
-        },
-        {
-          "keyword": "상법",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-26T06:31:46.213Z",
       "geo": "KR",
       "source": "google",
@@ -6014,6 +5967,53 @@
         },
         {
           "keyword": "tving",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-02T06:09:26.243Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "류현진",
+          "score": 100
+        },
+        {
+          "keyword": "대전 대 안양",
+          "score": 99
+        },
+        {
+          "keyword": "닛케이 지수",
+          "score": 98
+        },
+        {
+          "keyword": "wbc 평가전",
+          "score": 97
+        },
+        {
+          "keyword": "사이키 히로토",
+          "score": 96
+        },
+        {
+          "keyword": "이소나",
+          "score": 95
+        },
+        {
+          "keyword": "한신 타이거즈",
+          "score": 94
+        },
+        {
+          "keyword": "젠데이아",
+          "score": 93
+        },
+        {
+          "keyword": "kbs",
+          "score": 92
+        },
+        {
+          "keyword": "mbc",
           "score": 91
         }
       ]
