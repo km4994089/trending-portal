@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-26T03:44:26.100Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "삼천당제약",
-          "score": 100
-        },
-        {
-          "keyword": "카카오",
-          "score": 99
-        },
-        {
-          "keyword": "상법",
-          "score": 98
-        },
-        {
-          "keyword": "한국은행",
-          "score": 97
-        },
-        {
-          "keyword": "삼전 주가",
-          "score": 96
-        },
-        {
-          "keyword": "목포해양대",
-          "score": 95
-        },
-        {
-          "keyword": "숭실대",
-          "score": 94
-        },
-        {
-          "keyword": "계명대학교",
-          "score": 93
-        },
-        {
-          "keyword": "경기도교육청",
-          "score": 92
-        },
-        {
-          "keyword": "가천대",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-26T05:15:44.536Z",
       "geo": "KR",
       "source": "google",
@@ -6014,6 +5967,53 @@
         },
         {
           "keyword": "박용호",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-02T05:10:35.527Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "셰이 위트컴",
+          "score": 100
+        },
+        {
+          "keyword": "사이키 히로토",
+          "score": 99
+        },
+        {
+          "keyword": "일본증시",
+          "score": 98
+        },
+        {
+          "keyword": "이소나",
+          "score": 97
+        },
+        {
+          "keyword": "한신 타이거즈",
+          "score": 96
+        },
+        {
+          "keyword": "젠데이아",
+          "score": 95
+        },
+        {
+          "keyword": "kbs",
+          "score": 94
+        },
+        {
+          "keyword": "mbc",
+          "score": 93
+        },
+        {
+          "keyword": "티빙",
+          "score": 92
+        },
+        {
+          "keyword": "tving",
           "score": 91
         }
       ]
