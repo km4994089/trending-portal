@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-26T19:37:00.828Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nottingham forest - fenerbahçe",
-          "score": 100
-        },
-        {
-          "keyword": "burger king whopper changes",
-          "score": 99
-        },
-        {
-          "keyword": "europa conference league",
-          "score": 98
-        },
-        {
-          "keyword": "celta vigo vs paok",
-          "score": 97
-        },
-        {
-          "keyword": "nottm forest vs fenerbahçe",
-          "score": 96
-        },
-        {
-          "keyword": "jonathan majors",
-          "score": 95
-        },
-        {
-          "keyword": "elmer moller",
-          "score": 94
-        },
-        {
-          "keyword": "fiorentina - jagiellonia białystok",
-          "score": 93
-        },
-        {
-          "keyword": "randy orton",
-          "score": 92
-        },
-        {
-          "keyword": "resident evil 9",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-26T20:26:14.863Z",
       "geo": "US",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "detroit sportsnet",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-02T19:58:39.155Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "gil vicente - benfica",
+          "score": 100
+        },
+        {
+          "keyword": "robby fabbri",
+          "score": 99
+        },
+        {
+          "keyword": "udinese vs fiorentina",
+          "score": 98
+        },
+        {
+          "keyword": "red wings",
+          "score": 97
+        },
+        {
+          "keyword": "metallica",
+          "score": 96
+        },
+        {
+          "keyword": "real madrid - getafe",
+          "score": 95
+        },
+        {
+          "keyword": "real madrid vs getafe",
+          "score": 94
+        },
+        {
+          "keyword": "marshon lattimore",
+          "score": 93
+        },
+        {
+          "keyword": "trump neck rash",
+          "score": 92
+        },
+        {
+          "keyword": "red wings vs predators",
           "score": 91
         }
       ]
