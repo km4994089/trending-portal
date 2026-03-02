@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-25T23:51:20.478Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "インフラ",
-          "score": 100
-        },
-        {
-          "keyword": "埼玉りそな銀行",
-          "score": 99
-        },
-        {
-          "keyword": "パンチくん",
-          "score": 98
-        },
-        {
-          "keyword": "cruzeiro x corinthians",
-          "score": 97
-        },
-        {
-          "keyword": "東北電力",
-          "score": 96
-        },
-        {
-          "keyword": "黄砂",
-          "score": 95
-        },
-        {
-          "keyword": "銀行",
-          "score": 94
-        },
-        {
-          "keyword": "ピーチ航空",
-          "score": 93
-        },
-        {
-          "keyword": "エヌビディア決算発表",
-          "score": 92
-        },
-        {
-          "keyword": "加藤清史郎",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-02-26T01:10:08.115Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "パンチ",
-          "score": 100
-        },
-        {
-          "keyword": "ユネスコ",
-          "score": 99
-        },
-        {
-          "keyword": "和田明日香",
-          "score": 98
-        },
-        {
-          "keyword": "中山美穂",
-          "score": 97
-        },
-        {
-          "keyword": "小笠原諸島",
-          "score": 96
-        },
-        {
-          "keyword": "新nisa",
-          "score": 95
-        },
-        {
-          "keyword": "中村哲",
-          "score": 94
-        },
-        {
-          "keyword": "ヨーロッパ",
-          "score": 93
-        },
-        {
-          "keyword": "ミイヒ niziu",
-          "score": 92
-        },
-        {
-          "keyword": "abematv",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-26T03:44:27.602Z",
       "geo": "JP",
       "source": "google",
@@ -6014,6 +5920,53 @@
         },
         {
           "keyword": "ジモティー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-02T01:11:15.974Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "堂本 光一",
+          "score": 100
+        },
+        {
+          "keyword": "三菱商事",
+          "score": 99
+        },
+        {
+          "keyword": "コクミン",
+          "score": 98
+        },
+        {
+          "keyword": "富士通 株価",
+          "score": 97
+        },
+        {
+          "keyword": "三菱重工業",
+          "score": 96
+        },
+        {
+          "keyword": "ニデック 株価",
+          "score": 95
+        },
+        {
+          "keyword": "ユネスコ",
+          "score": 94
+        },
+        {
+          "keyword": "槙野智章",
+          "score": 93
+        },
+        {
+          "keyword": "ソニー株価",
+          "score": 92
+        },
+        {
+          "keyword": "jx金属 株価",
           "score": 91
         }
       ]
