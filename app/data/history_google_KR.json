@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-26T23:28:25.056Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "쿠팡 주가",
-          "score": 100
-        },
-        {
-          "keyword": "동호",
-          "score": 99
-        },
-        {
-          "keyword": "พยากรณ์อากาศ",
-          "score": 98
-        },
-        {
-          "keyword": "유로파 컨퍼런스리그",
-          "score": 97
-        },
-        {
-          "keyword": "유로파리그",
-          "score": 96
-        },
-        {
-          "keyword": "바이오하자드",
-          "score": 95
-        },
-        {
-          "keyword": "ewy",
-          "score": 94
-        },
-        {
-          "keyword": "iran",
-          "score": 93
-        },
-        {
-          "keyword": "미국 이란",
-          "score": 92
-        },
-        {
-          "keyword": "브리저튼",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-26T23:52:46.635Z",
       "geo": "KR",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "비트코인 시세",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-02T23:46:24.730Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "숙명여대",
+          "score": 100
+        },
+        {
+          "keyword": "성균관대학교",
+          "score": 99
+        },
+        {
+          "keyword": "gil vicente vs benfica",
+          "score": 98
+        },
+        {
+          "keyword": "교복",
+          "score": 97
+        },
+        {
+          "keyword": "버스",
+          "score": 96
+        },
+        {
+          "keyword": "운세",
+          "score": 95
+        },
+        {
+          "keyword": "เรอัลมาดริด พบ เคตาเฟ",
+          "score": 94
+        },
+        {
+          "keyword": "대전 날씨",
+          "score": 93
+        },
+        {
+          "keyword": "라리가",
+          "score": 92
+        },
+        {
+          "keyword": "연합뉴스",
           "score": 91
         }
       ]
