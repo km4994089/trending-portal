@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-26T09:39:03.071Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이재용",
-          "score": 100
-        },
-        {
-          "keyword": "김형태",
-          "score": 99
-        },
-        {
-          "keyword": "홍라희",
-          "score": 98
-        },
-        {
-          "keyword": "유키스 동호",
-          "score": 97
-        },
-        {
-          "keyword": "천대엽",
-          "score": 96
-        },
-        {
-          "keyword": "곱버스",
-          "score": 95
-        },
-        {
-          "keyword": "현대모비스",
-          "score": 94
-        },
-        {
-          "keyword": "가비",
-          "score": 93
-        },
-        {
-          "keyword": "현대차",
-          "score": 92
-        },
-        {
-          "keyword": "유해진",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-26T10:35:44.295Z",
       "geo": "KR",
       "source": "google",
@@ -6014,6 +5967,53 @@
         },
         {
           "keyword": "일본증시",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-02T10:09:50.780Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "요기요",
+          "score": 100
+        },
+        {
+          "keyword": "내일날씨",
+          "score": 99
+        },
+        {
+          "keyword": "남보라",
+          "score": 98
+        },
+        {
+          "keyword": "선예",
+          "score": 97
+        },
+        {
+          "keyword": "이병태",
+          "score": 96
+        },
+        {
+          "keyword": "박홍근",
+          "score": 95
+        },
+        {
+          "keyword": "장항준",
+          "score": 94
+        },
+        {
+          "keyword": "충남 아산 fc 대 파주",
+          "score": 93
+        },
+        {
+          "keyword": "류현진",
+          "score": 92
+        },
+        {
+          "keyword": "대전 대 안양",
           "score": 91
         }
       ]
