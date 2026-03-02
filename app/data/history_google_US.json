@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-26T21:01:16.518Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "pink",
-          "score": 100
-        },
-        {
-          "keyword": "rueben bain jr",
-          "score": 99
-        },
-        {
-          "keyword": "bridgerton season 5",
-          "score": 98
-        },
-        {
-          "keyword": "fiorentina",
-          "score": 97
-        },
-        {
-          "keyword": "devonta lee",
-          "score": 96
-        },
-        {
-          "keyword": "bologna vs brann",
-          "score": 95
-        },
-        {
-          "keyword": "crossfit open 26.1",
-          "score": 94
-        },
-        {
-          "keyword": "crystal palace - zrinjski",
-          "score": 93
-        },
-        {
-          "keyword": "nicholas braimbridge",
-          "score": 92
-        },
-        {
-          "keyword": "burger king whopper changes",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-26T21:51:20.116Z",
       "geo": "US",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "red wings",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-02T21:23:59.486Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "big arch",
+          "score": 100
+        },
+        {
+          "keyword": "connor murphy",
+          "score": 99
+        },
+        {
+          "keyword": "dallas weather",
+          "score": 98
+        },
+        {
+          "keyword": "carole radziwill",
+          "score": 97
+        },
+        {
+          "keyword": "gang of 8",
+          "score": 96
+        },
+        {
+          "keyword": "madrid",
+          "score": 95
+        },
+        {
+          "keyword": "strait of hormuz closed",
+          "score": 94
+        },
+        {
+          "keyword": "ryan zinke",
+          "score": 93
+        },
+        {
+          "keyword": "gulf of oman",
+          "score": 92
+        },
+        {
+          "keyword": "todd meadows",
           "score": 91
         }
       ]

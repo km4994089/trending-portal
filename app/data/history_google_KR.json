@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-26T21:01:17.498Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "유로파리그",
-          "score": 100
-        },
-        {
-          "keyword": "바이오하자드",
-          "score": 99
-        },
-        {
-          "keyword": "ewy",
-          "score": 98
-        },
-        {
-          "keyword": "이란",
-          "score": 97
-        },
-        {
-          "keyword": "브리저튼",
-          "score": 96
-        },
-        {
-          "keyword": "쇼미 12",
-          "score": 95
-        },
-        {
-          "keyword": "박진영",
-          "score": 94
-        },
-        {
-          "keyword": "임주환",
-          "score": 93
-        },
-        {
-          "keyword": "persib bandung vs madura united",
-          "score": 92
-        },
-        {
-          "keyword": "india vs zimbabwe",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-26T21:51:21.369Z",
       "geo": "KR",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "apple",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-02T21:24:00.928Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "madrid vs getafe",
+          "score": 100
+        },
+        {
+          "keyword": "real madrid vs getafe",
+          "score": 99
+        },
+        {
+          "keyword": "레알마드리드",
+          "score": 98
+        },
+        {
+          "keyword": "레알 마드리드 대 헤타페",
+          "score": 97
+        },
+        {
+          "keyword": "다시보기",
+          "score": 96
+        },
+        {
+          "keyword": "오달수",
+          "score": 95
+        },
+        {
+          "keyword": "17e",
+          "score": 94
+        },
+        {
+          "keyword": "나스닥",
+          "score": 93
+        },
+        {
+          "keyword": "아이폰 17e",
+          "score": 92
+        },
+        {
+          "keyword": "s&p 500",
           "score": 91
         }
       ]

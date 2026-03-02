@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-26T21:01:19.081Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "楽天銀行",
-          "score": 100
-        },
-        {
-          "keyword": "広瀬すず",
-          "score": 99
-        },
-        {
-          "keyword": "ノッティンガム・フォレスト 対 フェネルバフチェ",
-          "score": 98
-        },
-        {
-          "keyword": "ナンバーズ当選番号",
-          "score": 97
-        },
-        {
-          "keyword": "jadwal sholat",
-          "score": 96
-        },
-        {
-          "keyword": "ヨーロッパリーグ",
-          "score": 95
-        },
-        {
-          "keyword": "目黒蓮",
-          "score": 94
-        },
-        {
-          "keyword": "シュトゥットガルト 対 セルティック",
-          "score": 93
-        },
-        {
-          "keyword": "バイオハザード レクイエム 攻略",
-          "score": 92
-        },
-        {
-          "keyword": "nano banana 2",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-26T21:51:22.758Z",
       "geo": "JP",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "マリーアントワネット",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-02T21:24:02.485Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ネットフリックス株価",
+          "score": 100
+        },
+        {
+          "keyword": "今日の天気",
+          "score": 99
+        },
+        {
+          "keyword": "nyダウ",
+          "score": 98
+        },
+        {
+          "keyword": "安住 紳一郎 体調不良",
+          "score": 97
+        },
+        {
+          "keyword": "山梨 天気",
+          "score": 96
+        },
+        {
+          "keyword": "水卜麻美",
+          "score": 95
+        },
+        {
+          "keyword": "広島 天気",
+          "score": 94
+        },
+        {
+          "keyword": "藤岡弘",
+          "score": 93
+        },
+        {
+          "keyword": "畑芽育",
+          "score": 92
+        },
+        {
+          "keyword": "大地真央",
           "score": 91
         }
       ]
