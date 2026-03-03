@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-27T23:43:50.005Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ied",
-          "score": 100
-        },
-        {
-          "keyword": "colt gray",
-          "score": 99
-        },
-        {
-          "keyword": "ted cruz",
-          "score": 98
-        },
-        {
-          "keyword": "paris jackson",
-          "score": 97
-        },
-        {
-          "keyword": "charles barkley",
-          "score": 96
-        },
-        {
-          "keyword": "dillon thieneman",
-          "score": 95
-        },
-        {
-          "keyword": "cavaliers vs pistons",
-          "score": 94
-        },
-        {
-          "keyword": "daylight savings",
-          "score": 93
-        },
-        {
-          "keyword": "ucr",
-          "score": 92
-        },
-        {
-          "keyword": "yale basketball",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-28T01:03:54.943Z",
       "geo": "US",
       "source": "google",
@@ -6061,6 +6014,53 @@
         },
         {
           "keyword": "epl table",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-03T23:47:14.469Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "knicks vs raptors",
+          "score": 100
+        },
+        {
+          "keyword": "pistons vs cavaliers",
+          "score": 99
+        },
+        {
+          "keyword": "mavericks vs hornets",
+          "score": 98
+        },
+        {
+          "keyword": "wizards vs magic",
+          "score": 97
+        },
+        {
+          "keyword": "world baseball classic 2026",
+          "score": 96
+        },
+        {
+          "keyword": "tennessee vs south carolina",
+          "score": 95
+        },
+        {
+          "keyword": "alabama vs georgia prediction",
+          "score": 94
+        },
+        {
+          "keyword": "johan rojas",
+          "score": 93
+        },
+        {
+          "keyword": "kurds",
+          "score": 92
+        },
+        {
+          "keyword": "sporting vs porto",
           "score": 91
         }
       ]
