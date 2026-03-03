@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-27T07:26:26.377Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "天覧試合",
-          "score": 100
-        },
-        {
-          "keyword": "大塚千弘",
-          "score": 99
-        },
-        {
-          "keyword": "三井不動産",
-          "score": 98
-        },
-        {
-          "keyword": "武道館",
-          "score": 97
-        },
-        {
-          "keyword": "lg",
-          "score": 96
-        },
-        {
-          "keyword": "祖父江大輔",
-          "score": 95
-        },
-        {
-          "keyword": "福岡 ダム 貯水率",
-          "score": 94
-        },
-        {
-          "keyword": "npbプラス",
-          "score": 93
-        },
-        {
-          "keyword": "宮古島 地震",
-          "score": 92
-        },
-        {
-          "keyword": "京王線",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-27T08:00:53.785Z",
       "geo": "JP",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "辻希美",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-03T07:58:33.970Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "weathernews",
+          "score": 100
+        },
+        {
+          "keyword": "ニデック",
+          "score": 99
+        },
+        {
+          "keyword": "東急不動産",
+          "score": 98
+        },
+        {
+          "keyword": "ベイシア",
+          "score": 97
+        },
+        {
+          "keyword": "田口真彩",
+          "score": 96
+        },
+        {
+          "keyword": "甜茶",
+          "score": 95
+        },
+        {
+          "keyword": "大垣競輪",
+          "score": 94
+        },
+        {
+          "keyword": "鈴木紗理奈",
+          "score": 93
+        },
+        {
+          "keyword": "パンチくん",
+          "score": 92
+        },
+        {
+          "keyword": "小寺真理",
           "score": 91
         }
       ]
