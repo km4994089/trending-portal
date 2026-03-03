@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-27T21:19:58.649Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ヤンマガ",
-          "score": 100
-        },
-        {
-          "keyword": "wolves vs aston villa",
-          "score": 99
-        },
-        {
-          "keyword": "ファミリーマート",
-          "score": 98
-        },
-        {
-          "keyword": "国立国会図書館",
-          "score": 97
-        },
-        {
-          "keyword": "ファイアレッド がくしゅうそうち",
-          "score": 96
-        },
-        {
-          "keyword": "今田美桜",
-          "score": 95
-        },
-        {
-          "keyword": "炎炎ノ消防隊",
-          "score": 94
-        },
-        {
-          "keyword": "岡本真夜",
-          "score": 93
-        },
-        {
-          "keyword": "宮澤エマ",
-          "score": 92
-        },
-        {
-          "keyword": "婚活バトルフィールド",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-27T21:49:05.701Z",
       "geo": "JP",
       "source": "google",
@@ -6061,6 +6014,53 @@
         },
         {
           "keyword": "任天堂 株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-03T21:25:12.657Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "東京 天気",
+          "score": 100
+        },
+        {
+          "keyword": "個人向け国債",
+          "score": 99
+        },
+        {
+          "keyword": "交通情報",
+          "score": 98
+        },
+        {
+          "keyword": "高速道路",
+          "score": 97
+        },
+        {
+          "keyword": "京急",
+          "score": 96
+        },
+        {
+          "keyword": "barcelona",
+          "score": 95
+        },
+        {
+          "keyword": "バルサ",
+          "score": 94
+        },
+        {
+          "keyword": "望月慎太郎",
+          "score": 93
+        },
+        {
+          "keyword": "日経先物",
+          "score": 92
+        },
+        {
+          "keyword": "wolves vs liverpool",
           "score": 91
         }
       ]
