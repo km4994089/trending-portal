@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-27T11:50:37.290Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "red flag (fire weather) warning",
-          "score": 100
-        },
-        {
-          "keyword": "diddy",
-          "score": 99
-        },
-        {
-          "keyword": "injury attorney",
-          "score": 98
-        },
-        {
-          "keyword": "uefa",
-          "score": 97
-        },
-        {
-          "keyword": "eng vs nz",
-          "score": 96
-        },
-        {
-          "keyword": "freezing fog advisory",
-          "score": 95
-        },
-        {
-          "keyword": "sorteo de la champions",
-          "score": 94
-        },
-        {
-          "keyword": "nytimes.com",
-          "score": 93
-        },
-        {
-          "keyword": "injury lawyer",
-          "score": 92
-        },
-        {
-          "keyword": "champions league draw",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-27T12:35:16.267Z",
       "geo": "US",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "nuria brancaccio",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-03T11:51:33.399Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "happy holi",
+          "score": 100
+        },
+        {
+          "keyword": "waterbury public schools",
+          "score": 99
+        },
+        {
+          "keyword": "josh duhamel",
+          "score": 98
+        },
+        {
+          "keyword": "texas lottery",
+          "score": 97
+        },
+        {
+          "keyword": "chase pistone",
+          "score": 96
+        },
+        {
+          "keyword": "today's weather",
+          "score": 95
+        },
+        {
+          "keyword": "ny lottery",
+          "score": 94
+        },
+        {
+          "keyword": "powerball",
+          "score": 93
+        },
+        {
+          "keyword": "nasa",
+          "score": 92
+        },
+        {
+          "keyword": "winter weather advisory",
           "score": 91
         }
       ]
