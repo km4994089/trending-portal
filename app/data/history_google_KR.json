@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-27T22:47:45.087Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "วูล์ฟแฮมป์ตัน พบ แอสตันวิลลา",
-          "score": 100
-        },
-        {
-          "keyword": "s&p 500",
-          "score": 99
-        },
-        {
-          "keyword": "앤트로픽",
-          "score": 98
-        },
-        {
-          "keyword": "mlb",
-          "score": 97
-        },
-        {
-          "keyword": "울브스 대 애스턴 빌라",
-          "score": 96
-        },
-        {
-          "keyword": "서명옥",
-          "score": 95
-        },
-        {
-          "keyword": "왕사남",
-          "score": 94
-        },
-        {
-          "keyword": "꽃분이",
-          "score": 93
-        },
-        {
-          "keyword": "허경환",
-          "score": 92
-        },
-        {
-          "keyword": "닌텐도",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-27T23:15:31.537Z",
       "geo": "KR",
       "source": "google",
@@ -6061,6 +6014,53 @@
         },
         {
           "keyword": "dc",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-03T22:50:51.897Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "노태악",
+          "score": 100
+        },
+        {
+          "keyword": "오늘의 운세",
+          "score": 99
+        },
+        {
+          "keyword": "뉴스",
+          "score": 98
+        },
+        {
+          "keyword": "밀워키 대 보스턴",
+          "score": 97
+        },
+        {
+          "keyword": "금시세",
+          "score": 96
+        },
+        {
+          "keyword": "premier league",
+          "score": 95
+        },
+        {
+          "keyword": "바르셀로나 대 아틀레티코",
+          "score": 94
+        },
+        {
+          "keyword": "วูล์ฟแฮมป์ตัน พบ ลิเวอร์พูล",
+          "score": 93
+        },
+        {
+          "keyword": "wolves vs liverpool",
+          "score": 92
+        },
+        {
+          "keyword": "롤 점검",
           "score": 91
         }
       ]
