@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-27T06:09:20.447Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "현대제철",
-          "score": 100
-        },
-        {
-          "keyword": "군산대",
-          "score": 99
-        },
-        {
-          "keyword": "정의선",
-          "score": 98
-        },
-        {
-          "keyword": "에어로카노",
-          "score": 97
-        },
-        {
-          "keyword": "국세청 경매",
-          "score": 96
-        },
-        {
-          "keyword": "현대차",
-          "score": 95
-        },
-        {
-          "keyword": "파키스탄",
-          "score": 94
-        },
-        {
-          "keyword": "반포대교 포르쉐",
-          "score": 93
-        },
-        {
-          "keyword": "새만금",
-          "score": 92
-        },
-        {
-          "keyword": "서울옥션",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-27T07:26:25.279Z",
       "geo": "KR",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "농협카드",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-03T07:13:46.317Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "미래엔",
+          "score": 100
+        },
+        {
+          "keyword": "박봄",
+          "score": 99
+        },
+        {
+          "keyword": "정부24",
+          "score": 98
+        },
+        {
+          "keyword": "송승기",
+          "score": 97
+        },
+        {
+          "keyword": "포르쉐 인플루언서",
+          "score": 96
+        },
+        {
+          "keyword": "위트컴",
+          "score": 95
+        },
+        {
+          "keyword": "안현민",
+          "score": 94
+        },
+        {
+          "keyword": "경일대",
+          "score": 93
+        },
+        {
+          "keyword": "국장",
+          "score": 92
+        },
+        {
+          "keyword": "금시세",
           "score": 91
         }
       ]

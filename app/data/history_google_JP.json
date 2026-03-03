@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-27T06:09:21.726Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "上野賢一郎",
-          "score": 100
-        },
-        {
-          "keyword": "blackpink",
-          "score": 99
-        },
-        {
-          "keyword": "トトロ",
-          "score": 98
-        },
-        {
-          "keyword": "城内実",
-          "score": 97
-        },
-        {
-          "keyword": "アントニオ猪木",
-          "score": 96
-        },
-        {
-          "keyword": "福井県立大学",
-          "score": 95
-        },
-        {
-          "keyword": "国民年金",
-          "score": 94
-        },
-        {
-          "keyword": "ユニチカ",
-          "score": 93
-        },
-        {
-          "keyword": "イオン銀行",
-          "score": 92
-        },
-        {
-          "keyword": "eneos",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-27T07:26:26.377Z",
       "geo": "JP",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "ハワイ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-03T07:13:47.451Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "大垣競輪",
+          "score": 100
+        },
+        {
+          "keyword": "鈴木紗理奈",
+          "score": 99
+        },
+        {
+          "keyword": "パンチくん",
+          "score": 98
+        },
+        {
+          "keyword": "小寺真理",
+          "score": 97
+        },
+        {
+          "keyword": "増田紗織",
+          "score": 96
+        },
+        {
+          "keyword": "田中美久",
+          "score": 95
+        },
+        {
+          "keyword": "朝比奈彩",
+          "score": 94
+        },
+        {
+          "keyword": "ミネアポリス",
+          "score": 93
+        },
+        {
+          "keyword": "阪急",
+          "score": 92
+        },
+        {
+          "keyword": "辻希美",
           "score": 91
         }
       ]
