@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-27T03:41:11.053Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이준석 전한길 토론",
-          "score": 100
-        },
-        {
-          "keyword": "한국전력",
-          "score": 99
-        },
-        {
-          "keyword": "강릉원주대",
-          "score": 98
-        },
-        {
-          "keyword": "대상포진",
-          "score": 97
-        },
-        {
-          "keyword": "이태성",
-          "score": 96
-        },
-        {
-          "keyword": "삼천당제약 주가",
-          "score": 95
-        },
-        {
-          "keyword": "나노바나나2",
-          "score": 94
-        },
-        {
-          "keyword": "넷플릭스 주가",
-          "score": 93
-        },
-        {
-          "keyword": "nottm forest vs fenerbahçe",
-          "score": 92
-        },
-        {
-          "keyword": "포르쉐 추락",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-27T05:10:12.670Z",
       "geo": "KR",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "aws",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-03T03:44:09.476Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "티웨이",
+          "score": 100
+        },
+        {
+          "keyword": "삼성화재",
+          "score": 99
+        },
+        {
+          "keyword": "원광대",
+          "score": 98
+        },
+        {
+          "keyword": "삼전",
+          "score": 97
+        },
+        {
+          "keyword": "롯데카드",
+          "score": 96
+        },
+        {
+          "keyword": "금 시세",
+          "score": 95
+        },
+        {
+          "keyword": "아시아나",
+          "score": 94
+        },
+        {
+          "keyword": "대한항공",
+          "score": 93
+        },
+        {
+          "keyword": "map",
+          "score": 92
+        },
+        {
+          "keyword": "롯데온",
           "score": 91
         }
       ]
