@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-27T05:10:11.372Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "priyanka chopra",
-          "score": 100
-        },
-        {
-          "keyword": "kurt russell",
-          "score": 99
-        },
-        {
-          "keyword": "naz reid",
-          "score": 98
-        },
-        {
-          "keyword": "marie antoinette",
-          "score": 97
-        },
-        {
-          "keyword": "kris dunn",
-          "score": 96
-        },
-        {
-          "keyword": "uc irvine basketball",
-          "score": 95
-        },
-        {
-          "keyword": "royce o'neale",
-          "score": 94
-        },
-        {
-          "keyword": "brandon nakashima",
-          "score": 93
-        },
-        {
-          "keyword": "howard lutnick",
-          "score": 92
-        },
-        {
-          "keyword": "scream 7 post credit scene",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-27T06:09:19.023Z",
       "geo": "US",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "kawhi leonard",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-03T06:06:40.997Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "moses moody",
+          "score": 100
+        },
+        {
+          "keyword": "mac",
+          "score": 99
+        },
+        {
+          "keyword": "draymond green",
+          "score": 98
+        },
+        {
+          "keyword": "kris dunn",
+          "score": 97
+        },
+        {
+          "keyword": "angus booth",
+          "score": 96
+        },
+        {
+          "keyword": "al horford",
+          "score": 95
+        },
+        {
+          "keyword": "jafar panahi",
+          "score": 94
+        },
+        {
+          "keyword": "nicholas braimbridge tony cooper",
+          "score": 93
+        },
+        {
+          "keyword": "joe rogan",
+          "score": 92
+        },
+        {
+          "keyword": "200 block e howard ave",
           "score": 91
         }
       ]
