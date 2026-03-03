@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-27T10:02:48.312Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "makeup",
-          "score": 100
-        },
-        {
-          "keyword": "divorce lawyer",
-          "score": 99
-        },
-        {
-          "keyword": "google",
-          "score": 98
-        },
-        {
-          "keyword": "flu shots",
-          "score": 97
-        },
-        {
-          "keyword": "immunizations",
-          "score": 96
-        },
-        {
-          "keyword": "vaccines",
-          "score": 95
-        },
-        {
-          "keyword": "vaccinations",
-          "score": 94
-        },
-        {
-          "keyword": "organ transport box re9",
-          "score": 93
-        },
-        {
-          "keyword": "ভূমিকম্প",
-          "score": 92
-        },
-        {
-          "keyword": "pizza",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-27T11:02:50.410Z",
       "geo": "US",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "nicholas braimbridge tony cooper",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-03T10:29:23.933Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "opm",
+          "score": 100
+        },
+        {
+          "keyword": "mcps",
+          "score": 99
+        },
+        {
+          "keyword": "montgomery county public schools",
+          "score": 98
+        },
+        {
+          "keyword": "nuria brancaccio",
+          "score": 97
+        },
+        {
+          "keyword": "insurance",
+          "score": 96
+        },
+        {
+          "keyword": "maja chwalińska",
+          "score": 95
+        },
+        {
+          "keyword": "cazzie david",
+          "score": 94
+        },
+        {
+          "keyword": "moses moody",
+          "score": 93
+        },
+        {
+          "keyword": "magic johnson",
+          "score": 92
+        },
+        {
+          "keyword": "draymond green",
           "score": 91
         }
       ]
