@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-26T23:52:46.635Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ฟอเรสต์ พบ เฟแนร์บาห์เช",
-          "score": 100
-        },
-        {
-          "keyword": "포르쉐 추락",
-          "score": 99
-        },
-        {
-          "keyword": "쿠팡 주가",
-          "score": 98
-        },
-        {
-          "keyword": "พยากรณ์อากาศ",
-          "score": 97
-        },
-        {
-          "keyword": "유로파 컨퍼런스리그",
-          "score": 96
-        },
-        {
-          "keyword": "유로파리그",
-          "score": 95
-        },
-        {
-          "keyword": "바이오하자드",
-          "score": 94
-        },
-        {
-          "keyword": "ewy",
-          "score": 93
-        },
-        {
-          "keyword": "iran",
-          "score": 92
-        },
-        {
-          "keyword": "미국 이란",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-02-27T01:09:11.180Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "넷플릭스 주가",
-          "score": 100
-        },
-        {
-          "keyword": "나노바나나2",
-          "score": 99
-        },
-        {
-          "keyword": "nottm forest vs fenerbahçe",
-          "score": 98
-        },
-        {
-          "keyword": "ฟอเรสต์ พบ เฟแนร์บาห์เช",
-          "score": 97
-        },
-        {
-          "keyword": "포르쉐 추락",
-          "score": 96
-        },
-        {
-          "keyword": "쿠팡 주가",
-          "score": 95
-        },
-        {
-          "keyword": "พยากรณ์อากาศ",
-          "score": 94
-        },
-        {
-          "keyword": "유로파 컨퍼런스리그",
-          "score": 93
-        },
-        {
-          "keyword": "유로파리그",
-          "score": 92
-        },
-        {
-          "keyword": "포켓몬 30주년",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-27T03:41:11.053Z",
       "geo": "KR",
       "source": "google",
@@ -6155,6 +6061,53 @@
         },
         {
           "keyword": "연합뉴스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-03T01:13:59.162Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "챗gpt",
+          "score": 100
+        },
+        {
+          "keyword": "삼성전자 주가",
+          "score": 99
+        },
+        {
+          "keyword": "박기영",
+          "score": 98
+        },
+        {
+          "keyword": "두산에너빌리티 주가",
+          "score": 97
+        },
+        {
+          "keyword": "한화시스템",
+          "score": 96
+        },
+        {
+          "keyword": "농협",
+          "score": 95
+        },
+        {
+          "keyword": "신한카드",
+          "score": 94
+        },
+        {
+          "keyword": "건강보험공단",
+          "score": 93
+        },
+        {
+          "keyword": "삼성전자 주식",
+          "score": 92
+        },
+        {
+          "keyword": "aws",
           "score": 91
         }
       ]

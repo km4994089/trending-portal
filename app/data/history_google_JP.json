@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-26T23:52:48.055Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "パラマウント",
-          "score": 100
-        },
-        {
-          "keyword": "今井達也",
-          "score": 99
-        },
-        {
-          "keyword": "三重県 後期選抜 倍率",
-          "score": 98
-        },
-        {
-          "keyword": "仲野太賀",
-          "score": 97
-        },
-        {
-          "keyword": "みずほ銀行",
-          "score": 96
-        },
-        {
-          "keyword": "近藤千尋",
-          "score": 95
-        },
-        {
-          "keyword": "千葉銀行",
-          "score": 94
-        },
-        {
-          "keyword": "永野芽郁",
-          "score": 93
-        },
-        {
-          "keyword": "西鉄バス",
-          "score": 92
-        },
-        {
-          "keyword": "白石聖",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-02-27T01:09:12.566Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大垣共立銀行",
-          "score": 100
-        },
-        {
-          "keyword": "ユネスコ",
-          "score": 99
-        },
-        {
-          "keyword": "ソニー 株価",
-          "score": 98
-        },
-        {
-          "keyword": "ソニーグループ 株価",
-          "score": 97
-        },
-        {
-          "keyword": "ゼルダの伝説",
-          "score": 96
-        },
-        {
-          "keyword": "當間ローズ",
-          "score": 95
-        },
-        {
-          "keyword": "加護亜依",
-          "score": 94
-        },
-        {
-          "keyword": "木下直哉",
-          "score": 93
-        },
-        {
-          "keyword": "ユニセフ",
-          "score": 92
-        },
-        {
-          "keyword": "榊原信行",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-27T03:41:12.336Z",
       "geo": "JP",
       "source": "google",
@@ -6155,6 +6061,53 @@
         },
         {
           "keyword": "ホタルイカ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-03T01:14:00.466Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "浜松ホトニクス",
+          "score": 100
+        },
+        {
+          "keyword": "メラニア夫人",
+          "score": 99
+        },
+        {
+          "keyword": "水俣病",
+          "score": 98
+        },
+        {
+          "keyword": "三菱商事",
+          "score": 97
+        },
+        {
+          "keyword": "インペックス株価",
+          "score": 96
+        },
+        {
+          "keyword": "太陽",
+          "score": 95
+        },
+        {
+          "keyword": "南鳥島",
+          "score": 94
+        },
+        {
+          "keyword": "小笠原諸島",
+          "score": 93
+        },
+        {
+          "keyword": "oda",
+          "score": 92
+        },
+        {
+          "keyword": "ユネスコ",
           "score": 91
         }
       ]
