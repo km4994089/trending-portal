@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-27T21:49:05.701Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "イビョンホン",
-          "score": 100
-        },
-        {
-          "keyword": "瀧内公美",
-          "score": 99
-        },
-        {
-          "keyword": "アンソロピック",
-          "score": 98
-        },
-        {
-          "keyword": "anthropic",
-          "score": 97
-        },
-        {
-          "keyword": "長尾謙杜",
-          "score": 96
-        },
-        {
-          "keyword": "blackpink",
-          "score": 95
-        },
-        {
-          "keyword": "京浜東北線",
-          "score": 94
-        },
-        {
-          "keyword": "ヤンマガ",
-          "score": 93
-        },
-        {
-          "keyword": "wolves vs aston villa",
-          "score": 92
-        },
-        {
-          "keyword": "ファミリーマート",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-27T22:14:04.485Z",
       "geo": "JP",
       "source": "google",
@@ -6061,6 +6014,53 @@
         },
         {
           "keyword": "wolves vs liverpool",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-03T21:53:40.296Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "barca",
+          "score": 100
+        },
+        {
+          "keyword": "nec 対 psv",
+          "score": 99
+        },
+        {
+          "keyword": "反町隆史",
+          "score": 98
+        },
+        {
+          "keyword": "アド顔出し",
+          "score": 97
+        },
+        {
+          "keyword": "園子温",
+          "score": 96
+        },
+        {
+          "keyword": "barcelona vs atlético madrid",
+          "score": 95
+        },
+        {
+          "keyword": "今日の天気",
+          "score": 94
+        },
+        {
+          "keyword": "新幹線",
+          "score": 93
+        },
+        {
+          "keyword": "ニール・セダカ",
+          "score": 92
+        },
+        {
+          "keyword": "大阪市天気",
           "score": 91
         }
       ]
