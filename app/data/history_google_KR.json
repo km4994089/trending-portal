@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-27T17:00:39.220Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "서명옥",
-          "score": 100
-        },
-        {
-          "keyword": "왕사남",
-          "score": 99
-        },
-        {
-          "keyword": "pokemon",
-          "score": 98
-        },
-        {
-          "keyword": "꽃분이",
-          "score": 97
-        },
-        {
-          "keyword": "허경환",
-          "score": 96
-        },
-        {
-          "keyword": "닌텐도",
-          "score": 95
-        },
-        {
-          "keyword": "포켓몬 10세대",
-          "score": 94
-        },
-        {
-          "keyword": "포켓몬 챔피언스",
-          "score": 93
-        },
-        {
-          "keyword": "허가윤",
-          "score": 92
-        },
-        {
-          "keyword": "ppi",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-27T17:58:13.029Z",
       "geo": "KR",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "달러인덱스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-03T17:35:26.711Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "giá vàng hôm nay",
+          "score": 100
+        },
+        {
+          "keyword": "금",
+          "score": 99
+        },
+        {
+          "keyword": "테더",
+          "score": 98
+        },
+        {
+          "keyword": "voo",
+          "score": 97
+        },
+        {
+          "keyword": "이수연",
+          "score": 96
+        },
+        {
+          "keyword": "야구여왕",
+          "score": 95
+        },
+        {
+          "keyword": "나스닥 지수",
+          "score": 94
+        },
+        {
+          "keyword": "엔화 환율",
+          "score": 93
+        },
+        {
+          "keyword": "usd krw",
+          "score": 92
+        },
+        {
+          "keyword": "investing",
           "score": 91
         }
       ]
