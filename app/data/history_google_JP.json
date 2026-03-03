@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-27T15:30:12.843Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "北山宏光",
-          "score": 100
-        },
-        {
-          "keyword": "さだまさし",
-          "score": 99
-        },
-        {
-          "keyword": "パナソニックコネクト",
-          "score": 98
-        },
-        {
-          "keyword": "マレーシア",
-          "score": 97
-        },
-        {
-          "keyword": "タヒチ",
-          "score": 96
-        },
-        {
-          "keyword": "ana セール",
-          "score": 95
-        },
-        {
-          "keyword": "東南アジア",
-          "score": 94
-        },
-        {
-          "keyword": "ニュージーランド",
-          "score": 93
-        },
-        {
-          "keyword": "松下洸平",
-          "score": 92
-        },
-        {
-          "keyword": "ファイアレッド 攻略",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-27T16:01:13.773Z",
       "geo": "JP",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "千鳥",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-03T15:38:28.986Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "若槻千夏",
+          "score": 100
+        },
+        {
+          "keyword": "二宮和也",
+          "score": 99
+        },
+        {
+          "keyword": "macbook air m5",
+          "score": 98
+        },
+        {
+          "keyword": "水不足",
+          "score": 97
+        },
+        {
+          "keyword": "3月4日",
+          "score": 96
+        },
+        {
+          "keyword": "hikari",
+          "score": 95
+        },
+        {
+          "keyword": "ダウ平均",
+          "score": 94
+        },
+        {
+          "keyword": "s&p500",
+          "score": 93
+        },
+        {
+          "keyword": "ヨルシカ",
+          "score": 92
+        },
+        {
+          "keyword": "嵐 five",
           "score": 91
         }
       ]
