@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-28T20:14:59.136Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jadwal sholat",
-          "score": 100
-        },
-        {
-          "keyword": "khamenei",
-          "score": 99
-        },
-        {
-          "keyword": "dortmund vs bayern",
-          "score": 98
-        },
-        {
-          "keyword": "モナコ 対 アンジェ",
-          "score": 97
-        },
-        {
-          "keyword": "佐々木沙羅",
-          "score": 96
-        },
-        {
-          "keyword": "小泉今日子",
-          "score": 95
-        },
-        {
-          "keyword": "leeds united vs man city",
-          "score": 94
-        },
-        {
-          "keyword": "ツイッチ",
-          "score": 93
-        },
-        {
-          "keyword": "pakistan national cricket team vs sri lanka national cricket team standings",
-          "score": 92
-        },
-        {
-          "keyword": "santiago",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-28T20:44:28.199Z",
       "geo": "JP",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "風",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-04T20:22:33.820Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "プレミアリーグ",
+          "score": 100
+        },
+        {
+          "keyword": "スポーツ",
+          "score": 99
+        },
+        {
+          "keyword": "チェルシー",
+          "score": 98
+        },
+        {
+          "keyword": "アクアライン",
+          "score": 97
+        },
+        {
+          "keyword": "プレミアリーグ 試合",
+          "score": 96
+        },
+        {
+          "keyword": "liga inggris",
+          "score": 95
+        },
+        {
+          "keyword": "cme",
+          "score": 94
+        },
+        {
+          "keyword": "newcastle vs man utd",
+          "score": 93
+        },
+        {
+          "keyword": "aston villa vs chelsea",
+          "score": 92
+        },
+        {
+          "keyword": "強風",
           "score": 91
         }
       ]
