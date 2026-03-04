@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-28T13:51:03.223Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "john fetterman",
-          "score": 100
-        },
-        {
-          "keyword": "gang of eight",
-          "score": 99
-        },
-        {
-          "keyword": "medvedev",
-          "score": 98
-        },
-        {
-          "keyword": "citi",
-          "score": 97
-        },
-        {
-          "keyword": "como vs lecce",
-          "score": 96
-        },
-        {
-          "keyword": "berkshire hathaway",
-          "score": 95
-        },
-        {
-          "keyword": "orlando weather",
-          "score": 94
-        },
-        {
-          "keyword": "ali larter",
-          "score": 93
-        },
-        {
-          "keyword": "tampa weather",
-          "score": 92
-        },
-        {
-          "keyword": "sl vs pak",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-02-28T14:13:57.280Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sahibzada farhan",
-          "score": 100
-        },
-        {
-          "keyword": "leverkusen - mainz 05",
-          "score": 99
-        },
-        {
-          "keyword": "leverkusen vs mainz",
-          "score": 98
-        },
-        {
-          "keyword": "gang of eight",
-          "score": 97
-        },
-        {
-          "keyword": "medvedev",
-          "score": 96
-        },
-        {
-          "keyword": "como vs lecce",
-          "score": 95
-        },
-        {
-          "keyword": "como - lecce",
-          "score": 94
-        },
-        {
-          "keyword": "pakistan national cricket team vs sri lanka national cricket team match scorecard",
-          "score": 93
-        },
-        {
-          "keyword": "pakistan vs sri lanka",
-          "score": 92
-        },
-        {
-          "keyword": "berkshire hathaway",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-28T14:44:32.110Z",
       "geo": "US",
       "source": "google",
@@ -5826,6 +5732,53 @@
         },
         {
           "keyword": "turkey",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-04T14:32:00.154Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "gregory bovino",
+          "score": 100
+        },
+        {
+          "keyword": "arnold palmer invitational",
+          "score": 99
+        },
+        {
+          "keyword": "seth macfarlane",
+          "score": 98
+        },
+        {
+          "keyword": "spacex rocket launch",
+          "score": 97
+        },
+        {
+          "keyword": "apple store",
+          "score": 96
+        },
+        {
+          "keyword": "pete hegseth",
+          "score": 95
+        },
+        {
+          "keyword": "south africa vs new zealand",
+          "score": 94
+        },
+        {
+          "keyword": "wordle answer",
+          "score": 93
+        },
+        {
+          "keyword": "aryna sabalenka",
+          "score": 92
+        },
+        {
+          "keyword": "padma lakshmi",
           "score": 91
         }
       ]
