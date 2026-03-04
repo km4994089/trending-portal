@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-28T12:25:15.813Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ガスト",
-          "score": 100
-        },
-        {
-          "keyword": "藤平尚真",
-          "score": 99
-        },
-        {
-          "keyword": "hyde",
-          "score": 98
-        },
-        {
-          "keyword": "早乙女太一",
-          "score": 97
-        },
-        {
-          "keyword": "春日",
-          "score": 96
-        },
-        {
-          "keyword": "tbsアナウンサー",
-          "score": 95
-        },
-        {
-          "keyword": "バンドリ",
-          "score": 94
-        },
-        {
-          "keyword": "有田哲平",
-          "score": 93
-        },
-        {
-          "keyword": "山寺宏一",
-          "score": 92
-        },
-        {
-          "keyword": "佐々木朗希",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-28T13:10:15.859Z",
       "geo": "JP",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "オルカン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-04T12:33:29.673Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "伊野尾慧",
+          "score": 100
+        },
+        {
+          "keyword": "菊池桃子",
+          "score": 99
+        },
+        {
+          "keyword": "豊田裕大",
+          "score": 98
+        },
+        {
+          "keyword": "安田美沙子",
+          "score": 97
+        },
+        {
+          "keyword": "鈴木奈々",
+          "score": 96
+        },
+        {
+          "keyword": "戸田和幸",
+          "score": 95
+        },
+        {
+          "keyword": "高橋奎二",
+          "score": 94
+        },
+        {
+          "keyword": "渡辺梨加",
+          "score": 93
+        },
+        {
+          "keyword": "若槻千夏",
+          "score": 92
+        },
+        {
+          "keyword": "ひょうろく",
           "score": 91
         }
       ]
