@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-28T13:10:13.384Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tampa weather",
-          "score": 100
-        },
-        {
-          "keyword": "sl vs pak",
-          "score": 99
-        },
-        {
-          "keyword": "lindsey graham",
-          "score": 98
-        },
-        {
-          "keyword": "price of gold today",
-          "score": 97
-        },
-        {
-          "keyword": "connections hint today",
-          "score": 96
-        },
-        {
-          "keyword": "bijou phillips",
-          "score": 95
-        },
-        {
-          "keyword": "todays news",
-          "score": 94
-        },
-        {
-          "keyword": "lindsey slater",
-          "score": 93
-        },
-        {
-          "keyword": "rayo vallecano - athletic",
-          "score": 92
-        },
-        {
-          "keyword": "dove cameron",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-28T13:51:03.223Z",
       "geo": "US",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "wordle help",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-04T13:50:23.024Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "seth macfarlane",
+          "score": 100
+        },
+        {
+          "keyword": "spacex rocket launch",
+          "score": 99
+        },
+        {
+          "keyword": "pete hegseth",
+          "score": 98
+        },
+        {
+          "keyword": "south africa vs new zealand",
+          "score": 97
+        },
+        {
+          "keyword": "wordle answer",
+          "score": 96
+        },
+        {
+          "keyword": "padma lakshmi",
+          "score": 95
+        },
+        {
+          "keyword": "aryna sabalenka",
+          "score": 94
+        },
+        {
+          "keyword": "little house on the prairie",
+          "score": 93
+        },
+        {
+          "keyword": "dallas weather",
+          "score": 92
+        },
+        {
+          "keyword": "turkey",
           "score": 91
         }
       ]
