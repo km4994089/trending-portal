@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-28T03:22:39.490Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "boston blue",
-          "score": 100
-        },
-        {
-          "keyword": "jets vs ducks",
-          "score": 99
-        },
-        {
-          "keyword": "cavs score",
-          "score": 98
-        },
-        {
-          "keyword": "buffalo bandits",
-          "score": 97
-        },
-        {
-          "keyword": "bridgerton season 4",
-          "score": 96
-        },
-        {
-          "keyword": "punch monkey",
-          "score": 95
-        },
-        {
-          "keyword": "jalen duren",
-          "score": 94
-        },
-        {
-          "keyword": "logan cooley",
-          "score": 93
-        },
-        {
-          "keyword": "ready or not",
-          "score": 92
-        },
-        {
-          "keyword": "ausar thompson",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-28T04:38:01.047Z",
       "geo": "US",
       "source": "google",
@@ -6061,6 +6014,53 @@
         },
         {
           "keyword": "tcu vs texas tech",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-04T03:36:19.895Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "timberwolves",
+          "score": 100
+        },
+        {
+          "keyword": "united rentals",
+          "score": 99
+        },
+        {
+          "keyword": "bexar county election results",
+          "score": 98
+        },
+        {
+          "keyword": "southern miss baseball",
+          "score": 97
+        },
+        {
+          "keyword": "nhl standings",
+          "score": 96
+        },
+        {
+          "keyword": "suns vs kings",
+          "score": 95
+        },
+        {
+          "keyword": "paxton",
+          "score": 94
+        },
+        {
+          "keyword": "bill self",
+          "score": 93
+        },
+        {
+          "keyword": "korea",
+          "score": 92
+        },
+        {
+          "keyword": "bobby hurley",
           "score": 91
         }
       ]
