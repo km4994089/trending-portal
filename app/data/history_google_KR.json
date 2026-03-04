@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-28T21:12:03.260Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "btc",
-          "score": 100
-        },
-        {
-          "keyword": "psg",
-          "score": 99
-        },
-        {
-          "keyword": "ลีดส์ พบ แมนซิตี",
-          "score": 98
-        },
-        {
-          "keyword": "나폴리",
-          "score": 97
-        },
-        {
-          "keyword": "leeds united vs man city",
-          "score": 96
-        },
-        {
-          "keyword": "분데스리가",
-          "score": 95
-        },
-        {
-          "keyword": "맨시티",
-          "score": 94
-        },
-        {
-          "keyword": "산티아고",
-          "score": 93
-        },
-        {
-          "keyword": "la liga",
-          "score": 92
-        },
-        {
-          "keyword": "나이스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-28T21:40:41.630Z",
       "geo": "KR",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "ewy",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-04T21:24:48.925Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "นิวคาสเซิล พบ แมนยู",
+          "score": 100
+        },
+        {
+          "keyword": "aston villa vs chelsea",
+          "score": 99
+        },
+        {
+          "keyword": "epl",
+          "score": 98
+        },
+        {
+          "keyword": "premier league",
+          "score": 97
+        },
+        {
+          "keyword": "아스날",
+          "score": 96
+        },
+        {
+          "keyword": "brighton vs arsenal",
+          "score": 95
+        },
+        {
+          "keyword": "쿠팡플레이",
+          "score": 94
+        },
+        {
+          "keyword": "첼시",
+          "score": 93
+        },
+        {
+          "keyword": "뉴캐슬 대 맨유",
+          "score": 92
+        },
+        {
+          "keyword": "브렌트유",
           "score": 91
         }
       ]
