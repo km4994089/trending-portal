@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-28T06:25:10.354Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "emilia clarke",
-          "score": 100
-        },
-        {
-          "keyword": "lando norris",
-          "score": 99
-        },
-        {
-          "keyword": "how long is resident evil requiem",
-          "score": 98
-        },
-        {
-          "keyword": "denver",
-          "score": 97
-        },
-        {
-          "keyword": "aaron wiggins",
-          "score": 96
-        },
-        {
-          "keyword": "chet holmgren",
-          "score": 95
-        },
-        {
-          "keyword": "re9 safe code",
-          "score": 94
-        },
-        {
-          "keyword": "selena gomez",
-          "score": 93
-        },
-        {
-          "keyword": "alex caruso",
-          "score": 92
-        },
-        {
-          "keyword": "jared mccain",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-02-28T07:00:43.771Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "car insurance",
-          "score": 100
-        },
-        {
-          "keyword": "cnn news",
-          "score": 99
-        },
-        {
-          "keyword": "polymarket",
-          "score": 98
-        },
-        {
-          "keyword": "以色列",
-          "score": 97
-        },
-        {
-          "keyword": "breaking news",
-          "score": 96
-        },
-        {
-          "keyword": "war",
-          "score": 95
-        },
-        {
-          "keyword": "iran international",
-          "score": 94
-        },
-        {
-          "keyword": "connor storrie",
-          "score": 93
-        },
-        {
-          "keyword": "ig",
-          "score": 92
-        },
-        {
-          "keyword": "scream 8",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-28T07:44:31.696Z",
       "geo": "US",
       "source": "google",
@@ -6014,6 +5920,53 @@
         },
         {
           "keyword": "andrew gunn",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-04T07:09:25.056Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "shell",
+          "score": 100
+        },
+        {
+          "keyword": "amarillo weather",
+          "score": 99
+        },
+        {
+          "keyword": "fuel stations",
+          "score": 98
+        },
+        {
+          "keyword": "shell gasoline",
+          "score": 97
+        },
+        {
+          "keyword": "devin booker",
+          "score": 96
+        },
+        {
+          "keyword": "marcus smart",
+          "score": 95
+        },
+        {
+          "keyword": "demar derozan",
+          "score": 94
+        },
+        {
+          "keyword": "rui hachimura",
+          "score": 93
+        },
+        {
+          "keyword": "zion williamson",
+          "score": 92
+        },
+        {
+          "keyword": "luka dončić",
           "score": 91
         }
       ]
