@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-28T21:40:41.630Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "btc",
-          "score": 100
-        },
-        {
-          "keyword": "psg",
-          "score": 99
-        },
-        {
-          "keyword": "ลีดส์ พบ แมนซิตี",
-          "score": 98
-        },
-        {
-          "keyword": "liverpool đấu với west ham",
-          "score": 97
-        },
-        {
-          "keyword": "나폴리",
-          "score": 96
-        },
-        {
-          "keyword": "멸망전",
-          "score": 95
-        },
-        {
-          "keyword": "leeds united vs man city",
-          "score": 94
-        },
-        {
-          "keyword": "맨시티",
-          "score": 93
-        },
-        {
-          "keyword": "분데스리가",
-          "score": 92
-        },
-        {
-          "keyword": "산티아고",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-28T22:13:17.806Z",
       "geo": "KR",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "브렌트유",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-04T21:54:37.084Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "man city vs nottm forest",
+          "score": 100
+        },
+        {
+          "keyword": "newcastle vs man utd",
+          "score": 99
+        },
+        {
+          "keyword": "newcastle đấu với man utd",
+          "score": 98
+        },
+        {
+          "keyword": "프리미어리그 순위",
+          "score": 97
+        },
+        {
+          "keyword": "พยากรณ์อากาศ",
+          "score": 96
+        },
+        {
+          "keyword": "นิวคาสเซิล พบ แมนยู",
+          "score": 95
+        },
+        {
+          "keyword": "ngoại hạng anh",
+          "score": 94
+        },
+        {
+          "keyword": "aston villa vs chelsea",
+          "score": 93
+        },
+        {
+          "keyword": "mu",
+          "score": 92
+        },
+        {
+          "keyword": "epl",
           "score": 91
         }
       ]
