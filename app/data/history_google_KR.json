@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-28T01:03:56.142Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "윤유선",
-          "score": 100
-        },
-        {
-          "keyword": "길찾기",
-          "score": 99
-        },
-        {
-          "keyword": "anthropic",
-          "score": 98
-        },
-        {
-          "keyword": "토익",
-          "score": 97
-        },
-        {
-          "keyword": "프리미어리그",
-          "score": 96
-        },
-        {
-          "keyword": "미스 트롯 4",
-          "score": 95
-        },
-        {
-          "keyword": "wolves đấu với aston villa",
-          "score": 94
-        },
-        {
-          "keyword": "국민성장펀드",
-          "score": 93
-        },
-        {
-          "keyword": "วูล์ฟแฮมป์ตัน พบ แอสตันวิลลา",
-          "score": 92
-        },
-        {
-          "keyword": "앤트로픽",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-28T03:22:40.871Z",
       "geo": "KR",
       "source": "google",
@@ -6061,6 +6014,53 @@
         },
         {
           "keyword": "뉴스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-04T01:09:21.244Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "원광대",
+          "score": 100
+        },
+        {
+          "keyword": "미래엔",
+          "score": 99
+        },
+        {
+          "keyword": "sk이노베이션",
+          "score": 98
+        },
+        {
+          "keyword": "프리미어리그 순위",
+          "score": 97
+        },
+        {
+          "keyword": "티웨이항공",
+          "score": 96
+        },
+        {
+          "keyword": "k패스",
+          "score": 95
+        },
+        {
+          "keyword": "barca",
+          "score": 94
+        },
+        {
+          "keyword": "pl",
+          "score": 93
+        },
+        {
+          "keyword": "wolves đấu với liverpool",
+          "score": 92
+        },
+        {
+          "keyword": "barcelona vs atlético madrid",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-28T01:03:57.483Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "エコノミスト",
-          "score": 100
-        },
-        {
-          "keyword": "supreme",
-          "score": 99
-        },
-        {
-          "keyword": "jreポイント",
-          "score": 98
-        },
-        {
-          "keyword": "阪神競馬場",
-          "score": 97
-        },
-        {
-          "keyword": "伊野尾慧",
-          "score": 96
-        },
-        {
-          "keyword": "ニール・セダカ",
-          "score": 95
-        },
-        {
-          "keyword": "ニールセダカ",
-          "score": 94
-        },
-        {
-          "keyword": "ニーサ",
-          "score": 93
-        },
-        {
-          "keyword": "横須賀",
-          "score": 92
-        },
-        {
-          "keyword": "湘南新宿ライン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-28T03:22:42.102Z",
       "geo": "JP",
       "source": "google",
@@ -6061,6 +6014,53 @@
         },
         {
           "keyword": "栗原はるみ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-04T01:09:22.668Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "茨城県",
+          "score": 100
+        },
+        {
+          "keyword": "境町",
+          "score": 99
+        },
+        {
+          "keyword": "大阪府",
+          "score": 98
+        },
+        {
+          "keyword": "oda",
+          "score": 97
+        },
+        {
+          "keyword": "日経平均",
+          "score": 96
+        },
+        {
+          "keyword": "三重県",
+          "score": 95
+        },
+        {
+          "keyword": "ユネスコ",
+          "score": 94
+        },
+        {
+          "keyword": "武田鉄矢",
+          "score": 93
+        },
+        {
+          "keyword": "jal 株価",
+          "score": 92
+        },
+        {
+          "keyword": "近鉄",
           "score": 91
         }
       ]
