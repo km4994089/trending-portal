@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-02-28T08:48:40.323Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "bahrain",
-          "score": 100
-        },
-        {
-          "keyword": "qatar airways",
-          "score": 99
-        },
-        {
-          "keyword": "breaking bad",
-          "score": 98
-        },
-        {
-          "keyword": "zendaya",
-          "score": 97
-        },
-        {
-          "keyword": "netanyahu",
-          "score": 96
-        },
-        {
-          "keyword": "jordan",
-          "score": 95
-        },
-        {
-          "keyword": "white house",
-          "score": 94
-        },
-        {
-          "keyword": "lebanon",
-          "score": 93
-        },
-        {
-          "keyword": "king mitchy",
-          "score": 92
-        },
-        {
-          "keyword": "usa news",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-02-28T09:17:22.595Z",
       "geo": "US",
       "source": "google",
@@ -5963,6 +5916,53 @@
         },
         {
           "keyword": "devin booker",
+          "score": 92
+        },
+        {
+          "keyword": "marcus smart",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-04T09:03:27.190Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "yak 130",
+          "score": 100
+        },
+        {
+          "keyword": "val chmerkovskiy hospitalized",
+          "score": 99
+        },
+        {
+          "keyword": "nfl picks",
+          "score": 98
+        },
+        {
+          "keyword": "crypto gaming",
+          "score": 97
+        },
+        {
+          "keyword": "fanduel vs draftkings",
+          "score": 96
+        },
+        {
+          "keyword": "shell",
+          "score": 95
+        },
+        {
+          "keyword": "fuel stations",
+          "score": 94
+        },
+        {
+          "keyword": "amarillo weather",
+          "score": 93
+        },
+        {
+          "keyword": "shell gasoline",
           "score": 92
         },
         {
