@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-01T22:46:20.023Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "날씨",
-          "score": 100
-        },
-        {
-          "keyword": "roma vs juventus",
-          "score": 99
-        },
-        {
-          "keyword": "weather",
-          "score": 98
-        },
-        {
-          "keyword": "그록",
-          "score": 97
-        },
-        {
-          "keyword": "동아일보",
-          "score": 96
-        },
-        {
-          "keyword": "장원영",
-          "score": 95
-        },
-        {
-          "keyword": "기상청 날씨누리",
-          "score": 94
-        },
-        {
-          "keyword": "달러",
-          "score": 93
-        },
-        {
-          "keyword": "산티아고",
-          "score": 92
-        },
-        {
-          "keyword": "시아파",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-01T23:14:30.551Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "天気",
-          "score": 100
-        },
-        {
-          "keyword": "국민체력100",
-          "score": 99
-        },
-        {
-          "keyword": "날씨",
-          "score": 98
-        },
-        {
-          "keyword": "roma vs juventus",
-          "score": 97
-        },
-        {
-          "keyword": "weather",
-          "score": 96
-        },
-        {
-          "keyword": "그록",
-          "score": 95
-        },
-        {
-          "keyword": "장원영",
-          "score": 94
-        },
-        {
-          "keyword": "기상청 날씨누리",
-          "score": 93
-        },
-        {
-          "keyword": "3월2일 대체공휴일",
-          "score": 92
-        },
-        {
-          "keyword": "산티아고",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-01T23:42:31.169Z",
       "geo": "KR",
       "source": "google",
@@ -4933,6 +4839,53 @@
         },
         {
           "keyword": "토트넘",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-05T23:33:02.089Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "pl",
+          "score": 100
+        },
+        {
+          "keyword": "뉴스속보",
+          "score": 99
+        },
+        {
+          "keyword": "오늘 날씨",
+          "score": 98
+        },
+        {
+          "keyword": "gpt 5.4",
+          "score": 97
+        },
+        {
+          "keyword": "kristi noem",
+          "score": 96
+        },
+        {
+          "keyword": "노팅엄",
+          "score": 95
+        },
+        {
+          "keyword": "tottenham đấu với crystal palace",
+          "score": 94
+        },
+        {
+          "keyword": "election commission nepal",
+          "score": 93
+        },
+        {
+          "keyword": "สเปอร์ส พบ คริสตัลพาเลซ",
+          "score": 92
+        },
+        {
+          "keyword": "epl",
           "score": 91
         }
       ]
