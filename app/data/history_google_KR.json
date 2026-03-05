@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-01T09:49:19.785Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ตรวจหวย",
-          "score": 100
-        },
-        {
-          "keyword": "bnk",
-          "score": 99
-        },
-        {
-          "keyword": "k리그1 순위",
-          "score": 98
-        },
-        {
-          "keyword": "제주 대 광주",
-          "score": 97
-        },
-        {
-          "keyword": "f1",
-          "score": 96
-        },
-        {
-          "keyword": "농구 한일전",
-          "score": 95
-        },
-        {
-          "keyword": "전북현대",
-          "score": 94
-        },
-        {
-          "keyword": "대구fc",
-          "score": 93
-        },
-        {
-          "keyword": "안중근",
-          "score": 92
-        },
-        {
-          "keyword": "김애경",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-01T10:15:35.245Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "싱가포르",
-          "score": 100
-        },
-        {
-          "keyword": "ตรวจหวย",
-          "score": 99
-        },
-        {
-          "keyword": "bnk",
-          "score": 98
-        },
-        {
-          "keyword": "k리그1 순위",
-          "score": 97
-        },
-        {
-          "keyword": "월드컵 예선",
-          "score": 96
-        },
-        {
-          "keyword": "제주 대 광주",
-          "score": 95
-        },
-        {
-          "keyword": "f1",
-          "score": 94
-        },
-        {
-          "keyword": "한국 일본 농구",
-          "score": 93
-        },
-        {
-          "keyword": "엄흥도",
-          "score": 92
-        },
-        {
-          "keyword": "대구fc",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-01T10:47:29.990Z",
       "geo": "KR",
       "source": "google",
@@ -5497,6 +5403,53 @@
         },
         {
           "keyword": "이지영",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-05T10:29:48.397Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "야구중계",
+          "score": 100
+        },
+        {
+          "keyword": "밍글스",
+          "score": 99
+        },
+        {
+          "keyword": "모수",
+          "score": 98
+        },
+        {
+          "keyword": "한화솔루션",
+          "score": 97
+        },
+        {
+          "keyword": "cgv",
+          "score": 96
+        },
+        {
+          "keyword": "r",
+          "score": 95
+        },
+        {
+          "keyword": "카카오tv",
+          "score": 94
+        },
+        {
+          "keyword": "트래비스 바자나",
+          "score": 93
+        },
+        {
+          "keyword": "hmm",
+          "score": 92
+        },
+        {
+          "keyword": "롯데자이언츠",
           "score": 91
         }
       ]
