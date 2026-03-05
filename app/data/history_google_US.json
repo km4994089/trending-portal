@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-01T10:47:28.865Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "alireza arafi",
-          "score": 100
-        },
-        {
-          "keyword": "anhelina kalinina",
-          "score": 99
-        },
-        {
-          "keyword": "xsmn",
-          "score": 98
-        },
-        {
-          "keyword": "cyprus",
-          "score": 97
-        },
-        {
-          "keyword": "ind vs eng",
-          "score": 96
-        },
-        {
-          "keyword": "mia ristic",
-          "score": 95
-        },
-        {
-          "keyword": "greyhound",
-          "score": 94
-        },
-        {
-          "keyword": "dennys",
-          "score": 93
-        },
-        {
-          "keyword": "zimbabwe vs south africa",
-          "score": 92
-        },
-        {
-          "keyword": "australia vs philippines",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-01T11:12:24.370Z",
       "geo": "US",
       "source": "google",
@@ -5450,6 +5403,53 @@
         },
         {
           "keyword": "bryce dallas howard",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-05T11:07:16.730Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "strands hint",
+          "score": 100
+        },
+        {
+          "keyword": "school delays",
+          "score": 99
+        },
+        {
+          "keyword": "eastside cannery",
+          "score": 98
+        },
+        {
+          "keyword": "allstate insurance",
+          "score": 97
+        },
+        {
+          "keyword": "pga tour",
+          "score": 96
+        },
+        {
+          "keyword": "pa lottery",
+          "score": 95
+        },
+        {
+          "keyword": "nytimes.com",
+          "score": 94
+        },
+        {
+          "keyword": "wwe 2k26",
+          "score": 93
+        },
+        {
+          "keyword": "vladimir netflix",
+          "score": 92
+        },
+        {
+          "keyword": "online lottery",
           "score": 91
         }
       ]
