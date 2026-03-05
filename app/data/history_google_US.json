@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-01T07:50:01.855Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ohio",
-          "score": 100
-        },
-        {
-          "keyword": "cincinnati",
-          "score": 99
-        },
-        {
-          "keyword": "shogakukan",
-          "score": 98
-        },
-        {
-          "keyword": "karachi",
-          "score": 97
-        },
-        {
-          "keyword": "ig",
-          "score": 96
-        },
-        {
-          "keyword": "nicholas braimbridge tony cooper",
-          "score": 95
-        },
-        {
-          "keyword": "xbox",
-          "score": 94
-        },
-        {
-          "keyword": "free movies",
-          "score": 93
-        },
-        {
-          "keyword": "severance",
-          "score": 92
-        },
-        {
-          "keyword": "stephen hawking",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-01T08:19:15.366Z",
       "geo": "US",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "tabla liga mx",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-05T07:58:20.261Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "katarzyna kawa",
+          "score": 100
+        },
+        {
+          "keyword": "weather forecast snow storm",
+          "score": 99
+        },
+        {
+          "keyword": "3i atlas update",
+          "score": 98
+        },
+        {
+          "keyword": "hurricane season",
+          "score": 97
+        },
+        {
+          "keyword": "ksl",
+          "score": 96
+        },
+        {
+          "keyword": "darius garland",
+          "score": 95
+        },
+        {
+          "keyword": "dayana yastremska",
+          "score": 94
+        },
+        {
+          "keyword": "invincible season 4",
+          "score": 93
+        },
+        {
+          "keyword": "henry cavill",
+          "score": 92
+        },
+        {
+          "keyword": "wagner moura",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-01T07:50:03.030Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "제주 대 광주",
-          "score": 100
-        },
-        {
-          "keyword": "f1",
-          "score": 99
-        },
-        {
-          "keyword": "농구 한일전",
-          "score": 98
-        },
-        {
-          "keyword": "엄흥도",
-          "score": 97
-        },
-        {
-          "keyword": "전북현대",
-          "score": 96
-        },
-        {
-          "keyword": "대구fc",
-          "score": 95
-        },
-        {
-          "keyword": "김애경",
-          "score": 94
-        },
-        {
-          "keyword": "현숙",
-          "score": 93
-        },
-        {
-          "keyword": "국민체력100",
-          "score": 92
-        },
-        {
-          "keyword": "lafc",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-01T08:19:16.821Z",
       "geo": "KR",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "카나프테라퓨틱스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-05T07:58:21.703Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cgv",
+          "score": 100
+        },
+        {
+          "keyword": "r",
+          "score": 99
+        },
+        {
+          "keyword": "카카오tv",
+          "score": 98
+        },
+        {
+          "keyword": "트래비스 바자나",
+          "score": 97
+        },
+        {
+          "keyword": "hmm",
+          "score": 96
+        },
+        {
+          "keyword": "롯데자이언츠",
+          "score": 95
+        },
+        {
+          "keyword": "휘발유 가격",
+          "score": 94
+        },
+        {
+          "keyword": "넥스원",
+          "score": 93
+        },
+        {
+          "keyword": "윤하",
+          "score": 92
+        },
+        {
+          "keyword": "충무아트센터",
           "score": 91
         }
       ]
