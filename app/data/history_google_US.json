@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-01T20:15:05.569Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "bradley basketball",
-          "score": 100
-        },
-        {
-          "keyword": "iowa women's basketball",
-          "score": 99
-        },
-        {
-          "keyword": "noah lyles",
-          "score": 98
-        },
-        {
-          "keyword": "bucks vs bulls",
-          "score": 97
-        },
-        {
-          "keyword": "cavaliers vs nets",
-          "score": 96
-        },
-        {
-          "keyword": "timberwolves vs nuggets",
-          "score": 95
-        },
-        {
-          "keyword": "ron howard",
-          "score": 94
-        },
-        {
-          "keyword": "washington dc",
-          "score": 93
-        },
-        {
-          "keyword": "mikal bridges",
-          "score": 92
-        },
-        {
-          "keyword": "vanderbilt vs tennessee",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-01T20:45:56.436Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "landry shamet",
-          "score": 100
-        },
-        {
-          "keyword": "495 stabbing",
-          "score": 99
-        },
-        {
-          "keyword": "jalen brunson",
-          "score": 98
-        },
-        {
-          "keyword": "rg3",
-          "score": 97
-        },
-        {
-          "keyword": "de'aaron fox",
-          "score": 96
-        },
-        {
-          "keyword": "clemson baseball",
-          "score": 95
-        },
-        {
-          "keyword": "big ten basketball standings",
-          "score": 94
-        },
-        {
-          "keyword": "shane van gisbergen",
-          "score": 93
-        },
-        {
-          "keyword": "mohamed diawara",
-          "score": 92
-        },
-        {
-          "keyword": "wemby",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-01T21:13:43.189Z",
       "geo": "US",
       "source": "google",
@@ -5027,6 +4933,53 @@
         },
         {
           "keyword": "boston weather forecast",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-05T20:57:48.174Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jeff petry",
+          "score": 100
+        },
+        {
+          "keyword": "road dogg",
+          "score": 99
+        },
+        {
+          "keyword": "jett woo",
+          "score": 98
+        },
+        {
+          "keyword": "kim english",
+          "score": 97
+        },
+        {
+          "keyword": "matt eberflus",
+          "score": 96
+        },
+        {
+          "keyword": "lyon fc",
+          "score": 95
+        },
+        {
+          "keyword": "college board",
+          "score": 94
+        },
+        {
+          "keyword": "aws outage",
+          "score": 93
+        },
+        {
+          "keyword": "project helix",
+          "score": 92
+        },
+        {
+          "keyword": "real madrid - bologna",
           "score": 91
         }
       ]
