@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-01T01:19:02.858Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "금시세",
-          "score": 100
-        },
-        {
-          "keyword": "bitcoin price",
-          "score": 99
-        },
-        {
-          "keyword": "real oviedo vs atlético madrid",
-          "score": 98
-        },
-        {
-          "keyword": "그록",
-          "score": 97
-        },
-        {
-          "keyword": "비트코인시세",
-          "score": 96
-        },
-        {
-          "keyword": "동아일보",
-          "score": 95
-        },
-        {
-          "keyword": "중앙일보",
-          "score": 94
-        },
-        {
-          "keyword": "틱톡",
-          "score": 93
-        },
-        {
-          "keyword": "leeds đấu với man city",
-          "score": 92
-        },
-        {
-          "keyword": "dortmund vs bayern",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-01T03:59:57.815Z",
       "geo": "KR",
       "source": "google",
@@ -5591,6 +5544,53 @@
         },
         {
           "keyword": "네이버 쇼핑",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-05T03:39:46.534Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "윤하",
+          "score": 100
+        },
+        {
+          "keyword": "충무아트센터",
+          "score": 99
+        },
+        {
+          "keyword": "gemini ai",
+          "score": 98
+        },
+        {
+          "keyword": "카나프테라퓨틱스",
+          "score": 97
+        },
+        {
+          "keyword": "map",
+          "score": 96
+        },
+        {
+          "keyword": "wbc 경기 일정",
+          "score": 95
+        },
+        {
+          "keyword": "동의대",
+          "score": 94
+        },
+        {
+          "keyword": "덕성여대",
+          "score": 93
+        },
+        {
+          "keyword": "한국투자증권",
+          "score": 92
+        },
+        {
+          "keyword": "삼성전자주식",
           "score": 91
         }
       ]
