@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-01T21:13:43.189Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "christopher nolan",
-          "score": 100
-        },
-        {
-          "keyword": "new york city vs philadelphia",
-          "score": 99
-        },
-        {
-          "keyword": "audi crooks",
-          "score": 98
-        },
-        {
-          "keyword": "jets vs sharks",
-          "score": 97
-        },
-        {
-          "keyword": "fsu",
-          "score": 96
-        },
-        {
-          "keyword": "michigan state basketball",
-          "score": 95
-        },
-        {
-          "keyword": "blackhawks vs mammoth",
-          "score": 94
-        },
-        {
-          "keyword": "mississippi state baseball",
-          "score": 93
-        },
-        {
-          "keyword": "495 stabbing",
-          "score": 92
-        },
-        {
-          "keyword": "nico echavarria",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-01T21:41:50.159Z",
       "geo": "US",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "real madrid - bologna",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-05T21:31:34.506Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "trinidad chambliss",
+          "score": 100
+        },
+        {
+          "keyword": "tottenham hotspur f.c.",
+          "score": 99
+        },
+        {
+          "keyword": "who is lewandowski",
+          "score": 98
+        },
+        {
+          "keyword": "jeff petry",
+          "score": 97
+        },
+        {
+          "keyword": "jett woo",
+          "score": 96
+        },
+        {
+          "keyword": "road dogg",
+          "score": 95
+        },
+        {
+          "keyword": "kim english",
+          "score": 94
+        },
+        {
+          "keyword": "lyon fc",
+          "score": 93
+        },
+        {
+          "keyword": "matt eberflus",
+          "score": 92
+        },
+        {
+          "keyword": "aws outage",
           "score": 91
         }
       ]
