@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-01T12:27:14.781Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "thời tiết ngày mai",
-          "score": 100
-        },
-        {
-          "keyword": "cuaca besok",
-          "score": 99
-        },
-        {
-          "keyword": "김태리",
-          "score": 98
-        },
-        {
-          "keyword": "김형태",
-          "score": 97
-        },
-        {
-          "keyword": "lpl",
-          "score": 96
-        },
-        {
-          "keyword": "내일날씨",
-          "score": 95
-        },
-        {
-          "keyword": "아이브",
-          "score": 94
-        },
-        {
-          "keyword": "문세윤",
-          "score": 93
-        },
-        {
-          "keyword": "김경호",
-          "score": 92
-        },
-        {
-          "keyword": "정해인",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-01T13:13:51.354Z",
       "geo": "KR",
       "source": "google",
@@ -5403,6 +5356,53 @@
         },
         {
           "keyword": "mbc",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-05T12:36:49.597Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "신협",
+          "score": 100
+        },
+        {
+          "keyword": "설명할 시간이 없어 어서 타",
+          "score": 99
+        },
+        {
+          "keyword": "네이버 주가",
+          "score": 98
+        },
+        {
+          "keyword": "김주원",
+          "score": 97
+        },
+        {
+          "keyword": "노경은",
+          "score": 96
+        },
+        {
+          "keyword": "류현진",
+          "score": 95
+        },
+        {
+          "keyword": "체코 야구",
+          "score": 94
+        },
+        {
+          "keyword": "오승환",
+          "score": 93
+        },
+        {
+          "keyword": "문보경",
+          "score": 92
+        },
+        {
+          "keyword": "wbc 콜드게임",
           "score": 91
         }
       ]
