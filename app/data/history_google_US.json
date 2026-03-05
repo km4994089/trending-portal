@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-01T08:19:15.366Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "crypto atm",
-          "score": 100
-        },
-        {
-          "keyword": "motogp",
-          "score": 99
-        },
-        {
-          "keyword": "gloria trevi",
-          "score": 98
-        },
-        {
-          "keyword": "ohio",
-          "score": 97
-        },
-        {
-          "keyword": "cincinnati",
-          "score": 96
-        },
-        {
-          "keyword": "shogakukan",
-          "score": 95
-        },
-        {
-          "keyword": "riverfront live",
-          "score": 94
-        },
-        {
-          "keyword": "karachi",
-          "score": 93
-        },
-        {
-          "keyword": "ig",
-          "score": 92
-        },
-        {
-          "keyword": "xbox",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-01T08:51:24.257Z",
       "geo": "US",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "wagner moura",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-05T08:39:30.650Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "anhelina kalinina",
+          "score": 100
+        },
+        {
+          "keyword": "san francisco",
+          "score": 99
+        },
+        {
+          "keyword": "seattle seahawks",
+          "score": 98
+        },
+        {
+          "keyword": "ind vs eng",
+          "score": 97
+        },
+        {
+          "keyword": "bryce dallas howard",
+          "score": 96
+        },
+        {
+          "keyword": "katarzyna kawa",
+          "score": 95
+        },
+        {
+          "keyword": "weather forecast snow storm",
+          "score": 94
+        },
+        {
+          "keyword": "3i atlas update",
+          "score": 93
+        },
+        {
+          "keyword": "hurricane season",
+          "score": 92
+        },
+        {
+          "keyword": "ksl",
           "score": 91
         }
       ]
