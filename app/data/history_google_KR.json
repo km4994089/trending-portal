@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T03:40:57.448Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "헤즈볼라",
-          "score": 100
-        },
-        {
-          "keyword": "니케이지수",
-          "score": 99
-        },
-        {
-          "keyword": "박소영 아나운서",
-          "score": 98
-        },
-        {
-          "keyword": "아웃백",
-          "score": 97
-        },
-        {
-          "keyword": "orlando city vs inter miami",
-          "score": 96
-        },
-        {
-          "keyword": "부산 날씨",
-          "score": 95
-        },
-        {
-          "keyword": "마사회",
-          "score": 94
-        },
-        {
-          "keyword": "천궁",
-          "score": 93
-        },
-        {
-          "keyword": "기아",
-          "score": 92
-        },
-        {
-          "keyword": "박용호",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T05:10:35.527Z",
       "geo": "KR",
       "source": "google",
@@ -4886,6 +4839,53 @@
         },
         {
           "keyword": "아이스크림",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T05:05:19.748Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "휘발유 가격",
+          "score": 100
+        },
+        {
+          "keyword": "쇼미12 음원",
+          "score": 99
+        },
+        {
+          "keyword": "택시",
+          "score": 98
+        },
+        {
+          "keyword": "휴림로봇 주가",
+          "score": 97
+        },
+        {
+          "keyword": "경일대",
+          "score": 96
+        },
+        {
+          "keyword": "맞춤형복지",
+          "score": 95
+        },
+        {
+          "keyword": "코스닥",
+          "score": 94
+        },
+        {
+          "keyword": "에스팀",
+          "score": 93
+        },
+        {
+          "keyword": "카나프테라퓨틱스",
+          "score": 92
+        },
+        {
+          "keyword": "크리스티 놈",
           "score": 91
         }
       ]
