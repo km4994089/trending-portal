@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T22:18:49.682Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ラ・リーガ",
-          "score": 100
-        },
-        {
-          "keyword": "福岡天気",
-          "score": 99
-        },
-        {
-          "keyword": "小牧 火事",
-          "score": 98
-        },
-        {
-          "keyword": "snow man",
-          "score": 97
-        },
-        {
-          "keyword": "早明浦ダム 貯水率",
-          "score": 96
-        },
-        {
-          "keyword": "シャトレーゼ",
-          "score": 95
-        },
-        {
-          "keyword": "レアル",
-          "score": 94
-        },
-        {
-          "keyword": "望月慎太郎",
-          "score": 93
-        },
-        {
-          "keyword": "セブンイレブン おにぎり",
-          "score": 92
-        },
-        {
-          "keyword": "村木厚子",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-02T22:51:58.916Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "個人向け国債",
-          "score": 100
-        },
-        {
-          "keyword": "amazonセール",
-          "score": 99
-        },
-        {
-          "keyword": "大地の子 舞台",
-          "score": 98
-        },
-        {
-          "keyword": "キンプリ",
-          "score": 97
-        },
-        {
-          "keyword": "au",
-          "score": 96
-        },
-        {
-          "keyword": "オーストラリアドル",
-          "score": 95
-        },
-        {
-          "keyword": "佳子さま",
-          "score": 94
-        },
-        {
-          "keyword": "鹿児島 天気",
-          "score": 93
-        },
-        {
-          "keyword": "福岡 ダム 貯水率",
-          "score": 92
-        },
-        {
-          "keyword": "ラジコ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T23:16:36.758Z",
       "geo": "JP",
       "source": "google",
@@ -5121,6 +5027,53 @@
         },
         {
           "keyword": "ナポリ 対 トリノ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T22:52:21.186Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "啓蟄",
+          "score": 100
+        },
+        {
+          "keyword": "古平町",
+          "score": 99
+        },
+        {
+          "keyword": "足立梨花",
+          "score": 98
+        },
+        {
+          "keyword": "淡路島",
+          "score": 97
+        },
+        {
+          "keyword": "詐欺対策 by nttタウンページ",
+          "score": 96
+        },
+        {
+          "keyword": "りんたろー",
+          "score": 95
+        },
+        {
+          "keyword": "宮原華音",
+          "score": 94
+        },
+        {
+          "keyword": "里崎智也",
+          "score": 93
+        },
+        {
+          "keyword": "五十嵐亮太",
+          "score": 92
+        },
+        {
+          "keyword": "リーグ・アン",
           "score": 91
         }
       ]
