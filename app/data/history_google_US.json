@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T13:53:18.640Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "africa",
-          "score": 100
-        },
-        {
-          "keyword": "pokopia",
-          "score": 99
-        },
-        {
-          "keyword": "march calendar",
-          "score": 98
-        },
-        {
-          "keyword": "current events",
-          "score": 97
-        },
-        {
-          "keyword": "shah rukh khan",
-          "score": 96
-        },
-        {
-          "keyword": "usa today",
-          "score": 95
-        },
-        {
-          "keyword": "pete hegseth",
-          "score": 94
-        },
-        {
-          "keyword": "stock market today",
-          "score": 93
-        },
-        {
-          "keyword": "tulip day washington dc",
-          "score": 92
-        },
-        {
-          "keyword": "march madness bracket",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T14:36:37.219Z",
       "geo": "US",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "aaron watson",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T14:29:30.215Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "madison beer",
+          "score": 100
+        },
+        {
+          "keyword": "israel iran attack",
+          "score": 99
+        },
+        {
+          "keyword": "alan greenspan",
+          "score": 98
+        },
+        {
+          "keyword": "sam asghari",
+          "score": 97
+        },
+        {
+          "keyword": "gta vi",
+          "score": 96
+        },
+        {
+          "keyword": "trick williams",
+          "score": 95
+        },
+        {
+          "keyword": "jobs report",
+          "score": 94
+        },
+        {
+          "keyword": "nfl free agency start",
+          "score": 93
+        },
+        {
+          "keyword": "oklahoma tornado",
+          "score": 92
+        },
+        {
+          "keyword": "ben sasse",
           "score": 91
         }
       ]
