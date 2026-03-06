@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T08:02:11.969Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "宝塚音楽学校",
-          "score": 100
-        },
-        {
-          "keyword": "三菱マヒンドラ農機",
-          "score": 99
-        },
-        {
-          "keyword": "ネタニヤフ首相",
-          "score": 98
-        },
-        {
-          "keyword": "wbc 強化試合 放送予定",
-          "score": 97
-        },
-        {
-          "keyword": "保護司",
-          "score": 96
-        },
-        {
-          "keyword": "ew",
-          "score": 95
-        },
-        {
-          "keyword": "チームみらい",
-          "score": 94
-        },
-        {
-          "keyword": "アエバ外科病院",
-          "score": 93
-        },
-        {
-          "keyword": "テキーラ",
-          "score": 92
-        },
-        {
-          "keyword": "井上尚弥 中谷潤人",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T09:05:03.384Z",
       "geo": "JP",
       "source": "google",
@@ -4886,6 +4839,53 @@
         },
         {
           "keyword": "ケプラー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T08:26:29.286Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "萩原聖人",
+          "score": 100
+        },
+        {
+          "keyword": "三重大学",
+          "score": 99
+        },
+        {
+          "keyword": "浜名湖競艇",
+          "score": 98
+        },
+        {
+          "keyword": "モルディブ",
+          "score": 97
+        },
+        {
+          "keyword": "東京科学大学",
+          "score": 96
+        },
+        {
+          "keyword": "浜松 火事",
+          "score": 95
+        },
+        {
+          "keyword": "杉田雷麟",
+          "score": 94
+        },
+        {
+          "keyword": "クレイジージャーニー",
+          "score": 93
+        },
+        {
+          "keyword": "ラジオ",
+          "score": 92
+        },
+        {
+          "keyword": "大阪教育大学",
           "score": 91
         }
       ]

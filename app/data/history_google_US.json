@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T08:02:09.636Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "laura pigossi",
-          "score": 100
-        },
-        {
-          "keyword": "earthquake san ramon",
-          "score": 99
-        },
-        {
-          "keyword": "earthquake",
-          "score": 98
-        },
-        {
-          "keyword": "earthquake near me",
-          "score": 97
-        },
-        {
-          "keyword": "aramco",
-          "score": 96
-        },
-        {
-          "keyword": "us embassy kuwait",
-          "score": 95
-        },
-        {
-          "keyword": "real estate",
-          "score": 94
-        },
-        {
-          "keyword": "f15",
-          "score": 93
-        },
-        {
-          "keyword": "dan bongino",
-          "score": 92
-        },
-        {
-          "keyword": "hotels",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T09:05:00.803Z",
       "geo": "US",
       "source": "google",
@@ -4886,6 +4839,53 @@
         },
         {
           "keyword": "kake",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T08:26:26.698Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "madrid",
+          "score": 100
+        },
+        {
+          "keyword": "boston",
+          "score": 99
+        },
+        {
+          "keyword": "san francisco",
+          "score": 98
+        },
+        {
+          "keyword": "hong kong",
+          "score": 97
+        },
+        {
+          "keyword": "washington dc",
+          "score": 96
+        },
+        {
+          "keyword": "mumbai",
+          "score": 95
+        },
+        {
+          "keyword": "vancouver",
+          "score": 94
+        },
+        {
+          "keyword": "manila",
+          "score": 93
+        },
+        {
+          "keyword": "kolkata",
+          "score": 92
+        },
+        {
+          "keyword": "philadelphia",
           "score": 91
         }
       ]
