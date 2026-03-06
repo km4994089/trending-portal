@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T16:33:00.088Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "17e",
-          "score": 100
-        },
-        {
-          "keyword": "나스닥",
-          "score": 99
-        },
-        {
-          "keyword": "해든이",
-          "score": 98
-        },
-        {
-          "keyword": "아이폰 17e",
-          "score": 97
-        },
-        {
-          "keyword": "s&p 500",
-          "score": 96
-        },
-        {
-          "keyword": "nasdaq",
-          "score": 95
-        },
-        {
-          "keyword": "apple",
-          "score": 94
-        },
-        {
-          "keyword": "배기성",
-          "score": 93
-        },
-        {
-          "keyword": "환율",
-          "score": 92
-        },
-        {
-          "keyword": "persebaya vs persib bandung",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T17:42:45.409Z",
       "geo": "KR",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "비",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T16:37:18.828Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "츠키",
+          "score": 100
+        },
+        {
+          "keyword": "오달수",
+          "score": 99
+        },
+        {
+          "keyword": "vix",
+          "score": 98
+        },
+        {
+          "keyword": "타이타닉",
+          "score": 97
+        },
+        {
+          "keyword": "넥슨",
+          "score": 96
+        },
+        {
+          "keyword": "고영표",
+          "score": 95
+        },
+        {
+          "keyword": "표예진",
+          "score": 94
+        },
+        {
+          "keyword": "김민주",
+          "score": 93
+        },
+        {
+          "keyword": "다르빗슈",
+          "score": 92
+        },
+        {
+          "keyword": "안세영",
           "score": 91
         }
       ]
