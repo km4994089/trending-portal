@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T07:30:07.326Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "박홍근",
-          "score": 100
-        },
-        {
-          "keyword": "장항준",
-          "score": 99
-        },
-        {
-          "keyword": "충남 아산 fc 대 파주",
-          "score": 98
-        },
-        {
-          "keyword": "류현진",
-          "score": 97
-        },
-        {
-          "keyword": "대전 대 안양",
-          "score": 96
-        },
-        {
-          "keyword": "wbc 평가전",
-          "score": 95
-        },
-        {
-          "keyword": "이소나",
-          "score": 94
-        },
-        {
-          "keyword": "젠데이아",
-          "score": 93
-        },
-        {
-          "keyword": "한신 타이거즈",
-          "score": 92
-        },
-        {
-          "keyword": "kbs",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T08:02:10.923Z",
       "geo": "KR",
       "source": "google",
@@ -4886,6 +4839,53 @@
         },
         {
           "keyword": "맞춤형복지",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T07:55:05.595Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "교직원공제회",
+          "score": 100
+        },
+        {
+          "keyword": "아랍에미리트",
+          "score": 99
+        },
+        {
+          "keyword": "쿠웨이트",
+          "score": 98
+        },
+        {
+          "keyword": "두산에너빌리티",
+          "score": 97
+        },
+        {
+          "keyword": "호주 체코",
+          "score": 96
+        },
+        {
+          "keyword": "차주영",
+          "score": 95
+        },
+        {
+          "keyword": "2026 winter paralympics",
+          "score": 94
+        },
+        {
+          "keyword": "어디가",
+          "score": 93
+        },
+        {
+          "keyword": "2026년 동계 패럴림픽",
+          "score": 92
+        },
+        {
+          "keyword": "덴버 대 la 레이커스",
           "score": 91
         }
       ]
