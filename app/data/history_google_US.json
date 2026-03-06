@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T10:09:49.616Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "severe flood risk",
-          "score": 100
-        },
-        {
-          "keyword": "winter weather advisory",
-          "score": 99
-        },
-        {
-          "keyword": "умар джабраилов",
-          "score": 98
-        },
-        {
-          "keyword": "turkey",
-          "score": 97
-        },
-        {
-          "keyword": "elena pridankina",
-          "score": 96
-        },
-        {
-          "keyword": "teodora kostovic",
-          "score": 95
-        },
-        {
-          "keyword": "laura pigossi",
-          "score": 94
-        },
-        {
-          "keyword": "aramco",
-          "score": 93
-        },
-        {
-          "keyword": "earthquake san ramon",
-          "score": 92
-        },
-        {
-          "keyword": "earthquake near me",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T11:06:32.064Z",
       "geo": "US",
       "source": "google",
@@ -4933,6 +4886,53 @@
         },
         {
           "keyword": "pune",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T10:37:58.783Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "fox sports",
+          "score": 100
+        },
+        {
+          "keyword": "wmur closings",
+          "score": 99
+        },
+        {
+          "keyword": "japan vs chinese taipei",
+          "score": 98
+        },
+        {
+          "keyword": "lindsey halligan",
+          "score": 97
+        },
+        {
+          "keyword": "school closings ma",
+          "score": 96
+        },
+        {
+          "keyword": "laptop",
+          "score": 95
+        },
+        {
+          "keyword": "online lottery",
+          "score": 94
+        },
+        {
+          "keyword": "st petersburg",
+          "score": 93
+        },
+        {
+          "keyword": "hangzhou",
+          "score": 92
+        },
+        {
+          "keyword": "war machine 2026",
           "score": 91
         }
       ]
