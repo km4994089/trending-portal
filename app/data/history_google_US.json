@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T11:06:32.064Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "wthr",
-          "score": 100
-        },
-        {
-          "keyword": "severe flood risk",
-          "score": 99
-        },
-        {
-          "keyword": "1",
-          "score": 98
-        },
-        {
-          "keyword": "winter weather advisory",
-          "score": 97
-        },
-        {
-          "keyword": "умар джабраилов",
-          "score": 96
-        },
-        {
-          "keyword": "turkey",
-          "score": 95
-        },
-        {
-          "keyword": "elena pridankina",
-          "score": 94
-        },
-        {
-          "keyword": "teodora kostovic",
-          "score": 93
-        },
-        {
-          "keyword": "laura pigossi",
-          "score": 92
-        },
-        {
-          "keyword": "aramco",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T11:49:47.460Z",
       "geo": "US",
       "source": "google",
@@ -4933,6 +4886,53 @@
         },
         {
           "keyword": "war machine 2026",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T11:20:57.304Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "wbc mercy rule",
+          "score": 100
+        },
+        {
+          "keyword": "texas lottery",
+          "score": 99
+        },
+        {
+          "keyword": "gunky wordle",
+          "score": 98
+        },
+        {
+          "keyword": "ios 26.3.1",
+          "score": 97
+        },
+        {
+          "keyword": "ct lottery",
+          "score": 96
+        },
+        {
+          "keyword": "darryl hannah",
+          "score": 95
+        },
+        {
+          "keyword": "nicola coughlan",
+          "score": 94
+        },
+        {
+          "keyword": "vanessa trump",
+          "score": 93
+        },
+        {
+          "keyword": "aliyah henderson",
+          "score": 92
+        },
+        {
+          "keyword": "daryl hannah",
           "score": 91
         }
       ]
