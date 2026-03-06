@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T23:16:33.712Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cleveland state basketball",
-          "score": 100
-        },
-        {
-          "keyword": "norfolk state basketball",
-          "score": 99
-        },
-        {
-          "keyword": "state department travel advisory",
-          "score": 98
-        },
-        {
-          "keyword": "how old is bill clinton",
-          "score": 97
-        },
-        {
-          "keyword": "barcelona vs atlético madrid",
-          "score": 96
-        },
-        {
-          "keyword": "tom steyer",
-          "score": 95
-        },
-        {
-          "keyword": "big arch burger",
-          "score": 94
-        },
-        {
-          "keyword": "darius garland",
-          "score": 93
-        },
-        {
-          "keyword": "mark stoops",
-          "score": 92
-        },
-        {
-          "keyword": "kick",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T23:46:23.191Z",
       "geo": "US",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "syracuse university",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T23:19:08.652Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "celtics",
+          "score": 100
+        },
+        {
+          "keyword": "cooper flagg stats",
+          "score": 99
+        },
+        {
+          "keyword": "mavericks vs celtics",
+          "score": 98
+        },
+        {
+          "keyword": "puerto rico vs colombia",
+          "score": 97
+        },
+        {
+          "keyword": "shannon bream",
+          "score": 96
+        },
+        {
+          "keyword": "kamilla rakhimova",
+          "score": 95
+        },
+        {
+          "keyword": "vrt stock",
+          "score": 94
+        },
+        {
+          "keyword": "katie couric",
+          "score": 93
+        },
+        {
+          "keyword": "usa vs brazil baseball",
+          "score": 92
+        },
+        {
+          "keyword": "marlon wayans",
           "score": 91
         }
       ]
