@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T09:05:00.803Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "target",
-          "score": 100
-        },
-        {
-          "keyword": "умар джабраилов",
-          "score": 99
-        },
-        {
-          "keyword": "turkey",
-          "score": 98
-        },
-        {
-          "keyword": "elena pridankina",
-          "score": 97
-        },
-        {
-          "keyword": "teodora kostovic",
-          "score": 96
-        },
-        {
-          "keyword": "laura pigossi",
-          "score": 95
-        },
-        {
-          "keyword": "aramco",
-          "score": 94
-        },
-        {
-          "keyword": "earthquake san ramon",
-          "score": 93
-        },
-        {
-          "keyword": "earthquake near me",
-          "score": 92
-        },
-        {
-          "keyword": "us embassy kuwait",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T10:09:49.616Z",
       "geo": "US",
       "source": "google",
@@ -4933,6 +4886,53 @@
         },
         {
           "keyword": "algiers",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T09:59:44.404Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "school closings ma",
+          "score": 100
+        },
+        {
+          "keyword": "laptop",
+          "score": 99
+        },
+        {
+          "keyword": "cars",
+          "score": 98
+        },
+        {
+          "keyword": "online lottery",
+          "score": 97
+        },
+        {
+          "keyword": "st petersburg",
+          "score": 96
+        },
+        {
+          "keyword": "hangzhou",
+          "score": 95
+        },
+        {
+          "keyword": "war machine 2026",
+          "score": 94
+        },
+        {
+          "keyword": "casablanca",
+          "score": 93
+        },
+        {
+          "keyword": "belo horizonte",
+          "score": 92
+        },
+        {
+          "keyword": "pune",
           "score": 91
         }
       ]
