@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T21:23:59.486Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "big arch",
-          "score": 100
-        },
-        {
-          "keyword": "connor murphy",
-          "score": 99
-        },
-        {
-          "keyword": "dallas weather",
-          "score": 98
-        },
-        {
-          "keyword": "carole radziwill",
-          "score": 97
-        },
-        {
-          "keyword": "gang of 8",
-          "score": 96
-        },
-        {
-          "keyword": "madrid",
-          "score": 95
-        },
-        {
-          "keyword": "strait of hormuz closed",
-          "score": 94
-        },
-        {
-          "keyword": "ryan zinke",
-          "score": 93
-        },
-        {
-          "keyword": "gulf of oman",
-          "score": 92
-        },
-        {
-          "keyword": "todd meadows",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T21:54:47.593Z",
       "geo": "US",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "oracle stock",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T21:50:16.312Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "how old is bill clinton",
+          "score": 100
+        },
+        {
+          "keyword": "condoleezza rice",
+          "score": 99
+        },
+        {
+          "keyword": "brennan othmann",
+          "score": 98
+        },
+        {
+          "keyword": "celtics game",
+          "score": 97
+        },
+        {
+          "keyword": "arnold palmer invitational leaderboard",
+          "score": 96
+        },
+        {
+          "keyword": "lorenzo musetti",
+          "score": 95
+        },
+        {
+          "keyword": "meghan markle",
+          "score": 94
+        },
+        {
+          "keyword": "ryan kelly",
+          "score": 93
+        },
+        {
+          "keyword": "aryna sabalenka",
+          "score": 92
+        },
+        {
+          "keyword": "three rivers tornado",
           "score": 91
         }
       ]

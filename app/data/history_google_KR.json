@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T21:24:00.928Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "madrid vs getafe",
-          "score": 100
-        },
-        {
-          "keyword": "real madrid vs getafe",
-          "score": 99
-        },
-        {
-          "keyword": "레알마드리드",
-          "score": 98
-        },
-        {
-          "keyword": "레알 마드리드 대 헤타페",
-          "score": 97
-        },
-        {
-          "keyword": "다시보기",
-          "score": 96
-        },
-        {
-          "keyword": "오달수",
-          "score": 95
-        },
-        {
-          "keyword": "17e",
-          "score": 94
-        },
-        {
-          "keyword": "나스닥",
-          "score": 93
-        },
-        {
-          "keyword": "아이폰 17e",
-          "score": 92
-        },
-        {
-          "keyword": "s&p 500",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T21:54:49.079Z",
       "geo": "KR",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "fa컵",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T21:50:17.433Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "알렉산더 즈베레프",
+          "score": 100
+        },
+        {
+          "keyword": "วุลฟส์ พบ ลิเวอร์พูล",
+          "score": 99
+        },
+        {
+          "keyword": "celta vs madrid",
+          "score": 98
+        },
+        {
+          "keyword": "m",
+          "score": 97
+        },
+        {
+          "keyword": "celta vigo vs real madrid",
+          "score": 96
+        },
+        {
+          "keyword": "wolves vs liverpool",
+          "score": 95
+        },
+        {
+          "keyword": "울브스 대 리버풀",
+          "score": 94
+        },
+        {
+          "keyword": "psg 대 as 모나코",
+          "score": 93
+        },
+        {
+          "keyword": "psg",
+          "score": 92
+        },
+        {
+          "keyword": "셀타 비고 대 레알 마드리드",
           "score": 91
         }
       ]
