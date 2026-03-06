@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-01T23:42:31.169Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "나스닥 선물",
-          "score": 100
-        },
-        {
-          "keyword": "달러 원 환율",
-          "score": 99
-        },
-        {
-          "keyword": "뉴스속보",
-          "score": 98
-        },
-        {
-          "keyword": "天気",
-          "score": 97
-        },
-        {
-          "keyword": "국민체력100",
-          "score": 96
-        },
-        {
-          "keyword": "날씨",
-          "score": 95
-        },
-        {
-          "keyword": "roma vs juventus",
-          "score": 94
-        },
-        {
-          "keyword": "weather",
-          "score": 93
-        },
-        {
-          "keyword": "그록",
-          "score": 92
-        },
-        {
-          "keyword": "동아일보",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-02T01:11:14.532Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "박용호",
-          "score": 100
-        },
-        {
-          "keyword": "investing",
-          "score": 99
-        },
-        {
-          "keyword": "gold price",
-          "score": 98
-        },
-        {
-          "keyword": "부산날씨",
-          "score": 97
-        },
-        {
-          "keyword": "금시세",
-          "score": 96
-        },
-        {
-          "keyword": "wti",
-          "score": 95
-        },
-        {
-          "keyword": "나스닥 선물",
-          "score": 94
-        },
-        {
-          "keyword": "달러 원 환율",
-          "score": 93
-        },
-        {
-          "keyword": "뉴스속보",
-          "score": 92
-        },
-        {
-          "keyword": "국민체력100",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T03:40:57.448Z",
       "geo": "KR",
       "source": "google",
@@ -4886,6 +4792,53 @@
         },
         {
           "keyword": "epl",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T01:15:20.319Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "에스팀",
+          "score": 100
+        },
+        {
+          "keyword": "카나프테라퓨틱스",
+          "score": 99
+        },
+        {
+          "keyword": "크리스티 놈",
+          "score": 98
+        },
+        {
+          "keyword": "미래엔",
+          "score": 97
+        },
+        {
+          "keyword": "한국투자증권",
+          "score": 96
+        },
+        {
+          "keyword": "한화솔루션",
+          "score": 95
+        },
+        {
+          "keyword": "영남대",
+          "score": 94
+        },
+        {
+          "keyword": "pl",
+          "score": 93
+        },
+        {
+          "keyword": "gpt 5.4",
+          "score": 92
+        },
+        {
+          "keyword": "오늘 날씨",
           "score": 91
         }
       ]
