@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T20:36:30.483Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "레알 마드리드 대 헤타페",
-          "score": 100
-        },
-        {
-          "keyword": "다시보기",
-          "score": 99
-        },
-        {
-          "keyword": "오달수",
-          "score": 98
-        },
-        {
-          "keyword": "17e",
-          "score": 97
-        },
-        {
-          "keyword": "나스닥",
-          "score": 96
-        },
-        {
-          "keyword": "아이폰 17e",
-          "score": 95
-        },
-        {
-          "keyword": "s&p 500",
-          "score": 94
-        },
-        {
-          "keyword": "나스닥 지수",
-          "score": 93
-        },
-        {
-          "keyword": "nasdaq",
-          "score": 92
-        },
-        {
-          "keyword": "apple",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T21:24:00.928Z",
       "geo": "KR",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "vix",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T20:52:51.536Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "울브스 대 리버풀",
+          "score": 100
+        },
+        {
+          "keyword": "psg 대 as 모나코",
+          "score": 99
+        },
+        {
+          "keyword": "psg",
+          "score": 98
+        },
+        {
+          "keyword": "셀타 비고 대 레알 마드리드",
+          "score": 97
+        },
+        {
+          "keyword": "바이에른 대 묀헨글라트바흐",
+          "score": 96
+        },
+        {
+          "keyword": "바이에른 뮌헨",
+          "score": 95
+        },
+        {
+          "keyword": "fa컵",
+          "score": 94
+        },
+        {
+          "keyword": "이안",
+          "score": 93
+        },
+        {
+          "keyword": "최가온",
+          "score": 92
+        },
+        {
+          "keyword": "츠키",
           "score": 91
         }
       ]
