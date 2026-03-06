@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T18:33:06.575Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "twitch",
-          "score": 100
-        },
-        {
-          "keyword": "佐藤健",
-          "score": 99
-        },
-        {
-          "keyword": "松田聖子",
-          "score": 98
-        },
-        {
-          "keyword": "上坂すみれ",
-          "score": 97
-        },
-        {
-          "keyword": "マリーアントワネット",
-          "score": 96
-        },
-        {
-          "keyword": "菊池風磨",
-          "score": 95
-        },
-        {
-          "keyword": "地面師たち",
-          "score": 94
-        },
-        {
-          "keyword": "iphone18",
-          "score": 93
-        },
-        {
-          "keyword": "高橋真麻",
-          "score": 92
-        },
-        {
-          "keyword": "ipad air m4",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T19:30:01.030Z",
       "geo": "JP",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "前園真聖",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T18:40:52.965Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "東京 雪",
+          "score": 100
+        },
+        {
+          "keyword": "twitch",
+          "score": 99
+        },
+        {
+          "keyword": "ベネズエラ wbc",
+          "score": 98
+        },
+        {
+          "keyword": "無条件降伏",
+          "score": 97
+        },
+        {
+          "keyword": "やすこ",
+          "score": 96
+        },
+        {
+          "keyword": "シビック",
+          "score": 95
+        },
+        {
+          "keyword": "モイネロ",
+          "score": 94
+        },
+        {
+          "keyword": "デスパイネ",
+          "score": 93
+        },
+        {
+          "keyword": "遅刻",
+          "score": 92
+        },
+        {
+          "keyword": "ダウ90000",
           "score": 91
         }
       ]
