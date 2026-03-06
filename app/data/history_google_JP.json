@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T14:36:40.375Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ファイアレッド サファリゾーン",
-          "score": 100
-        },
-        {
-          "keyword": "高橋ひかる",
-          "score": 99
-        },
-        {
-          "keyword": "高橋由伸",
-          "score": 98
-        },
-        {
-          "keyword": "溝口勇児",
-          "score": 97
-        },
-        {
-          "keyword": "高宮まり",
-          "score": 96
-        },
-        {
-          "keyword": "金子誠",
-          "score": 95
-        },
-        {
-          "keyword": "工藤静香",
-          "score": 94
-        },
-        {
-          "keyword": "北村有起哉",
-          "score": 93
-        },
-        {
-          "keyword": "サンエックス",
-          "score": 92
-        },
-        {
-          "keyword": "北川健太郎",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T15:33:08.337Z",
       "geo": "JP",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "バイオリニスト",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T15:04:22.170Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "日光",
+          "score": 100
+        },
+        {
+          "keyword": "日本アカデミー賞",
+          "score": 99
+        },
+        {
+          "keyword": "内田明日香被告",
+          "score": 98
+        },
+        {
+          "keyword": "中島健人",
+          "score": 97
+        },
+        {
+          "keyword": "重岡大毅",
+          "score": 96
+        },
+        {
+          "keyword": "鈴木保奈美",
+          "score": 95
+        },
+        {
+          "keyword": "水ト麻美",
+          "score": 94
+        },
+        {
+          "keyword": "生田斗真",
+          "score": 93
+        },
+        {
+          "keyword": "前山剛久",
+          "score": 92
+        },
+        {
+          "keyword": "中村倫也",
           "score": 91
         }
       ]
