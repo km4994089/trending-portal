@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T11:49:49.539Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cuaca besok",
-          "score": 100
-        },
-        {
-          "keyword": "ihi",
-          "score": 99
-        },
-        {
-          "keyword": "戸塚純貴 ドラマ",
-          "score": 98
-        },
-        {
-          "keyword": "山口県",
-          "score": 97
-        },
-        {
-          "keyword": "岡本和真",
-          "score": 96
-        },
-        {
-          "keyword": "石原さとみ",
-          "score": 95
-        },
-        {
-          "keyword": "下関競艇",
-          "score": 94
-        },
-        {
-          "keyword": "牧原大成",
-          "score": 93
-        },
-        {
-          "keyword": "thời tiết ngày mai",
-          "score": 92
-        },
-        {
-          "keyword": "水上 恒司 結婚",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T12:35:11.662Z",
       "geo": "JP",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "wc",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T12:32:36.631Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "北山",
+          "score": 100
+        },
+        {
+          "keyword": "佐藤輝明",
+          "score": 99
+        },
+        {
+          "keyword": "田村真子",
+          "score": 98
+        },
+        {
+          "keyword": "戸田恵梨香",
+          "score": 97
+        },
+        {
+          "keyword": "たくろう",
+          "score": 96
+        },
+        {
+          "keyword": "北山亘基",
+          "score": 95
+        },
+        {
+          "keyword": "森下翔太",
+          "score": 94
+        },
+        {
+          "keyword": "snowman",
+          "score": 93
+        },
+        {
+          "keyword": "レミオロメン",
+          "score": 92
+        },
+        {
+          "keyword": "ヨルダン",
           "score": 91
         }
       ]

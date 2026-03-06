@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T11:49:47.460Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "columbus city schools",
-          "score": 100
-        },
-        {
-          "keyword": "columbus weather",
-          "score": 99
-        },
-        {
-          "keyword": "lmt stock",
-          "score": 98
-        },
-        {
-          "keyword": "chevron stock",
-          "score": 97
-        },
-        {
-          "keyword": "palantir stock",
-          "score": 96
-        },
-        {
-          "keyword": "school delays",
-          "score": 95
-        },
-        {
-          "keyword": "severe flood risk",
-          "score": 94
-        },
-        {
-          "keyword": "1",
-          "score": 93
-        },
-        {
-          "keyword": "winter weather advisory",
-          "score": 92
-        },
-        {
-          "keyword": "умар джабраилов",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T12:35:08.931Z",
       "geo": "US",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "gunky wordle",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T12:32:33.860Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "weather tornado warning",
+          "score": 100
+        },
+        {
+          "keyword": "djia futures",
+          "score": 99
+        },
+        {
+          "keyword": "islanders",
+          "score": 98
+        },
+        {
+          "keyword": "dow jones futures",
+          "score": 97
+        },
+        {
+          "keyword": "daylight savings 2026",
+          "score": 96
+        },
+        {
+          "keyword": "magic city atlanta",
+          "score": 95
+        },
+        {
+          "keyword": "vincent trocheck",
+          "score": 94
+        },
+        {
+          "keyword": "world baseball classic 2026",
+          "score": 93
+        },
+        {
+          "keyword": "india women vs australia women",
+          "score": 92
+        },
+        {
+          "keyword": "fairview ok",
           "score": 91
         }
       ]
