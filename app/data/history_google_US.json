@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T21:54:47.593Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "marco rubio",
-          "score": 100
-        },
-        {
-          "keyword": "asts stock",
-          "score": 99
-        },
-        {
-          "keyword": "graham glasgow",
-          "score": 98
-        },
-        {
-          "keyword": "mdb stock",
-          "score": 97
-        },
-        {
-          "keyword": "big arch",
-          "score": 96
-        },
-        {
-          "keyword": "connor murphy",
-          "score": 95
-        },
-        {
-          "keyword": "dallas weather",
-          "score": 94
-        },
-        {
-          "keyword": "carole radziwill",
-          "score": 93
-        },
-        {
-          "keyword": "gang of 8",
-          "score": 92
-        },
-        {
-          "keyword": "madrid",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T22:18:47.081Z",
       "geo": "US",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "three rivers tornado",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T22:17:42.301Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "victor olofsson",
+          "score": 100
+        },
+        {
+          "keyword": "syracuse university",
+          "score": 99
+        },
+        {
+          "keyword": "reilly opelka",
+          "score": 98
+        },
+        {
+          "keyword": "ian huntley",
+          "score": 97
+        },
+        {
+          "keyword": "condoleezza rice",
+          "score": 96
+        },
+        {
+          "keyword": "celtics game",
+          "score": 95
+        },
+        {
+          "keyword": "lorenzo musetti",
+          "score": 94
+        },
+        {
+          "keyword": "how old is bill clinton",
+          "score": 93
+        },
+        {
+          "keyword": "meghan markle",
+          "score": 92
+        },
+        {
+          "keyword": "jacob battaglia",
           "score": 91
         }
       ]
