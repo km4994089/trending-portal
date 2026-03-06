@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T06:09:26.243Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "류현진",
-          "score": 100
-        },
-        {
-          "keyword": "대전 대 안양",
-          "score": 99
-        },
-        {
-          "keyword": "닛케이 지수",
-          "score": 98
-        },
-        {
-          "keyword": "wbc 평가전",
-          "score": 97
-        },
-        {
-          "keyword": "사이키 히로토",
-          "score": 96
-        },
-        {
-          "keyword": "이소나",
-          "score": 95
-        },
-        {
-          "keyword": "한신 타이거즈",
-          "score": 94
-        },
-        {
-          "keyword": "젠데이아",
-          "score": 93
-        },
-        {
-          "keyword": "kbs",
-          "score": 92
-        },
-        {
-          "keyword": "mbc",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T07:30:07.326Z",
       "geo": "KR",
       "source": "google",
@@ -4886,6 +4839,53 @@
         },
         {
           "keyword": "에스팀",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T07:11:35.765Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "호주 체코",
+          "score": 100
+        },
+        {
+          "keyword": "차주영",
+          "score": 99
+        },
+        {
+          "keyword": "2026 winter paralympics",
+          "score": 98
+        },
+        {
+          "keyword": "어디가",
+          "score": 97
+        },
+        {
+          "keyword": "2026년 동계 패럴림픽",
+          "score": 96
+        },
+        {
+          "keyword": "덴버 대 la 레이커스",
+          "score": 95
+        },
+        {
+          "keyword": "택시",
+          "score": 94
+        },
+        {
+          "keyword": "휴림로봇 주가",
+          "score": 93
+        },
+        {
+          "keyword": "경일대",
+          "score": 92
+        },
+        {
+          "keyword": "맞춤형복지",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T06:09:27.611Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "リユース",
-          "score": 100
-        },
-        {
-          "keyword": "陪審員",
-          "score": 99
-        },
-        {
-          "keyword": "wbcグッズ",
-          "score": 98
-        },
-        {
-          "keyword": "豊田自動織機",
-          "score": 97
-        },
-        {
-          "keyword": "小川晶",
-          "score": 96
-        },
-        {
-          "keyword": "ntt西日本",
-          "score": 95
-        },
-        {
-          "keyword": "八田英明",
-          "score": 94
-        },
-        {
-          "keyword": "川上憲伸",
-          "score": 93
-        },
-        {
-          "keyword": "宮古島",
-          "score": 92
-        },
-        {
-          "keyword": "ネトゲ速報",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T07:30:08.827Z",
       "geo": "JP",
       "source": "google",
@@ -4886,6 +4839,53 @@
         },
         {
           "keyword": "函館",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T07:11:37.130Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "北大",
+          "score": 100
+        },
+        {
+          "keyword": "京都市立芸術大学",
+          "score": 99
+        },
+        {
+          "keyword": "野村不動産",
+          "score": 98
+        },
+        {
+          "keyword": "テレビミセス",
+          "score": 97
+        },
+        {
+          "keyword": "ケプラー",
+          "score": 96
+        },
+        {
+          "keyword": "ギャリソンブルックス",
+          "score": 95
+        },
+        {
+          "keyword": "ベルーナドーム",
+          "score": 94
+        },
+        {
+          "keyword": "東芝",
+          "score": 93
+        },
+        {
+          "keyword": "クロちゃん",
+          "score": 92
+        },
+        {
+          "keyword": "琉球大学",
           "score": 91
         }
       ]
