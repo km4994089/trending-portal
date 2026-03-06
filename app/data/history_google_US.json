@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T15:33:05.479Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "scarpetta on prime",
-          "score": 100
-        },
-        {
-          "keyword": "apple stock price",
-          "score": 99
-        },
-        {
-          "keyword": "schd",
-          "score": 98
-        },
-        {
-          "keyword": "tsm stock",
-          "score": 97
-        },
-        {
-          "keyword": "boeing stock",
-          "score": 96
-        },
-        {
-          "keyword": "onds stock",
-          "score": 95
-        },
-        {
-          "keyword": "nasdaq index",
-          "score": 94
-        },
-        {
-          "keyword": "costco stock",
-          "score": 93
-        },
-        {
-          "keyword": "jamie lee curtis",
-          "score": 92
-        },
-        {
-          "keyword": "wagner moura",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-02T16:32:58.641Z",
       "geo": "US",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "gta vi",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T15:57:49.997Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "peter sarsgaard",
+          "score": 100
+        },
+        {
+          "keyword": "weather chicago",
+          "score": 99
+        },
+        {
+          "keyword": "radar",
+          "score": 98
+        },
+        {
+          "keyword": "bobby brink",
+          "score": 97
+        },
+        {
+          "keyword": "dillon brooks",
+          "score": 96
+        },
+        {
+          "keyword": "djia",
+          "score": 95
+        },
+        {
+          "keyword": "valerie bertinelli",
+          "score": 94
+        },
+        {
+          "keyword": "jesse jackson funeral",
+          "score": 93
+        },
+        {
+          "keyword": "international womens day",
+          "score": 92
+        },
+        {
+          "keyword": "spy stock",
           "score": 91
         }
       ]
