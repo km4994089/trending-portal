@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T23:46:26.330Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "朝ドラ 次",
-          "score": 100
-        },
-        {
-          "keyword": "田村真子",
-          "score": 99
-        },
-        {
-          "keyword": "山田あい",
-          "score": 98
-        },
-        {
-          "keyword": "ばけばけ やぶ医者",
-          "score": 97
-        },
-        {
-          "keyword": "夏帆",
-          "score": 96
-        },
-        {
-          "keyword": "国債",
-          "score": 95
-        },
-        {
-          "keyword": "南武線",
-          "score": 94
-        },
-        {
-          "keyword": "雛祭り",
-          "score": 93
-        },
-        {
-          "keyword": "エスターバニー セブンイレブン",
-          "score": 92
-        },
-        {
-          "keyword": "ホタルイカ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T01:14:00.466Z",
       "geo": "JP",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "王様のブランチ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T23:46:59.638Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "稲村亜美",
+          "score": 100
+        },
+        {
+          "keyword": "ピエトロ",
+          "score": 99
+        },
+        {
+          "keyword": "唐津競艇",
+          "score": 98
+        },
+        {
+          "keyword": "京浜東北線",
+          "score": 97
+        },
+        {
+          "keyword": "井森美幸",
+          "score": 96
+        },
+        {
+          "keyword": "嵐 ライブ",
+          "score": 95
+        },
+        {
+          "keyword": "上垣皓太朗",
+          "score": 94
+        },
+        {
+          "keyword": "小僧寿し",
+          "score": 93
+        },
+        {
+          "keyword": "原菜乃華",
+          "score": 92
+        },
+        {
+          "keyword": "名古屋ウィメンズマラソン 交通規制",
           "score": 91
         }
       ]

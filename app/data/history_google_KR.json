@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-02T23:46:24.730Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "숙명여대",
-          "score": 100
-        },
-        {
-          "keyword": "성균관대학교",
-          "score": 99
-        },
-        {
-          "keyword": "gil vicente vs benfica",
-          "score": 98
-        },
-        {
-          "keyword": "교복",
-          "score": 97
-        },
-        {
-          "keyword": "버스",
-          "score": 96
-        },
-        {
-          "keyword": "운세",
-          "score": 95
-        },
-        {
-          "keyword": "เรอัลมาดริด พบ เคตาเฟ",
-          "score": 94
-        },
-        {
-          "keyword": "대전 날씨",
-          "score": 93
-        },
-        {
-          "keyword": "라리가",
-          "score": 92
-        },
-        {
-          "keyword": "연합뉴스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T01:13:59.162Z",
       "geo": "KR",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "วุลฟส์ พบ ลิเวอร์พูล",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-06T23:46:57.981Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "เซลตา พบ เรอัลมาดริด",
+          "score": 100
+        },
+        {
+          "keyword": "라리가",
+          "score": 99
+        },
+        {
+          "keyword": "wolves đấu với liverpool",
+          "score": 98
+        },
+        {
+          "keyword": "天気",
+          "score": 97
+        },
+        {
+          "keyword": "celta đấu với real madrid",
+          "score": 96
+        },
+        {
+          "keyword": "psg vs monaco",
+          "score": 95
+        },
+        {
+          "keyword": "сельта – реал мадрид",
+          "score": 94
+        },
+        {
+          "keyword": "테슬라 주가",
+          "score": 93
+        },
+        {
+          "keyword": "오라클",
+          "score": 92
+        },
+        {
+          "keyword": "알렉산더 즈베레프",
           "score": 91
         }
       ]
