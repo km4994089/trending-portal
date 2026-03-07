@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T21:53:40.296Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "barca",
-          "score": 100
-        },
-        {
-          "keyword": "nec 対 psv",
-          "score": 99
-        },
-        {
-          "keyword": "反町隆史",
-          "score": 98
-        },
-        {
-          "keyword": "アド顔出し",
-          "score": 97
-        },
-        {
-          "keyword": "園子温",
-          "score": 96
-        },
-        {
-          "keyword": "barcelona vs atlético madrid",
-          "score": 95
-        },
-        {
-          "keyword": "今日の天気",
-          "score": 94
-        },
-        {
-          "keyword": "新幹線",
-          "score": 93
-        },
-        {
-          "keyword": "ニール・セダカ",
-          "score": 92
-        },
-        {
-          "keyword": "大阪市天気",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T22:18:48.702Z",
       "geo": "JP",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "youtube エヴァンゲリオン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T22:13:04.719Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "小栗旬",
+          "score": 100
+        },
+        {
+          "keyword": "ラピスラズリ",
+          "score": 99
+        },
+        {
+          "keyword": "岡田将生",
+          "score": 98
+        },
+        {
+          "keyword": "日大三",
+          "score": 97
+        },
+        {
+          "keyword": "newcastle đấu với man city",
+          "score": 96
+        },
+        {
+          "keyword": "僕らの時代",
+          "score": 95
+        },
+        {
+          "keyword": "ジローラモ",
+          "score": 94
+        },
+        {
+          "keyword": "日経平均先物",
+          "score": 93
+        },
+        {
+          "keyword": "イラン軍",
+          "score": 92
+        },
+        {
+          "keyword": "al-nassr vs neom",
           "score": 91
         }
       ]
