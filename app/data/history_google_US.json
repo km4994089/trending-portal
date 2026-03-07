@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T05:09:50.961Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "al horford",
-          "score": 100
-        },
-        {
-          "keyword": "jafar panahi",
-          "score": 99
-        },
-        {
-          "keyword": "nuggets",
-          "score": 98
-        },
-        {
-          "keyword": "nicholas braimbridge tony cooper",
-          "score": 97
-        },
-        {
-          "keyword": "joe rogan",
-          "score": 96
-        },
-        {
-          "keyword": "200 block e howard ave",
-          "score": 95
-        },
-        {
-          "keyword": "nikola jokić",
-          "score": 94
-        },
-        {
-          "keyword": "u of a basketball",
-          "score": 93
-        },
-        {
-          "keyword": "gui santos",
-          "score": 92
-        },
-        {
-          "keyword": "kawhi leonard",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T06:06:40.997Z",
       "geo": "US",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "arnold schwarzenegger",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T05:32:19.917Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lakers game",
+          "score": 100
+        },
+        {
+          "keyword": "max verstappen",
+          "score": 99
+        },
+        {
+          "keyword": "austin reaves",
+          "score": 98
+        },
+        {
+          "keyword": "jason bateman new show",
+          "score": 97
+        },
+        {
+          "keyword": "justin champagnie",
+          "score": 96
+        },
+        {
+          "keyword": "sj sharks",
+          "score": 95
+        },
+        {
+          "keyword": "jason bateman",
+          "score": 94
+        },
+        {
+          "keyword": "marcos giron",
+          "score": 93
+        },
+        {
+          "keyword": "mr beast",
+          "score": 92
+        },
+        {
+          "keyword": "morehead state basketball",
           "score": 91
         }
       ]
