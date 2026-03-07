@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T11:05:59.604Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "풍산",
-          "score": 100
-        },
-        {
-          "keyword": "nxt",
-          "score": 99
-        },
-        {
-          "keyword": "강원 대 마치다 젤비아",
-          "score": 98
-        },
-        {
-          "keyword": "เมลเบิร์น ซิตี้ พบ บุรีรัมย์ ยูไนเต็ด",
-          "score": 97
-        },
-        {
-          "keyword": "천궁2",
-          "score": 96
-        },
-        {
-          "keyword": "삼겹살 데이",
-          "score": 95
-        },
-        {
-          "keyword": "유지태",
-          "score": 94
-        },
-        {
-          "keyword": "배기성",
-          "score": 93
-        },
-        {
-          "keyword": "김선태",
-          "score": 92
-        },
-        {
-          "keyword": "미래엔",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T11:51:34.714Z",
       "geo": "KR",
       "source": "google",
@@ -5262,6 +5215,53 @@
         },
         {
           "keyword": "안양 정관장 대 대구 한국가스공사",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T11:12:02.879Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "야마모토",
+          "score": 100
+        },
+        {
+          "keyword": "저마이 존스",
+          "score": 99
+        },
+        {
+          "keyword": "김혜성",
+          "score": 98
+        },
+        {
+          "keyword": "류현진",
+          "score": 97
+        },
+        {
+          "keyword": "야구 중계",
+          "score": 96
+        },
+        {
+          "keyword": "티빙",
+          "score": 95
+        },
+        {
+          "keyword": "야구중계",
+          "score": 94
+        },
+        {
+          "keyword": "mbc",
+          "score": 93
+        },
+        {
+          "keyword": "kbs",
+          "score": 92
+        },
+        {
+          "keyword": "sbs",
           "score": 91
         }
       ]
