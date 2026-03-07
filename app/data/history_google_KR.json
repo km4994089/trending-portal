@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T21:25:11.186Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "롤 점검",
-          "score": 100
-        },
-        {
-          "keyword": "s&p 500",
-          "score": 99
-        },
-        {
-          "keyword": "리니지클래식",
-          "score": 98
-        },
-        {
-          "keyword": "바르셀로나",
-          "score": 97
-        },
-        {
-          "keyword": "barcelona",
-          "score": 96
-        },
-        {
-          "keyword": "울브스 대 리버풀",
-          "score": 95
-        },
-        {
-          "keyword": "에버턴 대 번리",
-          "score": 94
-        },
-        {
-          "keyword": "야구여왕 시즌2",
-          "score": 93
-        },
-        {
-          "keyword": "dc",
-          "score": 92
-        },
-        {
-          "keyword": "giá vàng hôm nay",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T21:53:38.877Z",
       "geo": "KR",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "international women's day",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T21:40:26.775Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "athletic club vs barcelona",
+          "score": 100
+        },
+        {
+          "keyword": "바르셀로나",
+          "score": 99
+        },
+        {
+          "keyword": "เร็กซ์แฮม พบ เชลซี",
+          "score": 98
+        },
+        {
+          "keyword": "newcastle vs man city",
+          "score": 97
+        },
+        {
+          "keyword": "전영 오픈 배드민턴 챔피언십",
+          "score": 96
+        },
+        {
+          "keyword": "아틀레틱 대 바르셀로나",
+          "score": 95
+        },
+        {
+          "keyword": "베식타스",
+          "score": 94
+        },
+        {
+          "keyword": "세계 여성의 날 행사",
+          "score": 93
+        },
+        {
+          "keyword": "wrexham vs chelsea",
+          "score": 92
+        },
+        {
+          "keyword": "atlético madrid vs real sociedad",
           "score": 91
         }
       ]

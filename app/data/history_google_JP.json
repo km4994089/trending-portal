@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T21:25:12.657Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "東京 天気",
-          "score": 100
-        },
-        {
-          "keyword": "個人向け国債",
-          "score": 99
-        },
-        {
-          "keyword": "交通情報",
-          "score": 98
-        },
-        {
-          "keyword": "高速道路",
-          "score": 97
-        },
-        {
-          "keyword": "京急",
-          "score": 96
-        },
-        {
-          "keyword": "barcelona",
-          "score": 95
-        },
-        {
-          "keyword": "バルサ",
-          "score": 94
-        },
-        {
-          "keyword": "望月慎太郎",
-          "score": 93
-        },
-        {
-          "keyword": "日経先物",
-          "score": 92
-        },
-        {
-          "keyword": "wolves vs liverpool",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T21:53:40.296Z",
       "geo": "JP",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "ユヴェントス 対 ピサ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T21:40:27.979Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "イラン軍",
+          "score": 100
+        },
+        {
+          "keyword": "al-nassr vs neom",
+          "score": 99
+        },
+        {
+          "keyword": "ヤンマガ",
+          "score": 98
+        },
+        {
+          "keyword": "土星",
+          "score": 97
+        },
+        {
+          "keyword": "セブンイレブン おにぎり",
+          "score": 96
+        },
+        {
+          "keyword": "坂本冬美",
+          "score": 95
+        },
+        {
+          "keyword": "パーキンソン病",
+          "score": 94
+        },
+        {
+          "keyword": "新千歳空港",
+          "score": 93
+        },
+        {
+          "keyword": "池脇千鶴",
+          "score": 92
+        },
+        {
+          "keyword": "youtube エヴァンゲリオン",
           "score": 91
         }
       ]
