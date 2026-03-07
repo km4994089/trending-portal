@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T20:53:33.103Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jr東日本",
-          "score": 100
-        },
-        {
-          "keyword": "運行情報",
-          "score": 99
-        },
-        {
-          "keyword": "京急",
-          "score": 98
-        },
-        {
-          "keyword": "barcelona",
-          "score": 97
-        },
-        {
-          "keyword": "バルサ",
-          "score": 96
-        },
-        {
-          "keyword": "望月慎太郎",
-          "score": 95
-        },
-        {
-          "keyword": "天気予報 千葉",
-          "score": 94
-        },
-        {
-          "keyword": "wolves vs liverpool",
-          "score": 93
-        },
-        {
-          "keyword": "リヴァプール",
-          "score": 92
-        },
-        {
-          "keyword": "任天堂 株価",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T21:25:12.657Z",
       "geo": "JP",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "ビルバオ 対 バルセロナ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T21:12:28.064Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "土星",
+          "score": 100
+        },
+        {
+          "keyword": "セブンイレブン おにぎり",
+          "score": 99
+        },
+        {
+          "keyword": "坂本冬美",
+          "score": 98
+        },
+        {
+          "keyword": "パーキンソン病",
+          "score": 97
+        },
+        {
+          "keyword": "新千歳空港",
+          "score": 96
+        },
+        {
+          "keyword": "池脇千鶴",
+          "score": 95
+        },
+        {
+          "keyword": "youtube エヴァンゲリオン",
+          "score": 94
+        },
+        {
+          "keyword": "片岡仁左衛門",
+          "score": 93
+        },
+        {
+          "keyword": "菅楓華",
+          "score": 92
+        },
+        {
+          "keyword": "ユヴェントス 対 ピサ",
           "score": 91
         }
       ]

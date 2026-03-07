@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T20:53:31.672Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "바르셀로나",
-          "score": 100
-        },
-        {
-          "keyword": "barcelona",
-          "score": 99
-        },
-        {
-          "keyword": "울브스 대 리버풀",
-          "score": 98
-        },
-        {
-          "keyword": "에버턴 대 번리",
-          "score": 97
-        },
-        {
-          "keyword": "야구여왕 시즌2",
-          "score": 96
-        },
-        {
-          "keyword": "dc",
-          "score": 95
-        },
-        {
-          "keyword": "환율 달러 원",
-          "score": 94
-        },
-        {
-          "keyword": "persija jakarta vs borneo fc",
-          "score": 93
-        },
-        {
-          "keyword": "giá vàng hôm nay",
-          "score": 92
-        },
-        {
-          "keyword": "금",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T21:25:11.186Z",
       "geo": "KR",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "여성의날",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T21:12:26.797Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "전영오픈",
+          "score": 100
+        },
+        {
+          "keyword": "아틀레틱 대 바르셀로나",
+          "score": 99
+        },
+        {
+          "keyword": "베식타스",
+          "score": 98
+        },
+        {
+          "keyword": "wrexham vs chelsea",
+          "score": 97
+        },
+        {
+          "keyword": "atlético madrid vs real sociedad",
+          "score": 96
+        },
+        {
+          "keyword": "첼시",
+          "score": 95
+        },
+        {
+          "keyword": "렉섬 대 첼시",
+          "score": 94
+        },
+        {
+          "keyword": "아틀레티코 대 레알 소시에다드",
+          "score": 93
+        },
+        {
+          "keyword": "마인츠",
+          "score": 92
+        },
+        {
+          "keyword": "international women's day",
           "score": 91
         }
       ]
