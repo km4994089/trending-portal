@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T19:33:56.239Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "wolves vs liverpool",
-          "score": 100
-        },
-        {
-          "keyword": "john thune",
-          "score": 99
-        },
-        {
-          "keyword": "robert thomas",
-          "score": 98
-        },
-        {
-          "keyword": "barca",
-          "score": 97
-        },
-        {
-          "keyword": "everton vs burnley",
-          "score": 96
-        },
-        {
-          "keyword": "leeds united vs sunderland",
-          "score": 95
-        },
-        {
-          "keyword": "bournemouth vs brentford",
-          "score": 94
-        },
-        {
-          "keyword": "max crosby",
-          "score": 93
-        },
-        {
-          "keyword": "sidney dorsey",
-          "score": 92
-        },
-        {
-          "keyword": "lamar odom",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T20:22:44.266Z",
       "geo": "US",
       "source": "google",
@@ -5591,6 +5544,53 @@
         },
         {
           "keyword": "al-nassr vs neom",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T19:40:42.744Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "elena rybakina",
+          "score": 100
+        },
+        {
+          "keyword": "casper ruud",
+          "score": 99
+        },
+        {
+          "keyword": "acc tournament bracket",
+          "score": 98
+        },
+        {
+          "keyword": "toulouse vs marseille",
+          "score": 97
+        },
+        {
+          "keyword": "athletic - barcelona",
+          "score": 96
+        },
+        {
+          "keyword": "newcastle vs man city",
+          "score": 95
+        },
+        {
+          "keyword": "magic vs timberwolves",
+          "score": 94
+        },
+        {
+          "keyword": "arizona state vs iowa state",
+          "score": 93
+        },
+        {
+          "keyword": "louisville vs miami fl",
+          "score": 92
+        },
+        {
+          "keyword": "vanderbilt vs tennessee",
           "score": 91
         }
       ]
