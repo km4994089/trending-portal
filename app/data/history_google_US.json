@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T11:51:33.399Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "happy holi",
-          "score": 100
-        },
-        {
-          "keyword": "waterbury public schools",
-          "score": 99
-        },
-        {
-          "keyword": "josh duhamel",
-          "score": 98
-        },
-        {
-          "keyword": "texas lottery",
-          "score": 97
-        },
-        {
-          "keyword": "chase pistone",
-          "score": 96
-        },
-        {
-          "keyword": "today's weather",
-          "score": 95
-        },
-        {
-          "keyword": "ny lottery",
-          "score": 94
-        },
-        {
-          "keyword": "powerball",
-          "score": 93
-        },
-        {
-          "keyword": "nasa",
-          "score": 92
-        },
-        {
-          "keyword": "winter weather advisory",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T12:34:19.641Z",
       "geo": "US",
       "source": "google",
@@ -5309,6 +5262,53 @@
         },
         {
           "keyword": "injury attorney",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T12:26:06.353Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "osasuna - r.c.d. mallorca",
+          "score": 100
+        },
+        {
+          "keyword": "scout motors",
+          "score": 99
+        },
+        {
+          "keyword": "indianapolis weather",
+          "score": 98
+        },
+        {
+          "keyword": "fa cup fixtures",
+          "score": 97
+        },
+        {
+          "keyword": "wrexham vs chelsea",
+          "score": 96
+        },
+        {
+          "keyword": "ivan miller",
+          "score": 95
+        },
+        {
+          "keyword": "ios 26.3.1",
+          "score": 94
+        },
+        {
+          "keyword": "charlie ward",
+          "score": 93
+        },
+        {
+          "keyword": "patchy mix",
+          "score": 92
+        },
+        {
+          "keyword": "gate river run 2026",
           "score": 91
         }
       ]
