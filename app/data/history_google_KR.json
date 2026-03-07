@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T22:50:51.897Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "노태악",
-          "score": 100
-        },
-        {
-          "keyword": "오늘의 운세",
-          "score": 99
-        },
-        {
-          "keyword": "뉴스",
-          "score": 98
-        },
-        {
-          "keyword": "밀워키 대 보스턴",
-          "score": 97
-        },
-        {
-          "keyword": "금시세",
-          "score": 96
-        },
-        {
-          "keyword": "premier league",
-          "score": 95
-        },
-        {
-          "keyword": "바르셀로나 대 아틀레티코",
-          "score": 94
-        },
-        {
-          "keyword": "วูล์ฟแฮมป์ตัน พบ ลิเวอร์พูล",
-          "score": 93
-        },
-        {
-          "keyword": "wolves vs liverpool",
-          "score": 92
-        },
-        {
-          "keyword": "롤 점검",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T23:17:46.454Z",
       "geo": "KR",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "세계 여성의 날 행사",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T23:13:35.712Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "노바크 조코비치",
+          "score": 100
+        },
+        {
+          "keyword": "ньюкасл юнайтед – манчестер сити",
+          "score": 99
+        },
+        {
+          "keyword": "newcastle đấu với man city",
+          "score": 98
+        },
+        {
+          "keyword": "นิวคาสเซิล พบ แมนซิตี",
+          "score": 97
+        },
+        {
+          "keyword": "athletic club vs barcelona",
+          "score": 96
+        },
+        {
+          "keyword": "바르셀로나",
+          "score": 95
+        },
+        {
+          "keyword": "เร็กซ์แฮม พบ เชลซี",
+          "score": 94
+        },
+        {
+          "keyword": "newcastle vs man city",
+          "score": 93
+        },
+        {
+          "keyword": "전영오픈",
+          "score": 92
+        },
+        {
+          "keyword": "ngày quốc tế phụ nữ",
           "score": 91
         }
       ]

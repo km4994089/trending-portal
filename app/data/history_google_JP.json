@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T22:50:53.132Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "今治造船",
-          "score": 100
-        },
-        {
-          "keyword": "キンプリ",
-          "score": 99
-        },
-        {
-          "keyword": "新潟 天気",
-          "score": 98
-        },
-        {
-          "keyword": "jmu",
-          "score": 97
-        },
-        {
-          "keyword": "週間天気予報",
-          "score": 96
-        },
-        {
-          "keyword": "八王子",
-          "score": 95
-        },
-        {
-          "keyword": "東北道 通行止め",
-          "score": 94
-        },
-        {
-          "keyword": "津田健次郎",
-          "score": 93
-        },
-        {
-          "keyword": "宇連ダム 貯水率",
-          "score": 92
-        },
-        {
-          "keyword": "セブンイレブン おにぎり",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T23:17:47.832Z",
       "geo": "JP",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "若林正恭",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T23:13:37.246Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "大相撲",
+          "score": 100
+        },
+        {
+          "keyword": "トゥールーズ 対 マルセイユ",
+          "score": 99
+        },
+        {
+          "keyword": "四国",
+          "score": 98
+        },
+        {
+          "keyword": "ウルブズ 対 マジック",
+          "score": 97
+        },
+        {
+          "keyword": "花粉 いつまで",
+          "score": 96
+        },
+        {
+          "keyword": "3月8日 イベント",
+          "score": 95
+        },
+        {
+          "keyword": "マックスバリュ",
+          "score": 94
+        },
+        {
+          "keyword": "usj",
+          "score": 93
+        },
+        {
+          "keyword": "柄本明",
+          "score": 92
+        },
+        {
+          "keyword": "神田沙也加 前山剛久",
           "score": 91
         }
       ]
