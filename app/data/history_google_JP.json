@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T01:14:00.466Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "浜松ホトニクス",
-          "score": 100
-        },
-        {
-          "keyword": "メラニア夫人",
-          "score": 99
-        },
-        {
-          "keyword": "水俣病",
-          "score": 98
-        },
-        {
-          "keyword": "三菱商事",
-          "score": 97
-        },
-        {
-          "keyword": "インペックス株価",
-          "score": 96
-        },
-        {
-          "keyword": "太陽",
-          "score": 95
-        },
-        {
-          "keyword": "南鳥島",
-          "score": 94
-        },
-        {
-          "keyword": "小笠原諸島",
-          "score": 93
-        },
-        {
-          "keyword": "oda",
-          "score": 92
-        },
-        {
-          "keyword": "ユネスコ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T03:44:10.863Z",
       "geo": "JP",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "スペーシア",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T03:28:37.082Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "スーパーマリオ",
+          "score": 100
+        },
+        {
+          "keyword": "横澤夏子",
+          "score": 99
+        },
+        {
+          "keyword": "藤本美貴",
+          "score": 98
+        },
+        {
+          "keyword": "ec",
+          "score": 97
+        },
+        {
+          "keyword": "人身事故",
+          "score": 96
+        },
+        {
+          "keyword": "濱正悟",
+          "score": 95
+        },
+        {
+          "keyword": "ヤニック・シナー",
+          "score": 94
+        },
+        {
+          "keyword": "ビエイラ",
+          "score": 93
+        },
+        {
+          "keyword": "アルビレックス新潟",
+          "score": 92
+        },
+        {
+          "keyword": "石原良純",
           "score": 91
         }
       ]
