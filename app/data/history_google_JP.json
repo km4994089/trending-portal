@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T06:06:43.539Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "阪急京都線",
-          "score": 100
-        },
-        {
-          "keyword": "増田紗織",
-          "score": 99
-        },
-        {
-          "keyword": "田中美久",
-          "score": 98
-        },
-        {
-          "keyword": "ミネアポリス",
-          "score": 97
-        },
-        {
-          "keyword": "朝比奈彩",
-          "score": 96
-        },
-        {
-          "keyword": "阪急",
-          "score": 95
-        },
-        {
-          "keyword": "辻希美",
-          "score": 94
-        },
-        {
-          "keyword": "前田幸長",
-          "score": 93
-        },
-        {
-          "keyword": "戸田恵梨香",
-          "score": 92
-        },
-        {
-          "keyword": "ハワイ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T07:13:47.451Z",
       "geo": "JP",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "芦田愛菜",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T06:26:59.065Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "河合郁人",
+          "score": 100
+        },
+        {
+          "keyword": "福岡 対 名古屋グランパス",
+          "score": 99
+        },
+        {
+          "keyword": "仲間由紀恵",
+          "score": 98
+        },
+        {
+          "keyword": "高額療養費",
+          "score": 97
+        },
+        {
+          "keyword": "日ハム",
+          "score": 96
+        },
+        {
+          "keyword": "サリン事件",
+          "score": 95
+        },
+        {
+          "keyword": "プラハ",
+          "score": 94
+        },
+        {
+          "keyword": "岡山大学",
+          "score": 93
+        },
+        {
+          "keyword": "レイカーズ",
+          "score": 92
+        },
+        {
+          "keyword": "新井丈",
           "score": 91
         }
       ]

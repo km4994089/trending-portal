@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T06:06:40.997Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "moses moody",
-          "score": 100
-        },
-        {
-          "keyword": "mac",
-          "score": 99
-        },
-        {
-          "keyword": "draymond green",
-          "score": 98
-        },
-        {
-          "keyword": "kris dunn",
-          "score": 97
-        },
-        {
-          "keyword": "angus booth",
-          "score": 96
-        },
-        {
-          "keyword": "al horford",
-          "score": 95
-        },
-        {
-          "keyword": "jafar panahi",
-          "score": 94
-        },
-        {
-          "keyword": "nicholas braimbridge tony cooper",
-          "score": 93
-        },
-        {
-          "keyword": "joe rogan",
-          "score": 92
-        },
-        {
-          "keyword": "200 block e howard ave",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T07:13:44.980Z",
       "geo": "US",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "morehead state basketball",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T06:26:56.440Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "luka doncic",
+          "score": 100
+        },
+        {
+          "keyword": "bryan cranston",
+          "score": 99
+        },
+        {
+          "keyword": "local news",
+          "score": 98
+        },
+        {
+          "keyword": "local weather",
+          "score": 97
+        },
+        {
+          "keyword": "linkin park",
+          "score": 96
+        },
+        {
+          "keyword": "luke kennard",
+          "score": 95
+        },
+        {
+          "keyword": "live weather radar",
+          "score": 94
+        },
+        {
+          "keyword": "fox 4",
+          "score": 93
+        },
+        {
+          "keyword": "bronny james",
+          "score": 92
+        },
+        {
+          "keyword": "overland park weather",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T06:06:42.421Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "정부24",
-          "score": 100
-        },
-        {
-          "keyword": "송승기",
-          "score": 99
-        },
-        {
-          "keyword": "포르쉐 인플루언서",
-          "score": 98
-        },
-        {
-          "keyword": "위트컴",
-          "score": 97
-        },
-        {
-          "keyword": "안현민",
-          "score": 96
-        },
-        {
-          "keyword": "경일대",
-          "score": 95
-        },
-        {
-          "keyword": "금시세",
-          "score": 94
-        },
-        {
-          "keyword": "민방위",
-          "score": 93
-        },
-        {
-          "keyword": "tving",
-          "score": 92
-        },
-        {
-          "keyword": "농협카드",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T07:13:46.317Z",
       "geo": "KR",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "이재룡",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T06:26:57.704Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "f1tv",
+          "score": 100
+        },
+        {
+          "keyword": "k리그2",
+          "score": 99
+        },
+        {
+          "keyword": "서울e 대 경남",
+          "score": 98
+        },
+        {
+          "keyword": "f1 중계",
+          "score": 97
+        },
+        {
+          "keyword": "루카스 라미레즈",
+          "score": 96
+        },
+        {
+          "keyword": "호퍼스",
+          "score": 95
+        },
+        {
+          "keyword": "유",
+          "score": 94
+        },
+        {
+          "keyword": "ester expósito",
+          "score": 93
+        },
+        {
+          "keyword": "카타르",
+          "score": 92
+        },
+        {
+          "keyword": "f1 tv",
           "score": 91
         }
       ]
