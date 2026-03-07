@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T07:13:44.980Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mac",
-          "score": 100
-        },
-        {
-          "keyword": "moses moody",
-          "score": 99
-        },
-        {
-          "keyword": "draymond green",
-          "score": 98
-        },
-        {
-          "keyword": "kris dunn",
-          "score": 97
-        },
-        {
-          "keyword": "angus booth",
-          "score": 96
-        },
-        {
-          "keyword": "al horford",
-          "score": 95
-        },
-        {
-          "keyword": "jafar panahi",
-          "score": 94
-        },
-        {
-          "keyword": "kyle filipowski",
-          "score": 93
-        },
-        {
-          "keyword": "nicholas braimbridge tony cooper",
-          "score": 92
-        },
-        {
-          "keyword": "200 block e howard ave",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T07:58:31.711Z",
       "geo": "US",
       "source": "google",
@@ -5168,6 +5121,53 @@
         },
         {
           "keyword": "luke kennard",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T07:46:20.492Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "atlanta airport",
+          "score": 100
+        },
+        {
+          "keyword": "michael bergin",
+          "score": 99
+        },
+        {
+          "keyword": "when is daylight savings 2026",
+          "score": 98
+        },
+        {
+          "keyword": "jon jones",
+          "score": 97
+        },
+        {
+          "keyword": "lewis hamilton",
+          "score": 96
+        },
+        {
+          "keyword": "cody garbrandt",
+          "score": 95
+        },
+        {
+          "keyword": "disney gravity falls",
+          "score": 94
+        },
+        {
+          "keyword": "isack hadjar",
+          "score": 93
+        },
+        {
+          "keyword": "hadjar",
+          "score": 92
+        },
+        {
+          "keyword": "tornado sirens going off",
           "score": 91
         }
       ]

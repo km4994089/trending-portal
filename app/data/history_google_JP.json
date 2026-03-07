@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T07:13:47.451Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大垣競輪",
-          "score": 100
-        },
-        {
-          "keyword": "鈴木紗理奈",
-          "score": 99
-        },
-        {
-          "keyword": "パンチくん",
-          "score": 98
-        },
-        {
-          "keyword": "小寺真理",
-          "score": 97
-        },
-        {
-          "keyword": "増田紗織",
-          "score": 96
-        },
-        {
-          "keyword": "田中美久",
-          "score": 95
-        },
-        {
-          "keyword": "朝比奈彩",
-          "score": 94
-        },
-        {
-          "keyword": "ミネアポリス",
-          "score": 93
-        },
-        {
-          "keyword": "阪急",
-          "score": 92
-        },
-        {
-          "keyword": "辻希美",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T07:58:33.970Z",
       "geo": "JP",
       "source": "google",
@@ -5168,6 +5121,53 @@
         },
         {
           "keyword": "鹿島 対 東京v",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T07:46:23.483Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "福原遥",
+          "score": 100
+        },
+        {
+          "keyword": "弥生賞 過去",
+          "score": 99
+        },
+        {
+          "keyword": "ドラゴンフライズ",
+          "score": 98
+        },
+        {
+          "keyword": "タモリ",
+          "score": 97
+        },
+        {
+          "keyword": "アカデミー賞 2026",
+          "score": 96
+        },
+        {
+          "keyword": "日ハム オープン戦",
+          "score": 95
+        },
+        {
+          "keyword": "阪急電車",
+          "score": 94
+        },
+        {
+          "keyword": "阪急",
+          "score": 93
+        },
+        {
+          "keyword": "児島競艇",
+          "score": 92
+        },
+        {
+          "keyword": "阪急京都線",
           "score": 91
         }
       ]
