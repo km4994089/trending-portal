@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T03:44:09.476Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "티웨이",
-          "score": 100
-        },
-        {
-          "keyword": "삼성화재",
-          "score": 99
-        },
-        {
-          "keyword": "원광대",
-          "score": 98
-        },
-        {
-          "keyword": "삼전",
-          "score": 97
-        },
-        {
-          "keyword": "롯데카드",
-          "score": 96
-        },
-        {
-          "keyword": "금 시세",
-          "score": 95
-        },
-        {
-          "keyword": "아시아나",
-          "score": 94
-        },
-        {
-          "keyword": "대한항공",
-          "score": 93
-        },
-        {
-          "keyword": "map",
-          "score": 92
-        },
-        {
-          "keyword": "롯데온",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T05:09:52.243Z",
       "geo": "KR",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "라리가",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T04:46:20.962Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "유",
+          "score": 100
+        },
+        {
+          "keyword": "ester expósito",
+          "score": 99
+        },
+        {
+          "keyword": "카타르",
+          "score": 98
+        },
+        {
+          "keyword": "스포티파이",
+          "score": 97
+        },
+        {
+          "keyword": "티모시 샬라메",
+          "score": 96
+        },
+        {
+          "keyword": "게임",
+          "score": 95
+        },
+        {
+          "keyword": "bts",
+          "score": 94
+        },
+        {
+          "keyword": "이재룡",
+          "score": 93
+        },
+        {
+          "keyword": "fa cup",
+          "score": 92
+        },
+        {
+          "keyword": "เซลตา พบ เรอัลมาดริด",
           "score": 91
         }
       ]

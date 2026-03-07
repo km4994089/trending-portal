@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T03:44:08.247Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "bryce dallas howard",
-          "score": 100
-        },
-        {
-          "keyword": "cameron brink",
-          "score": 99
-        },
-        {
-          "keyword": "brandin podziemski",
-          "score": 98
-        },
-        {
-          "keyword": "texas primary",
-          "score": 97
-        },
-        {
-          "keyword": "diane keaton",
-          "score": 96
-        },
-        {
-          "keyword": "cia tv show",
-          "score": 95
-        },
-        {
-          "keyword": "nate williams",
-          "score": 94
-        },
-        {
-          "keyword": "idaho basketball",
-          "score": 93
-        },
-        {
-          "keyword": "american idol top 30 2026",
-          "score": 92
-        },
-        {
-          "keyword": "idaho state basketball",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T05:09:50.961Z",
       "geo": "US",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "eagles",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T04:46:19.919Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mason miller",
+          "score": 100
+        },
+        {
+          "keyword": "anaheim ducks",
+          "score": 99
+        },
+        {
+          "keyword": "travis steele",
+          "score": 98
+        },
+        {
+          "keyword": "jay huff",
+          "score": 97
+        },
+        {
+          "keyword": "la marathon 2026",
+          "score": 96
+        },
+        {
+          "keyword": "ky3 weather",
+          "score": 95
+        },
+        {
+          "keyword": "sdsu basketball",
+          "score": 94
+        },
+        {
+          "keyword": "wrestlemania 42",
+          "score": 93
+        },
+        {
+          "keyword": "miami redhawks men's basketball",
+          "score": 92
+        },
+        {
+          "keyword": "arnold schwarzenegger",
           "score": 91
         }
       ]
