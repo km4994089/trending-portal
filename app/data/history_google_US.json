@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T12:34:19.641Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dow futures",
-          "score": 100
-        },
-        {
-          "keyword": "slv stock",
-          "score": 99
-        },
-        {
-          "keyword": "ken paxton",
-          "score": 98
-        },
-        {
-          "keyword": "dow jones futures",
-          "score": 97
-        },
-        {
-          "keyword": "national pancake day",
-          "score": 96
-        },
-        {
-          "keyword": "tgt stock",
-          "score": 95
-        },
-        {
-          "keyword": "smoothie king",
-          "score": 94
-        },
-        {
-          "keyword": "sydney sweeney",
-          "score": 93
-        },
-        {
-          "keyword": "justin timberlake",
-          "score": 92
-        },
-        {
-          "keyword": "happy holi",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T13:52:32.834Z",
       "geo": "US",
       "source": "google",
@@ -5309,6 +5262,53 @@
         },
         {
           "keyword": "gate river run 2026",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T13:12:31.171Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mark teixeira",
+          "score": 100
+        },
+        {
+          "keyword": "weather houston",
+          "score": 99
+        },
+        {
+          "keyword": "brian mcginnis missing",
+          "score": 98
+        },
+        {
+          "keyword": "wfaa radar",
+          "score": 97
+        },
+        {
+          "keyword": "big east tournament",
+          "score": 96
+        },
+        {
+          "keyword": "netflix movie war machine",
+          "score": 95
+        },
+        {
+          "keyword": "max dowman",
+          "score": 94
+        },
+        {
+          "keyword": "wordle help",
+          "score": 93
+        },
+        {
+          "keyword": "hull city vs millwall",
+          "score": 92
+        },
+        {
+          "keyword": "rebecca solnit",
           "score": 91
         }
       ]
