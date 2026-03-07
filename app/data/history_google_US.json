@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T07:58:31.711Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mac",
-          "score": 100
-        },
-        {
-          "keyword": "moses moody",
-          "score": 99
-        },
-        {
-          "keyword": "magic johnson",
-          "score": 98
-        },
-        {
-          "keyword": "draymond green",
-          "score": 97
-        },
-        {
-          "keyword": "kris dunn",
-          "score": 96
-        },
-        {
-          "keyword": "angus booth",
-          "score": 95
-        },
-        {
-          "keyword": "al horford",
-          "score": 94
-        },
-        {
-          "keyword": "jafar panahi",
-          "score": 93
-        },
-        {
-          "keyword": "nicholas braimbridge tony cooper",
-          "score": 92
-        },
-        {
-          "keyword": "200 block e howard ave",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T08:39:25.062Z",
       "geo": "US",
       "source": "google",
@@ -5168,6 +5121,53 @@
         },
         {
           "keyword": "tornado sirens going off",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T08:18:46.036Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kltv weather",
+          "score": 100
+        },
+        {
+          "keyword": "apartment building",
+          "score": 99
+        },
+        {
+          "keyword": "atlanta airport",
+          "score": 98
+        },
+        {
+          "keyword": "michael bergin",
+          "score": 97
+        },
+        {
+          "keyword": "when is daylight savings 2026",
+          "score": 96
+        },
+        {
+          "keyword": "jon jones",
+          "score": 95
+        },
+        {
+          "keyword": "truck accident lawyer",
+          "score": 94
+        },
+        {
+          "keyword": "lewis hamilton",
+          "score": 93
+        },
+        {
+          "keyword": "cody garbrandt",
+          "score": 92
+        },
+        {
+          "keyword": "disney gravity falls",
           "score": 91
         }
       ]
