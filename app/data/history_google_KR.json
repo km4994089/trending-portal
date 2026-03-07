@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T18:34:57.974Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dc",
-          "score": 100
-        },
-        {
-          "keyword": "유가 가격",
-          "score": 99
-        },
-        {
-          "keyword": "금 가격",
-          "score": 98
-        },
-        {
-          "keyword": "테더",
-          "score": 97
-        },
-        {
-          "keyword": "giá vàng hôm nay",
-          "score": 96
-        },
-        {
-          "keyword": "voo",
-          "score": 95
-        },
-        {
-          "keyword": "금",
-          "score": 94
-        },
-        {
-          "keyword": "이수연",
-          "score": 93
-        },
-        {
-          "keyword": "야구여왕",
-          "score": 92
-        },
-        {
-          "keyword": "나스닥 지수",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T19:33:57.715Z",
       "geo": "KR",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "에르메스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T18:53:59.982Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "atlético madrid vs real sociedad",
+          "score": 100
+        },
+        {
+          "keyword": "첼시",
+          "score": 99
+        },
+        {
+          "keyword": "렉섬 대 첼시",
+          "score": 98
+        },
+        {
+          "keyword": "아틀레티코 대 레알 소시에다드",
+          "score": 97
+        },
+        {
+          "keyword": "마인츠",
+          "score": 96
+        },
+        {
+          "keyword": "international women's day",
+          "score": 95
+        },
+        {
+          "keyword": "여성의날",
+          "score": 94
+        },
+        {
+          "keyword": "퀀트 트레이더",
+          "score": 93
+        },
+        {
+          "keyword": "ufc 326",
+          "score": 92
+        },
+        {
+          "keyword": "세계 여성의 날",
           "score": 91
         }
       ]
