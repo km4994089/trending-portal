@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-03T10:29:26.319Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "岡本和真",
-          "score": 100
-        },
-        {
-          "keyword": "石原さとみ",
-          "score": 99
-        },
-        {
-          "keyword": "日本代表",
-          "score": 98
-        },
-        {
-          "keyword": "高橋奎二",
-          "score": 97
-        },
-        {
-          "keyword": "先物",
-          "score": 96
-        },
-        {
-          "keyword": "npb",
-          "score": 95
-        },
-        {
-          "keyword": "ノルディックスピリット",
-          "score": 94
-        },
-        {
-          "keyword": "村上宗隆",
-          "score": 93
-        },
-        {
-          "keyword": "近藤健介",
-          "score": 92
-        },
-        {
-          "keyword": "髙橋宏斗",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-03T11:06:00.903Z",
       "geo": "JP",
       "source": "google",
@@ -5262,6 +5215,53 @@
         },
         {
           "keyword": "wbc キャプテン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-07T10:45:52.366Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "鈴木誠也",
+          "score": 100
+        },
+        {
+          "keyword": "ベッキー",
+          "score": 99
+        },
+        {
+          "keyword": "村上宗隆",
+          "score": 98
+        },
+        {
+          "keyword": "ペルシャ",
+          "score": 97
+        },
+        {
+          "keyword": "ワールドカップ",
+          "score": 96
+        },
+        {
+          "keyword": "坂本勇人",
+          "score": 95
+        },
+        {
+          "keyword": "wbc live",
+          "score": 94
+        },
+        {
+          "keyword": "プロ野球速報",
+          "score": 93
+        },
+        {
+          "keyword": "wbc 応援歌",
+          "score": 92
+        },
+        {
+          "keyword": "インド 対 日本",
           "score": 91
         }
       ]
