@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-04T06:02:48.124Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lakers",
-          "score": 100
-        },
-        {
-          "keyword": "saddiq bey",
-          "score": 99
-        },
-        {
-          "keyword": "gavin newsom",
-          "score": 98
-        },
-        {
-          "keyword": "mark williams",
-          "score": 97
-        },
-        {
-          "keyword": "kirill kaprizov",
-          "score": 96
-        },
-        {
-          "keyword": "university of washington",
-          "score": 95
-        },
-        {
-          "keyword": "sj sharks",
-          "score": 94
-        },
-        {
-          "keyword": "michael strahan",
-          "score": 93
-        },
-        {
-          "keyword": "jake gyllenhaal",
-          "score": 92
-        },
-        {
-          "keyword": "andrew gunn",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-04T07:09:25.056Z",
       "geo": "US",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "mikey day",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-08T07:04:25.484Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "международный женский день",
+          "score": 100
+        },
+        {
+          "keyword": "nice",
+          "score": 99
+        },
+        {
+          "keyword": "seattle vs pacific",
+          "score": 98
+        },
+        {
+          "keyword": "seattle basketball",
+          "score": 97
+        },
+        {
+          "keyword": "sandy wernick",
+          "score": 96
+        },
+        {
+          "keyword": "alex michelsen",
+          "score": 95
+        },
+        {
+          "keyword": "did daylight savings happen",
+          "score": 94
+        },
+        {
+          "keyword": "hawaii basketball",
+          "score": 93
+        },
+        {
+          "keyword": "tennis players",
+          "score": 92
+        },
+        {
+          "keyword": "laura siegemund",
           "score": 91
         }
       ]
