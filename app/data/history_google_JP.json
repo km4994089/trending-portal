@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-04T23:21:22.308Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "カベポスター",
-          "score": 100
-        },
-        {
-          "keyword": "天赦日 2026",
-          "score": 99
-        },
-        {
-          "keyword": "パラリンピック",
-          "score": 98
-        },
-        {
-          "keyword": "ばけばけ キャスト",
-          "score": 97
-        },
-        {
-          "keyword": "今日",
-          "score": 96
-        },
-        {
-          "keyword": "レアルソシエダ",
-          "score": 95
-        },
-        {
-          "keyword": "若井滉斗",
-          "score": 94
-        },
-        {
-          "keyword": "ニデック 調査報告書",
-          "score": 93
-        },
-        {
-          "keyword": "ジェットスター",
-          "score": 92
-        },
-        {
-          "keyword": "イスラエル イラン攻撃 理由",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-04T23:49:59.006Z",
       "geo": "JP",
       "source": "google",
@@ -6061,6 +6014,53 @@
         },
         {
           "keyword": "wti",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-08T23:43:35.823Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ジャパンディスプレイ",
+          "score": 100
+        },
+        {
+          "keyword": "jwave",
+          "score": 99
+        },
+        {
+          "keyword": "cme",
+          "score": 98
+        },
+        {
+          "keyword": "wti原油先物",
+          "score": 97
+        },
+        {
+          "keyword": "ボンドロ",
+          "score": 96
+        },
+        {
+          "keyword": "wti 原油",
+          "score": 95
+        },
+        {
+          "keyword": "溝端葵",
+          "score": 94
+        },
+        {
+          "keyword": "岡田准一",
+          "score": 93
+        },
+        {
+          "keyword": "vix",
+          "score": 92
+        },
+        {
+          "keyword": "ブラックロック",
           "score": 91
         }
       ]
