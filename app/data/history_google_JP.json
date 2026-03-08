@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-04T19:10:06.020Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "new york times",
-          "score": 100
-        },
-        {
-          "keyword": "啓蟄",
-          "score": 99
-        },
-        {
-          "keyword": "マンc 対 ノッティンガム・フォレスト",
-          "score": 98
-        },
-        {
-          "keyword": "ブライトン 対 アーセナル",
-          "score": 97
-        },
-        {
-          "keyword": "シャラメ",
-          "score": 96
-        },
-        {
-          "keyword": "lol",
-          "score": 95
-        },
-        {
-          "keyword": "twitch",
-          "score": 94
-        },
-        {
-          "keyword": "フランス イラン 攻撃",
-          "score": 93
-        },
-        {
-          "keyword": "野口衣織",
-          "score": 92
-        },
-        {
-          "keyword": "今田美桜",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-04T19:55:13.668Z",
       "geo": "JP",
       "source": "google",
@@ -5982,6 +5935,53 @@
         },
         {
           "keyword": "天気天気",
+          "score": 99
+        },
+        {
+          "keyword": "葛葉 2nd mini album adamantite",
+          "score": 98
+        },
+        {
+          "keyword": "松岡茉優",
+          "score": 97
+        },
+        {
+          "keyword": "タティスjr",
+          "score": 96
+        },
+        {
+          "keyword": "エールディヴィジ",
+          "score": 95
+        },
+        {
+          "keyword": "ワンピース 1176",
+          "score": 94
+        },
+        {
+          "keyword": "羽生結弦",
+          "score": 93
+        },
+        {
+          "keyword": "ゲレーロjr",
+          "score": 92
+        },
+        {
+          "keyword": "レミオロメン 3月9日",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-08T19:16:53.265Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "天気天気",
+          "score": 100
+        },
+        {
+          "keyword": "綾野剛",
           "score": 99
         },
         {
