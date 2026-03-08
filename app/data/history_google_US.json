@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-04T15:30:18.516Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tornado warning",
-          "score": 100
-        },
-        {
-          "keyword": "crimson desert",
-          "score": 99
-        },
-        {
-          "keyword": "reflex",
-          "score": 98
-        },
-        {
-          "keyword": "mekhi becton",
-          "score": 97
-        },
-        {
-          "keyword": "apple newsroom",
-          "score": 96
-        },
-        {
-          "keyword": "cole mcconchie",
-          "score": 95
-        },
-        {
-          "keyword": "gregory bovino",
-          "score": 94
-        },
-        {
-          "keyword": "arnold palmer invitational",
-          "score": 93
-        },
-        {
-          "keyword": "seth macfarlane",
-          "score": 92
-        },
-        {
-          "keyword": "spacex rocket launch",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-04T16:05:00.831Z",
       "geo": "US",
       "source": "google",
@@ -5873,6 +5826,53 @@
         },
         {
           "keyword": "goldman sachs",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-08T15:43:09.071Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "bologna fc",
+          "score": 100
+        },
+        {
+          "keyword": "colgate basketball",
+          "score": 99
+        },
+        {
+          "keyword": "northern iowa basketball",
+          "score": 98
+        },
+        {
+          "keyword": "lily collins",
+          "score": 97
+        },
+        {
+          "keyword": "high point basketball",
+          "score": 96
+        },
+        {
+          "keyword": "serie a",
+          "score": 95
+        },
+        {
+          "keyword": "nfl free agency",
+          "score": 94
+        },
+        {
+          "keyword": "shivam dube",
+          "score": 93
+        },
+        {
+          "keyword": "when are the oscars 2026",
+          "score": 92
+        },
+        {
+          "keyword": "sean rhyan",
           "score": 91
         }
       ]
