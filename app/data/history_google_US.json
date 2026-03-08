@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-04T21:24:47.492Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "disney world news",
-          "score": 100
-        },
-        {
-          "keyword": "ratepayer protection pledge",
-          "score": 99
-        },
-        {
-          "keyword": "olivia wilde",
-          "score": 98
-        },
-        {
-          "keyword": "meta",
-          "score": 97
-        },
-        {
-          "keyword": "dj moore",
-          "score": 96
-        },
-        {
-          "keyword": "joão pedro",
-          "score": 95
-        },
-        {
-          "keyword": "avgo stock",
-          "score": 94
-        },
-        {
-          "keyword": "man united",
-          "score": 93
-        },
-        {
-          "keyword": "corey lewandowski",
-          "score": 92
-        },
-        {
-          "keyword": "vance honeycutt",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-04T21:54:35.435Z",
       "geo": "US",
       "source": "google",
@@ -6061,6 +6014,53 @@
         },
         {
           "keyword": "angel reese",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-08T21:42:51.348Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nebraska basketball",
+          "score": 100
+        },
+        {
+          "keyword": "mojtaba khamenei",
+          "score": 99
+        },
+        {
+          "keyword": "mikal bridges",
+          "score": 98
+        },
+        {
+          "keyword": "ritz carlton cruise",
+          "score": 97
+        },
+        {
+          "keyword": "tom izzo",
+          "score": 96
+        },
+        {
+          "keyword": "draft",
+          "score": 95
+        },
+        {
+          "keyword": "pistons vs heat",
+          "score": 94
+        },
+        {
+          "keyword": "mavericks vs raptors",
+          "score": 93
+        },
+        {
+          "keyword": "tcu women's basketball",
+          "score": 92
+        },
+        {
+          "keyword": "etsu basketball",
           "score": 91
         }
       ]
