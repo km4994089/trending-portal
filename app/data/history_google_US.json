@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-04T03:36:19.895Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "timberwolves",
-          "score": 100
-        },
-        {
-          "keyword": "united rentals",
-          "score": 99
-        },
-        {
-          "keyword": "bexar county election results",
-          "score": 98
-        },
-        {
-          "keyword": "southern miss baseball",
-          "score": 97
-        },
-        {
-          "keyword": "nhl standings",
-          "score": 96
-        },
-        {
-          "keyword": "suns vs kings",
-          "score": 95
-        },
-        {
-          "keyword": "paxton",
-          "score": 94
-        },
-        {
-          "keyword": "bill self",
-          "score": 93
-        },
-        {
-          "keyword": "korea",
-          "score": 92
-        },
-        {
-          "keyword": "bobby hurley",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-04T05:04:02.175Z",
       "geo": "US",
       "source": "google",
@@ -5591,6 +5544,53 @@
         },
         {
           "keyword": "hubert davis",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-08T03:40:38.089Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "oscar piastri",
+          "score": 100
+        },
+        {
+          "keyword": "f1tv",
+          "score": 99
+        },
+        {
+          "keyword": "juan pablo montoya",
+          "score": 98
+        },
+        {
+          "keyword": "monterrey fc",
+          "score": 97
+        },
+        {
+          "keyword": "ciryl gane",
+          "score": 96
+        },
+        {
+          "keyword": "bo nickal",
+          "score": 95
+        },
+        {
+          "keyword": "diego lopes",
+          "score": 94
+        },
+        {
+          "keyword": "sean o'malley",
+          "score": 93
+        },
+        {
+          "keyword": "tom aspinall",
+          "score": 92
+        },
+        {
+          "keyword": "islam makhachev",
           "score": 91
         }
       ]
