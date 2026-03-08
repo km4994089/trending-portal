@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-04T07:09:25.056Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "shell",
-          "score": 100
-        },
-        {
-          "keyword": "amarillo weather",
-          "score": 99
-        },
-        {
-          "keyword": "fuel stations",
-          "score": 98
-        },
-        {
-          "keyword": "shell gasoline",
-          "score": 97
-        },
-        {
-          "keyword": "devin booker",
-          "score": 96
-        },
-        {
-          "keyword": "marcus smart",
-          "score": 95
-        },
-        {
-          "keyword": "demar derozan",
-          "score": 94
-        },
-        {
-          "keyword": "rui hachimura",
-          "score": 93
-        },
-        {
-          "keyword": "zion williamson",
-          "score": 92
-        },
-        {
-          "keyword": "luka dončić",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-04T07:55:08.671Z",
       "geo": "US",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "laura siegemund",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-08T07:47:33.071Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "india women vs australia women",
+          "score": 100
+        },
+        {
+          "keyword": "bodybuilding arnold classic",
+          "score": 99
+        },
+        {
+          "keyword": "kai cenat",
+          "score": 98
+        },
+        {
+          "keyword": "nba youngboy",
+          "score": 97
+        },
+        {
+          "keyword": "международный женский день",
+          "score": 96
+        },
+        {
+          "keyword": "nice",
+          "score": 95
+        },
+        {
+          "keyword": "seattle vs pacific",
+          "score": 94
+        },
+        {
+          "keyword": "seattle basketball",
+          "score": 93
+        },
+        {
+          "keyword": "jenson button",
+          "score": 92
+        },
+        {
+          "keyword": "did daylight savings happen",
           "score": 91
         }
       ]
