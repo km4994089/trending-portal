@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-04T22:55:04.331Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "날씨",
-          "score": 100
-        },
-        {
-          "keyword": "weather",
-          "score": 99
-        },
-        {
-          "keyword": "แมนซิตี พบ ฟอเรสต์",
-          "score": 98
-        },
-        {
-          "keyword": "man city đấu với nottm forest",
-          "score": 97
-        },
-        {
-          "keyword": "브로드컴 주가",
-          "score": 96
-        },
-        {
-          "keyword": "pl",
-          "score": 95
-        },
-        {
-          "keyword": "프리미어리그 경기",
-          "score": 94
-        },
-        {
-          "keyword": "맨유",
-          "score": 93
-        },
-        {
-          "keyword": "맨시티",
-          "score": 92
-        },
-        {
-          "keyword": "프리미어리그",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-04T23:21:19.710Z",
       "geo": "KR",
       "source": "google",
@@ -6061,6 +6014,53 @@
         },
         {
           "keyword": "국정원",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-08T23:14:38.157Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "유가",
+          "score": 100
+        },
+        {
+          "keyword": "wti",
+          "score": 99
+        },
+        {
+          "keyword": "wti 유가",
+          "score": 98
+        },
+        {
+          "keyword": "오늘날씨",
+          "score": 97
+        },
+        {
+          "keyword": "날씨예보",
+          "score": 96
+        },
+        {
+          "keyword": "중앙일보",
+          "score": 95
+        },
+        {
+          "keyword": "milan vs inter",
+          "score": 94
+        },
+        {
+          "keyword": "동아일보",
+          "score": 93
+        },
+        {
+          "keyword": "알렉산더 즈베레프",
+          "score": 92
+        },
+        {
+          "keyword": "세리에 a",
           "score": 91
         }
       ]
