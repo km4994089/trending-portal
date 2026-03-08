@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-04T09:03:29.337Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "東海道線",
-          "score": 100
-        },
-        {
-          "keyword": "人身事故",
-          "score": 99
-        },
-        {
-          "keyword": "パリーグtv",
-          "score": 98
-        },
-        {
-          "keyword": "ニッポン放送",
-          "score": 97
-        },
-        {
-          "keyword": "パラグアイ",
-          "score": 96
-        },
-        {
-          "keyword": "新潟県高校入試",
-          "score": 95
-        },
-        {
-          "keyword": "キントレ",
-          "score": 94
-        },
-        {
-          "keyword": "今西事件",
-          "score": 93
-        },
-        {
-          "keyword": "カナデビア",
-          "score": 92
-        },
-        {
-          "keyword": "伊藤忠商事",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-04T10:01:44.776Z",
       "geo": "JP",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "ベッキー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-08T09:19:51.326Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "世界遺産",
+          "score": 100
+        },
+        {
+          "keyword": "金星",
+          "score": 99
+        },
+        {
+          "keyword": "琉球 対 島根",
+          "score": 98
+        },
+        {
+          "keyword": "google chrome アップデート",
+          "score": 97
+        },
+        {
+          "keyword": "前川泰之",
+          "score": 96
+        },
+        {
+          "keyword": "スタグフレーション",
+          "score": 95
+        },
+        {
+          "keyword": "二子山部屋",
+          "score": 94
+        },
+        {
+          "keyword": "熱海富士",
+          "score": 93
+        },
+        {
+          "keyword": "reda",
+          "score": 92
+        },
+        {
+          "keyword": "若隆景",
           "score": 91
         }
       ]
