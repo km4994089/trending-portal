@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-04T22:21:25.128Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "morgan stanley",
-          "score": 100
-        },
-        {
-          "keyword": "aberdeen vs celtic",
-          "score": 99
-        },
-        {
-          "keyword": "stetson basketball",
-          "score": 98
-        },
-        {
-          "keyword": "ethan quinn",
-          "score": 97
-        },
-        {
-          "keyword": "deebo samuel",
-          "score": 96
-        },
-        {
-          "keyword": "whoopi goldberg",
-          "score": 95
-        },
-        {
-          "keyword": "kraken",
-          "score": 94
-        },
-        {
-          "keyword": "colton parayko",
-          "score": 93
-        },
-        {
-          "keyword": "war powers resolution",
-          "score": 92
-        },
-        {
-          "keyword": "carabobo - sporting cristal",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-04T22:55:02.934Z",
       "geo": "US",
       "source": "google",
@@ -6061,6 +6014,53 @@
         },
         {
           "keyword": "glasgow",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-08T22:46:05.271Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "oil price",
+          "score": 100
+        },
+        {
+          "keyword": "toronto vs cincinnati",
+          "score": 99
+        },
+        {
+          "keyword": "crude oil price",
+          "score": 98
+        },
+        {
+          "keyword": "nasdaq futures",
+          "score": 97
+        },
+        {
+          "keyword": "pga tour leaderboard",
+          "score": 96
+        },
+        {
+          "keyword": "oil futures price",
+          "score": 95
+        },
+        {
+          "keyword": "the players championship",
+          "score": 94
+        },
+        {
+          "keyword": "toluca - juárez",
+          "score": 93
+        },
+        {
+          "keyword": "elon musk net worth",
+          "score": 92
+        },
+        {
+          "keyword": "wizards vs pelicans",
           "score": 91
         }
       ]
