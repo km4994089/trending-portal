@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-04T07:55:11.442Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "北海道公立高校入試",
-          "score": 100
-        },
-        {
-          "keyword": "桂玲子",
-          "score": 99
-        },
-        {
-          "keyword": "川崎競馬",
-          "score": 98
-        },
-        {
-          "keyword": "小寺真理",
-          "score": 97
-        },
-        {
-          "keyword": "キングス 対 サンズ",
-          "score": 96
-        },
-        {
-          "keyword": "ブローザホーン",
-          "score": 95
-        },
-        {
-          "keyword": "ロクシタン",
-          "score": 94
-        },
-        {
-          "keyword": "池田市 事件",
-          "score": 93
-        },
-        {
-          "keyword": "那須雪崩事故",
-          "score": 92
-        },
-        {
-          "keyword": "クラシアン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-04T08:27:56.666Z",
       "geo": "JP",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "ダイキン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-08T08:19:45.398Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "宇良",
+          "score": 100
+        },
+        {
+          "keyword": "大沢たかお",
+          "score": 99
+        },
+        {
+          "keyword": "ベッキー",
+          "score": 98
+        },
+        {
+          "keyword": "オートレース",
+          "score": 97
+        },
+        {
+          "keyword": "伊勢ケ浜親方",
+          "score": 96
+        },
+        {
+          "keyword": "アドベンチャーワールド",
+          "score": 95
+        },
+        {
+          "keyword": "星野源 オールナイトニッポン",
+          "score": 94
+        },
+        {
+          "keyword": "藤青雲",
+          "score": 93
+        },
+        {
+          "keyword": "やすとも",
+          "score": 92
+        },
+        {
+          "keyword": "日比谷線事故",
           "score": 91
         }
       ]
