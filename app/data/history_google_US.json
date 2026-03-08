@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-04T14:32:00.154Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "gregory bovino",
-          "score": 100
-        },
-        {
-          "keyword": "arnold palmer invitational",
-          "score": 99
-        },
-        {
-          "keyword": "seth macfarlane",
-          "score": 98
-        },
-        {
-          "keyword": "spacex rocket launch",
-          "score": 97
-        },
-        {
-          "keyword": "apple store",
-          "score": 96
-        },
-        {
-          "keyword": "pete hegseth",
-          "score": 95
-        },
-        {
-          "keyword": "south africa vs new zealand",
-          "score": 94
-        },
-        {
-          "keyword": "wordle answer",
-          "score": 93
-        },
-        {
-          "keyword": "aryna sabalenka",
-          "score": 92
-        },
-        {
-          "keyword": "padma lakshmi",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-04T15:30:18.516Z",
       "geo": "US",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "houthis",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-08T14:47:11.094Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "goldman sachs",
+          "score": 100
+        },
+        {
+          "keyword": "selection sunday",
+          "score": 99
+        },
+        {
+          "keyword": "getafe - real betis",
+          "score": 98
+        },
+        {
+          "keyword": "getafe vs real betis",
+          "score": 97
+        },
+        {
+          "keyword": "lloyd blankfein",
+          "score": 96
+        },
+        {
+          "keyword": "save act",
+          "score": 95
+        },
+        {
+          "keyword": "glenn phillips",
+          "score": 94
+        },
+        {
+          "keyword": "sanju samson",
+          "score": 93
+        },
+        {
+          "keyword": "heat advisory",
+          "score": 92
+        },
+        {
+          "keyword": "rachin ravindra",
           "score": 91
         }
       ]
