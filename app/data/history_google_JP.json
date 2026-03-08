@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-04T10:01:44.776Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "今日の月",
-          "score": 100
-        },
-        {
-          "keyword": "f35",
-          "score": 99
-        },
-        {
-          "keyword": "藤田明美",
-          "score": 98
-        },
-        {
-          "keyword": "山手線",
-          "score": 97
-        },
-        {
-          "keyword": "jr 人身事故",
-          "score": 96
-        },
-        {
-          "keyword": "品川",
-          "score": 95
-        },
-        {
-          "keyword": "日ハム",
-          "score": 94
-        },
-        {
-          "keyword": "両国国技館",
-          "score": 93
-        },
-        {
-          "keyword": "g大阪 対 ラーチャブリー",
-          "score": 92
-        },
-        {
-          "keyword": "ぴあ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-04T11:00:51.500Z",
       "geo": "JP",
       "source": "google",
@@ -5685,6 +5638,53 @@
         },
         {
           "keyword": "ちゃんみな 東京ドーム",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-08T10:15:52.157Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "netflix",
+          "score": 100
+        },
+        {
+          "keyword": "wbc ラジオ",
+          "score": 99
+        },
+        {
+          "keyword": "藤平尚真",
+          "score": 98
+        },
+        {
+          "keyword": "黒田博樹",
+          "score": 97
+        },
+        {
+          "keyword": "松田宣浩",
+          "score": 96
+        },
+        {
+          "keyword": "マイアミ",
+          "score": 95
+        },
+        {
+          "keyword": "森脇健児",
+          "score": 94
+        },
+        {
+          "keyword": "始球式",
+          "score": 93
+        },
+        {
+          "keyword": "wbc 日本 キャプテン",
+          "score": 92
+        },
+        {
+          "keyword": "wbc プール",
           "score": 91
         }
       ]
