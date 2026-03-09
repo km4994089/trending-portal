@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-05T10:29:46.960Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "vladimir netflix",
-          "score": 100
-        },
-        {
-          "keyword": "online lottery",
-          "score": 99
-        },
-        {
-          "keyword": "severe weather outbreak",
-          "score": 98
-        },
-        {
-          "keyword": "flood warning",
-          "score": 97
-        },
-        {
-          "keyword": "azerbaijan",
-          "score": 96
-        },
-        {
-          "keyword": "anhelina kalinina",
-          "score": 95
-        },
-        {
-          "keyword": "san francisco",
-          "score": 94
-        },
-        {
-          "keyword": "seattle seahawks",
-          "score": 93
-        },
-        {
-          "keyword": "ind vs eng",
-          "score": 92
-        },
-        {
-          "keyword": "bryce dallas howard",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-05T11:07:16.730Z",
       "geo": "US",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "mai hontama",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-09T10:35:39.349Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cnbc",
+          "score": 100
+        },
+        {
+          "keyword": "michael shannon",
+          "score": 99
+        },
+        {
+          "keyword": "pa state trooper",
+          "score": 98
+        },
+        {
+          "keyword": "nytimes.com",
+          "score": 97
+        },
+        {
+          "keyword": "malik willis",
+          "score": 96
+        },
+        {
+          "keyword": "eid al fitr 2026",
+          "score": 95
+        },
+        {
+          "keyword": "government shutdown 2026",
+          "score": 94
+        },
+        {
+          "keyword": "gen z",
+          "score": 93
+        },
+        {
+          "keyword": "pluto tv",
+          "score": 92
+        },
+        {
+          "keyword": "sunrise",
           "score": 91
         }
       ]
