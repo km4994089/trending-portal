@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-05T15:40:42.107Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "桃園",
-          "score": 100
-        },
-        {
-          "keyword": "友近",
-          "score": 99
-        },
-        {
-          "keyword": "伊藤匠",
-          "score": 98
-        },
-        {
-          "keyword": "マーティシュプリーム",
-          "score": 97
-        },
-        {
-          "keyword": "たくろう",
-          "score": 96
-        },
-        {
-          "keyword": "パランティア",
-          "score": 95
-        },
-        {
-          "keyword": "高橋由伸",
-          "score": 94
-        },
-        {
-          "keyword": "ホロライブexpo",
-          "score": 93
-        },
-        {
-          "keyword": "橋爪功",
-          "score": 92
-        },
-        {
-          "keyword": "岡万佑子",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-05T17:53:36.414Z",
       "geo": "JP",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "タッチ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-09T15:48:13.299Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "amazon 新生活セール",
+          "score": 100
+        },
+        {
+          "keyword": "神戸大学",
+          "score": 99
+        },
+        {
+          "keyword": "地球",
+          "score": 98
+        },
+        {
+          "keyword": "櫻井翔",
+          "score": 97
+        },
+        {
+          "keyword": "nato",
+          "score": 96
+        },
+        {
+          "keyword": "龍谷大学",
+          "score": 95
+        },
+        {
+          "keyword": "テルアビブ",
+          "score": 94
+        },
+        {
+          "keyword": "やついいちろう",
+          "score": 93
+        },
+        {
+          "keyword": "ヤマザキマリ",
+          "score": 92
+        },
+        {
+          "keyword": "アメリカ wbc",
           "score": 91
         }
       ]

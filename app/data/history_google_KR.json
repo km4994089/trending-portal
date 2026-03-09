@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-05T15:40:40.743Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "코스피야간선물",
-          "score": 100
-        },
-        {
-          "keyword": "박진영",
-          "score": 99
-        },
-        {
-          "keyword": "노선",
-          "score": 98
-        },
-        {
-          "keyword": "avgo",
-          "score": 97
-        },
-        {
-          "keyword": "이소나",
-          "score": 96
-        },
-        {
-          "keyword": "쇼미12",
-          "score": 95
-        },
-        {
-          "keyword": "카타르",
-          "score": 94
-        },
-        {
-          "keyword": "헤이즈",
-          "score": 93
-        },
-        {
-          "keyword": "india vs england",
-          "score": 92
-        },
-        {
-          "keyword": "ind vs eng",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-05T17:53:34.997Z",
       "geo": "KR",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "wbc 일정",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-09T15:48:11.948Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "persib bandung vs persik",
+          "score": 100
+        },
+        {
+          "keyword": "서머타임",
+          "score": 99
+        },
+        {
+          "keyword": "홍석천",
+          "score": 98
+        },
+        {
+          "keyword": "월드컵",
+          "score": 97
+        },
+        {
+          "keyword": "윤석민",
+          "score": 96
+        },
+        {
+          "keyword": "이대형",
+          "score": 95
+        },
+        {
+          "keyword": "wbc 라인업",
+          "score": 94
+        },
+        {
+          "keyword": "축구",
+          "score": 93
+        },
+        {
+          "keyword": "도미니카 wbc 라인업",
+          "score": 92
+        },
+        {
+          "keyword": "오브라이언",
           "score": 91
         }
       ]

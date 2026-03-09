@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-05T15:40:39.228Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "today show",
-          "score": 100
-        },
-        {
-          "keyword": "nike air max 95",
-          "score": 99
-        },
-        {
-          "keyword": "tmz",
-          "score": 98
-        },
-        {
-          "keyword": "tilak varma",
-          "score": 97
-        },
-        {
-          "keyword": "andrew mccutchen",
-          "score": 96
-        },
-        {
-          "keyword": "louisiana earthquake",
-          "score": 95
-        },
-        {
-          "keyword": "ken jennings",
-          "score": 94
-        },
-        {
-          "keyword": "basketball tournament bracket",
-          "score": 93
-        },
-        {
-          "keyword": "international women's day",
-          "score": 92
-        },
-        {
-          "keyword": "nic dowd",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-05T17:53:33.831Z",
       "geo": "US",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "rosanna arquette",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-09T15:48:10.397Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mike evans",
+          "score": 100
+        },
+        {
+          "keyword": "sheryl underwood",
+          "score": 99
+        },
+        {
+          "keyword": "live nation",
+          "score": 98
+        },
+        {
+          "keyword": "paul skenes",
+          "score": 97
+        },
+        {
+          "keyword": "costco stock",
+          "score": 96
+        },
+        {
+          "keyword": "ted carter",
+          "score": 95
+        },
+        {
+          "keyword": "dot rotten",
+          "score": 94
+        },
+        {
+          "keyword": "walmart stock",
+          "score": 93
+        },
+        {
+          "keyword": "severe storms",
+          "score": 92
+        },
+        {
+          "keyword": "adam schefter",
           "score": 91
         }
       ]
