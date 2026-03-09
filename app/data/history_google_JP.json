@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-04T23:49:59.006Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "坂梨祥",
-          "score": 100
-        },
-        {
-          "keyword": "帝国ホテル 京都",
-          "score": 99
-        },
-        {
-          "keyword": "三田悠貴",
-          "score": 98
-        },
-        {
-          "keyword": "ゆうちゃみ",
-          "score": 97
-        },
-        {
-          "keyword": "東京メトロ",
-          "score": 96
-        },
-        {
-          "keyword": "福島県高校入試",
-          "score": 95
-        },
-        {
-          "keyword": "小泉八雲 フィリピン",
-          "score": 94
-        },
-        {
-          "keyword": "カベポスター",
-          "score": 93
-        },
-        {
-          "keyword": "天赦日 2026",
-          "score": 92
-        },
-        {
-          "keyword": "パラリンピック",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-05T01:12:00.031Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "香椎由宇",
-          "score": 100
-        },
-        {
-          "keyword": "tips",
-          "score": 99
-        },
-        {
-          "keyword": "らじるらじる",
-          "score": 98
-        },
-        {
-          "keyword": "日経225",
-          "score": 97
-        },
-        {
-          "keyword": "黒川博行",
-          "score": 96
-        },
-        {
-          "keyword": "今日の株価",
-          "score": 95
-        },
-        {
-          "keyword": "協和キリン 株価",
-          "score": 94
-        },
-        {
-          "keyword": "小笠原慎之介",
-          "score": 93
-        },
-        {
-          "keyword": "浜松ホトニクス 株価",
-          "score": 92
-        },
-        {
-          "keyword": "厚生労働省",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-05T03:39:47.787Z",
       "geo": "JP",
       "source": "google",
@@ -6061,6 +5967,53 @@
         },
         {
           "keyword": "ブラックロック",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-09T01:12:25.598Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "日本年金機構",
+          "score": 100
+        },
+        {
+          "keyword": "ヒート 対 ピストンズ",
+          "score": 99
+        },
+        {
+          "keyword": "フジクラ 株価",
+          "score": 98
+        },
+        {
+          "keyword": "金 価格",
+          "score": 97
+        },
+        {
+          "keyword": "キングス 対 ブルズ",
+          "score": 96
+        },
+        {
+          "keyword": "topix",
+          "score": 95
+        },
+        {
+          "keyword": "水俣病",
+          "score": 94
+        },
+        {
+          "keyword": "円安",
+          "score": 93
+        },
+        {
+          "keyword": "ディープリベンジ",
+          "score": 92
+        },
+        {
+          "keyword": "キオクシア 株価",
           "score": 91
         }
       ]
