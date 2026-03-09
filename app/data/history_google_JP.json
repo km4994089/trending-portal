@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-05T21:31:37.112Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "平野歩夢",
-          "score": 100
-        },
-        {
-          "keyword": "竜巻注意情報",
-          "score": 99
-        },
-        {
-          "keyword": "vix指数",
-          "score": 98
-        },
-        {
-          "keyword": "ブロードコム 株価",
-          "score": 97
-        },
-        {
-          "keyword": "花粉 いつまで",
-          "score": 96
-        },
-        {
-          "keyword": "tottenham vs crystal palace",
-          "score": 95
-        },
-        {
-          "keyword": "日経先物",
-          "score": 94
-        },
-        {
-          "keyword": "セブンイレブン",
-          "score": 93
-        },
-        {
-          "keyword": "吉高由里子",
-          "score": 92
-        },
-        {
-          "keyword": "f1",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-05T22:21:34.254Z",
       "geo": "JP",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "浜辺美波",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-09T21:53:09.799Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ティモシー・シャラメ",
+          "score": 100
+        },
+        {
+          "keyword": "山田杏奈",
+          "score": 99
+        },
+        {
+          "keyword": "松たか子",
+          "score": 98
+        },
+        {
+          "keyword": "weather today",
+          "score": 97
+        },
+        {
+          "keyword": "wti 原油",
+          "score": 96
+        },
+        {
+          "keyword": "高速道路",
+          "score": 95
+        },
+        {
+          "keyword": "日産",
+          "score": 94
+        },
+        {
+          "keyword": "溝端葵",
+          "score": 93
+        },
+        {
+          "keyword": "west ham vs brentford",
+          "score": 92
+        },
+        {
+          "keyword": "井上清華",
           "score": 91
         }
       ]
