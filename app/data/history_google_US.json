@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-05T14:39:03.117Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "rooster tv show",
-          "score": 100
-        },
-        {
-          "keyword": "shivam dube",
-          "score": 99
-        },
-        {
-          "keyword": "sanju samson",
-          "score": 98
-        },
-        {
-          "keyword": "heavy snow warning",
-          "score": 97
-        },
-        {
-          "keyword": "epr properties",
-          "score": 96
-        },
-        {
-          "keyword": "oceans calling",
-          "score": 95
-        },
-        {
-          "keyword": "cricket live",
-          "score": 94
-        },
-        {
-          "keyword": "sam asghari",
-          "score": 93
-        },
-        {
-          "keyword": "edie falco",
-          "score": 92
-        },
-        {
-          "keyword": "mlf",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-05T15:40:39.228Z",
       "geo": "US",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "vti",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-09T14:51:11.553Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "costco stock",
+          "score": 100
+        },
+        {
+          "keyword": "ted carter",
+          "score": 99
+        },
+        {
+          "keyword": "dot rotten",
+          "score": 98
+        },
+        {
+          "keyword": "walmart stock",
+          "score": 97
+        },
+        {
+          "keyword": "severe storms",
+          "score": 96
+        },
+        {
+          "keyword": "vix stock",
+          "score": 95
+        },
+        {
+          "keyword": "dakota johnson",
+          "score": 94
+        },
+        {
+          "keyword": "nasdaq composite",
+          "score": 93
+        },
+        {
+          "keyword": "tesla stock price",
+          "score": 92
+        },
+        {
+          "keyword": "rosanna arquette",
           "score": 91
         }
       ]
