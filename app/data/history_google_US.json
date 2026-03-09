@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-05T11:53:09.062Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "shay whitcomb",
-          "score": 100
-        },
-        {
-          "keyword": "ios 26.3.1",
-          "score": 99
-        },
-        {
-          "keyword": "moscow",
-          "score": 98
-        },
-        {
-          "keyword": "mumbai",
-          "score": 97
-        },
-        {
-          "keyword": "lima",
-          "score": 96
-        },
-        {
-          "keyword": "belgrade",
-          "score": 95
-        },
-        {
-          "keyword": "montreal",
-          "score": 94
-        },
-        {
-          "keyword": "dallas",
-          "score": 93
-        },
-        {
-          "keyword": "stockholm",
-          "score": 92
-        },
-        {
-          "keyword": "alexandria",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-05T12:36:48.467Z",
       "geo": "US",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "the hill",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-09T11:55:10.877Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "usps",
+          "score": 100
+        },
+        {
+          "keyword": "college board",
+          "score": 99
+        },
+        {
+          "keyword": "steelers",
+          "score": 98
+        },
+        {
+          "keyword": "ny giants",
+          "score": 97
+        },
+        {
+          "keyword": "iheartradio",
+          "score": 96
+        },
+        {
+          "keyword": "xom",
+          "score": 95
+        },
+        {
+          "keyword": "xom stock",
+          "score": 94
+        },
+        {
+          "keyword": "when does ramadan end",
+          "score": 93
+        },
+        {
+          "keyword": "dak prescott fiance",
+          "score": 92
+        },
+        {
+          "keyword": "ed ingram",
           "score": 91
         }
       ]
