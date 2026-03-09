@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-05T23:33:02.089Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "pl",
-          "score": 100
-        },
-        {
-          "keyword": "뉴스속보",
-          "score": 99
-        },
-        {
-          "keyword": "오늘 날씨",
-          "score": 98
-        },
-        {
-          "keyword": "gpt 5.4",
-          "score": 97
-        },
-        {
-          "keyword": "kristi noem",
-          "score": 96
-        },
-        {
-          "keyword": "노팅엄",
-          "score": 95
-        },
-        {
-          "keyword": "tottenham đấu với crystal palace",
-          "score": 94
-        },
-        {
-          "keyword": "election commission nepal",
-          "score": 93
-        },
-        {
-          "keyword": "สเปอร์ส พบ คริสตัลพาเลซ",
-          "score": 92
-        },
-        {
-          "keyword": "epl",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-06T01:15:20.319Z",
       "geo": "KR",
       "source": "google",
@@ -6202,6 +6155,53 @@
         },
         {
           "keyword": "인베스팅닷컴",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-09T23:48:13.215Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "코스닥 액티브 etf",
+          "score": 100
+        },
+        {
+          "keyword": "유가 선물",
+          "score": 99
+        },
+        {
+          "keyword": "원유 선물",
+          "score": 98
+        },
+        {
+          "keyword": "เวสต์แฮม พบ เบรนต์ฟอร์ด",
+          "score": 97
+        },
+        {
+          "keyword": "fa컵",
+          "score": 96
+        },
+        {
+          "keyword": "west ham vs brentford",
+          "score": 95
+        },
+        {
+          "keyword": "테슬라 주가",
+          "score": 94
+        },
+        {
+          "keyword": "오늘의운세",
+          "score": 93
+        },
+        {
+          "keyword": "호르무즈 해협 실시간",
+          "score": 92
+        },
+        {
+          "keyword": "trump",
           "score": 91
         }
       ]
