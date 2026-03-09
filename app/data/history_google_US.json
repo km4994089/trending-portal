@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-05T08:39:30.650Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "anhelina kalinina",
-          "score": 100
-        },
-        {
-          "keyword": "san francisco",
-          "score": 99
-        },
-        {
-          "keyword": "seattle seahawks",
-          "score": 98
-        },
-        {
-          "keyword": "ind vs eng",
-          "score": 97
-        },
-        {
-          "keyword": "bryce dallas howard",
-          "score": 96
-        },
-        {
-          "keyword": "katarzyna kawa",
-          "score": 95
-        },
-        {
-          "keyword": "weather forecast snow storm",
-          "score": 94
-        },
-        {
-          "keyword": "3i atlas update",
-          "score": 93
-        },
-        {
-          "keyword": "hurricane season",
-          "score": 92
-        },
-        {
-          "keyword": "ksl",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-05T09:33:27.960Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "online lottery",
-          "score": 100
-        },
-        {
-          "keyword": "severe weather outbreak",
-          "score": 99
-        },
-        {
-          "keyword": "flood warning",
-          "score": 98
-        },
-        {
-          "keyword": "azerbaijan",
-          "score": 97
-        },
-        {
-          "keyword": "anhelina kalinina",
-          "score": 96
-        },
-        {
-          "keyword": "san francisco",
-          "score": 95
-        },
-        {
-          "keyword": "seattle seahawks",
-          "score": 94
-        },
-        {
-          "keyword": "ind vs eng",
-          "score": 93
-        },
-        {
-          "keyword": "bryce dallas howard",
-          "score": 92
-        },
-        {
-          "keyword": "katarzyna kawa",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-05T10:29:46.960Z",
       "geo": "US",
       "source": "google",
@@ -6014,6 +5920,53 @@
         },
         {
           "keyword": "openclaw",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-09T09:38:08.531Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "microsoft stock",
+          "score": 100
+        },
+        {
+          "keyword": "mh370",
+          "score": 99
+        },
+        {
+          "keyword": "kouri richins",
+          "score": 98
+        },
+        {
+          "keyword": "georgia lottery",
+          "score": 97
+        },
+        {
+          "keyword": "carrie underwood",
+          "score": 96
+        },
+        {
+          "keyword": "hims stock",
+          "score": 95
+        },
+        {
+          "keyword": "tesla stock",
+          "score": 94
+        },
+        {
+          "keyword": "mu stock",
+          "score": 93
+        },
+        {
+          "keyword": "workbuddy 腾讯",
+          "score": 92
+        },
+        {
+          "keyword": "mai hontama",
           "score": 91
         }
       ]
