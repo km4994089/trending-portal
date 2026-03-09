@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-05T19:08:01.112Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "錦川鉄道",
-          "score": 100
-        },
-        {
-          "keyword": "marathon",
-          "score": 99
-        },
-        {
-          "keyword": "android 脆弱性",
-          "score": 98
-        },
-        {
-          "keyword": "macbook air macbook neo",
-          "score": 97
-        },
-        {
-          "keyword": "志田こはく",
-          "score": 96
-        },
-        {
-          "keyword": "学童保育",
-          "score": 95
-        },
-        {
-          "keyword": "堀島行真",
-          "score": 94
-        },
-        {
-          "keyword": "タラバガニ",
-          "score": 93
-        },
-        {
-          "keyword": "松山ケンイチ",
-          "score": 92
-        },
-        {
-          "keyword": "杉田智和",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-05T20:03:22.564Z",
       "geo": "JP",
       "source": "google",
@@ -6061,6 +6014,53 @@
         },
         {
           "keyword": "災害",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-09T19:33:48.301Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "にじさんじ",
+          "score": 100
+        },
+        {
+          "keyword": "錦織圭",
+          "score": 99
+        },
+        {
+          "keyword": "twitch",
+          "score": 98
+        },
+        {
+          "keyword": "松田聖子",
+          "score": 97
+        },
+        {
+          "keyword": "金澤亜美",
+          "score": 96
+        },
+        {
+          "keyword": "大雪",
+          "score": 95
+        },
+        {
+          "keyword": "グラブル ガチャ",
+          "score": 94
+        },
+        {
+          "keyword": "米津玄師",
+          "score": 93
+        },
+        {
+          "keyword": "北海道",
+          "score": 92
+        },
+        {
+          "keyword": "檜山地方",
           "score": 91
         }
       ]

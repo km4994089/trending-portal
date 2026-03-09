@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-05T19:07:59.043Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "스팀",
-          "score": 100
-        },
-        {
-          "keyword": "gta6",
-          "score": 99
-        },
-        {
-          "keyword": "wti 유가",
-          "score": 98
-        },
-        {
-          "keyword": "유가 가격",
-          "score": 97
-        },
-        {
-          "keyword": "kick",
-          "score": 96
-        },
-        {
-          "keyword": "김진태",
-          "score": 95
-        },
-        {
-          "keyword": "f1",
-          "score": 94
-        },
-        {
-          "keyword": "kc",
-          "score": 93
-        },
-        {
-          "keyword": "코스피200 야간선물",
-          "score": 92
-        },
-        {
-          "keyword": "김용원",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-05T20:03:21.090Z",
       "geo": "KR",
       "source": "google",
@@ -6061,6 +6014,53 @@
         },
         {
           "keyword": "오브라이언",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-09T19:33:46.460Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "알파고",
+          "score": 100
+        },
+        {
+          "keyword": "persib bandung vs persik",
+          "score": 99
+        },
+        {
+          "keyword": "라일리 오브라이언",
+          "score": 98
+        },
+        {
+          "keyword": "서머타임",
+          "score": 97
+        },
+        {
+          "keyword": "홍석천",
+          "score": 96
+        },
+        {
+          "keyword": "월드컵",
+          "score": 95
+        },
+        {
+          "keyword": "윤석민",
+          "score": 94
+        },
+        {
+          "keyword": "이대형",
+          "score": 93
+        },
+        {
+          "keyword": "wbc 라인업",
+          "score": 92
+        },
+        {
+          "keyword": "축구",
           "score": 91
         }
       ]
