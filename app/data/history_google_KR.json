@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-05T22:21:32.857Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "프리미어리그",
-          "score": 100
-        },
-        {
-          "keyword": "สเปอร์ส พบ คริสตัลพาเลซ",
-          "score": 99
-        },
-        {
-          "keyword": "브로드컴 주가",
-          "score": 98
-        },
-        {
-          "keyword": "epl",
-          "score": 97
-        },
-        {
-          "keyword": "프리미어리그 순위",
-          "score": 96
-        },
-        {
-          "keyword": "테슬라 주가",
-          "score": 95
-        },
-        {
-          "keyword": "tottenham vs crystal palace",
-          "score": 94
-        },
-        {
-          "keyword": "토트넘 홋스퍼 fc",
-          "score": 93
-        },
-        {
-          "keyword": "마이크론 주가",
-          "score": 92
-        },
-        {
-          "keyword": "토트넘",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-05T23:33:02.089Z",
       "geo": "KR",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "이대형",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-09T22:51:36.098Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "fa컵",
+          "score": 100
+        },
+        {
+          "keyword": "เวสต์แฮม พบ เบรนต์ฟอร์ด",
+          "score": 99
+        },
+        {
+          "keyword": "기상청 날씨누리",
+          "score": 98
+        },
+        {
+          "keyword": "west ham vs brentford",
+          "score": 97
+        },
+        {
+          "keyword": "테슬라 주가",
+          "score": 96
+        },
+        {
+          "keyword": "오늘의운세",
+          "score": 95
+        },
+        {
+          "keyword": "나스닥 지수",
+          "score": 94
+        },
+        {
+          "keyword": "호르무즈 해협 실시간",
+          "score": 93
+        },
+        {
+          "keyword": "trump",
+          "score": 92
+        },
+        {
+          "keyword": "트럼프",
           "score": 91
         }
       ]
