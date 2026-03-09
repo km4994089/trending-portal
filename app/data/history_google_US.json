@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-05T12:36:48.467Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "market",
-          "score": 100
-        },
-        {
-          "keyword": "howard stern",
-          "score": 99
-        },
-        {
-          "keyword": "apartheid",
-          "score": 98
-        },
-        {
-          "keyword": "trader joe's recall",
-          "score": 97
-        },
-        {
-          "keyword": "jujutsu kaisen modulo chapter 25",
-          "score": 96
-        },
-        {
-          "keyword": "kouri richins",
-          "score": 95
-        },
-        {
-          "keyword": "playstation games",
-          "score": 94
-        },
-        {
-          "keyword": "ashley mcbryde",
-          "score": 93
-        },
-        {
-          "keyword": "arc raiders",
-          "score": 92
-        },
-        {
-          "keyword": "darnell mooney",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-05T13:55:00.873Z",
       "geo": "US",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "ed ingram",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-09T12:37:11.214Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "miami dolphins",
+          "score": 100
+        },
+        {
+          "keyword": "tua tagovailoa",
+          "score": 99
+        },
+        {
+          "keyword": "slides",
+          "score": 98
+        },
+        {
+          "keyword": "kharg island",
+          "score": 97
+        },
+        {
+          "keyword": "dmarco jackson",
+          "score": 96
+        },
+        {
+          "keyword": "voo",
+          "score": 95
+        },
+        {
+          "keyword": "prize money arnold palmer invitational",
+          "score": 94
+        },
+        {
+          "keyword": "asante samuel jr",
+          "score": 93
+        },
+        {
+          "keyword": "wordle",
+          "score": 92
+        },
+        {
+          "keyword": "nfl news",
           "score": 91
         }
       ]
