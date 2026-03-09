@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-05T07:58:20.261Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "katarzyna kawa",
-          "score": 100
-        },
-        {
-          "keyword": "weather forecast snow storm",
-          "score": 99
-        },
-        {
-          "keyword": "3i atlas update",
-          "score": 98
-        },
-        {
-          "keyword": "hurricane season",
-          "score": 97
-        },
-        {
-          "keyword": "ksl",
-          "score": 96
-        },
-        {
-          "keyword": "darius garland",
-          "score": 95
-        },
-        {
-          "keyword": "dayana yastremska",
-          "score": 94
-        },
-        {
-          "keyword": "invincible season 4",
-          "score": 93
-        },
-        {
-          "keyword": "henry cavill",
-          "score": 92
-        },
-        {
-          "keyword": "wagner moura",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-05T08:39:30.650Z",
       "geo": "US",
       "source": "google",
@@ -6014,6 +5967,53 @@
         },
         {
           "keyword": "nifty 50",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-09T08:33:02.845Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "workbuddy 腾讯",
+          "score": 100
+        },
+        {
+          "keyword": "mai hontama",
+          "score": 99
+        },
+        {
+          "keyword": "elon musk",
+          "score": 98
+        },
+        {
+          "keyword": "kimi",
+          "score": 97
+        },
+        {
+          "keyword": "iranian president masoud pezeshkian",
+          "score": 96
+        },
+        {
+          "keyword": "government shutdown",
+          "score": 95
+        },
+        {
+          "keyword": "ice",
+          "score": 94
+        },
+        {
+          "keyword": "lottery",
+          "score": 93
+        },
+        {
+          "keyword": "car accident lawyers",
+          "score": 92
+        },
+        {
+          "keyword": "openclaw",
           "score": 91
         }
       ]
