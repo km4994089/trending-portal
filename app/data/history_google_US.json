@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-06T03:38:58.746Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sam carrick",
-          "score": 100
-        },
-        {
-          "keyword": "anze kopitar",
-          "score": 99
-        },
-        {
-          "keyword": "brandin podziemski",
-          "score": 98
-        },
-        {
-          "keyword": "elsbeth",
-          "score": 97
-        },
-        {
-          "keyword": "sebastian korda",
-          "score": 96
-        },
-        {
-          "keyword": "bennett stirtz",
-          "score": 95
-        },
-        {
-          "keyword": "jalen duren",
-          "score": 94
-        },
-        {
-          "keyword": "al horford",
-          "score": 93
-        },
-        {
-          "keyword": "bryce dallas howard",
-          "score": 92
-        },
-        {
-          "keyword": "shawn hatosy",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-06T05:05:18.494Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tony gonzales",
-          "score": 100
-        },
-        {
-          "keyword": "kiss all the time disco occasionally",
-          "score": 99
-        },
-        {
-          "keyword": "emiliana arango",
-          "score": 98
-        },
-        {
-          "keyword": "donald faison",
-          "score": 97
-        },
-        {
-          "keyword": "grocery outlet",
-          "score": 96
-        },
-        {
-          "keyword": "lakers",
-          "score": 95
-        },
-        {
-          "keyword": "ryan gosling",
-          "score": 94
-        },
-        {
-          "keyword": "michael zheng",
-          "score": 93
-        },
-        {
-          "keyword": "kalshi",
-          "score": 92
-        },
-        {
-          "keyword": "la kings",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-06T06:02:50.098Z",
       "geo": "US",
       "source": "google",
@@ -6249,6 +6155,53 @@
         },
         {
           "keyword": "alexander butterfield",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-10T05:05:19.980Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "unc",
+          "score": 100
+        },
+        {
+          "keyword": "ghost of yotei legends",
+          "score": 99
+        },
+        {
+          "keyword": "elena rybakina",
+          "score": 98
+        },
+        {
+          "keyword": "mikal bridges",
+          "score": 97
+        },
+        {
+          "keyword": "leslie odom jr",
+          "score": 96
+        },
+        {
+          "keyword": "josh hart",
+          "score": 95
+        },
+        {
+          "keyword": "og anunoby",
+          "score": 94
+        },
+        {
+          "keyword": "chappell roan",
+          "score": 93
+        },
+        {
+          "keyword": "wyatt teller",
+          "score": 92
+        },
+        {
+          "keyword": "war machine (2026)",
           "score": 91
         }
       ]
