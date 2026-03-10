@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-06T22:52:21.186Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "啓蟄",
-          "score": 100
-        },
-        {
-          "keyword": "古平町",
-          "score": 99
-        },
-        {
-          "keyword": "足立梨花",
-          "score": 98
-        },
-        {
-          "keyword": "淡路島",
-          "score": 97
-        },
-        {
-          "keyword": "詐欺対策 by nttタウンページ",
-          "score": 96
-        },
-        {
-          "keyword": "りんたろー",
-          "score": 95
-        },
-        {
-          "keyword": "宮原華音",
-          "score": 94
-        },
-        {
-          "keyword": "里崎智也",
-          "score": 93
-        },
-        {
-          "keyword": "五十嵐亮太",
-          "score": 92
-        },
-        {
-          "keyword": "リーグ・アン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-06T23:19:11.389Z",
       "geo": "JP",
       "source": "google",
@@ -6061,6 +6014,53 @@
         },
         {
           "keyword": "牛角",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-10T23:18:33.199Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "桜 開花予想",
+          "score": 100
+        },
+        {
+          "keyword": "堂本光一",
+          "score": 99
+        },
+        {
+          "keyword": "加藤茶",
+          "score": 98
+        },
+        {
+          "keyword": "東北地震",
+          "score": 97
+        },
+        {
+          "keyword": "エハラマサヒロ",
+          "score": 96
+        },
+        {
+          "keyword": "ゴンチャ",
+          "score": 95
+        },
+        {
+          "keyword": "水俣病",
+          "score": 94
+        },
+        {
+          "keyword": "宇都宮市",
+          "score": 93
+        },
+        {
+          "keyword": "ロッテリア",
+          "score": 92
+        },
+        {
+          "keyword": "bts",
           "score": 91
         }
       ]

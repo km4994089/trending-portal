@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-06T22:52:18.631Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "james carville",
-          "score": 100
-        },
-        {
-          "keyword": "austin peay basketball",
-          "score": 99
-        },
-        {
-          "keyword": "george soros",
-          "score": 98
-        },
-        {
-          "keyword": "mackenzie childs",
-          "score": 97
-        },
-        {
-          "keyword": "fackham hall",
-          "score": 96
-        },
-        {
-          "keyword": "vinay prasad",
-          "score": 95
-        },
-        {
-          "keyword": "uc davis",
-          "score": 94
-        },
-        {
-          "keyword": "syracuse",
-          "score": 93
-        },
-        {
-          "keyword": "ben stiller",
-          "score": 92
-        },
-        {
-          "keyword": "syracuse university",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-06T23:19:08.652Z",
       "geo": "US",
       "source": "google",
@@ -6061,6 +6014,53 @@
         },
         {
           "keyword": "eddie bauer store closures",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-10T23:18:31.113Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "luka doncic",
+          "score": 100
+        },
+        {
+          "keyword": "celtics vs spurs",
+          "score": 99
+        },
+        {
+          "keyword": "kansas state vs byu",
+          "score": 98
+        },
+        {
+          "keyword": "flames vs rangers",
+          "score": 97
+        },
+        {
+          "keyword": "wake forest basketball",
+          "score": 96
+        },
+        {
+          "keyword": "maple leafs vs canadiens",
+          "score": 95
+        },
+        {
+          "keyword": "wright state basketball",
+          "score": 94
+        },
+        {
+          "keyword": "police academy",
+          "score": 93
+        },
+        {
+          "keyword": "epic games fortnite",
+          "score": 92
+        },
+        {
+          "keyword": "severe thunderstorm warning",
           "score": 91
         }
       ]
