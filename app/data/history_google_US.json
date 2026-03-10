@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-06T01:15:18.809Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "michigan vs iowa",
-          "score": 100
-        },
-        {
-          "keyword": "msu basketball",
-          "score": 99
-        },
-        {
-          "keyword": "ace bailey",
-          "score": 98
-        },
-        {
-          "keyword": "corey harrison",
-          "score": 97
-        },
-        {
-          "keyword": "apple tv",
-          "score": 96
-        },
-        {
-          "keyword": "lightning vs jets",
-          "score": 95
-        },
-        {
-          "keyword": "what time does the pitt come out",
-          "score": 94
-        },
-        {
-          "keyword": "liberty basketball",
-          "score": 93
-        },
-        {
-          "keyword": "bruins vs predators",
-          "score": 92
-        },
-        {
-          "keyword": "justin champagnie",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-06T03:38:58.746Z",
       "geo": "US",
       "source": "google",
@@ -6249,6 +6202,53 @@
         },
         {
           "keyword": "cason wallace",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-10T03:36:35.197Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "warriors",
+          "score": 100
+        },
+        {
+          "keyword": "santa clara basketball",
+          "score": 99
+        },
+        {
+          "keyword": "golden state warriors",
+          "score": 98
+        },
+        {
+          "keyword": "kawhi leonard",
+          "score": 97
+        },
+        {
+          "keyword": "tyquan thornton",
+          "score": 96
+        },
+        {
+          "keyword": "darius garland",
+          "score": 95
+        },
+        {
+          "keyword": "edwin diaz",
+          "score": 94
+        },
+        {
+          "keyword": "italy wbc",
+          "score": 93
+        },
+        {
+          "keyword": "karl anthony towns",
+          "score": 92
+        },
+        {
+          "keyword": "alexander butterfield",
           "score": 91
         }
       ]

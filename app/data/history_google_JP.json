@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-06T01:15:21.548Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "岐阜大学",
-          "score": 100
-        },
-        {
-          "keyword": "愛媛大学",
-          "score": 99
-        },
-        {
-          "keyword": "高知大学",
-          "score": 98
-        },
-        {
-          "keyword": "室蘭工業大学",
-          "score": 97
-        },
-        {
-          "keyword": "水俣病",
-          "score": 96
-        },
-        {
-          "keyword": "信州大学",
-          "score": 95
-        },
-        {
-          "keyword": "選抜高校野球 出場校",
-          "score": 94
-        },
-        {
-          "keyword": "ユネスコ",
-          "score": 93
-        },
-        {
-          "keyword": "ig",
-          "score": 92
-        },
-        {
-          "keyword": "埼玉県公立高校",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-06T03:39:01.927Z",
       "geo": "JP",
       "source": "google",
@@ -6249,6 +6202,53 @@
         },
         {
           "keyword": "jdi 株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-10T03:36:38.000Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "花澤香菜",
+          "score": 100
+        },
+        {
+          "keyword": "布袋寅泰",
+          "score": 99
+        },
+        {
+          "keyword": "福士蒼汰",
+          "score": 98
+        },
+        {
+          "keyword": "セス・カリー",
+          "score": 97
+        },
+        {
+          "keyword": "ユネスコ",
+          "score": 96
+        },
+        {
+          "keyword": "エチオピア航空",
+          "score": 95
+        },
+        {
+          "keyword": "新聞",
+          "score": 94
+        },
+        {
+          "keyword": "今井美樹",
+          "score": 93
+        },
+        {
+          "keyword": "大王製紙",
+          "score": 92
+        },
+        {
+          "keyword": "いしだ壱成",
           "score": 91
         }
       ]
