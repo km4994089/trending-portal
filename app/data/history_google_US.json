@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-06T14:29:30.215Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "madison beer",
-          "score": 100
-        },
-        {
-          "keyword": "israel iran attack",
-          "score": 99
-        },
-        {
-          "keyword": "alan greenspan",
-          "score": 98
-        },
-        {
-          "keyword": "sam asghari",
-          "score": 97
-        },
-        {
-          "keyword": "gta vi",
-          "score": 96
-        },
-        {
-          "keyword": "trick williams",
-          "score": 95
-        },
-        {
-          "keyword": "jobs report",
-          "score": 94
-        },
-        {
-          "keyword": "nfl free agency start",
-          "score": 93
-        },
-        {
-          "keyword": "oklahoma tornado",
-          "score": 92
-        },
-        {
-          "keyword": "ben sasse",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-06T15:04:19.169Z",
       "geo": "US",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "dan caine",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-10T14:40:31.588Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "caleb foster",
+          "score": 100
+        },
+        {
+          "keyword": "orcl stock",
+          "score": 99
+        },
+        {
+          "keyword": "earthquake",
+          "score": 98
+        },
+        {
+          "keyword": "earthquake today",
+          "score": 97
+        },
+        {
+          "keyword": "nate hobbs",
+          "score": 96
+        },
+        {
+          "keyword": "buy bitcoin",
+          "score": 95
+        },
+        {
+          "keyword": "cryptocurrency machine",
+          "score": 94
+        },
+        {
+          "keyword": "project hail mary",
+          "score": 93
+        },
+        {
+          "keyword": "goldie hawn",
+          "score": 92
+        },
+        {
+          "keyword": "phil rosenthal",
           "score": 91
         }
       ]
