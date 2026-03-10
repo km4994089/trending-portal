@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-06T12:32:33.860Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "weather tornado warning",
-          "score": 100
-        },
-        {
-          "keyword": "djia futures",
-          "score": 99
-        },
-        {
-          "keyword": "islanders",
-          "score": 98
-        },
-        {
-          "keyword": "dow jones futures",
-          "score": 97
-        },
-        {
-          "keyword": "daylight savings 2026",
-          "score": 96
-        },
-        {
-          "keyword": "magic city atlanta",
-          "score": 95
-        },
-        {
-          "keyword": "vincent trocheck",
-          "score": 94
-        },
-        {
-          "keyword": "world baseball classic 2026",
-          "score": 93
-        },
-        {
-          "keyword": "india women vs australia women",
-          "score": 92
-        },
-        {
-          "keyword": "fairview ok",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-06T13:46:13.948Z",
       "geo": "US",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "marjorie taylor greene",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-10T12:36:56.365Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "pete hegseth",
+          "score": 100
+        },
+        {
+          "keyword": "bernard arnault",
+          "score": 99
+        },
+        {
+          "keyword": "joshua jackson",
+          "score": 98
+        },
+        {
+          "keyword": "new york times wordle",
+          "score": 97
+        },
+        {
+          "keyword": "lottery powerball winning numbers",
+          "score": 96
+        },
+        {
+          "keyword": "shannon bream",
+          "score": 95
+        },
+        {
+          "keyword": "dwight howard wife",
+          "score": 94
+        },
+        {
+          "keyword": "acc tournament",
+          "score": 93
+        },
+        {
+          "keyword": "jose manuel restrepo",
+          "score": 92
+        },
+        {
+          "keyword": "benjamin st juste",
           "score": 91
         }
       ]
