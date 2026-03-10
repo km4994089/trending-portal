@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-06T20:52:49.964Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "psg",
-          "score": 100
-        },
-        {
-          "keyword": "lukas reichel",
-          "score": 99
-        },
-        {
-          "keyword": "murray state basketball",
-          "score": 98
-        },
-        {
-          "keyword": "jonathan aranda",
-          "score": 97
-        },
-        {
-          "keyword": "daniel berger",
-          "score": 96
-        },
-        {
-          "keyword": "orcl stock",
-          "score": 95
-        },
-        {
-          "keyword": "ufc 326",
-          "score": 94
-        },
-        {
-          "keyword": "scott laughton",
-          "score": 93
-        },
-        {
-          "keyword": "lipscomb basketball",
-          "score": 92
-        },
-        {
-          "keyword": "wikigacha",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-06T21:20:20.237Z",
       "geo": "US",
       "source": "google",
@@ -6014,6 +5967,53 @@
         },
         {
           "keyword": "utah vs cincinnati",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-10T20:55:14.626Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "talia gibson",
+          "score": 100
+        },
+        {
+          "keyword": "otito ogbonnia",
+          "score": 99
+        },
+        {
+          "keyword": "smu basketball",
+          "score": 98
+        },
+        {
+          "keyword": "ronda rousey",
+          "score": 97
+        },
+        {
+          "keyword": "harry kane",
+          "score": 96
+        },
+        {
+          "keyword": "antonín kinský",
+          "score": 95
+        },
+        {
+          "keyword": "atletico de madrid",
+          "score": 94
+        },
+        {
+          "keyword": "ucl games",
+          "score": 93
+        },
+        {
+          "keyword": "bayern",
+          "score": 92
+        },
+        {
+          "keyword": "tudn",
           "score": 91
         }
       ]
