@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-06T21:20:21.464Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "celta vigo vs real madrid",
-          "score": 100
-        },
-        {
-          "keyword": "wolves vs liverpool",
-          "score": 99
-        },
-        {
-          "keyword": "울브스 대 리버풀",
-          "score": 98
-        },
-        {
-          "keyword": "psg 대 as 모나코",
-          "score": 97
-        },
-        {
-          "keyword": "psg",
-          "score": 96
-        },
-        {
-          "keyword": "셀타 비고 대 레알 마드리드",
-          "score": 95
-        },
-        {
-          "keyword": "바이에른 대 묀헨글라트바흐",
-          "score": 94
-        },
-        {
-          "keyword": "바이에른 뮌헨",
-          "score": 93
-        },
-        {
-          "keyword": "웨이브",
-          "score": 92
-        },
-        {
-          "keyword": "fa컵",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-06T21:50:17.433Z",
       "geo": "KR",
       "source": "google",
@@ -6014,6 +5967,53 @@
         },
         {
           "keyword": "리버풀",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-10T21:21:40.430Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "토트넘",
+          "score": 100
+        },
+        {
+          "keyword": "스포츠중계",
+          "score": 99
+        },
+        {
+          "keyword": "newcastle vs barcelona",
+          "score": 98
+        },
+        {
+          "keyword": "오라클 주가",
+          "score": 97
+        },
+        {
+          "keyword": "champions league",
+          "score": 96
+        },
+        {
+          "keyword": "챔피언스리그",
+          "score": 95
+        },
+        {
+          "keyword": "아틀레티코 대 토트넘",
+          "score": 94
+        },
+        {
+          "keyword": "아탈란타 대 바이에른",
+          "score": 93
+        },
+        {
+          "keyword": "뉴캐슬 대 바르셀로나",
+          "score": 92
+        },
+        {
+          "keyword": "กาลาตาซาราย พบ ลิเวอร์พูล",
           "score": 91
         }
       ]
