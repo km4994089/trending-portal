@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-06T09:01:46.118Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "多摩動物公園",
-          "score": 100
-        },
-        {
-          "keyword": "yak-130",
-          "score": 99
-        },
-        {
-          "keyword": "日本 台湾",
-          "score": 98
-        },
-        {
-          "keyword": "埼玉栄高校",
-          "score": 97
-        },
-        {
-          "keyword": "ダブリュービーシー 2026",
-          "score": 96
-        },
-        {
-          "keyword": "wbc 今日",
-          "score": 95
-        },
-        {
-          "keyword": "東京科学大",
-          "score": 94
-        },
-        {
-          "keyword": "netflix テレビで見る方法",
-          "score": 93
-        },
-        {
-          "keyword": "村田製作所",
-          "score": 92
-        },
-        {
-          "keyword": "nine",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-06T09:59:46.832Z",
       "geo": "JP",
       "source": "google",
@@ -6202,6 +6155,53 @@
         },
         {
           "keyword": "玉鷲",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-10T09:33:59.868Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "辻希美",
+          "score": 100
+        },
+        {
+          "keyword": "wbc スタメン",
+          "score": 99
+        },
+        {
+          "keyword": "徳光和夫",
+          "score": 98
+        },
+        {
+          "keyword": "wbc 今日",
+          "score": 97
+        },
+        {
+          "keyword": "日本経済大学",
+          "score": 96
+        },
+        {
+          "keyword": "稲葉 浩志 タッチ",
+          "score": 95
+        },
+        {
+          "keyword": "ykkap",
+          "score": 94
+        },
+        {
+          "keyword": "琴櫻",
+          "score": 93
+        },
+        {
+          "keyword": "バックカントリー",
+          "score": 92
+        },
+        {
+          "keyword": "小僧寿し",
           "score": 91
         }
       ]

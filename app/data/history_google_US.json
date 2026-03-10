@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-06T09:01:43.643Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "casablanca",
-          "score": 100
-        },
-        {
-          "keyword": "pune",
-          "score": 99
-        },
-        {
-          "keyword": "belo horizonte",
-          "score": 98
-        },
-        {
-          "keyword": "lahore",
-          "score": 97
-        },
-        {
-          "keyword": "war machine 2026",
-          "score": 96
-        },
-        {
-          "keyword": "bogota",
-          "score": 95
-        },
-        {
-          "keyword": "anhelina kalinina",
-          "score": 94
-        },
-        {
-          "keyword": "wuhan",
-          "score": 93
-        },
-        {
-          "keyword": "brussels",
-          "score": 92
-        },
-        {
-          "keyword": "algiers",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-06T09:59:44.404Z",
       "geo": "US",
       "source": "google",
@@ -6202,6 +6155,53 @@
         },
         {
           "keyword": "personal injury attorneys",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-10T09:33:57.198Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "winter storm warning weather",
+          "score": 100
+        },
+        {
+          "keyword": "we",
+          "score": 99
+        },
+        {
+          "keyword": "spirit",
+          "score": 98
+        },
+        {
+          "keyword": "sag aftra",
+          "score": 97
+        },
+        {
+          "keyword": "mass lottery",
+          "score": 96
+        },
+        {
+          "keyword": "nasa satellite crash",
+          "score": 95
+        },
+        {
+          "keyword": "high wind watch",
+          "score": 94
+        },
+        {
+          "keyword": "anne frank house",
+          "score": 93
+        },
+        {
+          "keyword": "raw results",
+          "score": 92
+        },
+        {
+          "keyword": "avengers doomsday",
           "score": 91
         }
       ]
