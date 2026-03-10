@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-06T08:26:26.698Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "madrid",
-          "score": 100
-        },
-        {
-          "keyword": "boston",
-          "score": 99
-        },
-        {
-          "keyword": "san francisco",
-          "score": 98
-        },
-        {
-          "keyword": "hong kong",
-          "score": 97
-        },
-        {
-          "keyword": "washington dc",
-          "score": 96
-        },
-        {
-          "keyword": "mumbai",
-          "score": 95
-        },
-        {
-          "keyword": "vancouver",
-          "score": 94
-        },
-        {
-          "keyword": "manila",
-          "score": 93
-        },
-        {
-          "keyword": "kolkata",
-          "score": 92
-        },
-        {
-          "keyword": "philadelphia",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-06T09:01:43.643Z",
       "geo": "US",
       "source": "google",
@@ -6202,6 +6155,53 @@
         },
         {
           "keyword": "maggie gyllenhaal",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-10T08:41:01.886Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "paradise season 2 episode 5 recap",
+          "score": 100
+        },
+        {
+          "keyword": "katarzyna kawa",
+          "score": 99
+        },
+        {
+          "keyword": "宋平",
+          "score": 98
+        },
+        {
+          "keyword": "weather storms tornadoes",
+          "score": 97
+        },
+        {
+          "keyword": "mario day",
+          "score": 96
+        },
+        {
+          "keyword": "klarna",
+          "score": 95
+        },
+        {
+          "keyword": "enhypen",
+          "score": 94
+        },
+        {
+          "keyword": "keyshawn davis",
+          "score": 93
+        },
+        {
+          "keyword": "brianna johnson",
+          "score": 92
+        },
+        {
+          "keyword": "personal injury attorneys",
           "score": 91
         }
       ]
