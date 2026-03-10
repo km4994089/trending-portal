@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-06T15:04:20.740Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "고영표",
-          "score": 100
-        },
-        {
-          "keyword": "표예진",
-          "score": 99
-        },
-        {
-          "keyword": "김민주",
-          "score": 98
-        },
-        {
-          "keyword": "안세영",
-          "score": 97
-        },
-        {
-          "keyword": "비",
-          "score": 96
-        },
-        {
-          "keyword": "지수",
-          "score": 95
-        },
-        {
-          "keyword": "sxmb",
-          "score": 94
-        },
-        {
-          "keyword": "집속탄",
-          "score": 93
-        },
-        {
-          "keyword": "wbc 2026",
-          "score": 92
-        },
-        {
-          "keyword": "wbc 한국",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-06T15:57:51.395Z",
       "geo": "KR",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "토스 엔화",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-10T15:51:35.247Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "홍지윤",
+          "score": 100
+        },
+        {
+          "keyword": "이수연",
+          "score": 99
+        },
+        {
+          "keyword": "캐치",
+          "score": 98
+        },
+        {
+          "keyword": "오승환",
+          "score": 97
+        },
+        {
+          "keyword": "이솜",
+          "score": 96
+        },
+        {
+          "keyword": "세르비아",
+          "score": 95
+        },
+        {
+          "keyword": "프리지아",
+          "score": 94
+        },
+        {
+          "keyword": "xsmb",
+          "score": 93
+        },
+        {
+          "keyword": "토스 엔화",
+          "score": 92
+        },
+        {
+          "keyword": "일본 체코",
           "score": 91
         }
       ]

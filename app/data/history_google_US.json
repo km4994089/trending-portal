@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-06T15:04:19.169Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "spy stock",
-          "score": 100
-        },
-        {
-          "keyword": "10 year treasury yield",
-          "score": 99
-        },
-        {
-          "keyword": "mrvl stock",
-          "score": 98
-        },
-        {
-          "keyword": "uso stock",
-          "score": 97
-        },
-        {
-          "keyword": "leo woodall",
-          "score": 96
-        },
-        {
-          "keyword": "madison beer",
-          "score": 95
-        },
-        {
-          "keyword": "israel iran attack",
-          "score": 94
-        },
-        {
-          "keyword": "alan greenspan",
-          "score": 93
-        },
-        {
-          "keyword": "sam asghari",
-          "score": 92
-        },
-        {
-          "keyword": "gta vi",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-06T15:57:49.997Z",
       "geo": "US",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "phil rosenthal",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-10T15:51:33.829Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "barcelona vs newcastle",
+          "score": 100
+        },
+        {
+          "keyword": "sheryl underwood",
+          "score": 99
+        },
+        {
+          "keyword": "tornado warning indianapolis",
+          "score": 98
+        },
+        {
+          "keyword": "ed martin",
+          "score": 97
+        },
+        {
+          "keyword": "kisd",
+          "score": 96
+        },
+        {
+          "keyword": "darron lee",
+          "score": 95
+        },
+        {
+          "keyword": "caleb foster",
+          "score": 94
+        },
+        {
+          "keyword": "indianapolis weather",
+          "score": 93
+        },
+        {
+          "keyword": "orcl stock",
+          "score": 92
+        },
+        {
+          "keyword": "earthquake",
           "score": 91
         }
       ]
