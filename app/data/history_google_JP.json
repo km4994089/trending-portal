@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-06T09:59:46.832Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "taz",
-          "score": 100
-        },
-        {
-          "keyword": "ネットフリックス 料金",
-          "score": 99
-        },
-        {
-          "keyword": "fire",
-          "score": 98
-        },
-        {
-          "keyword": "wbc 予選",
-          "score": 97
-        },
-        {
-          "keyword": "イスラエル イラン攻撃",
-          "score": 96
-        },
-        {
-          "keyword": "山本由伸",
-          "score": 95
-        },
-        {
-          "keyword": "野球速報",
-          "score": 94
-        },
-        {
-          "keyword": "wbc速報 リアルタイム",
-          "score": 93
-        },
-        {
-          "keyword": "パーキンソン病",
-          "score": 92
-        },
-        {
-          "keyword": "スポナビ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-06T10:38:01.779Z",
       "geo": "JP",
       "source": "google",
@@ -6202,6 +6155,53 @@
         },
         {
           "keyword": "小僧寿し",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-10T10:29:18.571Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "サトリア",
+          "score": 100
+        },
+        {
+          "keyword": "ビーズ",
+          "score": 99
+        },
+        {
+          "keyword": "wbc 予選",
+          "score": 98
+        },
+        {
+          "keyword": "オモウマい店 富山",
+          "score": 97
+        },
+        {
+          "keyword": "フルプ",
+          "score": 96
+        },
+        {
+          "keyword": "安藤優子",
+          "score": 95
+        },
+        {
+          "keyword": "富山",
+          "score": 94
+        },
+        {
+          "keyword": "高橋宏斗",
+          "score": 93
+        },
+        {
+          "keyword": "bz",
+          "score": 92
+        },
+        {
+          "keyword": "wbc今日",
           "score": 91
         }
       ]
