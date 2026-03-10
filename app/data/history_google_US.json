@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-06T18:40:50.265Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jazz chisholm",
-          "score": 100
-        },
-        {
-          "keyword": "alec ingold",
-          "score": 99
-        },
-        {
-          "keyword": "mario day games",
-          "score": 98
-        },
-        {
-          "keyword": "taron johnson",
-          "score": 97
-        },
-        {
-          "keyword": "vinnie hinostroza",
-          "score": 96
-        },
-        {
-          "keyword": "venezuela",
-          "score": 95
-        },
-        {
-          "keyword": "ucla women's basketball",
-          "score": 94
-        },
-        {
-          "keyword": "south carolina women's basketball",
-          "score": 93
-        },
-        {
-          "keyword": "jalen carter",
-          "score": 92
-        },
-        {
-          "keyword": "venezuela vs paises bajos",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-06T19:27:36.674Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "celta de vigo - real madrid",
-          "score": 100
-        },
-        {
-          "keyword": "celta vigo vs real madrid",
-          "score": 99
-        },
-        {
-          "keyword": "lamar jackson",
-          "score": 98
-        },
-        {
-          "keyword": "tatum",
-          "score": 97
-        },
-        {
-          "keyword": "timothy liljegren",
-          "score": 96
-        },
-        {
-          "keyword": "brayden schenn",
-          "score": 95
-        },
-        {
-          "keyword": "bayern - mönchengladbach",
-          "score": 94
-        },
-        {
-          "keyword": "napoli vs torino",
-          "score": 93
-        },
-        {
-          "keyword": "belmont basketball",
-          "score": 92
-        },
-        {
-          "keyword": "arnold palmer",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-06T19:53:29.068Z",
       "geo": "US",
       "source": "google",
@@ -6108,6 +6014,53 @@
         },
         {
           "keyword": "flood watch",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-10T19:31:33.650Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "newcastle - barcelona",
+          "score": 100
+        },
+        {
+          "keyword": "atlético madrid - tottenham",
+          "score": 99
+        },
+        {
+          "keyword": "atalanta vs bayern",
+          "score": 98
+        },
+        {
+          "keyword": "aj brown",
+          "score": 97
+        },
+        {
+          "keyword": "utah basketball",
+          "score": 96
+        },
+        {
+          "keyword": "isaiah simmons",
+          "score": 95
+        },
+        {
+          "keyword": "daniel jones",
+          "score": 94
+        },
+        {
+          "keyword": "alina habba",
+          "score": 93
+        },
+        {
+          "keyword": "hilary duff sister",
+          "score": 92
+        },
+        {
+          "keyword": "carson wentz",
           "score": 91
         }
       ]
