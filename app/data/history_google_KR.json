@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-07T01:07:04.043Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "bts",
-          "score": 100
-        },
-        {
-          "keyword": "이재룡",
-          "score": 99
-        },
-        {
-          "keyword": "스포츠",
-          "score": 98
-        },
-        {
-          "keyword": "เซลตา พบ เรอัลมาดริด",
-          "score": 97
-        },
-        {
-          "keyword": "라리가",
-          "score": 96
-        },
-        {
-          "keyword": "wolves đấu với liverpool",
-          "score": 95
-        },
-        {
-          "keyword": "天気",
-          "score": 94
-        },
-        {
-          "keyword": "celta đấu với real madrid",
-          "score": 93
-        },
-        {
-          "keyword": "psg vs monaco",
-          "score": 92
-        },
-        {
-          "keyword": "сельта – реал мадрид",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-07T03:28:35.777Z",
       "geo": "KR",
       "source": "google",
@@ -6014,6 +5967,53 @@
         },
         {
           "keyword": "ньюкасл юнайтед – барселона",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-11T01:07:24.349Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "아이엠바이오로직스",
+          "score": 100
+        },
+        {
+          "keyword": "성우하이텍",
+          "score": 99
+        },
+        {
+          "keyword": "메가박스",
+          "score": 98
+        },
+        {
+          "keyword": "인터배터리",
+          "score": 97
+        },
+        {
+          "keyword": "롤",
+          "score": 96
+        },
+        {
+          "keyword": "bts",
+          "score": 95
+        },
+        {
+          "keyword": "국제유가",
+          "score": 94
+        },
+        {
+          "keyword": "อัตเลติโกมาดริด พบ สเปอร์ส",
+          "score": 93
+        },
+        {
+          "keyword": "newcastle đấu với barcelona",
+          "score": 92
+        },
+        {
+          "keyword": "นิวคาสเซิล พบ บาร์ซา",
           "score": 91
         }
       ]

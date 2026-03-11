@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-07T01:07:05.386Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "長崎大学",
-          "score": 100
-        },
-        {
-          "keyword": "滋賀県立大学",
-          "score": 99
-        },
-        {
-          "keyword": "サナエトークン 藤井",
-          "score": 98
-        },
-        {
-          "keyword": "ニカラグア wbc",
-          "score": 97
-        },
-        {
-          "keyword": "国債",
-          "score": 96
-        },
-        {
-          "keyword": "平安神宮",
-          "score": 95
-        },
-        {
-          "keyword": "リッツカールトン",
-          "score": 94
-        },
-        {
-          "keyword": "タティスjr",
-          "score": 93
-        },
-        {
-          "keyword": "セルティックス 対 マーベリックス",
-          "score": 92
-        },
-        {
-          "keyword": "スペーシア",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-07T03:28:37.082Z",
       "geo": "JP",
       "source": "google",
@@ -6014,6 +5967,53 @@
         },
         {
           "keyword": "加藤茶",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-11T01:07:25.625Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "任天堂株価",
+          "score": 100
+        },
+        {
+          "keyword": "緊急地震速報",
+          "score": 99
+        },
+        {
+          "keyword": "smc",
+          "score": 98
+        },
+        {
+          "keyword": "津波",
+          "score": 97
+        },
+        {
+          "keyword": "ミャクミャク",
+          "score": 96
+        },
+        {
+          "keyword": "iea",
+          "score": 95
+        },
+        {
+          "keyword": "ペロブスカイト太陽電池",
+          "score": 94
+        },
+        {
+          "keyword": "lng",
+          "score": 93
+        },
+        {
+          "keyword": "jdi",
+          "score": 92
+        },
+        {
+          "keyword": "jica",
           "score": 91
         }
       ]
