@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-07T10:45:52.366Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "鈴木誠也",
-          "score": 100
-        },
-        {
-          "keyword": "ベッキー",
-          "score": 99
-        },
-        {
-          "keyword": "村上宗隆",
-          "score": 98
-        },
-        {
-          "keyword": "ペルシャ",
-          "score": 97
-        },
-        {
-          "keyword": "ワールドカップ",
-          "score": 96
-        },
-        {
-          "keyword": "坂本勇人",
-          "score": 95
-        },
-        {
-          "keyword": "wbc live",
-          "score": 94
-        },
-        {
-          "keyword": "プロ野球速報",
-          "score": 93
-        },
-        {
-          "keyword": "wbc 応援歌",
-          "score": 92
-        },
-        {
-          "keyword": "インド 対 日本",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-07T11:12:04.368Z",
       "geo": "JP",
       "source": "google",
@@ -5873,6 +5826,53 @@
         },
         {
           "keyword": "出光",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-11T11:06:49.975Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "イルカ",
+          "score": 100
+        },
+        {
+          "keyword": "高橋由伸",
+          "score": 99
+        },
+        {
+          "keyword": "大谷翔平 ヘッドホン",
+          "score": 98
+        },
+        {
+          "keyword": "成田空港",
+          "score": 97
+        },
+        {
+          "keyword": "exile",
+          "score": 96
+        },
+        {
+          "keyword": "石川みなみ",
+          "score": 95
+        },
+        {
+          "keyword": "賀来賢人",
+          "score": 94
+        },
+        {
+          "keyword": "ヒカル",
+          "score": 93
+        },
+        {
+          "keyword": "松下由樹",
+          "score": 92
+        },
+        {
+          "keyword": "嵐 ライブ",
           "score": 91
         }
       ]
