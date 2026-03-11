@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-07T03:28:35.777Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ester expósito",
-          "score": 100
-        },
-        {
-          "keyword": "카타르",
-          "score": 99
-        },
-        {
-          "keyword": "스포티파이",
-          "score": 98
-        },
-        {
-          "keyword": "티모시 샬라메",
-          "score": 97
-        },
-        {
-          "keyword": "게임",
-          "score": 96
-        },
-        {
-          "keyword": "bts",
-          "score": 95
-        },
-        {
-          "keyword": "이재룡",
-          "score": 94
-        },
-        {
-          "keyword": "fa cup",
-          "score": 93
-        },
-        {
-          "keyword": "เซลตา พบ เรอัลมาดริด",
-          "score": 92
-        },
-        {
-          "keyword": "라리가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-07T04:46:20.962Z",
       "geo": "KR",
       "source": "google",
@@ -6014,6 +5967,53 @@
         },
         {
           "keyword": "นิวคาสเซิล พบ บาร์ซา",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-11T03:36:21.315Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "bam adebayo",
+          "score": 100
+        },
+        {
+          "keyword": "에어부산",
+          "score": 99
+        },
+        {
+          "keyword": "스카이런",
+          "score": 98
+        },
+        {
+          "keyword": "롯데온",
+          "score": 97
+        },
+        {
+          "keyword": "국립중앙박물관",
+          "score": 96
+        },
+        {
+          "keyword": "모즈타바",
+          "score": 95
+        },
+        {
+          "keyword": "야닉 시너",
+          "score": 94
+        },
+        {
+          "keyword": "한화오션",
+          "score": 93
+        },
+        {
+          "keyword": "대한광통신",
+          "score": 92
+        },
+        {
+          "keyword": "청약홈",
           "score": 91
         }
       ]
