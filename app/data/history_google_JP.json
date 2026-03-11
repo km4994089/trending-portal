@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-07T07:46:23.483Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "福原遥",
-          "score": 100
-        },
-        {
-          "keyword": "弥生賞 過去",
-          "score": 99
-        },
-        {
-          "keyword": "ドラゴンフライズ",
-          "score": 98
-        },
-        {
-          "keyword": "タモリ",
-          "score": 97
-        },
-        {
-          "keyword": "アカデミー賞 2026",
-          "score": 96
-        },
-        {
-          "keyword": "日ハム オープン戦",
-          "score": 95
-        },
-        {
-          "keyword": "阪急電車",
-          "score": 94
-        },
-        {
-          "keyword": "阪急",
-          "score": 93
-        },
-        {
-          "keyword": "児島競艇",
-          "score": 92
-        },
-        {
-          "keyword": "阪急京都線",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-07T08:18:48.699Z",
       "geo": "JP",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "三陸鉄道",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-11T07:59:01.830Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "玉鷲",
+          "score": 100
+        },
+        {
+          "keyword": "レクイエム",
+          "score": 99
+        },
+        {
+          "keyword": "日本相撲協会",
+          "score": 98
+        },
+        {
+          "keyword": "朝乃山",
+          "score": 97
+        },
+        {
+          "keyword": "賭博",
+          "score": 96
+        },
+        {
+          "keyword": "eneos",
+          "score": 95
+        },
+        {
+          "keyword": "羽生結弦",
+          "score": 94
+        },
+        {
+          "keyword": "藤天晴",
+          "score": 93
+        },
+        {
+          "keyword": "宮島競艇",
+          "score": 92
+        },
+        {
+          "keyword": "高橋真麻",
           "score": 91
         }
       ]
