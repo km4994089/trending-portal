@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-07T22:13:03.437Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "นิวคาสเซิล พบ แมนซิตี",
-          "score": 100
-        },
-        {
-          "keyword": "athletic club vs barcelona",
-          "score": 99
-        },
-        {
-          "keyword": "바르셀로나",
-          "score": 98
-        },
-        {
-          "keyword": "เร็กซ์แฮม พบ เชลซี",
-          "score": 97
-        },
-        {
-          "keyword": "newcastle vs man city",
-          "score": 96
-        },
-        {
-          "keyword": "전영오픈",
-          "score": 95
-        },
-        {
-          "keyword": "아틀레틱 대 바르셀로나",
-          "score": 94
-        },
-        {
-          "keyword": "세계 여성의 날 행사",
-          "score": 93
-        },
-        {
-          "keyword": "wrexham vs chelsea",
-          "score": 92
-        },
-        {
-          "keyword": "atlético madrid vs real sociedad",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-07T22:45:35.172Z",
       "geo": "KR",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "พยากรณ์อากาศ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-11T22:18:49.182Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "챔스 16강",
+          "score": 100
+        },
+        {
+          "keyword": "เรอัลมาดริด พบ แมนซิตี",
+          "score": 99
+        },
+        {
+          "keyword": "real madrid đấu với man city",
+          "score": 98
+        },
+        {
+          "keyword": "thiago pitarch pinar",
+          "score": 97
+        },
+        {
+          "keyword": "psg vs chelsea",
+          "score": 96
+        },
+        {
+          "keyword": "реал мадрид – манчестер сити",
+          "score": 95
+        },
+        {
+          "keyword": "c1",
+          "score": 94
+        },
+        {
+          "keyword": "스포츠 중계",
+          "score": 93
+        },
+        {
+          "keyword": "real madrid vs man city",
+          "score": 92
+        },
+        {
+          "keyword": "psg",
           "score": 91
         }
       ]
