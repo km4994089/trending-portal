@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-07T05:32:22.954Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "浦和 対 水戸",
-          "score": 100
-        },
-        {
-          "keyword": "小栗旬",
-          "score": 99
-        },
-        {
-          "keyword": "ファイターズ",
-          "score": 98
-        },
-        {
-          "keyword": "クラシエカップ",
-          "score": 97
-        },
-        {
-          "keyword": "c大阪 対 清水",
-          "score": 96
-        },
-        {
-          "keyword": "f1 tv",
-          "score": 95
-        },
-        {
-          "keyword": "湯河原",
-          "score": 94
-        },
-        {
-          "keyword": "唐沢寿明",
-          "score": 93
-        },
-        {
-          "keyword": "キントレ",
-          "score": 92
-        },
-        {
-          "keyword": "芦田愛菜",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-07T06:26:59.065Z",
       "geo": "JP",
       "source": "google",
@@ -6014,6 +5967,53 @@
         },
         {
           "keyword": "e tax",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-11T06:06:53.409Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "東京電力",
+          "score": 100
+        },
+        {
+          "keyword": "南海トラフ巨大地震",
+          "score": 99
+        },
+        {
+          "keyword": "阪神大震災",
+          "score": 98
+        },
+        {
+          "keyword": "三陸鉄道",
+          "score": 97
+        },
+        {
+          "keyword": "時間",
+          "score": 96
+        },
+        {
+          "keyword": "時刻",
+          "score": 95
+        },
+        {
+          "keyword": "炎鵬",
+          "score": 94
+        },
+        {
+          "keyword": "東日本 大震災 震度",
+          "score": 93
+        },
+        {
+          "keyword": "ベネッセ",
+          "score": 92
+        },
+        {
+          "keyword": "ブレイザーズ 対 ホーネッツ",
           "score": 91
         }
       ]
