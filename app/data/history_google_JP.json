@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-07T22:45:36.513Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "usj",
-          "score": 100
-        },
-        {
-          "keyword": "柄本佑",
-          "score": 99
-        },
-        {
-          "keyword": "柄本明",
-          "score": 98
-        },
-        {
-          "keyword": "バルサ",
-          "score": 97
-        },
-        {
-          "keyword": "澤穂希",
-          "score": 96
-        },
-        {
-          "keyword": "安藤サクラ",
-          "score": 95
-        },
-        {
-          "keyword": "柄本時生",
-          "score": 94
-        },
-        {
-          "keyword": "ノバク・ジョコビッチ",
-          "score": 93
-        },
-        {
-          "keyword": "内博貴",
-          "score": 92
-        },
-        {
-          "keyword": "若林正恭",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-07T23:13:37.246Z",
       "geo": "JP",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "psg",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-11T22:46:47.948Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "今井達也",
+          "score": 100
+        },
+        {
+          "keyword": "原千晶アナ",
+          "score": 99
+        },
+        {
+          "keyword": "芳根京子",
+          "score": 98
+        },
+        {
+          "keyword": "箱根",
+          "score": 97
+        },
+        {
+          "keyword": "パクストン",
+          "score": 96
+        },
+        {
+          "keyword": "日本アカデミー賞",
+          "score": 95
+        },
+        {
+          "keyword": "エスアンドピー500",
+          "score": 94
+        },
+        {
+          "keyword": "jr九州",
+          "score": 93
+        },
+        {
+          "keyword": "れいわ 新選 組 国会議員",
+          "score": 92
+        },
+        {
+          "keyword": "jr 運賃改定",
           "score": 91
         }
       ]
