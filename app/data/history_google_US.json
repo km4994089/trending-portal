@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-07T04:46:19.919Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mason miller",
-          "score": 100
-        },
-        {
-          "keyword": "anaheim ducks",
-          "score": 99
-        },
-        {
-          "keyword": "travis steele",
-          "score": 98
-        },
-        {
-          "keyword": "jay huff",
-          "score": 97
-        },
-        {
-          "keyword": "la marathon 2026",
-          "score": 96
-        },
-        {
-          "keyword": "ky3 weather",
-          "score": 95
-        },
-        {
-          "keyword": "sdsu basketball",
-          "score": 94
-        },
-        {
-          "keyword": "wrestlemania 42",
-          "score": 93
-        },
-        {
-          "keyword": "miami redhawks men's basketball",
-          "score": 92
-        },
-        {
-          "keyword": "arnold schwarzenegger",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-07T05:32:19.917Z",
       "geo": "US",
       "source": "google",
@@ -6014,6 +5967,53 @@
         },
         {
           "keyword": "idaho basketball",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-11T05:06:49.529Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "marcus smart",
+          "score": 100
+        },
+        {
+          "keyword": "tre jones",
+          "score": 99
+        },
+        {
+          "keyword": "austin reaves",
+          "score": 98
+        },
+        {
+          "keyword": "jake laravia",
+          "score": 97
+        },
+        {
+          "keyword": "bronny james",
+          "score": 96
+        },
+        {
+          "keyword": "jalen smith",
+          "score": 95
+        },
+        {
+          "keyword": "mexico wbc",
+          "score": 94
+        },
+        {
+          "keyword": "russell westbrook",
+          "score": 93
+        },
+        {
+          "keyword": "devin carter",
+          "score": 92
+        },
+        {
+          "keyword": "david byrne",
           "score": 91
         }
       ]
