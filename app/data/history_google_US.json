@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-07T23:41:49.084Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cher",
-          "score": 100
-        },
-        {
-          "keyword": "bruce thornton",
-          "score": 99
-        },
-        {
-          "keyword": "big 10 women's basketball tournament",
-          "score": 98
-        },
-        {
-          "keyword": "billy porter",
-          "score": 97
-        },
-        {
-          "keyword": "braden smith",
-          "score": 96
-        },
-        {
-          "keyword": "big ten tournament bracket",
-          "score": 95
-        },
-        {
-          "keyword": "dwight yoakam",
-          "score": 94
-        },
-        {
-          "keyword": "nolan arenado",
-          "score": 93
-        },
-        {
-          "keyword": "purdue university",
-          "score": 92
-        },
-        {
-          "keyword": "eddy pineiro",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-08T01:12:22.252Z",
       "geo": "US",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "natalie joy",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-11T23:45:56.634Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tornado warning",
+          "score": 100
+        },
+        {
+          "keyword": "florida state basketball",
+          "score": 99
+        },
+        {
+          "keyword": "northeastern university",
+          "score": 98
+        },
+        {
+          "keyword": "kathleen turner",
+          "score": 97
+        },
+        {
+          "keyword": "nashville vs inter miami",
+          "score": 96
+        },
+        {
+          "keyword": "northeastern",
+          "score": 95
+        },
+        {
+          "keyword": "virgin river",
+          "score": 94
+        },
+        {
+          "keyword": "canadiens vs senators",
+          "score": 93
+        },
+        {
+          "keyword": "hype brazil",
+          "score": 92
+        },
+        {
+          "keyword": "capitals vs flyers",
           "score": 91
         }
       ]
