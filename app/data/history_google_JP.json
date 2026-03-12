@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-08T23:43:35.823Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ジャパンディスプレイ",
-          "score": 100
-        },
-        {
-          "keyword": "jwave",
-          "score": 99
-        },
-        {
-          "keyword": "cme",
-          "score": 98
-        },
-        {
-          "keyword": "wti原油先物",
-          "score": 97
-        },
-        {
-          "keyword": "ボンドロ",
-          "score": 96
-        },
-        {
-          "keyword": "wti 原油",
-          "score": 95
-        },
-        {
-          "keyword": "溝端葵",
-          "score": 94
-        },
-        {
-          "keyword": "岡田准一",
-          "score": 93
-        },
-        {
-          "keyword": "vix",
-          "score": 92
-        },
-        {
-          "keyword": "ブラックロック",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-09T01:12:25.598Z",
       "geo": "JP",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "オンデーズ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-12T23:46:55.333Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "エイベックス",
+          "score": 100
+        },
+        {
+          "keyword": "シュークリームフラペチーノ",
+          "score": 99
+        },
+        {
+          "keyword": "篠崎愛",
+          "score": 98
+        },
+        {
+          "keyword": "田辺智加",
+          "score": 97
+        },
+        {
+          "keyword": "松井稼頭央",
+          "score": 96
+        },
+        {
+          "keyword": "byd",
+          "score": 95
+        },
+        {
+          "keyword": "ラヴィット",
+          "score": 94
+        },
+        {
+          "keyword": "高石あかり",
+          "score": 93
+        },
+        {
+          "keyword": "杉浦太陽",
+          "score": 92
+        },
+        {
+          "keyword": "上白石萌歌",
           "score": 91
         }
       ]
