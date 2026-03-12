@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-08T08:19:45.398Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "宇良",
-          "score": 100
-        },
-        {
-          "keyword": "大沢たかお",
-          "score": 99
-        },
-        {
-          "keyword": "ベッキー",
-          "score": 98
-        },
-        {
-          "keyword": "オートレース",
-          "score": 97
-        },
-        {
-          "keyword": "伊勢ケ浜親方",
-          "score": 96
-        },
-        {
-          "keyword": "アドベンチャーワールド",
-          "score": 95
-        },
-        {
-          "keyword": "星野源 オールナイトニッポン",
-          "score": 94
-        },
-        {
-          "keyword": "藤青雲",
-          "score": 93
-        },
-        {
-          "keyword": "やすとも",
-          "score": 92
-        },
-        {
-          "keyword": "日比谷線事故",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-08T08:52:05.032Z",
       "geo": "JP",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "適時開示",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-12T08:50:37.655Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "若隆景",
+          "score": 100
+        },
+        {
+          "keyword": "宇都宮白楊高校",
+          "score": 99
+        },
+        {
+          "keyword": "レクサス",
+          "score": 98
+        },
+        {
+          "keyword": "日産 赤字",
+          "score": 97
+        },
+        {
+          "keyword": "日本相撲協会",
+          "score": 96
+        },
+        {
+          "keyword": "大相撲 結果",
+          "score": 95
+        },
+        {
+          "keyword": "霧島",
+          "score": 94
+        },
+        {
+          "keyword": "テーオーロイヤル",
+          "score": 93
+        },
+        {
+          "keyword": "大相撲 結果 今日 幕内",
+          "score": 92
+        },
+        {
+          "keyword": "和田政宗",
           "score": 91
         }
       ]
