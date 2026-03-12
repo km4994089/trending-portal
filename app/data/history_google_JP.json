@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-08T20:46:10.472Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "吉永小百合",
-          "score": 100
-        },
-        {
-          "keyword": "ベンフィカ 対 ポルト",
-          "score": 99
-        },
-        {
-          "keyword": "レイカーズ 対 ニックス",
-          "score": 98
-        },
-        {
-          "keyword": "志村けん",
-          "score": 97
-        },
-        {
-          "keyword": "jadwal sholat",
-          "score": 96
-        },
-        {
-          "keyword": "ジェノア 対 ローマ",
-          "score": 95
-        },
-        {
-          "keyword": "ミラン 対 インテル",
-          "score": 94
-        },
-        {
-          "keyword": "綾野剛",
-          "score": 93
-        },
-        {
-          "keyword": "今泉佑唯",
-          "score": 92
-        },
-        {
-          "keyword": "松岡茉優",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-08T21:14:34.067Z",
       "geo": "JP",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "uefaヨーロッパリーグ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-12T20:58:12.456Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "東京 気温",
+          "score": 100
+        },
+        {
+          "keyword": "ヒロアカ 1番くじ",
+          "score": 99
+        },
+        {
+          "keyword": "ボローニャ 対 ローマ",
+          "score": 98
+        },
+        {
+          "keyword": "山岡家",
+          "score": 97
+        },
+        {
+          "keyword": "ゲンク 対 フライブルク",
+          "score": 96
+        },
+        {
+          "keyword": "シュトゥットガルト 対 ポルト",
+          "score": 95
+        },
+        {
+          "keyword": "原千晶アナ",
+          "score": 94
+        },
+        {
+          "keyword": "jadwal sholat",
+          "score": 93
+        },
+        {
+          "keyword": "spotify",
+          "score": 92
+        },
+        {
+          "keyword": "吉野家",
           "score": 91
         }
       ]

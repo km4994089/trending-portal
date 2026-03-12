@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-08T20:46:09.088Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김풍",
-          "score": 100
-        },
-        {
-          "keyword": "오달수",
-          "score": 99
-        },
-        {
-          "keyword": "집속탄",
-          "score": 98
-        },
-        {
-          "keyword": "국정원",
-          "score": 97
-        },
-        {
-          "keyword": "cricbuzz",
-          "score": 96
-        },
-        {
-          "keyword": "india vs new zealand",
-          "score": 95
-        },
-        {
-          "keyword": "언더커버 미쓰홍",
-          "score": 94
-        },
-        {
-          "keyword": "청년수당",
-          "score": 93
-        },
-        {
-          "keyword": "고주원",
-          "score": 92
-        },
-        {
-          "keyword": "유연석",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-08T21:14:32.850Z",
       "geo": "KR",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "20기 영식",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-12T20:58:11.133Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "노팅엄 포레스트 대 미트윌란",
+          "score": 100
+        },
+        {
+          "keyword": "유로파리그",
+          "score": 99
+        },
+        {
+          "keyword": "kc",
+          "score": 98
+        },
+        {
+          "keyword": "kick",
+          "score": 97
+        },
+        {
+          "keyword": "현대모비스",
+          "score": 96
+        },
+        {
+          "keyword": "ap",
+          "score": 95
+        },
+        {
+          "keyword": "주우재",
+          "score": 94
+        },
+        {
+          "keyword": "모즈타바",
+          "score": 93
+        },
+        {
+          "keyword": "20기 영식",
+          "score": 92
+        },
+        {
+          "keyword": "이지혜",
           "score": 91
         }
       ]
