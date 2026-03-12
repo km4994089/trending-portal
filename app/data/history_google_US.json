@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-08T21:14:31.196Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "iowa men's basketball",
-          "score": 100
-        },
-        {
-          "keyword": "tulsa basketball",
-          "score": 99
-        },
-        {
-          "keyword": "shaq",
-          "score": 98
-        },
-        {
-          "keyword": "avs",
-          "score": 97
-        },
-        {
-          "keyword": "madison booker",
-          "score": 96
-        },
-        {
-          "keyword": "jordan spieth",
-          "score": 95
-        },
-        {
-          "keyword": "talia gibson",
-          "score": 94
-        },
-        {
-          "keyword": "uab basketball",
-          "score": 93
-        },
-        {
-          "keyword": "mn wild",
-          "score": 92
-        },
-        {
-          "keyword": "angel reese",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-08T21:42:51.348Z",
       "geo": "US",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "akron basketball",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-12T21:30:35.506Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "emanuel wilson",
+          "score": 100
+        },
+        {
+          "keyword": "carnegie mellon",
+          "score": 99
+        },
+        {
+          "keyword": "jai lucas",
+          "score": 98
+        },
+        {
+          "keyword": "naturalized citizen",
+          "score": 97
+        },
+        {
+          "keyword": "duquesne basketball",
+          "score": 96
+        },
+        {
+          "keyword": "a10 tournament",
+          "score": 95
+        },
+        {
+          "keyword": "jannik sinner",
+          "score": 94
+        },
+        {
+          "keyword": "la nina el nino",
+          "score": 93
+        },
+        {
+          "keyword": "terry gross",
+          "score": 92
+        },
+        {
+          "keyword": "ulta stock",
           "score": 91
         }
       ]
