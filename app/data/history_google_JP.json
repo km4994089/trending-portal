@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-08T09:49:47.408Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "岐阜城",
-          "score": 100
-        },
-        {
-          "keyword": "岐阜",
-          "score": 99
-        },
-        {
-          "keyword": "高島礼子",
-          "score": 98
-        },
-        {
-          "keyword": "バザーナ",
-          "score": 97
-        },
-        {
-          "keyword": "板橋区",
-          "score": 96
-        },
-        {
-          "keyword": "菅野智之",
-          "score": 95
-        },
-        {
-          "keyword": "いくらちゃん 声優",
-          "score": 94
-        },
-        {
-          "keyword": "稲葉山城",
-          "score": 93
-        },
-        {
-          "keyword": "相葉マナブ",
-          "score": 92
-        },
-        {
-          "keyword": "ちゃんみな 東京ドーム",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-08T10:15:52.157Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "netflix",
-          "score": 100
-        },
-        {
-          "keyword": "wbc ラジオ",
-          "score": 99
-        },
-        {
-          "keyword": "藤平尚真",
-          "score": 98
-        },
-        {
-          "keyword": "黒田博樹",
-          "score": 97
-        },
-        {
-          "keyword": "松田宣浩",
-          "score": 96
-        },
-        {
-          "keyword": "マイアミ",
-          "score": 95
-        },
-        {
-          "keyword": "森脇健児",
-          "score": 94
-        },
-        {
-          "keyword": "始球式",
-          "score": 93
-        },
-        {
-          "keyword": "wbc 日本 キャプテン",
-          "score": 92
-        },
-        {
-          "keyword": "wbc プール",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-08T10:47:51.502Z",
       "geo": "JP",
       "source": "google",
@@ -5450,6 +5356,53 @@
         },
         {
           "keyword": "宇都宮白楊高校",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-12T10:29:37.125Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ロッテリア",
+          "score": 100
+        },
+        {
+          "keyword": "usj",
+          "score": 99
+        },
+        {
+          "keyword": "メンサ",
+          "score": 98
+        },
+        {
+          "keyword": "高松宮記念",
+          "score": 97
+        },
+        {
+          "keyword": "オリエンタルランド",
+          "score": 96
+        },
+        {
+          "keyword": "小田原",
+          "score": 95
+        },
+        {
+          "keyword": "土屋アンナ",
+          "score": 94
+        },
+        {
+          "keyword": "民族団結進歩促進法",
+          "score": 93
+        },
+        {
+          "keyword": "セサミストリート",
+          "score": 92
+        },
+        {
+          "keyword": "iss",
           "score": 91
         }
       ]
