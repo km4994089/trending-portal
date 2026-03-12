@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-08T23:14:38.157Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "유가",
-          "score": 100
-        },
-        {
-          "keyword": "wti",
-          "score": 99
-        },
-        {
-          "keyword": "wti 유가",
-          "score": 98
-        },
-        {
-          "keyword": "오늘날씨",
-          "score": 97
-        },
-        {
-          "keyword": "날씨예보",
-          "score": 96
-        },
-        {
-          "keyword": "중앙일보",
-          "score": 95
-        },
-        {
-          "keyword": "milan vs inter",
-          "score": 94
-        },
-        {
-          "keyword": "동아일보",
-          "score": 93
-        },
-        {
-          "keyword": "알렉산더 즈베레프",
-          "score": 92
-        },
-        {
-          "keyword": "세리에 a",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-08T23:43:34.268Z",
       "geo": "KR",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "kick",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-12T23:18:56.798Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "유로파 컨퍼런스리그",
+          "score": 100
+        },
+        {
+          "keyword": "조선일보",
+          "score": 99
+        },
+        {
+          "keyword": "europa league",
+          "score": 98
+        },
+        {
+          "keyword": "브렌트유",
+          "score": 97
+        },
+        {
+          "keyword": "야닉 시너",
+          "score": 96
+        },
+        {
+          "keyword": "알렉산더 즈베레프",
+          "score": 95
+        },
+        {
+          "keyword": "연금복권",
+          "score": 94
+        },
+        {
+          "keyword": "losc vs aston villa",
+          "score": 93
+        },
+        {
+          "keyword": "พยากรณ์อากาศ",
+          "score": 92
+        },
+        {
+          "keyword": "노팅엄 포레스트 대 미트윌란",
           "score": 91
         }
       ]
