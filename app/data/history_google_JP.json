@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-08T07:47:35.781Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "伊勢ケ浜親方",
-          "score": 100
-        },
-        {
-          "keyword": "アドベンチャーワールド",
-          "score": 99
-        },
-        {
-          "keyword": "星野源 オールナイトニッポン",
-          "score": 98
-        },
-        {
-          "keyword": "藤青雲",
-          "score": 97
-        },
-        {
-          "keyword": "中川家",
-          "score": 96
-        },
-        {
-          "keyword": "日比谷線事故",
-          "score": 95
-        },
-        {
-          "keyword": "ファイターズ",
-          "score": 94
-        },
-        {
-          "keyword": "皐月賞 2026",
-          "score": 93
-        },
-        {
-          "keyword": "オープン戦",
-          "score": 92
-        },
-        {
-          "keyword": "ダイキン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-08T08:19:45.398Z",
       "geo": "JP",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "ea",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-12T08:00:50.376Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "モンストニュース",
+          "score": 100
+        },
+        {
+          "keyword": "名鉄",
+          "score": 99
+        },
+        {
+          "keyword": "ゴゴスマ",
+          "score": 98
+        },
+        {
+          "keyword": "加藤史帆",
+          "score": 97
+        },
+        {
+          "keyword": "いなげや",
+          "score": 96
+        },
+        {
+          "keyword": "アオアシ",
+          "score": 95
+        },
+        {
+          "keyword": "ホンダ 株価",
+          "score": 94
+        },
+        {
+          "keyword": "湊川親方",
+          "score": 93
+        },
+        {
+          "keyword": "貴景勝",
+          "score": 92
+        },
+        {
+          "keyword": "適時開示",
           "score": 91
         }
       ]
