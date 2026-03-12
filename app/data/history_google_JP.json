@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-08T12:26:58.322Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "吉田",
-          "score": 100
-        },
-        {
-          "keyword": "2023 wbc",
-          "score": 99
-        },
-        {
-          "keyword": "オマーン",
-          "score": 98
-        },
-        {
-          "keyword": "種市 wbc",
-          "score": 97
-        },
-        {
-          "keyword": "上野鈴華",
-          "score": 96
-        },
-        {
-          "keyword": "ihi",
-          "score": 95
-        },
-        {
-          "keyword": "wbc ルール",
-          "score": 94
-        },
-        {
-          "keyword": "土屋太鳳",
-          "score": 93
-        },
-        {
-          "keyword": "奥州市長選挙",
-          "score": 92
-        },
-        {
-          "keyword": "だぶるびーしー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-08T13:14:30.678Z",
       "geo": "JP",
       "source": "google",
@@ -5356,6 +5309,53 @@
         },
         {
           "keyword": "松戸",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-12T12:36:00.130Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "松下洸平",
+          "score": 100
+        },
+        {
+          "keyword": "田中樹",
+          "score": 99
+        },
+        {
+          "keyword": "ハロプロ",
+          "score": 98
+        },
+        {
+          "keyword": "9090 ちいかわ",
+          "score": 97
+        },
+        {
+          "keyword": "豊洲",
+          "score": 96
+        },
+        {
+          "keyword": "金曜ロードショー",
+          "score": 95
+        },
+        {
+          "keyword": "mリーグ",
+          "score": 94
+        },
+        {
+          "keyword": "杉咲花",
+          "score": 93
+        },
+        {
+          "keyword": "ヤクルト",
+          "score": 92
+        },
+        {
+          "keyword": "高山一実",
           "score": 91
         }
       ]
