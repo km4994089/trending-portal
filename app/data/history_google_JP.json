@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-08T22:46:07.888Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "風間俊介",
-          "score": 100
-        },
-        {
-          "keyword": "バレンシア 対 アラベス",
-          "score": 99
-        },
-        {
-          "keyword": "原油",
-          "score": 98
-        },
-        {
-          "keyword": "宮世琉弥",
-          "score": 97
-        },
-        {
-          "keyword": "今井達也",
-          "score": 96
-        },
-        {
-          "keyword": "ガソリン 値上げ",
-          "score": 95
-        },
-        {
-          "keyword": "スギ花粉 いつまで",
-          "score": 94
-        },
-        {
-          "keyword": "トランプ",
-          "score": 93
-        },
-        {
-          "keyword": "先物",
-          "score": 92
-        },
-        {
-          "keyword": "砧公園 倒木",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-08T23:14:39.405Z",
       "geo": "JP",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "ポケカ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-12T22:49:12.661Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "オンデーズ",
+          "score": 100
+        },
+        {
+          "keyword": "山崎育三郎",
+          "score": 99
+        },
+        {
+          "keyword": "水卜麻美",
+          "score": 98
+        },
+        {
+          "keyword": "プロフェッショナル",
+          "score": 97
+        },
+        {
+          "keyword": "桜 開花予想",
+          "score": 96
+        },
+        {
+          "keyword": "央川かこ",
+          "score": 95
+        },
+        {
+          "keyword": "宝くじ 当選番号",
+          "score": 94
+        },
+        {
+          "keyword": "ダイヤ改正",
+          "score": 93
+        },
+        {
+          "keyword": "ザグザグ",
+          "score": 92
+        },
+        {
+          "keyword": "平野紫耀",
           "score": 91
         }
       ]
