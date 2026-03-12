@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-08T07:04:28.402Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "スプリングステークス",
-          "score": 100
-        },
-        {
-          "keyword": "金鯱賞",
-          "score": 99
-        },
-        {
-          "keyword": "松山競輪",
-          "score": 98
-        },
-        {
-          "keyword": "ヴィファーレン",
-          "score": 97
-        },
-        {
-          "keyword": "野々村真",
-          "score": 96
-        },
-        {
-          "keyword": "嶋村麟士朗",
-          "score": 95
-        },
-        {
-          "keyword": "炎鵬",
-          "score": 94
-        },
-        {
-          "keyword": "wbc 賽程",
-          "score": 93
-        },
-        {
-          "keyword": "汚泥",
-          "score": 92
-        },
-        {
-          "keyword": "殴打",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-08T07:47:35.781Z",
       "geo": "JP",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "リユース",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-12T07:26:50.503Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "貴景勝",
+          "score": 100
+        },
+        {
+          "keyword": "湊川親方",
+          "score": 99
+        },
+        {
+          "keyword": "ホンダ",
+          "score": 98
+        },
+        {
+          "keyword": "森日菜美",
+          "score": 97
+        },
+        {
+          "keyword": "ドラクエウォーク ガチャ",
+          "score": 96
+        },
+        {
+          "keyword": "honda",
+          "score": 95
+        },
+        {
+          "keyword": "チケット流通センター",
+          "score": 94
+        },
+        {
+          "keyword": "ナフサ",
+          "score": 93
+        },
+        {
+          "keyword": "cbcテレビ",
+          "score": 92
+        },
+        {
+          "keyword": "ea",
           "score": 91
         }
       ]
