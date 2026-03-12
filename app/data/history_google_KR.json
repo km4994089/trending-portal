@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-08T05:05:12.650Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "스포츠",
-          "score": 100
-        },
-        {
-          "keyword": "주사이모 얼굴",
-          "score": 99
-        },
-        {
-          "keyword": "f1tv",
-          "score": 98
-        },
-        {
-          "keyword": "f1 tv",
-          "score": 97
-        },
-        {
-          "keyword": "영월군수",
-          "score": 96
-        },
-        {
-          "keyword": "테일러 프리츠",
-          "score": 95
-        },
-        {
-          "keyword": "엘에이 fc 대 댈러스",
-          "score": 94
-        },
-        {
-          "keyword": "f1 중계",
-          "score": 93
-        },
-        {
-          "keyword": "후라도",
-          "score": 92
-        },
-        {
-          "keyword": "구린루이양",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-08T06:01:03.773Z",
       "geo": "KR",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "김어준",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-12T05:11:07.096Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kbo",
+          "score": 100
+        },
+        {
+          "keyword": "팔달산",
+          "score": 99
+        },
+        {
+          "keyword": "예술의전당",
+          "score": 98
+        },
+        {
+          "keyword": "kbo 개막",
+          "score": 97
+        },
+        {
+          "keyword": "양문석",
+          "score": 96
+        },
+        {
+          "keyword": "맘스터치",
+          "score": 95
+        },
+        {
+          "keyword": "노바크 조코비치",
+          "score": 94
+        },
+        {
+          "keyword": "인터배터리",
+          "score": 93
+        },
+        {
+          "keyword": "키움런",
+          "score": 92
+        },
+        {
+          "keyword": "대한광통신",
           "score": 91
         }
       ]
