@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-08T06:01:04.870Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "栃木シティ",
-          "score": 100
-        },
-        {
-          "keyword": "ヴァンフォーレ甲府",
-          "score": 99
-        },
-        {
-          "keyword": "wbc 延長",
-          "score": 98
-        },
-        {
-          "keyword": "アマンテビアンコ",
-          "score": 97
-        },
-        {
-          "keyword": "羽鳥慎一",
-          "score": 96
-        },
-        {
-          "keyword": "孫易磊",
-          "score": 95
-        },
-        {
-          "keyword": "古市憲寿",
-          "score": 94
-        },
-        {
-          "keyword": "엘에이 fc 대 댈러스",
-          "score": 93
-        },
-        {
-          "keyword": "アダムジョーンズ",
-          "score": 92
-        },
-        {
-          "keyword": "チャールズオリベイラ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-08T07:04:28.402Z",
       "geo": "JP",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "バニーガーデン2",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-12T06:08:59.368Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ea",
+          "score": 100
+        },
+        {
+          "keyword": "竹田くん",
+          "score": 99
+        },
+        {
+          "keyword": "法隆寺",
+          "score": 98
+        },
+        {
+          "keyword": "横綱土俵入り",
+          "score": 97
+        },
+        {
+          "keyword": "ポケポケ カルボウドロップイベント",
+          "score": 96
+        },
+        {
+          "keyword": "ライル・リン",
+          "score": 95
+        },
+        {
+          "keyword": "予算委員会",
+          "score": 94
+        },
+        {
+          "keyword": "川西賢志郎",
+          "score": 93
+        },
+        {
+          "keyword": "住宅ローン",
+          "score": 92
+        },
+        {
+          "keyword": "リユース",
           "score": 91
         }
       ]
