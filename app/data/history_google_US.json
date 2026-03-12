@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-08T14:16:38.156Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "viola davis",
-          "score": 100
-        },
-        {
-          "keyword": "james patterson",
-          "score": 99
-        },
-        {
-          "keyword": "jalen carter",
-          "score": 98
-        },
-        {
-          "keyword": "josh elliott",
-          "score": 97
-        },
-        {
-          "keyword": "lens - metz",
-          "score": 96
-        },
-        {
-          "keyword": "abhishek sharma",
-          "score": 95
-        },
-        {
-          "keyword": "port vale",
-          "score": 94
-        },
-        {
-          "keyword": "st. pauli vs eintracht frankfurt",
-          "score": 93
-        },
-        {
-          "keyword": "matt henry",
-          "score": 92
-        },
-        {
-          "keyword": "houthis",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-08T14:47:11.094Z",
       "geo": "US",
       "source": "google",
@@ -5309,6 +5262,53 @@
         },
         {
           "keyword": "augusta weather",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-12T14:42:07.755Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tornado warning columbia sc",
+          "score": 100
+        },
+        {
+          "keyword": "kisd",
+          "score": 99
+        },
+        {
+          "keyword": "dca airport",
+          "score": 98
+        },
+        {
+          "keyword": "epic games fortnite",
+          "score": 97
+        },
+        {
+          "keyword": "buc ees",
+          "score": 96
+        },
+        {
+          "keyword": "tessa thompson",
+          "score": 95
+        },
+        {
+          "keyword": "adrien brody",
+          "score": 94
+        },
+        {
+          "keyword": "lauren graham",
+          "score": 93
+        },
+        {
+          "keyword": "palantir",
+          "score": 92
+        },
+        {
+          "keyword": "alex karp",
           "score": 91
         }
       ]
