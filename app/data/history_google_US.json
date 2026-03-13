@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-09T01:12:23.188Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "wemby",
-          "score": 100
-        },
-        {
-          "keyword": "stephon castle",
-          "score": 99
-        },
-        {
-          "keyword": "jonathan aranda",
-          "score": 98
-        },
-        {
-          "keyword": "us marshals",
-          "score": 97
-        },
-        {
-          "keyword": "márton fucsovics",
-          "score": 96
-        },
-        {
-          "keyword": "pga tour arnold palmer invitational",
-          "score": 95
-        },
-        {
-          "keyword": "marshall basketball",
-          "score": 94
-        },
-        {
-          "keyword": "amen thompson",
-          "score": 93
-        },
-        {
-          "keyword": "logan marshall-green",
-          "score": 92
-        },
-        {
-          "keyword": "hofstra basketball",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-09T03:44:52.659Z",
       "geo": "US",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "celtics vs thunder",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-13T03:40:10.163Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nate hobbs",
+          "score": 100
+        },
+        {
+          "keyword": "hugo gonzalez",
+          "score": 99
+        },
+        {
+          "keyword": "golden knights",
+          "score": 98
+        },
+        {
+          "keyword": "gen x",
+          "score": 97
+        },
+        {
+          "keyword": "lily collins",
+          "score": 96
+        },
+        {
+          "keyword": "shai gilgeous-alexander",
+          "score": 95
+        },
+        {
+          "keyword": "casey alexander",
+          "score": 94
+        },
+        {
+          "keyword": "they will kill you",
+          "score": 93
+        },
+        {
+          "keyword": "matt rife",
+          "score": 92
+        },
+        {
+          "keyword": "arnold ebiketie",
           "score": 91
         }
       ]

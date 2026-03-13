@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-09T01:12:25.598Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "日本年金機構",
-          "score": 100
-        },
-        {
-          "keyword": "ヒート 対 ピストンズ",
-          "score": 99
-        },
-        {
-          "keyword": "フジクラ 株価",
-          "score": 98
-        },
-        {
-          "keyword": "金 価格",
-          "score": 97
-        },
-        {
-          "keyword": "キングス 対 ブルズ",
-          "score": 96
-        },
-        {
-          "keyword": "topix",
-          "score": 95
-        },
-        {
-          "keyword": "水俣病",
-          "score": 94
-        },
-        {
-          "keyword": "円安",
-          "score": 93
-        },
-        {
-          "keyword": "ディープリベンジ",
-          "score": 92
-        },
-        {
-          "keyword": "キオクシア 株価",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-09T03:44:55.031Z",
       "geo": "JP",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "同志社大学",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-13T03:40:12.978Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "真飛聖",
+          "score": 100
+        },
+        {
+          "keyword": "金鯱賞 2026",
+          "score": 99
+        },
+        {
+          "keyword": "jt",
+          "score": 98
+        },
+        {
+          "keyword": "イラン ホルムズ 海峡",
+          "score": 97
+        },
+        {
+          "keyword": "レイカーズ",
+          "score": 96
+        },
+        {
+          "keyword": "東海道新幹線",
+          "score": 95
+        },
+        {
+          "keyword": "jr西日本",
+          "score": 94
+        },
+        {
+          "keyword": "トミカ",
+          "score": 93
+        },
+        {
+          "keyword": "ラミレス",
+          "score": 92
+        },
+        {
+          "keyword": "サマソニ",
           "score": 91
         }
       ]

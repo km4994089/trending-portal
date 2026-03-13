@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-09T01:12:24.499Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "삼성증권",
-          "score": 100
-        },
-        {
-          "keyword": "경기도교육청",
-          "score": 99
-        },
-        {
-          "keyword": "경복궁",
-          "score": 98
-        },
-        {
-          "keyword": "미래엔",
-          "score": 97
-        },
-        {
-          "keyword": "예비군",
-          "score": 96
-        },
-        {
-          "keyword": "모즈타바",
-          "score": 95
-        },
-        {
-          "keyword": "와우넷",
-          "score": 94
-        },
-        {
-          "keyword": "포트 베일 대 선덜랜드",
-          "score": 93
-        },
-        {
-          "keyword": "토스증권",
-          "score": 92
-        },
-        {
-          "keyword": "다음",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-09T03:44:53.865Z",
       "geo": "KR",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "연금복권",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-13T03:40:11.526Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "카를로스 알카라스",
+          "score": 100
+        },
+        {
+          "keyword": "기름값 상한제",
+          "score": 99
+        },
+        {
+          "keyword": "우리기술",
+          "score": 98
+        },
+        {
+          "keyword": "이정현",
+          "score": 97
+        },
+        {
+          "keyword": "대우건설",
+          "score": 96
+        },
+        {
+          "keyword": "한국연구재단",
+          "score": 95
+        },
+        {
+          "keyword": "엘레나 리바키나",
+          "score": 94
+        },
+        {
+          "keyword": "이윤철",
+          "score": 93
+        },
+        {
+          "keyword": "sk이터닉스",
+          "score": 92
+        },
+        {
+          "keyword": "와우넷",
           "score": 91
         }
       ]
