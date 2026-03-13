@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-09T06:14:09.616Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tornadoes",
-          "score": 100
-        },
-        {
-          "keyword": "eric wilson",
-          "score": 99
-        },
-        {
-          "keyword": "madelyn cline",
-          "score": 98
-        },
-        {
-          "keyword": "brandon miller",
-          "score": 97
-        },
-        {
-          "keyword": "nifty 50",
-          "score": 96
-        },
-        {
-          "keyword": "vix",
-          "score": 95
-        },
-        {
-          "keyword": "heavy snow warning",
-          "score": 94
-        },
-        {
-          "keyword": "nathan martin",
-          "score": 93
-        },
-        {
-          "keyword": "ted tv series",
-          "score": 92
-        },
-        {
-          "keyword": "collin sexton",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-09T07:32:08.455Z",
       "geo": "US",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "gasoline",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-13T07:15:08.345Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nasa satellite crash earth",
+          "score": 100
+        },
+        {
+          "keyword": "divorce lawyer",
+          "score": 99
+        },
+        {
+          "keyword": "uss abraham lincoln",
+          "score": 98
+        },
+        {
+          "keyword": "gofundme",
+          "score": 97
+        },
+        {
+          "keyword": "car accident lawyer",
+          "score": 96
+        },
+        {
+          "keyword": "go fund me",
+          "score": 95
+        },
+        {
+          "keyword": "weather winter storm warning",
+          "score": 94
+        },
+        {
+          "keyword": "auto accident attorneys",
+          "score": 93
+        },
+        {
+          "keyword": "avatar the last airbender",
+          "score": 92
+        },
+        {
+          "keyword": "lincoln county wildfire",
           "score": 91
         }
       ]
