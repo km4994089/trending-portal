@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-09T11:28:04.697Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "浜崎あゆみ",
-          "score": 100
-        },
-        {
-          "keyword": "イマーシブ・フォート東京",
-          "score": 99
-        },
-        {
-          "keyword": "町田啓太",
-          "score": 98
-        },
-        {
-          "keyword": "アラブ首長国連邦",
-          "score": 97
-        },
-        {
-          "keyword": "ちゃんみな ライブ",
-          "score": 96
-        },
-        {
-          "keyword": "戸塚純貴",
-          "score": 95
-        },
-        {
-          "keyword": "ドバイ 国",
-          "score": 94
-        },
-        {
-          "keyword": "uae",
-          "score": 93
-        },
-        {
-          "keyword": "石油",
-          "score": 92
-        },
-        {
-          "keyword": "サウジアラビア",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-09T11:55:13.625Z",
       "geo": "JP",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "アニポケ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-13T11:50:09.854Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "宮崎あおい",
+          "score": 100
+        },
+        {
+          "keyword": "フェイラー",
+          "score": 99
+        },
+        {
+          "keyword": "青木柚",
+          "score": 98
+        },
+        {
+          "keyword": "アーロン・ジャッジ",
+          "score": 97
+        },
+        {
+          "keyword": "競艇",
+          "score": 96
+        },
+        {
+          "keyword": "岡田准一",
+          "score": 95
+        },
+        {
+          "keyword": "戸塚純貴",
+          "score": 94
+        },
+        {
+          "keyword": "サバンナ高橋",
+          "score": 93
+        },
+        {
+          "keyword": "小栗大地",
+          "score": 92
+        },
+        {
+          "keyword": "ジェシー",
           "score": 91
         }
       ]
