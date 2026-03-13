@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-09T15:48:10.397Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mike evans",
-          "score": 100
-        },
-        {
-          "keyword": "sheryl underwood",
-          "score": 99
-        },
-        {
-          "keyword": "live nation",
-          "score": 98
-        },
-        {
-          "keyword": "paul skenes",
-          "score": 97
-        },
-        {
-          "keyword": "costco stock",
-          "score": 96
-        },
-        {
-          "keyword": "ted carter",
-          "score": 95
-        },
-        {
-          "keyword": "dot rotten",
-          "score": 94
-        },
-        {
-          "keyword": "walmart stock",
-          "score": 93
-        },
-        {
-          "keyword": "severe storms",
-          "score": 92
-        },
-        {
-          "keyword": "adam schefter",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-09T16:46:37.635Z",
       "geo": "US",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "new balance nationals indoor 2026",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-13T16:28:12.231Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jason pinnock",
+          "score": 100
+        },
+        {
+          "keyword": "josh allen",
+          "score": 99
+        },
+        {
+          "keyword": "ohio state vs michigan",
+          "score": 98
+        },
+        {
+          "keyword": "kyrsten sinema",
+          "score": 97
+        },
+        {
+          "keyword": "kim english",
+          "score": 96
+        },
+        {
+          "keyword": "chris o'donnell",
+          "score": 95
+        },
+        {
+          "keyword": "corey conners",
+          "score": 94
+        },
+        {
+          "keyword": "marine expeditionary unit",
+          "score": 93
+        },
+        {
+          "keyword": "chaz bono",
+          "score": 92
+        },
+        {
+          "keyword": "immersive navigation google maps",
           "score": 91
         }
       ]
