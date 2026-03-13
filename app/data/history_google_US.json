@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-09T10:35:39.349Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cnbc",
-          "score": 100
-        },
-        {
-          "keyword": "michael shannon",
-          "score": 99
-        },
-        {
-          "keyword": "pa state trooper",
-          "score": 98
-        },
-        {
-          "keyword": "nytimes.com",
-          "score": 97
-        },
-        {
-          "keyword": "malik willis",
-          "score": 96
-        },
-        {
-          "keyword": "eid al fitr 2026",
-          "score": 95
-        },
-        {
-          "keyword": "government shutdown 2026",
-          "score": 94
-        },
-        {
-          "keyword": "gen z",
-          "score": 93
-        },
-        {
-          "keyword": "pluto tv",
-          "score": 92
-        },
-        {
-          "keyword": "sunrise",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-09T11:28:01.950Z",
       "geo": "US",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "xcel power outage",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-13T11:01:40.645Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "school closing",
+          "score": 100
+        },
+        {
+          "keyword": "school closings mn",
+          "score": 99
+        },
+        {
+          "keyword": "nancy guthrie",
+          "score": 98
+        },
+        {
+          "keyword": "eid al fitr 2026",
+          "score": 97
+        },
+        {
+          "keyword": "dow futures now",
+          "score": 96
+        },
+        {
+          "keyword": "today's wordle",
+          "score": 95
+        },
+        {
+          "keyword": "buzzfeed",
+          "score": 94
+        },
+        {
+          "keyword": "sports",
+          "score": 93
+        },
+        {
+          "keyword": "today's weather",
+          "score": 92
+        },
+        {
+          "keyword": "wordle help",
           "score": 91
         }
       ]

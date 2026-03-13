@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-09T10:35:41.777Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "観光客",
-          "score": 100
-        },
-        {
-          "keyword": "インバウンド",
-          "score": 99
-        },
-        {
-          "keyword": "小倉優子",
-          "score": 98
-        },
-        {
-          "keyword": "今江敏晃",
-          "score": 97
-        },
-        {
-          "keyword": "小瀧望",
-          "score": 96
-        },
-        {
-          "keyword": "中田翔",
-          "score": 95
-        },
-        {
-          "keyword": "ロッテリア",
-          "score": 94
-        },
-        {
-          "keyword": "青柳翔",
-          "score": 93
-        },
-        {
-          "keyword": "川上麻衣子",
-          "score": 92
-        },
-        {
-          "keyword": "milk",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-09T11:28:04.697Z",
       "geo": "JP",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "すかいらーく",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-13T11:01:43.220Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "サスケ",
+          "score": 100
+        },
+        {
+          "keyword": "milk",
+          "score": 99
+        },
+        {
+          "keyword": "増田貴久",
+          "score": 98
+        },
+        {
+          "keyword": "東京都市大学",
+          "score": 97
+        },
+        {
+          "keyword": "ヒロミ",
+          "score": 96
+        },
+        {
+          "keyword": "チ。",
+          "score": 95
+        },
+        {
+          "keyword": "サトテル",
+          "score": 94
+        },
+        {
+          "keyword": "高嶋ちさ子",
+          "score": 93
+        },
+        {
+          "keyword": "ロイヤルホスト",
+          "score": 92
+        },
+        {
+          "keyword": "アニポケ",
           "score": 91
         }
       ]
