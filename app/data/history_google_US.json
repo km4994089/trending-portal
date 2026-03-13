@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-09T11:55:10.877Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "usps",
-          "score": 100
-        },
-        {
-          "keyword": "college board",
-          "score": 99
-        },
-        {
-          "keyword": "steelers",
-          "score": 98
-        },
-        {
-          "keyword": "ny giants",
-          "score": 97
-        },
-        {
-          "keyword": "iheartradio",
-          "score": 96
-        },
-        {
-          "keyword": "xom",
-          "score": 95
-        },
-        {
-          "keyword": "xom stock",
-          "score": 94
-        },
-        {
-          "keyword": "when does ramadan end",
-          "score": 93
-        },
-        {
-          "keyword": "dak prescott fiance",
-          "score": 92
-        },
-        {
-          "keyword": "ed ingram",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-09T12:37:11.214Z",
       "geo": "US",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "dte energy",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-13T12:34:46.915Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "matthew broderick",
+          "score": 100
+        },
+        {
+          "keyword": "sea turtles",
+          "score": 99
+        },
+        {
+          "keyword": "jerry garcia tiger guitar",
+          "score": 98
+        },
+        {
+          "keyword": "david ellison",
+          "score": 97
+        },
+        {
+          "keyword": "live nation",
+          "score": 96
+        },
+        {
+          "keyword": "cuba news",
+          "score": 95
+        },
+        {
+          "keyword": "roger penske",
+          "score": 94
+        },
+        {
+          "keyword": "jerry jones",
+          "score": 93
+        },
+        {
+          "keyword": "open workouts",
+          "score": 92
+        },
+        {
+          "keyword": "dadeschools",
           "score": 91
         }
       ]
