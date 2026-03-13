@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-09T09:38:08.531Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "microsoft stock",
-          "score": 100
-        },
-        {
-          "keyword": "mh370",
-          "score": 99
-        },
-        {
-          "keyword": "kouri richins",
-          "score": 98
-        },
-        {
-          "keyword": "georgia lottery",
-          "score": 97
-        },
-        {
-          "keyword": "carrie underwood",
-          "score": 96
-        },
-        {
-          "keyword": "hims stock",
-          "score": 95
-        },
-        {
-          "keyword": "tesla stock",
-          "score": 94
-        },
-        {
-          "keyword": "mu stock",
-          "score": 93
-        },
-        {
-          "keyword": "workbuddy 腾讯",
-          "score": 92
-        },
-        {
-          "keyword": "mai hontama",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-09T10:35:39.349Z",
       "geo": "US",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "asteroid approaching earth",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-13T10:03:20.880Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "snow storm weather forecast",
+          "score": 100
+        },
+        {
+          "keyword": "todays weather",
+          "score": 99
+        },
+        {
+          "keyword": "anthony demayo bishop fenwick",
+          "score": 98
+        },
+        {
+          "keyword": "weather new york",
+          "score": 97
+        },
+        {
+          "keyword": "alliant energy",
+          "score": 96
+        },
+        {
+          "keyword": "pick 3",
+          "score": 95
+        },
+        {
+          "keyword": "nytimes.com",
+          "score": 94
+        },
+        {
+          "keyword": "minneapolis weather",
+          "score": 93
+        },
+        {
+          "keyword": "gale warning",
+          "score": 92
+        },
+        {
+          "keyword": "xcel power outage",
           "score": 91
         }
       ]

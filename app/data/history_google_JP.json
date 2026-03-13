@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-09T09:38:11.036Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "林家正蔵",
-          "score": 100
-        },
-        {
-          "keyword": "記念suica",
-          "score": 99
-        },
-        {
-          "keyword": "村岡桃佳",
-          "score": 98
-        },
-        {
-          "keyword": "wbc チェコ戦",
-          "score": 97
-        },
-        {
-          "keyword": "オールナイトニッポン",
-          "score": 96
-        },
-        {
-          "keyword": "翠富士",
-          "score": 95
-        },
-        {
-          "keyword": "伊勢丹",
-          "score": 94
-        },
-        {
-          "keyword": "熱海富士",
-          "score": 93
-        },
-        {
-          "keyword": "運行情報",
-          "score": 92
-        },
-        {
-          "keyword": "cdtvライブライブ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-09T10:35:41.777Z",
       "geo": "JP",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "琴桜",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-13T10:03:23.428Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "オークランド",
+          "score": 100
+        },
+        {
+          "keyword": "ズートピア2 配信",
+          "score": 99
+        },
+        {
+          "keyword": "はなまるうどん",
+          "score": 98
+        },
+        {
+          "keyword": "オーストラリア 対 北朝鮮",
+          "score": 97
+        },
+        {
+          "keyword": "ジモティー",
+          "score": 96
+        },
+        {
+          "keyword": "中京競馬場",
+          "score": 95
+        },
+        {
+          "keyword": "台湾問題",
+          "score": 94
+        },
+        {
+          "keyword": "モロゾフ",
+          "score": 93
+        },
+        {
+          "keyword": "tepco",
+          "score": 92
+        },
+        {
+          "keyword": "すかいらーく",
           "score": 91
         }
       ]
