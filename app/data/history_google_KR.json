@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-09T12:37:12.443Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "안현민",
-          "score": 100
-        },
-        {
-          "keyword": "소형준",
-          "score": 99
-        },
-        {
-          "keyword": "wbc 콜드게임",
-          "score": 98
-        },
-        {
-          "keyword": "wbc c조",
-          "score": 97
-        },
-        {
-          "keyword": "오승환",
-          "score": 96
-        },
-        {
-          "keyword": "김주원",
-          "score": 95
-        },
-        {
-          "keyword": "이정후",
-          "score": 94
-        },
-        {
-          "keyword": "카타르",
-          "score": 93
-        },
-        {
-          "keyword": "노경은",
-          "score": 92
-        },
-        {
-          "keyword": "백린탄",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-09T13:58:50.259Z",
       "geo": "KR",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "pak vs ban",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-13T13:53:08.603Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "오상진",
+          "score": 100
+        },
+        {
+          "keyword": "최태성",
+          "score": 99
+        },
+        {
+          "keyword": "sxmb",
+          "score": 98
+        },
+        {
+          "keyword": "법왜곡죄",
+          "score": 97
+        },
+        {
+          "keyword": "네이처셀",
+          "score": 96
+        },
+        {
+          "keyword": "레바논",
+          "score": 95
+        },
+        {
+          "keyword": "크래프톤",
+          "score": 94
+        },
+        {
+          "keyword": "3월 14일",
+          "score": 93
+        },
+        {
+          "keyword": "세신사",
+          "score": 92
+        },
+        {
+          "keyword": "kick",
           "score": 91
         }
       ]

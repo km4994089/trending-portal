@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-09T12:37:11.214Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "miami dolphins",
-          "score": 100
-        },
-        {
-          "keyword": "tua tagovailoa",
-          "score": 99
-        },
-        {
-          "keyword": "slides",
-          "score": 98
-        },
-        {
-          "keyword": "kharg island",
-          "score": 97
-        },
-        {
-          "keyword": "dmarco jackson",
-          "score": 96
-        },
-        {
-          "keyword": "voo",
-          "score": 95
-        },
-        {
-          "keyword": "prize money arnold palmer invitational",
-          "score": 94
-        },
-        {
-          "keyword": "asante samuel jr",
-          "score": 93
-        },
-        {
-          "keyword": "wordle",
-          "score": 92
-        },
-        {
-          "keyword": "nfl news",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-09T13:58:48.768Z",
       "geo": "US",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "dadeschools",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-13T13:53:07.381Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "elissa slotkin",
+          "score": 100
+        },
+        {
+          "keyword": "friday the 13th movie",
+          "score": 99
+        },
+        {
+          "keyword": "iranian",
+          "score": 98
+        },
+        {
+          "keyword": "ilber ortaylı",
+          "score": 97
+        },
+        {
+          "keyword": "kay adams",
+          "score": 96
+        },
+        {
+          "keyword": "fort collins fire",
+          "score": 95
+        },
+        {
+          "keyword": "eric swalwell",
+          "score": 94
+        },
+        {
+          "keyword": "nebraska fires",
+          "score": 93
+        },
+        {
+          "keyword": "wolfgang puck",
+          "score": 92
+        },
+        {
+          "keyword": "andy richter",
           "score": 91
         }
       ]
