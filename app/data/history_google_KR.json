@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-09T07:32:09.671Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "대미투자특별법",
-          "score": 100
-        },
-        {
-          "keyword": "한지상",
-          "score": 99
-        },
-        {
-          "keyword": "김소영",
-          "score": 98
-        },
-        {
-          "keyword": "롯데자이언츠",
-          "score": 97
-        },
-        {
-          "keyword": "펄어비스",
-          "score": 96
-        },
-        {
-          "keyword": "지나",
-          "score": 95
-        },
-        {
-          "keyword": "교보문고",
-          "score": 94
-        },
-        {
-          "keyword": "마통",
-          "score": 93
-        },
-        {
-          "keyword": "제주항공",
-          "score": 92
-        },
-        {
-          "keyword": "어도비",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-09T08:33:04.231Z",
       "geo": "KR",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "sk이터닉스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-13T08:00:11.189Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "고영욱",
+          "score": 100
+        },
+        {
+          "keyword": "홍석천",
+          "score": 99
+        },
+        {
+          "keyword": "카를로스 알카라스",
+          "score": 98
+        },
+        {
+          "keyword": "우리기술",
+          "score": 97
+        },
+        {
+          "keyword": "기름값 상한제",
+          "score": 96
+        },
+        {
+          "keyword": "오클라호마시티 대 보스턴",
+          "score": 95
+        },
+        {
+          "keyword": "이정현",
+          "score": 94
+        },
+        {
+          "keyword": "대우건설",
+          "score": 93
+        },
+        {
+          "keyword": "한국연구재단",
+          "score": 92
+        },
+        {
+          "keyword": "이윤철",
           "score": 91
         }
       ]
