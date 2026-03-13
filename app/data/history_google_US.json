@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-09T20:56:41.857Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jack draper",
-          "score": 100
-        },
-        {
-          "keyword": "mirra andreeva",
-          "score": 99
-        },
-        {
-          "keyword": "donna kelce",
-          "score": 98
-        },
-        {
-          "keyword": "jello biafra",
-          "score": 97
-        },
-        {
-          "keyword": "kwity paye",
-          "score": 96
-        },
-        {
-          "keyword": "jordan jones",
-          "score": 95
-        },
-        {
-          "keyword": "lazio",
-          "score": 94
-        },
-        {
-          "keyword": "vederian lowe",
-          "score": 93
-        },
-        {
-          "keyword": "case keenum",
-          "score": 92
-        },
-        {
-          "keyword": "rinky hijikata",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-09T21:26:33.344Z",
       "geo": "US",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "supreme court",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-13T20:58:12.174Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ric grenell",
+          "score": 100
+        },
+        {
+          "keyword": "vermont",
+          "score": 99
+        },
+        {
+          "keyword": "spacex rocket launch schedule",
+          "score": 98
+        },
+        {
+          "keyword": "usa vs canada wbc",
+          "score": 97
+        },
+        {
+          "keyword": "sxsw 2026",
+          "score": 96
+        },
+        {
+          "keyword": "argentine visa",
+          "score": 95
+        },
+        {
+          "keyword": "tyler conklin",
+          "score": 94
+        },
+        {
+          "keyword": "rasheed walker",
+          "score": 93
+        },
+        {
+          "keyword": "netanyahu dead",
+          "score": 92
+        },
+        {
+          "keyword": "marseille fc",
           "score": 91
         }
       ]
