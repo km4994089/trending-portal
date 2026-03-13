@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-09T03:44:53.865Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "제주항공",
-          "score": 100
-        },
-        {
-          "keyword": "서킷브레이커",
-          "score": 99
-        },
-        {
-          "keyword": "어도비",
-          "score": 98
-        },
-        {
-          "keyword": "캐시워크 정답",
-          "score": 97
-        },
-        {
-          "keyword": "classroom",
-          "score": 96
-        },
-        {
-          "keyword": "코스피 주가",
-          "score": 95
-        },
-        {
-          "keyword": "안전보건공단",
-          "score": 94
-        },
-        {
-          "keyword": "펄어비스 주가",
-          "score": 93
-        },
-        {
-          "keyword": "에코프로 주가",
-          "score": 92
-        },
-        {
-          "keyword": "lig넥스원 주가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-09T05:15:36.737Z",
       "geo": "KR",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "와우넷",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-13T05:08:37.354Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "홍석천",
+          "score": 100
+        },
+        {
+          "keyword": "한국 도미니카",
+          "score": 99
+        },
+        {
+          "keyword": "카를로스 알카라스",
+          "score": 98
+        },
+        {
+          "keyword": "우리기술",
+          "score": 97
+        },
+        {
+          "keyword": "기름값 상한제",
+          "score": 96
+        },
+        {
+          "keyword": "이정현",
+          "score": 95
+        },
+        {
+          "keyword": "대우건설",
+          "score": 94
+        },
+        {
+          "keyword": "한국연구재단",
+          "score": 93
+        },
+        {
+          "keyword": "이윤철",
+          "score": 92
+        },
+        {
+          "keyword": "sk이터닉스",
           "score": 91
         }
       ]

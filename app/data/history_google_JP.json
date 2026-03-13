@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-09T03:44:55.031Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "岩村明憲",
-          "score": 100
-        },
-        {
-          "keyword": "徳永ゆうき",
-          "score": 99
-        },
-        {
-          "keyword": "高島礼子",
-          "score": 98
-        },
-        {
-          "keyword": "アストンマーティン f1",
-          "score": 97
-        },
-        {
-          "keyword": "水戸",
-          "score": 96
-        },
-        {
-          "keyword": "カナダ",
-          "score": 95
-        },
-        {
-          "keyword": "west",
-          "score": 94
-        },
-        {
-          "keyword": "ニコパフとは",
-          "score": 93
-        },
-        {
-          "keyword": "王将戦 速報",
-          "score": 92
-        },
-        {
-          "keyword": "バックス 対 マジック",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-09T05:15:38.192Z",
       "geo": "JP",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "サマソニ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-13T05:08:38.591Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "衆議院",
+          "score": 100
+        },
+        {
+          "keyword": "中国 イラン",
+          "score": 99
+        },
+        {
+          "keyword": "コーエーテクモ",
+          "score": 98
+        },
+        {
+          "keyword": "ケニーオメガ",
+          "score": 97
+        },
+        {
+          "keyword": "吉岡達夫受刑者",
+          "score": 96
+        },
+        {
+          "keyword": "ラヴィット 出演者",
+          "score": 95
+        },
+        {
+          "keyword": "サントリー",
+          "score": 94
+        },
+        {
+          "keyword": "スプリングステークス",
+          "score": 93
+        },
+        {
+          "keyword": "草笛光子",
+          "score": 92
+        },
+        {
+          "keyword": "黒柳徹子",
           "score": 91
         }
       ]
