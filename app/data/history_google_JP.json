@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-09T16:46:40.423Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "米津玄師",
-          "score": 100
-        },
-        {
-          "keyword": "北海道",
-          "score": 99
-        },
-        {
-          "keyword": "ana",
-          "score": 98
-        },
-        {
-          "keyword": "ハチミツ二郎",
-          "score": 97
-        },
-        {
-          "keyword": "スターフライヤー",
-          "score": 96
-        },
-        {
-          "keyword": "地震",
-          "score": 95
-        },
-        {
-          "keyword": "地震情報",
-          "score": 94
-        },
-        {
-          "keyword": "災害",
-          "score": 93
-        },
-        {
-          "keyword": "スカイマーク",
-          "score": 92
-        },
-        {
-          "keyword": "amazon 新生活セール",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-09T17:40:17.318Z",
       "geo": "JP",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "鳥貴族",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-13T17:04:49.821Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ahamo ドコモ max",
+          "score": 100
+        },
+        {
+          "keyword": "秋本美空",
+          "score": 99
+        },
+        {
+          "keyword": "ps5",
+          "score": 98
+        },
+        {
+          "keyword": "俺たちバッドバーバーズ",
+          "score": 97
+        },
+        {
+          "keyword": "ヤンドク",
+          "score": 96
+        },
+        {
+          "keyword": "渋谷",
+          "score": 95
+        },
+        {
+          "keyword": "バラバラ大作戦 東ブクロ",
+          "score": 94
+        },
+        {
+          "keyword": "大谷映美里",
+          "score": 93
+        },
+        {
+          "keyword": "ブシュロン",
+          "score": 92
+        },
+        {
+          "keyword": "コナン 映画",
           "score": 91
         }
       ]
