@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-09T18:38:34.509Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大雪",
-          "score": 100
-        },
-        {
-          "keyword": "グラブル ガチャ",
-          "score": 99
-        },
-        {
-          "keyword": "米津玄師",
-          "score": 98
-        },
-        {
-          "keyword": "北海道",
-          "score": 97
-        },
-        {
-          "keyword": "ana",
-          "score": 96
-        },
-        {
-          "keyword": "ハチミツ二郎",
-          "score": 95
-        },
-        {
-          "keyword": "スターフライヤー",
-          "score": 94
-        },
-        {
-          "keyword": "地震",
-          "score": 93
-        },
-        {
-          "keyword": "地震情報",
-          "score": 92
-        },
-        {
-          "keyword": "災害",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-09T19:33:48.301Z",
       "geo": "JP",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "ps5",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-13T19:24:31.401Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "モンスターハンターストーリーズ3 攻略",
+          "score": 100
+        },
+        {
+          "keyword": "ガソリン価格 補助金",
+          "score": 99
+        },
+        {
+          "keyword": "ブレイキングダウン",
+          "score": 98
+        },
+        {
+          "keyword": "なか卯",
+          "score": 97
+        },
+        {
+          "keyword": "今田美桜",
+          "score": 96
+        },
+        {
+          "keyword": "浅野温子",
+          "score": 95
+        },
+        {
+          "keyword": "支持率",
+          "score": 94
+        },
+        {
+          "keyword": "ドコモ max ahamo",
+          "score": 93
+        },
+        {
+          "keyword": "アイコス",
+          "score": 92
+        },
+        {
+          "keyword": "向井理",
           "score": 91
         }
       ]
