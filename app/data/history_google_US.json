@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-09T05:15:35.468Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tornadoes",
-          "score": 100
-        },
-        {
-          "keyword": "eric wilson",
-          "score": 99
-        },
-        {
-          "keyword": "rasheer fleming",
-          "score": 98
-        },
-        {
-          "keyword": "madelyn cline",
-          "score": 97
-        },
-        {
-          "keyword": "brandon miller",
-          "score": 96
-        },
-        {
-          "keyword": "nifty 50",
-          "score": 95
-        },
-        {
-          "keyword": "vix",
-          "score": 94
-        },
-        {
-          "keyword": "international news",
-          "score": 93
-        },
-        {
-          "keyword": "heavy snow warning",
-          "score": 92
-        },
-        {
-          "keyword": "nathan martin",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-09T06:14:09.616Z",
       "geo": "US",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "idris elba",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-13T06:07:02.100Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lincoln county wildfire",
+          "score": 100
+        },
+        {
+          "keyword": "seattle weather",
+          "score": 99
+        },
+        {
+          "keyword": "margaret qualley",
+          "score": 98
+        },
+        {
+          "keyword": "one piece season 3",
+          "score": 97
+        },
+        {
+          "keyword": "john carpenter's toxic commando",
+          "score": 96
+        },
+        {
+          "keyword": "katarzyna kawa",
+          "score": 95
+        },
+        {
+          "keyword": "austin reaves",
+          "score": 94
+        },
+        {
+          "keyword": "lauren bessette",
+          "score": 93
+        },
+        {
+          "keyword": "world cup",
+          "score": 92
+        },
+        {
+          "keyword": "gasoline",
           "score": 91
         }
       ]
