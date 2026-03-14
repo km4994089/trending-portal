@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-10T21:21:40.430Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "토트넘",
-          "score": 100
-        },
-        {
-          "keyword": "스포츠중계",
-          "score": 99
-        },
-        {
-          "keyword": "newcastle vs barcelona",
-          "score": 98
-        },
-        {
-          "keyword": "오라클 주가",
-          "score": 97
-        },
-        {
-          "keyword": "champions league",
-          "score": 96
-        },
-        {
-          "keyword": "챔피언스리그",
-          "score": 95
-        },
-        {
-          "keyword": "아틀레티코 대 토트넘",
-          "score": 94
-        },
-        {
-          "keyword": "아탈란타 대 바이에른",
-          "score": 93
-        },
-        {
-          "keyword": "뉴캐슬 대 바르셀로나",
-          "score": 92
-        },
-        {
-          "keyword": "กาลาตาซาราย พบ ลิเวอร์พูล",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-10T21:48:16.512Z",
       "geo": "KR",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "아스널 대 에버턴",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-14T21:46:53.614Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "real madrid vs elche",
+          "score": 100
+        },
+        {
+          "keyword": "엘레나 리바키나",
+          "score": 99
+        },
+        {
+          "keyword": "พยากรณ์อากาศ",
+          "score": 98
+        },
+        {
+          "keyword": "real madrid",
+          "score": 97
+        },
+        {
+          "keyword": "west ham vs man city",
+          "score": 96
+        },
+        {
+          "keyword": "pl",
+          "score": 95
+        },
+        {
+          "keyword": "อาร์เซนอล พบ เอฟเวอร์ตัน",
+          "score": 94
+        },
+        {
+          "keyword": "เชลซี พบ นิวคาสเซิล",
+          "score": 93
+        },
+        {
+          "keyword": "첼시",
+          "score": 92
+        },
+        {
+          "keyword": "아스날",
           "score": 91
         }
       ]
