@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-10T17:38:59.563Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "캐치",
-          "score": 100
-        },
-        {
-          "keyword": "현역가 왕3",
-          "score": 99
-        },
-        {
-          "keyword": "오승환",
-          "score": 98
-        },
-        {
-          "keyword": "이솜",
-          "score": 97
-        },
-        {
-          "keyword": "세르비아",
-          "score": 96
-        },
-        {
-          "keyword": "프리지아",
-          "score": 95
-        },
-        {
-          "keyword": "사토리아",
-          "score": 94
-        },
-        {
-          "keyword": "xsmb",
-          "score": 93
-        },
-        {
-          "keyword": "토스 엔화",
-          "score": 92
-        },
-        {
-          "keyword": "일본",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-10T18:35:08.038Z",
       "geo": "KR",
       "source": "google",
@@ -5450,6 +5403,53 @@
         },
         {
           "keyword": "inter vs atalanta",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-14T17:48:46.943Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "첼시 대 뉴캐슬",
+          "score": 100
+        },
+        {
+          "keyword": "아스널 대 에버턴",
+          "score": 99
+        },
+        {
+          "keyword": "인테르",
+          "score": 98
+        },
+        {
+          "keyword": "하버마스",
+          "score": 97
+        },
+        {
+          "keyword": "atlético madrid vs getafe",
+          "score": 96
+        },
+        {
+          "keyword": "바이에른 뮌헨",
+          "score": 95
+        },
+        {
+          "keyword": "챔피언십",
+          "score": 94
+        },
+        {
+          "keyword": "그것이 알고싶다",
+          "score": 93
+        },
+        {
+          "keyword": "쯔양",
+          "score": 92
+        },
+        {
+          "keyword": "기생충",
           "score": 91
         }
       ]

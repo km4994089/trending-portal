@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-10T17:39:00.799Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "放送禁止",
-          "score": 100
-        },
-        {
-          "keyword": "ガラタサライ 対 リヴァプール",
-          "score": 99
-        },
-        {
-          "keyword": "くるま",
-          "score": 98
-        },
-        {
-          "keyword": "黙祷",
-          "score": 97
-        },
-        {
-          "keyword": "チェンソーマン",
-          "score": 96
-        },
-        {
-          "keyword": "岡田紗佳",
-          "score": 95
-        },
-        {
-          "keyword": "大川小学校",
-          "score": 94
-        },
-        {
-          "keyword": "ローカル路線バス乗り継ぎの旅",
-          "score": 93
-        },
-        {
-          "keyword": "市川市動植物園",
-          "score": 92
-        },
-        {
-          "keyword": "東山奈央",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-10T18:35:10.151Z",
       "geo": "JP",
       "source": "google",
@@ -5450,6 +5403,53 @@
         },
         {
           "keyword": "谷口悟朗",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-14T17:48:48.091Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "イラン情勢 株価",
+          "score": 100
+        },
+        {
+          "keyword": "arsenal vs everton",
+          "score": 99
+        },
+        {
+          "keyword": "アーセナル 対 エヴァートン",
+          "score": 98
+        },
+        {
+          "keyword": "レスターc 対 qpr",
+          "score": 97
+        },
+        {
+          "keyword": "桜田ひより",
+          "score": 96
+        },
+        {
+          "keyword": "グノーシア",
+          "score": 95
+        },
+        {
+          "keyword": "バーミンガム 対 シェフィールドu",
+          "score": 94
+        },
+        {
+          "keyword": "田中将大",
+          "score": 93
+        },
+        {
+          "keyword": "atlético madrid vs getafe",
+          "score": 92
+        },
+        {
+          "keyword": "サウサンプトン",
           "score": 91
         }
       ]
