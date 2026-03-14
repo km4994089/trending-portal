@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-10T03:36:35.197Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "warriors",
-          "score": 100
-        },
-        {
-          "keyword": "santa clara basketball",
-          "score": 99
-        },
-        {
-          "keyword": "golden state warriors",
-          "score": 98
-        },
-        {
-          "keyword": "kawhi leonard",
-          "score": 97
-        },
-        {
-          "keyword": "tyquan thornton",
-          "score": 96
-        },
-        {
-          "keyword": "darius garland",
-          "score": 95
-        },
-        {
-          "keyword": "edwin diaz",
-          "score": 94
-        },
-        {
-          "keyword": "italy wbc",
-          "score": 93
-        },
-        {
-          "keyword": "karl anthony towns",
-          "score": 92
-        },
-        {
-          "keyword": "alexander butterfield",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-10T05:05:19.980Z",
       "geo": "US",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "shakira",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-14T03:38:03.337Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "randy orton",
+          "score": 100
+        },
+        {
+          "keyword": "jeremy fears jr",
+          "score": 99
+        },
+        {
+          "keyword": "scoot henderson",
+          "score": 98
+        },
+        {
+          "keyword": "jasmine crockett security guard shot",
+          "score": 97
+        },
+        {
+          "keyword": "ku score",
+          "score": 96
+        },
+        {
+          "keyword": "us baseball",
+          "score": 95
+        },
+        {
+          "keyword": "wbc",
+          "score": 94
+        },
+        {
+          "keyword": "kansas basketball",
+          "score": 93
+        },
+        {
+          "keyword": "ace bailey",
+          "score": 92
+        },
+        {
+          "keyword": "dominican republic baseball roster",
           "score": 91
         }
       ]
