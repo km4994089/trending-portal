@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-10T23:18:32.251Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "국제유가",
-          "score": 100
-        },
-        {
-          "keyword": "อัตเลติโกมาดริด พบ สเปอร์ส",
-          "score": 99
-        },
-        {
-          "keyword": "스포츠",
-          "score": 98
-        },
-        {
-          "keyword": "newcastle đấu với barcelona",
-          "score": 97
-        },
-        {
-          "keyword": "นิวคาสเซิล พบ บาร์ซา",
-          "score": 96
-        },
-        {
-          "keyword": "ньюкасл юнайтед – барселона",
-          "score": 95
-        },
-        {
-          "keyword": "uefa champions league",
-          "score": 94
-        },
-        {
-          "keyword": "스토크 시티 대 입스위치",
-          "score": 93
-        },
-        {
-          "keyword": "พยากรณ์อากาศ",
-          "score": 92
-        },
-        {
-          "keyword": "atlético madrid vs tottenham",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-10T23:47:30.665Z",
       "geo": "KR",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "real madrid vs elche",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-14T23:47:09.895Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "weather",
+          "score": 100
+        },
+        {
+          "keyword": "카를로스 알카라스",
+          "score": 99
+        },
+        {
+          "keyword": "대구날씨",
+          "score": 98
+        },
+        {
+          "keyword": "real madrid đấu với elche",
+          "score": 97
+        },
+        {
+          "keyword": "天氣",
+          "score": 96
+        },
+        {
+          "keyword": "유수영",
+          "score": 95
+        },
+        {
+          "keyword": "indian wells",
+          "score": 94
+        },
+        {
+          "keyword": "al-khaleej vs al-nassr",
+          "score": 93
+        },
+        {
+          "keyword": "реал мадрид – эльче",
+          "score": 92
+        },
+        {
+          "keyword": "天气",
           "score": 91
         }
       ]
