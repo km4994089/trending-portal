@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-10T13:55:12.703Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "テミス",
-          "score": 100
-        },
-        {
-          "keyword": "カジサック",
-          "score": 99
-        },
-        {
-          "keyword": "嵐 ライブ",
-          "score": 98
-        },
-        {
-          "keyword": "千鳥",
-          "score": 97
-        },
-        {
-          "keyword": "鳴海唯",
-          "score": 96
-        },
-        {
-          "keyword": "jera",
-          "score": 95
-        },
-        {
-          "keyword": "キングコング",
-          "score": 94
-        },
-        {
-          "keyword": "渡辺謙",
-          "score": 93
-        },
-        {
-          "keyword": "原辰徳",
-          "score": 92
-        },
-        {
-          "keyword": "wbc準々決勝進出",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-10T14:40:34.995Z",
       "geo": "JP",
       "source": "google",
@@ -5262,6 +5215,53 @@
         },
         {
           "keyword": "板東英二",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-14T13:59:26.874Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "アラエス",
+          "score": 100
+        },
+        {
+          "keyword": "レバークーゼン 対 バイエルン",
+          "score": 99
+        },
+        {
+          "keyword": "小園海斗",
+          "score": 98
+        },
+        {
+          "keyword": "たくろう 赤木",
+          "score": 97
+        },
+        {
+          "keyword": "ドゥブロヴニク",
+          "score": 96
+        },
+        {
+          "keyword": "大橋和也",
+          "score": 95
+        },
+        {
+          "keyword": "森繁和",
+          "score": 94
+        },
+        {
+          "keyword": "北川悠仁",
+          "score": 93
+        },
+        {
+          "keyword": "たくろう",
+          "score": 92
+        },
+        {
+          "keyword": "古田敦也",
           "score": 91
         }
       ]
