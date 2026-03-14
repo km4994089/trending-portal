@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-10T11:07:13.333Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "megumi",
-          "score": 100
-        },
-        {
-          "keyword": "はるな愛",
-          "score": 99
-        },
-        {
-          "keyword": "眞栄田郷敦",
-          "score": 98
-        },
-        {
-          "keyword": "グラブル スタレ",
-          "score": 97
-        },
-        {
-          "keyword": "cze",
-          "score": 96
-        },
-        {
-          "keyword": "2023 wbc",
-          "score": 95
-        },
-        {
-          "keyword": "松坂屋",
-          "score": 94
-        },
-        {
-          "keyword": "プラハ",
-          "score": 93
-        },
-        {
-          "keyword": "tepco",
-          "score": 92
-        },
-        {
-          "keyword": "マリオ 映画",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-10T11:52:13.669Z",
       "geo": "JP",
       "source": "google",
@@ -5215,6 +5168,53 @@
         },
         {
           "keyword": "テレq",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-14T11:16:12.870Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "宮沢氷魚",
+          "score": 100
+        },
+        {
+          "keyword": "森口博子",
+          "score": 99
+        },
+        {
+          "keyword": "出川哲朗",
+          "score": 98
+        },
+        {
+          "keyword": "いわき市",
+          "score": 97
+        },
+        {
+          "keyword": "カリスマ",
+          "score": 96
+        },
+        {
+          "keyword": "インディージョーンズ",
+          "score": 95
+        },
+        {
+          "keyword": "ジブリ",
+          "score": 94
+        },
+        {
+          "keyword": "坂口健太郎",
+          "score": 93
+        },
+        {
+          "keyword": "大河ドラマ",
+          "score": 92
+        },
+        {
+          "keyword": "悪魔の手毬唄",
           "score": 91
         }
       ]

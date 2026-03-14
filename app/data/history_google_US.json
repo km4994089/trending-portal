@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-10T11:07:10.659Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sunrise",
-          "score": 100
-        },
-        {
-          "keyword": "willie colon",
-          "score": 99
-        },
-        {
-          "keyword": "weather.com",
-          "score": 98
-        },
-        {
-          "keyword": "storm prediction center",
-          "score": 97
-        },
-        {
-          "keyword": "dow jones futures",
-          "score": 96
-        },
-        {
-          "keyword": "horoscope",
-          "score": 95
-        },
-        {
-          "keyword": "oil price per barrel",
-          "score": 94
-        },
-        {
-          "keyword": "wegovy",
-          "score": 93
-        },
-        {
-          "keyword": "michelle randolph",
-          "score": 92
-        },
-        {
-          "keyword": "mahmoud khalil",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-10T11:52:11.151Z",
       "geo": "US",
       "source": "google",
@@ -5215,6 +5168,53 @@
         },
         {
           "keyword": "and",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-14T11:16:10.439Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "collegeboard",
+          "score": 100
+        },
+        {
+          "keyword": "날씨",
+          "score": 99
+        },
+        {
+          "keyword": "government shutdown 2026",
+          "score": 98
+        },
+        {
+          "keyword": "people magazine",
+          "score": 97
+        },
+        {
+          "keyword": "sat",
+          "score": 96
+        },
+        {
+          "keyword": "chen",
+          "score": 95
+        },
+        {
+          "keyword": "cuba news",
+          "score": 94
+        },
+        {
+          "keyword": "steve wilkos",
+          "score": 93
+        },
+        {
+          "keyword": "page six",
+          "score": 92
+        },
+        {
+          "keyword": "bari weiss",
           "score": 91
         }
       ]
