@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-10T15:51:33.829Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "barcelona vs newcastle",
-          "score": 100
-        },
-        {
-          "keyword": "sheryl underwood",
-          "score": 99
-        },
-        {
-          "keyword": "tornado warning indianapolis",
-          "score": 98
-        },
-        {
-          "keyword": "ed martin",
-          "score": 97
-        },
-        {
-          "keyword": "kisd",
-          "score": 96
-        },
-        {
-          "keyword": "darron lee",
-          "score": 95
-        },
-        {
-          "keyword": "caleb foster",
-          "score": 94
-        },
-        {
-          "keyword": "indianapolis weather",
-          "score": 93
-        },
-        {
-          "keyword": "orcl stock",
-          "score": 92
-        },
-        {
-          "keyword": "earthquake",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-10T16:46:21.306Z",
       "geo": "US",
       "source": "google",
@@ -5403,6 +5356,53 @@
         },
         {
           "keyword": "las vegas weather",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-14T16:19:23.087Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lorient vs lens",
+          "score": 100
+        },
+        {
+          "keyword": "jasmine crockett security officer shot",
+          "score": 99
+        },
+        {
+          "keyword": "kathie lee gifford",
+          "score": 98
+        },
+        {
+          "keyword": "josh johnson nfl",
+          "score": 97
+        },
+        {
+          "keyword": "nicolas jackson",
+          "score": 96
+        },
+        {
+          "keyword": "celtic vs motherwell",
+          "score": 95
+        },
+        {
+          "keyword": "bayern",
+          "score": 94
+        },
+        {
+          "keyword": "habermas",
+          "score": 93
+        },
+        {
+          "keyword": "san diego weather",
+          "score": 92
+        },
+        {
+          "keyword": "destin florida",
           "score": 91
         }
       ]
