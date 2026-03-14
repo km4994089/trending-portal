@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-10T19:31:36.754Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ニューカッスル 対 バルセロナ",
-          "score": 100
-        },
-        {
-          "keyword": "大坂なおみ",
-          "score": 99
-        },
-        {
-          "keyword": "アメリカ イスラエル イラン攻撃",
-          "score": 98
-        },
-        {
-          "keyword": "再会 silent truth",
-          "score": 97
-        },
-        {
-          "keyword": "abema",
-          "score": 96
-        },
-        {
-          "keyword": "galatasaray vs liverpool",
-          "score": 95
-        },
-        {
-          "keyword": "ダーウィン事変",
-          "score": 94
-        },
-        {
-          "keyword": "wowow",
-          "score": 93
-        },
-        {
-          "keyword": "放送禁止",
-          "score": 92
-        },
-        {
-          "keyword": "ガラタサライ 対 リヴァプール",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-10T20:22:40.001Z",
       "geo": "JP",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "バーミンガム 対 シェフィールドu",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-14T19:45:21.768Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "chelsea",
+          "score": 100
+        },
+        {
+          "keyword": "ウェストハム 対 マンc",
+          "score": 99
+        },
+        {
+          "keyword": "アーセナル",
+          "score": 98
+        },
+        {
+          "keyword": "rマドリード 対 エルチェ",
+          "score": 97
+        },
+        {
+          "keyword": "カンボジア",
+          "score": 96
+        },
+        {
+          "keyword": "psv 対 nec",
+          "score": 95
+        },
+        {
+          "keyword": "google chrome ゼロデイ",
+          "score": 94
+        },
+        {
+          "keyword": "chelsea vs newcastle",
+          "score": 93
+        },
+        {
+          "keyword": "イラン情勢 株価",
+          "score": 92
+        },
+        {
+          "keyword": "arsenal vs everton",
           "score": 91
         }
       ]

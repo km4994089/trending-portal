@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-10T19:31:35.091Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "스포티비",
-          "score": 100
-        },
-        {
-          "keyword": "챔스",
-          "score": 99
-        },
-        {
-          "keyword": "galatasaray vs liverpool",
-          "score": 98
-        },
-        {
-          "keyword": "리버풀",
-          "score": 97
-        },
-        {
-          "keyword": "캐치",
-          "score": 96
-        },
-        {
-          "keyword": "현역가 왕3",
-          "score": 95
-        },
-        {
-          "keyword": "오승환",
-          "score": 94
-        },
-        {
-          "keyword": "이솜",
-          "score": 93
-        },
-        {
-          "keyword": "세르비아",
-          "score": 92
-        },
-        {
-          "keyword": "프리지아",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-10T20:22:38.498Z",
       "geo": "KR",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "쯔양",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-14T19:45:20.460Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "arsenal",
+          "score": 100
+        },
+        {
+          "keyword": "arsenal vs everton",
+          "score": 99
+        },
+        {
+          "keyword": "첼시 대 뉴캐슬",
+          "score": 98
+        },
+        {
+          "keyword": "아스널 대 에버턴",
+          "score": 97
+        },
+        {
+          "keyword": "인테르",
+          "score": 96
+        },
+        {
+          "keyword": "하버마스",
+          "score": 95
+        },
+        {
+          "keyword": "atlético madrid vs getafe",
+          "score": 94
+        },
+        {
+          "keyword": "바이에른 뮌헨",
+          "score": 93
+        },
+        {
+          "keyword": "챔피언십",
+          "score": 92
+        },
+        {
+          "keyword": "그것이 알고싶다",
           "score": 91
         }
       ]
