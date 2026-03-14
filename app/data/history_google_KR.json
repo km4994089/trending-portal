@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-10T20:22:38.498Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "아틀레티코 대 토트넘",
-          "score": 100
-        },
-        {
-          "keyword": "아탈란타 대 바이에른",
-          "score": 99
-        },
-        {
-          "keyword": "뉴캐슬 대 바르셀로나",
-          "score": 98
-        },
-        {
-          "keyword": "กาลาตาซาราย พบ ลิเวอร์พูล",
-          "score": 97
-        },
-        {
-          "keyword": "기뢰",
-          "score": 96
-        },
-        {
-          "keyword": "스포티비",
-          "score": 95
-        },
-        {
-          "keyword": "galatasaray vs liverpool",
-          "score": 94
-        },
-        {
-          "keyword": "리버풀",
-          "score": 93
-        },
-        {
-          "keyword": "오라클",
-          "score": 92
-        },
-        {
-          "keyword": "캐치",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-10T20:55:16.073Z",
       "geo": "KR",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "바이에른 뮌헨",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-14T20:49:13.372Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "อาร์เซนอล พบ เอฟเวอร์ตัน",
+          "score": 100
+        },
+        {
+          "keyword": "เชลซี พบ นิวคาสเซิล",
+          "score": 99
+        },
+        {
+          "keyword": "아스날",
+          "score": 98
+        },
+        {
+          "keyword": "arsenal đấu với everton",
+          "score": 97
+        },
+        {
+          "keyword": "arsenal vs everton",
+          "score": 96
+        },
+        {
+          "keyword": "첼시 대 뉴캐슬",
+          "score": 95
+        },
+        {
+          "keyword": "아스널 대 에버턴",
+          "score": 94
+        },
+        {
+          "keyword": "인테르",
+          "score": 93
+        },
+        {
+          "keyword": "bundesliga",
+          "score": 92
+        },
+        {
+          "keyword": "하버마스",
           "score": 91
         }
       ]
