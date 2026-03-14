@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-10T11:52:11.151Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "bad bunny",
-          "score": 100
-        },
-        {
-          "keyword": "trump attorney general",
-          "score": 99
-        },
-        {
-          "keyword": "madison beer",
-          "score": 98
-        },
-        {
-          "keyword": "famous birthdays",
-          "score": 97
-        },
-        {
-          "keyword": "gwen stefani",
-          "score": 96
-        },
-        {
-          "keyword": "taylor swift",
-          "score": 95
-        },
-        {
-          "keyword": "iheart",
-          "score": 94
-        },
-        {
-          "keyword": "japan vs czechia wbc",
-          "score": 93
-        },
-        {
-          "keyword": "nio stock",
-          "score": 92
-        },
-        {
-          "keyword": "marjorie taylor greene",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-10T12:36:56.365Z",
       "geo": "US",
       "source": "google",
@@ -5262,6 +5215,53 @@
         },
         {
           "keyword": "collegeboard",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-14T12:29:07.999Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "girona - athletic",
+          "score": 100
+        },
+        {
+          "keyword": "girona vs athletic club",
+          "score": 99
+        },
+        {
+          "keyword": "vanguard",
+          "score": 98
+        },
+        {
+          "keyword": "st patricks day parade 2026",
+          "score": 97
+        },
+        {
+          "keyword": "carowinds",
+          "score": 96
+        },
+        {
+          "keyword": "lee thompson disney show",
+          "score": 95
+        },
+        {
+          "keyword": "coventry vs southampton",
+          "score": 94
+        },
+        {
+          "keyword": "dui attorney",
+          "score": 93
+        },
+        {
+          "keyword": "bbc sport",
+          "score": 92
+        },
+        {
+          "keyword": "phil campbell",
           "score": 91
         }
       ]
