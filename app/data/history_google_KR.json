@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-10T22:18:21.004Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "해외축구",
-          "score": 100
-        },
-        {
-          "keyword": "พยากรณ์อากาศ",
-          "score": 99
-        },
-        {
-          "keyword": "atlético madrid vs tottenham",
-          "score": 98
-        },
-        {
-          "keyword": "galatasaray đấu với liverpool",
-          "score": 97
-        },
-        {
-          "keyword": "필라델피아 반도체 지수",
-          "score": 96
-        },
-        {
-          "keyword": "토트넘 홋스퍼 fc",
-          "score": 95
-        },
-        {
-          "keyword": "스포츠중계",
-          "score": 94
-        },
-        {
-          "keyword": "newcastle vs barcelona",
-          "score": 93
-        },
-        {
-          "keyword": "오라클 주가",
-          "score": 92
-        },
-        {
-          "keyword": "champions league",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-10T22:51:17.707Z",
       "geo": "KR",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "เชลซี พบ นิวคาสเซิล",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-14T22:49:40.996Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "맨시티",
+          "score": 100
+        },
+        {
+          "keyword": "madrid vs elche",
+          "score": 99
+        },
+        {
+          "keyword": "인디언웰스",
+          "score": 98
+        },
+        {
+          "keyword": "เวสต์แฮม พบ แมนซิตี",
+          "score": 97
+        },
+        {
+          "keyword": "야닉 시너",
+          "score": 96
+        },
+        {
+          "keyword": "real madrid vs elche",
+          "score": 95
+        },
+        {
+          "keyword": "พยากรณ์อากาศ",
+          "score": 94
+        },
+        {
+          "keyword": "west ham vs man city",
+          "score": 93
+        },
+        {
+          "keyword": "pl",
+          "score": 92
+        },
+        {
+          "keyword": "อาร์เซนอล พบ เอฟเวอร์ตัน",
           "score": 91
         }
       ]
