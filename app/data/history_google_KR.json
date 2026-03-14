@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-10T08:41:03.286Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "엔하이픈",
-          "score": 100
-        },
-        {
-          "keyword": "근로장려금",
-          "score": 99
-        },
-        {
-          "keyword": "왕사남 호랑이",
-          "score": 98
-        },
-        {
-          "keyword": "엔트리",
-          "score": 97
-        },
-        {
-          "keyword": "고양이",
-          "score": 96
-        },
-        {
-          "keyword": "창세기전 키우기",
-          "score": 95
-        },
-        {
-          "keyword": "장나라",
-          "score": 94
-        },
-        {
-          "keyword": "설악산",
-          "score": 93
-        },
-        {
-          "keyword": "모즈타바 하메네이",
-          "score": 92
-        },
-        {
-          "keyword": "la 클리퍼스 대 뉴욕",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-10T09:33:58.564Z",
       "geo": "KR",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "광주 대 전북",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-14T08:57:25.810Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "대전 대 김천상무",
+          "score": 100
+        },
+        {
+          "keyword": "박정민",
+          "score": 99
+        },
+        {
+          "keyword": "kbl",
+          "score": 98
+        },
+        {
+          "keyword": "수원 kt 대 서울 sk",
+          "score": 97
+        },
+        {
+          "keyword": "북한",
+          "score": 96
+        },
+        {
+          "keyword": "서울e 대 부산",
+          "score": 95
+        },
+        {
+          "keyword": "메이슨 밀러",
+          "score": 94
+        },
+        {
+          "keyword": "수원 대 전남",
+          "score": 93
+        },
+        {
+          "keyword": "부산 kcc 대 안양 정관장",
+          "score": 92
+        },
+        {
+          "keyword": "kbo",
           "score": 91
         }
       ]
