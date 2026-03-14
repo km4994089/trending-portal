@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-10T06:03:42.889Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "コロワイド",
-          "score": 100
-        },
-        {
-          "keyword": "上田絵莉加",
-          "score": 99
-        },
-        {
-          "keyword": "tsmc",
-          "score": 98
-        },
-        {
-          "keyword": "ハンギョドン",
-          "score": 97
-        },
-        {
-          "keyword": "6740",
-          "score": 96
-        },
-        {
-          "keyword": "永住許可",
-          "score": 95
-        },
-        {
-          "keyword": "朝倉未来",
-          "score": 94
-        },
-        {
-          "keyword": "佐藤勝利",
-          "score": 93
-        },
-        {
-          "keyword": "マスク",
-          "score": 92
-        },
-        {
-          "keyword": "the gazette",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-10T07:11:19.496Z",
       "geo": "JP",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "ニジゲンノモリ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-14T07:08:41.003Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "岡田彰布",
+          "score": 100
+        },
+        {
+          "keyword": "百田尚樹",
+          "score": 99
+        },
+        {
+          "keyword": "三嶋一輝",
+          "score": 98
+        },
+        {
+          "keyword": "武豊",
+          "score": 97
+        },
+        {
+          "keyword": "永井大",
+          "score": 96
+        },
+        {
+          "keyword": "エディオンアリーナ大阪",
+          "score": 95
+        },
+        {
+          "keyword": "飯豊まりえ",
+          "score": 94
+        },
+        {
+          "keyword": "若ノ勝",
+          "score": 93
+        },
+        {
+          "keyword": "甲山親方",
+          "score": 92
+        },
+        {
+          "keyword": "コーラルステークス",
           "score": 91
         }
       ]
