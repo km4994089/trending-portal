@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-10T22:51:17.707Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "newcastle đấu với barcelona",
-          "score": 100
-        },
-        {
-          "keyword": "นิวคาสเซิล พบ บาร์ซา",
-          "score": 99
-        },
-        {
-          "keyword": "ньюкасл юнайтед – барселона",
-          "score": 98
-        },
-        {
-          "keyword": "해외축구",
-          "score": 97
-        },
-        {
-          "keyword": "พยากรณ์อากาศ",
-          "score": 96
-        },
-        {
-          "keyword": "atlético madrid vs tottenham",
-          "score": 95
-        },
-        {
-          "keyword": "galatasaray đấu với liverpool",
-          "score": 94
-        },
-        {
-          "keyword": "스포츠중계",
-          "score": 93
-        },
-        {
-          "keyword": "나스닥 지수",
-          "score": 92
-        },
-        {
-          "keyword": "newcastle vs barcelona",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-10T23:18:32.251Z",
       "geo": "KR",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "อาร์เซนอล พบ เอฟเวอร์ตัน",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-14T23:18:20.588Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "天气",
+          "score": 100
+        },
+        {
+          "keyword": "날씨",
+          "score": 99
+        },
+        {
+          "keyword": "west ham đấu với man city",
+          "score": 98
+        },
+        {
+          "keyword": "天気",
+          "score": 97
+        },
+        {
+          "keyword": "맨시티",
+          "score": 96
+        },
+        {
+          "keyword": "madrid vs elche",
+          "score": 95
+        },
+        {
+          "keyword": "인디언웰스",
+          "score": 94
+        },
+        {
+          "keyword": "เวสต์แฮม พบ แมนซิตี",
+          "score": 93
+        },
+        {
+          "keyword": "야닉 시너",
+          "score": 92
+        },
+        {
+          "keyword": "real madrid vs elche",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-10T22:51:19.748Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ロッテリア",
-          "score": 100
-        },
-        {
-          "keyword": "bts",
-          "score": 99
-        },
-        {
-          "keyword": "稲村亜美",
-          "score": 98
-        },
-        {
-          "keyword": "生田斗真",
-          "score": 97
-        },
-        {
-          "keyword": "能登半島地震",
-          "score": 96
-        },
-        {
-          "keyword": "ガソリン値上がり",
-          "score": 95
-        },
-        {
-          "keyword": "旭市",
-          "score": 94
-        },
-        {
-          "keyword": "jr東海",
-          "score": 93
-        },
-        {
-          "keyword": "3連敗",
-          "score": 92
-        },
-        {
-          "keyword": "牛角",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-10T23:18:33.199Z",
       "geo": "JP",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "松岡昌宏",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-14T23:18:21.839Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "丸亀製麺",
+          "score": 100
+        },
+        {
+          "keyword": "三崎優太",
+          "score": 99
+        },
+        {
+          "keyword": "カルロス・アルカラス",
+          "score": 98
+        },
+        {
+          "keyword": "香取慎吾",
+          "score": 97
+        },
+        {
+          "keyword": "セルティックス 対 ウィザーズ",
+          "score": 96
+        },
+        {
+          "keyword": "艦船",
+          "score": 95
+        },
+        {
+          "keyword": "新潟ハーフマラソン",
+          "score": 94
+        },
+        {
+          "keyword": "京都駅",
+          "score": 93
+        },
+        {
+          "keyword": "wbc 日程",
+          "score": 92
+        },
+        {
+          "keyword": "豊橋 火事",
           "score": 91
         }
       ]
