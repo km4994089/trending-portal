@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-10T10:29:18.571Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "サトリア",
-          "score": 100
-        },
-        {
-          "keyword": "ビーズ",
-          "score": 99
-        },
-        {
-          "keyword": "wbc 予選",
-          "score": 98
-        },
-        {
-          "keyword": "オモウマい店 富山",
-          "score": 97
-        },
-        {
-          "keyword": "フルプ",
-          "score": 96
-        },
-        {
-          "keyword": "安藤優子",
-          "score": 95
-        },
-        {
-          "keyword": "富山",
-          "score": 94
-        },
-        {
-          "keyword": "高橋宏斗",
-          "score": 93
-        },
-        {
-          "keyword": "bz",
-          "score": 92
-        },
-        {
-          "keyword": "wbc今日",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-10T11:07:13.333Z",
       "geo": "JP",
       "source": "google",
@@ -5215,6 +5168,53 @@
         },
         {
           "keyword": "中村俊介",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-14T10:51:41.627Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "コブクロ",
+          "score": 100
+        },
+        {
+          "keyword": "影山優佳",
+          "score": 99
+        },
+        {
+          "keyword": "king gnu",
+          "score": 98
+        },
+        {
+          "keyword": "西武園競輪",
+          "score": 97
+        },
+        {
+          "keyword": "タモリ",
+          "score": 96
+        },
+        {
+          "keyword": "早見優",
+          "score": 95
+        },
+        {
+          "keyword": "松本伊代",
+          "score": 94
+        },
+        {
+          "keyword": "xg",
+          "score": 93
+        },
+        {
+          "keyword": "博士ちゃん",
+          "score": 92
+        },
+        {
+          "keyword": "テレq",
           "score": 91
         }
       ]
