@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-10T05:05:22.323Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "永住許可",
-          "score": 100
-        },
-        {
-          "keyword": "朝倉未来",
-          "score": 99
-        },
-        {
-          "keyword": "佐藤勝利",
-          "score": 98
-        },
-        {
-          "keyword": "マスク",
-          "score": 97
-        },
-        {
-          "keyword": "岸本加世子",
-          "score": 96
-        },
-        {
-          "keyword": "佐藤栞里",
-          "score": 95
-        },
-        {
-          "keyword": "the gazette",
-          "score": 94
-        },
-        {
-          "keyword": "近畿大学",
-          "score": 93
-        },
-        {
-          "keyword": "サントリー",
-          "score": 92
-        },
-        {
-          "keyword": "フキハラ 警視庁",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-10T06:03:42.889Z",
       "geo": "JP",
       "source": "google",
@@ -5074,6 +5027,53 @@
         },
         {
           "keyword": "沢尻エリカ 写真集",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-14T05:06:04.236Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "中村優子",
+          "score": 100
+        },
+        {
+          "keyword": "藤竜也",
+          "score": 99
+        },
+        {
+          "keyword": "竹中半兵衛",
+          "score": 98
+        },
+        {
+          "keyword": "湘南 対 山形",
+          "score": 97
+        },
+        {
+          "keyword": "宮崎 対 大分",
+          "score": 96
+        },
+        {
+          "keyword": "岐阜城",
+          "score": 95
+        },
+        {
+          "keyword": "井川遥",
+          "score": 94
+        },
+        {
+          "keyword": "大宮 対 藤枝",
+          "score": 93
+        },
+        {
+          "keyword": "長野 対 松本",
+          "score": 92
+        },
+        {
+          "keyword": "滋賀 対 宇都宮",
           "score": 91
         }
       ]
