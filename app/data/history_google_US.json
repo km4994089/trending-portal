@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-10T18:35:06.425Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ucl",
-          "score": 100
-        },
-        {
-          "keyword": "naomi osaka",
-          "score": 99
-        },
-        {
-          "keyword": "doubs",
-          "score": 98
-        },
-        {
-          "keyword": "justin fields",
-          "score": 97
-        },
-        {
-          "keyword": "geno smith",
-          "score": 96
-        },
-        {
-          "keyword": "braden smith nfl",
-          "score": 95
-        },
-        {
-          "keyword": "a'shawn robinson",
-          "score": 94
-        },
-        {
-          "keyword": "stanford basketball",
-          "score": 93
-        },
-        {
-          "keyword": "micah mcfadden",
-          "score": 92
-        },
-        {
-          "keyword": "flood watch",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-10T19:31:33.650Z",
       "geo": "US",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "buffy the vampire slayer",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-14T19:01:36.960Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "hornets vs spurs",
+          "score": 100
+        },
+        {
+          "keyword": "bruins vs capitals",
+          "score": 99
+        },
+        {
+          "keyword": "austin rapp",
+          "score": 98
+        },
+        {
+          "keyword": "chelsea fc",
+          "score": 97
+        },
+        {
+          "keyword": "scorbunny community day",
+          "score": 96
+        },
+        {
+          "keyword": "justin edwards",
+          "score": 95
+        },
+        {
+          "keyword": "philadelphia vs atlanta united",
+          "score": 94
+        },
+        {
+          "keyword": "al fateh vs al-hilal",
+          "score": 93
+        },
+        {
+          "keyword": "mit",
+          "score": 92
+        },
+        {
+          "keyword": "al-khaleej vs al-nassr",
           "score": 91
         }
       ]
