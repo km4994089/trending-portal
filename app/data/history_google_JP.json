@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-10T07:11:19.496Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "surface",
-          "score": 100
-        },
-        {
-          "keyword": "ウルトラエッグカツ丼",
-          "score": 99
-        },
-        {
-          "keyword": "ゴールデンウィーク",
-          "score": 98
-        },
-        {
-          "keyword": "オープン戦",
-          "score": 97
-        },
-        {
-          "keyword": "緊急地震速報",
-          "score": 96
-        },
-        {
-          "keyword": "炎鵬",
-          "score": 95
-        },
-        {
-          "keyword": "インターエデュ 東大",
-          "score": 94
-        },
-        {
-          "keyword": "コロワイド",
-          "score": 93
-        },
-        {
-          "keyword": "ネコ",
-          "score": 92
-        },
-        {
-          "keyword": "上田絵莉加",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-10T07:58:40.498Z",
       "geo": "JP",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "コーラルステークス",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-14T07:53:21.543Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "野村宏伸",
+          "score": 100
+        },
+        {
+          "keyword": "玉鷲",
+          "score": 99
+        },
+        {
+          "keyword": "tepco",
+          "score": 98
+        },
+        {
+          "keyword": "ロクシタン",
+          "score": 97
+        },
+        {
+          "keyword": "瀬戸朝香",
+          "score": 96
+        },
+        {
+          "keyword": "藤島親方",
+          "score": 95
+        },
+        {
+          "keyword": "リリーフランキー",
+          "score": 94
+        },
+        {
+          "keyword": "グランパス 試合",
+          "score": 93
+        },
+        {
+          "keyword": "ロコ・ソラーレ",
+          "score": 92
+        },
+        {
+          "keyword": "長友佑都",
           "score": 91
         }
       ]
