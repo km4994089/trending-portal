@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-11T11:06:47.213Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "clima",
-          "score": 100
-        },
-        {
-          "keyword": "strands hint today",
-          "score": 99
-        },
-        {
-          "keyword": "weather new york",
-          "score": 98
-        },
-        {
-          "keyword": "macaulay culkin",
-          "score": 97
-        },
-        {
-          "keyword": "dc weather",
-          "score": 96
-        },
-        {
-          "keyword": "nick viall",
-          "score": 95
-        },
-        {
-          "keyword": "5g",
-          "score": 94
-        },
-        {
-          "keyword": "wthr",
-          "score": 93
-        },
-        {
-          "keyword": "todays weather",
-          "score": 92
-        },
-        {
-          "keyword": "날씨",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-11T11:52:05.491Z",
       "geo": "US",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "drug store",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-15T11:17:30.864Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "날씨",
+          "score": 100
+        },
+        {
+          "keyword": "nyt connections answers",
+          "score": 99
+        },
+        {
+          "keyword": "nyt spelling bee",
+          "score": 98
+        },
+        {
+          "keyword": "firefly",
+          "score": 97
+        },
+        {
+          "keyword": "eid al fitr 2026",
+          "score": 96
+        },
+        {
+          "keyword": "deportivo - barcelona",
+          "score": 95
+        },
+        {
+          "keyword": "kare 11 weather",
+          "score": 94
+        },
+        {
+          "keyword": "marco trungelliti",
+          "score": 93
+        },
+        {
+          "keyword": "tanzid hasan",
+          "score": 92
+        },
+        {
+          "keyword": "u of arizona",
           "score": 91
         }
       ]
