@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-11T18:40:53.735Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "champions league",
-          "score": 100
-        },
-        {
-          "keyword": "iga swiatek",
-          "score": 99
-        },
-        {
-          "keyword": "iran california",
-          "score": 98
-        },
-        {
-          "keyword": "kentucky",
-          "score": 97
-        },
-        {
-          "keyword": "winter storm warning",
-          "score": 96
-        },
-        {
-          "keyword": "tornado warning vs watch",
-          "score": 95
-        },
-        {
-          "keyword": "tornado warning pittsburgh",
-          "score": 94
-        },
-        {
-          "keyword": "iran war hormuz",
-          "score": 93
-        },
-        {
-          "keyword": "leverkusen",
-          "score": 92
-        },
-        {
-          "keyword": "steve tisch",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-11T19:35:58.575Z",
       "geo": "US",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "darius acuff",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-15T19:03:00.411Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lazio vs milan",
+          "score": 100
+        },
+        {
+          "keyword": "lazio - milan",
+          "score": 99
+        },
+        {
+          "keyword": "tommy fleetwood",
+          "score": 98
+        },
+        {
+          "keyword": "fiba women's basketball",
+          "score": 97
+        },
+        {
+          "keyword": "robert macintyre",
+          "score": 96
+        },
+        {
+          "keyword": "mavericks vs cavaliers",
+          "score": 95
+        },
+        {
+          "keyword": "pacers vs bucks",
+          "score": 94
+        },
+        {
+          "keyword": "shai gilgeous-alexander",
+          "score": 93
+        },
+        {
+          "keyword": "pistons vs raptors",
+          "score": 92
+        },
+        {
+          "keyword": "blues vs jets",
           "score": 91
         }
       ]
