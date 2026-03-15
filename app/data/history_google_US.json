@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-11T21:53:19.324Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "evan neal",
-          "score": 100
-        },
-        {
-          "keyword": "jake paul",
-          "score": 99
-        },
-        {
-          "keyword": "monica lewinsky",
-          "score": 98
-        },
-        {
-          "keyword": "manuel ángel",
-          "score": 97
-        },
-        {
-          "keyword": "atlético mineiro vs internacional",
-          "score": 96
-        },
-        {
-          "keyword": "kvaratskhelia",
-          "score": 95
-        },
-        {
-          "keyword": "jack driscoll",
-          "score": 94
-        },
-        {
-          "keyword": "alex michelsen",
-          "score": 93
-        },
-        {
-          "keyword": "chris rodriguez",
-          "score": 92
-        },
-        {
-          "keyword": "unlv basketball",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-11T22:18:47.867Z",
       "geo": "US",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "wake county",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-15T22:17:09.227Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kelsey dalition",
+          "score": 100
+        },
+        {
+          "keyword": "demi moore",
+          "score": 99
+        },
+        {
+          "keyword": "ncaa basketball rankings",
+          "score": 98
+        },
+        {
+          "keyword": "furman university",
+          "score": 97
+        },
+        {
+          "keyword": "ncaa women's basketball tournament",
+          "score": 96
+        },
+        {
+          "keyword": "furman",
+          "score": 95
+        },
+        {
+          "keyword": "duncan robinson",
+          "score": 94
+        },
+        {
+          "keyword": "tornado radar",
+          "score": 93
+        },
+        {
+          "keyword": "golfer young",
+          "score": 92
+        },
+        {
+          "keyword": "cal baptist basketball",
           "score": 91
         }
       ]
