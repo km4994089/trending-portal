@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-11T11:52:05.491Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tilly norwood",
-          "score": 100
-        },
-        {
-          "keyword": "debt relief",
-          "score": 99
-        },
-        {
-          "keyword": "stryker",
-          "score": 98
-        },
-        {
-          "keyword": "larry page",
-          "score": 97
-        },
-        {
-          "keyword": "cpi report",
-          "score": 96
-        },
-        {
-          "keyword": "march madness bracket 2026",
-          "score": 95
-        },
-        {
-          "keyword": "weather.com",
-          "score": 94
-        },
-        {
-          "keyword": "handala",
-          "score": 93
-        },
-        {
-          "keyword": "nashville weather",
-          "score": 92
-        },
-        {
-          "keyword": "memphis weather",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-11T12:36:39.754Z",
       "geo": "US",
       "source": "google",
@@ -5591,6 +5544,53 @@
         },
         {
           "keyword": "auriemma",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-15T12:29:53.285Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "oscars 2026",
+          "score": 100
+        },
+        {
+          "keyword": "r.c.d. mallorca - rcd espanyol",
+          "score": 99
+        },
+        {
+          "keyword": "tsa wait times",
+          "score": 98
+        },
+        {
+          "keyword": "matt damon",
+          "score": 97
+        },
+        {
+          "keyword": "omaha weather",
+          "score": 96
+        },
+        {
+          "keyword": "memphis weather",
+          "score": 95
+        },
+        {
+          "keyword": "sukihana",
+          "score": 94
+        },
+        {
+          "keyword": "315晚会",
+          "score": 93
+        },
+        {
+          "keyword": "connections nyt",
+          "score": 92
+        },
+        {
+          "keyword": "weather miami",
           "score": 91
         }
       ]
