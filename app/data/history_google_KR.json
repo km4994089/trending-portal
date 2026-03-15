@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-11T21:23:11.127Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "real madrid đấu với man city",
-          "score": 100
-        },
-        {
-          "keyword": "psg vs chelsea",
-          "score": 99
-        },
-        {
-          "keyword": "реал мадрид – манчестер сити",
-          "score": 98
-        },
-        {
-          "keyword": "레알마드리드",
-          "score": 97
-        },
-        {
-          "keyword": "스포츠 중계",
-          "score": 96
-        },
-        {
-          "keyword": "real madrid vs man city",
-          "score": 95
-        },
-        {
-          "keyword": "real madrid",
-          "score": 94
-        },
-        {
-          "keyword": "psg",
-          "score": 93
-        },
-        {
-          "keyword": "พยากรณ์อากาศ",
-          "score": 92
-        },
-        {
-          "keyword": "해외축구",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-11T21:53:20.665Z",
       "geo": "KR",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "리버풀 대 토트넘",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-15T21:48:12.837Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "พยากรณ์อากาศ",
+          "score": 100
+        },
+        {
+          "keyword": "엘레나 리바키나",
+          "score": 99
+        },
+        {
+          "keyword": "epl",
+          "score": 98
+        },
+        {
+          "keyword": "토트넘 홋스퍼 fc",
+          "score": 97
+        },
+        {
+          "keyword": "ลิเวอร์พูล พบ สเปอร์ส",
+          "score": 96
+        },
+        {
+          "keyword": "마인츠",
+          "score": 95
+        },
+        {
+          "keyword": "barcelona đấu với sevilla",
+          "score": 94
+        },
+        {
+          "keyword": "liverpool vs tottenham",
+          "score": 93
+        },
+        {
+          "keyword": "pl",
+          "score": 92
+        },
+        {
+          "keyword": "manchester united",
           "score": 91
         }
       ]
