@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-11T23:16:44.577Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "카를로스 알카라스",
-          "score": 100
-        },
-        {
-          "keyword": "fotmob",
-          "score": 99
-        },
-        {
-          "keyword": "psg đấu với chelsea",
-          "score": 98
-        },
-        {
-          "keyword": "보되글림트",
-          "score": 97
-        },
-        {
-          "keyword": "เรอัลมาดริด พบ แมนซิตี",
-          "score": 96
-        },
-        {
-          "keyword": "real madrid đấu với man city",
-          "score": 95
-        },
-        {
-          "keyword": "챔피언스리그 경기",
-          "score": 94
-        },
-        {
-          "keyword": "thiago pitarch pinar",
-          "score": 93
-        },
-        {
-          "keyword": "psg vs chelsea",
-          "score": 92
-        },
-        {
-          "keyword": "реал мадрид – манчестер сити",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-11T23:45:57.769Z",
       "geo": "KR",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "마인츠",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-15T23:19:19.153Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "야닉 시너",
+          "score": 100
+        },
+        {
+          "keyword": "비트코인 시세",
+          "score": 99
+        },
+        {
+          "keyword": "아카데미 시상식",
+          "score": 98
+        },
+        {
+          "keyword": "indian wells",
+          "score": 97
+        },
+        {
+          "keyword": "인디언웰스",
+          "score": 96
+        },
+        {
+          "keyword": "liverpool đấu với tottenham",
+          "score": 95
+        },
+        {
+          "keyword": "พยากรณ์อากาศ",
+          "score": 94
+        },
+        {
+          "keyword": "барселона – севилья",
+          "score": 93
+        },
+        {
+          "keyword": "토트넘 홋스퍼 fc",
+          "score": 92
+        },
+        {
+          "keyword": "ลิเวอร์พูล พบ สเปอร์ส",
           "score": 91
         }
       ]
