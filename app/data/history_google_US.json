@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-11T16:39:44.880Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "israel iran attack",
-          "score": 100
-        },
-        {
-          "keyword": "kacey musgraves",
-          "score": 99
-        },
-        {
-          "keyword": "pittsburgh vs nc state",
-          "score": 98
-        },
-        {
-          "keyword": "kj britt",
-          "score": 97
-        },
-        {
-          "keyword": "maryland vs iowa",
-          "score": 96
-        },
-        {
-          "keyword": "tyrus wheat",
-          "score": 95
-        },
-        {
-          "keyword": "rocket league",
-          "score": 94
-        },
-        {
-          "keyword": "msp",
-          "score": 93
-        },
-        {
-          "keyword": "st bonaventure basketball",
-          "score": 92
-        },
-        {
-          "keyword": "daniel jones",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-11T17:42:31.369Z",
       "geo": "US",
       "source": "google",
@@ -5685,6 +5638,53 @@
         },
         {
           "keyword": "liverpool vs tottenham",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-15T16:53:39.196Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "real betis vs celta vigo",
+          "score": 100
+        },
+        {
+          "keyword": "vanderbilt basketball",
+          "score": 99
+        },
+        {
+          "keyword": "declan farmer",
+          "score": 98
+        },
+        {
+          "keyword": "ivy league basketball tournament",
+          "score": 97
+        },
+        {
+          "keyword": "killian hayes",
+          "score": 96
+        },
+        {
+          "keyword": "fran mccaffery",
+          "score": 95
+        },
+        {
+          "keyword": "hofstra university",
+          "score": 94
+        },
+        {
+          "keyword": "speedy claxton",
+          "score": 93
+        },
+        {
+          "keyword": "ice storm warning",
+          "score": 92
+        },
+        {
+          "keyword": "oksana masters",
           "score": 91
         }
       ]
