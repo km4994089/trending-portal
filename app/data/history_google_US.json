@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-11T07:58:59.112Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "panna udvardy",
-          "score": 100
-        },
-        {
-          "keyword": "ban vs pak",
-          "score": 99
-        },
-        {
-          "keyword": "weather san antonio",
-          "score": 98
-        },
-        {
-          "keyword": "taz skylar",
-          "score": 97
-        },
-        {
-          "keyword": "steam machine price",
-          "score": 96
-        },
-        {
-          "keyword": "divorce lawyer",
-          "score": 95
-        },
-        {
-          "keyword": "lakers schedule",
-          "score": 94
-        },
-        {
-          "keyword": "nier automata",
-          "score": 93
-        },
-        {
-          "keyword": "western conference standings",
-          "score": 92
-        },
-        {
-          "keyword": "joel embiid",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-11T08:41:47.355Z",
       "geo": "US",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "appletv",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-15T08:25:36.886Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "max verstappen",
+          "score": 100
+        },
+        {
+          "keyword": "alice walton",
+          "score": 99
+        },
+        {
+          "keyword": "marshall manning",
+          "score": 98
+        },
+        {
+          "keyword": "hawaii flash flooding",
+          "score": 97
+        },
+        {
+          "keyword": "chapman",
+          "score": 96
+        },
+        {
+          "keyword": "denver weather",
+          "score": 95
+        },
+        {
+          "keyword": "criminal defense lawyer",
+          "score": 94
+        },
+        {
+          "keyword": "ryan garcia",
+          "score": 93
+        },
+        {
+          "keyword": "formula 1",
+          "score": 92
+        },
+        {
+          "keyword": "ban vs pak",
           "score": 91
         }
       ]
