@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-11T10:29:17.220Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "weather",
-          "score": 100
-        },
-        {
-          "keyword": "weather nyc",
-          "score": 99
-        },
-        {
-          "keyword": "wnem",
-          "score": 98
-        },
-        {
-          "keyword": "today's weather",
-          "score": 97
-        },
-        {
-          "keyword": "fort wayne weather",
-          "score": 96
-        },
-        {
-          "keyword": "philadelphia weather",
-          "score": 95
-        },
-        {
-          "keyword": "cincinnati weather",
-          "score": 94
-        },
-        {
-          "keyword": "houston weather",
-          "score": 93
-        },
-        {
-          "keyword": "global entry",
-          "score": 92
-        },
-        {
-          "keyword": "wnba",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-11T11:06:47.213Z",
       "geo": "US",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "bryson dechambeau",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-15T10:54:32.896Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "eid al fitr 2026",
+          "score": 100
+        },
+        {
+          "keyword": "deportivo - barcelona",
+          "score": 99
+        },
+        {
+          "keyword": "marco trungelliti",
+          "score": 98
+        },
+        {
+          "keyword": "tanzid hasan",
+          "score": 97
+        },
+        {
+          "keyword": "u of arizona",
+          "score": 96
+        },
+        {
+          "keyword": "uofa",
+          "score": 95
+        },
+        {
+          "keyword": "saad masood",
+          "score": 94
+        },
+        {
+          "keyword": "emily ratajkowski",
+          "score": 93
+        },
+        {
+          "keyword": "mothers day 2026 uk",
+          "score": 92
+        },
+        {
+          "keyword": "drug store",
           "score": 91
         }
       ]

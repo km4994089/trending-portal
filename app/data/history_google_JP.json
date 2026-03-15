@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-11T10:29:19.619Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "琉球 対 三河",
-          "score": 100
-        },
-        {
-          "keyword": "原辰徳",
-          "score": 99
-        },
-        {
-          "keyword": "ホークス",
-          "score": 98
-        },
-        {
-          "keyword": "羽田空港",
-          "score": 97
-        },
-        {
-          "keyword": "ウエンツ瑛士",
-          "score": 96
-        },
-        {
-          "keyword": "レイラック滋賀",
-          "score": 95
-        },
-        {
-          "keyword": "加藤ローサ",
-          "score": 94
-        },
-        {
-          "keyword": "秋広優人",
-          "score": 93
-        },
-        {
-          "keyword": "平和リハビリテーション病院",
-          "score": 92
-        },
-        {
-          "keyword": "出光",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-11T11:06:49.975Z",
       "geo": "JP",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "相葉雅紀",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-15T10:54:35.101Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "シドニー",
+          "score": 100
+        },
+        {
+          "keyword": "横浜流星 ピアノ",
+          "score": 99
+        },
+        {
+          "keyword": "若嶋津",
+          "score": 98
+        },
+        {
+          "keyword": "jr貨物",
+          "score": 97
+        },
+        {
+          "keyword": "横山裕",
+          "score": 96
+        },
+        {
+          "keyword": "日向坂46",
+          "score": 95
+        },
+        {
+          "keyword": "和田正人",
+          "score": 94
+        },
+        {
+          "keyword": "西武園競輪",
+          "score": 93
+        },
+        {
+          "keyword": "森本慎太郎",
+          "score": 92
+        },
+        {
+          "keyword": "fc岐阜",
           "score": 91
         }
       ]
