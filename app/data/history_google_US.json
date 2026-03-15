@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-11T23:45:56.634Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tornado warning",
-          "score": 100
-        },
-        {
-          "keyword": "florida state basketball",
-          "score": 99
-        },
-        {
-          "keyword": "northeastern university",
-          "score": 98
-        },
-        {
-          "keyword": "kathleen turner",
-          "score": 97
-        },
-        {
-          "keyword": "nashville vs inter miami",
-          "score": 96
-        },
-        {
-          "keyword": "northeastern",
-          "score": 95
-        },
-        {
-          "keyword": "virgin river",
-          "score": 94
-        },
-        {
-          "keyword": "canadiens vs senators",
-          "score": 93
-        },
-        {
-          "keyword": "hype brazil",
-          "score": 92
-        },
-        {
-          "keyword": "capitals vs flyers",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-12T01:04:43.623Z",
       "geo": "US",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "bob costas",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-15T23:49:25.583Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "chris appelhans",
+          "score": 100
+        },
+        {
+          "keyword": "bradley cooper",
+          "score": 99
+        },
+        {
+          "keyword": "andre agassi",
+          "score": 98
+        },
+        {
+          "keyword": "kfvs12 weather",
+          "score": 97
+        },
+        {
+          "keyword": "karely vs marcela",
+          "score": 96
+        },
+        {
+          "keyword": "timothee chalamet girlfriend",
+          "score": 95
+        },
+        {
+          "keyword": "best supporting actor",
+          "score": 94
+        },
+        {
+          "keyword": "michael b jordan",
+          "score": 93
+        },
+        {
+          "keyword": "zach cregger",
+          "score": 92
+        },
+        {
+          "keyword": "fs1",
           "score": 91
         }
       ]
