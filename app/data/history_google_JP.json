@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-11T07:14:30.918Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "藤天晴",
-          "score": 100
-        },
-        {
-          "keyword": "宮島競艇",
-          "score": 99
-        },
-        {
-          "keyword": "高橋真麻",
-          "score": 98
-        },
-        {
-          "keyword": "仙台空港",
-          "score": 97
-        },
-        {
-          "keyword": "iu",
-          "score": 96
-        },
-        {
-          "keyword": "いわき市",
-          "score": 95
-        },
-        {
-          "keyword": "埼玉県立小児医療センター",
-          "score": 94
-        },
-        {
-          "keyword": "3月11日 地震",
-          "score": 93
-        },
-        {
-          "keyword": "東京電力",
-          "score": 92
-        },
-        {
-          "keyword": "三陸鉄道",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-11T07:59:01.830Z",
       "geo": "JP",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "下野紘",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-15T07:38:11.781Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "運賃",
+          "score": 100
+        },
+        {
+          "keyword": "津村明秀",
+          "score": 99
+        },
+        {
+          "keyword": "羽鳥アナ",
+          "score": 98
+        },
+        {
+          "keyword": "工藤静香",
+          "score": 97
+        },
+        {
+          "keyword": "ベイスターズ",
+          "score": 96
+        },
+        {
+          "keyword": "スターダム",
+          "score": 95
+        },
+        {
+          "keyword": "羽鳥慎一",
+          "score": 94
+        },
+        {
+          "keyword": "愛知杯",
+          "score": 93
+        },
+        {
+          "keyword": "棋王戦",
+          "score": 92
+        },
+        {
+          "keyword": "jra結果",
           "score": 91
         }
       ]
