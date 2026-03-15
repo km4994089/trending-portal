@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-11T06:06:52.036Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "엔트리",
-          "score": 100
-        },
-        {
-          "keyword": "서울옥션",
-          "score": 99
-        },
-        {
-          "keyword": "애런 저지",
-          "score": 98
-        },
-        {
-          "keyword": "영등포자이디그니티",
-          "score": 97
-        },
-        {
-          "keyword": "엘에이 fc 대 알라후엘렌세",
-          "score": 96
-        },
-        {
-          "keyword": "wbc 미국",
-          "score": 95
-        },
-        {
-          "keyword": "아데바요",
-          "score": 94
-        },
-        {
-          "keyword": "우리기술",
-          "score": 93
-        },
-        {
-          "keyword": "설악산",
-          "score": 92
-        },
-        {
-          "keyword": "bam adebayo",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-11T07:14:29.698Z",
       "geo": "KR",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "3.15 의거",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-15T06:43:29.552Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김희정",
+          "score": 100
+        },
+        {
+          "keyword": "로드fc",
+          "score": 99
+        },
+        {
+          "keyword": "lafc vs st. louis",
+          "score": 98
+        },
+        {
+          "keyword": "kbo 개막",
+          "score": 97
+        },
+        {
+          "keyword": "롯데월드 메이플",
+          "score": 96
+        },
+        {
+          "keyword": "lakers vs nuggets",
+          "score": 95
+        },
+        {
+          "keyword": "일본 야구",
+          "score": 94
+        },
+        {
+          "keyword": "bts 광화문 공연",
+          "score": 93
+        },
+        {
+          "keyword": "이정현",
+          "score": 92
+        },
+        {
+          "keyword": "청해부대",
           "score": 91
         }
       ]

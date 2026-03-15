@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-11T06:06:53.409Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "東京電力",
-          "score": 100
-        },
-        {
-          "keyword": "南海トラフ巨大地震",
-          "score": 99
-        },
-        {
-          "keyword": "阪神大震災",
-          "score": 98
-        },
-        {
-          "keyword": "三陸鉄道",
-          "score": 97
-        },
-        {
-          "keyword": "時間",
-          "score": 96
-        },
-        {
-          "keyword": "時刻",
-          "score": 95
-        },
-        {
-          "keyword": "炎鵬",
-          "score": 94
-        },
-        {
-          "keyword": "東日本 大震災 震度",
-          "score": 93
-        },
-        {
-          "keyword": "ベネッセ",
-          "score": 92
-        },
-        {
-          "keyword": "ブレイザーズ 対 ホーネッツ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-11T07:14:30.918Z",
       "geo": "JP",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "菊地亜美",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-15T06:43:30.705Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "米子城ステークス",
+          "score": 100
+        },
+        {
+          "keyword": "中山競馬場",
+          "score": 99
+        },
+        {
+          "keyword": "栃木シティfc",
+          "score": 98
+        },
+        {
+          "keyword": "たくろう",
+          "score": 97
+        },
+        {
+          "keyword": "若ノ勝",
+          "score": 96
+        },
+        {
+          "keyword": "平山功太",
+          "score": 95
+        },
+        {
+          "keyword": "new zealand vs south africa",
+          "score": 94
+        },
+        {
+          "keyword": "三遠 対 北海道",
+          "score": 93
+        },
+        {
+          "keyword": "ドラゴンズ",
+          "score": 92
+        },
+        {
+          "keyword": "下野紘",
           "score": 91
         }
       ]
