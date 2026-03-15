@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-11T09:33:05.721Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "iginla",
-          "score": 100
-        },
-        {
-          "keyword": "indianapolis weather",
-          "score": 99
-        },
-        {
-          "keyword": "nyt connections hints",
-          "score": 98
-        },
-        {
-          "keyword": "엘에이 fc 대 알라후엘렌세",
-          "score": 97
-        },
-        {
-          "keyword": "bangladesh vs pakistan",
-          "score": 96
-        },
-        {
-          "keyword": "pakistan vs bangladesh",
-          "score": 95
-        },
-        {
-          "keyword": "maja chwalińska",
-          "score": 94
-        },
-        {
-          "keyword": "flow",
-          "score": 93
-        },
-        {
-          "keyword": "panna udvardy",
-          "score": 92
-        },
-        {
-          "keyword": "honolulu weather",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-11T10:29:17.220Z",
       "geo": "US",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "denver weather",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-15T09:36:55.669Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "oliver bearman",
+          "score": 100
+        },
+        {
+          "keyword": "online lottery",
+          "score": 99
+        },
+        {
+          "keyword": "fernando alonso",
+          "score": 98
+        },
+        {
+          "keyword": "new york times",
+          "score": 97
+        },
+        {
+          "keyword": "bryson dechambeau",
+          "score": 96
+        },
+        {
+          "keyword": "anhelina kalinina",
+          "score": 95
+        },
+        {
+          "keyword": "max verstappen",
+          "score": 94
+        },
+        {
+          "keyword": "alice walton",
+          "score": 93
+        },
+        {
+          "keyword": "marshall manning",
+          "score": 92
+        },
+        {
+          "keyword": "driver of the day",
           "score": 91
         }
       ]
