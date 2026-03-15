@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-11T20:24:09.327Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "paramount",
-          "score": 100
-        },
-        {
-          "keyword": "big east tournament",
-          "score": 99
-        },
-        {
-          "keyword": "mbappe",
-          "score": 98
-        },
-        {
-          "keyword": "ucl games",
-          "score": 97
-        },
-        {
-          "keyword": "path stock",
-          "score": 96
-        },
-        {
-          "keyword": "joey bosa",
-          "score": 95
-        },
-        {
-          "keyword": "harrison smith",
-          "score": 94
-        },
-        {
-          "keyword": "usa women's basketball",
-          "score": 93
-        },
-        {
-          "keyword": "psg",
-          "score": 92
-        },
-        {
-          "keyword": "dylan parham",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-11T20:54:52.024Z",
       "geo": "US",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "pwhl",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-15T20:51:01.241Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "wolfgang puck",
+          "score": 100
+        },
+        {
+          "keyword": "sabalenka fiance",
+          "score": 99
+        },
+        {
+          "keyword": "aaron nesmith",
+          "score": 98
+        },
+        {
+          "keyword": "the perfect neighbor",
+          "score": 97
+        },
+        {
+          "keyword": "luis severino",
+          "score": 96
+        },
+        {
+          "keyword": "américa - tolima",
+          "score": 95
+        },
+        {
+          "keyword": "buddy guy",
+          "score": 94
+        },
+        {
+          "keyword": "shaboozey",
+          "score": 93
+        },
+        {
+          "keyword": "doug gottlieb",
+          "score": 92
+        },
+        {
+          "keyword": "bugonia movie",
           "score": 91
         }
       ]
