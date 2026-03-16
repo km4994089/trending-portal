@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-12T13:55:55.852Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "buc ees",
-          "score": 100
-        },
-        {
-          "keyword": "dca airport",
-          "score": 99
-        },
-        {
-          "keyword": "epic games fortnite",
-          "score": 98
-        },
-        {
-          "keyword": "tessa thompson",
-          "score": 97
-        },
-        {
-          "keyword": "adrien brody",
-          "score": 96
-        },
-        {
-          "keyword": "lauren graham",
-          "score": 95
-        },
-        {
-          "keyword": "palantir",
-          "score": 94
-        },
-        {
-          "keyword": "alex karp",
-          "score": 93
-        },
-        {
-          "keyword": "ravi bellamkonda",
-          "score": 92
-        },
-        {
-          "keyword": "augusta weather",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-12T14:42:07.755Z",
       "geo": "US",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "espn fantasy",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-16T14:14:49.422Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "smci stock",
+          "score": 100
+        },
+        {
+          "keyword": "nasdaq index",
+          "score": 99
+        },
+        {
+          "keyword": "soun stock",
+          "score": 98
+        },
+        {
+          "keyword": "charles schwab",
+          "score": 97
+        },
+        {
+          "keyword": "sandisk stock",
+          "score": 96
+        },
+        {
+          "keyword": "intc stock",
+          "score": 95
+        },
+        {
+          "keyword": "ionq stock",
+          "score": 94
+        },
+        {
+          "keyword": "marketwatch",
+          "score": 93
+        },
+        {
+          "keyword": "nio stock",
+          "score": 92
+        },
+        {
+          "keyword": "baylor university",
           "score": 91
         }
       ]
