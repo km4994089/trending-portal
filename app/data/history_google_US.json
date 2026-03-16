@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-12T20:58:09.584Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "learner tien",
-          "score": 100
-        },
-        {
-          "keyword": "shantanu narayen",
-          "score": 99
-        },
-        {
-          "keyword": "john bol",
-          "score": 98
-        },
-        {
-          "keyword": "talia gibson",
-          "score": 97
-        },
-        {
-          "keyword": "sierra leone",
-          "score": 96
-        },
-        {
-          "keyword": "texas southern basketball",
-          "score": 95
-        },
-        {
-          "keyword": "tutu atwell",
-          "score": 94
-        },
-        {
-          "keyword": "miles killebrew",
-          "score": 93
-        },
-        {
-          "keyword": "samson ebukam",
-          "score": 92
-        },
-        {
-          "keyword": "akron basketball",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-12T21:30:35.506Z",
       "geo": "US",
       "source": "google",
@@ -5591,6 +5544,53 @@
         },
         {
           "keyword": "tyler hansbrough",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-16T21:03:42.143Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "igor thiago",
+          "score": 100
+        },
+        {
+          "keyword": "huda mustafa",
+          "score": 99
+        },
+        {
+          "keyword": "rayo vallecano",
+          "score": 98
+        },
+        {
+          "keyword": "sebastian stan",
+          "score": 97
+        },
+        {
+          "keyword": "gauche",
+          "score": 96
+        },
+        {
+          "keyword": "olandria carthen",
+          "score": 95
+        },
+        {
+          "keyword": "christian kirk",
+          "score": 94
+        },
+        {
+          "keyword": "nemoclaw",
+          "score": 93
+        },
+        {
+          "keyword": "fiorentina",
+          "score": 92
+        },
+        {
+          "keyword": "ignacio buse",
           "score": 91
         }
       ]
