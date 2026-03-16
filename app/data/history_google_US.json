@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-12T21:30:35.506Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "emanuel wilson",
-          "score": 100
-        },
-        {
-          "keyword": "carnegie mellon",
-          "score": 99
-        },
-        {
-          "keyword": "jai lucas",
-          "score": 98
-        },
-        {
-          "keyword": "naturalized citizen",
-          "score": 97
-        },
-        {
-          "keyword": "duquesne basketball",
-          "score": 96
-        },
-        {
-          "keyword": "a10 tournament",
-          "score": 95
-        },
-        {
-          "keyword": "jannik sinner",
-          "score": 94
-        },
-        {
-          "keyword": "la nina el nino",
-          "score": 93
-        },
-        {
-          "keyword": "terry gross",
-          "score": 92
-        },
-        {
-          "keyword": "ulta stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-12T22:15:52.834Z",
       "geo": "US",
       "source": "google",
@@ -5591,6 +5544,53 @@
         },
         {
           "keyword": "ignacio buse",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-16T21:58:52.983Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ben bartch",
+          "score": 100
+        },
+        {
+          "keyword": "dune",
+          "score": 99
+        },
+        {
+          "keyword": "jauan jennings",
+          "score": 98
+        },
+        {
+          "keyword": "greg bovino",
+          "score": 97
+        },
+        {
+          "keyword": "uber stock",
+          "score": 96
+        },
+        {
+          "keyword": "igor thiago",
+          "score": 95
+        },
+        {
+          "keyword": "huda mustafa",
+          "score": 94
+        },
+        {
+          "keyword": "rayo vallecano",
+          "score": 93
+        },
+        {
+          "keyword": "sebastian stan",
+          "score": 92
+        },
+        {
+          "keyword": "gauche",
           "score": 91
         }
       ]
