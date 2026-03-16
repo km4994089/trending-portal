@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-12T22:15:55.415Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jr 運賃改定",
-          "score": 100
-        },
-        {
-          "keyword": "ゴンチャ",
-          "score": 99
-        },
-        {
-          "keyword": "バーレーン",
-          "score": 98
-        },
-        {
-          "keyword": "カタール",
-          "score": 97
-        },
-        {
-          "keyword": "サウジアラビア",
-          "score": 96
-        },
-        {
-          "keyword": "中村児太郎",
-          "score": 95
-        },
-        {
-          "keyword": "ライブbp",
-          "score": 94
-        },
-        {
-          "keyword": "綾瀬はるか",
-          "score": 93
-        },
-        {
-          "keyword": "稲葉浩志",
-          "score": 92
-        },
-        {
-          "keyword": "ポケカ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-12T22:49:12.661Z",
       "geo": "JP",
       "source": "google",
@@ -5591,6 +5544,53 @@
         },
         {
           "keyword": "井上和",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-16T22:33:12.741Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "めるる",
+          "score": 100
+        },
+        {
+          "keyword": "野々村真",
+          "score": 99
+        },
+        {
+          "keyword": "風間俊介",
+          "score": 98
+        },
+        {
+          "keyword": "乃木坂46",
+          "score": 97
+        },
+        {
+          "keyword": "岩瀬洋志",
+          "score": 96
+        },
+        {
+          "keyword": "レアアース",
+          "score": 95
+        },
+        {
+          "keyword": "花粉情報",
+          "score": 94
+        },
+        {
+          "keyword": "相鉄線",
+          "score": 93
+        },
+        {
+          "keyword": "自衛隊",
+          "score": 92
+        },
+        {
+          "keyword": "生田絵梨花",
           "score": 91
         }
       ]
