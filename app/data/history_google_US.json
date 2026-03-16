@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-12T08:00:47.933Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "justin trudeau",
-          "score": 100
-        },
-        {
-          "keyword": "travel vaccine",
-          "score": 99
-        },
-        {
-          "keyword": "blizzard warning",
-          "score": 98
-        },
-        {
-          "keyword": "divorce lawyer",
-          "score": 97
-        },
-        {
-          "keyword": "personal injury attorneys",
-          "score": 96
-        },
-        {
-          "keyword": "taz skylar",
-          "score": 95
-        },
-        {
-          "keyword": "toxic commando",
-          "score": 94
-        },
-        {
-          "keyword": "xfinity outage",
-          "score": 93
-        },
-        {
-          "keyword": "jeff kaplan",
-          "score": 92
-        },
-        {
-          "keyword": "marcel ruiz",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-12T08:50:35.349Z",
       "geo": "US",
       "source": "google",
@@ -5732,6 +5685,53 @@
         },
         {
           "keyword": "criminal defense lawyer",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-16T08:44:02.701Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "fda cream cheese recall",
+          "score": 100
+        },
+        {
+          "keyword": "wsbtv",
+          "score": 99
+        },
+        {
+          "keyword": "weather houston",
+          "score": 98
+        },
+        {
+          "keyword": "new orleans weather",
+          "score": 97
+        },
+        {
+          "keyword": "openai",
+          "score": 96
+        },
+        {
+          "keyword": "the big dance",
+          "score": 95
+        },
+        {
+          "keyword": "knoxville weather",
+          "score": 94
+        },
+        {
+          "keyword": "frontier airlines",
+          "score": 93
+        },
+        {
+          "keyword": "personal injury lawyer",
+          "score": 92
+        },
+        {
+          "keyword": "taz skylar",
           "score": 91
         }
       ]
