@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-12T05:11:07.096Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kbo",
-          "score": 100
-        },
-        {
-          "keyword": "팔달산",
-          "score": 99
-        },
-        {
-          "keyword": "예술의전당",
-          "score": 98
-        },
-        {
-          "keyword": "kbo 개막",
-          "score": 97
-        },
-        {
-          "keyword": "양문석",
-          "score": 96
-        },
-        {
-          "keyword": "맘스터치",
-          "score": 95
-        },
-        {
-          "keyword": "노바크 조코비치",
-          "score": 94
-        },
-        {
-          "keyword": "인터배터리",
-          "score": 93
-        },
-        {
-          "keyword": "키움런",
-          "score": 92
-        },
-        {
-          "keyword": "대한광통신",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-12T06:08:58.331Z",
       "geo": "KR",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "대한항공",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-16T06:01:43.844Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "제주항공",
+          "score": 100
+        },
+        {
+          "keyword": "지투지바이오",
+          "score": 99
+        },
+        {
+          "keyword": "이더리움",
+          "score": 98
+        },
+        {
+          "keyword": "진에어",
+          "score": 97
+        },
+        {
+          "keyword": "국민체력100",
+          "score": 96
+        },
+        {
+          "keyword": "송민호",
+          "score": 95
+        },
+        {
+          "keyword": "토스 행운퀴즈 정답",
+          "score": 94
+        },
+        {
+          "keyword": "체이스 인피니티",
+          "score": 93
+        },
+        {
+          "keyword": "메이슨 밀러",
+          "score": 92
+        },
+        {
+          "keyword": "판문점",
           "score": 91
         }
       ]
