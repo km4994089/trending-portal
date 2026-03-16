@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-12T10:29:34.472Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "crimson desert",
-          "score": 100
-        },
-        {
-          "keyword": "philadelphia weather",
-          "score": 99
-        },
-        {
-          "keyword": "ncaa basketball scores",
-          "score": 98
-        },
-        {
-          "keyword": "yael cohen braun",
-          "score": 97
-        },
-        {
-          "keyword": "ceedee lamb",
-          "score": 96
-        },
-        {
-          "keyword": "kayla yaakov",
-          "score": 95
-        },
-        {
-          "keyword": "elon musk amazon",
-          "score": 94
-        },
-        {
-          "keyword": "and",
-          "score": 93
-        },
-        {
-          "keyword": "todays weather",
-          "score": 92
-        },
-        {
-          "keyword": "weather dc",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-12T11:06:22.580Z",
       "geo": "US",
       "source": "google",
@@ -5685,6 +5638,53 @@
         },
         {
           "keyword": "weather philadelphia",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-16T10:44:33.869Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "artificial intelligence news",
+          "score": 100
+        },
+        {
+          "keyword": "385tb myrient video game archive",
+          "score": 99
+        },
+        {
+          "keyword": "people",
+          "score": 98
+        },
+        {
+          "keyword": "entergy",
+          "score": 97
+        },
+        {
+          "keyword": "hbo shows",
+          "score": 96
+        },
+        {
+          "keyword": "nbis stock",
+          "score": 95
+        },
+        {
+          "keyword": "weather boston",
+          "score": 94
+        },
+        {
+          "keyword": "road conditions kansas city",
+          "score": 93
+        },
+        {
+          "keyword": "atlanta airport",
+          "score": 92
+        },
+        {
+          "keyword": "detroit weather",
           "score": 91
         }
       ]
