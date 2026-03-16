@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-12T03:42:19.908Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "toluca",
-          "score": 100
-        },
-        {
-          "keyword": "illinois lottery",
-          "score": 99
-        },
-        {
-          "keyword": "rosanna arquette",
-          "score": 98
-        },
-        {
-          "keyword": "sdfc",
-          "score": 97
-        },
-        {
-          "keyword": "andersson garcia",
-          "score": 96
-        },
-        {
-          "keyword": "sleeper cell",
-          "score": 95
-        },
-        {
-          "keyword": "keyonte george",
-          "score": 94
-        },
-        {
-          "keyword": "aaron gordon",
-          "score": 93
-        },
-        {
-          "keyword": "kevin durant",
-          "score": 92
-        },
-        {
-          "keyword": "colorado state basketball",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-12T05:11:05.909Z",
       "geo": "US",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "madagascar",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-16T04:15:45.260Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nashville news",
+          "score": 100
+        },
+        {
+          "keyword": "news channel 2",
+          "score": 99
+        },
+        {
+          "keyword": "live weather",
+          "score": 98
+        },
+        {
+          "keyword": "mjf",
+          "score": 97
+        },
+        {
+          "keyword": "tornado warning louisville ky",
+          "score": 96
+        },
+        {
+          "keyword": "el millonario",
+          "score": 95
+        },
+        {
+          "keyword": "millonario",
+          "score": 94
+        },
+        {
+          "keyword": "emirates",
+          "score": 93
+        },
+        {
+          "keyword": "news channel 4",
+          "score": 92
+        },
+        {
+          "keyword": "andersson garcia",
           "score": 91
         }
       ]
