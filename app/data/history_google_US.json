@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-12T18:39:09.562Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "aryna sabalenka",
-          "score": 100
-        },
-        {
-          "keyword": "fort collins fire",
-          "score": 99
-        },
-        {
-          "keyword": "victoria mboko",
-          "score": 98
-        },
-        {
-          "keyword": "george mason basketball",
-          "score": 97
-        },
-        {
-          "keyword": "jonathan allen",
-          "score": 96
-        },
-        {
-          "keyword": "kader kohou",
-          "score": 95
-        },
-        {
-          "keyword": "ncaa men's basketball",
-          "score": 94
-        },
-        {
-          "keyword": "toledo basketball",
-          "score": 93
-        },
-        {
-          "keyword": "iowa",
-          "score": 92
-        },
-        {
-          "keyword": "europa league",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-12T19:35:46.249Z",
       "geo": "US",
       "source": "google",
@@ -5591,6 +5544,53 @@
         },
         {
           "keyword": "topps",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-16T18:47:50.580Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "bianca andreescu",
+          "score": 100
+        },
+        {
+          "keyword": "car wreck lawyer",
+          "score": 99
+        },
+        {
+          "keyword": "lake effect snow warning",
+          "score": 98
+        },
+        {
+          "keyword": "darius slay",
+          "score": 97
+        },
+        {
+          "keyword": "nba expansion",
+          "score": 96
+        },
+        {
+          "keyword": "matt clark actor",
+          "score": 95
+        },
+        {
+          "keyword": "neal dunn",
+          "score": 94
+        },
+        {
+          "keyword": "segun olubi",
+          "score": 93
+        },
+        {
+          "keyword": "kennedy center",
+          "score": 92
+        },
+        {
+          "keyword": "nate diaz",
           "score": 91
         }
       ]
