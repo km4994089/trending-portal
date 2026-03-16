@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-12T11:06:25.415Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "倉科カナ",
-          "score": 100
-        },
-        {
-          "keyword": "佐野勇斗",
-          "score": 99
-        },
-        {
-          "keyword": "リアルスコープ",
-          "score": 98
-        },
-        {
-          "keyword": "真凜",
-          "score": 97
-        },
-        {
-          "keyword": "亀梨和也",
-          "score": 96
-        },
-        {
-          "keyword": "usj",
-          "score": 95
-        },
-        {
-          "keyword": "ロッテリア",
-          "score": 94
-        },
-        {
-          "keyword": "坂本哲志",
-          "score": 93
-        },
-        {
-          "keyword": "高松宮記念",
-          "score": 92
-        },
-        {
-          "keyword": "小田原",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-12T11:47:48.111Z",
       "geo": "JP",
       "source": "google",
@@ -5685,6 +5638,53 @@
         },
         {
           "keyword": "なえなの",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-16T11:39:18.146Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "小川晶",
+          "score": 100
+        },
+        {
+          "keyword": "tokyo mx night tempo",
+          "score": 99
+        },
+        {
+          "keyword": "ジェシー",
+          "score": 98
+        },
+        {
+          "keyword": "ペヤング",
+          "score": 97
+        },
+        {
+          "keyword": "ldh",
+          "score": 96
+        },
+        {
+          "keyword": "ミセス",
+          "score": 95
+        },
+        {
+          "keyword": "交通反則通告制度",
+          "score": 94
+        },
+        {
+          "keyword": "一橋大学",
+          "score": 93
+        },
+        {
+          "keyword": "堤真一",
+          "score": 92
+        },
+        {
+          "keyword": "ストーンズ",
           "score": 91
         }
       ]

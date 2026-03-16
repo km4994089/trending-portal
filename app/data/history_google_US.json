@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-12T11:06:22.580Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tornado tracker",
-          "score": 100
-        },
-        {
-          "keyword": "tokyo",
-          "score": 99
-        },
-        {
-          "keyword": "eid al fitr 2026",
-          "score": 98
-        },
-        {
-          "keyword": "walt disney world",
-          "score": 97
-        },
-        {
-          "keyword": "forecast",
-          "score": 96
-        },
-        {
-          "keyword": "paris",
-          "score": 95
-        },
-        {
-          "keyword": "weather",
-          "score": 94
-        },
-        {
-          "keyword": "13wmaz",
-          "score": 93
-        },
-        {
-          "keyword": "james fishback",
-          "score": 92
-        },
-        {
-          "keyword": "new fallout game",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-12T11:47:45.169Z",
       "geo": "US",
       "source": "google",
@@ -5685,6 +5638,53 @@
         },
         {
           "keyword": "detroit weather",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-16T11:39:15.259Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "brent crude oil price",
+          "score": 100
+        },
+        {
+          "keyword": "madison paige jones",
+          "score": 99
+        },
+        {
+          "keyword": "pittsburgh weather",
+          "score": 98
+        },
+        {
+          "keyword": "keloland closeline",
+          "score": 97
+        },
+        {
+          "keyword": "tsa precheck",
+          "score": 96
+        },
+        {
+          "keyword": "st. patrick's day 2026",
+          "score": 95
+        },
+        {
+          "keyword": "strands today",
+          "score": 94
+        },
+        {
+          "keyword": "mta",
+          "score": 93
+        },
+        {
+          "keyword": "weather nyc",
+          "score": 92
+        },
+        {
+          "keyword": "iren stock",
           "score": 91
         }
       ]
