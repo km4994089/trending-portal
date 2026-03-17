@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-13T05:08:37.354Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "홍석천",
-          "score": 100
-        },
-        {
-          "keyword": "한국 도미니카",
-          "score": 99
-        },
-        {
-          "keyword": "카를로스 알카라스",
-          "score": 98
-        },
-        {
-          "keyword": "우리기술",
-          "score": 97
-        },
-        {
-          "keyword": "기름값 상한제",
-          "score": 96
-        },
-        {
-          "keyword": "이정현",
-          "score": 95
-        },
-        {
-          "keyword": "대우건설",
-          "score": 94
-        },
-        {
-          "keyword": "한국연구재단",
-          "score": 93
-        },
-        {
-          "keyword": "이윤철",
-          "score": 92
-        },
-        {
-          "keyword": "sk이터닉스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-13T06:07:03.475Z",
       "geo": "KR",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "dlss",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-17T05:17:37.208Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "에어팟맥스2",
+          "score": 100
+        },
+        {
+          "keyword": "이장우",
+          "score": 99
+        },
+        {
+          "keyword": "박수민",
+          "score": 98
+        },
+        {
+          "keyword": "마두로",
+          "score": 97
+        },
+        {
+          "keyword": "wbc 결승",
+          "score": 96
+        },
+        {
+          "keyword": "9호선",
+          "score": 95
+        },
+        {
+          "keyword": "김영환 충북지사",
+          "score": 94
+        },
+        {
+          "keyword": "한화이글스",
+          "score": 93
+        },
+        {
+          "keyword": "롯데콘서트홀",
+          "score": 92
+        },
+        {
+          "keyword": "흥아해운",
           "score": 91
         }
       ]

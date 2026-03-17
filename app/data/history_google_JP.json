@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-13T05:08:38.591Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "衆議院",
-          "score": 100
-        },
-        {
-          "keyword": "中国 イラン",
-          "score": 99
-        },
-        {
-          "keyword": "コーエーテクモ",
-          "score": 98
-        },
-        {
-          "keyword": "ケニーオメガ",
-          "score": 97
-        },
-        {
-          "keyword": "吉岡達夫受刑者",
-          "score": 96
-        },
-        {
-          "keyword": "ラヴィット 出演者",
-          "score": 95
-        },
-        {
-          "keyword": "サントリー",
-          "score": 94
-        },
-        {
-          "keyword": "スプリングステークス",
-          "score": 93
-        },
-        {
-          "keyword": "草笛光子",
-          "score": 92
-        },
-        {
-          "keyword": "黒柳徹子",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-13T06:07:04.830Z",
       "geo": "JP",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "綱啓永",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-17T05:17:38.353Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jba",
+          "score": 100
+        },
+        {
+          "keyword": "リーフ",
+          "score": 99
+        },
+        {
+          "keyword": "nba 順位",
+          "score": 98
+        },
+        {
+          "keyword": "要マジュロ",
+          "score": 97
+        },
+        {
+          "keyword": "今日好きチップス",
+          "score": 96
+        },
+        {
+          "keyword": "京アニ事件",
+          "score": 95
+        },
+        {
+          "keyword": "黒柳徹子",
+          "score": 94
+        },
+        {
+          "keyword": "モジタバ師",
+          "score": 93
+        },
+        {
+          "keyword": "英検",
+          "score": 92
+        },
+        {
+          "keyword": "サントリー the peel レモン",
           "score": 91
         }
       ]
