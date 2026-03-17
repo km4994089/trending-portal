@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-13T23:49:06.573Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "wbc",
-          "score": 100
-        },
-        {
-          "keyword": "스포츠티비",
-          "score": 99
-        },
-        {
-          "keyword": "티비",
-          "score": 98
-        },
-        {
-          "keyword": "스포츠",
-          "score": 97
-        },
-        {
-          "keyword": "박찬호",
-          "score": 96
-        },
-        {
-          "keyword": "tving",
-          "score": 95
-        },
-        {
-          "keyword": "티빙",
-          "score": 94
-        },
-        {
-          "keyword": "mbc",
-          "score": 93
-        },
-        {
-          "keyword": "sbs",
-          "score": 92
-        },
-        {
-          "keyword": "kbs",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-14T01:09:18.884Z",
       "geo": "KR",
       "source": "google",
@@ -5262,6 +5215,53 @@
         },
         {
           "keyword": "기상청",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-17T23:52:02.061Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "일기예보",
+          "score": 100
+        },
+        {
+          "keyword": "天気",
+          "score": 99
+        },
+        {
+          "keyword": "bóng đá vô địch các câu lạc bộ châu âu",
+          "score": 98
+        },
+        {
+          "keyword": "챔스 16강",
+          "score": 97
+        },
+        {
+          "keyword": "날씨",
+          "score": 96
+        },
+        {
+          "keyword": "레알",
+          "score": 95
+        },
+        {
+          "keyword": "arsenal đấu với leverkusen",
+          "score": 94
+        },
+        {
+          "keyword": "c1",
+          "score": 93
+        },
+        {
+          "keyword": "weather",
+          "score": 92
+        },
+        {
+          "keyword": "chelsea đấu với psg",
           "score": 91
         }
       ]
