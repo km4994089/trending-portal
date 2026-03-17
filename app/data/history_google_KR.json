@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-13T20:58:13.699Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "twitch",
-          "score": 100
-        },
-        {
-          "keyword": "고강용",
-          "score": 99
-        },
-        {
-          "keyword": "이토준지",
-          "score": 98
-        },
-        {
-          "keyword": "김가람",
-          "score": 97
-        },
-        {
-          "keyword": "배그",
-          "score": 96
-        },
-        {
-          "keyword": "박지윤",
-          "score": 95
-        },
-        {
-          "keyword": "오상진",
-          "score": 94
-        },
-        {
-          "keyword": "넥슨 낙원",
-          "score": 93
-        },
-        {
-          "keyword": "최태성",
-          "score": 92
-        },
-        {
-          "keyword": "sxmb",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-13T21:30:49.597Z",
       "geo": "KR",
       "source": "google",
@@ -5309,6 +5262,53 @@
         },
         {
           "keyword": "질병관리청",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-17T21:05:02.032Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "챔피언스리그",
+          "score": 100
+        },
+        {
+          "keyword": "champions league",
+          "score": 99
+        },
+        {
+          "keyword": "맨시티 레알",
+          "score": 98
+        },
+        {
+          "keyword": "붉은사막",
+          "score": 97
+        },
+        {
+          "keyword": "챔스",
+          "score": 96
+        },
+        {
+          "keyword": "첼시 대 psg",
+          "score": 95
+        },
+        {
+          "keyword": "스포르팅 대 보되/글림트",
+          "score": 94
+        },
+        {
+          "keyword": "blockchain technology",
+          "score": 93
+        },
+        {
+          "keyword": "허안나",
+          "score": 92
+        },
+        {
+          "keyword": "박재현",
           "score": 91
         }
       ]
