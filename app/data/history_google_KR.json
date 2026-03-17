@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-13T11:01:41.976Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kick",
-          "score": 100
-        },
-        {
-          "keyword": "독도",
-          "score": 99
-        },
-        {
-          "keyword": "pakistan vs bangladesh",
-          "score": 98
-        },
-        {
-          "keyword": "서울마라톤",
-          "score": 97
-        },
-        {
-          "keyword": "고영욱",
-          "score": 96
-        },
-        {
-          "keyword": "홍석천",
-          "score": 95
-        },
-        {
-          "keyword": "한국 도미니카",
-          "score": 94
-        },
-        {
-          "keyword": "카를로스 알카라스",
-          "score": 93
-        },
-        {
-          "keyword": "우리기술",
-          "score": 92
-        },
-        {
-          "keyword": "오클라호마시티 대 보스턴",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-13T11:50:08.712Z",
       "geo": "KR",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "이휘재",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-17T11:36:42.305Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "레바논",
+          "score": 100
+        },
+        {
+          "keyword": "김천상무 대 광주",
+          "score": 99
+        },
+        {
+          "keyword": "라리자니",
+          "score": 98
+        },
+        {
+          "keyword": "st. patrick's day",
+          "score": 97
+        },
+        {
+          "keyword": "new zealand vs south africa",
+          "score": 96
+        },
+        {
+          "keyword": "킹누",
+          "score": 95
+        },
+        {
+          "keyword": "공시가격",
+          "score": 94
+        },
+        {
+          "keyword": "공시지가",
+          "score": 93
+        },
+        {
+          "keyword": "카뱅",
+          "score": 92
+        },
+        {
+          "keyword": "카카오뱅크",
           "score": 91
         }
       ]
