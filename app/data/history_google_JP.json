@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-13T07:15:10.561Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "東京 ガソリン価格",
-          "score": 100
-        },
-        {
-          "keyword": "kpmg",
-          "score": 99
-        },
-        {
-          "keyword": "ジージェネエターナル",
-          "score": 98
-        },
-        {
-          "keyword": "取手競輪",
-          "score": 97
-        },
-        {
-          "keyword": "野沢雅子",
-          "score": 96
-        },
-        {
-          "keyword": "データセンター",
-          "score": 95
-        },
-        {
-          "keyword": "池田昌子",
-          "score": 94
-        },
-        {
-          "keyword": "晴海フラッグ",
-          "score": 93
-        },
-        {
-          "keyword": "solo leveling",
-          "score": 92
-        },
-        {
-          "keyword": "フジクラ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-13T08:00:12.204Z",
       "geo": "JP",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "リーフ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-17T07:47:31.457Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "さだまさし",
+          "score": 100
+        },
+        {
+          "keyword": "炎鵬",
+          "score": 99
+        },
+        {
+          "keyword": "サンバイオ",
+          "score": 98
+        },
+        {
+          "keyword": "ギルティ炭酸",
+          "score": 97
+        },
+        {
+          "keyword": "千代の富士",
+          "score": 96
+        },
+        {
+          "keyword": "ハエラ栄",
+          "score": 95
+        },
+        {
+          "keyword": "booking",
+          "score": 94
+        },
+        {
+          "keyword": "大村崑",
+          "score": 93
+        },
+        {
+          "keyword": "ドクターx",
+          "score": 92
+        },
+        {
+          "keyword": "森重昭",
           "score": 91
         }
       ]

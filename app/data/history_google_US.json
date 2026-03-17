@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-13T07:15:08.345Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nasa satellite crash earth",
-          "score": 100
-        },
-        {
-          "keyword": "divorce lawyer",
-          "score": 99
-        },
-        {
-          "keyword": "uss abraham lincoln",
-          "score": 98
-        },
-        {
-          "keyword": "gofundme",
-          "score": 97
-        },
-        {
-          "keyword": "car accident lawyer",
-          "score": 96
-        },
-        {
-          "keyword": "go fund me",
-          "score": 95
-        },
-        {
-          "keyword": "weather winter storm warning",
-          "score": 94
-        },
-        {
-          "keyword": "auto accident attorneys",
-          "score": 93
-        },
-        {
-          "keyword": "avatar the last airbender",
-          "score": 92
-        },
-        {
-          "keyword": "lincoln county wildfire",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-13T08:00:09.915Z",
       "geo": "US",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "heath ledger",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-17T07:47:29.280Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "storm warning",
+          "score": 100
+        },
+        {
+          "keyword": "fort lauderdale airport",
+          "score": 99
+        },
+        {
+          "keyword": "costco recalls",
+          "score": 98
+        },
+        {
+          "keyword": "ri energy",
+          "score": 97
+        },
+        {
+          "keyword": "spiderman brand new day",
+          "score": 96
+        },
+        {
+          "keyword": "report power outage",
+          "score": 95
+        },
+        {
+          "keyword": "d4vd",
+          "score": 94
+        },
+        {
+          "keyword": "weather tornado warnings",
+          "score": 93
+        },
+        {
+          "keyword": "the big show",
+          "score": 92
+        },
+        {
+          "keyword": "ps5 pro",
           "score": 91
         }
       ]
