@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-13T08:00:09.915Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "pedro pascal",
-          "score": 100
-        },
-        {
-          "keyword": "comed",
-          "score": 99
-        },
-        {
-          "keyword": "ban vs pak",
-          "score": 98
-        },
-        {
-          "keyword": "flight",
-          "score": 97
-        },
-        {
-          "keyword": "macbook neo student discount",
-          "score": 96
-        },
-        {
-          "keyword": "1348 ex voto",
-          "score": 95
-        },
-        {
-          "keyword": "chicago weather",
-          "score": 94
-        },
-        {
-          "keyword": "fallout 3",
-          "score": 93
-        },
-        {
-          "keyword": "bronny james",
-          "score": 92
-        },
-        {
-          "keyword": "nasa satellite crash earth",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-13T08:47:03.677Z",
       "geo": "US",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "ps5 pro",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-17T08:39:25.105Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "insurance",
+          "score": 100
+        },
+        {
+          "keyword": "power outage near me",
+          "score": 99
+        },
+        {
+          "keyword": "arc raiders",
+          "score": 98
+        },
+        {
+          "keyword": "criminal defense lawyer",
+          "score": 97
+        },
+        {
+          "keyword": "latest news",
+          "score": 96
+        },
+        {
+          "keyword": "el niño southern oscillation",
+          "score": 95
+        },
+        {
+          "keyword": "artificial intelligence news",
+          "score": 94
+        },
+        {
+          "keyword": "ins",
+          "score": 93
+        },
+        {
+          "keyword": "chadwick boseman",
+          "score": 92
+        },
+        {
+          "keyword": "landman season 3",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-13T08:00:12.204Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ピエールマルコリーニ",
-          "score": 100
-        },
-        {
-          "keyword": "日本相撲協会",
-          "score": 99
-        },
-        {
-          "keyword": "炎鵬",
-          "score": 98
-        },
-        {
-          "keyword": "アストンマーティン f1",
-          "score": 97
-        },
-        {
-          "keyword": "コウメ太夫",
-          "score": 96
-        },
-        {
-          "keyword": "朝乃山",
-          "score": 95
-        },
-        {
-          "keyword": "鈴木奈穂子アナウンサー",
-          "score": 94
-        },
-        {
-          "keyword": "すみれ",
-          "score": 93
-        },
-        {
-          "keyword": "東京 ガソリン価格",
-          "score": 92
-        },
-        {
-          "keyword": "ジージェネエターナル",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-13T08:47:06.241Z",
       "geo": "JP",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "森重昭",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-17T08:39:27.667Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "両国",
+          "score": 100
+        },
+        {
+          "keyword": "霧島 力士",
+          "score": 99
+        },
+        {
+          "keyword": "坂戸市",
+          "score": 98
+        },
+        {
+          "keyword": "太宰府インター",
+          "score": 97
+        },
+        {
+          "keyword": "公示地価",
+          "score": 96
+        },
+        {
+          "keyword": "一山本",
+          "score": 95
+        },
+        {
+          "keyword": "メットライフ生命",
+          "score": 94
+        },
+        {
+          "keyword": "浜名湖競艇",
+          "score": 93
+        },
+        {
+          "keyword": "イカナゴ",
+          "score": 92
+        },
+        {
+          "keyword": "朝乃山",
           "score": 91
         }
       ]
