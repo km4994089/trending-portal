@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-13T21:30:48.228Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ryan clark",
-          "score": 100
-        },
-        {
-          "keyword": "toledo basketball",
-          "score": 99
-        },
-        {
-          "keyword": "al qadsiah vs al-ahli",
-          "score": 98
-        },
-        {
-          "keyword": "vcu basketball",
-          "score": 97
-        },
-        {
-          "keyword": "sam houston basketball",
-          "score": 96
-        },
-        {
-          "keyword": "john blackwell",
-          "score": 95
-        },
-        {
-          "keyword": "championship",
-          "score": 94
-        },
-        {
-          "keyword": "dominion energy",
-          "score": 93
-        },
-        {
-          "keyword": "ric grenell",
-          "score": 92
-        },
-        {
-          "keyword": "spacex rocket launch schedule",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-13T22:20:01.294Z",
       "geo": "US",
       "source": "google",
@@ -5309,6 +5262,53 @@
         },
         {
           "keyword": "mccartney kessler",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-17T22:00:30.293Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "afcon",
+          "score": 100
+        },
+        {
+          "keyword": "morocco",
+          "score": 99
+        },
+        {
+          "keyword": "katie boulter",
+          "score": 98
+        },
+        {
+          "keyword": "matt leinart",
+          "score": 97
+        },
+        {
+          "keyword": "usa vs spain women's basketball",
+          "score": 96
+        },
+        {
+          "keyword": "uc santa barbara",
+          "score": 95
+        },
+        {
+          "keyword": "king charles",
+          "score": 94
+        },
+        {
+          "keyword": "haaland",
+          "score": 93
+        },
+        {
+          "keyword": "megan gustafson",
+          "score": 92
+        },
+        {
+          "keyword": "ucsb",
           "score": 91
         }
       ]
