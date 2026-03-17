@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-13T22:20:01.294Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "rick pitino",
-          "score": 100
-        },
-        {
-          "keyword": "st john's basketball",
-          "score": 99
-        },
-        {
-          "keyword": "oscar nominations 2026",
-          "score": 98
-        },
-        {
-          "keyword": "korea vs dominican republic",
-          "score": 97
-        },
-        {
-          "keyword": "tig notaro",
-          "score": 96
-        },
-        {
-          "keyword": "wrexham standings",
-          "score": 95
-        },
-        {
-          "keyword": "duquesne basketball",
-          "score": 94
-        },
-        {
-          "keyword": "smylie kaufman",
-          "score": 93
-        },
-        {
-          "keyword": "bow wow",
-          "score": 92
-        },
-        {
-          "keyword": "dutton ranch",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-13T22:49:52.011Z",
       "geo": "US",
       "source": "google",
@@ -5309,6 +5262,53 @@
         },
         {
           "keyword": "ucsb",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-17T22:35:08.025Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "boston college",
+          "score": 100
+        },
+        {
+          "keyword": "carabao cup",
+          "score": 99
+        },
+        {
+          "keyword": "champions league table",
+          "score": 98
+        },
+        {
+          "keyword": "thunder vs magic",
+          "score": 97
+        },
+        {
+          "keyword": "pistons vs wizards",
+          "score": 96
+        },
+        {
+          "keyword": "liberty basketball",
+          "score": 95
+        },
+        {
+          "keyword": "david njoku",
+          "score": 94
+        },
+        {
+          "keyword": "liberty university",
+          "score": 93
+        },
+        {
+          "keyword": "mystikal",
+          "score": 92
+        },
+        {
+          "keyword": "daniel dye",
           "score": 91
         }
       ]

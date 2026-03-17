@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-13T22:20:02.555Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "twitch",
-          "score": 100
-        },
-        {
-          "keyword": "고강용",
-          "score": 99
-        },
-        {
-          "keyword": "이토준지",
-          "score": 98
-        },
-        {
-          "keyword": "김가람",
-          "score": 97
-        },
-        {
-          "keyword": "배그",
-          "score": 96
-        },
-        {
-          "keyword": "박지윤",
-          "score": 95
-        },
-        {
-          "keyword": "오상진",
-          "score": 94
-        },
-        {
-          "keyword": "넥슨 낙원",
-          "score": 93
-        },
-        {
-          "keyword": "최태성",
-          "score": 92
-        },
-        {
-          "keyword": "sxmb",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-13T22:49:53.398Z",
       "geo": "KR",
       "source": "google",
@@ -5309,6 +5262,53 @@
         },
         {
           "keyword": "манчестер сити – реал мадрид",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-17T22:35:09.243Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "weather",
+          "score": 100
+        },
+        {
+          "keyword": "chelsea đấu với psg",
+          "score": 99
+        },
+        {
+          "keyword": "초단기 강수예측",
+          "score": 98
+        },
+        {
+          "keyword": "기상청",
+          "score": 97
+        },
+        {
+          "keyword": "แมนซิตี พบ เรอัลมาดริด",
+          "score": 96
+        },
+        {
+          "keyword": "아스날",
+          "score": 95
+        },
+        {
+          "keyword": "พยากรณ์อากาศ",
+          "score": 94
+        },
+        {
+          "keyword": "맨시티",
+          "score": 93
+        },
+        {
+          "keyword": "fotmob",
+          "score": 92
+        },
+        {
+          "keyword": "psg",
           "score": 91
         }
       ]
