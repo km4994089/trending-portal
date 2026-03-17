@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-13T13:53:08.603Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "오상진",
-          "score": 100
-        },
-        {
-          "keyword": "최태성",
-          "score": 99
-        },
-        {
-          "keyword": "sxmb",
-          "score": 98
-        },
-        {
-          "keyword": "법왜곡죄",
-          "score": 97
-        },
-        {
-          "keyword": "네이처셀",
-          "score": 96
-        },
-        {
-          "keyword": "레바논",
-          "score": 95
-        },
-        {
-          "keyword": "크래프톤",
-          "score": 94
-        },
-        {
-          "keyword": "3월 14일",
-          "score": 93
-        },
-        {
-          "keyword": "세신사",
-          "score": 92
-        },
-        {
-          "keyword": "kick",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-13T14:36:03.858Z",
       "geo": "KR",
       "source": "google",
@@ -5450,6 +5403,53 @@
         },
         {
           "keyword": "st. patrick's day",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-17T14:13:39.237Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "오픈클로",
+          "score": 100
+        },
+        {
+          "keyword": "최예나",
+          "score": 99
+        },
+        {
+          "keyword": "질병관리청",
+          "score": 98
+        },
+        {
+          "keyword": "징동",
+          "score": 97
+        },
+        {
+          "keyword": "박성웅",
+          "score": 96
+        },
+        {
+          "keyword": "내일 날씨",
+          "score": 95
+        },
+        {
+          "keyword": "weather tomorrow",
+          "score": 94
+        },
+        {
+          "keyword": "cuaca besok",
+          "score": 93
+        },
+        {
+          "keyword": "thời tiết ngày mai",
+          "score": 92
+        },
+        {
+          "keyword": "시드니 스위니",
           "score": 91
         }
       ]
