@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-13T10:03:22.172Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "독도",
-          "score": 100
-        },
-        {
-          "keyword": "pakistan vs bangladesh",
-          "score": 99
-        },
-        {
-          "keyword": "서울마라톤",
-          "score": 98
-        },
-        {
-          "keyword": "고영욱",
-          "score": 97
-        },
-        {
-          "keyword": "홍석천",
-          "score": 96
-        },
-        {
-          "keyword": "한국 도미니카",
-          "score": 95
-        },
-        {
-          "keyword": "카를로스 알카라스",
-          "score": 94
-        },
-        {
-          "keyword": "기름값 상한제",
-          "score": 93
-        },
-        {
-          "keyword": "우리기술",
-          "score": 92
-        },
-        {
-          "keyword": "오클라호마시티 대 보스턴",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-13T11:01:41.976Z",
       "geo": "KR",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "박수민",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-17T10:40:23.537Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "new zealand vs south africa",
+          "score": 100
+        },
+        {
+          "keyword": "킹누",
+          "score": 99
+        },
+        {
+          "keyword": "공시가격",
+          "score": 98
+        },
+        {
+          "keyword": "공시지가",
+          "score": 97
+        },
+        {
+          "keyword": "카뱅",
+          "score": 96
+        },
+        {
+          "keyword": "카카오뱅크",
+          "score": 95
+        },
+        {
+          "keyword": "고군분투",
+          "score": 94
+        },
+        {
+          "keyword": "운전면허 적성검사",
+          "score": 93
+        },
+        {
+          "keyword": "판문점",
+          "score": 92
+        },
+        {
+          "keyword": "이휘재",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-13T10:03:20.880Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "snow storm weather forecast",
-          "score": 100
-        },
-        {
-          "keyword": "todays weather",
-          "score": 99
-        },
-        {
-          "keyword": "anthony demayo bishop fenwick",
-          "score": 98
-        },
-        {
-          "keyword": "weather new york",
-          "score": 97
-        },
-        {
-          "keyword": "alliant energy",
-          "score": 96
-        },
-        {
-          "keyword": "pick 3",
-          "score": 95
-        },
-        {
-          "keyword": "nytimes.com",
-          "score": 94
-        },
-        {
-          "keyword": "minneapolis weather",
-          "score": 93
-        },
-        {
-          "keyword": "gale warning",
-          "score": 92
-        },
-        {
-          "keyword": "xcel power outage",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-13T11:01:40.645Z",
       "geo": "US",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "wpxi",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-17T10:40:22.325Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "arc raiders update",
+          "score": 100
+        },
+        {
+          "keyword": "علي لاريجاني",
+          "score": 99
+        },
+        {
+          "keyword": "china vs australia",
+          "score": 98
+        },
+        {
+          "keyword": "newark airport",
+          "score": 97
+        },
+        {
+          "keyword": "mco tsa wait times",
+          "score": 96
+        },
+        {
+          "keyword": "adelaide 36ers",
+          "score": 95
+        },
+        {
+          "keyword": "wktv",
+          "score": 94
+        },
+        {
+          "keyword": "alix earle",
+          "score": 93
+        },
+        {
+          "keyword": "weather orlando",
+          "score": 92
+        },
+        {
+          "keyword": "arnold schwarzenegger",
           "score": 91
         }
       ]
