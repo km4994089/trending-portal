@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-13T22:49:52.011Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "baseball classic",
-          "score": 100
-        },
-        {
-          "keyword": "james fishback",
-          "score": 99
-        },
-        {
-          "keyword": "andrew mandelson",
-          "score": 98
-        },
-        {
-          "keyword": "mars",
-          "score": 97
-        },
-        {
-          "keyword": "tony finau",
-          "score": 96
-        },
-        {
-          "keyword": "sebastian joseph day",
-          "score": 95
-        },
-        {
-          "keyword": "purdue vs nebraska",
-          "score": 94
-        },
-        {
-          "keyword": "west penn power outage",
-          "score": 93
-        },
-        {
-          "keyword": "boca raton",
-          "score": 92
-        },
-        {
-          "keyword": "ucsd",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-13T23:19:06.354Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "wbc schedule",
-          "score": 100
-        },
-        {
-          "keyword": "uva basketball",
-          "score": 99
-        },
-        {
-          "keyword": "heco power outage",
-          "score": 98
-        },
-        {
-          "keyword": "iowa state men's basketball",
-          "score": 97
-        },
-        {
-          "keyword": "virginia basketball",
-          "score": 96
-        },
-        {
-          "keyword": "cesar evora",
-          "score": 95
-        },
-        {
-          "keyword": "jennifer griffin",
-          "score": 94
-        },
-        {
-          "keyword": "nwsl",
-          "score": 93
-        },
-        {
-          "keyword": "dolly parton",
-          "score": 92
-        },
-        {
-          "keyword": "kings vs islanders",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-13T23:49:05.168Z",
       "geo": "US",
       "source": "google",
@@ -5309,6 +5215,53 @@
         },
         {
           "keyword": "daniel dye",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-17T23:22:48.780Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tgl",
+          "score": 100
+        },
+        {
+          "keyword": "paolo banchero stats",
+          "score": 99
+        },
+        {
+          "keyword": "how to watch march madness",
+          "score": 98
+        },
+        {
+          "keyword": "heat vs hornets",
+          "score": 97
+        },
+        {
+          "keyword": "bruins vs canadiens",
+          "score": 96
+        },
+        {
+          "keyword": "hurricanes vs blue jackets",
+          "score": 95
+        },
+        {
+          "keyword": "kasper schmeichel",
+          "score": 94
+        },
+        {
+          "keyword": "where is howard university",
+          "score": 93
+        },
+        {
+          "keyword": "islanders vs maple leafs",
+          "score": 92
+        },
+        {
+          "keyword": "george mason university",
           "score": 91
         }
       ]
