@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-14T22:49:40.996Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "맨시티",
-          "score": 100
-        },
-        {
-          "keyword": "madrid vs elche",
-          "score": 99
-        },
-        {
-          "keyword": "인디언웰스",
-          "score": 98
-        },
-        {
-          "keyword": "เวสต์แฮม พบ แมนซิตี",
-          "score": 97
-        },
-        {
-          "keyword": "야닉 시너",
-          "score": 96
-        },
-        {
-          "keyword": "real madrid vs elche",
-          "score": 95
-        },
-        {
-          "keyword": "พยากรณ์อากาศ",
-          "score": 94
-        },
-        {
-          "keyword": "west ham vs man city",
-          "score": 93
-        },
-        {
-          "keyword": "pl",
-          "score": 92
-        },
-        {
-          "keyword": "อาร์เซนอล พบ เอฟเวอร์ตัน",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-14T23:18:20.588Z",
       "geo": "KR",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "uefa champions league",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-18T22:54:06.524Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "챔피언스리그",
+          "score": 100
+        },
+        {
+          "keyword": "붉은사막",
+          "score": 99
+        },
+        {
+          "keyword": "liverpool đấu với galatasaray",
+          "score": 98
+        },
+        {
+          "keyword": "아틀레티코 마드리드",
+          "score": 97
+        },
+        {
+          "keyword": "tottenham đấu với atlético madrid",
+          "score": 96
+        },
+        {
+          "keyword": "조선일보",
+          "score": 95
+        },
+        {
+          "keyword": "mu stock",
+          "score": 94
+        },
+        {
+          "keyword": "bayern vs atalanta",
+          "score": 93
+        },
+        {
+          "keyword": "웃음치료사 서울시의원",
+          "score": 92
+        },
+        {
+          "keyword": "ลิเวอร์พูล พบ กาลาตาซาราย",
           "score": 91
         }
       ]
