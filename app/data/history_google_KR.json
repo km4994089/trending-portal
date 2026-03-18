@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-14T06:03:01.863Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "서울e 대 부산",
-          "score": 100
-        },
-        {
-          "keyword": "메이슨 밀러",
-          "score": 99
-        },
-        {
-          "keyword": "수원 대 전남",
-          "score": 98
-        },
-        {
-          "keyword": "kbo",
-          "score": 97
-        },
-        {
-          "keyword": "광주 대 전북",
-          "score": 96
-        },
-        {
-          "keyword": "제니 결혼",
-          "score": 95
-        },
-        {
-          "keyword": "야구 결과",
-          "score": 94
-        },
-        {
-          "keyword": "미국 캐나다",
-          "score": 93
-        },
-        {
-          "keyword": "김남길",
-          "score": 92
-        },
-        {
-          "keyword": "윤경호",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-14T07:08:39.717Z",
       "geo": "KR",
       "source": "google",
@@ -5262,6 +5215,53 @@
         },
         {
           "keyword": "cj 채용",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-18T06:38:02.149Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "매불쇼",
+          "score": 100
+        },
+        {
+          "keyword": "하나투어",
+          "score": 99
+        },
+        {
+          "keyword": "강득구",
+          "score": 98
+        },
+        {
+          "keyword": "대우건설",
+          "score": 97
+        },
+        {
+          "keyword": "트라이폴드",
+          "score": 96
+        },
+        {
+          "keyword": "포스코",
+          "score": 95
+        },
+        {
+          "keyword": "아랍에미리트",
+          "score": 94
+        },
+        {
+          "keyword": "나프타",
+          "score": 93
+        },
+        {
+          "keyword": "우리기술",
+          "score": 92
+        },
+        {
+          "keyword": "uae",
           "score": 91
         }
       ]

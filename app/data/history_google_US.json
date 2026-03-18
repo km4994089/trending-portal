@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-14T06:03:00.695Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ios 26.4 customize iphone",
-          "score": 100
-        },
-        {
-          "keyword": "katy perry",
-          "score": 99
-        },
-        {
-          "keyword": "kevin vallejos",
-          "score": 98
-        },
-        {
-          "keyword": "fire weather watch",
-          "score": 97
-        },
-        {
-          "keyword": "government shutdown",
-          "score": 96
-        },
-        {
-          "keyword": "jake shane",
-          "score": 95
-        },
-        {
-          "keyword": "lainey wilson",
-          "score": 94
-        },
-        {
-          "keyword": "brandin podziemski",
-          "score": 93
-        },
-        {
-          "keyword": "wahiawa dam",
-          "score": 92
-        },
-        {
-          "keyword": "tre jones",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-14T07:08:38.457Z",
       "geo": "US",
       "source": "google",
@@ -5262,6 +5215,53 @@
         },
         {
           "keyword": "marjon beauchamp",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-18T06:38:00.883Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tel aviv",
+          "score": 100
+        },
+        {
+          "keyword": "travis scott",
+          "score": 99
+        },
+        {
+          "keyword": "alex warren",
+          "score": 98
+        },
+        {
+          "keyword": "lamar odom",
+          "score": 97
+        },
+        {
+          "keyword": "rebecca grossman",
+          "score": 96
+        },
+        {
+          "keyword": "artificial intelligence news",
+          "score": 95
+        },
+        {
+          "keyword": "blockchain technology",
+          "score": 94
+        },
+        {
+          "keyword": "los angeles weather",
+          "score": 93
+        },
+        {
+          "keyword": "seven deadly sins origin",
+          "score": 92
+        },
+        {
+          "keyword": "aws outage",
           "score": 91
         }
       ]
