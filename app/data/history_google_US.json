@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-14T05:06:01.535Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "wahiawa dam",
-          "score": 100
-        },
-        {
-          "keyword": "leonard miller",
-          "score": 99
-        },
-        {
-          "keyword": "tre jones",
-          "score": 98
-        },
-        {
-          "keyword": "doja cat",
-          "score": 97
-        },
-        {
-          "keyword": "big west basketball tournament",
-          "score": 96
-        },
-        {
-          "keyword": "taz skylar",
-          "score": 95
-        },
-        {
-          "keyword": "bennedict mathurin",
-          "score": 94
-        },
-        {
-          "keyword": "goldie hawn",
-          "score": 93
-        },
-        {
-          "keyword": "gui santos",
-          "score": 92
-        },
-        {
-          "keyword": "donovan clingan",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-14T06:03:00.695Z",
       "geo": "US",
       "source": "google",
@@ -5262,6 +5215,53 @@
         },
         {
           "keyword": "edmonton oilers",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-18T05:26:29.563Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "los angeles weather",
+          "score": 100
+        },
+        {
+          "keyword": "seven deadly sins origin",
+          "score": 99
+        },
+        {
+          "keyword": "jack johnson",
+          "score": 98
+        },
+        {
+          "keyword": "aws outage",
+          "score": 97
+        },
+        {
+          "keyword": "tessa thompson",
+          "score": 96
+        },
+        {
+          "keyword": "unlv",
+          "score": 95
+        },
+        {
+          "keyword": "lea michele",
+          "score": 94
+        },
+        {
+          "keyword": "dhurandhar 2",
+          "score": 93
+        },
+        {
+          "keyword": "iditarod 2026",
+          "score": 92
+        },
+        {
+          "keyword": "marjon beauchamp",
           "score": 91
         }
       ]
