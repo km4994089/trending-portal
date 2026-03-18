@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-14T03:38:04.616Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김남길",
-          "score": 100
-        },
-        {
-          "keyword": "윤경호",
-          "score": 99
-        },
-        {
-          "keyword": "한지상",
-          "score": 98
-        },
-        {
-          "keyword": "금새록",
-          "score": 97
-        },
-        {
-          "keyword": "kharg island",
-          "score": 96
-        },
-        {
-          "keyword": "시드니 스위니",
-          "score": 95
-        },
-        {
-          "keyword": "엘레나 리바키나",
-          "score": 94
-        },
-        {
-          "keyword": "조소현",
-          "score": 93
-        },
-        {
-          "keyword": "wbc 2026",
-          "score": 92
-        },
-        {
-          "keyword": "소형준",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-14T05:06:02.815Z",
       "geo": "KR",
       "source": "google",
@@ -5262,6 +5215,53 @@
         },
         {
           "keyword": "기상청",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-18T03:59:52.099Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "uae",
+          "score": 100
+        },
+        {
+          "keyword": "cj 채용",
+          "score": 99
+        },
+        {
+          "keyword": "스쿠발",
+          "score": 98
+        },
+        {
+          "keyword": "블루엘리펀트",
+          "score": 97
+        },
+        {
+          "keyword": "강인권",
+          "score": 96
+        },
+        {
+          "keyword": "운전면허 적성검사",
+          "score": 95
+        },
+        {
+          "keyword": "리사수",
+          "score": 94
+        },
+        {
+          "keyword": "삼성전자 주주총회",
+          "score": 93
+        },
+        {
+          "keyword": "베네수엘라",
+          "score": 92
+        },
+        {
+          "keyword": "대우건설 주가",
           "score": 91
         }
       ]
