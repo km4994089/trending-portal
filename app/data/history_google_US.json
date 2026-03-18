@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-14T19:01:36.960Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "hornets vs spurs",
-          "score": 100
-        },
-        {
-          "keyword": "bruins vs capitals",
-          "score": 99
-        },
-        {
-          "keyword": "austin rapp",
-          "score": 98
-        },
-        {
-          "keyword": "chelsea fc",
-          "score": 97
-        },
-        {
-          "keyword": "scorbunny community day",
-          "score": 96
-        },
-        {
-          "keyword": "justin edwards",
-          "score": 95
-        },
-        {
-          "keyword": "philadelphia vs atlanta united",
-          "score": 94
-        },
-        {
-          "keyword": "al fateh vs al-hilal",
-          "score": 93
-        },
-        {
-          "keyword": "mit",
-          "score": 92
-        },
-        {
-          "keyword": "al-khaleej vs al-nassr",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-14T19:45:19.210Z",
       "geo": "US",
       "source": "google",
@@ -4745,6 +4698,53 @@
         },
         {
           "keyword": "bob motzko",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-18T19:41:51.845Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "xavi espart",
+          "score": 100
+        },
+        {
+          "keyword": "boston scott",
+          "score": 99
+        },
+        {
+          "keyword": "southampton vs norwich city",
+          "score": 98
+        },
+        {
+          "keyword": "ras laffan",
+          "score": 97
+        },
+        {
+          "keyword": "johns hopkins",
+          "score": 96
+        },
+        {
+          "keyword": "tottenham - atlético madrid",
+          "score": 95
+        },
+        {
+          "keyword": "liverpool - galatasaray",
+          "score": 94
+        },
+        {
+          "keyword": "bayern",
+          "score": 93
+        },
+        {
+          "keyword": "laverne cox",
+          "score": 92
+        },
+        {
+          "keyword": "jonas urbig",
           "score": 91
         }
       ]

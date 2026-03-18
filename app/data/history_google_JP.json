@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-14T19:01:39.496Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "psv 対 nec",
-          "score": 100
-        },
-        {
-          "keyword": "google chrome ゼロデイ",
-          "score": 99
-        },
-        {
-          "keyword": "chelsea vs newcastle",
-          "score": 98
-        },
-        {
-          "keyword": "イラン情勢 株価",
-          "score": 97
-        },
-        {
-          "keyword": "arsenal vs everton",
-          "score": 96
-        },
-        {
-          "keyword": "アーセナル 対 エヴァートン",
-          "score": 95
-        },
-        {
-          "keyword": "レスターc 対 qpr",
-          "score": 94
-        },
-        {
-          "keyword": "桜田ひより",
-          "score": 93
-        },
-        {
-          "keyword": "グノーシア",
-          "score": 92
-        },
-        {
-          "keyword": "バーミンガム 対 シェフィールドu",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-14T19:45:21.768Z",
       "geo": "JP",
       "source": "google",
@@ -4745,6 +4698,53 @@
         },
         {
           "keyword": "iphone バックグラウンドセキュリティ改善",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-18T19:41:54.604Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "バイエルン 対 アタランタ",
+          "score": 100
+        },
+        {
+          "keyword": "grok",
+          "score": 99
+        },
+        {
+          "keyword": "ucl",
+          "score": 98
+        },
+        {
+          "keyword": "リヴァプール 対 ガラタサライ",
+          "score": 97
+        },
+        {
+          "keyword": "ソニー生命保険",
+          "score": 96
+        },
+        {
+          "keyword": "barcelona",
+          "score": 95
+        },
+        {
+          "keyword": "バルサ",
+          "score": 94
+        },
+        {
+          "keyword": "wowow",
+          "score": 93
+        },
+        {
+          "keyword": "バルセロナ",
+          "score": 92
+        },
+        {
+          "keyword": "barcelona vs newcastle",
           "score": 91
         }
       ]
