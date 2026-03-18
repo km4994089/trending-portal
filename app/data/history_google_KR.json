@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-14T23:47:09.895Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "weather",
-          "score": 100
-        },
-        {
-          "keyword": "카를로스 알카라스",
-          "score": 99
-        },
-        {
-          "keyword": "대구날씨",
-          "score": 98
-        },
-        {
-          "keyword": "real madrid đấu với elche",
-          "score": 97
-        },
-        {
-          "keyword": "天氣",
-          "score": 96
-        },
-        {
-          "keyword": "유수영",
-          "score": 95
-        },
-        {
-          "keyword": "indian wells",
-          "score": 94
-        },
-        {
-          "keyword": "al-khaleej vs al-nassr",
-          "score": 93
-        },
-        {
-          "keyword": "реал мадрид – эльче",
-          "score": 92
-        },
-        {
-          "keyword": "天气",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-15T01:21:05.375Z",
       "geo": "KR",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "mu stock",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-18T23:49:49.673Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mlb",
+          "score": 100
+        },
+        {
+          "keyword": "metacritic",
+          "score": 99
+        },
+        {
+          "keyword": "달러원환율",
+          "score": 98
+        },
+        {
+          "keyword": "챔스",
+          "score": 97
+        },
+        {
+          "keyword": "붉은사막",
+          "score": 96
+        },
+        {
+          "keyword": "챔피언스리그",
+          "score": 95
+        },
+        {
+          "keyword": "liverpool đấu với galatasaray",
+          "score": 94
+        },
+        {
+          "keyword": "champions league",
+          "score": 93
+        },
+        {
+          "keyword": "tottenham đấu với atlético madrid",
+          "score": 92
+        },
+        {
+          "keyword": "브렌트유",
           "score": 91
         }
       ]
