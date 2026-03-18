@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-14T07:08:41.003Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "岡田彰布",
-          "score": 100
-        },
-        {
-          "keyword": "百田尚樹",
-          "score": 99
-        },
-        {
-          "keyword": "三嶋一輝",
-          "score": 98
-        },
-        {
-          "keyword": "武豊",
-          "score": 97
-        },
-        {
-          "keyword": "永井大",
-          "score": 96
-        },
-        {
-          "keyword": "エディオンアリーナ大阪",
-          "score": 95
-        },
-        {
-          "keyword": "飯豊まりえ",
-          "score": 94
-        },
-        {
-          "keyword": "若ノ勝",
-          "score": 93
-        },
-        {
-          "keyword": "甲山親方",
-          "score": 92
-        },
-        {
-          "keyword": "コーラルステークス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-14T07:53:21.543Z",
       "geo": "JP",
       "source": "google",
@@ -5262,6 +5215,53 @@
         },
         {
           "keyword": "lemino",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-18T07:45:25.267Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "青森県 人事異動",
+          "score": 100
+        },
+        {
+          "keyword": "千代の富士",
+          "score": 99
+        },
+        {
+          "keyword": "セゾン",
+          "score": 98
+        },
+        {
+          "keyword": "ヒカキン",
+          "score": 97
+        },
+        {
+          "keyword": "若島津死去",
+          "score": 96
+        },
+        {
+          "keyword": "雛形あきこ",
+          "score": 95
+        },
+        {
+          "keyword": "堀田真由",
+          "score": 94
+        },
+        {
+          "keyword": "弁理士",
+          "score": 93
+        },
+        {
+          "keyword": "琴風浩一",
+          "score": 92
+        },
+        {
+          "keyword": "povo",
           "score": 91
         }
       ]

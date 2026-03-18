@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-14T07:08:38.457Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mookie betts",
-          "score": 100
-        },
-        {
-          "keyword": "yale basketball",
-          "score": 99
-        },
-        {
-          "keyword": "sdsu",
-          "score": 98
-        },
-        {
-          "keyword": "lou gehrig",
-          "score": 97
-        },
-        {
-          "keyword": "din tai fung scottsdale",
-          "score": 96
-        },
-        {
-          "keyword": "iranian military",
-          "score": 95
-        },
-        {
-          "keyword": "north korea",
-          "score": 94
-        },
-        {
-          "keyword": "white noise",
-          "score": 93
-        },
-        {
-          "keyword": "kevin vallejos",
-          "score": 92
-        },
-        {
-          "keyword": "ios 26.4 customize iphone",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-14T07:53:18.931Z",
       "geo": "US",
       "source": "google",
@@ -5262,6 +5215,53 @@
         },
         {
           "keyword": "aws outage",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-18T07:45:22.558Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "criminal defense lawyer",
+          "score": 100
+        },
+        {
+          "keyword": "melanie curtin",
+          "score": 99
+        },
+        {
+          "keyword": "fuel",
+          "score": 98
+        },
+        {
+          "keyword": "diesel fuel",
+          "score": 97
+        },
+        {
+          "keyword": "gas",
+          "score": 96
+        },
+        {
+          "keyword": "zack snyder justice league",
+          "score": 95
+        },
+        {
+          "keyword": "dhurandhar the revenge",
+          "score": 94
+        },
+        {
+          "keyword": "wnba",
+          "score": 93
+        },
+        {
+          "keyword": "amazon video",
+          "score": 92
+        },
+        {
+          "keyword": "john cena",
           "score": 91
         }
       ]

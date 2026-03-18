@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-14T07:08:39.717Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kbl",
-          "score": 100
-        },
-        {
-          "keyword": "수원 kt 대 서울 sk",
-          "score": 99
-        },
-        {
-          "keyword": "북한",
-          "score": 98
-        },
-        {
-          "keyword": "서울e 대 부산",
-          "score": 97
-        },
-        {
-          "keyword": "수원 대 전남",
-          "score": 96
-        },
-        {
-          "keyword": "kbo",
-          "score": 95
-        },
-        {
-          "keyword": "광주 대 전북",
-          "score": 94
-        },
-        {
-          "keyword": "제니 결혼",
-          "score": 93
-        },
-        {
-          "keyword": "미국 캐나다",
-          "score": 92
-        },
-        {
-          "keyword": "김남길",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-14T07:53:20.413Z",
       "geo": "KR",
       "source": "google",
@@ -5262,6 +5215,53 @@
         },
         {
           "keyword": "uae",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-18T07:45:24.107Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "삼성전자 배당금",
+          "score": 100
+        },
+        {
+          "keyword": "매불쇼",
+          "score": 99
+        },
+        {
+          "keyword": "하나투어",
+          "score": 98
+        },
+        {
+          "keyword": "강득구",
+          "score": 97
+        },
+        {
+          "keyword": "대우건설",
+          "score": 96
+        },
+        {
+          "keyword": "트라이폴드",
+          "score": 95
+        },
+        {
+          "keyword": "포스코",
+          "score": 94
+        },
+        {
+          "keyword": "아랍에미리트",
+          "score": 93
+        },
+        {
+          "keyword": "나프타",
+          "score": 92
+        },
+        {
+          "keyword": "우리기술",
           "score": 91
         }
       ]
