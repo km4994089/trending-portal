@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-14T01:09:20.166Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "チケットぴあ",
-          "score": 100
-        },
-        {
-          "keyword": "pia",
-          "score": 99
-        },
-        {
-          "keyword": "kharg island",
-          "score": 98
-        },
-        {
-          "keyword": "ぴあ",
-          "score": 97
-        },
-        {
-          "keyword": "仙石線",
-          "score": 96
-        },
-        {
-          "keyword": "b'z",
-          "score": 95
-        },
-        {
-          "keyword": "高島屋",
-          "score": 94
-        },
-        {
-          "keyword": "ららぽーと安城",
-          "score": 93
-        },
-        {
-          "keyword": "フリオロドリゲス",
-          "score": 92
-        },
-        {
-          "keyword": "グリーンチャンネル",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-14T03:38:05.995Z",
       "geo": "JP",
       "source": "google",
@@ -5262,6 +5215,53 @@
         },
         {
           "keyword": "小田急線",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-18T01:16:38.194Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "三重高校",
+          "score": 100
+        },
+        {
+          "keyword": "黒川想矢",
+          "score": 99
+        },
+        {
+          "keyword": "jdi 株価",
+          "score": 98
+        },
+        {
+          "keyword": "東京電力",
+          "score": 97
+        },
+        {
+          "keyword": "ロマンアンソニー",
+          "score": 96
+        },
+        {
+          "keyword": "ソニー 株価",
+          "score": 95
+        },
+        {
+          "keyword": "吉村崇",
+          "score": 94
+        },
+        {
+          "keyword": "三国競艇",
+          "score": 93
+        },
+        {
+          "keyword": "アーロンジャッジ",
+          "score": 92
+        },
+        {
+          "keyword": "三菱マテリアル",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-14T01:09:18.884Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이란 하르그섬",
-          "score": 100
-        },
-        {
-          "keyword": "콜드게임",
-          "score": 99
-        },
-        {
-          "keyword": "wbc 라이브",
-          "score": 98
-        },
-        {
-          "keyword": "노경은",
-          "score": 97
-        },
-        {
-          "keyword": "해외축구",
-          "score": 96
-        },
-        {
-          "keyword": "wbc",
-          "score": 95
-        },
-        {
-          "keyword": "스포츠티비",
-          "score": 94
-        },
-        {
-          "keyword": "tv",
-          "score": 93
-        },
-        {
-          "keyword": "티비",
-          "score": 92
-        },
-        {
-          "keyword": "박찬호",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-14T03:38:04.616Z",
       "geo": "KR",
       "source": "google",
@@ -5262,6 +5215,53 @@
         },
         {
           "keyword": "chelsea đấu với psg",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-18T01:16:37.124Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "일기예보",
+          "score": 100
+        },
+        {
+          "keyword": "天気",
+          "score": 99
+        },
+        {
+          "keyword": "bóng đá vô địch các câu lạc bộ châu âu",
+          "score": 98
+        },
+        {
+          "keyword": "날씨",
+          "score": 97
+        },
+        {
+          "keyword": "arsenal đấu với leverkusen",
+          "score": 96
+        },
+        {
+          "keyword": "c1",
+          "score": 95
+        },
+        {
+          "keyword": "weather",
+          "score": 94
+        },
+        {
+          "keyword": "chelsea đấu với psg",
+          "score": 93
+        },
+        {
+          "keyword": "초단기 강수예측",
+          "score": 92
+        },
+        {
+          "keyword": "기상청",
           "score": 91
         }
       ]
