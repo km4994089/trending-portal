@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-14T18:24:08.243Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "psv 対 nec",
-          "score": 100
-        },
-        {
-          "keyword": "google chrome ゼロデイ",
-          "score": 99
-        },
-        {
-          "keyword": "chelsea vs newcastle",
-          "score": 98
-        },
-        {
-          "keyword": "イラン情勢 株価",
-          "score": 97
-        },
-        {
-          "keyword": "arsenal vs everton",
-          "score": 96
-        },
-        {
-          "keyword": "アーセナル 対 エヴァートン",
-          "score": 95
-        },
-        {
-          "keyword": "レスターc 対 qpr",
-          "score": 94
-        },
-        {
-          "keyword": "桜田ひより",
-          "score": 93
-        },
-        {
-          "keyword": "グノーシア",
-          "score": 92
-        },
-        {
-          "keyword": "バーミンガム 対 シェフィールドu",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-14T19:01:39.496Z",
       "geo": "JP",
       "source": "google",
@@ -4745,6 +4698,53 @@
         },
         {
           "keyword": "大谷映美里",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-18T18:44:03.789Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "barcelona",
+          "score": 100
+        },
+        {
+          "keyword": "バルサ",
+          "score": 99
+        },
+        {
+          "keyword": "wowow",
+          "score": 98
+        },
+        {
+          "keyword": "バルセロナ",
+          "score": 97
+        },
+        {
+          "keyword": "barcelona vs newcastle",
+          "score": 96
+        },
+        {
+          "keyword": "食べる",
+          "score": 95
+        },
+        {
+          "keyword": "バルセロナ 対 ニューカッスル",
+          "score": 94
+        },
+        {
+          "keyword": "教職員異動",
+          "score": 93
+        },
+        {
+          "keyword": "賃上げ",
+          "score": 92
+        },
+        {
+          "keyword": "iphone バックグラウンドセキュリティ改善",
           "score": 91
         }
       ]
