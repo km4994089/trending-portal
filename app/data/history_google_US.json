@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-15T08:59:26.705Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "online lottery",
-          "score": 100
-        },
-        {
-          "keyword": "fernando alonso",
-          "score": 99
-        },
-        {
-          "keyword": "new york times",
-          "score": 98
-        },
-        {
-          "keyword": "bryson dechambeau",
-          "score": 97
-        },
-        {
-          "keyword": "anhelina kalinina",
-          "score": 96
-        },
-        {
-          "keyword": "max verstappen",
-          "score": 95
-        },
-        {
-          "keyword": "alice walton",
-          "score": 94
-        },
-        {
-          "keyword": "marshall manning",
-          "score": 93
-        },
-        {
-          "keyword": "hawaii flash flooding",
-          "score": 92
-        },
-        {
-          "keyword": "denver weather",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-15T09:36:55.669Z",
       "geo": "US",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "the middle",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-19T09:33:25.535Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "madeline scoon",
+          "score": 100
+        },
+        {
+          "keyword": "william shatner",
+          "score": 99
+        },
+        {
+          "keyword": "ca",
+          "score": 98
+        },
+        {
+          "keyword": "ashley okland",
+          "score": 97
+        },
+        {
+          "keyword": "nsw",
+          "score": 96
+        },
+        {
+          "keyword": "leonardo",
+          "score": 95
+        },
+        {
+          "keyword": "low-carbon",
+          "score": 94
+        },
+        {
+          "keyword": "easa",
+          "score": 93
+        },
+        {
+          "keyword": "fujian",
+          "score": 92
+        },
+        {
+          "keyword": "statista",
           "score": 91
         }
       ]

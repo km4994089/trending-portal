@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-15T08:59:29.499Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大相撲",
-          "score": 100
-        },
-        {
-          "keyword": "相撲",
-          "score": 99
-        },
-        {
-          "keyword": "平戸海",
-          "score": 98
-        },
-        {
-          "keyword": "エクスコキュートス",
-          "score": 97
-        },
-        {
-          "keyword": "隆の勝",
-          "score": 96
-        },
-        {
-          "keyword": "アントネッリ",
-          "score": 95
-        },
-        {
-          "keyword": "つば九郎",
-          "score": 94
-        },
-        {
-          "keyword": "レバンガ北海道",
-          "score": 93
-        },
-        {
-          "keyword": "琴風浩一",
-          "score": 92
-        },
-        {
-          "keyword": "nhk 受信料",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-15T09:36:58.164Z",
       "geo": "JP",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "松本洋平文科相",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-19T09:33:28.541Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "スシロー",
+          "score": 100
+        },
+        {
+          "keyword": "松本文科相",
+          "score": 99
+        },
+        {
+          "keyword": "ドクターx ファイナル",
+          "score": 98
+        },
+        {
+          "keyword": "坂田将吾",
+          "score": 97
+        },
+        {
+          "keyword": "平井伸治",
+          "score": 96
+        },
+        {
+          "keyword": "f1 日本グランプリ",
+          "score": 95
+        },
+        {
+          "keyword": "メットライフ生命",
+          "score": 94
+        },
+        {
+          "keyword": "合原明子",
+          "score": 93
+        },
+        {
+          "keyword": "本田 真凜",
+          "score": 92
+        },
+        {
+          "keyword": "王将戦",
           "score": 91
         }
       ]
