@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-15T23:49:25.583Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "chris appelhans",
-          "score": 100
-        },
-        {
-          "keyword": "bradley cooper",
-          "score": 99
-        },
-        {
-          "keyword": "andre agassi",
-          "score": 98
-        },
-        {
-          "keyword": "kfvs12 weather",
-          "score": 97
-        },
-        {
-          "keyword": "karely vs marcela",
-          "score": 96
-        },
-        {
-          "keyword": "timothee chalamet girlfriend",
-          "score": 95
-        },
-        {
-          "keyword": "best supporting actor",
-          "score": 94
-        },
-        {
-          "keyword": "michael b jordan",
-          "score": 93
-        },
-        {
-          "keyword": "zach cregger",
-          "score": 92
-        },
-        {
-          "keyword": "fs1",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-16T01:21:00.701Z",
       "geo": "US",
       "source": "google",
@@ -4275,6 +4228,53 @@
         },
         {
           "keyword": "phil martelli jr",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-19T23:50:09.001Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "michigan basketball",
+          "score": 100
+        },
+        {
+          "keyword": "byu basketball",
+          "score": 99
+        },
+        {
+          "keyword": "where is howard university",
+          "score": 98
+        },
+        {
+          "keyword": "samford university",
+          "score": 97
+        },
+        {
+          "keyword": "emelec - independiente del valle",
+          "score": 96
+        },
+        {
+          "keyword": "howard university",
+          "score": 95
+        },
+        {
+          "keyword": "tufts university",
+          "score": 94
+        },
+        {
+          "keyword": "southern university",
+          "score": 93
+        },
+        {
+          "keyword": "tolima - fortaleza",
+          "score": 92
+        },
+        {
+          "keyword": "suns vs spurs",
           "score": 91
         }
       ]

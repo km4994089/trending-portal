@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-15T23:49:27.164Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "oscars 2026",
-          "score": 100
-        },
-        {
-          "keyword": "프리미어리그",
-          "score": 99
-        },
-        {
-          "keyword": "다닐 메드베데프",
-          "score": 98
-        },
-        {
-          "keyword": "야닉 시너",
-          "score": 97
-        },
-        {
-          "keyword": "비트코인 시세",
-          "score": 96
-        },
-        {
-          "keyword": "아카데미 시상식",
-          "score": 95
-        },
-        {
-          "keyword": "indian wells",
-          "score": 94
-        },
-        {
-          "keyword": "인디언웰스",
-          "score": 93
-        },
-        {
-          "keyword": "liverpool đấu với tottenham",
-          "score": 92
-        },
-        {
-          "keyword": "พยากรณ์อากาศ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-16T01:21:01.958Z",
       "geo": "KR",
       "source": "google",
@@ -4275,6 +4228,53 @@
         },
         {
           "keyword": "지진",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-19T23:50:10.104Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "crimson desert",
+          "score": 100
+        },
+        {
+          "keyword": "aek larnaca vs crystal palace",
+          "score": 99
+        },
+        {
+          "keyword": "aston villa đấu với losc",
+          "score": 98
+        },
+        {
+          "keyword": "aston villa vs losc",
+          "score": 97
+        },
+        {
+          "keyword": "스팀",
+          "score": 96
+        },
+        {
+          "keyword": "진주만",
+          "score": 95
+        },
+        {
+          "keyword": "애스턴 빌라 대 losc 릴",
+          "score": 94
+        },
+        {
+          "keyword": "네타냐후",
+          "score": 93
+        },
+        {
+          "keyword": "다이렉트게임즈",
+          "score": 92
+        },
+        {
+          "keyword": "미트윌란 대 노팅엄 포레스트",
           "score": 91
         }
       ]

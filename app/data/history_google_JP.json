@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-15T23:49:28.644Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "三国競艇",
-          "score": 100
-        },
-        {
-          "keyword": "マイバッハ",
-          "score": 99
-        },
-        {
-          "keyword": "おそ松さん",
-          "score": 98
-        },
-        {
-          "keyword": "ユニクロ 集英社",
-          "score": 97
-        },
-        {
-          "keyword": "物忘れ",
-          "score": 96
-        },
-        {
-          "keyword": "あさイチ",
-          "score": 95
-        },
-        {
-          "keyword": "oscars",
-          "score": 94
-        },
-        {
-          "keyword": "文化放送",
-          "score": 93
-        },
-        {
-          "keyword": "シクサーズ 対 ブレイザーズ",
-          "score": 92
-        },
-        {
-          "keyword": "中越典子",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-16T01:21:03.152Z",
       "geo": "JP",
       "source": "google",
@@ -4275,6 +4228,53 @@
         },
         {
           "keyword": "ゆうちゃみ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-19T23:50:11.512Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ヒート 対 レイカーズ",
+          "score": 100
+        },
+        {
+          "keyword": "桝田沙也香",
+          "score": 99
+        },
+        {
+          "keyword": "東名高速",
+          "score": 98
+        },
+        {
+          "keyword": "鳴門競艇",
+          "score": 97
+        },
+        {
+          "keyword": "羽鳥慎一モーニングショー",
+          "score": 96
+        },
+        {
+          "keyword": "みなとみらい",
+          "score": 95
+        },
+        {
+          "keyword": "ライフ",
+          "score": 94
+        },
+        {
+          "keyword": "長崎西高校",
+          "score": 93
+        },
+        {
+          "keyword": "研ナオコ",
+          "score": 92
+        },
+        {
+          "keyword": "北村一輝",
           "score": 91
         }
       ]
