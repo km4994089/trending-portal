@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-15T19:46:45.824Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sepp straka",
-          "score": 100
-        },
-        {
-          "keyword": "cbs",
-          "score": 99
-        },
-        {
-          "keyword": "extreme heat warning",
-          "score": 98
-        },
-        {
-          "keyword": "oscar cluff",
-          "score": 97
-        },
-        {
-          "keyword": "cbs sports",
-          "score": 96
-        },
-        {
-          "keyword": "seattle reign fc vs orlando pride",
-          "score": 95
-        },
-        {
-          "keyword": "arkansas razorbacks basketball",
-          "score": 94
-        },
-        {
-          "keyword": "mn timberwolves",
-          "score": 93
-        },
-        {
-          "keyword": "zachery ty bryan",
-          "score": 92
-        },
-        {
-          "keyword": "rennes vs losc",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-15T20:17:37.606Z",
       "geo": "US",
       "source": "google",
@@ -4322,6 +4275,53 @@
         },
         {
           "keyword": "gavin doty",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-19T19:58:03.590Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "roma - bolonia",
+          "score": 100
+        },
+        {
+          "keyword": "jack gohlke",
+          "score": 99
+        },
+        {
+          "keyword": "europa league",
+          "score": 98
+        },
+        {
+          "keyword": "amir khan",
+          "score": 97
+        },
+        {
+          "keyword": "iran war oil prices",
+          "score": 96
+        },
+        {
+          "keyword": "has a 16 seed ever beaten a 1 seed",
+          "score": 95
+        },
+        {
+          "keyword": "duke mbb",
+          "score": 94
+        },
+        {
+          "keyword": "aston villa vs losc",
+          "score": 93
+        },
+        {
+          "keyword": "real betis - panathinaikos",
+          "score": 92
+        },
+        {
+          "keyword": "porto vs vfb stuttgart",
           "score": 91
         }
       ]
