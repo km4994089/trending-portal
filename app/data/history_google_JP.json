@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-15T20:17:40.603Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "トランプ大統領",
-          "score": 100
-        },
-        {
-          "keyword": "ラツィオ 対 ミラン",
-          "score": 99
-        },
-        {
-          "keyword": "鹿児島地震",
-          "score": 98
-        },
-        {
-          "keyword": "鳴海唯",
-          "score": 97
-        },
-        {
-          "keyword": "コモ 対 ローマ",
-          "score": 96
-        },
-        {
-          "keyword": "la liga",
-          "score": 95
-        },
-        {
-          "keyword": "スバル レガシィ アウトバック",
-          "score": 94
-        },
-        {
-          "keyword": "spacex launch schedule",
-          "score": 93
-        },
-        {
-          "keyword": "紀平梨花",
-          "score": 92
-        },
-        {
-          "keyword": "ブルーノ・フェルナンデス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-15T20:51:03.763Z",
       "geo": "JP",
       "source": "google",
@@ -4302,6 +4255,53 @@
         },
         {
           "keyword": "ジモティー",
+          "score": 96
+        },
+        {
+          "keyword": "祝日",
+          "score": 95
+        },
+        {
+          "keyword": "宮世琉弥",
+          "score": 94
+        },
+        {
+          "keyword": "有明アリーナ",
+          "score": 93
+        },
+        {
+          "keyword": "フライブルク 対 ゲンク",
+          "score": 92
+        },
+        {
+          "keyword": "吉川愛",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-19T20:35:02.264Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "楽天 不正",
+          "score": 100
+        },
+        {
+          "keyword": "岡部たかし",
+          "score": 99
+        },
+        {
+          "keyword": "ヨーロッパカンファレンスリーグ",
+          "score": 98
+        },
+        {
+          "keyword": "ジモティー",
+          "score": 97
+        },
+        {
+          "keyword": "新名神 通行止め",
           "score": 96
         },
         {

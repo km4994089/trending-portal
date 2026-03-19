@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-15T20:17:37.606Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "indian wells",
-          "score": 100
-        },
-        {
-          "keyword": "dallas goedert",
-          "score": 99
-        },
-        {
-          "keyword": "cole hutson",
-          "score": 98
-        },
-        {
-          "keyword": "purdue university",
-          "score": 97
-        },
-        {
-          "keyword": "ryan coogler",
-          "score": 96
-        },
-        {
-          "keyword": "scottie barnes",
-          "score": 95
-        },
-        {
-          "keyword": "max strus",
-          "score": 94
-        },
-        {
-          "keyword": "porto vs moreirense",
-          "score": 93
-        },
-        {
-          "keyword": "tiffany stratton",
-          "score": 92
-        },
-        {
-          "keyword": "pwhl",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-15T20:51:01.241Z",
       "geo": "US",
       "source": "google",
@@ -4322,6 +4275,53 @@
         },
         {
           "keyword": "porto vs vfb stuttgart",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-19T20:34:59.713Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "porto fc",
+          "score": 100
+        },
+        {
+          "keyword": "george washington university",
+          "score": 99
+        },
+        {
+          "keyword": "msu basketball",
+          "score": 98
+        },
+        {
+          "keyword": "real betis",
+          "score": 97
+        },
+        {
+          "keyword": "grigor dimitrov",
+          "score": 96
+        },
+        {
+          "keyword": "arkansas vs hawaii",
+          "score": 95
+        },
+        {
+          "keyword": "greg gard",
+          "score": 94
+        },
+        {
+          "keyword": "isaiah evans",
+          "score": 93
+        },
+        {
+          "keyword": "where is duke university",
+          "score": 92
+        },
+        {
+          "keyword": "duke injuries",
           "score": 91
         }
       ]

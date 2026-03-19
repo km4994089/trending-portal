@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-15T20:17:39.075Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "엘레나 리바키나",
-          "score": 100
-        },
-        {
-          "keyword": "토트넘 홋스퍼 fc",
-          "score": 99
-        },
-        {
-          "keyword": "ลิเวอร์พูล พบ สเปอร์ส",
-          "score": 98
-        },
-        {
-          "keyword": "토트넘",
-          "score": 97
-        },
-        {
-          "keyword": "마인츠",
-          "score": 96
-        },
-        {
-          "keyword": "barcelona đấu với sevilla",
-          "score": 95
-        },
-        {
-          "keyword": "liverpool vs tottenham",
-          "score": 94
-        },
-        {
-          "keyword": "pl",
-          "score": 93
-        },
-        {
-          "keyword": "fotmob",
-          "score": 92
-        },
-        {
-          "keyword": "리버풀 대 토트넘",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-15T20:51:02.525Z",
       "geo": "KR",
       "source": "google",
@@ -4322,6 +4275,53 @@
         },
         {
           "keyword": "쇼미12",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-19T20:35:01.003Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "애스턴 빌라 대 losc 릴",
+          "score": 100
+        },
+        {
+          "keyword": "네타냐후",
+          "score": 99
+        },
+        {
+          "keyword": "다카이치",
+          "score": 98
+        },
+        {
+          "keyword": "지진",
+          "score": 97
+        },
+        {
+          "keyword": "kick",
+          "score": 96
+        },
+        {
+          "keyword": "김기태",
+          "score": 95
+        },
+        {
+          "keyword": "꼬꼬무",
+          "score": 94
+        },
+        {
+          "keyword": "둘리사우루스",
+          "score": 93
+        },
+        {
+          "keyword": "밀리",
+          "score": 92
+        },
+        {
+          "keyword": "선우",
           "score": 91
         }
       ]
