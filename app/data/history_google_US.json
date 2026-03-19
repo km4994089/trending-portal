@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-15T11:17:30.864Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "날씨",
-          "score": 100
-        },
-        {
-          "keyword": "nyt connections answers",
-          "score": 99
-        },
-        {
-          "keyword": "nyt spelling bee",
-          "score": 98
-        },
-        {
-          "keyword": "firefly",
-          "score": 97
-        },
-        {
-          "keyword": "eid al fitr 2026",
-          "score": 96
-        },
-        {
-          "keyword": "deportivo - barcelona",
-          "score": 95
-        },
-        {
-          "keyword": "kare 11 weather",
-          "score": 94
-        },
-        {
-          "keyword": "marco trungelliti",
-          "score": 93
-        },
-        {
-          "keyword": "tanzid hasan",
-          "score": 92
-        },
-        {
-          "keyword": "u of arizona",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-15T11:45:29.452Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "verona vs genoa",
-          "score": 100
-        },
-        {
-          "keyword": "huffington post",
-          "score": 99
-        },
-        {
-          "keyword": "weather orlando",
-          "score": 98
-        },
-        {
-          "keyword": "msp airport",
-          "score": 97
-        },
-        {
-          "keyword": "florida lotto",
-          "score": 96
-        },
-        {
-          "keyword": "star tribune",
-          "score": 95
-        },
-        {
-          "keyword": "mco tsa wait times",
-          "score": 94
-        },
-        {
-          "keyword": "milwaukee weather",
-          "score": 93
-        },
-        {
-          "keyword": "dog",
-          "score": 92
-        },
-        {
-          "keyword": "auriemma",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-15T12:29:53.285Z",
       "geo": "US",
       "source": "google",
@@ -4604,6 +4510,53 @@
         },
         {
           "keyword": "spacex launch",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-19T11:55:10.272Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tsa precheck",
+          "score": 100
+        },
+        {
+          "keyword": "jordan spieth",
+          "score": 99
+        },
+        {
+          "keyword": "billy porter",
+          "score": 98
+        },
+        {
+          "keyword": "val kilmer",
+          "score": 97
+        },
+        {
+          "keyword": "acuff",
+          "score": 96
+        },
+        {
+          "keyword": "brooks koepka",
+          "score": 95
+        },
+        {
+          "keyword": "gold prices",
+          "score": 94
+        },
+        {
+          "keyword": "myrtle beach weather",
+          "score": 93
+        },
+        {
+          "keyword": "lly stock",
+          "score": 92
+        },
+        {
+          "keyword": "noah igbinoghene",
           "score": 91
         }
       ]
