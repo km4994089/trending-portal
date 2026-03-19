@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-15T01:21:05.375Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이나경",
-          "score": 100
-        },
-        {
-          "keyword": "ufc",
-          "score": 99
-        },
-        {
-          "keyword": "seoul marathon 2026",
-          "score": 98
-        },
-        {
-          "keyword": "weather",
-          "score": 97
-        },
-        {
-          "keyword": "카를로스 알카라스",
-          "score": 96
-        },
-        {
-          "keyword": "날씨예보",
-          "score": 95
-        },
-        {
-          "keyword": "대구날씨",
-          "score": 94
-        },
-        {
-          "keyword": "real madrid đấu với elche",
-          "score": 93
-        },
-        {
-          "keyword": "вест хэм юнайтед – манчестер сити",
-          "score": 92
-        },
-        {
-          "keyword": "天氣",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-15T04:08:55.019Z",
       "geo": "KR",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "붉은사막",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-19T03:59:12.667Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "독도",
+          "score": 100
+        },
+        {
+          "keyword": "에어로케이",
+          "score": 99
+        },
+        {
+          "keyword": "제주도",
+          "score": 98
+        },
+        {
+          "keyword": "하나투어",
+          "score": 97
+        },
+        {
+          "keyword": "국립중앙박물관",
+          "score": 96
+        },
+        {
+          "keyword": "충무아트센터",
+          "score": 95
+        },
+        {
+          "keyword": "inter miami",
+          "score": 94
+        },
+        {
+          "keyword": "휴스턴 대 la 레이커스",
+          "score": 93
+        },
+        {
+          "keyword": "대우건설",
+          "score": 92
+        },
+        {
+          "keyword": "한준호",
           "score": 91
         }
       ]
