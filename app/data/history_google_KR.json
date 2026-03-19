@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-15T17:50:59.070Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "마인츠",
-          "score": 100
-        },
-        {
-          "keyword": "barcelona đấu với sevilla",
-          "score": 99
-        },
-        {
-          "keyword": "liverpool vs tottenham",
-          "score": 98
-        },
-        {
-          "keyword": "pl",
-          "score": 97
-        },
-        {
-          "keyword": "fotmob",
-          "score": 96
-        },
-        {
-          "keyword": "리버풀 대 토트넘",
-          "score": 95
-        },
-        {
-          "keyword": "mu",
-          "score": 94
-        },
-        {
-          "keyword": "평택",
-          "score": 93
-        },
-        {
-          "keyword": "saad masood",
-          "score": 92
-        },
-        {
-          "keyword": "barcelona vs sevilla",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-15T18:24:40.610Z",
       "geo": "KR",
       "source": "google",
@@ -4369,6 +4322,53 @@
         },
         {
           "keyword": "lyon",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-19T18:08:38.071Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "다카이치",
+          "score": 100
+        },
+        {
+          "keyword": "지진",
+          "score": 99
+        },
+        {
+          "keyword": "kick",
+          "score": 98
+        },
+        {
+          "keyword": "하예린",
+          "score": 97
+        },
+        {
+          "keyword": "김기태",
+          "score": 96
+        },
+        {
+          "keyword": "꼬꼬무",
+          "score": 95
+        },
+        {
+          "keyword": "불가항력",
+          "score": 94
+        },
+        {
+          "keyword": "둘리사우루스",
+          "score": 93
+        },
+        {
+          "keyword": "밀리",
+          "score": 92
+        },
+        {
+          "keyword": "선우",
           "score": 91
         }
       ]

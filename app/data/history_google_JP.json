@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-15T17:51:00.143Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "コモ 対 ローマ",
-          "score": 100
-        },
-        {
-          "keyword": "la liga",
-          "score": 99
-        },
-        {
-          "keyword": "スバル レガシィ アウトバック",
-          "score": 98
-        },
-        {
-          "keyword": "紀平梨花",
-          "score": 97
-        },
-        {
-          "keyword": "マンチェスターユナイテッド",
-          "score": 96
-        },
-        {
-          "keyword": "liverpool vs tottenham",
-          "score": 95
-        },
-        {
-          "keyword": "オランダリーグ",
-          "score": 94
-        },
-        {
-          "keyword": "宮舘涼太",
-          "score": 93
-        },
-        {
-          "keyword": "mu",
-          "score": 92
-        },
-        {
-          "keyword": "リヴァプール 対 トッテナム",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-15T18:24:41.859Z",
       "geo": "JP",
       "source": "google",
@@ -4369,6 +4322,53 @@
         },
         {
           "keyword": "cnn",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-19T18:08:39.740Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "有明アリーナ",
+          "score": 100
+        },
+        {
+          "keyword": "フライブルク 対 ゲンク",
+          "score": 99
+        },
+        {
+          "keyword": "吉川愛",
+          "score": 98
+        },
+        {
+          "keyword": "ソニーフィナンシャルグループ",
+          "score": 97
+        },
+        {
+          "keyword": "志田こはく",
+          "score": 96
+        },
+        {
+          "keyword": "mfゴースト",
+          "score": 95
+        },
+        {
+          "keyword": "身代金は誘拐です 最終回",
+          "score": 94
+        },
+        {
+          "keyword": "小泉孝太郎",
+          "score": 93
+        },
+        {
+          "keyword": "鈴木愛理",
+          "score": 92
+        },
+        {
+          "keyword": "松本まりか",
           "score": 91
         }
       ]
