@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-15T23:19:17.744Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "timothee chalamet",
-          "score": 100
-        },
-        {
-          "keyword": "ted sarandos",
-          "score": 99
-        },
-        {
-          "keyword": "youtube tv",
-          "score": 98
-        },
-        {
-          "keyword": "warriors vs knicks",
-          "score": 97
-        },
-        {
-          "keyword": "utah state basketball",
-          "score": 96
-        },
-        {
-          "keyword": "hawaii basketball",
-          "score": 95
-        },
-        {
-          "keyword": "denny hamlin news",
-          "score": 94
-        },
-        {
-          "keyword": "slu basketball",
-          "score": 93
-        },
-        {
-          "keyword": "cruzeiro x vasco da gama",
-          "score": 92
-        },
-        {
-          "keyword": "bob costas",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-15T23:49:25.583Z",
       "geo": "US",
       "source": "google",
@@ -4275,6 +4228,53 @@
         },
         {
           "keyword": "texas a&m basketball",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-19T23:20:40.156Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "charles barkley",
+          "score": 100
+        },
+        {
+          "keyword": "u of m basketball",
+          "score": 99
+        },
+        {
+          "keyword": "charles barkley weight loss",
+          "score": 98
+        },
+        {
+          "keyword": "taylor townsend",
+          "score": 97
+        },
+        {
+          "keyword": "red sox",
+          "score": 96
+        },
+        {
+          "keyword": "islanders vs senators",
+          "score": 95
+        },
+        {
+          "keyword": "north carolina",
+          "score": 94
+        },
+        {
+          "keyword": "phil martelli",
+          "score": 93
+        },
+        {
+          "keyword": "jury duty season 2",
+          "score": 92
+        },
+        {
+          "keyword": "phil martelli jr",
           "score": 91
         }
       ]
