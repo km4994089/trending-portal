@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-16T21:03:42.143Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "igor thiago",
-          "score": 100
-        },
-        {
-          "keyword": "huda mustafa",
-          "score": 99
-        },
-        {
-          "keyword": "rayo vallecano",
-          "score": 98
-        },
-        {
-          "keyword": "sebastian stan",
-          "score": 97
-        },
-        {
-          "keyword": "gauche",
-          "score": 96
-        },
-        {
-          "keyword": "olandria carthen",
-          "score": 95
-        },
-        {
-          "keyword": "christian kirk",
-          "score": 94
-        },
-        {
-          "keyword": "nemoclaw",
-          "score": 93
-        },
-        {
-          "keyword": "fiorentina",
-          "score": 92
-        },
-        {
-          "keyword": "ignacio buse",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-16T21:58:52.983Z",
       "geo": "US",
       "source": "google",
@@ -4510,6 +4463,53 @@
         },
         {
           "keyword": "villanova basketball",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-20T21:21:34.841Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "miami university basketball",
+          "score": 100
+        },
+        {
+          "keyword": "taylor townsend",
+          "score": 99
+        },
+        {
+          "keyword": "ja'kobi gillespie",
+          "score": 98
+        },
+        {
+          "keyword": "sydney brown",
+          "score": 97
+        },
+        {
+          "keyword": "wally szczerbiak",
+          "score": 96
+        },
+        {
+          "keyword": "ucla",
+          "score": 95
+        },
+        {
+          "keyword": "rick barnes",
+          "score": 94
+        },
+        {
+          "keyword": "águilas doradas - américa",
+          "score": 93
+        },
+        {
+          "keyword": "charles barkley",
+          "score": 92
+        },
+        {
+          "keyword": "kevin willard",
           "score": 91
         }
       ]
