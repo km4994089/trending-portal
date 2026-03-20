@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-16T04:15:45.260Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nashville news",
-          "score": 100
-        },
-        {
-          "keyword": "news channel 2",
-          "score": 99
-        },
-        {
-          "keyword": "live weather",
-          "score": 98
-        },
-        {
-          "keyword": "mjf",
-          "score": 97
-        },
-        {
-          "keyword": "tornado warning louisville ky",
-          "score": 96
-        },
-        {
-          "keyword": "el millonario",
-          "score": 95
-        },
-        {
-          "keyword": "millonario",
-          "score": 94
-        },
-        {
-          "keyword": "emirates",
-          "score": 93
-        },
-        {
-          "keyword": "news channel 4",
-          "score": 92
-        },
-        {
-          "keyword": "andersson garcia",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-16T06:01:42.829Z",
       "geo": "US",
       "source": "google",
@@ -4322,6 +4275,53 @@
         },
         {
           "keyword": "mccartney kessler",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-20T05:11:52.702Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ncaa women's basketball tournament 2026",
+          "score": 100
+        },
+        {
+          "keyword": "santa clara vs kentucky prediction",
+          "score": 99
+        },
+        {
+          "keyword": "lotto",
+          "score": 98
+        },
+        {
+          "keyword": "aditya dhar",
+          "score": 97
+        },
+        {
+          "keyword": "restaurant",
+          "score": 96
+        },
+        {
+          "keyword": "box",
+          "score": 95
+        },
+        {
+          "keyword": "maxime raynaud",
+          "score": 94
+        },
+        {
+          "keyword": "tame impala",
+          "score": 93
+        },
+        {
+          "keyword": "dwyane wade",
+          "score": 92
+        },
+        {
+          "keyword": "king kylie",
           "score": 91
         }
       ]
