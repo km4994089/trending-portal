@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-16T20:27:41.583Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "엔비디아",
-          "score": 100
-        },
-        {
-          "keyword": "에어팟 맥스2",
-          "score": 99
-        },
-        {
-          "keyword": "로빈 거닝엄",
-          "score": 98
-        },
-        {
-          "keyword": "나나",
-          "score": 97
-        },
-        {
-          "keyword": "인순이",
-          "score": 96
-        },
-        {
-          "keyword": "하지원",
-          "score": 95
-        },
-        {
-          "keyword": "클라이맥스",
-          "score": 94
-        },
-        {
-          "keyword": "일곱개의 대죄 오리진",
-          "score": 93
-        },
-        {
-          "keyword": "김병헌",
-          "score": 92
-        },
-        {
-          "keyword": "남도형",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-16T21:03:43.754Z",
       "geo": "KR",
       "source": "google",
@@ -4510,6 +4463,53 @@
         },
         {
           "keyword": "박신양",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-20T20:54:43.598Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "맨유",
+          "score": 100
+        },
+        {
+          "keyword": "blockchain technology",
+          "score": 99
+        },
+        {
+          "keyword": "본머스 대 맨유",
+          "score": 98
+        },
+        {
+          "keyword": "bfx",
+          "score": 97
+        },
+        {
+          "keyword": "퍼스트 스탠드",
+          "score": 96
+        },
+        {
+          "keyword": "배나라",
+          "score": 95
+        },
+        {
+          "keyword": "이토준지",
+          "score": 94
+        },
+        {
+          "keyword": "척 노리스",
+          "score": 93
+        },
+        {
+          "keyword": "박보검",
+          "score": 92
+        },
+        {
+          "keyword": "chuck norris",
           "score": 91
         }
       ]
