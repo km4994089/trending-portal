@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-16T12:46:51.259Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ボリビア",
-          "score": 100
-        },
-        {
-          "keyword": "向井理",
-          "score": 99
-        },
-        {
-          "keyword": "早乙女太一",
-          "score": 98
-        },
-        {
-          "keyword": "内田理央",
-          "score": 97
-        },
-        {
-          "keyword": "abematv",
-          "score": 96
-        },
-        {
-          "keyword": "筧美和子",
-          "score": 95
-        },
-        {
-          "keyword": "カズレーザー",
-          "score": 94
-        },
-        {
-          "keyword": "やくみつる",
-          "score": 93
-        },
-        {
-          "keyword": "高木菜那",
-          "score": 92
-        },
-        {
-          "keyword": "ペルー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-16T14:14:52.771Z",
       "geo": "JP",
       "source": "google",
@@ -4463,6 +4416,53 @@
         },
         {
           "keyword": "ドゥブロヴニク",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-20T13:54:36.700Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "青ヶ島",
+          "score": 100
+        },
+        {
+          "keyword": "lng",
+          "score": 99
+        },
+        {
+          "keyword": "アルバルク東京",
+          "score": 98
+        },
+        {
+          "keyword": "小林聡美",
+          "score": 97
+        },
+        {
+          "keyword": "山田裕貴",
+          "score": 96
+        },
+        {
+          "keyword": "マイケルジョーダン",
+          "score": 95
+        },
+        {
+          "keyword": "タイムレス",
+          "score": 94
+        },
+        {
+          "keyword": "西野七瀬",
+          "score": 93
+        },
+        {
+          "keyword": "室伏広治",
+          "score": 92
+        },
+        {
+          "keyword": "川合俊一",
           "score": 91
         }
       ]
