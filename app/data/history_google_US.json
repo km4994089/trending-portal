@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-16T16:53:28.266Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "segun olubi",
-          "score": 100
-        },
-        {
-          "keyword": "kennedy center",
-          "score": 99
-        },
-        {
-          "keyword": "samsung galaxy z fold 8",
-          "score": 98
-        },
-        {
-          "keyword": "nate diaz",
-          "score": 97
-        },
-        {
-          "keyword": "birmingham weather",
-          "score": 96
-        },
-        {
-          "keyword": "xfinity",
-          "score": 95
-        },
-        {
-          "keyword": "dandan secret lair",
-          "score": 94
-        },
-        {
-          "keyword": "internet outage",
-          "score": 93
-        },
-        {
-          "keyword": "save america act",
-          "score": 92
-        },
-        {
-          "keyword": "topps",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-16T17:53:41.174Z",
       "geo": "US",
       "source": "google",
@@ -4463,6 +4416,53 @@
         },
         {
           "keyword": "sara eisen",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-20T17:28:57.893Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "trutv",
+          "score": 100
+        },
+        {
+          "keyword": "amanda anisimova",
+          "score": 99
+        },
+        {
+          "keyword": "john groce",
+          "score": 98
+        },
+        {
+          "keyword": "skylar jones",
+          "score": 97
+        },
+        {
+          "keyword": "jax forrest",
+          "score": 96
+        },
+        {
+          "keyword": "collin chandler",
+          "score": 95
+        },
+        {
+          "keyword": "james marsden",
+          "score": 94
+        },
+        {
+          "keyword": "cagliari vs napoli",
+          "score": 93
+        },
+        {
+          "keyword": "jt toppin",
+          "score": 92
+        },
+        {
+          "keyword": "jayden quaintance",
           "score": 91
         }
       ]
