@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-16T21:58:52.983Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ben bartch",
-          "score": 100
-        },
-        {
-          "keyword": "dune",
-          "score": 99
-        },
-        {
-          "keyword": "jauan jennings",
-          "score": 98
-        },
-        {
-          "keyword": "greg bovino",
-          "score": 97
-        },
-        {
-          "keyword": "uber stock",
-          "score": 96
-        },
-        {
-          "keyword": "igor thiago",
-          "score": 95
-        },
-        {
-          "keyword": "huda mustafa",
-          "score": 94
-        },
-        {
-          "keyword": "rayo vallecano",
-          "score": 93
-        },
-        {
-          "keyword": "sebastian stan",
-          "score": 92
-        },
-        {
-          "keyword": "gauche",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-16T22:33:10.074Z",
       "geo": "US",
       "source": "google",
@@ -4557,6 +4510,53 @@
         },
         {
           "keyword": "miami university basketball",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-20T22:17:43.490Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "coco gauff",
+          "score": 100
+        },
+        {
+          "keyword": "holy cross women's basketball",
+          "score": 99
+        },
+        {
+          "keyword": "bruno fernandes",
+          "score": 98
+        },
+        {
+          "keyword": "peter suder",
+          "score": 97
+        },
+        {
+          "keyword": "queens university basketball",
+          "score": 96
+        },
+        {
+          "keyword": "northern iowa basketball",
+          "score": 95
+        },
+        {
+          "keyword": "elisabetta cocciaretto",
+          "score": 94
+        },
+        {
+          "keyword": "harry maguire",
+          "score": 93
+        },
+        {
+          "keyword": "reilly opelka",
+          "score": 92
+        },
+        {
+          "keyword": "labaron philon",
           "score": 91
         }
       ]
