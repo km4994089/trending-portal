@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-16T14:14:49.422Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "smci stock",
-          "score": 100
-        },
-        {
-          "keyword": "nasdaq index",
-          "score": 99
-        },
-        {
-          "keyword": "soun stock",
-          "score": 98
-        },
-        {
-          "keyword": "charles schwab",
-          "score": 97
-        },
-        {
-          "keyword": "sandisk stock",
-          "score": 96
-        },
-        {
-          "keyword": "intc stock",
-          "score": 95
-        },
-        {
-          "keyword": "ionq stock",
-          "score": 94
-        },
-        {
-          "keyword": "marketwatch",
-          "score": 93
-        },
-        {
-          "keyword": "nio stock",
-          "score": 92
-        },
-        {
-          "keyword": "baylor university",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-16T15:36:37.307Z",
       "geo": "US",
       "source": "google",
@@ -4463,6 +4416,53 @@
         },
         {
           "keyword": "tim roth",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-20T15:34:07.959Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cbs news radio",
+          "score": 100
+        },
+        {
+          "keyword": "anna blinkova",
+          "score": 99
+        },
+        {
+          "keyword": "sara eisen",
+          "score": 98
+        },
+        {
+          "keyword": "jonathan wheatley",
+          "score": 97
+        },
+        {
+          "keyword": "morgan freeman",
+          "score": 96
+        },
+        {
+          "keyword": "miami weather",
+          "score": 95
+        },
+        {
+          "keyword": "neurosis band",
+          "score": 94
+        },
+        {
+          "keyword": "celebrity deaths",
+          "score": 93
+        },
+        {
+          "keyword": "william shatner",
+          "score": 92
+        },
+        {
+          "keyword": "arnold schwarzenegger",
           "score": 91
         }
       ]
