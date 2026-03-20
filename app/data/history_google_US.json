@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-16T10:44:33.869Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "artificial intelligence news",
-          "score": 100
-        },
-        {
-          "keyword": "385tb myrient video game archive",
-          "score": 99
-        },
-        {
-          "keyword": "people",
-          "score": 98
-        },
-        {
-          "keyword": "entergy",
-          "score": 97
-        },
-        {
-          "keyword": "hbo shows",
-          "score": 96
-        },
-        {
-          "keyword": "nbis stock",
-          "score": 95
-        },
-        {
-          "keyword": "weather boston",
-          "score": 94
-        },
-        {
-          "keyword": "road conditions kansas city",
-          "score": 93
-        },
-        {
-          "keyword": "atlanta airport",
-          "score": 92
-        },
-        {
-          "keyword": "detroit weather",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-16T11:39:15.259Z",
       "geo": "US",
       "source": "google",
@@ -4416,6 +4369,53 @@
         },
         {
           "keyword": "kendra wilkinson",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-20T11:03:52.183Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "parker mccollum",
+          "score": 100
+        },
+        {
+          "keyword": "the fall off rapper",
+          "score": 99
+        },
+        {
+          "keyword": "bryson dechambeau",
+          "score": 98
+        },
+        {
+          "keyword": "axios",
+          "score": 97
+        },
+        {
+          "keyword": "persian new year",
+          "score": 96
+        },
+        {
+          "keyword": "braves",
+          "score": 95
+        },
+        {
+          "keyword": "stephen a smith",
+          "score": 94
+        },
+        {
+          "keyword": "eid prayer",
+          "score": 93
+        },
+        {
+          "keyword": "kehlani",
+          "score": 92
+        },
+        {
+          "keyword": "electric vehicles",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-16T10:44:36.255Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ラウール",
-          "score": 100
-        },
-        {
-          "keyword": "西野カナ",
-          "score": 99
-        },
-        {
-          "keyword": "よみうりランド",
-          "score": 98
-        },
-        {
-          "keyword": "スピード",
-          "score": 97
-        },
-        {
-          "keyword": "マシンガンズ",
-          "score": 96
-        },
-        {
-          "keyword": "市川由衣",
-          "score": 95
-        },
-        {
-          "keyword": "長野県",
-          "score": 94
-        },
-        {
-          "keyword": "valorant ミクス",
-          "score": 93
-        },
-        {
-          "keyword": "本木雅弘",
-          "score": 92
-        },
-        {
-          "keyword": "なえなの",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-16T11:39:18.146Z",
       "geo": "JP",
       "source": "google",
@@ -4416,6 +4369,53 @@
         },
         {
           "keyword": "今日の月",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-20T11:03:54.896Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "目黒蓮",
+          "score": 100
+        },
+        {
+          "keyword": "ミスタードーナツ",
+          "score": 99
+        },
+        {
+          "keyword": "長嶋一茂",
+          "score": 98
+        },
+        {
+          "keyword": "ウルトラマン",
+          "score": 97
+        },
+        {
+          "keyword": "富山ラーメンフェス",
+          "score": 96
+        },
+        {
+          "keyword": "常総市",
+          "score": 95
+        },
+        {
+          "keyword": "ラムー",
+          "score": 94
+        },
+        {
+          "keyword": "glay",
+          "score": 93
+        },
+        {
+          "keyword": "成蹊大学",
+          "score": 92
+        },
+        {
+          "keyword": "楽天イーグルス",
           "score": 91
         }
       ]
