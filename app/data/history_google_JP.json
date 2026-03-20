@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-16T23:22:21.561Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "モーニングショー",
-          "score": 100
-        },
-        {
-          "keyword": "人工ダイヤモンド",
-          "score": 99
-        },
-        {
-          "keyword": "酒主義久",
-          "score": 98
-        },
-        {
-          "keyword": "ばけばけ ネタバレ",
-          "score": 97
-        },
-        {
-          "keyword": "ネイマール",
-          "score": 96
-        },
-        {
-          "keyword": "ファミマ ウマ娘",
-          "score": 95
-        },
-        {
-          "keyword": "篠原梨菜",
-          "score": 94
-        },
-        {
-          "keyword": "ウィザーズ 対 ウォリアーズ",
-          "score": 93
-        },
-        {
-          "keyword": "ドジャース",
-          "score": 92
-        },
-        {
-          "keyword": "斎藤工",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-16T23:49:19.537Z",
       "geo": "JP",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "3/21 イベント",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-20T23:49:01.132Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ズーラシア",
+          "score": 100
+        },
+        {
+          "keyword": "ピストンズ 対 ウォリアーズ",
+          "score": 99
+        },
+        {
+          "keyword": "鈴木京香",
+          "score": 98
+        },
+        {
+          "keyword": "伊勢神宮",
+          "score": 97
+        },
+        {
+          "keyword": "ミニストップ",
+          "score": 96
+        },
+        {
+          "keyword": "出雲大社",
+          "score": 95
+        },
+        {
+          "keyword": "niat sholat idul fitri",
+          "score": 94
+        },
+        {
+          "keyword": "中央道 渋滞",
+          "score": 93
+        },
+        {
+          "keyword": "花見",
+          "score": 92
+        },
+        {
+          "keyword": "京都駅",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-16T23:22:18.686Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "the bachelorette 2026",
-          "score": 100
-        },
-        {
-          "keyword": "baghdad",
-          "score": 99
-        },
-        {
-          "keyword": "fire near me",
-          "score": 98
-        },
-        {
-          "keyword": "dolly parton",
-          "score": 97
-        },
-        {
-          "keyword": "marty york",
-          "score": 96
-        },
-        {
-          "keyword": "suns vs celtics",
-          "score": 95
-        },
-        {
-          "keyword": "bruins vs devils",
-          "score": 94
-        },
-        {
-          "keyword": "flames vs red wings",
-          "score": 93
-        },
-        {
-          "keyword": "kings vs rangers",
-          "score": 92
-        },
-        {
-          "keyword": "trail blazers vs nets",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-16T23:49:17.219Z",
       "geo": "US",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "knicks vs nets",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-20T23:48:58.932Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tyler bilodeau",
+          "score": 100
+        },
+        {
+          "keyword": "john bol",
+          "score": 99
+        },
+        {
+          "keyword": "st john's basketball",
+          "score": 98
+        },
+        {
+          "keyword": "rick pitino",
+          "score": 97
+        },
+        {
+          "keyword": "charles barkley weight loss",
+          "score": 96
+        },
+        {
+          "keyword": "celtics vs grizzlies",
+          "score": 95
+        },
+        {
+          "keyword": "hawks vs rockets",
+          "score": 94
+        },
+        {
+          "keyword": "trail blazers vs timberwolves",
+          "score": 93
+        },
+        {
+          "keyword": "ready or not",
+          "score": 92
+        },
+        {
+          "keyword": "vcx",
           "score": 91
         }
       ]
