@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-16T09:54:29.156Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "power outage",
-          "score": 100
-        },
-        {
-          "keyword": "online lottery",
-          "score": 99
-        },
-        {
-          "keyword": "school closings",
-          "score": 98
-        },
-        {
-          "keyword": "weather channel",
-          "score": 97
-        },
-        {
-          "keyword": "cobb county schools",
-          "score": 96
-        },
-        {
-          "keyword": "troye sivan",
-          "score": 95
-        },
-        {
-          "keyword": "دعاء ليلة القدر مكتوب",
-          "score": 94
-        },
-        {
-          "keyword": "gcps",
-          "score": 93
-        },
-        {
-          "keyword": "power outage near me",
-          "score": 92
-        },
-        {
-          "keyword": "weather philadelphia",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-16T10:44:33.869Z",
       "geo": "US",
       "source": "google",
@@ -4416,6 +4369,53 @@
         },
         {
           "keyword": "stock market news today",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-20T10:28:27.718Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sabres score",
+          "score": 100
+        },
+        {
+          "keyword": "strands hint today",
+          "score": 99
+        },
+        {
+          "keyword": "spacex rocket launch",
+          "score": 98
+        },
+        {
+          "keyword": "jason momoa",
+          "score": 97
+        },
+        {
+          "keyword": "flyers score",
+          "score": 96
+        },
+        {
+          "keyword": "justin bieber",
+          "score": 95
+        },
+        {
+          "keyword": "game crimson desert",
+          "score": 94
+        },
+        {
+          "keyword": "housing prices",
+          "score": 93
+        },
+        {
+          "keyword": "ali mohammad naeini",
+          "score": 92
+        },
+        {
+          "keyword": "kendra wilkinson",
           "score": 91
         }
       ]
