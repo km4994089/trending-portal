@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-16T06:01:43.844Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "제주항공",
-          "score": 100
-        },
-        {
-          "keyword": "지투지바이오",
-          "score": 99
-        },
-        {
-          "keyword": "이더리움",
-          "score": 98
-        },
-        {
-          "keyword": "진에어",
-          "score": 97
-        },
-        {
-          "keyword": "국민체력100",
-          "score": 96
-        },
-        {
-          "keyword": "송민호",
-          "score": 95
-        },
-        {
-          "keyword": "토스 행운퀴즈 정답",
-          "score": 94
-        },
-        {
-          "keyword": "체이스 인피니티",
-          "score": 93
-        },
-        {
-          "keyword": "메이슨 밀러",
-          "score": 92
-        },
-        {
-          "keyword": "판문점",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-16T07:51:53.216Z",
       "geo": "KR",
       "source": "google",
@@ -4322,6 +4275,53 @@
         },
         {
           "keyword": "대우건설 주가",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-20T06:10:02.365Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "대전 화재",
+          "score": 100
+        },
+        {
+          "keyword": "한국철도공사",
+          "score": 99
+        },
+        {
+          "keyword": "코레일",
+          "score": 98
+        },
+        {
+          "keyword": "lili reinhart",
+          "score": 97
+        },
+        {
+          "keyword": "롯데콘서트홀",
+          "score": 96
+        },
+        {
+          "keyword": "엘지트윈스",
+          "score": 95
+        },
+        {
+          "keyword": "하이브 주가",
+          "score": 94
+        },
+        {
+          "keyword": "하나증권",
+          "score": 93
+        },
+        {
+          "keyword": "김현",
+          "score": 92
+        },
+        {
+          "keyword": "김재원",
           "score": 91
         }
       ]

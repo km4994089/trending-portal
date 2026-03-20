@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-16T06:01:44.592Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "炎鵬",
-          "score": 100
-        },
-        {
-          "keyword": "鈴木亜美",
-          "score": 99
-        },
-        {
-          "keyword": "山崎健二",
-          "score": 98
-        },
-        {
-          "keyword": "所得税",
-          "score": 97
-        },
-        {
-          "keyword": "千歳市民病院",
-          "score": 96
-        },
-        {
-          "keyword": "ジャンボたかお",
-          "score": 95
-        },
-        {
-          "keyword": "中国電力",
-          "score": 94
-        },
-        {
-          "keyword": "ココス",
-          "score": 93
-        },
-        {
-          "keyword": "梅沢富美男",
-          "score": 92
-        },
-        {
-          "keyword": "キングス 対 ジャズ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-16T07:51:54.624Z",
       "geo": "JP",
       "source": "google",
@@ -4322,6 +4275,53 @@
         },
         {
           "keyword": "weverse",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-20T06:10:03.728Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "スターウォーズ エピソード1",
+          "score": 100
+        },
+        {
+          "keyword": "パクヒョンギョン",
+          "score": 99
+        },
+        {
+          "keyword": "シエンタ",
+          "score": 98
+        },
+        {
+          "keyword": "ソフトバンクホークス",
+          "score": 97
+        },
+        {
+          "keyword": "日本代表 ユニフォーム",
+          "score": 96
+        },
+        {
+          "keyword": "dazn",
+          "score": 95
+        },
+        {
+          "keyword": "智弁和歌山",
+          "score": 94
+        },
+        {
+          "keyword": "熱田神宮",
+          "score": 93
+        },
+        {
+          "keyword": "スターウォーズ",
+          "score": 92
+        },
+        {
+          "keyword": "サーティワン",
           "score": 91
         }
       ]
