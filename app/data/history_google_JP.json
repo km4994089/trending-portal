@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-17T06:36:00.285Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "switch2 アップデート",
-          "score": 100
-        },
-        {
-          "keyword": "わさビーフ",
-          "score": 99
-        },
-        {
-          "keyword": "中央線",
-          "score": 98
-        },
-        {
-          "keyword": "山添拓",
-          "score": 97
-        },
-        {
-          "keyword": "宮古島 停電",
-          "score": 96
-        },
-        {
-          "keyword": "高橋文哉",
-          "score": 95
-        },
-        {
-          "keyword": "ベネチア",
-          "score": 94
-        },
-        {
-          "keyword": "rakuten ai 3.0",
-          "score": 93
-        },
-        {
-          "keyword": "jba",
-          "score": 92
-        },
-        {
-          "keyword": "リーフ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-17T07:47:31.457Z",
       "geo": "JP",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "パスマーケット",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-21T06:44:51.809Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "イラン ホルムズ 海峡",
+          "score": 100
+        },
+        {
+          "keyword": "北照高校 甲子園",
+          "score": 99
+        },
+        {
+          "keyword": "重盛さと美",
+          "score": 98
+        },
+        {
+          "keyword": "日経平均株価先物",
+          "score": 97
+        },
+        {
+          "keyword": "勝地涼",
+          "score": 96
+        },
+        {
+          "keyword": "トリニータ",
+          "score": 95
+        },
+        {
+          "keyword": "モーニング娘",
+          "score": 94
+        },
+        {
+          "keyword": "ファイターズ",
+          "score": 93
+        },
+        {
+          "keyword": "fc岐阜",
+          "score": 92
+        },
+        {
+          "keyword": "若葉ステークス",
           "score": 91
         }
       ]
