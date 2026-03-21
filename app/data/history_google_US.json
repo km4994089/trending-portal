@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-17T08:39:25.105Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "insurance",
-          "score": 100
-        },
-        {
-          "keyword": "power outage near me",
-          "score": 99
-        },
-        {
-          "keyword": "arc raiders",
-          "score": 98
-        },
-        {
-          "keyword": "criminal defense lawyer",
-          "score": 97
-        },
-        {
-          "keyword": "latest news",
-          "score": 96
-        },
-        {
-          "keyword": "el niño southern oscillation",
-          "score": 95
-        },
-        {
-          "keyword": "artificial intelligence news",
-          "score": 94
-        },
-        {
-          "keyword": "ins",
-          "score": 93
-        },
-        {
-          "keyword": "chadwick boseman",
-          "score": 92
-        },
-        {
-          "keyword": "landman season 3",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-17T09:44:16.137Z",
       "geo": "US",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "amazon video",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-21T08:54:15.338Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "auto accident lawyer",
+          "score": 100
+        },
+        {
+          "keyword": "royal caribbean cruise lines",
+          "score": 99
+        },
+        {
+          "keyword": "best tv brands",
+          "score": 98
+        },
+        {
+          "keyword": "allen iverson",
+          "score": 97
+        },
+        {
+          "keyword": "18 wheeler accident lawyer",
+          "score": 96
+        },
+        {
+          "keyword": "riot",
+          "score": 95
+        },
+        {
+          "keyword": "injury lawyer",
+          "score": 94
+        },
+        {
+          "keyword": "quentin tarantino",
+          "score": 93
+        },
+        {
+          "keyword": "final destination",
+          "score": 92
+        },
+        {
+          "keyword": "austin butler",
           "score": 91
         }
       ]

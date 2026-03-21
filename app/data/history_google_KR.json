@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-17T08:39:26.394Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "공시지가",
-          "score": 100
-        },
-        {
-          "keyword": "카카오뱅크",
-          "score": 99
-        },
-        {
-          "keyword": "고군분투",
-          "score": 98
-        },
-        {
-          "keyword": "운전면허 적성검사",
-          "score": 97
-        },
-        {
-          "keyword": "판문점",
-          "score": 96
-        },
-        {
-          "keyword": "이휘재",
-          "score": 95
-        },
-        {
-          "keyword": "이장우",
-          "score": 94
-        },
-        {
-          "keyword": "박수민",
-          "score": 93
-        },
-        {
-          "keyword": "로버트 패틴슨",
-          "score": 92
-        },
-        {
-          "keyword": "wbc 결승",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-17T09:44:17.692Z",
       "geo": "KR",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "프로야구 개막",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-21T08:54:16.843Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "롯데자이언츠",
+          "score": 100
+        },
+        {
+          "keyword": "청주 대 안산 그리너스",
+          "score": 99
+        },
+        {
+          "keyword": "염혜란",
+          "score": 98
+        },
+        {
+          "keyword": "최지수",
+          "score": 97
+        },
+        {
+          "keyword": "하예린",
+          "score": 96
+        },
+        {
+          "keyword": "기아",
+          "score": 95
+        },
+        {
+          "keyword": "정현창",
+          "score": 94
+        },
+        {
+          "keyword": "변우석",
+          "score": 93
+        },
+        {
+          "keyword": "성남 대 충남 아산 fc",
+          "score": 92
+        },
+        {
+          "keyword": "고양 소노 대 울산 현대모비스",
           "score": 91
         }
       ]

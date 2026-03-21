@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-17T08:39:27.667Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "両国",
-          "score": 100
-        },
-        {
-          "keyword": "霧島 力士",
-          "score": 99
-        },
-        {
-          "keyword": "坂戸市",
-          "score": 98
-        },
-        {
-          "keyword": "太宰府インター",
-          "score": 97
-        },
-        {
-          "keyword": "公示地価",
-          "score": 96
-        },
-        {
-          "keyword": "一山本",
-          "score": 95
-        },
-        {
-          "keyword": "メットライフ生命",
-          "score": 94
-        },
-        {
-          "keyword": "浜名湖競艇",
-          "score": 93
-        },
-        {
-          "keyword": "イカナゴ",
-          "score": 92
-        },
-        {
-          "keyword": "朝乃山",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-17T09:44:18.866Z",
       "geo": "JP",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "落合陽一",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-21T08:54:18.296Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "一山本",
+          "score": 100
+        },
+        {
+          "keyword": "熱海富士",
+          "score": 99
+        },
+        {
+          "keyword": "アジアカップ女子サッカー",
+          "score": 98
+        },
+        {
+          "keyword": "文春オンライン",
+          "score": 97
+        },
+        {
+          "keyword": "相撲 番付",
+          "score": 96
+        },
+        {
+          "keyword": "ネットフリックス おすすめ",
+          "score": 95
+        },
+        {
+          "keyword": "王鵬",
+          "score": 94
+        },
+        {
+          "keyword": "中日ドラゴンズ",
+          "score": 93
+        },
+        {
+          "keyword": "鎌倉",
+          "score": 92
+        },
+        {
+          "keyword": "徳島マラソン",
           "score": 91
         }
       ]
