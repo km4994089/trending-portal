@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-17T20:30:57.873Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "チェルシー",
-          "score": 100
-        },
-        {
-          "keyword": "uefaチャンピオンズリーグ",
-          "score": 99
-        },
-        {
-          "keyword": "real madrid",
-          "score": 98
-        },
-        {
-          "keyword": "マンチェスターシティ",
-          "score": 97
-        },
-        {
-          "keyword": "チャンピオンズリーグ",
-          "score": 96
-        },
-        {
-          "keyword": "chelsea vs psg",
-          "score": 95
-        },
-        {
-          "keyword": "arsenal vs leverkusen",
-          "score": 94
-        },
-        {
-          "keyword": "ナスダック総合指数",
-          "score": 93
-        },
-        {
-          "keyword": "abema",
-          "score": 92
-        },
-        {
-          "keyword": "wowow",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-17T21:05:03.497Z",
       "geo": "JP",
       "source": "google",
@@ -5262,6 +5215,53 @@
         },
         {
           "keyword": "everton vs chelsea",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-21T20:47:13.331Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "丸亀製麺",
+          "score": 100
+        },
+        {
+          "keyword": "ユヴェントス 対 サッスオーロ",
+          "score": 99
+        },
+        {
+          "keyword": "阪神大賞典 2026",
+          "score": 98
+        },
+        {
+          "keyword": "ニース 対 パリsg",
+          "score": 97
+        },
+        {
+          "keyword": "田中雄士",
+          "score": 96
+        },
+        {
+          "keyword": "robert mueller",
+          "score": 95
+        },
+        {
+          "keyword": "大坂なおみ",
+          "score": 94
+        },
+        {
+          "keyword": "坂本怜",
+          "score": 93
+        },
+        {
+          "keyword": "スウォンジー 対 コベントリー",
+          "score": 92
+        },
+        {
+          "keyword": "山岡家",
           "score": 91
         }
       ]
