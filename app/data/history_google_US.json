@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-17T19:49:09.432Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "luis suárez",
-          "score": 100
-        },
-        {
-          "keyword": "derek hough",
-          "score": 99
-        },
-        {
-          "keyword": "manchester city - real madrid",
-          "score": 98
-        },
-        {
-          "keyword": "arsenal vs leverkusen",
-          "score": 97
-        },
-        {
-          "keyword": "chelsea vs psg",
-          "score": 96
-        },
-        {
-          "keyword": "chelsea - psg",
-          "score": 95
-        },
-        {
-          "keyword": "afroman",
-          "score": 94
-        },
-        {
-          "keyword": "coachella",
-          "score": 93
-        },
-        {
-          "keyword": "ucl games",
-          "score": 92
-        },
-        {
-          "keyword": "gonçalo inácio",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-17T20:30:55.499Z",
       "geo": "US",
       "source": "google",
@@ -5262,6 +5215,53 @@
         },
         {
           "keyword": "sarah strong",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-21T20:15:05.432Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "iowa women's basketball",
+          "score": 100
+        },
+        {
+          "keyword": "scottie pippen",
+          "score": 99
+        },
+        {
+          "keyword": "amanda anisimova",
+          "score": 98
+        },
+        {
+          "keyword": "mike and nick and nick and alice",
+          "score": 97
+        },
+        {
+          "keyword": "pat summitt",
+          "score": 96
+        },
+        {
+          "keyword": "geno auriemma",
+          "score": 95
+        },
+        {
+          "keyword": "stars vs wild",
+          "score": 94
+        },
+        {
+          "keyword": "sabres vs kings",
+          "score": 93
+        },
+        {
+          "keyword": "flyers vs sharks",
+          "score": 92
+        },
+        {
+          "keyword": "chicago vs philadelphia",
           "score": 91
         }
       ]
