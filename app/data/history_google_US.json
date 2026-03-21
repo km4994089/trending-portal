@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-17T14:13:37.850Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nyc fire",
-          "score": 100
-        },
-        {
-          "keyword": "meteor explosion",
-          "score": 99
-        },
-        {
-          "keyword": "joe kent",
-          "score": 98
-        },
-        {
-          "keyword": "wews",
-          "score": 97
-        },
-        {
-          "keyword": "meteor strike",
-          "score": 96
-        },
-        {
-          "keyword": "ubs",
-          "score": 95
-        },
-        {
-          "keyword": "riz ahmed",
-          "score": 94
-        },
-        {
-          "keyword": "mini crossword answers",
-          "score": 93
-        },
-        {
-          "keyword": "fox 8 news cleveland",
-          "score": 92
-        },
-        {
-          "keyword": "meteor",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-17T15:35:02.359Z",
       "geo": "US",
       "source": "google",
@@ -4933,6 +4886,53 @@
         },
         {
           "keyword": "banfield",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-21T14:19:24.171Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sean duffy",
+          "score": 100
+        },
+        {
+          "keyword": "tina peters",
+          "score": 99
+        },
+        {
+          "keyword": "elon musk tsa",
+          "score": 98
+        },
+        {
+          "keyword": "katie couric",
+          "score": 97
+        },
+        {
+          "keyword": "heidenheim vs leverkusen",
+          "score": 96
+        },
+        {
+          "keyword": "parma vs cremonese",
+          "score": 95
+        },
+        {
+          "keyword": "bayern vs union berlin",
+          "score": 94
+        },
+        {
+          "keyword": "march madness today",
+          "score": 93
+        },
+        {
+          "keyword": "tcu vs duke prediction",
+          "score": 92
+        },
+        {
+          "keyword": "kathy hochul",
           "score": 91
         }
       ]

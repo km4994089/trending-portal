@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-17T14:13:40.743Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "年金",
-          "score": 100
-        },
-        {
-          "keyword": "スラムダンク",
-          "score": 99
-        },
-        {
-          "keyword": "パンサー尾形",
-          "score": 98
-        },
-        {
-          "keyword": "粗品",
-          "score": 97
-        },
-        {
-          "keyword": "nemoclaw",
-          "score": 96
-        },
-        {
-          "keyword": "西野七瀬",
-          "score": 95
-        },
-        {
-          "keyword": "華大さんと千鳥くん",
-          "score": 94
-        },
-        {
-          "keyword": "日本製鉄",
-          "score": 93
-        },
-        {
-          "keyword": "poco x8 pro max",
-          "score": 92
-        },
-        {
-          "keyword": "延岡学園",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-17T15:35:05.122Z",
       "geo": "JP",
       "source": "google",
@@ -4933,6 +4886,53 @@
         },
         {
           "keyword": "群馬県上野村",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-21T14:19:26.735Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ダウ90000",
+          "score": 100
+        },
+        {
+          "keyword": "爆笑問題",
+          "score": 99
+        },
+        {
+          "keyword": "純烈",
+          "score": 98
+        },
+        {
+          "keyword": "太田光",
+          "score": 97
+        },
+        {
+          "keyword": "ベルギー",
+          "score": 96
+        },
+        {
+          "keyword": "ドイツ",
+          "score": 95
+        },
+        {
+          "keyword": "ナイツ",
+          "score": 94
+        },
+        {
+          "keyword": "宮城大樹",
+          "score": 93
+        },
+        {
+          "keyword": "ロッチ",
+          "score": 92
+        },
+        {
+          "keyword": "田中健",
           "score": 91
         }
       ]

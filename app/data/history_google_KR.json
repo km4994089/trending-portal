@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-17T14:13:39.237Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "오픈클로",
-          "score": 100
-        },
-        {
-          "keyword": "최예나",
-          "score": 99
-        },
-        {
-          "keyword": "질병관리청",
-          "score": 98
-        },
-        {
-          "keyword": "징동",
-          "score": 97
-        },
-        {
-          "keyword": "박성웅",
-          "score": 96
-        },
-        {
-          "keyword": "내일 날씨",
-          "score": 95
-        },
-        {
-          "keyword": "weather tomorrow",
-          "score": 94
-        },
-        {
-          "keyword": "cuaca besok",
-          "score": 93
-        },
-        {
-          "keyword": "thời tiết ngày mai",
-          "score": 92
-        },
-        {
-          "keyword": "시드니 스위니",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-17T15:35:03.641Z",
       "geo": "KR",
       "source": "google",
@@ -4933,6 +4886,53 @@
         },
         {
           "keyword": "aliens",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-21T14:19:25.532Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "환희",
+          "score": 100
+        },
+        {
+          "keyword": "brighton đấu với liverpool",
+          "score": 99
+        },
+        {
+          "keyword": "신이랑 법률사무소",
+          "score": 98
+        },
+        {
+          "keyword": "bts rm",
+          "score": 97
+        },
+        {
+          "keyword": "twitch",
+          "score": 96
+        },
+        {
+          "keyword": "ไบรตัน พบ ลิเวอร์พูล",
+          "score": 95
+        },
+        {
+          "keyword": "채령",
+          "score": 94
+        },
+        {
+          "keyword": "로또1216",
+          "score": 93
+        },
+        {
+          "keyword": "brighton vs liverpool",
+          "score": 92
+        },
+        {
+          "keyword": "sxmb",
           "score": 91
         }
       ]
