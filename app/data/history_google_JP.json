@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-17T05:17:38.353Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jba",
-          "score": 100
-        },
-        {
-          "keyword": "リーフ",
-          "score": 99
-        },
-        {
-          "keyword": "nba 順位",
-          "score": 98
-        },
-        {
-          "keyword": "要マジュロ",
-          "score": 97
-        },
-        {
-          "keyword": "今日好きチップス",
-          "score": 96
-        },
-        {
-          "keyword": "京アニ事件",
-          "score": 95
-        },
-        {
-          "keyword": "黒柳徹子",
-          "score": 94
-        },
-        {
-          "keyword": "モジタバ師",
-          "score": 93
-        },
-        {
-          "keyword": "英検",
-          "score": 92
-        },
-        {
-          "keyword": "サントリー the peel レモン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-17T06:36:00.285Z",
       "geo": "JP",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "パテレ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-21T05:59:12.819Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "炎鵬",
+          "score": 100
+        },
+        {
+          "keyword": "野中瑠衣",
+          "score": 99
+        },
+        {
+          "keyword": "超特急",
+          "score": 98
+        },
+        {
+          "keyword": "松戸市",
+          "score": 97
+        },
+        {
+          "keyword": "古畑星夏",
+          "score": 96
+        },
+        {
+          "keyword": "クラシエカップ",
+          "score": 95
+        },
+        {
+          "keyword": "ファルコンステークス 2026",
+          "score": 94
+        },
+        {
+          "keyword": "ファジアーノ岡山",
+          "score": 93
+        },
+        {
+          "keyword": "スターウォーズ",
+          "score": 92
+        },
+        {
+          "keyword": "パスマーケット",
           "score": 91
         }
       ]

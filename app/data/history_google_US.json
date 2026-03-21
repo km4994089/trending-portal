@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-17T05:17:35.754Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "saint patrick's day",
-          "score": 100
-        },
-        {
-          "keyword": "kate mara",
-          "score": 99
-        },
-        {
-          "keyword": "kabul",
-          "score": 98
-        },
-        {
-          "keyword": "tornado warning nyc",
-          "score": 97
-        },
-        {
-          "keyword": "ja morant",
-          "score": 96
-        },
-        {
-          "keyword": "is zendaya married",
-          "score": 95
-        },
-        {
-          "keyword": "américa - toluca",
-          "score": 94
-        },
-        {
-          "keyword": "nba standings",
-          "score": 93
-        },
-        {
-          "keyword": "daniel arsham",
-          "score": 92
-        },
-        {
-          "keyword": "josh gad",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-17T06:35:57.688Z",
       "geo": "US",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "jimmy fallon",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-21T05:59:10.073Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "iran israel war",
+          "score": 100
+        },
+        {
+          "keyword": "jake gyllenhaal",
+          "score": 99
+        },
+        {
+          "keyword": "jaskirat singh rangi",
+          "score": 98
+        },
+        {
+          "keyword": "sig sauer",
+          "score": 97
+        },
+        {
+          "keyword": "seth macfarlane",
+          "score": 96
+        },
+        {
+          "keyword": "tabla liga mx",
+          "score": 95
+        },
+        {
+          "keyword": "matt painter",
+          "score": 94
+        },
+        {
+          "keyword": "sam patterson",
+          "score": 93
+        },
+        {
+          "keyword": "starlink",
+          "score": 92
+        },
+        {
+          "keyword": "conan gray",
           "score": 91
         }
       ]
