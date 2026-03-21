@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-17T07:47:31.457Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "さだまさし",
-          "score": 100
-        },
-        {
-          "keyword": "炎鵬",
-          "score": 99
-        },
-        {
-          "keyword": "サンバイオ",
-          "score": 98
-        },
-        {
-          "keyword": "ギルティ炭酸",
-          "score": 97
-        },
-        {
-          "keyword": "千代の富士",
-          "score": 96
-        },
-        {
-          "keyword": "ハエラ栄",
-          "score": 95
-        },
-        {
-          "keyword": "booking",
-          "score": 94
-        },
-        {
-          "keyword": "大村崑",
-          "score": 93
-        },
-        {
-          "keyword": "ドクターx",
-          "score": 92
-        },
-        {
-          "keyword": "森重昭",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-17T08:39:27.667Z",
       "geo": "JP",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "ホークス",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-21T07:50:42.051Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "御嶽海",
+          "score": 100
+        },
+        {
+          "keyword": "宇良",
+          "score": 99
+        },
+        {
+          "keyword": "中日",
+          "score": 98
+        },
+        {
+          "keyword": "落合陽一",
+          "score": 97
+        },
+        {
+          "keyword": "荒木大輔",
+          "score": 96
+        },
+        {
+          "keyword": "加藤ローサ",
+          "score": 95
+        },
+        {
+          "keyword": "玉鷲",
+          "score": 94
+        },
+        {
+          "keyword": "朝白龍",
+          "score": 93
+        },
+        {
+          "keyword": "円広志",
+          "score": 92
+        },
+        {
+          "keyword": "阪神タイガース",
           "score": 91
         }
       ]

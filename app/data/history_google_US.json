@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-17T07:47:29.280Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "storm warning",
-          "score": 100
-        },
-        {
-          "keyword": "fort lauderdale airport",
-          "score": 99
-        },
-        {
-          "keyword": "costco recalls",
-          "score": 98
-        },
-        {
-          "keyword": "ri energy",
-          "score": 97
-        },
-        {
-          "keyword": "spiderman brand new day",
-          "score": 96
-        },
-        {
-          "keyword": "report power outage",
-          "score": 95
-        },
-        {
-          "keyword": "d4vd",
-          "score": 94
-        },
-        {
-          "keyword": "weather tornado warnings",
-          "score": 93
-        },
-        {
-          "keyword": "the big show",
-          "score": 92
-        },
-        {
-          "keyword": "ps5 pro",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-17T08:39:25.105Z",
       "geo": "US",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "iran israel war",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-21T07:50:39.045Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "riot",
+          "score": 100
+        },
+        {
+          "keyword": "quentin tarantino",
+          "score": 99
+        },
+        {
+          "keyword": "injury attorney",
+          "score": 98
+        },
+        {
+          "keyword": "injury lawyer",
+          "score": 97
+        },
+        {
+          "keyword": "final destination",
+          "score": 96
+        },
+        {
+          "keyword": "austin butler",
+          "score": 95
+        },
+        {
+          "keyword": "doomsday",
+          "score": 94
+        },
+        {
+          "keyword": "auto accident attorneys",
+          "score": 93
+        },
+        {
+          "keyword": "lindsay lohan",
+          "score": 92
+        },
+        {
+          "keyword": "amazon video",
           "score": 91
         }
       ]
