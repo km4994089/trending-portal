@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-17T22:35:09.243Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "weather",
-          "score": 100
-        },
-        {
-          "keyword": "chelsea đấu với psg",
-          "score": 99
-        },
-        {
-          "keyword": "초단기 강수예측",
-          "score": 98
-        },
-        {
-          "keyword": "기상청",
-          "score": 97
-        },
-        {
-          "keyword": "แมนซิตี พบ เรอัลมาดริด",
-          "score": 96
-        },
-        {
-          "keyword": "아스날",
-          "score": 95
-        },
-        {
-          "keyword": "พยากรณ์อากาศ",
-          "score": 94
-        },
-        {
-          "keyword": "맨시티",
-          "score": 93
-        },
-        {
-          "keyword": "fotmob",
-          "score": 92
-        },
-        {
-          "keyword": "psg",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-17T23:22:49.908Z",
       "geo": "KR",
       "source": "google",
@@ -5309,6 +5262,53 @@
         },
         {
           "keyword": "fm",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-21T22:47:28.451Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이강인",
+          "score": 100
+        },
+        {
+          "keyword": "마이애미 오픈",
+          "score": 99
+        },
+        {
+          "keyword": "everton đấu với chelsea",
+          "score": 98
+        },
+        {
+          "keyword": "psg",
+          "score": 97
+        },
+        {
+          "keyword": "เอฟเวอร์ตัน พบ เชลซี",
+          "score": 96
+        },
+        {
+          "keyword": "로버트 뮬러",
+          "score": 95
+        },
+        {
+          "keyword": "everton vs chelsea",
+          "score": 94
+        },
+        {
+          "keyword": "에버턴 대 첼시",
+          "score": 93
+        },
+        {
+          "keyword": "카카오뱅크 점검",
+          "score": 92
+        },
+        {
+          "keyword": "lec",
           "score": 91
         }
       ]

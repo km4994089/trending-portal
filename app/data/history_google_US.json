@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-17T22:35:08.025Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "boston college",
-          "score": 100
-        },
-        {
-          "keyword": "carabao cup",
-          "score": 99
-        },
-        {
-          "keyword": "champions league table",
-          "score": 98
-        },
-        {
-          "keyword": "thunder vs magic",
-          "score": 97
-        },
-        {
-          "keyword": "pistons vs wizards",
-          "score": 96
-        },
-        {
-          "keyword": "liberty basketball",
-          "score": 95
-        },
-        {
-          "keyword": "david njoku",
-          "score": 94
-        },
-        {
-          "keyword": "liberty university",
-          "score": 93
-        },
-        {
-          "keyword": "mystikal",
-          "score": 92
-        },
-        {
-          "keyword": "daniel dye",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-17T23:22:48.780Z",
       "geo": "US",
       "source": "google",
@@ -5309,6 +5262,53 @@
         },
         {
           "keyword": "lakers vs magic",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-21T22:47:27.069Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kelvin sampson",
+          "score": 100
+        },
+        {
+          "keyword": "sam carrick",
+          "score": 99
+        },
+        {
+          "keyword": "ava heiden",
+          "score": 98
+        },
+        {
+          "keyword": "svengoolie tonight",
+          "score": 97
+        },
+        {
+          "keyword": "bobby brink",
+          "score": 96
+        },
+        {
+          "keyword": "cavaliers vs pelicans",
+          "score": 95
+        },
+        {
+          "keyword": "grizzlies vs hornets",
+          "score": 94
+        },
+        {
+          "keyword": "vcu vs illinois",
+          "score": 93
+        },
+        {
+          "keyword": "drew fortescue",
+          "score": 92
+        },
+        {
+          "keyword": "leah kateb",
           "score": 91
         }
       ]
