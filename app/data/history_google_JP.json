@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-17T16:56:58.040Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "デスノート",
-          "score": 100
-        },
-        {
-          "keyword": "早乙女太一",
-          "score": 99
-        },
-        {
-          "keyword": "略奪奪婚",
-          "score": 98
-        },
-        {
-          "keyword": "子役",
-          "score": 97
-        },
-        {
-          "keyword": "柏木悠",
-          "score": 96
-        },
-        {
-          "keyword": "小倉優子",
-          "score": 95
-        },
-        {
-          "keyword": "持田香織",
-          "score": 94
-        },
-        {
-          "keyword": "ともさかりえ",
-          "score": 93
-        },
-        {
-          "keyword": "西山茉希",
-          "score": 92
-        },
-        {
-          "keyword": "joe kent",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-17T17:52:57.274Z",
       "geo": "JP",
       "source": "google",
@@ -5121,6 +5074,53 @@
         },
         {
           "keyword": "大原優乃",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-21T17:17:39.581Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "エヴァートン 対 チェルシー",
+          "score": 100
+        },
+        {
+          "keyword": "エマストーン",
+          "score": 99
+        },
+        {
+          "keyword": "マイケルbジョーダン",
+          "score": 98
+        },
+        {
+          "keyword": "ミラン 対 トリノ",
+          "score": 97
+        },
+        {
+          "keyword": "ヤマザキマリ",
+          "score": 96
+        },
+        {
+          "keyword": "森脇梨々夏",
+          "score": 95
+        },
+        {
+          "keyword": "赤西仁",
+          "score": 94
+        },
+        {
+          "keyword": "デーモンハンターズ",
+          "score": 93
+        },
+        {
+          "keyword": "大原優乃",
+          "score": 92
+        },
+        {
+          "keyword": "田中聖",
           "score": 91
         }
       ]
