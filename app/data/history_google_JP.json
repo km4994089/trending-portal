@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-18T22:23:12.489Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "サイゼリヤ",
-          "score": 100
-        },
-        {
-          "keyword": "frb",
-          "score": 99
-        },
-        {
-          "keyword": "靖国神社",
-          "score": 98
-        },
-        {
-          "keyword": "tottenham đấu với atlético madrid",
-          "score": 97
-        },
-        {
-          "keyword": "liverpool đấu với galatasaray",
-          "score": 96
-        },
-        {
-          "keyword": "竹田恒泰",
-          "score": 95
-        },
-        {
-          "keyword": "アクアライン",
-          "score": 94
-        },
-        {
-          "keyword": "cl 結果",
-          "score": 93
-        },
-        {
-          "keyword": "宮崎市天気",
-          "score": 92
-        },
-        {
-          "keyword": "東京 天気",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-18T22:54:07.783Z",
       "geo": "JP",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "生見愛瑠",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-22T22:48:45.883Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "風間俊介",
+          "score": 100
+        },
+        {
+          "keyword": "ニーサ",
+          "score": 99
+        },
+        {
+          "keyword": "めざましテレビ",
+          "score": 98
+        },
+        {
+          "keyword": "nisa",
+          "score": 97
+        },
+        {
+          "keyword": "フロリダディズニー",
+          "score": 96
+        },
+        {
+          "keyword": "piala liga",
+          "score": 95
+        },
+        {
+          "keyword": "はしか",
+          "score": 94
+        },
+        {
+          "keyword": "ホルムズ海峡",
+          "score": 93
+        },
+        {
+          "keyword": "大阪 天気",
+          "score": 92
+        },
+        {
+          "keyword": "神木隆之介",
           "score": 91
         }
       ]
