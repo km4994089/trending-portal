@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-18T21:55:09.656Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "bayern vs atalanta",
-          "score": 100
-        },
-        {
-          "keyword": "ลิเวอร์พูล พบ กาลาตาซาราย",
-          "score": 99
-        },
-        {
-          "keyword": "토트넘 홋스퍼 fc",
-          "score": 98
-        },
-        {
-          "keyword": "liverpool vs galatasaray",
-          "score": 97
-        },
-        {
-          "keyword": "리버풀",
-          "score": 96
-        },
-        {
-          "keyword": "bóng đá vô địch các câu lạc bộ châu âu",
-          "score": 95
-        },
-        {
-          "keyword": "tottenham vs atlético madrid",
-          "score": 94
-        },
-        {
-          "keyword": "리버풀 갈라타사라이",
-          "score": 93
-        },
-        {
-          "keyword": "챔스 16강",
-          "score": 92
-        },
-        {
-          "keyword": "барселона – ньюкасл юнайтед",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-18T22:23:11.574Z",
       "geo": "KR",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "arsenal đấu với man city",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-22T22:15:27.799Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "реал мадрид – атлетико мадрид",
+          "score": 100
+        },
+        {
+          "keyword": "real madrid đấu với atlético madrid",
+          "score": 99
+        },
+        {
+          "keyword": "la liga",
+          "score": 98
+        },
+        {
+          "keyword": "pga",
+          "score": 97
+        },
+        {
+          "keyword": "real madrid vs atlético madrid",
+          "score": 96
+        },
+        {
+          "keyword": "арсенал – манчестер сити",
+          "score": 95
+        },
+        {
+          "keyword": "카를로스 알카라스",
+          "score": 94
+        },
+        {
+          "keyword": "lpga",
+          "score": 93
+        },
+        {
+          "keyword": "레알 마드리드 대 아틀레티코",
+          "score": 92
+        },
+        {
+          "keyword": "laliga",
           "score": 91
         }
       ]

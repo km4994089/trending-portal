@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-18T21:55:11.112Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "天気 東京",
-          "score": 100
-        },
-        {
-          "keyword": "チャンピオンズリーグ トーナメント表",
-          "score": 99
-        },
-        {
-          "keyword": "jonas urbig",
-          "score": 98
-        },
-        {
-          "keyword": "杉浦太陽",
-          "score": 97
-        },
-        {
-          "keyword": "辻希美",
-          "score": 96
-        },
-        {
-          "keyword": "weather",
-          "score": 95
-        },
-        {
-          "keyword": "天気",
-          "score": 94
-        },
-        {
-          "keyword": "アトレティコ",
-          "score": 93
-        },
-        {
-          "keyword": "東京天気",
-          "score": 92
-        },
-        {
-          "keyword": "bayern vs atalanta",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-18T22:23:12.489Z",
       "geo": "JP",
       "source": "google",
@@ -5967,6 +5920,53 @@
         },
         {
           "keyword": "京都天気",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-22T22:15:29.242Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "桜 祭り 中止",
+          "score": 100
+        },
+        {
+          "keyword": "名古屋岡崎線バイパス",
+          "score": 99
+        },
+        {
+          "keyword": "中本悠太",
+          "score": 98
+        },
+        {
+          "keyword": "韓国 兵役",
+          "score": 97
+        },
+        {
+          "keyword": "金 価格",
+          "score": 96
+        },
+        {
+          "keyword": "徳島 天気",
+          "score": 95
+        },
+        {
+          "keyword": "天気 大阪",
+          "score": 94
+        },
+        {
+          "keyword": "今日の天気",
+          "score": 93
+        },
+        {
+          "keyword": "井上和",
+          "score": 92
+        },
+        {
+          "keyword": "生見愛瑠",
           "score": 91
         }
       ]
