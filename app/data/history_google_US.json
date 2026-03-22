@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-18T12:44:57.358Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "luke bryan",
-          "score": 100
-        },
-        {
-          "keyword": "economic calendar",
-          "score": 99
-        },
-        {
-          "keyword": "mta",
-          "score": 98
-        },
-        {
-          "keyword": "march 18",
-          "score": 97
-        },
-        {
-          "keyword": "south pars gas field",
-          "score": 96
-        },
-        {
-          "keyword": "spring",
-          "score": 95
-        },
-        {
-          "keyword": "argentina",
-          "score": 94
-        },
-        {
-          "keyword": "miami open 2026 schedule",
-          "score": 93
-        },
-        {
-          "keyword": "bob barker",
-          "score": 92
-        },
-        {
-          "keyword": "mu stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-18T14:15:49.477Z",
       "geo": "US",
       "source": "google",
@@ -5591,6 +5544,53 @@
         },
         {
           "keyword": "hoosier lottery",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-22T13:26:07.986Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "martha stewart",
+          "score": 100
+        },
+        {
+          "keyword": "lyon vs monaco",
+          "score": 99
+        },
+        {
+          "keyword": "jack schlossberg",
+          "score": 98
+        },
+        {
+          "keyword": "atalanta vs verona",
+          "score": 97
+        },
+        {
+          "keyword": "sunday morning",
+          "score": 96
+        },
+        {
+          "keyword": "christopher sanchez",
+          "score": 95
+        },
+        {
+          "keyword": "la liga",
+          "score": 94
+        },
+        {
+          "keyword": "cbs sunday morning",
+          "score": 93
+        },
+        {
+          "keyword": "laliga",
+          "score": 92
+        },
+        {
+          "keyword": "feyenoord vs ajax",
           "score": 91
         }
       ]
