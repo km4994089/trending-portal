@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-18T01:16:37.124Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "일기예보",
-          "score": 100
-        },
-        {
-          "keyword": "天気",
-          "score": 99
-        },
-        {
-          "keyword": "bóng đá vô địch các câu lạc bộ châu âu",
-          "score": 98
-        },
-        {
-          "keyword": "날씨",
-          "score": 97
-        },
-        {
-          "keyword": "arsenal đấu với leverkusen",
-          "score": 96
-        },
-        {
-          "keyword": "c1",
-          "score": 95
-        },
-        {
-          "keyword": "weather",
-          "score": 94
-        },
-        {
-          "keyword": "chelsea đấu với psg",
-          "score": 93
-        },
-        {
-          "keyword": "초단기 강수예측",
-          "score": 92
-        },
-        {
-          "keyword": "기상청",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-18T03:59:52.099Z",
       "geo": "KR",
       "source": "google",
@@ -5356,6 +5309,53 @@
         },
         {
           "keyword": "에버턴 대 첼시",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-22T03:56:49.300Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "휴스턴 대 마이애미",
+          "score": 100
+        },
+        {
+          "keyword": "ssg",
+          "score": 99
+        },
+        {
+          "keyword": "nba",
+          "score": 98
+        },
+        {
+          "keyword": "한화이글스",
+          "score": 97
+        },
+        {
+          "keyword": "유해진",
+          "score": 96
+        },
+        {
+          "keyword": "장항준",
+          "score": 95
+        },
+        {
+          "keyword": "샌안토니오 대 인디애나",
+          "score": 94
+        },
+        {
+          "keyword": "대구날씨",
+          "score": 93
+        },
+        {
+          "keyword": "오스틴 대 엘에이 fc",
+          "score": 92
+        },
+        {
+          "keyword": "올랜도 대 la 레이커스",
           "score": 91
         }
       ]

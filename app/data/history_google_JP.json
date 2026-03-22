@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-18T01:16:38.194Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "三重高校",
-          "score": 100
-        },
-        {
-          "keyword": "黒川想矢",
-          "score": 99
-        },
-        {
-          "keyword": "jdi 株価",
-          "score": 98
-        },
-        {
-          "keyword": "東京電力",
-          "score": 97
-        },
-        {
-          "keyword": "ロマンアンソニー",
-          "score": 96
-        },
-        {
-          "keyword": "ソニー 株価",
-          "score": 95
-        },
-        {
-          "keyword": "吉村崇",
-          "score": 94
-        },
-        {
-          "keyword": "三国競艇",
-          "score": 93
-        },
-        {
-          "keyword": "アーロンジャッジ",
-          "score": 92
-        },
-        {
-          "keyword": "三菱マテリアル",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-18T03:59:53.648Z",
       "geo": "JP",
       "source": "google",
@@ -5356,6 +5309,53 @@
         },
         {
           "keyword": "バンテリンドーム",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-22T03:56:50.588Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "大垣市",
+          "score": 100
+        },
+        {
+          "keyword": "国立競技場",
+          "score": 99
+        },
+        {
+          "keyword": "鈴木亮平",
+          "score": 98
+        },
+        {
+          "keyword": "牛久市",
+          "score": 97
+        },
+        {
+          "keyword": "前川清",
+          "score": 96
+        },
+        {
+          "keyword": "南明奈",
+          "score": 95
+        },
+        {
+          "keyword": "山田涼介",
+          "score": 94
+        },
+        {
+          "keyword": "峰竜太",
+          "score": 93
+        },
+        {
+          "keyword": "高校野球 結果",
+          "score": 92
+        },
+        {
+          "keyword": "井上晴美",
           "score": 91
         }
       ]
