@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-18T10:41:00.558Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nyc",
-          "score": 100
-        },
-        {
-          "keyword": "weather boston",
-          "score": 99
-        },
-        {
-          "keyword": "wktv",
-          "score": 98
-        },
-        {
-          "keyword": "jerry o'connell",
-          "score": 97
-        },
-        {
-          "keyword": "mackenzie shirilla",
-          "score": 96
-        },
-        {
-          "keyword": "bruins score",
-          "score": 95
-        },
-        {
-          "keyword": "funny videos",
-          "score": 94
-        },
-        {
-          "keyword": "christina haack",
-          "score": 93
-        },
-        {
-          "keyword": "jfk airport",
-          "score": 92
-        },
-        {
-          "keyword": "nba atlanta hawks",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-18T11:37:51.139Z",
       "geo": "US",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "south africa vs new zealand",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-22T10:51:15.486Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "strands today",
+          "score": 100
+        },
+        {
+          "keyword": "reese witherspoon",
+          "score": 99
+        },
+        {
+          "keyword": "uofa",
+          "score": 98
+        },
+        {
+          "keyword": "phl tsa wait times",
+          "score": 97
+        },
+        {
+          "keyword": "tsa airport security",
+          "score": 96
+        },
+        {
+          "keyword": "go daddy",
+          "score": 95
+        },
+        {
+          "keyword": "quentin tarantino",
+          "score": 94
+        },
+        {
+          "keyword": "online lottery",
+          "score": 93
+        },
+        {
+          "keyword": "t rowe price",
+          "score": 92
+        },
+        {
+          "keyword": "college basketball tournament",
           "score": 91
         }
       ]
