@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-18T03:59:50.769Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "artist banksy",
-          "score": 100
-        },
-        {
-          "keyword": "cruz azul",
-          "score": 99
-        },
-        {
-          "keyword": "maxime raynaud",
-          "score": 98
-        },
-        {
-          "keyword": "cameron johnson",
-          "score": 97
-        },
-        {
-          "keyword": "unlv vs uc irvine",
-          "score": 96
-        },
-        {
-          "keyword": "truth social",
-          "score": 95
-        },
-        {
-          "keyword": "sj sharks",
-          "score": 94
-        },
-        {
-          "keyword": "gonzaga",
-          "score": 93
-        },
-        {
-          "keyword": "cruz azul - monterrey",
-          "score": 92
-        },
-        {
-          "keyword": "edmonton oilers",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-18T05:26:29.563Z",
       "geo": "US",
       "source": "google",
@@ -5356,6 +5309,53 @@
         },
         {
           "keyword": "high point u",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-22T05:16:37.112Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cameron diaz",
+          "score": 100
+        },
+        {
+          "keyword": "iron fist",
+          "score": 99
+        },
+        {
+          "keyword": "dhurandhar",
+          "score": 98
+        },
+        {
+          "keyword": "woody harrelson",
+          "score": 97
+        },
+        {
+          "keyword": "nikita kucherov",
+          "score": 96
+        },
+        {
+          "keyword": "jared leto",
+          "score": 95
+        },
+        {
+          "keyword": "crimson desert playstation",
+          "score": 94
+        },
+        {
+          "keyword": "christopher nolan",
+          "score": 93
+        },
+        {
+          "keyword": "andrew garfield",
+          "score": 92
+        },
+        {
+          "keyword": "margaret qualley",
           "score": 91
         }
       ]
