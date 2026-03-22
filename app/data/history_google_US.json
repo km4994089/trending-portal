@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-18T18:44:01.302Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "billy porter",
-          "score": 100
-        },
-        {
-          "keyword": "joelinton",
-          "score": 99
-        },
-        {
-          "keyword": "eric garcía",
-          "score": 98
-        },
-        {
-          "keyword": "incredibles 3",
-          "score": 97
-        },
-        {
-          "keyword": "barca game",
-          "score": 96
-        },
-        {
-          "keyword": "marc bernal",
-          "score": 95
-        },
-        {
-          "keyword": "lamine yamal",
-          "score": 94
-        },
-        {
-          "keyword": "fotmob",
-          "score": 93
-        },
-        {
-          "keyword": "fed decision",
-          "score": 92
-        },
-        {
-          "keyword": "bob motzko",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-18T19:41:51.845Z",
       "geo": "US",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "barça - real madrid",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-22T18:59:22.504Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "hurricanes vs penguins",
+          "score": 100
+        },
+        {
+          "keyword": "predators vs blackhawks",
+          "score": 99
+        },
+        {
+          "keyword": "clark kellogg",
+          "score": 98
+        },
+        {
+          "keyword": "mara braun",
+          "score": 97
+        },
+        {
+          "keyword": "seth davis",
+          "score": 96
+        },
+        {
+          "keyword": "elina svitolina",
+          "score": 95
+        },
+        {
+          "keyword": "david lipsky",
+          "score": 94
+        },
+        {
+          "keyword": "snedeker",
+          "score": 93
+        },
+        {
+          "keyword": "vasco da gama vs grêmio",
+          "score": 92
+        },
+        {
+          "keyword": "cruzeiro x santos",
           "score": 91
         }
       ]

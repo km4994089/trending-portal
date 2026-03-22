@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-18T18:44:03.789Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "barcelona",
-          "score": 100
-        },
-        {
-          "keyword": "バルサ",
-          "score": 99
-        },
-        {
-          "keyword": "wowow",
-          "score": 98
-        },
-        {
-          "keyword": "バルセロナ",
-          "score": 97
-        },
-        {
-          "keyword": "barcelona vs newcastle",
-          "score": 96
-        },
-        {
-          "keyword": "食べる",
-          "score": 95
-        },
-        {
-          "keyword": "バルセロナ 対 ニューカッスル",
-          "score": 94
-        },
-        {
-          "keyword": "教職員異動",
-          "score": 93
-        },
-        {
-          "keyword": "賃上げ",
-          "score": 92
-        },
-        {
-          "keyword": "iphone バックグラウンドセキュリティ改善",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-18T19:41:54.604Z",
       "geo": "JP",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "地獄楽",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-22T18:59:24.788Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ホンダ・フィット",
+          "score": 100
+        },
+        {
+          "keyword": "カーリング",
+          "score": 99
+        },
+        {
+          "keyword": "arsenal đấu với man city",
+          "score": 98
+        },
+        {
+          "keyword": "乃木坂46",
+          "score": 97
+        },
+        {
+          "keyword": "ペッパーランチ",
+          "score": 96
+        },
+        {
+          "keyword": "ニコ生",
+          "score": 95
+        },
+        {
+          "keyword": "仲野太賀",
+          "score": 94
+        },
+        {
+          "keyword": "中川安奈",
+          "score": 93
+        },
+        {
+          "keyword": "東出昌大",
+          "score": 92
+        },
+        {
+          "keyword": "ザンクトパウリ 対 フライブルク",
           "score": 91
         }
       ]
