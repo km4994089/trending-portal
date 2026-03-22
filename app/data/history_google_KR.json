@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-18T21:00:58.909Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "챔스 16강",
-          "score": 100
-        },
-        {
-          "keyword": "барселона – ньюкасл юнайтед",
-          "score": 99
-        },
-        {
-          "keyword": "토트넘 대 아틀레티코",
-          "score": 98
-        },
-        {
-          "keyword": "바이에른 대 아탈란타",
-          "score": 97
-        },
-        {
-          "keyword": "บาร์ซา พบ นิวคาสเซิล",
-          "score": 96
-        },
-        {
-          "keyword": "파월",
-          "score": 95
-        },
-        {
-          "keyword": "바르셀로나",
-          "score": 94
-        },
-        {
-          "keyword": "바르샤",
-          "score": 93
-        },
-        {
-          "keyword": "barcelona",
-          "score": 92
-        },
-        {
-          "keyword": "lcp",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-18T21:55:09.656Z",
       "geo": "KR",
       "source": "google",
@@ -5920,6 +5873,53 @@
         },
         {
           "keyword": "웨스트햄",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-22T21:17:24.559Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "카를로스 알카라스",
+          "score": 100
+        },
+        {
+          "keyword": "lpga",
+          "score": 99
+        },
+        {
+          "keyword": "레알 마드리드 대 아틀레티코",
+          "score": 98
+        },
+        {
+          "keyword": "fa컵",
+          "score": 97
+        },
+        {
+          "keyword": "อาร์เซนอล พบ แมนซิตี",
+          "score": 96
+        },
+        {
+          "keyword": "arsenal đấu với man city",
+          "score": 95
+        },
+        {
+          "keyword": "g2 blg",
+          "score": 94
+        },
+        {
+          "keyword": "arsenal vs man city",
+          "score": 93
+        },
+        {
+          "keyword": "아스널 대 맨 시티",
+          "score": 92
+        },
+        {
+          "keyword": "프리미어리그",
           "score": 91
         }
       ]
