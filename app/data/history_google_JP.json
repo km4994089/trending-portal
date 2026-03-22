@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-18T06:38:03.428Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "しなこ",
-          "score": 100
-        },
-        {
-          "keyword": "ドクターx",
-          "score": 99
-        },
-        {
-          "keyword": "スタバ 桃",
-          "score": 98
-        },
-        {
-          "keyword": "パナソニック",
-          "score": 97
-        },
-        {
-          "keyword": "ガソリン いつ下がる",
-          "score": 96
-        },
-        {
-          "keyword": "飛鳥iii",
-          "score": 95
-        },
-        {
-          "keyword": "炎鵬",
-          "score": 94
-        },
-        {
-          "keyword": "名古屋市東区橦木町",
-          "score": 93
-        },
-        {
-          "keyword": "座り込み",
-          "score": 92
-        },
-        {
-          "keyword": "lemino",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-18T07:45:25.267Z",
       "geo": "JP",
       "source": "google",
@@ -5356,6 +5309,53 @@
         },
         {
           "keyword": "南海高野線",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-22T07:11:37.483Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "やすとものどこいこ",
+          "score": 100
+        },
+        {
+          "keyword": "宮島競艇",
+          "score": 99
+        },
+        {
+          "keyword": "向井亜紀",
+          "score": 98
+        },
+        {
+          "keyword": "三浦翔平",
+          "score": 97
+        },
+        {
+          "keyword": "鹿島アントラーズ 試合",
+          "score": 96
+        },
+        {
+          "keyword": "オートレース",
+          "score": 95
+        },
+        {
+          "keyword": "モンテディオ山形 試合",
+          "score": 94
+        },
+        {
+          "keyword": "ドラゴンズ",
+          "score": 93
+        },
+        {
+          "keyword": "徳光和夫",
+          "score": 92
+        },
+        {
+          "keyword": "阪神",
           "score": 91
         }
       ]
