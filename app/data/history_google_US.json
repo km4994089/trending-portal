@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-18T11:37:51.139Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "bmw i3",
-          "score": 100
-        },
-        {
-          "keyword": "wednesday",
-          "score": 99
-        },
-        {
-          "keyword": "who won baseball game last night",
-          "score": 98
-        },
-        {
-          "keyword": "dylan dreyer",
-          "score": 97
-        },
-        {
-          "keyword": "mu",
-          "score": 96
-        },
-        {
-          "keyword": "connections hints today",
-          "score": 95
-        },
-        {
-          "keyword": "apac",
-          "score": 94
-        },
-        {
-          "keyword": "samara weaving",
-          "score": 93
-        },
-        {
-          "keyword": "ncaa wrestling championships",
-          "score": 92
-        },
-        {
-          "keyword": "tsa wait times",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-18T12:44:57.358Z",
       "geo": "US",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "uofa",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-22T11:43:11.401Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "shamrock marathon",
+          "score": 100
+        },
+        {
+          "keyword": "shamrock shuffle chicago",
+          "score": 99
+        },
+        {
+          "keyword": "ipl",
+          "score": 98
+        },
+        {
+          "keyword": "ohio state football",
+          "score": 97
+        },
+        {
+          "keyword": "new york times wordle",
+          "score": 96
+        },
+        {
+          "keyword": "nyt crossword",
+          "score": 95
+        },
+        {
+          "keyword": "chicago cubs",
+          "score": 94
+        },
+        {
+          "keyword": "f1 schedule 2026",
+          "score": 93
+        },
+        {
+          "keyword": "newcastle vs sunderland",
+          "score": 92
+        },
+        {
+          "keyword": "donald trump tsa",
           "score": 91
         }
       ]
