@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-18T08:36:38.606Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "true detective",
-          "score": 100
-        },
-        {
-          "keyword": "patch",
-          "score": 99
-        },
-        {
-          "keyword": "the chi",
-          "score": 98
-        },
-        {
-          "keyword": "kenyon martin",
-          "score": 97
-        },
-        {
-          "keyword": "melanie curtin",
-          "score": 96
-        },
-        {
-          "keyword": "criminal defense lawyer",
-          "score": 95
-        },
-        {
-          "keyword": "diesel fuel",
-          "score": 94
-        },
-        {
-          "keyword": "fuel",
-          "score": 93
-        },
-        {
-          "keyword": "gas",
-          "score": 92
-        },
-        {
-          "keyword": "zack snyder justice league",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-18T09:42:24.509Z",
       "geo": "US",
       "source": "google",
@@ -5403,6 +5356,53 @@
         },
         {
           "keyword": "rebecca ferguson",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-22T08:55:39.731Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "t rowe price",
+          "score": 100
+        },
+        {
+          "keyword": "lol",
+          "score": 99
+        },
+        {
+          "keyword": "the bear",
+          "score": 98
+        },
+        {
+          "keyword": "jo koy",
+          "score": 97
+        },
+        {
+          "keyword": "mandalorian",
+          "score": 96
+        },
+        {
+          "keyword": "south africa vs new zealand",
+          "score": 95
+        },
+        {
+          "keyword": "usher",
+          "score": 94
+        },
+        {
+          "keyword": "jamie foxx",
+          "score": 93
+        },
+        {
+          "keyword": "amazon video",
+          "score": 92
+        },
+        {
+          "keyword": "al pacino",
           "score": 91
         }
       ]
