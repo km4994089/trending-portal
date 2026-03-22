@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-18T05:26:30.701Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "하나투어",
-          "score": 100
-        },
-        {
-          "keyword": "강득구",
-          "score": 99
-        },
-        {
-          "keyword": "대우건설",
-          "score": 98
-        },
-        {
-          "keyword": "트라이폴드",
-          "score": 97
-        },
-        {
-          "keyword": "포스코",
-          "score": 96
-        },
-        {
-          "keyword": "아랍에미리트",
-          "score": 95
-        },
-        {
-          "keyword": "나프타",
-          "score": 94
-        },
-        {
-          "keyword": "우리기술",
-          "score": 93
-        },
-        {
-          "keyword": "uae",
-          "score": 92
-        },
-        {
-          "keyword": "cj 채용",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-18T06:38:02.149Z",
       "geo": "KR",
       "source": "google",
@@ -5356,6 +5309,53 @@
         },
         {
           "keyword": "대구날씨",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-22T06:09:48.633Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "최지수",
+          "score": 100
+        },
+        {
+          "keyword": "현대오토에버",
+          "score": 99
+        },
+        {
+          "keyword": "fc 서울 대 광주",
+          "score": 98
+        },
+        {
+          "keyword": "울산 대 김천상무",
+          "score": 97
+        },
+        {
+          "keyword": "휴스턴 대 마이애미",
+          "score": 96
+        },
+        {
+          "keyword": "ssg",
+          "score": 95
+        },
+        {
+          "keyword": "nba",
+          "score": 94
+        },
+        {
+          "keyword": "한화이글스",
+          "score": 93
+        },
+        {
+          "keyword": "유해진",
+          "score": 92
+        },
+        {
+          "keyword": "장항준",
           "score": 91
         }
       ]

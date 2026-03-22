@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-18T05:26:31.900Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lemino",
-          "score": 100
-        },
-        {
-          "keyword": "坂本冬美",
-          "score": 99
-        },
-        {
-          "keyword": "停電情報",
-          "score": 98
-        },
-        {
-          "keyword": "停電",
-          "score": 97
-        },
-        {
-          "keyword": "ゴリ",
-          "score": 96
-        },
-        {
-          "keyword": "辻希美",
-          "score": 95
-        },
-        {
-          "keyword": "徹子の部屋",
-          "score": 94
-        },
-        {
-          "keyword": "北斗晶",
-          "score": 93
-        },
-        {
-          "keyword": "なにわ男子",
-          "score": 92
-        },
-        {
-          "keyword": "築地",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-18T06:38:03.428Z",
       "geo": "JP",
       "source": "google",
@@ -5356,6 +5309,53 @@
         },
         {
           "keyword": "滝沢秀一",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-22T06:09:49.852Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "マイナ保険証",
+          "score": 100
+        },
+        {
+          "keyword": "マリノス",
+          "score": 99
+        },
+        {
+          "keyword": "柏レイソル",
+          "score": 98
+        },
+        {
+          "keyword": "サンガ",
+          "score": 97
+        },
+        {
+          "keyword": "近畿大学",
+          "score": 96
+        },
+        {
+          "keyword": "山梨学院",
+          "score": 95
+        },
+        {
+          "keyword": "プロ野球速報",
+          "score": 94
+        },
+        {
+          "keyword": "ダゾーン",
+          "score": 93
+        },
+        {
+          "keyword": "サガン鳥栖",
+          "score": 92
+        },
+        {
+          "keyword": "南海高野線",
           "score": 91
         }
       ]
