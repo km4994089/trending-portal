@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-17T23:52:02.061Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "일기예보",
-          "score": 100
-        },
-        {
-          "keyword": "天気",
-          "score": 99
-        },
-        {
-          "keyword": "bóng đá vô địch các câu lạc bộ châu âu",
-          "score": 98
-        },
-        {
-          "keyword": "챔스 16강",
-          "score": 97
-        },
-        {
-          "keyword": "날씨",
-          "score": 96
-        },
-        {
-          "keyword": "레알",
-          "score": 95
-        },
-        {
-          "keyword": "arsenal đấu với leverkusen",
-          "score": 94
-        },
-        {
-          "keyword": "c1",
-          "score": 93
-        },
-        {
-          "keyword": "weather",
-          "score": 92
-        },
-        {
-          "keyword": "chelsea đấu với psg",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-18T01:16:37.124Z",
       "geo": "KR",
       "source": "google",
@@ -5356,6 +5309,53 @@
         },
         {
           "keyword": "카카오뱅크 점검",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-22T01:16:13.242Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "오스틴 대 엘에이 fc",
+          "score": 100
+        },
+        {
+          "keyword": "robert mueller",
+          "score": 99
+        },
+        {
+          "keyword": "nice vs psg",
+          "score": 98
+        },
+        {
+          "keyword": "이강인",
+          "score": 97
+        },
+        {
+          "keyword": "everton đấu với chelsea",
+          "score": 96
+        },
+        {
+          "keyword": "เอฟเวอร์ตัน พบ เชลซี",
+          "score": 95
+        },
+        {
+          "keyword": "로버트 뮬러",
+          "score": 94
+        },
+        {
+          "keyword": "첼시",
+          "score": 93
+        },
+        {
+          "keyword": "everton vs chelsea",
+          "score": 92
+        },
+        {
+          "keyword": "에버턴 대 첼시",
           "score": 91
         }
       ]
