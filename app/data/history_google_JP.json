@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-19T07:39:58.932Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "朝乃山",
-          "score": 100
-        },
-        {
-          "keyword": "アカウント",
-          "score": 99
-        },
-        {
-          "keyword": "読売新聞",
-          "score": 98
-        },
-        {
-          "keyword": "中川安奈",
-          "score": 97
-        },
-        {
-          "keyword": "王将戦 速報",
-          "score": 96
-        },
-        {
-          "keyword": "ベイルート",
-          "score": 95
-        },
-        {
-          "keyword": "人事異動",
-          "score": 94
-        },
-        {
-          "keyword": "八戸学院光星 野球部",
-          "score": 93
-        },
-        {
-          "keyword": "vcj",
-          "score": 92
-        },
-        {
-          "keyword": "立石正広",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-19T08:30:36.389Z",
       "geo": "JP",
       "source": "google",
@@ -5920,6 +5873,53 @@
         },
         {
           "keyword": "三重大学",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-23T08:01:05.341Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "オープンワールド",
+          "score": 100
+        },
+        {
+          "keyword": "ナナ",
+          "score": 99
+        },
+        {
+          "keyword": "西宮市長選挙",
+          "score": 98
+        },
+        {
+          "keyword": "inpex",
+          "score": 97
+        },
+        {
+          "keyword": "堀ちえみ",
+          "score": 96
+        },
+        {
+          "keyword": "佐野市",
+          "score": 95
+        },
+        {
+          "keyword": "4",
+          "score": 94
+        },
+        {
+          "keyword": "けんき",
+          "score": 93
+        },
+        {
+          "keyword": "カザフスタン",
+          "score": 92
+        },
+        {
+          "keyword": "小瀧望 舞台",
           "score": 91
         }
       ]
