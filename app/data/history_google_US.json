@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-19T14:02:15.929Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lara spencer",
-          "score": 100
-        },
-        {
-          "keyword": "mcneese basketball",
-          "score": 99
-        },
-        {
-          "keyword": "slv stock",
-          "score": 98
-        },
-        {
-          "keyword": "acn stock",
-          "score": 97
-        },
-        {
-          "keyword": "stock market news",
-          "score": 96
-        },
-        {
-          "keyword": "tsa wait times airports",
-          "score": 95
-        },
-        {
-          "keyword": "katie britt",
-          "score": 94
-        },
-        {
-          "keyword": "cade cunningham",
-          "score": 93
-        },
-        {
-          "keyword": "kate mara",
-          "score": 92
-        },
-        {
-          "keyword": "gold price",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-19T15:09:54.917Z",
       "geo": "US",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "brent crude price",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-23T14:07:55.544Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ticketmaster",
+          "score": 100
+        },
+        {
+          "keyword": "aipac",
+          "score": 99
+        },
+        {
+          "keyword": "vti stock",
+          "score": 98
+        },
+        {
+          "keyword": "ge stock",
+          "score": 97
+        },
+        {
+          "keyword": "regular show lost tapes",
+          "score": 96
+        },
+        {
+          "keyword": "jay z tickets",
+          "score": 95
+        },
+        {
+          "keyword": "nasdaq index",
+          "score": 94
+        },
+        {
+          "keyword": "boeing stock",
+          "score": 93
+        },
+        {
+          "keyword": "meta stock price",
+          "score": 92
+        },
+        {
+          "keyword": "microsoft stock price",
           "score": 91
         }
       ]
