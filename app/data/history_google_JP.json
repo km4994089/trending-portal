@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-19T11:08:50.658Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "金曜ロードショー",
-          "score": 100
-        },
-        {
-          "keyword": "こうべ",
-          "score": 99
-        },
-        {
-          "keyword": "永野芽郁",
-          "score": 98
-        },
-        {
-          "keyword": "上垣皓太朗",
-          "score": 97
-        },
-        {
-          "keyword": "百田尚樹",
-          "score": 96
-        },
-        {
-          "keyword": "3/20 イベント",
-          "score": 95
-        },
-        {
-          "keyword": "勝又春",
-          "score": 94
-        },
-        {
-          "keyword": "名古屋",
-          "score": 93
-        },
-        {
-          "keyword": "ディズニーストア",
-          "score": 92
-        },
-        {
-          "keyword": "染谷将太",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-19T11:55:12.556Z",
       "geo": "JP",
       "source": "google",
@@ -5873,6 +5826,53 @@
         },
         {
           "keyword": "アイプリバース",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-23T11:37:13.378Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "氏",
+          "score": 100
+        },
+        {
+          "keyword": "ムロツヨシ",
+          "score": 99
+        },
+        {
+          "keyword": "ceo",
+          "score": 98
+        },
+        {
+          "keyword": "gdp",
+          "score": 97
+        },
+        {
+          "keyword": "nato",
+          "score": 96
+        },
+        {
+          "keyword": "山田涼介",
+          "score": 95
+        },
+        {
+          "keyword": "上白石萌歌",
+          "score": 94
+        },
+        {
+          "keyword": "ウエストランド井口",
+          "score": 93
+        },
+        {
+          "keyword": "筑波大学",
+          "score": 92
+        },
+        {
+          "keyword": "角田夏実",
           "score": 91
         }
       ]
