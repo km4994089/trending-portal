@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-19T23:50:09.001Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "michigan basketball",
-          "score": 100
-        },
-        {
-          "keyword": "byu basketball",
-          "score": 99
-        },
-        {
-          "keyword": "where is howard university",
-          "score": 98
-        },
-        {
-          "keyword": "samford university",
-          "score": 97
-        },
-        {
-          "keyword": "emelec - independiente del valle",
-          "score": 96
-        },
-        {
-          "keyword": "howard university",
-          "score": 95
-        },
-        {
-          "keyword": "tufts university",
-          "score": 94
-        },
-        {
-          "keyword": "southern university",
-          "score": 93
-        },
-        {
-          "keyword": "tolima - fortaleza",
-          "score": 92
-        },
-        {
-          "keyword": "suns vs spurs",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-20T01:12:05.822Z",
       "geo": "US",
       "source": "google",
@@ -5685,6 +5638,53 @@
         },
         {
           "keyword": "trader joe's recall",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-23T23:54:50.999Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "valero port arthur",
+          "score": 100
+        },
+        {
+          "keyword": "jalen duren",
+          "score": 99
+        },
+        {
+          "keyword": "daniss jenkins",
+          "score": 98
+        },
+        {
+          "keyword": "mika zibanejad",
+          "score": 97
+        },
+        {
+          "keyword": "ncaa women's basketball",
+          "score": 96
+        },
+        {
+          "keyword": "espn fantasy baseball",
+          "score": 95
+        },
+        {
+          "keyword": "iran strikes israel",
+          "score": 94
+        },
+        {
+          "keyword": "corentin moutet",
+          "score": 93
+        },
+        {
+          "keyword": "jalen williams",
+          "score": 92
+        },
+        {
+          "keyword": "zverev",
           "score": 91
         }
       ]
