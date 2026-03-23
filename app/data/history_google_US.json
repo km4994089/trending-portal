@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-19T18:08:36.788Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "high point university",
-          "score": 100
-        },
-        {
-          "keyword": "amy carr",
-          "score": 99
-        },
-        {
-          "keyword": "louisville basketball",
-          "score": 98
-        },
-        {
-          "keyword": "high point vs wisconsin",
-          "score": 97
-        },
-        {
-          "keyword": "venus williams",
-          "score": 96
-        },
-        {
-          "keyword": "michael movie",
-          "score": 95
-        },
-        {
-          "keyword": "siena college",
-          "score": 94
-        },
-        {
-          "keyword": "ethan quinn",
-          "score": 93
-        },
-        {
-          "keyword": "francesca jones",
-          "score": 92
-        },
-        {
-          "keyword": "hubert hurkacz",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-19T19:25:38.364Z",
       "geo": "US",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "daniil medvedev",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-23T18:39:09.584Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "virginia vs iowa",
+          "score": 100
+        },
+        {
+          "keyword": "immigration news green card",
+          "score": 99
+        },
+        {
+          "keyword": "karim lopez",
+          "score": 98
+        },
+        {
+          "keyword": "kaydence carpenter",
+          "score": 97
+        },
+        {
+          "keyword": "jake bobo",
+          "score": 96
+        },
+        {
+          "keyword": "victoria mboko",
+          "score": 95
+        },
+        {
+          "keyword": "jeff webb",
+          "score": 94
+        },
+        {
+          "keyword": "horoscopes",
+          "score": 93
+        },
+        {
+          "keyword": "stanley",
+          "score": 92
+        },
+        {
+          "keyword": "pat summitt",
           "score": 91
         }
       ]
