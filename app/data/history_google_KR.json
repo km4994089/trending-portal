@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-19T03:59:12.667Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "독도",
-          "score": 100
-        },
-        {
-          "keyword": "에어로케이",
-          "score": 99
-        },
-        {
-          "keyword": "제주도",
-          "score": 98
-        },
-        {
-          "keyword": "하나투어",
-          "score": 97
-        },
-        {
-          "keyword": "국립중앙박물관",
-          "score": 96
-        },
-        {
-          "keyword": "충무아트센터",
-          "score": 95
-        },
-        {
-          "keyword": "inter miami",
-          "score": 94
-        },
-        {
-          "keyword": "휴스턴 대 la 레이커스",
-          "score": 93
-        },
-        {
-          "keyword": "대우건설",
-          "score": 92
-        },
-        {
-          "keyword": "한준호",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-19T05:22:21.657Z",
       "geo": "KR",
       "source": "google",
@@ -5920,6 +5873,53 @@
         },
         {
           "keyword": "เรอัลมาดริด พบ อัตเลติโกมาดริด",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-23T04:03:05.015Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "독도",
+          "score": 100
+        },
+        {
+          "keyword": "박홍근",
+          "score": 99
+        },
+        {
+          "keyword": "국제 강아지의 날",
+          "score": 98
+        },
+        {
+          "keyword": "삼성라이온즈",
+          "score": 97
+        },
+        {
+          "keyword": "1달러",
+          "score": 96
+        },
+        {
+          "keyword": "붉은사막 패치",
+          "score": 95
+        },
+        {
+          "keyword": "ria 계좌",
+          "score": 94
+        },
+        {
+          "keyword": "달러 환율",
+          "score": 93
+        },
+        {
+          "keyword": "하나투어",
+          "score": 92
+        },
+        {
+          "keyword": "한화에어로스페이스 주가",
           "score": 91
         }
       ]
