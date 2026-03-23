@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-19T10:30:09.674Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "rocket launch today",
-          "score": 100
-        },
-        {
-          "keyword": "kelsey fitzsimmons",
-          "score": 99
-        },
-        {
-          "keyword": "weather miami",
-          "score": 98
-        },
-        {
-          "keyword": "spacex",
-          "score": 97
-        },
-        {
-          "keyword": "bryson dechambeau",
-          "score": 96
-        },
-        {
-          "keyword": "phl tsa wait times",
-          "score": 95
-        },
-        {
-          "keyword": "valspar championship picks",
-          "score": 94
-        },
-        {
-          "keyword": "ohio state football",
-          "score": 93
-        },
-        {
-          "keyword": "brent crude oil price",
-          "score": 92
-        },
-        {
-          "keyword": "baba stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-19T11:08:48.000Z",
       "geo": "US",
       "source": "google",
@@ -5873,6 +5826,53 @@
         },
         {
           "keyword": "climate change",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-23T10:43:14.507Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "gld stock",
+          "score": 100
+        },
+        {
+          "keyword": "boston weather",
+          "score": 99
+        },
+        {
+          "keyword": "government shutdown 2026",
+          "score": 98
+        },
+        {
+          "keyword": "tax day 2026",
+          "score": 97
+        },
+        {
+          "keyword": "dtw tsa wait times",
+          "score": 96
+        },
+        {
+          "keyword": "heavy snow warning",
+          "score": 95
+        },
+        {
+          "keyword": "personal injury lawyers",
+          "score": 94
+        },
+        {
+          "keyword": "greyhound",
+          "score": 93
+        },
+        {
+          "keyword": "la",
+          "score": 92
+        },
+        {
+          "keyword": "brian schatz",
           "score": 91
         }
       ]
