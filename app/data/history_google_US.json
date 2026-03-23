@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-19T15:09:54.917Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "youtubetv",
-          "score": 100
-        },
-        {
-          "keyword": "lollapalooza tickets",
-          "score": 99
-        },
-        {
-          "keyword": "paula badosa",
-          "score": 98
-        },
-        {
-          "keyword": "iheartradio awards",
-          "score": 97
-        },
-        {
-          "keyword": "gold silver prices",
-          "score": 96
-        },
-        {
-          "keyword": "kindle vildor",
-          "score": 95
-        },
-        {
-          "keyword": "howie rose",
-          "score": 94
-        },
-        {
-          "keyword": "fetterman",
-          "score": 93
-        },
-        {
-          "keyword": "sndk stock",
-          "score": 92
-        },
-        {
-          "keyword": "sonic 4",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-19T16:13:18.593Z",
       "geo": "US",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "microsoft stock price",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-23T15:32:21.927Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "real estate",
+          "score": 100
+        },
+        {
+          "keyword": "the view",
+          "score": 99
+        },
+        {
+          "keyword": "realtor",
+          "score": 98
+        },
+        {
+          "keyword": "abby huntsman",
+          "score": 97
+        },
+        {
+          "keyword": "kesha",
+          "score": 96
+        },
+        {
+          "keyword": "homes",
+          "score": 95
+        },
+        {
+          "keyword": "kenny smith",
+          "score": 94
+        },
+        {
+          "keyword": "wes miller",
+          "score": 93
+        },
+        {
+          "keyword": "supreme court",
+          "score": 92
+        },
+        {
+          "keyword": "s&p 500 today",
           "score": 91
         }
       ]
