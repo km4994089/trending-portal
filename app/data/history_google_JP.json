@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-20T08:48:57.177Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "王鵬",
-          "score": 100
-        },
-        {
-          "keyword": "ホンダ cb400 super four 新型",
-          "score": 99
-        },
-        {
-          "keyword": "宮家",
-          "score": 98
-        },
-        {
-          "keyword": "上谷沙弥 ラヴィット",
-          "score": 97
-        },
-        {
-          "keyword": "校長",
-          "score": 96
-        },
-        {
-          "keyword": "熱海富士",
-          "score": 95
-        },
-        {
-          "keyword": "フワちゃん",
-          "score": 94
-        },
-        {
-          "keyword": "anthropic",
-          "score": 93
-        },
-        {
-          "keyword": "一山本",
-          "score": 92
-        },
-        {
-          "keyword": "朝乃山の今日の結果",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-20T09:31:29.237Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "板垣李光人",
-          "score": 100
-        },
-        {
-          "keyword": "tepco",
-          "score": 99
-        },
-        {
-          "keyword": "井上広大",
-          "score": 98
-        },
-        {
-          "keyword": "nスタ",
-          "score": 97
-        },
-        {
-          "keyword": "jfl",
-          "score": 96
-        },
-        {
-          "keyword": "ジャイアンツtv",
-          "score": 95
-        },
-        {
-          "keyword": "日本相撲協会",
-          "score": 94
-        },
-        {
-          "keyword": "相撲 今日の 結果",
-          "score": 93
-        },
-        {
-          "keyword": "琴桜",
-          "score": 92
-        },
-        {
-          "keyword": "大鵬",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-20T10:28:30.370Z",
       "geo": "JP",
       "source": "google",
@@ -5685,6 +5591,53 @@
         },
         {
           "keyword": "津軽線",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-24T09:45:00.461Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ファミチキ",
+          "score": 100
+        },
+        {
+          "keyword": "外務省",
+          "score": 99
+        },
+        {
+          "keyword": "アグネスチャン",
+          "score": 98
+        },
+        {
+          "keyword": "glay",
+          "score": 97
+        },
+        {
+          "keyword": "ジャニーズ",
+          "score": 96
+        },
+        {
+          "keyword": "オープンワールドゲーム",
+          "score": 95
+        },
+        {
+          "keyword": "mr.children",
+          "score": 94
+        },
+        {
+          "keyword": "中国大使館",
+          "score": 93
+        },
+        {
+          "keyword": "天皇皇后両陛下",
+          "score": 92
+        },
+        {
+          "keyword": "伊那郵便局",
           "score": 91
         }
       ]
