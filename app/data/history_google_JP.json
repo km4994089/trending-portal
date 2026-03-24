@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-20T06:10:03.728Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "スターウォーズ エピソード1",
-          "score": 100
-        },
-        {
-          "keyword": "パクヒョンギョン",
-          "score": 99
-        },
-        {
-          "keyword": "シエンタ",
-          "score": 98
-        },
-        {
-          "keyword": "ソフトバンクホークス",
-          "score": 97
-        },
-        {
-          "keyword": "日本代表 ユニフォーム",
-          "score": 96
-        },
-        {
-          "keyword": "dazn",
-          "score": 95
-        },
-        {
-          "keyword": "智弁和歌山",
-          "score": 94
-        },
-        {
-          "keyword": "熱田神宮",
-          "score": 93
-        },
-        {
-          "keyword": "スターウォーズ",
-          "score": 92
-        },
-        {
-          "keyword": "サーティワン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-20T07:27:31.157Z",
       "geo": "JP",
       "source": "google",
@@ -5685,6 +5638,53 @@
         },
         {
           "keyword": "伊勢谷友介",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-24T06:36:18.469Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "社民党 党首",
+          "score": 100
+        },
+        {
+          "keyword": "八戸学院光星 野球部",
+          "score": 99
+        },
+        {
+          "keyword": "千鳥ヶ淵",
+          "score": 98
+        },
+        {
+          "keyword": "イ・ボミ",
+          "score": 97
+        },
+        {
+          "keyword": "太田賢吾",
+          "score": 96
+        },
+        {
+          "keyword": "トンガ",
+          "score": 95
+        },
+        {
+          "keyword": "南太平洋",
+          "score": 94
+        },
+        {
+          "keyword": "fedex",
+          "score": 93
+        },
+        {
+          "keyword": "平成筑豊鉄道",
+          "score": 92
+        },
+        {
+          "keyword": "anaモバイル",
           "score": 91
         }
       ]
