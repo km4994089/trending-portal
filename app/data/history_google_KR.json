@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-20T07:27:29.944Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "women’s march madness",
-          "score": 100
-        },
-        {
-          "keyword": "세종문화회관",
-          "score": 99
-        },
-        {
-          "keyword": "정청래",
-          "score": 98
-        },
-        {
-          "keyword": "lg트윈스",
-          "score": 97
-        },
-        {
-          "keyword": "대전 화재",
-          "score": 96
-        },
-        {
-          "keyword": "코레일",
-          "score": 95
-        },
-        {
-          "keyword": "한국철도공사",
-          "score": 94
-        },
-        {
-          "keyword": "lili reinhart",
-          "score": 93
-        },
-        {
-          "keyword": "롯데콘서트홀",
-          "score": 92
-        },
-        {
-          "keyword": "엘지트윈스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-20T08:00:15.022Z",
       "geo": "KR",
       "source": "google",
@@ -5685,6 +5638,53 @@
         },
         {
           "keyword": "독도",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-24T07:47:41.209Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "캐치",
+          "score": 100
+        },
+        {
+          "keyword": "곽튜브",
+          "score": 99
+        },
+        {
+          "keyword": "서울시교육청",
+          "score": 98
+        },
+        {
+          "keyword": "종량제 봉투 대란",
+          "score": 97
+        },
+        {
+          "keyword": "엘지트윈스",
+          "score": 96
+        },
+        {
+          "keyword": "하나투어",
+          "score": 95
+        },
+        {
+          "keyword": "서려경",
+          "score": 94
+        },
+        {
+          "keyword": "토익",
+          "score": 93
+        },
+        {
+          "keyword": "노동절",
+          "score": 92
+        },
+        {
+          "keyword": "차량 5부제",
           "score": 91
         }
       ]
