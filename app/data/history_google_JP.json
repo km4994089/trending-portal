@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-20T11:03:54.896Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "目黒蓮",
-          "score": 100
-        },
-        {
-          "keyword": "ミスタードーナツ",
-          "score": 99
-        },
-        {
-          "keyword": "長嶋一茂",
-          "score": 98
-        },
-        {
-          "keyword": "ウルトラマン",
-          "score": 97
-        },
-        {
-          "keyword": "富山ラーメンフェス",
-          "score": 96
-        },
-        {
-          "keyword": "常総市",
-          "score": 95
-        },
-        {
-          "keyword": "ラムー",
-          "score": 94
-        },
-        {
-          "keyword": "glay",
-          "score": 93
-        },
-        {
-          "keyword": "成蹊大学",
-          "score": 92
-        },
-        {
-          "keyword": "楽天イーグルス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-20T11:50:16.030Z",
       "geo": "JP",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "内博貴",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-24T11:38:08.416Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "マクドナルド ハッピーセット",
+          "score": 100
+        },
+        {
+          "keyword": "かまいたち山内",
+          "score": 99
+        },
+        {
+          "keyword": "シカゴ",
+          "score": 98
+        },
+        {
+          "keyword": "ホワイトソックス",
+          "score": 97
+        },
+        {
+          "keyword": "生田衣梨奈",
+          "score": 96
+        },
+        {
+          "keyword": "张雪峰",
+          "score": 95
+        },
+        {
+          "keyword": "mlb 開幕戦",
+          "score": 94
+        },
+        {
+          "keyword": "二酸化炭素",
+          "score": 93
+        },
+        {
+          "keyword": "bish",
+          "score": 92
+        },
+        {
+          "keyword": "モグライダー",
           "score": 91
         }
       ]
