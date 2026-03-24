@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-20T10:28:30.370Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "工藤阿須加",
-          "score": 100
-        },
-        {
-          "keyword": "木南晴夏",
-          "score": 99
-        },
-        {
-          "keyword": "easl",
-          "score": 98
-        },
-        {
-          "keyword": "イングランド代表",
-          "score": 97
-        },
-        {
-          "keyword": "竹丸巨人",
-          "score": 96
-        },
-        {
-          "keyword": "r1グランプリ",
-          "score": 95
-        },
-        {
-          "keyword": "プロ野球開幕",
-          "score": 94
-        },
-        {
-          "keyword": "mステ",
-          "score": 93
-        },
-        {
-          "keyword": "泉口友汰",
-          "score": 92
-        },
-        {
-          "keyword": "今日の月",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-20T11:03:54.896Z",
       "geo": "JP",
       "source": "google",
@@ -5638,6 +5591,53 @@
         },
         {
           "keyword": "伊那郵便局",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-24T10:41:09.102Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "岡田結実",
+          "score": 100
+        },
+        {
+          "keyword": "モアナ 実写",
+          "score": 99
+        },
+        {
+          "keyword": "綾野剛",
+          "score": 98
+        },
+        {
+          "keyword": "松田里奈",
+          "score": 97
+        },
+        {
+          "keyword": "柳原可奈子",
+          "score": 96
+        },
+        {
+          "keyword": "小泉進次郎",
+          "score": 95
+        },
+        {
+          "keyword": "いぜん",
+          "score": 94
+        },
+        {
+          "keyword": "渋谷",
+          "score": 93
+        },
+        {
+          "keyword": "オモウマい店",
+          "score": 92
+        },
+        {
+          "keyword": "内博貴",
           "score": 91
         }
       ]
