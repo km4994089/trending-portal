@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-20T20:54:42.193Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "charles barkley",
-          "score": 100
-        },
-        {
-          "keyword": "casper ruud",
-          "score": 99
-        },
-        {
-          "keyword": "águilas doradas - américa",
-          "score": 98
-        },
-        {
-          "keyword": "kevin willard",
-          "score": 97
-        },
-        {
-          "keyword": "act",
-          "score": 96
-        },
-        {
-          "keyword": "candace parker",
-          "score": 95
-        },
-        {
-          "keyword": "tennessee basketball",
-          "score": 94
-        },
-        {
-          "keyword": "breonna taylor",
-          "score": 93
-        },
-        {
-          "keyword": "brett gardner",
-          "score": 92
-        },
-        {
-          "keyword": "villanova basketball",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-20T21:21:34.841Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "miami university basketball",
-          "score": 100
-        },
-        {
-          "keyword": "taylor townsend",
-          "score": 99
-        },
-        {
-          "keyword": "ja'kobi gillespie",
-          "score": 98
-        },
-        {
-          "keyword": "sydney brown",
-          "score": 97
-        },
-        {
-          "keyword": "wally szczerbiak",
-          "score": 96
-        },
-        {
-          "keyword": "ucla",
-          "score": 95
-        },
-        {
-          "keyword": "rick barnes",
-          "score": 94
-        },
-        {
-          "keyword": "águilas doradas - américa",
-          "score": 93
-        },
-        {
-          "keyword": "charles barkley",
-          "score": 92
-        },
-        {
-          "keyword": "kevin willard",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-20T21:50:45.748Z",
       "geo": "US",
       "source": "google",
@@ -5544,6 +5450,53 @@
         },
         {
           "keyword": "jackson shelstad",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-24T21:28:32.148Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "gregory bovino",
+          "score": 100
+        },
+        {
+          "keyword": "ricardo orrego",
+          "score": 99
+        },
+        {
+          "keyword": "mbappe",
+          "score": 98
+        },
+        {
+          "keyword": "project hail mary (film)",
+          "score": 97
+        },
+        {
+          "keyword": "phil berger",
+          "score": 96
+        },
+        {
+          "keyword": "frank thomas",
+          "score": 95
+        },
+        {
+          "keyword": "sora",
+          "score": 94
+        },
+        {
+          "keyword": "alex michelsen",
+          "score": 93
+        },
+        {
+          "keyword": "nasa artemis rocket launch",
+          "score": 92
+        },
+        {
+          "keyword": "sydney sweeney",
           "score": 91
         }
       ]
