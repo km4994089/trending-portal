@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-20T23:48:58.932Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tyler bilodeau",
-          "score": 100
-        },
-        {
-          "keyword": "john bol",
-          "score": 99
-        },
-        {
-          "keyword": "st john's basketball",
-          "score": 98
-        },
-        {
-          "keyword": "rick pitino",
-          "score": 97
-        },
-        {
-          "keyword": "charles barkley weight loss",
-          "score": 96
-        },
-        {
-          "keyword": "celtics vs grizzlies",
-          "score": 95
-        },
-        {
-          "keyword": "hawks vs rockets",
-          "score": 94
-        },
-        {
-          "keyword": "trail blazers vs timberwolves",
-          "score": 93
-        },
-        {
-          "keyword": "ready or not",
-          "score": 92
-        },
-        {
-          "keyword": "vcx",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-21T01:07:30.046Z",
       "geo": "US",
       "source": "google",
@@ -5450,6 +5403,53 @@
         },
         {
           "keyword": "andy cohen",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-24T23:52:03.884Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "blackhawks",
+          "score": 100
+        },
+        {
+          "keyword": "brandon miller",
+          "score": 99
+        },
+        {
+          "keyword": "emily gregory",
+          "score": 98
+        },
+        {
+          "keyword": "espn fantasy baseball",
+          "score": 97
+        },
+        {
+          "keyword": "wild vs lightning",
+          "score": 96
+        },
+        {
+          "keyword": "jessi draper",
+          "score": 95
+        },
+        {
+          "keyword": "wichita state vs tulsa",
+          "score": 94
+        },
+        {
+          "keyword": "steve hilton",
+          "score": 93
+        },
+        {
+          "keyword": "magic vs cavaliers",
+          "score": 92
+        },
+        {
+          "keyword": "blue jackets vs flyers",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-20T23:49:01.132Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ズーラシア",
-          "score": 100
-        },
-        {
-          "keyword": "ピストンズ 対 ウォリアーズ",
-          "score": 99
-        },
-        {
-          "keyword": "鈴木京香",
-          "score": 98
-        },
-        {
-          "keyword": "伊勢神宮",
-          "score": 97
-        },
-        {
-          "keyword": "ミニストップ",
-          "score": 96
-        },
-        {
-          "keyword": "出雲大社",
-          "score": 95
-        },
-        {
-          "keyword": "niat sholat idul fitri",
-          "score": 94
-        },
-        {
-          "keyword": "中央道 渋滞",
-          "score": 93
-        },
-        {
-          "keyword": "花見",
-          "score": 92
-        },
-        {
-          "keyword": "京都駅",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-21T01:07:32.530Z",
       "geo": "JP",
       "source": "google",
@@ -5450,6 +5403,53 @@
         },
         {
           "keyword": "麻生太郎",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-24T23:52:06.949Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "中村鴈治郎",
+          "score": 100
+        },
+        {
+          "keyword": "sora 終了",
+          "score": 99
+        },
+        {
+          "keyword": "エチレン",
+          "score": 98
+        },
+        {
+          "keyword": "tenki",
+          "score": 97
+        },
+        {
+          "keyword": "道路交通法改正",
+          "score": 96
+        },
+        {
+          "keyword": "ハイチュウ",
+          "score": 95
+        },
+        {
+          "keyword": "横田真悠",
+          "score": 94
+        },
+        {
+          "keyword": "ラヴィット",
+          "score": 93
+        },
+        {
+          "keyword": "インスリン",
+          "score": 92
+        },
+        {
+          "keyword": "愛媛県教職員異動",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-20T23:49:00.084Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "금값",
-          "score": 100
-        },
-        {
-          "keyword": "김병헌",
-          "score": 99
-        },
-        {
-          "keyword": "프리미어리그",
-          "score": 98
-        },
-        {
-          "keyword": "아마존",
-          "score": 97
-        },
-        {
-          "keyword": "나스닥 지수",
-          "score": 96
-        },
-        {
-          "keyword": "mu",
-          "score": 95
-        },
-        {
-          "keyword": "lpga",
-          "score": 94
-        },
-        {
-          "keyword": "bournemouth vs man united",
-          "score": 93
-        },
-        {
-          "keyword": "bournemouth đấu với man utd",
-          "score": 92
-        },
-        {
-          "keyword": "맨유",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-21T01:07:31.245Z",
       "geo": "KR",
       "source": "google",
@@ -5450,6 +5403,53 @@
         },
         {
           "keyword": "전태일",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-24T23:52:05.176Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "살라",
+          "score": 100
+        },
+        {
+          "keyword": "박왕열",
+          "score": 99
+        },
+        {
+          "keyword": "날씨",
+          "score": 98
+        },
+        {
+          "keyword": "weather",
+          "score": 97
+        },
+        {
+          "keyword": "금값",
+          "score": 96
+        },
+        {
+          "keyword": "테일러 프리츠",
+          "score": 95
+        },
+        {
+          "keyword": "기상청",
+          "score": 94
+        },
+        {
+          "keyword": "대구날씨",
+          "score": 93
+        },
+        {
+          "keyword": "부산날씨",
+          "score": 92
+        },
+        {
+          "keyword": "김지원",
           "score": 91
         }
       ]
