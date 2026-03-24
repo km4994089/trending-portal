@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-20T13:54:36.700Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "青ヶ島",
-          "score": 100
-        },
-        {
-          "keyword": "lng",
-          "score": 99
-        },
-        {
-          "keyword": "アルバルク東京",
-          "score": 98
-        },
-        {
-          "keyword": "小林聡美",
-          "score": 97
-        },
-        {
-          "keyword": "山田裕貴",
-          "score": 96
-        },
-        {
-          "keyword": "マイケルジョーダン",
-          "score": 95
-        },
-        {
-          "keyword": "タイムレス",
-          "score": 94
-        },
-        {
-          "keyword": "西野七瀬",
-          "score": 93
-        },
-        {
-          "keyword": "室伏広治",
-          "score": 92
-        },
-        {
-          "keyword": "川合俊一",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-20T15:34:11.123Z",
       "geo": "JP",
       "source": "google",
@@ -5591,6 +5544,53 @@
         },
         {
           "keyword": "東京pd",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-24T14:13:34.208Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "坂本勇人",
+          "score": 100
+        },
+        {
+          "keyword": "サイバーエージェント",
+          "score": 99
+        },
+        {
+          "keyword": "未来のムスコ",
+          "score": 98
+        },
+        {
+          "keyword": "溝上たんぼ",
+          "score": 97
+        },
+        {
+          "keyword": "ゲートボール",
+          "score": 96
+        },
+        {
+          "keyword": "阪和線",
+          "score": 95
+        },
+        {
+          "keyword": "黒島結菜",
+          "score": 94
+        },
+        {
+          "keyword": "和田明日香",
+          "score": 93
+        },
+        {
+          "keyword": "井川意高",
+          "score": 92
+        },
+        {
+          "keyword": "勝野健アナ",
           "score": 91
         }
       ]
