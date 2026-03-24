@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-20T22:17:43.490Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "coco gauff",
-          "score": 100
-        },
-        {
-          "keyword": "holy cross women's basketball",
-          "score": 99
-        },
-        {
-          "keyword": "bruno fernandes",
-          "score": 98
-        },
-        {
-          "keyword": "peter suder",
-          "score": 97
-        },
-        {
-          "keyword": "queens university basketball",
-          "score": 96
-        },
-        {
-          "keyword": "northern iowa basketball",
-          "score": 95
-        },
-        {
-          "keyword": "elisabetta cocciaretto",
-          "score": 94
-        },
-        {
-          "keyword": "harry maguire",
-          "score": 93
-        },
-        {
-          "keyword": "reilly opelka",
-          "score": 92
-        },
-        {
-          "keyword": "labaron philon",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-20T22:52:51.521Z",
       "geo": "US",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "alex michelsen",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-24T22:34:42.252Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jfk jr",
+          "score": 100
+        },
+        {
+          "keyword": "noah cyrus",
+          "score": 99
+        },
+        {
+          "keyword": "the drama",
+          "score": 98
+        },
+        {
+          "keyword": "meta stock",
+          "score": 97
+        },
+        {
+          "keyword": "kings vs hornets",
+          "score": 96
+        },
+        {
+          "keyword": "love story jfk",
+          "score": 95
+        },
+        {
+          "keyword": "tom blyth",
+          "score": 94
+        },
+        {
+          "keyword": "gulf shores fire",
+          "score": 93
+        },
+        {
+          "keyword": "meta",
+          "score": 92
+        },
+        {
+          "keyword": "joe flacco",
           "score": 91
         }
       ]

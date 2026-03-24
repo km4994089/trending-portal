@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-20T22:17:44.894Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mu",
-          "score": 100
-        },
-        {
-          "keyword": "premier league",
-          "score": 99
-        },
-        {
-          "keyword": "bournemouth vs man united",
-          "score": 98
-        },
-        {
-          "keyword": "bournemouth đấu với man utd",
-          "score": 97
-        },
-        {
-          "keyword": "맨유",
-          "score": 96
-        },
-        {
-          "keyword": "blockchain technology",
-          "score": 95
-        },
-        {
-          "keyword": "본머스 대 맨유",
-          "score": 94
-        },
-        {
-          "keyword": "bfx",
-          "score": 93
-        },
-        {
-          "keyword": "g2",
-          "score": 92
-        },
-        {
-          "keyword": "퍼스트 스탠드",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-20T22:52:52.618Z",
       "geo": "KR",
       "source": "google",
@@ -5497,6 +5450,53 @@
         },
         {
           "keyword": "정선희",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-24T22:34:43.441Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "테일러 프리츠",
+          "score": 100
+        },
+        {
+          "keyword": "기상청",
+          "score": 99
+        },
+        {
+          "keyword": "대구날씨",
+          "score": 98
+        },
+        {
+          "keyword": "부산날씨",
+          "score": 97
+        },
+        {
+          "keyword": "mlb",
+          "score": 96
+        },
+        {
+          "keyword": "송성문",
+          "score": 95
+        },
+        {
+          "keyword": "전태일",
+          "score": 94
+        },
+        {
+          "keyword": "써클",
+          "score": 93
+        },
+        {
+          "keyword": "이서진의 달라달라",
+          "score": 92
+        },
+        {
+          "keyword": "lng",
           "score": 91
         }
       ]
