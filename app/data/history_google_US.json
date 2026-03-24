@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-20T15:34:07.959Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cbs news radio",
-          "score": 100
-        },
-        {
-          "keyword": "anna blinkova",
-          "score": 99
-        },
-        {
-          "keyword": "sara eisen",
-          "score": 98
-        },
-        {
-          "keyword": "jonathan wheatley",
-          "score": 97
-        },
-        {
-          "keyword": "morgan freeman",
-          "score": 96
-        },
-        {
-          "keyword": "miami weather",
-          "score": 95
-        },
-        {
-          "keyword": "neurosis band",
-          "score": 94
-        },
-        {
-          "keyword": "celebrity deaths",
-          "score": 93
-        },
-        {
-          "keyword": "william shatner",
-          "score": 92
-        },
-        {
-          "keyword": "arnold schwarzenegger",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-20T16:31:19.742Z",
       "geo": "US",
       "source": "google",
@@ -5591,6 +5544,53 @@
         },
         {
           "keyword": "jason whitlock",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-24T15:38:11.198Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "chainsaw man 232",
+          "score": 100
+        },
+        {
+          "keyword": "abby huntsman",
+          "score": 99
+        },
+        {
+          "keyword": "trevor siemian",
+          "score": 98
+        },
+        {
+          "keyword": "marsha blackburn",
+          "score": 97
+        },
+        {
+          "keyword": "litellm",
+          "score": 96
+        },
+        {
+          "keyword": "harry potter",
+          "score": 95
+        },
+        {
+          "keyword": "epic games layoffs",
+          "score": 94
+        },
+        {
+          "keyword": "arctic frost",
+          "score": 93
+        },
+        {
+          "keyword": "arctic frost investigation",
+          "score": 92
+        },
+        {
+          "keyword": "brett larson",
           "score": 91
         }
       ]
