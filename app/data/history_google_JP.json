@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-20T17:29:01.086Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "俺たちバッドバーバーズ",
-          "score": 100
-        },
-        {
-          "keyword": "ごぶごぶフェス",
-          "score": 99
-        },
-        {
-          "keyword": "赤西仁",
-          "score": 98
-        },
-        {
-          "keyword": "鹿児島 地震",
-          "score": 97
-        },
-        {
-          "keyword": "伊藤健太郎",
-          "score": 96
-        },
-        {
-          "keyword": "江藤アナ",
-          "score": 95
-        },
-        {
-          "keyword": "スチーム",
-          "score": 94
-        },
-        {
-          "keyword": "オーロラ",
-          "score": 93
-        },
-        {
-          "keyword": "ジス",
-          "score": 92
-        },
-        {
-          "keyword": "出川哲朗",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-20T18:00:06.200Z",
       "geo": "JP",
       "source": "google",
@@ -5591,6 +5544,53 @@
         },
         {
           "keyword": "ミュージアム",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-24T17:48:15.806Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "apex",
+          "score": 100
+        },
+        {
+          "keyword": "福井中学生殺人事件",
+          "score": 99
+        },
+        {
+          "keyword": "瀬戸康史",
+          "score": 98
+        },
+        {
+          "keyword": "木村文乃",
+          "score": 97
+        },
+        {
+          "keyword": "102回目のプロポーズ",
+          "score": 96
+        },
+        {
+          "keyword": "テラサ",
+          "score": 95
+        },
+        {
+          "keyword": "アイフル",
+          "score": 94
+        },
+        {
+          "keyword": "大森靖子",
+          "score": 93
+        },
+        {
+          "keyword": "豊嶋花",
+          "score": 92
+        },
+        {
+          "keyword": "冨安健洋",
           "score": 91
         }
       ]
