@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-20T11:50:16.030Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "綱啓永",
-          "score": 100
-        },
-        {
-          "keyword": "不二家",
-          "score": 99
-        },
-        {
-          "keyword": "自衛隊",
-          "score": 98
-        },
-        {
-          "keyword": "藤森慎吾",
-          "score": 97
-        },
-        {
-          "keyword": "mufg",
-          "score": 96
-        },
-        {
-          "keyword": "黒柳徹子",
-          "score": 95
-        },
-        {
-          "keyword": "カズレーザー",
-          "score": 94
-        },
-        {
-          "keyword": "沸騰ワード",
-          "score": 93
-        },
-        {
-          "keyword": "松本剛",
-          "score": 92
-        },
-        {
-          "keyword": "呉市",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-20T12:35:23.225Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "石塚英彦",
-          "score": 100
-        },
-        {
-          "keyword": "佐野勇斗",
-          "score": 99
-        },
-        {
-          "keyword": "真田広之",
-          "score": 98
-        },
-        {
-          "keyword": "及川 光博",
-          "score": 97
-        },
-        {
-          "keyword": "山田優",
-          "score": 96
-        },
-        {
-          "keyword": "bts テテ",
-          "score": 95
-        },
-        {
-          "keyword": "山本裕典",
-          "score": 94
-        },
-        {
-          "keyword": "学習院大学",
-          "score": 93
-        },
-        {
-          "keyword": "コナン 金曜ロードショー",
-          "score": 92
-        },
-        {
-          "keyword": "ドゥブロヴニク",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-20T13:54:36.700Z",
       "geo": "JP",
       "source": "google",
@@ -5638,6 +5544,53 @@
         },
         {
           "keyword": "モグライダー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-24T12:46:23.223Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "小泉純一郎",
+          "score": 100
+        },
+        {
+          "keyword": "伊丹空港",
+          "score": 99
+        },
+        {
+          "keyword": "和菓子",
+          "score": 98
+        },
+        {
+          "keyword": "小笠原諸島",
+          "score": 97
+        },
+        {
+          "keyword": "ニュージーランド",
+          "score": 96
+        },
+        {
+          "keyword": "伊沢拓司",
+          "score": 95
+        },
+        {
+          "keyword": "救急車",
+          "score": 94
+        },
+        {
+          "keyword": "トンツカタン森本",
+          "score": 93
+        },
+        {
+          "keyword": "だるま",
+          "score": 92
+        },
+        {
+          "keyword": "東京pd",
           "score": 91
         }
       ]
