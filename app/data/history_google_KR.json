@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-20T20:21:04.888Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "본머스 대 맨유",
-          "score": 100
-        },
-        {
-          "keyword": "bfx",
-          "score": 99
-        },
-        {
-          "keyword": "퍼스트 스탠드",
-          "score": 98
-        },
-        {
-          "keyword": "배나라",
-          "score": 97
-        },
-        {
-          "keyword": "이토준지",
-          "score": 96
-        },
-        {
-          "keyword": "척 노리스",
-          "score": 95
-        },
-        {
-          "keyword": "박보검",
-          "score": 94
-        },
-        {
-          "keyword": "chuck norris",
-          "score": 93
-        },
-        {
-          "keyword": "정성환",
-          "score": 92
-        },
-        {
-          "keyword": "박신양",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-20T20:54:43.598Z",
       "geo": "KR",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "张雪峰",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-24T20:31:31.725Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mlb",
+          "score": 100
+        },
+        {
+          "keyword": "송성문",
+          "score": 99
+        },
+        {
+          "keyword": "전태일",
+          "score": 98
+        },
+        {
+          "keyword": "써클",
+          "score": 97
+        },
+        {
+          "keyword": "이서진의 달라달라",
+          "score": 96
+        },
+        {
+          "keyword": "lng",
+          "score": 95
+        },
+        {
+          "keyword": "불가항력",
+          "score": 94
+        },
+        {
+          "keyword": "그리즈만",
+          "score": 93
+        },
+        {
+          "keyword": "정선희",
+          "score": 92
+        },
+        {
+          "keyword": "투도르",
           "score": 91
         }
       ]
