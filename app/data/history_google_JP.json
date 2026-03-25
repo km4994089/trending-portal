@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-21T07:50:42.051Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "御嶽海",
-          "score": 100
-        },
-        {
-          "keyword": "宇良",
-          "score": 99
-        },
-        {
-          "keyword": "中日",
-          "score": 98
-        },
-        {
-          "keyword": "落合陽一",
-          "score": 97
-        },
-        {
-          "keyword": "荒木大輔",
-          "score": 96
-        },
-        {
-          "keyword": "加藤ローサ",
-          "score": 95
-        },
-        {
-          "keyword": "玉鷲",
-          "score": 94
-        },
-        {
-          "keyword": "朝白龍",
-          "score": 93
-        },
-        {
-          "keyword": "円広志",
-          "score": 92
-        },
-        {
-          "keyword": "阪神タイガース",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-21T08:20:22.482Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "鎌倉",
-          "score": 100
-        },
-        {
-          "keyword": "徳島マラソン",
-          "score": 99
-        },
-        {
-          "keyword": "朝乃山",
-          "score": 98
-        },
-        {
-          "keyword": "浜名湖競艇",
-          "score": 97
-        },
-        {
-          "keyword": "伏見寅威",
-          "score": 96
-        },
-        {
-          "keyword": "御嶽海",
-          "score": 95
-        },
-        {
-          "keyword": "有働由美子",
-          "score": 94
-        },
-        {
-          "keyword": "宇良",
-          "score": 93
-        },
-        {
-          "keyword": "中日",
-          "score": 92
-        },
-        {
-          "keyword": "落合陽一",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-21T08:54:18.296Z",
       "geo": "JP",
       "source": "google",
@@ -5403,6 +5309,53 @@
         },
         {
           "keyword": "明日 天気",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-25T08:38:09.367Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "対馬",
+          "score": 100
+        },
+        {
+          "keyword": "高輪ゲートウェイ",
+          "score": 99
+        },
+        {
+          "keyword": "家ッ大河",
+          "score": 98
+        },
+        {
+          "keyword": "焼肉きんぐ 新大久保フェア",
+          "score": 97
+        },
+        {
+          "keyword": "ベイシア",
+          "score": 96
+        },
+        {
+          "keyword": "浜名湖競艇",
+          "score": 95
+        },
+        {
+          "keyword": "多摩川競艇",
+          "score": 94
+        },
+        {
+          "keyword": "野村悟",
+          "score": 93
+        },
+        {
+          "keyword": "マーティシュプリーム",
+          "score": 92
+        },
+        {
+          "keyword": "太平洋セメント",
           "score": 91
         }
       ]
