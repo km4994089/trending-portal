@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-21T05:01:50.420Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "お市の方",
-          "score": 100
-        },
-        {
-          "keyword": "長野 対 いわきfc",
-          "score": 99
-        },
-        {
-          "keyword": "吉本新喜劇 座長",
-          "score": 98
-        },
-        {
-          "keyword": "ハイヒールモモコ",
-          "score": 97
-        },
-        {
-          "keyword": "宮司愛海",
-          "score": 96
-        },
-        {
-          "keyword": "ミスド 抹茶",
-          "score": 95
-        },
-        {
-          "keyword": "福岡 対 g大阪",
-          "score": 94
-        },
-        {
-          "keyword": "札幌 対 甲府",
-          "score": 93
-        },
-        {
-          "keyword": "パリーグtv",
-          "score": 92
-        },
-        {
-          "keyword": "パテレ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-21T05:59:12.819Z",
       "geo": "JP",
       "source": "google",
@@ -5450,6 +5403,53 @@
         },
         {
           "keyword": "核融合発電",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-25T05:20:14.942Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "厚生労働省",
+          "score": 100
+        },
+        {
+          "keyword": "山添拓",
+          "score": 99
+        },
+        {
+          "keyword": "ハチミツ二郎",
+          "score": 98
+        },
+        {
+          "keyword": "西友",
+          "score": 97
+        },
+        {
+          "keyword": "シャドバ",
+          "score": 96
+        },
+        {
+          "keyword": "高校野球 コールド",
+          "score": 95
+        },
+        {
+          "keyword": "小倉優子",
+          "score": 94
+        },
+        {
+          "keyword": "ヒロアカur",
+          "score": 93
+        },
+        {
+          "keyword": "近畿大学",
+          "score": 92
+        },
+        {
+          "keyword": "ガシャポン",
           "score": 91
         }
       ]

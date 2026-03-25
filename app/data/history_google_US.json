@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-21T05:01:48.014Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "starlink",
-          "score": 100
-        },
-        {
-          "keyword": "matthew fox",
-          "score": 99
-        },
-        {
-          "keyword": "um basketball",
-          "score": 98
-        },
-        {
-          "keyword": "love island",
-          "score": 97
-        },
-        {
-          "keyword": "conan gray",
-          "score": 96
-        },
-        {
-          "keyword": "monterrey - guadalajara",
-          "score": 95
-        },
-        {
-          "keyword": "malachi smith",
-          "score": 94
-        },
-        {
-          "keyword": "hilary duff",
-          "score": 93
-        },
-        {
-          "keyword": "noah jupe",
-          "score": 92
-        },
-        {
-          "keyword": "jimmy fallon",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-21T05:59:10.073Z",
       "geo": "US",
       "source": "google",
@@ -5450,6 +5403,53 @@
         },
         {
           "keyword": "united rentals",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-25T05:20:12.161Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "rasheer fleming",
+          "score": 100
+        },
+        {
+          "keyword": "jim parsons",
+          "score": 99
+        },
+        {
+          "keyword": "stephen colbert",
+          "score": 98
+        },
+        {
+          "keyword": "padres",
+          "score": 97
+        },
+        {
+          "keyword": "maura higgins",
+          "score": 96
+        },
+        {
+          "keyword": "tyrese maxey",
+          "score": 95
+        },
+        {
+          "keyword": "khaman maluach",
+          "score": 94
+        },
+        {
+          "keyword": "tim hardaway",
+          "score": 93
+        },
+        {
+          "keyword": "will wade",
+          "score": 92
+        },
+        {
+          "keyword": "heartbreak high",
           "score": 91
         }
       ]
