@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-21T22:47:27.069Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kelvin sampson",
-          "score": 100
-        },
-        {
-          "keyword": "sam carrick",
-          "score": 99
-        },
-        {
-          "keyword": "ava heiden",
-          "score": 98
-        },
-        {
-          "keyword": "svengoolie tonight",
-          "score": 97
-        },
-        {
-          "keyword": "bobby brink",
-          "score": 96
-        },
-        {
-          "keyword": "cavaliers vs pelicans",
-          "score": 95
-        },
-        {
-          "keyword": "grizzlies vs hornets",
-          "score": 94
-        },
-        {
-          "keyword": "vcu vs illinois",
-          "score": 93
-        },
-        {
-          "keyword": "drew fortescue",
-          "score": 92
-        },
-        {
-          "keyword": "leah kateb",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-21T23:15:35.003Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "alycia parks",
-          "score": 100
-        },
-        {
-          "keyword": "warriors vs hawks",
-          "score": 99
-        },
-        {
-          "keyword": "duke basketball",
-          "score": 98
-        },
-        {
-          "keyword": "ny red bulls vs charlotte",
-          "score": 97
-        },
-        {
-          "keyword": "jesse mendez",
-          "score": 96
-        },
-        {
-          "keyword": "maple leafs vs senators",
-          "score": 95
-        },
-        {
-          "keyword": "emanuel sharp",
-          "score": 94
-        },
-        {
-          "keyword": "bilal coulibaly",
-          "score": 93
-        },
-        {
-          "keyword": "snl uk",
-          "score": 92
-        },
-        {
-          "keyword": "australia women vs west indies women",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-21T23:44:15.673Z",
       "geo": "US",
       "source": "google",
@@ -4745,6 +4651,53 @@
         },
         {
           "keyword": "najee harris",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-25T23:25:11.812Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "spurs vs grizzlies",
+          "score": 100
+        },
+        {
+          "keyword": "bruins vs sabres",
+          "score": 99
+        },
+        {
+          "keyword": "rangers vs maple leafs",
+          "score": 98
+        },
+        {
+          "keyword": "telemundo vota",
+          "score": 97
+        },
+        {
+          "keyword": "hailey baptiste",
+          "score": 96
+        },
+        {
+          "keyword": "barry bonds",
+          "score": 95
+        },
+        {
+          "keyword": "anthony rizzo",
+          "score": 94
+        },
+        {
+          "keyword": "illinois state basketball",
+          "score": 93
+        },
+        {
+          "keyword": "padres",
+          "score": 92
+        },
+        {
+          "keyword": "prizepicks",
           "score": 91
         }
       ]
