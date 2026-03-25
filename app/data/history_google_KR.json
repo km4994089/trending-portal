@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-21T01:07:31.245Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "테일러 프리츠",
-          "score": 100
-        },
-        {
-          "keyword": "케인",
-          "score": 99
-        },
-        {
-          "keyword": "잭 드레이퍼",
-          "score": 98
-        },
-        {
-          "keyword": "금값",
-          "score": 97
-        },
-        {
-          "keyword": "김병헌",
-          "score": 96
-        },
-        {
-          "keyword": "프리미어리그",
-          "score": 95
-        },
-        {
-          "keyword": "아마존",
-          "score": 94
-        },
-        {
-          "keyword": "나스닥 지수",
-          "score": 93
-        },
-        {
-          "keyword": "mu",
-          "score": 92
-        },
-        {
-          "keyword": "premier league",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-21T03:32:56.725Z",
       "geo": "KR",
       "source": "google",
@@ -5450,6 +5403,53 @@
         },
         {
           "keyword": "김지원",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-25T01:15:15.665Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sora",
+          "score": 100
+        },
+        {
+          "keyword": "카카오게임즈",
+          "score": 99
+        },
+        {
+          "keyword": "한패스",
+          "score": 98
+        },
+        {
+          "keyword": "김희은 셰프",
+          "score": 97
+        },
+        {
+          "keyword": "휴전",
+          "score": 96
+        },
+        {
+          "keyword": "살라",
+          "score": 95
+        },
+        {
+          "keyword": "박왕열",
+          "score": 94
+        },
+        {
+          "keyword": "날씨",
+          "score": 93
+        },
+        {
+          "keyword": "weather",
+          "score": 92
+        },
+        {
+          "keyword": "금시세",
           "score": 91
         }
       ]
