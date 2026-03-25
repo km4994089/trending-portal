@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-21T20:47:13.331Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "丸亀製麺",
-          "score": 100
-        },
-        {
-          "keyword": "ユヴェントス 対 サッスオーロ",
-          "score": 99
-        },
-        {
-          "keyword": "阪神大賞典 2026",
-          "score": 98
-        },
-        {
-          "keyword": "ニース 対 パリsg",
-          "score": 97
-        },
-        {
-          "keyword": "田中雄士",
-          "score": 96
-        },
-        {
-          "keyword": "robert mueller",
-          "score": 95
-        },
-        {
-          "keyword": "大坂なおみ",
-          "score": 94
-        },
-        {
-          "keyword": "坂本怜",
-          "score": 93
-        },
-        {
-          "keyword": "スウォンジー 対 コベントリー",
-          "score": 92
-        },
-        {
-          "keyword": "山岡家",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-21T21:15:57.436Z",
       "geo": "JP",
       "source": "google",
@@ -4792,6 +4745,53 @@
         },
         {
           "keyword": "サイモン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-25T21:02:06.079Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "上野樹里",
+          "score": 100
+        },
+        {
+          "keyword": "仙台 天気",
+          "score": 99
+        },
+        {
+          "keyword": "芳根京子",
+          "score": 98
+        },
+        {
+          "keyword": "冬のなんかさ、春のなんかね ゆきお",
+          "score": 97
+        },
+        {
+          "keyword": "今日",
+          "score": 96
+        },
+        {
+          "keyword": "松本まりか",
+          "score": 95
+        },
+        {
+          "keyword": "ドジャース 開幕戦",
+          "score": 94
+        },
+        {
+          "keyword": "ダム貯水率",
+          "score": 93
+        },
+        {
+          "keyword": "line",
+          "score": 92
+        },
+        {
+          "keyword": "看護師国家試験 合格率",
           "score": 91
         }
       ]
