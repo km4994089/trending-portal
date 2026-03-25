@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-21T18:22:15.965Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "에버턴 대 첼시",
-          "score": 100
-        },
-        {
-          "keyword": "카카오뱅크 점검",
-          "score": 99
-        },
-        {
-          "keyword": "옌스 카스트로프",
-          "score": 98
-        },
-        {
-          "keyword": "lec",
-          "score": 97
-        },
-        {
-          "keyword": "fm",
-          "score": 96
-        },
-        {
-          "keyword": "bundesliga",
-          "score": 95
-        },
-        {
-          "keyword": "bayern vs union berlin",
-          "score": 94
-        },
-        {
-          "keyword": "브라이튼",
-          "score": 93
-        },
-        {
-          "keyword": "나나",
-          "score": 92
-        },
-        {
-          "keyword": "리버풀",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-21T18:57:45.942Z",
       "geo": "KR",
       "source": "google",
@@ -4886,6 +4839,53 @@
         },
         {
           "keyword": "금태섭",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-25T18:42:36.149Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "하메네이",
+          "score": 100
+        },
+        {
+          "keyword": "산이",
+          "score": 99
+        },
+        {
+          "keyword": "블리자드",
+          "score": 98
+        },
+        {
+          "keyword": "김효진",
+          "score": 97
+        },
+        {
+          "keyword": "스페이스x",
+          "score": 96
+        },
+        {
+          "keyword": "한화시스템",
+          "score": 95
+        },
+        {
+          "keyword": "라이언 고슬링",
+          "score": 94
+        },
+        {
+          "keyword": "이혁재",
+          "score": 93
+        },
+        {
+          "keyword": "금태섭",
+          "score": 92
+        },
+        {
+          "keyword": "무명전설",
           "score": 91
         }
       ]
