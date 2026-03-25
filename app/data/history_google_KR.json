@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-21T23:44:17.055Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "robert mueller",
-          "score": 100
-        },
-        {
-          "keyword": "nice vs psg",
-          "score": 99
-        },
-        {
-          "keyword": "이강인",
-          "score": 98
-        },
-        {
-          "keyword": "everton đấu với chelsea",
-          "score": 97
-        },
-        {
-          "keyword": "เอฟเวอร์ตัน พบ เชลซี",
-          "score": 96
-        },
-        {
-          "keyword": "로버트 뮬러",
-          "score": 95
-        },
-        {
-          "keyword": "첼시",
-          "score": 94
-        },
-        {
-          "keyword": "everton vs chelsea",
-          "score": 93
-        },
-        {
-          "keyword": "에버턴 대 첼시",
-          "score": 92
-        },
-        {
-          "keyword": "카카오뱅크 점검",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-22T01:16:13.242Z",
       "geo": "KR",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "claude",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-25T23:55:20.038Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "turboquant",
+          "score": 100
+        },
+        {
+          "keyword": "미국 이란",
+          "score": 99
+        },
+        {
+          "keyword": "송성문",
+          "score": 98
+        },
+        {
+          "keyword": "금시세",
+          "score": 97
+        },
+        {
+          "keyword": "하메네이",
+          "score": 96
+        },
+        {
+          "keyword": "산이",
+          "score": 95
+        },
+        {
+          "keyword": "쿠키런 오븐스매시",
+          "score": 94
+        },
+        {
+          "keyword": "블리자드",
+          "score": 93
+        },
+        {
+          "keyword": "앨런 리치슨",
+          "score": 92
+        },
+        {
+          "keyword": "김효진",
           "score": 91
         }
       ]

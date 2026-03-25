@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-21T23:44:18.564Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "日曜報道",
-          "score": 100
-        },
-        {
-          "keyword": "帝国ホテル",
-          "score": 99
-        },
-        {
-          "keyword": "maga",
-          "score": 98
-        },
-        {
-          "keyword": "大家志津香",
-          "score": 97
-        },
-        {
-          "keyword": "富士山",
-          "score": 96
-        },
-        {
-          "keyword": "久喜市",
-          "score": 95
-        },
-        {
-          "keyword": "三重県",
-          "score": 94
-        },
-        {
-          "keyword": "高橋ひかる",
-          "score": 93
-        },
-        {
-          "keyword": "広島 天気",
-          "score": 92
-        },
-        {
-          "keyword": "橋下徹",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-22T01:16:14.698Z",
       "geo": "JP",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "ドジャース 試合",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-25T23:55:21.588Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "山梨学院",
+          "score": 100
+        },
+        {
+          "keyword": "三国競艇",
+          "score": 99
+        },
+        {
+          "keyword": "アランカール",
+          "score": 98
+        },
+        {
+          "keyword": "hbo",
+          "score": 97
+        },
+        {
+          "keyword": "岐阜県",
+          "score": 96
+        },
+        {
+          "keyword": "ダウ90000",
+          "score": 95
+        },
+        {
+          "keyword": "プペル 映画",
+          "score": 94
+        },
+        {
+          "keyword": "谷川萌々子",
+          "score": 93
+        },
+        {
+          "keyword": "道路交通法改正",
+          "score": 92
+        },
+        {
+          "keyword": "ジャイアンツ 対 ヤンキース",
           "score": 91
         }
       ]
