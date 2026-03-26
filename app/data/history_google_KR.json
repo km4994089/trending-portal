@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-22T23:48:11.794Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김혜성",
-          "score": 100
-        },
-        {
-          "keyword": "이란 미국",
-          "score": 99
-        },
-        {
-          "keyword": "miami open",
-          "score": 98
-        },
-        {
-          "keyword": "비트코인",
-          "score": 97
-        },
-        {
-          "keyword": "เรอัลมาดริด พบ อัตเลติโกมาดริด",
-          "score": 96
-        },
-        {
-          "keyword": "new york city vs inter miami",
-          "score": 95
-        },
-        {
-          "keyword": "реал мадрид – атлетико мадрид",
-          "score": 94
-        },
-        {
-          "keyword": "real madrid đấu với atlético madrid",
-          "score": 93
-        },
-        {
-          "keyword": "la liga",
-          "score": 92
-        },
-        {
-          "keyword": "pga",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-23T01:16:46.145Z",
       "geo": "KR",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "이탈리아",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-26T23:53:51.909Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "미세먼지 농도",
+          "score": 100
+        },
+        {
+          "keyword": "호르무즈 해협",
+          "score": 99
+        },
+        {
+          "keyword": "friendlies",
+          "score": 98
+        },
+        {
+          "keyword": "나스닥",
+          "score": 97
+        },
+        {
+          "keyword": "미국 이란",
+          "score": 96
+        },
+        {
+          "keyword": "미세먼지",
+          "score": 95
+        },
+        {
+          "keyword": "덴마크 대 북마케도니아",
+          "score": 94
+        },
+        {
+          "keyword": "달러환율",
+          "score": 93
+        },
+        {
+          "keyword": "brazil vs france",
+          "score": 92
+        },
+        {
+          "keyword": "삼성전자 주식",
           "score": 91
         }
       ]
