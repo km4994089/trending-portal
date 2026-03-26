@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-22T21:17:25.916Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "real madrid đấu với atlético madrid",
-          "score": 100
-        },
-        {
-          "keyword": "ラリーガ",
-          "score": 99
-        },
-        {
-          "keyword": "沖縄 天気",
-          "score": 98
-        },
-        {
-          "keyword": "静岡 天気",
-          "score": 97
-        },
-        {
-          "keyword": "laliga",
-          "score": 96
-        },
-        {
-          "keyword": "新川優愛",
-          "score": 95
-        },
-        {
-          "keyword": "フィオレンティーナ 対 インテル",
-          "score": 94
-        },
-        {
-          "keyword": "ローマ 対 レッチェ",
-          "score": 93
-        },
-        {
-          "keyword": "real madrid vs atlético madrid",
-          "score": 92
-        },
-        {
-          "keyword": "new york city vs inter miami",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-22T21:46:25.563Z",
       "geo": "JP",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "ダウ先物",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-26T21:26:25.473Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "渕岡友美",
+          "score": 100
+        },
+        {
+          "keyword": "ブラジル 対 フランス",
+          "score": 99
+        },
+        {
+          "keyword": "津田寛治",
+          "score": 98
+        },
+        {
+          "keyword": "ウクライナ 対 スウェーデン",
+          "score": 97
+        },
+        {
+          "keyword": "f1 日本グランプリ",
+          "score": 96
+        },
+        {
+          "keyword": "ブルームバーグ",
+          "score": 95
+        },
+        {
+          "keyword": "おはよう日本",
+          "score": 94
+        },
+        {
+          "keyword": "吉川愛",
+          "score": 93
+        },
+        {
+          "keyword": "ブラジル代表",
+          "score": 92
+        },
+        {
+          "keyword": "岡田結実",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-22T21:17:23.300Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "wake forest basketball",
-          "score": 100
-        },
-        {
-          "keyword": "ames iowa",
-          "score": 99
-        },
-        {
-          "keyword": "lipsky golfer",
-          "score": 98
-        },
-        {
-          "keyword": "iowa state university",
-          "score": 97
-        },
-        {
-          "keyword": "brewers",
-          "score": 96
-        },
-        {
-          "keyword": "kara lawson",
-          "score": 95
-        },
-        {
-          "keyword": "madrid fc",
-          "score": 94
-        },
-        {
-          "keyword": "isis sio",
-          "score": 93
-        },
-        {
-          "keyword": "baylor vs duke",
-          "score": 92
-        },
-        {
-          "keyword": "ademola lookman",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-22T21:46:22.951Z",
       "geo": "US",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "trent sherfield",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-26T21:26:22.856Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tornado watch",
+          "score": 100
+        },
+        {
+          "keyword": "denver smoke",
+          "score": 99
+        },
+        {
+          "keyword": "denver fire",
+          "score": 98
+        },
+        {
+          "keyword": "kyle schwarber",
+          "score": 97
+        },
+        {
+          "keyword": "punch monkey",
+          "score": 96
+        },
+        {
+          "keyword": "colorado fires",
+          "score": 95
+        },
+        {
+          "keyword": "fires near me",
+          "score": 94
+        },
+        {
+          "keyword": "tarik skubal",
+          "score": 93
+        },
+        {
+          "keyword": "sandro tonali",
+          "score": 92
+        },
+        {
+          "keyword": "carlos correa",
           "score": 91
         }
       ]
