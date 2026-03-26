@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-22T21:46:22.951Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "matt fitzpatrick",
-          "score": 100
-        },
-        {
-          "keyword": "ian jackson",
-          "score": 99
-        },
-        {
-          "keyword": "tommy paul",
-          "score": 98
-        },
-        {
-          "keyword": "madison keys",
-          "score": 97
-        },
-        {
-          "keyword": "chris buescher",
-          "score": 96
-        },
-        {
-          "keyword": "st john's university",
-          "score": 95
-        },
-        {
-          "keyword": "darryn peterson",
-          "score": 94
-        },
-        {
-          "keyword": "st john's university new york",
-          "score": 93
-        },
-        {
-          "keyword": "bryce hopkins",
-          "score": 92
-        },
-        {
-          "keyword": "donovan clingan",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-22T22:15:26.357Z",
       "geo": "US",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "carlos correa",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-26T21:51:29.319Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "severe thunderstorm watch",
+          "score": 100
+        },
+        {
+          "keyword": "mac pro",
+          "score": 99
+        },
+        {
+          "keyword": "fire",
+          "score": 98
+        },
+        {
+          "keyword": "russian oil tanker",
+          "score": 97
+        },
+        {
+          "keyword": "alec bohm",
+          "score": 96
+        },
+        {
+          "keyword": "nathan church",
+          "score": 95
+        },
+        {
+          "keyword": "blue bell brookie a la mode",
+          "score": 94
+        },
+        {
+          "keyword": "brady house",
+          "score": 93
+        },
+        {
+          "keyword": "españa vs",
+          "score": 92
+        },
+        {
+          "keyword": "tyler o'neill",
           "score": 91
         }
       ]
