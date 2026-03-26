@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-22T11:43:11.401Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "shamrock marathon",
-          "score": 100
-        },
-        {
-          "keyword": "shamrock shuffle chicago",
-          "score": 99
-        },
-        {
-          "keyword": "ipl",
-          "score": 98
-        },
-        {
-          "keyword": "ohio state football",
-          "score": 97
-        },
-        {
-          "keyword": "new york times wordle",
-          "score": 96
-        },
-        {
-          "keyword": "nyt crossword",
-          "score": 95
-        },
-        {
-          "keyword": "chicago cubs",
-          "score": 94
-        },
-        {
-          "keyword": "f1 schedule 2026",
-          "score": 93
-        },
-        {
-          "keyword": "newcastle vs sunderland",
-          "score": 92
-        },
-        {
-          "keyword": "donald trump tsa",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-22T12:28:39.318Z",
       "geo": "US",
       "source": "google",
@@ -4463,6 +4416,53 @@
         },
         {
           "keyword": "clear",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-26T12:05:36.519Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "teodora kostovic",
+          "score": 100
+        },
+        {
+          "keyword": "steven tyler",
+          "score": 99
+        },
+        {
+          "keyword": "kc royals",
+          "score": 98
+        },
+        {
+          "keyword": "pirates schedule",
+          "score": 97
+        },
+        {
+          "keyword": "world cup",
+          "score": 96
+        },
+        {
+          "keyword": "cherry blossoms dc",
+          "score": 95
+        },
+        {
+          "keyword": "phillies tickets",
+          "score": 94
+        },
+        {
+          "keyword": "why is tsa not getting paid",
+          "score": 93
+        },
+        {
+          "keyword": "sabrina carpenter",
+          "score": 92
+        },
+        {
+          "keyword": "cubs game",
           "score": 91
         }
       ]
