@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-22T06:09:49.852Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "マイナ保険証",
-          "score": 100
-        },
-        {
-          "keyword": "マリノス",
-          "score": 99
-        },
-        {
-          "keyword": "柏レイソル",
-          "score": 98
-        },
-        {
-          "keyword": "サンガ",
-          "score": 97
-        },
-        {
-          "keyword": "近畿大学",
-          "score": 96
-        },
-        {
-          "keyword": "山梨学院",
-          "score": 95
-        },
-        {
-          "keyword": "プロ野球速報",
-          "score": 94
-        },
-        {
-          "keyword": "ダゾーン",
-          "score": 93
-        },
-        {
-          "keyword": "サガン鳥栖",
-          "score": 92
-        },
-        {
-          "keyword": "南海高野線",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-22T07:11:37.483Z",
       "geo": "JP",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "アドマイヤズーム",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-26T06:57:18.336Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ig",
+          "score": 100
+        },
+        {
+          "keyword": "適時開示",
+          "score": 99
+        },
+        {
+          "keyword": "npb",
+          "score": 98
+        },
+        {
+          "keyword": "三重高校 甲子園",
+          "score": 97
+        },
+        {
+          "keyword": "ボートレース蒲郡",
+          "score": 96
+        },
+        {
+          "keyword": "警察署",
+          "score": 95
+        },
+        {
+          "keyword": "中村剛也",
+          "score": 94
+        },
+        {
+          "keyword": "経済団体",
+          "score": 93
+        },
+        {
+          "keyword": "高橋藍",
+          "score": 92
+        },
+        {
+          "keyword": "ダイハツ リコール",
           "score": 91
         }
       ]
