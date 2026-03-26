@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-22T05:16:37.112Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cameron diaz",
-          "score": 100
-        },
-        {
-          "keyword": "iron fist",
-          "score": 99
-        },
-        {
-          "keyword": "dhurandhar",
-          "score": 98
-        },
-        {
-          "keyword": "woody harrelson",
-          "score": 97
-        },
-        {
-          "keyword": "nikita kucherov",
-          "score": 96
-        },
-        {
-          "keyword": "jared leto",
-          "score": 95
-        },
-        {
-          "keyword": "crimson desert playstation",
-          "score": 94
-        },
-        {
-          "keyword": "christopher nolan",
-          "score": 93
-        },
-        {
-          "keyword": "andrew garfield",
-          "score": 92
-        },
-        {
-          "keyword": "margaret qualley",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-22T06:09:47.582Z",
       "geo": "US",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "dodgers",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-26T05:54:49.690Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ballot",
+          "score": 100
+        },
+        {
+          "keyword": "kevin costner",
+          "score": 99
+        },
+        {
+          "keyword": "ipl",
+          "score": 98
+        },
+        {
+          "keyword": "eiza gonzález",
+          "score": 97
+        },
+        {
+          "keyword": "nba standings",
+          "score": 96
+        },
+        {
+          "keyword": "andrew mccarthy",
+          "score": 95
+        },
+        {
+          "keyword": "bruno mars",
+          "score": 94
+        },
+        {
+          "keyword": "espn nba",
+          "score": 93
+        },
+        {
+          "keyword": "warriors game today",
+          "score": 92
+        },
+        {
+          "keyword": "john collins",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-22T05:16:38.368Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "fc 서울 대 광주",
-          "score": 100
-        },
-        {
-          "keyword": "울산 대 김천상무",
-          "score": 99
-        },
-        {
-          "keyword": "휴스턴 대 마이애미",
-          "score": 98
-        },
-        {
-          "keyword": "ssg",
-          "score": 97
-        },
-        {
-          "keyword": "nba",
-          "score": 96
-        },
-        {
-          "keyword": "한화이글스",
-          "score": 95
-        },
-        {
-          "keyword": "유해진",
-          "score": 94
-        },
-        {
-          "keyword": "장항준",
-          "score": 93
-        },
-        {
-          "keyword": "샌안토니오 대 인디애나",
-          "score": 92
-        },
-        {
-          "keyword": "대구날씨",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-22T06:09:48.633Z",
       "geo": "KR",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "mlb",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-26T05:54:51.007Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김동선",
+          "score": 100
+        },
+        {
+          "keyword": "홍해",
+          "score": 99
+        },
+        {
+          "keyword": "해리포터 드라마",
+          "score": 98
+        },
+        {
+          "keyword": "천안함",
+          "score": 97
+        },
+        {
+          "keyword": "로드리",
+          "score": 96
+        },
+        {
+          "keyword": "30기 옥순",
+          "score": 95
+        },
+        {
+          "keyword": "이정후",
+          "score": 94
+        },
+        {
+          "keyword": "권경애",
+          "score": 93
+        },
+        {
+          "keyword": "독도",
+          "score": 92
+        },
+        {
+          "keyword": "국민체육진흥공단",
           "score": 91
         }
       ]
