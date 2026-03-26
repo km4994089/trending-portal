@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-22T16:18:07.898Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "epl",
-          "score": 100
-        },
-        {
-          "keyword": "아스톤빌라",
-          "score": 99
-        },
-        {
-          "keyword": "웨스트햄",
-          "score": 98
-        },
-        {
-          "keyword": "문정희",
-          "score": 97
-        },
-        {
-          "keyword": "pl",
-          "score": 96
-        },
-        {
-          "keyword": "aston villa vs west ham",
-          "score": 95
-        },
-        {
-          "keyword": "김민우",
-          "score": 94
-        },
-        {
-          "keyword": "tottenham vs nottm forest",
-          "score": 93
-        },
-        {
-          "keyword": "blg",
-          "score": 92
-        },
-        {
-          "keyword": "한스사마",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-22T17:17:43.549Z",
       "geo": "KR",
       "source": "google",
@@ -4228,6 +4181,53 @@
         },
         {
           "keyword": "이수경",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-26T16:52:40.818Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kick",
+          "score": 100
+        },
+        {
+          "keyword": "선관위",
+          "score": 99
+        },
+        {
+          "keyword": "박진영",
+          "score": 98
+        },
+        {
+          "keyword": "우즈",
+          "score": 97
+        },
+        {
+          "keyword": "서준영",
+          "score": 96
+        },
+        {
+          "keyword": "이소나",
+          "score": 95
+        },
+        {
+          "keyword": "쇼미12",
+          "score": 94
+        },
+        {
+          "keyword": "심우면 연리리",
+          "score": 93
+        },
+        {
+          "keyword": "하이파이브",
+          "score": 92
+        },
+        {
+          "keyword": "박성웅",
           "score": 91
         }
       ]
