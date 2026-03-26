@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-22T20:48:53.460Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "新川優愛",
-          "score": 100
-        },
-        {
-          "keyword": "フィオレンティーナ 対 インテル",
-          "score": 99
-        },
-        {
-          "keyword": "real madrid vs atlético madrid",
-          "score": 98
-        },
-        {
-          "keyword": "new york city vs inter miami",
-          "score": 97
-        },
-        {
-          "keyword": "rマドリード 対 アトレティコ",
-          "score": 96
-        },
-        {
-          "keyword": "ホンダ・フィット",
-          "score": 95
-        },
-        {
-          "keyword": "カーリング",
-          "score": 94
-        },
-        {
-          "keyword": "stvv 対 ユニオン",
-          "score": 93
-        },
-        {
-          "keyword": "林ゆめ",
-          "score": 92
-        },
-        {
-          "keyword": "arsenal đấu với man city",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-22T21:17:25.916Z",
       "geo": "JP",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "ドジャース",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-26T20:56:59.880Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ブラジル代表",
+          "score": 100
+        },
+        {
+          "keyword": "岡田結実",
+          "score": 99
+        },
+        {
+          "keyword": "プロ野球",
+          "score": 98
+        },
+        {
+          "keyword": "パワー半導体",
+          "score": 97
+        },
+        {
+          "keyword": "grok",
+          "score": 96
+        },
+        {
+          "keyword": "カージナルス 対 レイズ",
+          "score": 95
+        },
+        {
+          "keyword": "brazil vs france",
+          "score": 94
+        },
+        {
+          "keyword": "サッカー",
+          "score": 93
+        },
+        {
+          "keyword": "ドジャース 試合",
+          "score": 92
+        },
+        {
+          "keyword": "ダウ先物",
           "score": 91
         }
       ]
