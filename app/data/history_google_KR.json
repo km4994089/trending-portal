@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-22T03:56:49.300Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "휴스턴 대 마이애미",
-          "score": 100
-        },
-        {
-          "keyword": "ssg",
-          "score": 99
-        },
-        {
-          "keyword": "nba",
-          "score": 98
-        },
-        {
-          "keyword": "한화이글스",
-          "score": 97
-        },
-        {
-          "keyword": "유해진",
-          "score": 96
-        },
-        {
-          "keyword": "장항준",
-          "score": 95
-        },
-        {
-          "keyword": "샌안토니오 대 인디애나",
-          "score": 94
-        },
-        {
-          "keyword": "대구날씨",
-          "score": 93
-        },
-        {
-          "keyword": "오스틴 대 엘에이 fc",
-          "score": 92
-        },
-        {
-          "keyword": "올랜도 대 la 레이커스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-22T05:16:38.368Z",
       "geo": "KR",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "30기 현커",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-26T04:08:28.550Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "로드리",
+          "score": 100
+        },
+        {
+          "keyword": "30기 옥순",
+          "score": 99
+        },
+        {
+          "keyword": "이정후",
+          "score": 98
+        },
+        {
+          "keyword": "권경애",
+          "score": 97
+        },
+        {
+          "keyword": "독도",
+          "score": 96
+        },
+        {
+          "keyword": "국민체육진흥공단",
+          "score": 95
+        },
+        {
+          "keyword": "구글 터보퀀트",
+          "score": 94
+        },
+        {
+          "keyword": "메쥬",
+          "score": 93
+        },
+        {
+          "keyword": "스피어",
+          "score": 92
+        },
+        {
+          "keyword": "mlb",
           "score": 91
         }
       ]
