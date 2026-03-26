@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-22T22:48:43.203Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "charles barkley",
-          "score": 100
-        },
-        {
-          "keyword": "nate ament",
-          "score": 99
-        },
-        {
-          "keyword": "sheridan gorman",
-          "score": 98
-        },
-        {
-          "keyword": "shaquille o'neal",
-          "score": 97
-        },
-        {
-          "keyword": "boca juniors - instituto",
-          "score": 96
-        },
-        {
-          "keyword": "futures",
-          "score": 95
-        },
-        {
-          "keyword": "alex condon",
-          "score": 94
-        },
-        {
-          "keyword": "pachuca - toluca",
-          "score": 93
-        },
-        {
-          "keyword": "tyler reddick",
-          "score": 92
-        },
-        {
-          "keyword": "santos - puebla",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-22T23:18:04.314Z",
       "geo": "US",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "mac pro",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-26T22:53:35.636Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ncaa games today",
+          "score": 100
+        },
+        {
+          "keyword": "wild vs panthers",
+          "score": 99
+        },
+        {
+          "keyword": "blackhawks vs flyers",
+          "score": 98
+        },
+        {
+          "keyword": "penguins vs senators",
+          "score": 97
+        },
+        {
+          "keyword": "aroldis chapman",
+          "score": 96
+        },
+        {
+          "keyword": "jfk jr",
+          "score": 95
+        },
+        {
+          "keyword": "trump signature",
+          "score": 94
+        },
+        {
+          "keyword": "lsu football roster",
+          "score": 93
+        },
+        {
+          "keyword": "blue jays",
+          "score": 92
+        },
+        {
+          "keyword": "knicks vs hornets",
           "score": 91
         }
       ]

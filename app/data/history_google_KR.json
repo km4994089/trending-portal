@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-22T22:48:44.581Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "เรอัลมาดริด พบ อัตเลติโกมาดริด",
-          "score": 100
-        },
-        {
-          "keyword": "new york city vs inter miami",
-          "score": 99
-        },
-        {
-          "keyword": "마이애미 오픈",
-          "score": 98
-        },
-        {
-          "keyword": "реал мадрид – атлетико мадрид",
-          "score": 97
-        },
-        {
-          "keyword": "real madrid đấu với atlético madrid",
-          "score": 96
-        },
-        {
-          "keyword": "la liga",
-          "score": 95
-        },
-        {
-          "keyword": "pga",
-          "score": 94
-        },
-        {
-          "keyword": "김효주",
-          "score": 93
-        },
-        {
-          "keyword": "real madrid vs atlético madrid",
-          "score": 92
-        },
-        {
-          "keyword": "арсенал – манчестер сити",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-22T23:18:05.661Z",
       "geo": "KR",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "kick",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-26T22:53:36.792Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "미세먼지",
+          "score": 100
+        },
+        {
+          "keyword": "덴마크 대 북마케도니아",
+          "score": 99
+        },
+        {
+          "keyword": "달러환율",
+          "score": 98
+        },
+        {
+          "keyword": "brazil vs france",
+          "score": 97
+        },
+        {
+          "keyword": "브라질 대 프랑스",
+          "score": 96
+        },
+        {
+          "keyword": "그록",
+          "score": 95
+        },
+        {
+          "keyword": "grok",
+          "score": 94
+        },
+        {
+          "keyword": "친선경기",
+          "score": 93
+        },
+        {
+          "keyword": "이탈리아 축구",
+          "score": 92
+        },
+        {
+          "keyword": "샌디스크 주가",
           "score": 91
         }
       ]
