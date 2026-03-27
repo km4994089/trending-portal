@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-23T10:43:17.366Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "高橋成美",
-          "score": 100
-        },
-        {
-          "keyword": "はるな愛",
-          "score": 99
-        },
-        {
-          "keyword": "伊豆半島",
-          "score": 98
-        },
-        {
-          "keyword": "伊豆",
-          "score": 97
-        },
-        {
-          "keyword": "鈴木保奈美",
-          "score": 96
-        },
-        {
-          "keyword": "杢代和人",
-          "score": 95
-        },
-        {
-          "keyword": "佐々木麟太郎",
-          "score": 94
-        },
-        {
-          "keyword": "windows11 microsoft アカウント",
-          "score": 93
-        },
-        {
-          "keyword": "鏡優翔",
-          "score": 92
-        },
-        {
-          "keyword": "アイプリバース",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-23T11:37:13.378Z",
       "geo": "JP",
       "source": "google",
@@ -4181,6 +4134,53 @@
         },
         {
           "keyword": "ライオンズ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-27T11:34:41.860Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "タモリ",
+          "score": 100
+        },
+        {
+          "keyword": "木村佳乃",
+          "score": 99
+        },
+        {
+          "keyword": "田中幹也",
+          "score": 98
+        },
+        {
+          "keyword": "近本光司",
+          "score": 97
+        },
+        {
+          "keyword": "グリコ",
+          "score": 96
+        },
+        {
+          "keyword": "めるる",
+          "score": 95
+        },
+        {
+          "keyword": "船迫大雅",
+          "score": 94
+        },
+        {
+          "keyword": "山田裕貴",
+          "score": 93
+        },
+        {
+          "keyword": "白熊つらら",
+          "score": 92
+        },
+        {
+          "keyword": "住之江競艇",
           "score": 91
         }
       ]
