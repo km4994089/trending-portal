@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-23T09:33:42.536Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "4",
-          "score": 100
-        },
-        {
-          "keyword": "k pop",
-          "score": 99
-        },
-        {
-          "keyword": "project hail mary movie ryan gosling",
-          "score": 98
-        },
-        {
-          "keyword": "deep learning",
-          "score": 97
-        },
-        {
-          "keyword": "kay adams",
-          "score": 96
-        },
-        {
-          "keyword": "ewr tsa wait times",
-          "score": 95
-        },
-        {
-          "keyword": "u of arizona",
-          "score": 94
-        },
-        {
-          "keyword": "space exploration",
-          "score": 93
-        },
-        {
-          "keyword": "electric vehicles",
-          "score": 92
-        },
-        {
-          "keyword": "climate change",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-23T10:43:14.507Z",
       "geo": "US",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "artificial intelligence",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-27T09:44:05.318Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "go daddy",
+          "score": 100
+        },
+        {
+          "keyword": "latest news",
+          "score": 99
+        },
+        {
+          "keyword": "tsa agents government shutdown",
+          "score": 98
+        },
+        {
+          "keyword": "apple",
+          "score": 97
+        },
+        {
+          "keyword": "bitcoin price",
+          "score": 96
+        },
+        {
+          "keyword": "is claude down",
+          "score": 95
+        },
+        {
+          "keyword": "mortgage interest rates",
+          "score": 94
+        },
+        {
+          "keyword": "mortgage broker",
+          "score": 93
+        },
+        {
+          "keyword": "home mortgage loan",
+          "score": 92
+        },
+        {
+          "keyword": "mortgage officer",
           "score": 91
         }
       ]
