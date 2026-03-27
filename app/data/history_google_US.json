@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-23T06:57:58.462Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "上证指数",
-          "score": 100
-        },
-        {
-          "keyword": "paradise season 2 episode 7",
-          "score": 99
-        },
-        {
-          "keyword": "gold price",
-          "score": 98
-        },
-        {
-          "keyword": "dennis rodman",
-          "score": 97
-        },
-        {
-          "keyword": "jason momoa",
-          "score": 96
-        },
-        {
-          "keyword": "restaurant",
-          "score": 95
-        },
-        {
-          "keyword": "target dress code",
-          "score": 94
-        },
-        {
-          "keyword": "plane crash nyc",
-          "score": 93
-        },
-        {
-          "keyword": "lio rush",
-          "score": 92
-        },
-        {
-          "keyword": "alan ritchson",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-23T08:01:03.273Z",
       "geo": "US",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "blade runner 2049",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-27T07:55:39.759Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "electric cars",
+          "score": 100
+        },
+        {
+          "keyword": "dhs",
+          "score": 99
+        },
+        {
+          "keyword": "flight status",
+          "score": 98
+        },
+        {
+          "keyword": "china vs curacao",
+          "score": 97
+        },
+        {
+          "keyword": "dhurandhar 2 box office collection",
+          "score": 96
+        },
+        {
+          "keyword": "flood warning",
+          "score": 95
+        },
+        {
+          "keyword": "artificial intelligence",
+          "score": 94
+        },
+        {
+          "keyword": "deep learning",
+          "score": 93
+        },
+        {
+          "keyword": "climate change",
+          "score": 92
+        },
+        {
+          "keyword": "electric vehicles",
           "score": 91
         }
       ]
