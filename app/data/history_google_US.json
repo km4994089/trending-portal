@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-23T15:32:21.927Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "real estate",
-          "score": 100
-        },
-        {
-          "keyword": "the view",
-          "score": 99
-        },
-        {
-          "keyword": "realtor",
-          "score": 98
-        },
-        {
-          "keyword": "abby huntsman",
-          "score": 97
-        },
-        {
-          "keyword": "kesha",
-          "score": 96
-        },
-        {
-          "keyword": "homes",
-          "score": 95
-        },
-        {
-          "keyword": "kenny smith",
-          "score": 94
-        },
-        {
-          "keyword": "wes miller",
-          "score": 93
-        },
-        {
-          "keyword": "supreme court",
-          "score": 92
-        },
-        {
-          "keyword": "s&p 500 today",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-23T16:45:21.299Z",
       "geo": "US",
       "source": "google",
@@ -4181,6 +4134,53 @@
         },
         {
           "keyword": "meta stock price",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-27T16:10:50.537Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "us mint",
+          "score": 100
+        },
+        {
+          "keyword": "damar hamlin",
+          "score": 99
+        },
+        {
+          "keyword": "jason heyward",
+          "score": 98
+        },
+        {
+          "keyword": "abby huntsman",
+          "score": 97
+        },
+        {
+          "keyword": "marsha blackburn",
+          "score": 96
+        },
+        {
+          "keyword": "jill biden",
+          "score": 95
+        },
+        {
+          "keyword": "cherfilus-mccormick",
+          "score": 94
+        },
+        {
+          "keyword": "kash patel",
+          "score": 93
+        },
+        {
+          "keyword": "dow jones stock markets futures",
+          "score": 92
+        },
+        {
+          "keyword": "msft stock",
           "score": 91
         }
       ]
