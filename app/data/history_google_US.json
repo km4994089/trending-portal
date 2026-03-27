@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-23T19:40:41.344Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jakub mensik",
-          "score": 100
-        },
-        {
-          "keyword": "markelle fultz",
-          "score": 99
-        },
-        {
-          "keyword": "coco gauff",
-          "score": 98
-        },
-        {
-          "keyword": "frances tiafoe",
-          "score": 97
-        },
-        {
-          "keyword": "christian rozeboom",
-          "score": 96
-        },
-        {
-          "keyword": "travis kelce",
-          "score": 95
-        },
-        {
-          "keyword": "bill cosby",
-          "score": 94
-        },
-        {
-          "keyword": "sorana cîrstea",
-          "score": 93
-        },
-        {
-          "keyword": "carson benge",
-          "score": 92
-        },
-        {
-          "keyword": "james hudson",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-23T20:28:42.157Z",
       "geo": "US",
       "source": "google",
@@ -4181,6 +4134,53 @@
         },
         {
           "keyword": "spain",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-27T19:54:52.578Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jupiter florida",
+          "score": 100
+        },
+        {
+          "keyword": "sarah jane ramos",
+          "score": 99
+        },
+        {
+          "keyword": "masters",
+          "score": 98
+        },
+        {
+          "keyword": "vanessa trump",
+          "score": 97
+        },
+        {
+          "keyword": "arthur fils",
+          "score": 96
+        },
+        {
+          "keyword": "tiger woods net worth",
+          "score": 95
+        },
+        {
+          "keyword": "downdetector",
+          "score": 94
+        },
+        {
+          "keyword": "cloudflare outage",
+          "score": 93
+        },
+        {
+          "keyword": "henry lee",
+          "score": 92
+        },
+        {
+          "keyword": "tiger woods crash",
           "score": 91
         }
       ]
