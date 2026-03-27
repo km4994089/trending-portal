@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-23T04:03:05.015Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "독도",
-          "score": 100
-        },
-        {
-          "keyword": "박홍근",
-          "score": 99
-        },
-        {
-          "keyword": "국제 강아지의 날",
-          "score": 98
-        },
-        {
-          "keyword": "삼성라이온즈",
-          "score": 97
-        },
-        {
-          "keyword": "1달러",
-          "score": 96
-        },
-        {
-          "keyword": "붉은사막 패치",
-          "score": 95
-        },
-        {
-          "keyword": "ria 계좌",
-          "score": 94
-        },
-        {
-          "keyword": "달러 환율",
-          "score": 93
-        },
-        {
-          "keyword": "하나투어",
-          "score": 92
-        },
-        {
-          "keyword": "한화에어로스페이스 주가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-23T05:51:59.851Z",
       "geo": "KR",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "덴마크 대 북마케도니아",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-27T04:09:14.667Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "카일 터커",
+          "score": 100
+        },
+        {
+          "keyword": "독도",
+          "score": 99
+        },
+        {
+          "keyword": "천공기",
+          "score": 98
+        },
+        {
+          "keyword": "도쿄 포켓몬센터",
+          "score": 97
+        },
+        {
+          "keyword": "전한길",
+          "score": 96
+        },
+        {
+          "keyword": "스타벅스 kbo",
+          "score": 95
+        },
+        {
+          "keyword": "예술의전당",
+          "score": 94
+        },
+        {
+          "keyword": "앤디 페이지",
+          "score": 93
+        },
+        {
+          "keyword": "우리로",
+          "score": 92
+        },
+        {
+          "keyword": "서해수호의 날",
           "score": 91
         }
       ]
