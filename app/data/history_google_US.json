@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-23T23:28:01.781Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "rockets vs bulls",
-          "score": 100
-        },
-        {
-          "keyword": "senators vs rangers",
-          "score": 99
-        },
-        {
-          "keyword": "astros",
-          "score": 98
-        },
-        {
-          "keyword": "agent zeta prime video",
-          "score": 97
-        },
-        {
-          "keyword": "nba league pass",
-          "score": 96
-        },
-        {
-          "keyword": "vanderbilt women's basketball",
-          "score": 95
-        },
-        {
-          "keyword": "mtg banned and restricted announcement",
-          "score": 94
-        },
-        {
-          "keyword": "australia women vs west indies women",
-          "score": 93
-        },
-        {
-          "keyword": "grizzlies vs hawks",
-          "score": 92
-        },
-        {
-          "keyword": "trader joe's recall",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-23T23:54:50.999Z",
       "geo": "US",
       "source": "google",
@@ -4322,6 +4275,53 @@
         },
         {
           "keyword": "draftkings",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-27T23:51:52.075Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "st john's university",
+          "score": 100
+        },
+        {
+          "keyword": "st john's university new york",
+          "score": 99
+        },
+        {
+          "keyword": "ozzie albies",
+          "score": 98
+        },
+        {
+          "keyword": "lauren betts",
+          "score": 97
+        },
+        {
+          "keyword": "bryce hopkins",
+          "score": 96
+        },
+        {
+          "keyword": "angels - astros",
+          "score": 95
+        },
+        {
+          "keyword": "pascal siakam",
+          "score": 94
+        },
+        {
+          "keyword": "camilo doval",
+          "score": 93
+        },
+        {
+          "keyword": "jarace walker",
+          "score": 92
+        },
+        {
+          "keyword": "jon scheyer",
           "score": 91
         }
       ]

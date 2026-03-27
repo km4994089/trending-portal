@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-23T23:28:04.159Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "小泉八雲",
-          "score": 100
-        },
-        {
-          "keyword": "ばけばけ",
-          "score": 99
-        },
-        {
-          "keyword": "馬渕磨理子",
-          "score": 98
-        },
-        {
-          "keyword": "本田望結",
-          "score": 97
-        },
-        {
-          "keyword": "千葉銀行",
-          "score": 96
-        },
-        {
-          "keyword": "ローソン おにぎり",
-          "score": 95
-        },
-        {
-          "keyword": "和田アキ子",
-          "score": 94
-        },
-        {
-          "keyword": "北海道 教職員 人事異動 中学校",
-          "score": 93
-        },
-        {
-          "keyword": "黄砂情報",
-          "score": 92
-        },
-        {
-          "keyword": "vポイント",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-23T23:54:54.042Z",
       "geo": "JP",
       "source": "google",
@@ -4322,6 +4275,53 @@
         },
         {
           "keyword": "京都 桜",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-27T23:51:55.492Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "アスレチックス",
+          "score": 100
+        },
+        {
+          "keyword": "ヨックモック",
+          "score": 99
+        },
+        {
+          "keyword": "f1 スケジュール",
+          "score": 98
+        },
+        {
+          "keyword": "中山秀征",
+          "score": 97
+        },
+        {
+          "keyword": "芦屋競艇",
+          "score": 96
+        },
+        {
+          "keyword": "大阪城公園",
+          "score": 95
+        },
+        {
+          "keyword": "西友",
+          "score": 94
+        },
+        {
+          "keyword": "サンリオ 株価",
+          "score": 93
+        },
+        {
+          "keyword": "kddi 不正会計",
+          "score": 92
+        },
+        {
+          "keyword": "百田夏菜子",
           "score": 91
         }
       ]
