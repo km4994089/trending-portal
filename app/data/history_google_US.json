@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-23T08:01:03.273Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "黄金",
-          "score": 100
-        },
-        {
-          "keyword": "reuters",
-          "score": 99
-        },
-        {
-          "keyword": "fuyao glass america fire",
-          "score": 98
-        },
-        {
-          "keyword": "gold price today",
-          "score": 97
-        },
-        {
-          "keyword": "上证指数",
-          "score": 96
-        },
-        {
-          "keyword": "hospital",
-          "score": 95
-        },
-        {
-          "keyword": "paradise season 2 episode 7",
-          "score": 94
-        },
-        {
-          "keyword": "gold price",
-          "score": 93
-        },
-        {
-          "keyword": "dennis rodman",
-          "score": 92
-        },
-        {
-          "keyword": "jason momoa",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-23T09:33:42.536Z",
       "geo": "US",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "electric vehicles",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-27T08:40:56.801Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mortgage refinance rates",
+          "score": 100
+        },
+        {
+          "keyword": "sora 2",
+          "score": 99
+        },
+        {
+          "keyword": "movie reviews",
+          "score": 98
+        },
+        {
+          "keyword": "power outages",
+          "score": 97
+        },
+        {
+          "keyword": "dhs",
+          "score": 96
+        },
+        {
+          "keyword": "flight status",
+          "score": 95
+        },
+        {
+          "keyword": "china vs curacao",
+          "score": 94
+        },
+        {
+          "keyword": "dhurandhar 2 box office collection",
+          "score": 93
+        },
+        {
+          "keyword": "flood warning",
+          "score": 92
+        },
+        {
+          "keyword": "artificial intelligence",
           "score": 91
         }
       ]

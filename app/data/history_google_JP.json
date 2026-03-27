@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-23T08:01:05.341Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "オープンワールド",
-          "score": 100
-        },
-        {
-          "keyword": "ナナ",
-          "score": 99
-        },
-        {
-          "keyword": "西宮市長選挙",
-          "score": 98
-        },
-        {
-          "keyword": "inpex",
-          "score": 97
-        },
-        {
-          "keyword": "堀ちえみ",
-          "score": 96
-        },
-        {
-          "keyword": "佐野市",
-          "score": 95
-        },
-        {
-          "keyword": "4",
-          "score": 94
-        },
-        {
-          "keyword": "けんき",
-          "score": 93
-        },
-        {
-          "keyword": "カザフスタン",
-          "score": 92
-        },
-        {
-          "keyword": "小瀧望 舞台",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-23T09:33:44.938Z",
       "geo": "JP",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "マクニカ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-27T08:40:59.079Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "特定 技能 外食",
+          "score": 100
+        },
+        {
+          "keyword": "ジャイアンツ",
+          "score": 99
+        },
+        {
+          "keyword": "巨人 対 阪神",
+          "score": 98
+        },
+        {
+          "keyword": "ファミマ キャンペーン",
+          "score": 97
+        },
+        {
+          "keyword": "ソフトバンクホークス",
+          "score": 96
+        },
+        {
+          "keyword": "井上直樹",
+          "score": 95
+        },
+        {
+          "keyword": "巨人 開幕スタメン",
+          "score": 94
+        },
+        {
+          "keyword": "福岡競艇",
+          "score": 93
+        },
+        {
+          "keyword": "広島 対 中日",
+          "score": 92
+        },
+        {
+          "keyword": "東京都",
           "score": 91
         }
       ]
