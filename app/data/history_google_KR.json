@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-23T01:16:46.145Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "하이브 주가",
-          "score": 100
-        },
-        {
-          "keyword": "하이브",
-          "score": 99
-        },
-        {
-          "keyword": "보험연수원",
-          "score": 98
-        },
-        {
-          "keyword": "연합뉴스",
-          "score": 97
-        },
-        {
-          "keyword": "동아일보",
-          "score": 96
-        },
-        {
-          "keyword": "김혜성",
-          "score": 95
-        },
-        {
-          "keyword": "이란 미국",
-          "score": 94
-        },
-        {
-          "keyword": "miami open",
-          "score": 93
-        },
-        {
-          "keyword": "비트코인",
-          "score": 92
-        },
-        {
-          "keyword": "เรอัลมาดริด พบ อัตเลติโกมาดริด",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-23T04:03:05.015Z",
       "geo": "KR",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "삼성전자 주식",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-27T01:19:50.667Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "두산베어스",
+          "score": 100
+        },
+        {
+          "keyword": "스타벅스",
+          "score": 99
+        },
+        {
+          "keyword": "월드컵 유럽 예선",
+          "score": 98
+        },
+        {
+          "keyword": "프랑스",
+          "score": 97
+        },
+        {
+          "keyword": "호르무즈 해협",
+          "score": 96
+        },
+        {
+          "keyword": "미세먼지 농도",
+          "score": 95
+        },
+        {
+          "keyword": "friendlies",
+          "score": 94
+        },
+        {
+          "keyword": "나스닥",
+          "score": 93
+        },
+        {
+          "keyword": "미세먼지",
+          "score": 92
+        },
+        {
+          "keyword": "덴마크 대 북마케도니아",
           "score": 91
         }
       ]
