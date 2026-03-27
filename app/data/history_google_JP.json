@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-23T12:41:36.535Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "黒船賞",
-          "score": 100
-        },
-        {
-          "keyword": "茂木外務大臣",
-          "score": 99
-        },
-        {
-          "keyword": "ドムドムバーガー",
-          "score": 98
-        },
-        {
-          "keyword": "マック メニュー",
-          "score": 97
-        },
-        {
-          "keyword": "石原良純",
-          "score": 96
-        },
-        {
-          "keyword": "稲田美紀",
-          "score": 95
-        },
-        {
-          "keyword": "宍粟市",
-          "score": 94
-        },
-        {
-          "keyword": "ワンオク",
-          "score": 93
-        },
-        {
-          "keyword": "石原伸晃",
-          "score": 92
-        },
-        {
-          "keyword": "abema",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-23T14:07:57.966Z",
       "geo": "JP",
       "source": "google",
@@ -4181,6 +4134,53 @@
         },
         {
           "keyword": "野球",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-27T14:04:10.682Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "uネクスト",
+          "score": 100
+        },
+        {
+          "keyword": "小沢一敬",
+          "score": 99
+        },
+        {
+          "keyword": "工藤静香",
+          "score": 98
+        },
+        {
+          "keyword": "netkeiba",
+          "score": 97
+        },
+        {
+          "keyword": "阿部なつき",
+          "score": 96
+        },
+        {
+          "keyword": "秋山歌謡祭 2026",
+          "score": 95
+        },
+        {
+          "keyword": "桜 東京",
+          "score": 94
+        },
+        {
+          "keyword": "ペロブスカイト太陽電池",
+          "score": 93
+        },
+        {
+          "keyword": "スタグフレーション",
+          "score": 92
+        },
+        {
+          "keyword": "サーティワン マリオ",
           "score": 91
         }
       ]
