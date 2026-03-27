@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-23T14:07:55.544Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ticketmaster",
-          "score": 100
-        },
-        {
-          "keyword": "aipac",
-          "score": 99
-        },
-        {
-          "keyword": "vti stock",
-          "score": 98
-        },
-        {
-          "keyword": "ge stock",
-          "score": 97
-        },
-        {
-          "keyword": "regular show lost tapes",
-          "score": 96
-        },
-        {
-          "keyword": "jay z tickets",
-          "score": 95
-        },
-        {
-          "keyword": "nasdaq index",
-          "score": 94
-        },
-        {
-          "keyword": "boeing stock",
-          "score": 93
-        },
-        {
-          "keyword": "meta stock price",
-          "score": 92
-        },
-        {
-          "keyword": "microsoft stock price",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-23T15:32:21.927Z",
       "geo": "US",
       "source": "google",
@@ -4181,6 +4134,53 @@
         },
         {
           "keyword": "mark consuelos",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-27T15:13:16.692Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kash patel",
+          "score": 100
+        },
+        {
+          "keyword": "dow jones stock markets futures",
+          "score": 99
+        },
+        {
+          "keyword": "microsoft stock",
+          "score": 98
+        },
+        {
+          "keyword": "msft",
+          "score": 97
+        },
+        {
+          "keyword": "tqqq",
+          "score": 96
+        },
+        {
+          "keyword": "goog stock",
+          "score": 95
+        },
+        {
+          "keyword": "s&p500",
+          "score": 94
+        },
+        {
+          "keyword": "vix index",
+          "score": 93
+        },
+        {
+          "keyword": "sandisk stock",
+          "score": 92
+        },
+        {
+          "keyword": "meta stock price",
           "score": 91
         }
       ]
