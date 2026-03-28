@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-24T12:46:20.357Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nfl draft",
-          "score": 100
-        },
-        {
-          "keyword": "jokes",
-          "score": 99
-        },
-        {
-          "keyword": "gma deals and steals",
-          "score": 98
-        },
-        {
-          "keyword": "johor bahru",
-          "score": 97
-        },
-        {
-          "keyword": "tlc tour",
-          "score": 96
-        },
-        {
-          "keyword": "andy beshear",
-          "score": 95
-        },
-        {
-          "keyword": "continental resources",
-          "score": 94
-        },
-        {
-          "keyword": "connections answers",
-          "score": 93
-        },
-        {
-          "keyword": "jason derulo",
-          "score": 92
-        },
-        {
-          "keyword": "brazil vs france",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-24T14:13:31.336Z",
       "geo": "US",
       "source": "google",
@@ -4463,6 +4416,53 @@
         },
         {
           "keyword": "canaveral",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-28T13:43:06.578Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "battlehawks",
+          "score": 100
+        },
+        {
+          "keyword": "ms now",
+          "score": 99
+        },
+        {
+          "keyword": "wes moore",
+          "score": 98
+        },
+        {
+          "keyword": "austin weather",
+          "score": 97
+        },
+        {
+          "keyword": "peter alexander",
+          "score": 96
+        },
+        {
+          "keyword": "courtney barnett",
+          "score": 95
+        },
+        {
+          "keyword": "marisa tomei",
+          "score": 94
+        },
+        {
+          "keyword": "kite festival dc",
+          "score": 93
+        },
+        {
+          "keyword": "tyrese maxey",
+          "score": 92
+        },
+        {
+          "keyword": "man utd vs man city",
           "score": 91
         }
       ]

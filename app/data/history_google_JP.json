@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-24T12:46:23.223Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "小泉純一郎",
-          "score": 100
-        },
-        {
-          "keyword": "伊丹空港",
-          "score": 99
-        },
-        {
-          "keyword": "和菓子",
-          "score": 98
-        },
-        {
-          "keyword": "小笠原諸島",
-          "score": 97
-        },
-        {
-          "keyword": "ニュージーランド",
-          "score": 96
-        },
-        {
-          "keyword": "伊沢拓司",
-          "score": 95
-        },
-        {
-          "keyword": "救急車",
-          "score": 94
-        },
-        {
-          "keyword": "トンツカタン森本",
-          "score": 93
-        },
-        {
-          "keyword": "だるま",
-          "score": 92
-        },
-        {
-          "keyword": "東京pd",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-24T14:13:34.208Z",
       "geo": "JP",
       "source": "google",
@@ -4463,6 +4416,53 @@
         },
         {
           "keyword": "森田哲矢",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-28T13:43:09.216Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ドローンショー",
+          "score": 100
+        },
+        {
+          "keyword": "サタデーステーション",
+          "score": 99
+        },
+        {
+          "keyword": "ダイアン津田",
+          "score": 98
+        },
+        {
+          "keyword": "市川由衣",
+          "score": 97
+        },
+        {
+          "keyword": "uaeダービー",
+          "score": 96
+        },
+        {
+          "keyword": "カカロニ栗谷",
+          "score": 95
+        },
+        {
+          "keyword": "teppen ピアノ",
+          "score": 94
+        },
+        {
+          "keyword": "netkeiba",
+          "score": 93
+        },
+        {
+          "keyword": "市原隼人",
+          "score": 92
+        },
+        {
+          "keyword": "久保井朝美",
           "score": 91
         }
       ]
