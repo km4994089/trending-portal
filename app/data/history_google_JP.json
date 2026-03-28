@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-24T23:22:15.656Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "佐藤弘道",
-          "score": 100
-        },
-        {
-          "keyword": "アイナ",
-          "score": 99
-        },
-        {
-          "keyword": "サンシャイン",
-          "score": 98
-        },
-        {
-          "keyword": "ばけばけ イライザ",
-          "score": 97
-        },
-        {
-          "keyword": "徳島 天気",
-          "score": 96
-        },
-        {
-          "keyword": "埼玉 天気",
-          "score": 95
-        },
-        {
-          "keyword": "小泉セツ",
-          "score": 94
-        },
-        {
-          "keyword": "寛一郎",
-          "score": 93
-        },
-        {
-          "keyword": "his",
-          "score": 92
-        },
-        {
-          "keyword": "麻生太郎",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-24T23:52:06.949Z",
       "geo": "JP",
       "source": "google",
@@ -4839,6 +4792,53 @@
         },
         {
           "keyword": "桜開花状況",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-28T23:51:48.653Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "マーケット",
+          "score": 100
+        },
+        {
+          "keyword": "鈴鹿 f1",
+          "score": 99
+        },
+        {
+          "keyword": "ジャイアンツ 対 ヤンキース",
+          "score": 98
+        },
+        {
+          "keyword": "伊沢拓司",
+          "score": 97
+        },
+        {
+          "keyword": "比叡山",
+          "score": 96
+        },
+        {
+          "keyword": "芦屋競艇",
+          "score": 95
+        },
+        {
+          "keyword": "麻生久美子",
+          "score": 94
+        },
+        {
+          "keyword": "セルジオ越後",
+          "score": 93
+        },
+        {
+          "keyword": "akb48",
+          "score": 92
+        },
+        {
+          "keyword": "ブルワーズ 対 ホワイトソックス",
           "score": 91
         }
       ]
