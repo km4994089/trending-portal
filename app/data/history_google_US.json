@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-24T03:53:48.508Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "portland trail blazers",
-          "score": 100
-        },
-        {
-          "keyword": "padres",
-          "score": 99
-        },
-        {
-          "keyword": "ryan rollins",
-          "score": 98
-        },
-        {
-          "keyword": "cooper flagg",
-          "score": 97
-        },
-        {
-          "keyword": "meteorite",
-          "score": 96
-        },
-        {
-          "keyword": "powerball drawing",
-          "score": 95
-        },
-        {
-          "keyword": "toumani camara",
-          "score": 94
-        },
-        {
-          "keyword": "mexico vs portugal",
-          "score": 93
-        },
-        {
-          "keyword": "scottie barnes",
-          "score": 92
-        },
-        {
-          "keyword": "g3 geomagnetic storm",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-24T05:19:13.431Z",
       "geo": "US",
       "source": "google",
@@ -4275,6 +4228,53 @@
         },
         {
           "keyword": "mike burrows",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-28T03:55:39.375Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "bronny james",
+          "score": 100
+        },
+        {
+          "keyword": "jeremiah fears",
+          "score": 99
+        },
+        {
+          "keyword": "bilal coulibaly",
+          "score": 98
+        },
+        {
+          "keyword": "rhys hoskins",
+          "score": 97
+        },
+        {
+          "keyword": "luke raley",
+          "score": 96
+        },
+        {
+          "keyword": "josh minott",
+          "score": 95
+        },
+        {
+          "keyword": "nuggets schedule",
+          "score": 94
+        },
+        {
+          "keyword": "dalton knecht",
+          "score": 93
+        },
+        {
+          "keyword": "noah clowney",
+          "score": 92
+        },
+        {
+          "keyword": "grace knox",
           "score": 91
         }
       ]

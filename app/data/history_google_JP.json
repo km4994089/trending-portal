@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-24T03:53:51.888Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "帝京",
-          "score": 100
-        },
-        {
-          "keyword": "帝京大学",
-          "score": 99
-        },
-        {
-          "keyword": "京都 桜",
-          "score": 98
-        },
-        {
-          "keyword": "浅香航大",
-          "score": 97
-        },
-        {
-          "keyword": "花澤香菜",
-          "score": 96
-        },
-        {
-          "keyword": "東洋大学",
-          "score": 95
-        },
-        {
-          "keyword": "出口クリスタ",
-          "score": 94
-        },
-        {
-          "keyword": "草津",
-          "score": 93
-        },
-        {
-          "keyword": "ドウェインジョンソン",
-          "score": 92
-        },
-        {
-          "keyword": "花見",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-24T05:19:15.903Z",
       "geo": "JP",
       "source": "google",
@@ -4275,6 +4228,53 @@
         },
         {
           "keyword": "東山動植物園",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-28T03:55:41.770Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "スカイツリー",
+          "score": 100
+        },
+        {
+          "keyword": "埼玉スタジアム2002",
+          "score": 99
+        },
+        {
+          "keyword": "中林美恵子",
+          "score": 98
+        },
+        {
+          "keyword": "ユニクロ ドジャース",
+          "score": 97
+        },
+        {
+          "keyword": "ペルドモ",
+          "score": 96
+        },
+        {
+          "keyword": "井森美幸",
+          "score": 95
+        },
+        {
+          "keyword": "ガロン",
+          "score": 94
+        },
+        {
+          "keyword": "ナゲッツ 対 ジャズ",
+          "score": 93
+        },
+        {
+          "keyword": "大阪城ホール",
+          "score": 92
+        },
+        {
+          "keyword": "セブン 揚げ物",
           "score": 91
         }
       ]
