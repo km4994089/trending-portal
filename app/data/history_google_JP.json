@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-24T05:19:15.903Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "イ・ボミ",
-          "score": 100
-        },
-        {
-          "keyword": "太田賢吾",
-          "score": 99
-        },
-        {
-          "keyword": "南太平洋",
-          "score": 98
-        },
-        {
-          "keyword": "トンガ",
-          "score": 97
-        },
-        {
-          "keyword": "fedex",
-          "score": 96
-        },
-        {
-          "keyword": "平成筑豊鉄道",
-          "score": 95
-        },
-        {
-          "keyword": "anaモバイル",
-          "score": 94
-        },
-        {
-          "keyword": "サンゲツ",
-          "score": 93
-        },
-        {
-          "keyword": "厚生労働省",
-          "score": 92
-        },
-        {
-          "keyword": "伊勢谷友介",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-24T06:36:18.469Z",
       "geo": "JP",
       "source": "google",
@@ -4322,6 +4275,53 @@
         },
         {
           "keyword": "東京ドーム",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-28T06:14:26.442Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "f1tv",
+          "score": 100
+        },
+        {
+          "keyword": "靖国神社",
+          "score": 99
+        },
+        {
+          "keyword": "川崎フロンターレ",
+          "score": 98
+        },
+        {
+          "keyword": "fod",
+          "score": 97
+        },
+        {
+          "keyword": "佐渡島",
+          "score": 96
+        },
+        {
+          "keyword": "weリーグ",
+          "score": 95
+        },
+        {
+          "keyword": "大和大学",
+          "score": 94
+        },
+        {
+          "keyword": "町田ゼルビア",
+          "score": 93
+        },
+        {
+          "keyword": "リーグワン",
+          "score": 92
+        },
+        {
+          "keyword": "レイエス",
           "score": 91
         }
       ]

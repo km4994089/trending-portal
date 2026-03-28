@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-24T05:19:13.431Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "base",
-          "score": 100
-        },
-        {
-          "keyword": "alex cooper",
-          "score": 99
-        },
-        {
-          "keyword": "brandin podziemski",
-          "score": 98
-        },
-        {
-          "keyword": "stephen colbert",
-          "score": 97
-        },
-        {
-          "keyword": "will richard",
-          "score": 96
-        },
-        {
-          "keyword": "jeff tweedy",
-          "score": 95
-        },
-        {
-          "keyword": "darcy carden",
-          "score": 94
-        },
-        {
-          "keyword": "steph curry injury",
-          "score": 93
-        },
-        {
-          "keyword": "nifty 50",
-          "score": 92
-        },
-        {
-          "keyword": "israel adesanya",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-24T06:36:15.604Z",
       "geo": "US",
       "source": "google",
@@ -4322,6 +4275,53 @@
         },
         {
           "keyword": "ben saraf",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-28T06:14:23.906Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "f1tv",
+          "score": 100
+        },
+        {
+          "keyword": "appletv",
+          "score": 99
+        },
+        {
+          "keyword": "nba mvp odds",
+          "score": 98
+        },
+        {
+          "keyword": "aston martin",
+          "score": 97
+        },
+        {
+          "keyword": "cristiano ronaldo",
+          "score": 96
+        },
+        {
+          "keyword": "king charles",
+          "score": 95
+        },
+        {
+          "keyword": "tennessee vs michigan",
+          "score": 94
+        },
+        {
+          "keyword": "luka stats",
+          "score": 93
+        },
+        {
+          "keyword": "rio noguchi",
+          "score": 92
+        },
+        {
+          "keyword": "dodger tickets",
           "score": 91
         }
       ]
