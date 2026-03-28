@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-24T06:36:16.961Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "종량제 봉투 대란",
-          "score": 100
-        },
-        {
-          "keyword": "엘지트윈스",
-          "score": 99
-        },
-        {
-          "keyword": "하나투어",
-          "score": 98
-        },
-        {
-          "keyword": "서려경",
-          "score": 97
-        },
-        {
-          "keyword": "토익",
-          "score": 96
-        },
-        {
-          "keyword": "노동절",
-          "score": 95
-        },
-        {
-          "keyword": "차량 5부제",
-          "score": 94
-        },
-        {
-          "keyword": "한화이글스",
-          "score": 93
-        },
-        {
-          "keyword": "대우건설 주가",
-          "score": 92
-        },
-        {
-          "keyword": "독도",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-24T07:47:41.209Z",
       "geo": "KR",
       "source": "google",
@@ -4322,6 +4275,53 @@
         },
         {
           "keyword": "롯데 대 삼성",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-28T07:27:48.656Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "구창모",
+          "score": 100
+        },
+        {
+          "keyword": "강백호",
+          "score": 99
+        },
+        {
+          "keyword": "lg",
+          "score": 98
+        },
+        {
+          "keyword": "충남 아산 fc 대 화성",
+          "score": 97
+        },
+        {
+          "keyword": "야구중계",
+          "score": 96
+        },
+        {
+          "keyword": "울산 현대모비스 대 서울 sk",
+          "score": 95
+        },
+        {
+          "keyword": "키움",
+          "score": 94
+        },
+        {
+          "keyword": "두산",
+          "score": 93
+        },
+        {
+          "keyword": "프로야구 중계",
+          "score": 92
+        },
+        {
+          "keyword": "티빙",
           "score": 91
         }
       ]
