@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-24T08:39:20.770Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "天皇皇后両陛下",
-          "score": 100
-        },
-        {
-          "keyword": "佳子さま",
-          "score": 99
-        },
-        {
-          "keyword": "熊本県教職員異動",
-          "score": 98
-        },
-        {
-          "keyword": "松本剛",
-          "score": 97
-        },
-        {
-          "keyword": "クックパッド",
-          "score": 96
-        },
-        {
-          "keyword": "しんぱち食堂",
-          "score": 95
-        },
-        {
-          "keyword": "地方競馬",
-          "score": 94
-        },
-        {
-          "keyword": "不二家洋菓子店",
-          "score": 93
-        },
-        {
-          "keyword": "令和書籍",
-          "score": 92
-        },
-        {
-          "keyword": "津軽線",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-24T09:45:00.461Z",
       "geo": "JP",
       "source": "google",
@@ -4322,6 +4275,53 @@
         },
         {
           "keyword": "ナムラクレア",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-28T08:41:06.666Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "満田誠",
+          "score": 100
+        },
+        {
+          "keyword": "秋元杏月",
+          "score": 99
+        },
+        {
+          "keyword": "巨人 阪神",
+          "score": 98
+        },
+        {
+          "keyword": "お台場 噴水",
+          "score": 97
+        },
+        {
+          "keyword": "ちとせよしの",
+          "score": 96
+        },
+        {
+          "keyword": "ヤマダストアー 西宮",
+          "score": 95
+        },
+        {
+          "keyword": "硫黄島",
+          "score": 94
+        },
+        {
+          "keyword": "佐倉綾音",
+          "score": 93
+        },
+        {
+          "keyword": "ライオンズ",
+          "score": 92
+        },
+        {
+          "keyword": "プレミストドーム",
           "score": 91
         }
       ]
