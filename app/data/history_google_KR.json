@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-24T22:34:43.441Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "테일러 프리츠",
-          "score": 100
-        },
-        {
-          "keyword": "기상청",
-          "score": 99
-        },
-        {
-          "keyword": "대구날씨",
-          "score": 98
-        },
-        {
-          "keyword": "부산날씨",
-          "score": 97
-        },
-        {
-          "keyword": "mlb",
-          "score": 96
-        },
-        {
-          "keyword": "송성문",
-          "score": 95
-        },
-        {
-          "keyword": "전태일",
-          "score": 94
-        },
-        {
-          "keyword": "써클",
-          "score": 93
-        },
-        {
-          "keyword": "이서진의 달라달라",
-          "score": 92
-        },
-        {
-          "keyword": "lng",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-24T23:22:14.434Z",
       "geo": "KR",
       "source": "google",
@@ -4792,6 +4745,53 @@
         },
         {
           "keyword": "박은영",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-28T22:53:13.948Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "기상청 날씨누리",
+          "score": 100
+        },
+        {
+          "keyword": "파이리츠 대 메츠",
+          "score": 99
+        },
+        {
+          "keyword": "lpga",
+          "score": 98
+        },
+        {
+          "keyword": "일본 스코틀랜드",
+          "score": 97
+        },
+        {
+          "keyword": "윤성준",
+          "score": 96
+        },
+        {
+          "keyword": "2026 월드컵",
+          "score": 95
+        },
+        {
+          "keyword": "환산",
+          "score": 94
+        },
+        {
+          "keyword": "오스트리아",
+          "score": 93
+        },
+        {
+          "keyword": "일본 축구",
+          "score": 92
+        },
+        {
+          "keyword": "권화운",
           "score": 91
         }
       ]
