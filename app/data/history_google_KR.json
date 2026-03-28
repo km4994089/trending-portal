@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-24T07:47:41.209Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "캐치",
-          "score": 100
-        },
-        {
-          "keyword": "곽튜브",
-          "score": 99
-        },
-        {
-          "keyword": "서울시교육청",
-          "score": 98
-        },
-        {
-          "keyword": "종량제 봉투 대란",
-          "score": 97
-        },
-        {
-          "keyword": "엘지트윈스",
-          "score": 96
-        },
-        {
-          "keyword": "하나투어",
-          "score": 95
-        },
-        {
-          "keyword": "서려경",
-          "score": 94
-        },
-        {
-          "keyword": "토익",
-          "score": 93
-        },
-        {
-          "keyword": "노동절",
-          "score": 92
-        },
-        {
-          "keyword": "차량 5부제",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-24T08:39:19.400Z",
       "geo": "KR",
       "source": "google",
@@ -4322,6 +4275,53 @@
         },
         {
           "keyword": "티빙",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-28T07:59:25.816Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "우간다",
+          "score": 100
+        },
+        {
+          "keyword": "안치홍",
+          "score": 99
+        },
+        {
+          "keyword": "크보",
+          "score": 98
+        },
+        {
+          "keyword": "lg",
+          "score": 97
+        },
+        {
+          "keyword": "강백호",
+          "score": 96
+        },
+        {
+          "keyword": "충남 아산 fc 대 화성",
+          "score": 95
+        },
+        {
+          "keyword": "야구중계",
+          "score": 94
+        },
+        {
+          "keyword": "고양 소노 대 원주 db",
+          "score": 93
+        },
+        {
+          "keyword": "두산",
+          "score": 92
+        },
+        {
+          "keyword": "울산 현대모비스 대 서울 sk",
           "score": 91
         }
       ]

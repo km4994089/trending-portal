@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-24T07:47:42.430Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "八戸",
-          "score": 100
-        },
-        {
-          "keyword": "津軽線",
-          "score": 99
-        },
-        {
-          "keyword": "豊田自動織機",
-          "score": 98
-        },
-        {
-          "keyword": "ice",
-          "score": 97
-        },
-        {
-          "keyword": "林真理子",
-          "score": 96
-        },
-        {
-          "keyword": "galderma",
-          "score": 95
-        },
-        {
-          "keyword": "秋篠宮家",
-          "score": 94
-        },
-        {
-          "keyword": "松竹座",
-          "score": 93
-        },
-        {
-          "keyword": "社民党 党首",
-          "score": 92
-        },
-        {
-          "keyword": "八戸学院光星 野球部",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-24T08:39:20.770Z",
       "geo": "JP",
       "source": "google",
@@ -4322,6 +4275,53 @@
         },
         {
           "keyword": "ミクニインスパイア",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-28T07:59:26.962Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "狩野舞子",
+          "score": 100
+        },
+        {
+          "keyword": "髙橋遥人",
+          "score": 99
+        },
+        {
+          "keyword": "中京テレビ",
+          "score": 98
+        },
+        {
+          "keyword": "ローラ",
+          "score": 97
+        },
+        {
+          "keyword": "岸田行倫",
+          "score": 96
+        },
+        {
+          "keyword": "藤川球児",
+          "score": 95
+        },
+        {
+          "keyword": "鈴木愛理",
+          "score": 94
+        },
+        {
+          "keyword": "長崎ヴェルカ",
+          "score": 93
+        },
+        {
+          "keyword": "アルバルク東京",
+          "score": 92
+        },
+        {
+          "keyword": "ナムラクレア",
           "score": 91
         }
       ]
