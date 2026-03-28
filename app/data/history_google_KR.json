@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-24T20:31:31.725Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mlb",
-          "score": 100
-        },
-        {
-          "keyword": "송성문",
-          "score": 99
-        },
-        {
-          "keyword": "전태일",
-          "score": 98
-        },
-        {
-          "keyword": "써클",
-          "score": 97
-        },
-        {
-          "keyword": "이서진의 달라달라",
-          "score": 96
-        },
-        {
-          "keyword": "lng",
-          "score": 95
-        },
-        {
-          "keyword": "불가항력",
-          "score": 94
-        },
-        {
-          "keyword": "그리즈만",
-          "score": 93
-        },
-        {
-          "keyword": "정선희",
-          "score": 92
-        },
-        {
-          "keyword": "투도르",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-24T21:28:33.638Z",
       "geo": "KR",
       "source": "google",
@@ -4745,6 +4698,53 @@
         },
         {
           "keyword": "박은영",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-28T20:52:59.834Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "일본 스코틀랜드",
+          "score": 100
+        },
+        {
+          "keyword": "2026 월드컵",
+          "score": 99
+        },
+        {
+          "keyword": "환산",
+          "score": 98
+        },
+        {
+          "keyword": "오스트리아",
+          "score": 97
+        },
+        {
+          "keyword": "일본 축구",
+          "score": 96
+        },
+        {
+          "keyword": "권화운",
+          "score": 95
+        },
+        {
+          "keyword": "조규성",
+          "score": 94
+        },
+        {
+          "keyword": "양현준",
+          "score": 93
+        },
+        {
+          "keyword": "박은영",
+          "score": 92
+        },
+        {
+          "keyword": "조현우",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-24T20:31:32.834Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "日向坂46",
-          "score": 100
-        },
-        {
-          "keyword": "寺本莉緒",
-          "score": 99
-        },
-        {
-          "keyword": "小川洋子",
-          "score": 98
-        },
-        {
-          "keyword": "ラジオ深夜便",
-          "score": 97
-        },
-        {
-          "keyword": "ios26.4",
-          "score": 96
-        },
-        {
-          "keyword": "イコラブ",
-          "score": 95
-        },
-        {
-          "keyword": "mpc sample",
-          "score": 94
-        },
-        {
-          "keyword": "apex",
-          "score": 93
-        },
-        {
-          "keyword": "木村文乃",
-          "score": 92
-        },
-        {
-          "keyword": "福井中学生殺人事件",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-24T21:28:35.063Z",
       "geo": "JP",
       "source": "google",
@@ -4745,6 +4698,53 @@
         },
         {
           "keyword": "アルゼンチン代表",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-28T20:53:00.960Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "メッツ 対 パイレーツ",
+          "score": 100
+        },
+        {
+          "keyword": "レッズ 対 レッドソックス",
+          "score": 99
+        },
+        {
+          "keyword": "オリオールズ 対 ツインズ",
+          "score": 98
+        },
+        {
+          "keyword": "らじるらじる",
+          "score": 97
+        },
+        {
+          "keyword": "フィリーズ 対 レンジャーズ",
+          "score": 96
+        },
+        {
+          "keyword": "韓国",
+          "score": 95
+        },
+        {
+          "keyword": "カージナルス 対 レイズ",
+          "score": 94
+        },
+        {
+          "keyword": "橋岡大樹",
+          "score": 93
+        },
+        {
+          "keyword": "カブス 対 ナショナルズ",
+          "score": 92
+        },
+        {
+          "keyword": "塩貝健人",
           "score": 91
         }
       ]
