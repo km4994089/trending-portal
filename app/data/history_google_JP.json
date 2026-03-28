@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-24T17:48:15.806Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "apex",
-          "score": 100
-        },
-        {
-          "keyword": "福井中学生殺人事件",
-          "score": 99
-        },
-        {
-          "keyword": "瀬戸康史",
-          "score": 98
-        },
-        {
-          "keyword": "木村文乃",
-          "score": 97
-        },
-        {
-          "keyword": "102回目のプロポーズ",
-          "score": 96
-        },
-        {
-          "keyword": "テラサ",
-          "score": 95
-        },
-        {
-          "keyword": "アイフル",
-          "score": 94
-        },
-        {
-          "keyword": "大森靖子",
-          "score": 93
-        },
-        {
-          "keyword": "豊嶋花",
-          "score": 92
-        },
-        {
-          "keyword": "冨安健洋",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-24T18:48:51.719Z",
       "geo": "JP",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "ロマンチックウォリアー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-28T17:52:26.261Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ニコ生",
+          "score": 100
+        },
+        {
+          "keyword": "藤田譲瑠チマ",
+          "score": 99
+        },
+        {
+          "keyword": "鈴木ザイオン",
+          "score": 98
+        },
+        {
+          "keyword": "日本",
+          "score": 97
+        },
+        {
+          "keyword": "マッギン",
+          "score": 96
+        },
+        {
+          "keyword": "ワールドカップ",
+          "score": 95
+        },
+        {
+          "keyword": "tver",
+          "score": 94
+        },
+        {
+          "keyword": "サウジカップ",
+          "score": 93
+        },
+        {
+          "keyword": "佐野海舟",
+          "score": 92
+        },
+        {
+          "keyword": "中村俊輔",
           "score": 91
         }
       ]
