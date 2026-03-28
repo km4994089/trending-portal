@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-24T21:59:42.105Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "joe flacco",
-          "score": 100
-        },
-        {
-          "keyword": "kristy curry",
-          "score": 99
-        },
-        {
-          "keyword": "gregory bovino",
-          "score": 98
-        },
-        {
-          "keyword": "ricardo orrego",
-          "score": 97
-        },
-        {
-          "keyword": "mbappe",
-          "score": 96
-        },
-        {
-          "keyword": "frank thomas",
-          "score": 95
-        },
-        {
-          "keyword": "project hail mary (film)",
-          "score": 94
-        },
-        {
-          "keyword": "phil berger",
-          "score": 93
-        },
-        {
-          "keyword": "sora",
-          "score": 92
-        },
-        {
-          "keyword": "alex michelsen",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-24T22:34:42.252Z",
       "geo": "US",
       "source": "google",
@@ -4792,6 +4745,53 @@
         },
         {
           "keyword": "shea langeliers",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-28T22:18:24.283Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "racing louisville vs seattle reign fc",
+          "score": 100
+        },
+        {
+          "keyword": "iowa basketball schedule",
+          "score": 99
+        },
+        {
+          "keyword": "rudy gobert",
+          "score": 98
+        },
+        {
+          "keyword": "jalen duren",
+          "score": 97
+        },
+        {
+          "keyword": "mississippi state baseball",
+          "score": 96
+        },
+        {
+          "keyword": "al sharpton",
+          "score": 95
+        },
+        {
+          "keyword": "robert de niro",
+          "score": 94
+        },
+        {
+          "keyword": "prince",
+          "score": 93
+        },
+        {
+          "keyword": "tobias harris",
+          "score": 92
+        },
+        {
+          "keyword": "carl crawford",
           "score": 91
         }
       ]

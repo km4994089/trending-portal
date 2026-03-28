@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-24T21:59:44.604Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sora",
-          "score": 100
-        },
-        {
-          "keyword": "ミスチル",
-          "score": 99
-        },
-        {
-          "keyword": "西野カナ",
-          "score": 98
-        },
-        {
-          "keyword": "サラー",
-          "score": 97
-        },
-        {
-          "keyword": "mlb 放送予定",
-          "score": 96
-        },
-        {
-          "keyword": "날씨",
-          "score": 95
-        },
-        {
-          "keyword": "熊本 天気",
-          "score": 94
-        },
-        {
-          "keyword": "ジャンボたかお",
-          "score": 93
-        },
-        {
-          "keyword": "トライアル",
-          "score": 92
-        },
-        {
-          "keyword": "近藤奈央",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-24T22:34:44.776Z",
       "geo": "JP",
       "source": "google",
@@ -4792,6 +4745,53 @@
         },
         {
           "keyword": "フィリーズ 対 レンジャーズ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-28T22:18:27.208Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "市川実日子",
+          "score": 100
+        },
+        {
+          "keyword": "田中要次",
+          "score": 99
+        },
+        {
+          "keyword": "旅サラダ",
+          "score": 98
+        },
+        {
+          "keyword": "ジローラモ",
+          "score": 97
+        },
+        {
+          "keyword": "中京競馬場",
+          "score": 96
+        },
+        {
+          "keyword": "メタマスク",
+          "score": 95
+        },
+        {
+          "keyword": "market",
+          "score": 94
+        },
+        {
+          "keyword": "安藤歩叶",
+          "score": 93
+        },
+        {
+          "keyword": "溝口勇児",
+          "score": 92
+        },
+        {
+          "keyword": "モンスターハンターストーリーズ3",
           "score": 91
         }
       ]
