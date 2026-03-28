@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-24T21:28:32.148Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "gregory bovino",
-          "score": 100
-        },
-        {
-          "keyword": "ricardo orrego",
-          "score": 99
-        },
-        {
-          "keyword": "mbappe",
-          "score": 98
-        },
-        {
-          "keyword": "project hail mary (film)",
-          "score": 97
-        },
-        {
-          "keyword": "phil berger",
-          "score": 96
-        },
-        {
-          "keyword": "frank thomas",
-          "score": 95
-        },
-        {
-          "keyword": "sora",
-          "score": 94
-        },
-        {
-          "keyword": "alex michelsen",
-          "score": 93
-        },
-        {
-          "keyword": "nasa artemis rocket launch",
-          "score": 92
-        },
-        {
-          "keyword": "sydney sweeney",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-24T21:59:42.105Z",
       "geo": "US",
       "source": "google",
@@ -4792,6 +4745,53 @@
         },
         {
           "keyword": "jeremiah jackson",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-28T21:50:57.445Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "carl crawford",
+          "score": 100
+        },
+        {
+          "keyword": "stephon castle",
+          "score": 99
+        },
+        {
+          "keyword": "myles bailey",
+          "score": 98
+        },
+        {
+          "keyword": "max muncy",
+          "score": 97
+        },
+        {
+          "keyword": "penguins game",
+          "score": 96
+        },
+        {
+          "keyword": "76ers vs hornets",
+          "score": 95
+        },
+        {
+          "keyword": "arundel mills mall",
+          "score": 94
+        },
+        {
+          "keyword": "kraken vs sabres",
+          "score": 93
+        },
+        {
+          "keyword": "dawn staley",
+          "score": 92
+        },
+        {
+          "keyword": "shea langeliers",
           "score": 91
         }
       ]

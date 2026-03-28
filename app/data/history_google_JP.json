@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-24T21:28:35.063Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ウエザーニュース",
-          "score": 100
-        },
-        {
-          "keyword": "冨安",
-          "score": 99
-        },
-        {
-          "keyword": "jr北海道",
-          "score": 98
-        },
-        {
-          "keyword": "京都天気",
-          "score": 97
-        },
-        {
-          "keyword": "日向坂46",
-          "score": 96
-        },
-        {
-          "keyword": "小川洋子",
-          "score": 95
-        },
-        {
-          "keyword": "ラジオ深夜便",
-          "score": 94
-        },
-        {
-          "keyword": "ios26.4",
-          "score": 93
-        },
-        {
-          "keyword": "イコラブ",
-          "score": 92
-        },
-        {
-          "keyword": "mpc sample",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-24T21:59:44.604Z",
       "geo": "JP",
       "source": "google",
@@ -4792,6 +4745,53 @@
         },
         {
           "keyword": "韓国",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-28T21:51:00.371Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "メタマスク",
+          "score": 100
+        },
+        {
+          "keyword": "market",
+          "score": 99
+        },
+        {
+          "keyword": "溝口勇児",
+          "score": 98
+        },
+        {
+          "keyword": "モンスターハンターストーリーズ3",
+          "score": 97
+        },
+        {
+          "keyword": "his",
+          "score": 96
+        },
+        {
+          "keyword": "メッツ 対 パイレーツ",
+          "score": 95
+        },
+        {
+          "keyword": "レッズ 対 レッドソックス",
+          "score": 94
+        },
+        {
+          "keyword": "オリオールズ 対 ツインズ",
+          "score": 93
+        },
+        {
+          "keyword": "らじるらじる",
+          "score": 92
+        },
+        {
+          "keyword": "フィリーズ 対 レンジャーズ",
           "score": 91
         }
       ]
