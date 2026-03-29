@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-25T22:34:45.850Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이재명",
-          "score": 100
-        },
-        {
-          "keyword": "하메네이",
-          "score": 99
-        },
-        {
-          "keyword": "산이",
-          "score": 98
-        },
-        {
-          "keyword": "쿠키런 오븐스매시",
-          "score": 97
-        },
-        {
-          "keyword": "블리자드",
-          "score": 96
-        },
-        {
-          "keyword": "김효진",
-          "score": 95
-        },
-        {
-          "keyword": "스페이스x",
-          "score": 94
-        },
-        {
-          "keyword": "claude",
-          "score": 93
-        },
-        {
-          "keyword": "라이언 고슬링",
-          "score": 92
-        },
-        {
-          "keyword": "한화시스템 채용",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-25T23:25:13.244Z",
       "geo": "KR",
       "source": "google",
@@ -5215,6 +5168,53 @@
         },
         {
           "keyword": "남규리",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-29T22:56:19.260Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김부겸",
+          "score": 100
+        },
+        {
+          "keyword": "날씨",
+          "score": 99
+        },
+        {
+          "keyword": "weather",
+          "score": 98
+        },
+        {
+          "keyword": "일기예보",
+          "score": 97
+        },
+        {
+          "keyword": "야닉 시너",
+          "score": 96
+        },
+        {
+          "keyword": "lpga",
+          "score": 95
+        },
+        {
+          "keyword": "김효주",
+          "score": 94
+        },
+        {
+          "keyword": "마이애미 오픈",
+          "score": 93
+        },
+        {
+          "keyword": "박은영 셰프 결혼",
+          "score": 92
+        },
+        {
+          "keyword": "스토브리그 일본판",
           "score": 91
         }
       ]
