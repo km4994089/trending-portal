@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-25T21:02:03.674Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "chris mack",
-          "score": 100
-        },
-        {
-          "keyword": "noelia castillo ramos",
-          "score": 99
-        },
-        {
-          "keyword": "victor hedman",
-          "score": 98
-        },
-        {
-          "keyword": "stonestown",
-          "score": 97
-        },
-        {
-          "keyword": "michael sheen",
-          "score": 96
-        },
-        {
-          "keyword": "landaluce",
-          "score": 95
-        },
-        {
-          "keyword": "new covid variant",
-          "score": 94
-        },
-        {
-          "keyword": "yankees game today",
-          "score": 93
-        },
-        {
-          "keyword": "jj redick",
-          "score": 92
-        },
-        {
-          "keyword": "ugro stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-25T21:58:26.115Z",
       "geo": "US",
       "source": "google",
@@ -5168,6 +5121,53 @@
         },
         {
           "keyword": "lsu baseball score",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-29T21:22:53.614Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "where is duke university",
+          "score": 100
+        },
+        {
+          "keyword": "brewers game",
+          "score": 99
+        },
+        {
+          "keyword": "internacional de bogotá - junior",
+          "score": 98
+        },
+        {
+          "keyword": "mictlán - cobán imperial",
+          "score": 97
+        },
+        {
+          "keyword": "nationals",
+          "score": 96
+        },
+        {
+          "keyword": "michigan women's basketball",
+          "score": 95
+        },
+        {
+          "keyword": "st. louis cardinals",
+          "score": 94
+        },
+        {
+          "keyword": "celtics injury report",
+          "score": 93
+        },
+        {
+          "keyword": "sterling vesia",
+          "score": 92
+        },
+        {
+          "keyword": "john tortorella",
           "score": 91
         }
       ]
