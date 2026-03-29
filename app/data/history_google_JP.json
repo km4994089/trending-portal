@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-25T06:36:11.353Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "岡本真也",
-          "score": 100
-        },
-        {
-          "keyword": "高橋真麻",
-          "score": 99
-        },
-        {
-          "keyword": "高校野球 今日 の試合",
-          "score": 98
-        },
-        {
-          "keyword": "ボートレース蒲郡",
-          "score": 97
-        },
-        {
-          "keyword": "群馬銀行",
-          "score": 96
-        },
-        {
-          "keyword": "apple ios 26.4",
-          "score": 95
-        },
-        {
-          "keyword": "立石正広",
-          "score": 94
-        },
-        {
-          "keyword": "キムジウォン",
-          "score": 93
-        },
-        {
-          "keyword": "後藤拓実",
-          "score": 92
-        },
-        {
-          "keyword": "パワーエックス 株価",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-25T07:45:55.222Z",
       "geo": "JP",
       "source": "google",
@@ -4792,6 +4745,53 @@
         },
         {
           "keyword": "f1速報",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-29T06:53:33.853Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "野球速報",
+          "score": 100
+        },
+        {
+          "keyword": "スポーツナビ",
+          "score": 99
+        },
+        {
+          "keyword": "松本剛",
+          "score": 98
+        },
+        {
+          "keyword": "ジャックブラック",
+          "score": 97
+        },
+        {
+          "keyword": "大阪桐蔭高校",
+          "score": 96
+        },
+        {
+          "keyword": "大阪杯",
+          "score": 95
+        },
+        {
+          "keyword": "野球結果",
+          "score": 94
+        },
+        {
+          "keyword": "日本ハムファイターズ",
+          "score": 93
+        },
+        {
+          "keyword": "a東京 対 三遠",
+          "score": 92
+        },
+        {
+          "keyword": "カープ 試合結果",
           "score": 91
         }
       ]
