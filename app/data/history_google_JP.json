@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-25T08:38:09.367Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "対馬",
-          "score": 100
-        },
-        {
-          "keyword": "高輪ゲートウェイ",
-          "score": 99
-        },
-        {
-          "keyword": "家ッ大河",
-          "score": 98
-        },
-        {
-          "keyword": "焼肉きんぐ 新大久保フェア",
-          "score": 97
-        },
-        {
-          "keyword": "ベイシア",
-          "score": 96
-        },
-        {
-          "keyword": "浜名湖競艇",
-          "score": 95
-        },
-        {
-          "keyword": "多摩川競艇",
-          "score": 94
-        },
-        {
-          "keyword": "野村悟",
-          "score": 93
-        },
-        {
-          "keyword": "マーティシュプリーム",
-          "score": 92
-        },
-        {
-          "keyword": "太平洋セメント",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-25T09:42:52.422Z",
       "geo": "JP",
       "source": "google",
@@ -4839,6 +4792,53 @@
         },
         {
           "keyword": "レバンガ北海道",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-29T09:04:51.984Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "木浪聖也",
+          "score": 100
+        },
+        {
+          "keyword": "春風亭昇太",
+          "score": 99
+        },
+        {
+          "keyword": "安楽亭",
+          "score": 98
+        },
+        {
+          "keyword": "ボートレース蒲郡",
+          "score": 97
+        },
+        {
+          "keyword": "アルバルク東京",
+          "score": 96
+        },
+        {
+          "keyword": "奥州市",
+          "score": 95
+        },
+        {
+          "keyword": "京浜東北線",
+          "score": 94
+        },
+        {
+          "keyword": "天竺川原",
+          "score": 93
+        },
+        {
+          "keyword": "ダービー卿チャレンジトロフィー",
+          "score": 92
+        },
+        {
+          "keyword": "愛知県 教員 異動 2026",
           "score": 91
         }
       ]
