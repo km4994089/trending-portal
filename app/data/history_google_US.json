@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-24T23:52:03.884Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "blackhawks",
-          "score": 100
-        },
-        {
-          "keyword": "brandon miller",
-          "score": 99
-        },
-        {
-          "keyword": "emily gregory",
-          "score": 98
-        },
-        {
-          "keyword": "espn fantasy baseball",
-          "score": 97
-        },
-        {
-          "keyword": "wild vs lightning",
-          "score": 96
-        },
-        {
-          "keyword": "jessi draper",
-          "score": 95
-        },
-        {
-          "keyword": "wichita state vs tulsa",
-          "score": 94
-        },
-        {
-          "keyword": "steve hilton",
-          "score": 93
-        },
-        {
-          "keyword": "magic vs cavaliers",
-          "score": 92
-        },
-        {
-          "keyword": "blue jackets vs flyers",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-25T01:15:14.098Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sylvester stallone",
-          "score": 100
-        },
-        {
-          "keyword": "bernie sanders",
-          "score": 99
-        },
-        {
-          "keyword": "kings vs flames",
-          "score": 98
-        },
-        {
-          "keyword": "childcare",
-          "score": 97
-        },
-        {
-          "keyword": "hubert davis news",
-          "score": 96
-        },
-        {
-          "keyword": "donovan mitchell",
-          "score": 95
-        },
-        {
-          "keyword": "francisco cerundolo",
-          "score": 94
-        },
-        {
-          "keyword": "evan mobley",
-          "score": 93
-        },
-        {
-          "keyword": "justin rose",
-          "score": 92
-        },
-        {
-          "keyword": "james harden",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-25T03:56:18.806Z",
       "geo": "US",
       "source": "google",
@@ -4839,6 +4745,53 @@
         },
         {
           "keyword": "tommy lloyd",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-29T01:23:23.071Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jazz vs suns",
+          "score": 100
+        },
+        {
+          "keyword": "oscar cluff",
+          "score": 99
+        },
+        {
+          "keyword": "darren bailey",
+          "score": 98
+        },
+        {
+          "keyword": "koa peat",
+          "score": 97
+        },
+        {
+          "keyword": "fidalgo",
+          "score": 96
+        },
+        {
+          "keyword": "matt painter",
+          "score": 95
+        },
+        {
+          "keyword": "motiejus krivas",
+          "score": 94
+        },
+        {
+          "keyword": "san jose",
+          "score": 93
+        },
+        {
+          "keyword": "demetrious johnson",
+          "score": 92
+        },
+        {
+          "keyword": "purdue university",
           "score": 91
         }
       ]
