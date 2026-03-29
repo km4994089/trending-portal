@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-25T05:20:12.161Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "rasheer fleming",
-          "score": 100
-        },
-        {
-          "keyword": "jim parsons",
-          "score": 99
-        },
-        {
-          "keyword": "stephen colbert",
-          "score": 98
-        },
-        {
-          "keyword": "padres",
-          "score": 97
-        },
-        {
-          "keyword": "maura higgins",
-          "score": 96
-        },
-        {
-          "keyword": "tyrese maxey",
-          "score": 95
-        },
-        {
-          "keyword": "khaman maluach",
-          "score": 94
-        },
-        {
-          "keyword": "tim hardaway",
-          "score": 93
-        },
-        {
-          "keyword": "will wade",
-          "score": 92
-        },
-        {
-          "keyword": "heartbreak high",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-25T06:36:08.881Z",
       "geo": "US",
       "source": "google",
@@ -4792,6 +4745,53 @@
         },
         {
           "keyword": "california lottery",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-29T05:55:27.354Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "f1",
+          "score": 100
+        },
+        {
+          "keyword": "delauter",
+          "score": 99
+        },
+        {
+          "keyword": "apple tv",
+          "score": 98
+        },
+        {
+          "keyword": "coachella 2026 lineup",
+          "score": 97
+        },
+        {
+          "keyword": "luke raley",
+          "score": 96
+        },
+        {
+          "keyword": "appletv",
+          "score": 95
+        },
+        {
+          "keyword": "suzuka circuit",
+          "score": 94
+        },
+        {
+          "keyword": "charlie kirk",
+          "score": 93
+        },
+        {
+          "keyword": "fernando alonso",
+          "score": 92
+        },
+        {
+          "keyword": "yoshiki",
           "score": 91
         }
       ]
