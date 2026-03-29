@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-25T10:38:48.544Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mets",
-          "score": 100
-        },
-        {
-          "keyword": "jason whitlock",
-          "score": 99
-        },
-        {
-          "keyword": "jacksonville weather",
-          "score": 98
-        },
-        {
-          "keyword": "alaska airlines",
-          "score": 97
-        },
-        {
-          "keyword": "earthquake now",
-          "score": 96
-        },
-        {
-          "keyword": "samantha pelrine",
-          "score": 95
-        },
-        {
-          "keyword": "t rowe price",
-          "score": 94
-        },
-        {
-          "keyword": "people magazine",
-          "score": 93
-        },
-        {
-          "keyword": "market futures",
-          "score": 92
-        },
-        {
-          "keyword": "california",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-25T11:34:43.201Z",
       "geo": "US",
       "source": "google",
@@ -4886,6 +4839,53 @@
         },
         {
           "keyword": "the last of us",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-29T11:20:40.646Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "chelsea vs aston villa",
+          "score": 100
+        },
+        {
+          "keyword": "npr news",
+          "score": 99
+        },
+        {
+          "keyword": "did purdue win last night",
+          "score": 98
+        },
+        {
+          "keyword": "ncaa men's basketball scores",
+          "score": 97
+        },
+        {
+          "keyword": "uganda",
+          "score": 96
+        },
+        {
+          "keyword": "dp world tour",
+          "score": 95
+        },
+        {
+          "keyword": "storm damage restoration",
+          "score": 94
+        },
+        {
+          "keyword": "palm sunday 2026",
+          "score": 93
+        },
+        {
+          "keyword": "movie reviews",
+          "score": 92
+        },
+        {
+          "keyword": "flight status",
           "score": 91
         }
       ]
