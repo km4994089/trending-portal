@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-25T15:40:30.299Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "vanessa trump",
-          "score": 100
-        },
-        {
-          "keyword": "abby huntsman",
-          "score": 99
-        },
-        {
-          "keyword": "utd",
-          "score": 98
-        },
-        {
-          "keyword": "chad bianco",
-          "score": 97
-        },
-        {
-          "keyword": "nba expansion",
-          "score": 96
-        },
-        {
-          "keyword": "ben bartch",
-          "score": 95
-        },
-        {
-          "keyword": "quadruple amputations shooting",
-          "score": 94
-        },
-        {
-          "keyword": "dennis coyle afghanistan",
-          "score": 93
-        },
-        {
-          "keyword": "kenny smith",
-          "score": 92
-        },
-        {
-          "keyword": "heather graham",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-25T16:53:16.579Z",
       "geo": "US",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "porter martone",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-29T15:54:24.574Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nate ament",
+          "score": 100
+        },
+        {
+          "keyword": "jeffrey donovan",
+          "score": 99
+        },
+        {
+          "keyword": "jerome adams",
+          "score": 98
+        },
+        {
+          "keyword": "athletic club - atlético madrid",
+          "score": 97
+        },
+        {
+          "keyword": "face the nation",
+          "score": 96
+        },
+        {
+          "keyword": "the ai doc",
+          "score": 95
+        },
+        {
+          "keyword": "igor tudor",
+          "score": 94
+        },
+        {
+          "keyword": "tom homan",
+          "score": 93
+        },
+        {
+          "keyword": "cory booker",
+          "score": 92
+        },
+        {
+          "keyword": "cameron green",
           "score": 91
         }
       ]
