@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-25T20:28:46.720Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "stonestown",
-          "score": 100
-        },
-        {
-          "keyword": "michael sheen",
-          "score": 99
-        },
-        {
-          "keyword": "landaluce",
-          "score": 98
-        },
-        {
-          "keyword": "jj redick",
-          "score": 97
-        },
-        {
-          "keyword": "new covid variant",
-          "score": 96
-        },
-        {
-          "keyword": "caitlin clark",
-          "score": 95
-        },
-        {
-          "keyword": "paapa essiedu",
-          "score": 94
-        },
-        {
-          "keyword": "liga de campeones femenina de la uefa",
-          "score": 93
-        },
-        {
-          "keyword": "jiri lehecka",
-          "score": 92
-        },
-        {
-          "keyword": "kayode awosika",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-25T21:02:03.674Z",
       "geo": "US",
       "source": "google",
@@ -5168,6 +5121,53 @@
         },
         {
           "keyword": "france",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-29T20:54:41.214Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "bruins vs blue jackets",
+          "score": 100
+        },
+        {
+          "keyword": "lpga",
+          "score": 99
+        },
+        {
+          "keyword": "tobey maguire",
+          "score": 98
+        },
+        {
+          "keyword": "bruce cassidy",
+          "score": 97
+        },
+        {
+          "keyword": "predators vs lightning",
+          "score": 96
+        },
+        {
+          "keyword": "cori close",
+          "score": 95
+        },
+        {
+          "keyword": "jason day",
+          "score": 94
+        },
+        {
+          "keyword": "michigan hockey",
+          "score": 93
+        },
+        {
+          "keyword": "duncan powell",
+          "score": 92
+        },
+        {
+          "keyword": "lsu baseball score",
           "score": 91
         }
       ]

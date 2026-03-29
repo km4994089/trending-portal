@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-25T20:28:49.392Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ダム貯水率",
-          "score": 100
-        },
-        {
-          "keyword": "看護師国家試験 合格率",
-          "score": 99
-        },
-        {
-          "keyword": "line",
-          "score": 98
-        },
-        {
-          "keyword": "木村文乃",
-          "score": 97
-        },
-        {
-          "keyword": "南丹市 行方不明",
-          "score": 96
-        },
-        {
-          "keyword": "nike",
-          "score": 95
-        },
-        {
-          "keyword": "コクヨ",
-          "score": 94
-        },
-        {
-          "keyword": "kick",
-          "score": 93
-        },
-        {
-          "keyword": "岩本照",
-          "score": 92
-        },
-        {
-          "keyword": "サイモン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-25T21:02:06.079Z",
       "geo": "JP",
       "source": "google",
@@ -5168,6 +5121,53 @@
         },
         {
           "keyword": "エンゼルス",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-29T20:54:43.490Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "レッドソックス",
+          "score": 100
+        },
+        {
+          "keyword": "メタマスク",
+          "score": 99
+        },
+        {
+          "keyword": "レッズ 対 レッドソックス",
+          "score": 98
+        },
+        {
+          "keyword": "グッドモーニング",
+          "score": 97
+        },
+        {
+          "keyword": "おはよう日本",
+          "score": 96
+        },
+        {
+          "keyword": "カブス 対 ナショナルズ",
+          "score": 95
+        },
+        {
+          "keyword": "motogp",
+          "score": 94
+        },
+        {
+          "keyword": "ブルワーズ 対 ホワイトソックス",
+          "score": 93
+        },
+        {
+          "keyword": "めざましテレビ",
+          "score": 92
+        },
+        {
+          "keyword": "ブレーブス 対 ロイヤルズ",
           "score": 91
         }
       ]
