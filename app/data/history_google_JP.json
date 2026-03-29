@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-25T03:56:21.211Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "浅香航大",
-          "score": 100
-        },
-        {
-          "keyword": "橋本マナミ",
-          "score": 99
-        },
-        {
-          "keyword": "独身税",
-          "score": 98
-        },
-        {
-          "keyword": "有吉の壁",
-          "score": 97
-        },
-        {
-          "keyword": "園田競馬",
-          "score": 96
-        },
-        {
-          "keyword": "大阪 鹿",
-          "score": 95
-        },
-        {
-          "keyword": "花咲徳栄",
-          "score": 94
-        },
-        {
-          "keyword": "花咲徳栄 野球部",
-          "score": 93
-        },
-        {
-          "keyword": "ヤオコー",
-          "score": 92
-        },
-        {
-          "keyword": "核融合発電",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-25T05:20:14.942Z",
       "geo": "JP",
       "source": "google",
@@ -4792,6 +4745,53 @@
         },
         {
           "keyword": "吉田美和",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-29T04:14:40.990Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "勝浦",
+          "score": 100
+        },
+        {
+          "keyword": "八嶋智人",
+          "score": 99
+        },
+        {
+          "keyword": "熊本 対 鹿児島",
+          "score": 98
+        },
+        {
+          "keyword": "ジョックロック",
+          "score": 97
+        },
+        {
+          "keyword": "今日のドジャース",
+          "score": 96
+        },
+        {
+          "keyword": "甲子園速報",
+          "score": 95
+        },
+        {
+          "keyword": "岡田紗佳",
+          "score": 94
+        },
+        {
+          "keyword": "ガーディアンズ",
+          "score": 93
+        },
+        {
+          "keyword": "ストレンジャーシングス",
+          "score": 92
+        },
+        {
+          "keyword": "マックス・マンシー",
           "score": 91
         }
       ]

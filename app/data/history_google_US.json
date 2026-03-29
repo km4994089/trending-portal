@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-25T03:56:18.806Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dillon brooks",
-          "score": 100
-        },
-        {
-          "keyword": "conor mcgregor",
-          "score": 99
-        },
-        {
-          "keyword": "ayatollah",
-          "score": 98
-        },
-        {
-          "keyword": "jokic",
-          "score": 97
-        },
-        {
-          "keyword": "tim hardaway jr",
-          "score": 96
-        },
-        {
-          "keyword": "jimmy fallon",
-          "score": 95
-        },
-        {
-          "keyword": "landman season 3",
-          "score": 94
-        },
-        {
-          "keyword": "cameron johnson",
-          "score": 93
-        },
-        {
-          "keyword": "ja morant",
-          "score": 92
-        },
-        {
-          "keyword": "united rentals",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-25T05:20:12.161Z",
       "geo": "US",
       "source": "google",
@@ -4792,6 +4745,53 @@
         },
         {
           "keyword": "purdue university",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-29T04:14:38.552Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "coup",
+          "score": 100
+        },
+        {
+          "keyword": "grayson allen",
+          "score": 99
+        },
+        {
+          "keyword": "woody harrelson",
+          "score": 98
+        },
+        {
+          "keyword": "dylan o'brien",
+          "score": 97
+        },
+        {
+          "keyword": "riz ahmed",
+          "score": 96
+        },
+        {
+          "keyword": "mariners score",
+          "score": 95
+        },
+        {
+          "keyword": "steven kwan",
+          "score": 94
+        },
+        {
+          "keyword": "will klein",
+          "score": 93
+        },
+        {
+          "keyword": "jose ramirez",
+          "score": 92
+        },
+        {
+          "keyword": "california lottery",
           "score": 91
         }
       ]
