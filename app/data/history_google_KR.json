@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-25T23:25:13.244Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "turboquant",
-          "score": 100
-        },
-        {
-          "keyword": "송성문",
-          "score": 99
-        },
-        {
-          "keyword": "금값시세",
-          "score": 98
-        },
-        {
-          "keyword": "하메네이",
-          "score": 97
-        },
-        {
-          "keyword": "산이",
-          "score": 96
-        },
-        {
-          "keyword": "쿠키런 오븐스매시",
-          "score": 95
-        },
-        {
-          "keyword": "블리자드",
-          "score": 94
-        },
-        {
-          "keyword": "김효진",
-          "score": 93
-        },
-        {
-          "keyword": "스페이스x",
-          "score": 92
-        },
-        {
-          "keyword": "claude",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-25T23:55:20.038Z",
       "geo": "KR",
       "source": "google",
@@ -5215,6 +5168,53 @@
         },
         {
           "keyword": "스토브리그 일본판",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-29T23:25:16.175Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "wti",
+          "score": 100
+        },
+        {
+          "keyword": "박상용 검사",
+          "score": 99
+        },
+        {
+          "keyword": "김부겸",
+          "score": 98
+        },
+        {
+          "keyword": "대전날씨",
+          "score": 97
+        },
+        {
+          "keyword": "miami open",
+          "score": 96
+        },
+        {
+          "keyword": "날씨",
+          "score": 95
+        },
+        {
+          "keyword": "weather",
+          "score": 94
+        },
+        {
+          "keyword": "일기예보",
+          "score": 93
+        },
+        {
+          "keyword": "야닉 시너",
+          "score": 92
+        },
+        {
+          "keyword": "lpga",
           "score": 91
         }
       ]
