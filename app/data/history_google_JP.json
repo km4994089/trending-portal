@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-25T21:58:29.089Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "エビス・プロ",
-          "score": 100
-        },
-        {
-          "keyword": "岩瀬洋志",
-          "score": 99
-        },
-        {
-          "keyword": "山田裕貴",
-          "score": 98
-        },
-        {
-          "keyword": "メジャーリーグ 開幕",
-          "score": 97
-        },
-        {
-          "keyword": "キングダム",
-          "score": 96
-        },
-        {
-          "keyword": "ポケポケ 新パック",
-          "score": 95
-        },
-        {
-          "keyword": "インスリン",
-          "score": 94
-        },
-        {
-          "keyword": "weather today",
-          "score": 93
-        },
-        {
-          "keyword": "レビット報道官",
-          "score": 92
-        },
-        {
-          "keyword": "近藤奈央",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-25T22:34:47.118Z",
       "geo": "JP",
       "source": "google",
@@ -5215,6 +5168,53 @@
         },
         {
           "keyword": "瀬戸朝香",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-29T22:22:35.296Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "自転車ルール",
+          "score": 100
+        },
+        {
+          "keyword": "朝ドラ",
+          "score": 99
+        },
+        {
+          "keyword": "広川大起容疑者家族",
+          "score": 98
+        },
+        {
+          "keyword": "ハーモニーランド",
+          "score": 97
+        },
+        {
+          "keyword": "ノンストップ",
+          "score": 96
+        },
+        {
+          "keyword": "f1日本gp",
+          "score": 95
+        },
+        {
+          "keyword": "広島 天気",
+          "score": 94
+        },
+        {
+          "keyword": "バックス 対 クリッパーズ",
+          "score": 93
+        },
+        {
+          "keyword": "104 電話",
+          "score": 92
+        },
+        {
+          "keyword": "隈研吾",
           "score": 91
         }
       ]
