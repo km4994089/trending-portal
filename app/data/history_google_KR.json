@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-26T21:51:30.612Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "그록",
-          "score": 100
-        },
-        {
-          "keyword": "grok",
-          "score": 99
-        },
-        {
-          "keyword": "이란 미국",
-          "score": 98
-        },
-        {
-          "keyword": "친선경기",
-          "score": 97
-        },
-        {
-          "keyword": "이탈리아 축구",
-          "score": 96
-        },
-        {
-          "keyword": "월드컵 예선",
-          "score": 95
-        },
-        {
-          "keyword": "주술회전",
-          "score": 94
-        },
-        {
-          "keyword": "kick",
-          "score": 93
-        },
-        {
-          "keyword": "선관위",
-          "score": 92
-        },
-        {
-          "keyword": "박진영",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-26T22:18:37.060Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "브라질 대 프랑스",
-          "score": 100
-        },
-        {
-          "keyword": "그록",
-          "score": 99
-        },
-        {
-          "keyword": "월드컵",
-          "score": 98
-        },
-        {
-          "keyword": "grok",
-          "score": 97
-        },
-        {
-          "keyword": "친선경기",
-          "score": 96
-        },
-        {
-          "keyword": "이탈리아 축구",
-          "score": 95
-        },
-        {
-          "keyword": "조갑경",
-          "score": 94
-        },
-        {
-          "keyword": "월드컵 예선",
-          "score": 93
-        },
-        {
-          "keyword": "주술회전",
-          "score": 92
-        },
-        {
-          "keyword": "kick",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-26T22:53:36.792Z",
       "geo": "KR",
       "source": "google",
@@ -5121,6 +5027,53 @@
         },
         {
           "keyword": "csk vs rr",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-30T22:25:23.514Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "샌디스크 주가",
+          "score": 100
+        },
+        {
+          "keyword": "다우지수",
+          "score": 99
+        },
+        {
+          "keyword": "마이크론",
+          "score": 98
+        },
+        {
+          "keyword": "김소영",
+          "score": 97
+        },
+        {
+          "keyword": "cricbuzz",
+          "score": 96
+        },
+        {
+          "keyword": "공포탐욕지수",
+          "score": 95
+        },
+        {
+          "keyword": "파월",
+          "score": 94
+        },
+        {
+          "keyword": "indonesia vs bulgaria",
+          "score": 93
+        },
+        {
+          "keyword": "전소미",
+          "score": 92
+        },
+        {
+          "keyword": "한준호",
           "score": 91
         }
       ]
