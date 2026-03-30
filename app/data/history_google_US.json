@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-26T04:08:27.084Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jamal murray",
-          "score": 100
-        },
-        {
-          "keyword": "alperen şengün",
-          "score": 99
-        },
-        {
-          "keyword": "naz reid",
-          "score": 98
-        },
-        {
-          "keyword": "niall horan",
-          "score": 97
-        },
-        {
-          "keyword": "donte divincenzo",
-          "score": 96
-        },
-        {
-          "keyword": "taylor dearden",
-          "score": 95
-        },
-        {
-          "keyword": "klay thompson",
-          "score": 94
-        },
-        {
-          "keyword": "jaden mcdaniels",
-          "score": 93
-        },
-        {
-          "keyword": "rudy gobert",
-          "score": 92
-        },
-        {
-          "keyword": "dodgers",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-26T05:54:49.690Z",
       "geo": "US",
       "source": "google",
@@ -5215,6 +5168,53 @@
         },
         {
           "keyword": "josh naylor",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-30T04:21:33.058Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "yutz",
+          "score": 100
+        },
+        {
+          "keyword": "fritz",
+          "score": 99
+        },
+        {
+          "keyword": "cameron johnson",
+          "score": 98
+        },
+        {
+          "keyword": "millie bobby brown",
+          "score": 97
+        },
+        {
+          "keyword": "cbs show cancellations",
+          "score": 96
+        },
+        {
+          "keyword": "de'anthony melton",
+          "score": 95
+        },
+        {
+          "keyword": "sara arjun",
+          "score": 94
+        },
+        {
+          "keyword": "hungary",
+          "score": 93
+        },
+        {
+          "keyword": "fannie mae stock",
+          "score": 92
+        },
+        {
+          "keyword": "tim hardaway",
           "score": 91
         }
       ]

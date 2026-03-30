@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-26T04:08:28.550Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "로드리",
-          "score": 100
-        },
-        {
-          "keyword": "30기 옥순",
-          "score": 99
-        },
-        {
-          "keyword": "이정후",
-          "score": 98
-        },
-        {
-          "keyword": "권경애",
-          "score": 97
-        },
-        {
-          "keyword": "독도",
-          "score": 96
-        },
-        {
-          "keyword": "국민체육진흥공단",
-          "score": 95
-        },
-        {
-          "keyword": "구글 터보퀀트",
-          "score": 94
-        },
-        {
-          "keyword": "메쥬",
-          "score": 93
-        },
-        {
-          "keyword": "스피어",
-          "score": 92
-        },
-        {
-          "keyword": "mlb",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-26T05:54:51.007Z",
       "geo": "KR",
       "source": "google",
@@ -5215,6 +5168,53 @@
         },
         {
           "keyword": "天氣",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-30T04:21:34.354Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "독도",
+          "score": 100
+        },
+        {
+          "keyword": "청와대",
+          "score": 99
+        },
+        {
+          "keyword": "신정훈",
+          "score": 98
+        },
+        {
+          "keyword": "황석희",
+          "score": 97
+        },
+        {
+          "keyword": "kospi",
+          "score": 96
+        },
+        {
+          "keyword": "오버워치 넥슨",
+          "score": 95
+        },
+        {
+          "keyword": "우리로",
+          "score": 94
+        },
+        {
+          "keyword": "나상도",
+          "score": 93
+        },
+        {
+          "keyword": "코스피",
+          "score": 92
+        },
+        {
+          "keyword": "김양",
           "score": 91
         }
       ]
