@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-26T14:02:27.104Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ワールドカップ予選",
-          "score": 100
-        },
-        {
-          "keyword": "tokyo dream park",
-          "score": 99
-        },
-        {
-          "keyword": "報道ステーション",
-          "score": 98
-        },
-        {
-          "keyword": "高橋一生",
-          "score": 97
-        },
-        {
-          "keyword": "アド",
-          "score": 96
-        },
-        {
-          "keyword": "粗品",
-          "score": 95
-        },
-        {
-          "keyword": "新潟 行方不明 中学生",
-          "score": 94
-        },
-        {
-          "keyword": "山田孝之",
-          "score": 93
-        },
-        {
-          "keyword": "西武ライオンズ",
-          "score": 92
-        },
-        {
-          "keyword": "岡山天音",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-26T15:47:40.356Z",
       "geo": "JP",
       "source": "google",
@@ -5168,6 +5121,53 @@
         },
         {
           "keyword": "トキエア",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-30T14:21:35.705Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "aiエージェント",
+          "score": 100
+        },
+        {
+          "keyword": "円井わん",
+          "score": 99
+        },
+        {
+          "keyword": "カーグ島",
+          "score": 98
+        },
+        {
+          "keyword": "八木勇征",
+          "score": 97
+        },
+        {
+          "keyword": "オルカン",
+          "score": 96
+        },
+        {
+          "keyword": "高円寺",
+          "score": 95
+        },
+        {
+          "keyword": "ジブチ",
+          "score": 94
+        },
+        {
+          "keyword": "マツコデラックス",
+          "score": 93
+        },
+        {
+          "keyword": "片山さつき",
+          "score": 92
+        },
+        {
+          "keyword": "菊池桃子",
           "score": 91
         }
       ]

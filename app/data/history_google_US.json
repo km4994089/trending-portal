@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-26T14:02:24.385Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "congress iran",
-          "score": 100
-        },
-        {
-          "keyword": "sea hear now",
-          "score": 99
-        },
-        {
-          "keyword": "immigration lawyer",
-          "score": 98
-        },
-        {
-          "keyword": "fox mccloud",
-          "score": 97
-        },
-        {
-          "keyword": "psl",
-          "score": 96
-        },
-        {
-          "keyword": "lpga",
-          "score": 95
-        },
-        {
-          "keyword": "jason benetti",
-          "score": 94
-        },
-        {
-          "keyword": "dash crofts",
-          "score": 93
-        },
-        {
-          "keyword": "amanda peet",
-          "score": 92
-        },
-        {
-          "keyword": "masters",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-26T15:47:37.789Z",
       "geo": "US",
       "source": "google",
@@ -5168,6 +5121,53 @@
         },
         {
           "keyword": "usha vance",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-30T14:21:33.191Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "air canada ceo",
+          "score": 100
+        },
+        {
+          "keyword": "oracle stock",
+          "score": 99
+        },
+        {
+          "keyword": "broadcom stock",
+          "score": 98
+        },
+        {
+          "keyword": "brent crude price",
+          "score": 97
+        },
+        {
+          "keyword": "kisd",
+          "score": 96
+        },
+        {
+          "keyword": "uber stock",
+          "score": 95
+        },
+        {
+          "keyword": "googl stock",
+          "score": 94
+        },
+        {
+          "keyword": "s&p 500 index",
+          "score": 93
+        },
+        {
+          "keyword": "ge stock",
+          "score": 92
+        },
+        {
+          "keyword": "vgt",
           "score": 91
         }
       ]

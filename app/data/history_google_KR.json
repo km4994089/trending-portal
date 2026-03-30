@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-26T14:02:25.869Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "박성웅",
-          "score": 100
-        },
-        {
-          "keyword": "국립중앙박물관",
-          "score": 99
-        },
-        {
-          "keyword": "티빙",
-          "score": 98
-        },
-        {
-          "keyword": "이수경",
-          "score": 97
-        },
-        {
-          "keyword": "네르",
-          "score": 96
-        },
-        {
-          "keyword": "남궁민",
-          "score": 95
-        },
-        {
-          "keyword": "이서진",
-          "score": 94
-        },
-        {
-          "keyword": "요소수",
-          "score": 93
-        },
-        {
-          "keyword": "정선희",
-          "score": 92
-        },
-        {
-          "keyword": "대구 한국가스공사 대 창원 lg",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-26T15:47:39.102Z",
       "geo": "KR",
       "source": "google",
@@ -5168,6 +5121,53 @@
         },
         {
           "keyword": "삼천당제약 주가",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-30T14:21:34.444Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "신세계",
+          "score": 100
+        },
+        {
+          "keyword": "cuaca besok",
+          "score": 99
+        },
+        {
+          "keyword": "내일 날씨",
+          "score": 98
+        },
+        {
+          "keyword": "明天的天氣",
+          "score": 97
+        },
+        {
+          "keyword": "weather tomorrow",
+          "score": 96
+        },
+        {
+          "keyword": "thời tiết ngày mai",
+          "score": 95
+        },
+        {
+          "keyword": "울산 현대모비스 대 원주 db",
+          "score": 94
+        },
+        {
+          "keyword": "인하대",
+          "score": 93
+        },
+        {
+          "keyword": "원촌육교",
+          "score": 92
+        },
+        {
+          "keyword": "데제르비",
           "score": 91
         }
       ]
