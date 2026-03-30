@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-26T09:00:34.520Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "박충권",
-          "score": 100
-        },
-        {
-          "keyword": "장예찬",
-          "score": 99
-        },
-        {
-          "keyword": "서인영",
-          "score": 98
-        },
-        {
-          "keyword": "한화솔루션",
-          "score": 97
-        },
-        {
-          "keyword": "이근안",
-          "score": 96
-        },
-        {
-          "keyword": "김동선",
-          "score": 95
-        },
-        {
-          "keyword": "홍해",
-          "score": 94
-        },
-        {
-          "keyword": "해리포터 드라마",
-          "score": 93
-        },
-        {
-          "keyword": "천안함",
-          "score": 92
-        },
-        {
-          "keyword": "로드리",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-26T10:28:43.064Z",
       "geo": "KR",
       "source": "google",
@@ -5168,6 +5121,53 @@
         },
         {
           "keyword": "삼전 주가",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-30T09:52:26.310Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "박은영 셰프",
+          "score": 100
+        },
+        {
+          "keyword": "삼천당제약",
+          "score": 99
+        },
+        {
+          "keyword": "삼천당제약 주가",
+          "score": 98
+        },
+        {
+          "keyword": "명현만",
+          "score": 97
+        },
+        {
+          "keyword": "앨리스 소희",
+          "score": 96
+        },
+        {
+          "keyword": "浅野啓介",
+          "score": 95
+        },
+        {
+          "keyword": "윤도현",
+          "score": 94
+        },
+        {
+          "keyword": "이명박",
+          "score": 93
+        },
+        {
+          "keyword": "독도",
+          "score": 92
+        },
+        {
+          "keyword": "청와대",
           "score": 91
         }
       ]
