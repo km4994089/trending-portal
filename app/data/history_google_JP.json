@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-26T10:28:44.218Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ジョイフル",
-          "score": 100
-        },
-        {
-          "keyword": "ローム",
-          "score": 99
-        },
-        {
-          "keyword": "今井アンジェリカ",
-          "score": 98
-        },
-        {
-          "keyword": "羽田空港",
-          "score": 97
-        },
-        {
-          "keyword": "ケンミンショー",
-          "score": 96
-        },
-        {
-          "keyword": "はなまるうどん",
-          "score": 95
-        },
-        {
-          "keyword": "大川原化工機事件",
-          "score": 94
-        },
-        {
-          "keyword": "松任谷正隆",
-          "score": 93
-        },
-        {
-          "keyword": "jo1",
-          "score": 92
-        },
-        {
-          "keyword": "岐阜県教員異動",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-26T11:27:04.398Z",
       "geo": "JP",
       "source": "google",
@@ -5168,6 +5121,53 @@
         },
         {
           "keyword": "リクルート",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-30T10:54:05.673Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ハロプロ",
+          "score": 100
+        },
+        {
+          "keyword": "内田有紀",
+          "score": 99
+        },
+        {
+          "keyword": "松井稼頭央",
+          "score": 98
+        },
+        {
+          "keyword": "石田純一",
+          "score": 97
+        },
+        {
+          "keyword": "山本太郎",
+          "score": 96
+        },
+        {
+          "keyword": "木村拓哉",
+          "score": 95
+        },
+        {
+          "keyword": "たけし",
+          "score": 94
+        },
+        {
+          "keyword": "キューティーストリート",
+          "score": 93
+        },
+        {
+          "keyword": "山口智子",
+          "score": 92
+        },
+        {
+          "keyword": "ばんばんざい",
           "score": 91
         }
       ]
