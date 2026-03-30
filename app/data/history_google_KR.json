@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-26T06:57:17.092Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "서인영",
-          "score": 100
-        },
-        {
-          "keyword": "한화솔루션",
-          "score": 99
-        },
-        {
-          "keyword": "이근안",
-          "score": 98
-        },
-        {
-          "keyword": "김동선",
-          "score": 97
-        },
-        {
-          "keyword": "홍해",
-          "score": 96
-        },
-        {
-          "keyword": "해리포터 드라마",
-          "score": 95
-        },
-        {
-          "keyword": "천안함",
-          "score": 94
-        },
-        {
-          "keyword": "로드리",
-          "score": 93
-        },
-        {
-          "keyword": "엔트리",
-          "score": 92
-        },
-        {
-          "keyword": "30기 옥순",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-26T07:59:56.747Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "장예찬",
-          "score": 100
-        },
-        {
-          "keyword": "서인영",
-          "score": 99
-        },
-        {
-          "keyword": "한화솔루션",
-          "score": 98
-        },
-        {
-          "keyword": "이근안",
-          "score": 97
-        },
-        {
-          "keyword": "김동선",
-          "score": 96
-        },
-        {
-          "keyword": "홍해",
-          "score": 95
-        },
-        {
-          "keyword": "해리포터 드라마",
-          "score": 94
-        },
-        {
-          "keyword": "천안함",
-          "score": 93
-        },
-        {
-          "keyword": "로드리",
-          "score": 92
-        },
-        {
-          "keyword": "엔트리",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-26T09:00:34.520Z",
       "geo": "KR",
       "source": "google",
@@ -5215,6 +5121,53 @@
         },
         {
           "keyword": "우리로",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-30T08:06:24.085Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "浅野啓介",
+          "score": 100
+        },
+        {
+          "keyword": "윤도현",
+          "score": 99
+        },
+        {
+          "keyword": "독도",
+          "score": 98
+        },
+        {
+          "keyword": "청와대",
+          "score": 97
+        },
+        {
+          "keyword": "신정훈",
+          "score": 96
+        },
+        {
+          "keyword": "황석희",
+          "score": 95
+        },
+        {
+          "keyword": "덴버 대 골든 스테이트",
+          "score": 94
+        },
+        {
+          "keyword": "kospi",
+          "score": 93
+        },
+        {
+          "keyword": "오버워치 넥슨",
+          "score": 92
+        },
+        {
+          "keyword": "삼전 주가",
           "score": 91
         }
       ]
