@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-26T05:54:51.007Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김동선",
-          "score": 100
-        },
-        {
-          "keyword": "홍해",
-          "score": 99
-        },
-        {
-          "keyword": "해리포터 드라마",
-          "score": 98
-        },
-        {
-          "keyword": "천안함",
-          "score": 97
-        },
-        {
-          "keyword": "로드리",
-          "score": 96
-        },
-        {
-          "keyword": "30기 옥순",
-          "score": 95
-        },
-        {
-          "keyword": "이정후",
-          "score": 94
-        },
-        {
-          "keyword": "권경애",
-          "score": 93
-        },
-        {
-          "keyword": "독도",
-          "score": 92
-        },
-        {
-          "keyword": "국민체육진흥공단",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-26T06:57:17.092Z",
       "geo": "KR",
       "source": "google",
@@ -5215,6 +5168,53 @@
         },
         {
           "keyword": "김양",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-30T06:13:33.270Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "浅野啓介",
+          "score": 100
+        },
+        {
+          "keyword": "윤도현",
+          "score": 99
+        },
+        {
+          "keyword": "독도",
+          "score": 98
+        },
+        {
+          "keyword": "청와대",
+          "score": 97
+        },
+        {
+          "keyword": "신정훈",
+          "score": 96
+        },
+        {
+          "keyword": "황석희",
+          "score": 95
+        },
+        {
+          "keyword": "덴버 대 골든 스테이트",
+          "score": 94
+        },
+        {
+          "keyword": "kospi",
+          "score": 93
+        },
+        {
+          "keyword": "오버워치 넥슨",
+          "score": 92
+        },
+        {
+          "keyword": "우리로",
           "score": 91
         }
       ]

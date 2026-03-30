@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-26T05:54:49.690Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ballot",
-          "score": 100
-        },
-        {
-          "keyword": "kevin costner",
-          "score": 99
-        },
-        {
-          "keyword": "ipl",
-          "score": 98
-        },
-        {
-          "keyword": "eiza gonzález",
-          "score": 97
-        },
-        {
-          "keyword": "nba standings",
-          "score": 96
-        },
-        {
-          "keyword": "andrew mccarthy",
-          "score": 95
-        },
-        {
-          "keyword": "bruno mars",
-          "score": 94
-        },
-        {
-          "keyword": "espn nba",
-          "score": 93
-        },
-        {
-          "keyword": "warriors game today",
-          "score": 92
-        },
-        {
-          "keyword": "john collins",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-26T06:57:15.952Z",
       "geo": "US",
       "source": "google",
@@ -5215,6 +5168,53 @@
         },
         {
           "keyword": "tim hardaway",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-30T06:13:31.922Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "zazie beetz",
+          "score": 100
+        },
+        {
+          "keyword": "real estate",
+          "score": 99
+        },
+        {
+          "keyword": "paradise season 3",
+          "score": 98
+        },
+        {
+          "keyword": "northern lights",
+          "score": 97
+        },
+        {
+          "keyword": "浅野啓介",
+          "score": 96
+        },
+        {
+          "keyword": "spencer jones",
+          "score": 95
+        },
+        {
+          "keyword": "phoenix weather",
+          "score": 94
+        },
+        {
+          "keyword": "apple",
+          "score": 93
+        },
+        {
+          "keyword": "coachella 2026 lineup",
+          "score": 92
+        },
+        {
+          "keyword": "bomb threat frontier airlines",
           "score": 91
         }
       ]
