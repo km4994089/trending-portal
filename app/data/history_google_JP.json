@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-26T20:56:59.880Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ブラジル代表",
-          "score": 100
-        },
-        {
-          "keyword": "岡田結実",
-          "score": 99
-        },
-        {
-          "keyword": "プロ野球",
-          "score": 98
-        },
-        {
-          "keyword": "パワー半導体",
-          "score": 97
-        },
-        {
-          "keyword": "grok",
-          "score": 96
-        },
-        {
-          "keyword": "カージナルス 対 レイズ",
-          "score": 95
-        },
-        {
-          "keyword": "brazil vs france",
-          "score": 94
-        },
-        {
-          "keyword": "サッカー",
-          "score": 93
-        },
-        {
-          "keyword": "ドジャース 試合",
-          "score": 92
-        },
-        {
-          "keyword": "ダウ先物",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-26T21:26:25.473Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "渕岡友美",
-          "score": 100
-        },
-        {
-          "keyword": "ブラジル 対 フランス",
-          "score": 99
-        },
-        {
-          "keyword": "津田寛治",
-          "score": 98
-        },
-        {
-          "keyword": "ウクライナ 対 スウェーデン",
-          "score": 97
-        },
-        {
-          "keyword": "f1 日本グランプリ",
-          "score": 96
-        },
-        {
-          "keyword": "ブルームバーグ",
-          "score": 95
-        },
-        {
-          "keyword": "おはよう日本",
-          "score": 94
-        },
-        {
-          "keyword": "吉川愛",
-          "score": 93
-        },
-        {
-          "keyword": "ブラジル代表",
-          "score": 92
-        },
-        {
-          "keyword": "岡田結実",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-26T21:51:31.997Z",
       "geo": "JP",
       "source": "google",
@@ -5168,6 +5074,53 @@
         },
         {
           "keyword": "竜巻注意情報",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-30T21:33:19.788Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "らじるらじる",
+          "score": 100
+        },
+        {
+          "keyword": "岡山 天気",
+          "score": 99
+        },
+        {
+          "keyword": "オムロン 電子部品事業",
+          "score": 98
+        },
+        {
+          "keyword": "吉岡里帆",
+          "score": 97
+        },
+        {
+          "keyword": "おはよう朝日です",
+          "score": 96
+        },
+        {
+          "keyword": "宇連ダム",
+          "score": 95
+        },
+        {
+          "keyword": "広島市天気",
+          "score": 94
+        },
+        {
+          "keyword": "阪急神戸線",
+          "score": 93
+        },
+        {
+          "keyword": "伊藤健太郎",
+          "score": 92
+        },
+        {
+          "keyword": "おはよう日本",
           "score": 91
         }
       ]
