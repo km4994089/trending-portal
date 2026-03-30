@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-26T23:22:00.529Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "나스닥",
-          "score": 100
-        },
-        {
-          "keyword": "미국 이란",
-          "score": 99
-        },
-        {
-          "keyword": "미세먼지",
-          "score": 98
-        },
-        {
-          "keyword": "덴마크 대 북마케도니아",
-          "score": 97
-        },
-        {
-          "keyword": "달러환율",
-          "score": 96
-        },
-        {
-          "keyword": "brazil vs france",
-          "score": 95
-        },
-        {
-          "keyword": "브라질 대 프랑스",
-          "score": 94
-        },
-        {
-          "keyword": "그록",
-          "score": 93
-        },
-        {
-          "keyword": "grok",
-          "score": 92
-        },
-        {
-          "keyword": "이탈리아",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-26T23:53:51.909Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "미세먼지 농도",
-          "score": 100
-        },
-        {
-          "keyword": "호르무즈 해협",
-          "score": 99
-        },
-        {
-          "keyword": "friendlies",
-          "score": 98
-        },
-        {
-          "keyword": "나스닥",
-          "score": 97
-        },
-        {
-          "keyword": "미국 이란",
-          "score": 96
-        },
-        {
-          "keyword": "미세먼지",
-          "score": 95
-        },
-        {
-          "keyword": "덴마크 대 북마케도니아",
-          "score": 94
-        },
-        {
-          "keyword": "달러환율",
-          "score": 93
-        },
-        {
-          "keyword": "brazil vs france",
-          "score": 92
-        },
-        {
-          "keyword": "삼성전자 주식",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T01:19:50.667Z",
       "geo": "KR",
       "source": "google",
@@ -5074,6 +4980,53 @@
         },
         {
           "keyword": "파월",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-30T23:56:14.917Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "빌보드 핫 100",
+          "score": 100
+        },
+        {
+          "keyword": "billboard hot 100",
+          "score": 99
+        },
+        {
+          "keyword": "天氣",
+          "score": 98
+        },
+        {
+          "keyword": "날씨",
+          "score": 97
+        },
+        {
+          "keyword": "weather",
+          "score": 96
+        },
+        {
+          "keyword": "야간선물",
+          "score": 95
+        },
+        {
+          "keyword": "샌디스크 주가",
+          "score": 94
+        },
+        {
+          "keyword": "다우지수",
+          "score": 93
+        },
+        {
+          "keyword": "날씨예보",
+          "score": 92
+        },
+        {
+          "keyword": "마이크론",
           "score": 91
         }
       ]
