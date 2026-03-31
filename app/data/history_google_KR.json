@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-27T10:38:03.232Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "홍서범 조갑경 아들",
-          "score": 100
-        },
-        {
-          "keyword": "유타",
-          "score": 99
-        },
-        {
-          "keyword": "이상보",
-          "score": 98
-        },
-        {
-          "keyword": "아이린",
-          "score": 97
-        },
-        {
-          "keyword": "ibk기업은행",
-          "score": 96
-        },
-        {
-          "keyword": "창원 칼부림",
-          "score": 95
-        },
-        {
-          "keyword": "병무청",
-          "score": 94
-        },
-        {
-          "keyword": "해든이",
-          "score": 93
-        },
-        {
-          "keyword": "카일 터커",
-          "score": 92
-        },
-        {
-          "keyword": "독도",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T11:34:40.787Z",
       "geo": "KR",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "axios",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-31T10:44:19.748Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "스포츠",
+          "score": 100
+        },
+        {
+          "keyword": "티빙",
+          "score": 99
+        },
+        {
+          "keyword": "프로야구 중계",
+          "score": 98
+        },
+        {
+          "keyword": "tving",
+          "score": 97
+        },
+        {
+          "keyword": "kia 대 lg",
+          "score": 96
+        },
+        {
+          "keyword": "kt 대 한화",
+          "score": 95
+        },
+        {
+          "keyword": "롯데 대 nc",
+          "score": 94
+        },
+        {
+          "keyword": "키움 대 ssg",
+          "score": 93
+        },
+        {
+          "keyword": "노동절",
+          "score": 92
+        },
+        {
+          "keyword": "sk하이닉스",
           "score": 91
         }
       ]

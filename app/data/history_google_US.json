@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-27T10:38:01.891Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "anthropic",
-          "score": 100
-        },
-        {
-          "keyword": "federico cina",
-          "score": 99
-        },
-        {
-          "keyword": "pick 4",
-          "score": 98
-        },
-        {
-          "keyword": "dfw tsa wait times",
-          "score": 97
-        },
-        {
-          "keyword": "sydney kings",
-          "score": 96
-        },
-        {
-          "keyword": "tsa wait times phl",
-          "score": 95
-        },
-        {
-          "keyword": "go daddy",
-          "score": 94
-        },
-        {
-          "keyword": "tsa agents government shutdown",
-          "score": 93
-        },
-        {
-          "keyword": "bitcoin price",
-          "score": 92
-        },
-        {
-          "keyword": "is claude down",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T11:34:39.511Z",
       "geo": "US",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "movie reviews",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-31T10:44:18.315Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "consumers energy",
+          "score": 100
+        },
+        {
+          "keyword": "sensex today",
+          "score": 99
+        },
+        {
+          "keyword": "weather boston",
+          "score": 98
+        },
+        {
+          "keyword": "redsox",
+          "score": 97
+        },
+        {
+          "keyword": "myrtle beach weather",
+          "score": 96
+        },
+        {
+          "keyword": "kitco",
+          "score": 95
+        },
+        {
+          "keyword": "atmos energy",
+          "score": 94
+        },
+        {
+          "keyword": "cleveland guardians",
+          "score": 93
+        },
+        {
+          "keyword": "mens final 4 2026",
+          "score": 92
+        },
+        {
+          "keyword": "tesla stock price",
           "score": 91
         }
       ]

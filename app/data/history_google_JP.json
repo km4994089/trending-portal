@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-27T10:38:04.282Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "やす子",
-          "score": 100
-        },
-        {
-          "keyword": "マッカスカー",
-          "score": 99
-        },
-        {
-          "keyword": "セリーグ",
-          "score": 98
-        },
-        {
-          "keyword": "カープ速報",
-          "score": 97
-        },
-        {
-          "keyword": "菜々緒",
-          "score": 96
-        },
-        {
-          "keyword": "長嶋茂雄",
-          "score": 95
-        },
-        {
-          "keyword": "animejapan",
-          "score": 94
-        },
-        {
-          "keyword": "高橋光臣",
-          "score": 93
-        },
-        {
-          "keyword": "松山ケンイチ",
-          "score": 92
-        },
-        {
-          "keyword": "ライオンズ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T11:34:41.860Z",
       "geo": "JP",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "今日のプロ野球",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-31T10:44:20.983Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "中日",
+          "score": 100
+        },
+        {
+          "keyword": "小島大河",
+          "score": 99
+        },
+        {
+          "keyword": "池田エライザ",
+          "score": 98
+        },
+        {
+          "keyword": "桑原将志",
+          "score": 97
+        },
+        {
+          "keyword": "パリーグ",
+          "score": 96
+        },
+        {
+          "keyword": "小田ときと",
+          "score": 95
+        },
+        {
+          "keyword": "京成盃グランドマイラーズ",
+          "score": 94
+        },
+        {
+          "keyword": "ホークス試合",
+          "score": 93
+        },
+        {
+          "keyword": "住宅ローン金利",
+          "score": 92
+        },
+        {
+          "keyword": "ソフトバンクホークス",
           "score": 91
         }
       ]
