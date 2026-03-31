@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-27T22:21:23.604Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "清水章吾",
-          "score": 100
-        },
-        {
-          "keyword": "kddi 株価",
-          "score": 99
-        },
-        {
-          "keyword": "フジテレビ",
-          "score": 98
-        },
-        {
-          "keyword": "タイガーウッズ",
-          "score": 97
-        },
-        {
-          "keyword": "スイス 対 ドイツ",
-          "score": 96
-        },
-        {
-          "keyword": "山田杏奈",
-          "score": 95
-        },
-        {
-          "keyword": "石油備蓄",
-          "score": 94
-        },
-        {
-          "keyword": "東京ドリームパーク 場所",
-          "score": 93
-        },
-        {
-          "keyword": "オランダ 対 ノルウェー",
-          "score": 92
-        },
-        {
-          "keyword": "tiger woods",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T22:57:18.395Z",
       "geo": "JP",
       "source": "google",
@@ -4933,6 +4886,53 @@
         },
         {
           "keyword": "weather today",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-31T22:55:24.608Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "矢沢永吉",
+          "score": 100
+        },
+        {
+          "keyword": "斎藤知事",
+          "score": 99
+        },
+        {
+          "keyword": "大倉士門",
+          "score": 98
+        },
+        {
+          "keyword": "京都天気",
+          "score": 97
+        },
+        {
+          "keyword": "リテラシー",
+          "score": 96
+        },
+        {
+          "keyword": "今日 天気",
+          "score": 95
+        },
+        {
+          "keyword": "新生銀行",
+          "score": 94
+        },
+        {
+          "keyword": "兵庫女王盃",
+          "score": 93
+        },
+        {
+          "keyword": "チュニジア",
+          "score": 92
+        },
+        {
+          "keyword": "広島市天気",
           "score": 91
         }
       ]
