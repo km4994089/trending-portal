@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-27T07:55:41.016Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "창원 칼부림",
-          "score": 100
-        },
-        {
-          "keyword": "병무청",
-          "score": 99
-        },
-        {
-          "keyword": "해든이",
-          "score": 98
-        },
-        {
-          "keyword": "독도",
-          "score": 97
-        },
-        {
-          "keyword": "도쿄 포켓몬센터",
-          "score": 96
-        },
-        {
-          "keyword": "천공기",
-          "score": 95
-        },
-        {
-          "keyword": "전한길",
-          "score": 94
-        },
-        {
-          "keyword": "스타벅스 kbo",
-          "score": 93
-        },
-        {
-          "keyword": "예술의전당",
-          "score": 92
-        },
-        {
-          "keyword": "앤디 페이지",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T08:40:57.717Z",
       "geo": "KR",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "대한항공 비상경영",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-31T08:36:11.356Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "새마을금고중앙회 채용",
+          "score": 100
+        },
+        {
+          "keyword": "openai",
+          "score": 99
+        },
+        {
+          "keyword": "axios",
+          "score": 98
+        },
+        {
+          "keyword": "cpa",
+          "score": 97
+        },
+        {
+          "keyword": "금융감독원",
+          "score": 96
+        },
+        {
+          "keyword": "쉬엄쉬엄 한강 3종 축제",
+          "score": 95
+        },
+        {
+          "keyword": "대구콘서트하우스",
+          "score": 94
+        },
+        {
+          "keyword": "2부제",
+          "score": 93
+        },
+        {
+          "keyword": "민생지원금",
+          "score": 92
+        },
+        {
+          "keyword": "이정현",
           "score": 91
         }
       ]

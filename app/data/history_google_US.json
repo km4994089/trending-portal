@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-27T07:55:39.759Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "electric cars",
-          "score": 100
-        },
-        {
-          "keyword": "dhs",
-          "score": 99
-        },
-        {
-          "keyword": "flight status",
-          "score": 98
-        },
-        {
-          "keyword": "china vs curacao",
-          "score": 97
-        },
-        {
-          "keyword": "dhurandhar 2 box office collection",
-          "score": 96
-        },
-        {
-          "keyword": "flood warning",
-          "score": 95
-        },
-        {
-          "keyword": "artificial intelligence",
-          "score": 94
-        },
-        {
-          "keyword": "deep learning",
-          "score": 93
-        },
-        {
-          "keyword": "climate change",
-          "score": 92
-        },
-        {
-          "keyword": "electric vehicles",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T08:40:56.801Z",
       "geo": "US",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "apple",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-31T08:36:10.087Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "alexander shevchenko",
+          "score": 100
+        },
+        {
+          "keyword": "the university of arizona",
+          "score": 99
+        },
+        {
+          "keyword": "banking",
+          "score": 98
+        },
+        {
+          "keyword": "criminal defense lawyer",
+          "score": 97
+        },
+        {
+          "keyword": "blood donation",
+          "score": 96
+        },
+        {
+          "keyword": "28 years later",
+          "score": 95
+        },
+        {
+          "keyword": "cruise line",
+          "score": 94
+        },
+        {
+          "keyword": "lamar odom",
+          "score": 93
+        },
+        {
+          "keyword": "youth soccer",
+          "score": 92
+        },
+        {
+          "keyword": "aged care",
           "score": 91
         }
       ]

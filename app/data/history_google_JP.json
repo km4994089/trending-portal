@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-27T07:55:42.364Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大阪桐蔭 野球部",
-          "score": 100
-        },
-        {
-          "keyword": "shiho",
-          "score": 99
-        },
-        {
-          "keyword": "小田急線",
-          "score": 98
-        },
-        {
-          "keyword": "ツイステ",
-          "score": 97
-        },
-        {
-          "keyword": "小田急",
-          "score": 96
-        },
-        {
-          "keyword": "自転車 ヘルメット 青切符",
-          "score": 95
-        },
-        {
-          "keyword": "桐谷広人",
-          "score": 94
-        },
-        {
-          "keyword": "英明高校",
-          "score": 93
-        },
-        {
-          "keyword": "英明高校野球部",
-          "score": 92
-        },
-        {
-          "keyword": "マクニカ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T08:40:59.079Z",
       "geo": "JP",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "バンクシー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-31T08:36:12.669Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "中日 対 巨人",
+          "score": 100
+        },
+        {
+          "keyword": "シーサイドライン",
+          "score": 99
+        },
+        {
+          "keyword": "ヤクルト 対 広島",
+          "score": 98
+        },
+        {
+          "keyword": "多摩川競艇",
+          "score": 97
+        },
+        {
+          "keyword": "国土交通省",
+          "score": 96
+        },
+        {
+          "keyword": "競輪結果",
+          "score": 95
+        },
+        {
+          "keyword": "サミー",
+          "score": 94
+        },
+        {
+          "keyword": "nikke2",
+          "score": 93
+        },
+        {
+          "keyword": "懸賞",
+          "score": 92
+        },
+        {
+          "keyword": "児島競艇",
           "score": 91
         }
       ]
