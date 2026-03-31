@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-27T16:10:50.537Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "us mint",
-          "score": 100
-        },
-        {
-          "keyword": "damar hamlin",
-          "score": 99
-        },
-        {
-          "keyword": "jason heyward",
-          "score": 98
-        },
-        {
-          "keyword": "abby huntsman",
-          "score": 97
-        },
-        {
-          "keyword": "marsha blackburn",
-          "score": 96
-        },
-        {
-          "keyword": "jill biden",
-          "score": 95
-        },
-        {
-          "keyword": "cherfilus-mccormick",
-          "score": 94
-        },
-        {
-          "keyword": "kash patel",
-          "score": 93
-        },
-        {
-          "keyword": "dow jones stock markets futures",
-          "score": 92
-        },
-        {
-          "keyword": "msft stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T17:14:32.914Z",
       "geo": "US",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "matteo berrettini",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-31T16:48:33.796Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "super el nino",
+          "score": 100
+        },
+        {
+          "keyword": "supergirl trailer",
+          "score": 99
+        },
+        {
+          "keyword": "colorado state fair",
+          "score": 98
+        },
+        {
+          "keyword": "haiti",
+          "score": 97
+        },
+        {
+          "keyword": "orcl stock",
+          "score": 96
+        },
+        {
+          "keyword": "kristi noem",
+          "score": 95
+        },
+        {
+          "keyword": "norway vs switzerland",
+          "score": 94
+        },
+        {
+          "keyword": "aurora forecast",
+          "score": 93
+        },
+        {
+          "keyword": "haiti vs iceland",
+          "score": 92
+        },
+        {
+          "keyword": "topps",
           "score": 91
         }
       ]
