@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-27T11:34:41.860Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "タモリ",
-          "score": 100
-        },
-        {
-          "keyword": "木村佳乃",
-          "score": 99
-        },
-        {
-          "keyword": "田中幹也",
-          "score": 98
-        },
-        {
-          "keyword": "近本光司",
-          "score": 97
-        },
-        {
-          "keyword": "グリコ",
-          "score": 96
-        },
-        {
-          "keyword": "めるる",
-          "score": 95
-        },
-        {
-          "keyword": "船迫大雅",
-          "score": 94
-        },
-        {
-          "keyword": "山田裕貴",
-          "score": 93
-        },
-        {
-          "keyword": "白熊つらら",
-          "score": 92
-        },
-        {
-          "keyword": "住之江競艇",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T12:40:25.275Z",
       "geo": "JP",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "ソフトバンクホークス",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-31T11:40:40.759Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "永尾柚乃",
+          "score": 100
+        },
+        {
+          "keyword": "清田みくり",
+          "score": 99
+        },
+        {
+          "keyword": "下関競艇",
+          "score": 98
+        },
+        {
+          "keyword": "池山隆寛",
+          "score": 97
+        },
+        {
+          "keyword": "秀吉",
+          "score": 96
+        },
+        {
+          "keyword": "佐藤輝明",
+          "score": 95
+        },
+        {
+          "keyword": "別班",
+          "score": 94
+        },
+        {
+          "keyword": "加藤小夏",
+          "score": 93
+        },
+        {
+          "keyword": "万代",
+          "score": 92
+        },
+        {
+          "keyword": "中日ドラゴンズ",
           "score": 91
         }
       ]
