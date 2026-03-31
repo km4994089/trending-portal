@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-27T15:13:16.692Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kash patel",
-          "score": 100
-        },
-        {
-          "keyword": "dow jones stock markets futures",
-          "score": 99
-        },
-        {
-          "keyword": "microsoft stock",
-          "score": 98
-        },
-        {
-          "keyword": "msft",
-          "score": 97
-        },
-        {
-          "keyword": "tqqq",
-          "score": 96
-        },
-        {
-          "keyword": "goog stock",
-          "score": 95
-        },
-        {
-          "keyword": "s&p500",
-          "score": 94
-        },
-        {
-          "keyword": "vix index",
-          "score": 93
-        },
-        {
-          "keyword": "sandisk stock",
-          "score": 92
-        },
-        {
-          "keyword": "meta stock price",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T16:10:50.537Z",
       "geo": "US",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "forex factory",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-31T15:45:12.479Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "rahm emanuel",
+          "score": 100
+        },
+        {
+          "keyword": "shahrukh khan",
+          "score": 99
+        },
+        {
+          "keyword": "bianca andreescu",
+          "score": 98
+        },
+        {
+          "keyword": "trick williams",
+          "score": 97
+        },
+        {
+          "keyword": "whitney cummings",
+          "score": 96
+        },
+        {
+          "keyword": "james beard finalists 2026",
+          "score": 95
+        },
+        {
+          "keyword": "snap stock",
+          "score": 94
+        },
+        {
+          "keyword": "the division resurgence",
+          "score": 93
+        },
+        {
+          "keyword": "mark cuban",
+          "score": 92
+        },
+        {
+          "keyword": "matteo berrettini",
           "score": 91
         }
       ]
