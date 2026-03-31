@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-27T21:55:02.531Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "paige bueckers",
-          "score": 100
-        },
-        {
-          "keyword": "sydney sweeney",
-          "score": 99
-        },
-        {
-          "keyword": "ncaa games tonight",
-          "score": 98
-        },
-        {
-          "keyword": "sadie sink spider man role",
-          "score": 97
-        },
-        {
-          "keyword": "tiger woods ex wife",
-          "score": 96
-        },
-        {
-          "keyword": "tiger woods kids",
-          "score": 95
-        },
-        {
-          "keyword": "no kings protest nyc",
-          "score": 94
-        },
-        {
-          "keyword": "louisville kings",
-          "score": 93
-        },
-        {
-          "keyword": "uconn women's basketball",
-          "score": 92
-        },
-        {
-          "keyword": "bentley university",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T22:21:20.994Z",
       "geo": "US",
       "source": "google",
@@ -4933,6 +4886,53 @@
         },
         {
           "keyword": "winter weather advisory",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-31T22:02:51.795Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "severe thunderstorm warning",
+          "score": 100
+        },
+        {
+          "keyword": "avatar fire and ash",
+          "score": 99
+        },
+        {
+          "keyword": "tornado warning",
+          "score": 98
+        },
+        {
+          "keyword": "tornado warning ohio",
+          "score": 97
+        },
+        {
+          "keyword": "tornado warning vs watch",
+          "score": 96
+        },
+        {
+          "keyword": "pio esposito",
+          "score": 95
+        },
+        {
+          "keyword": "bolivia vs",
+          "score": 94
+        },
+        {
+          "keyword": "sandro tonali",
+          "score": 93
+        },
+        {
+          "keyword": "cédric bakambu",
+          "score": 92
+        },
+        {
+          "keyword": "scream 8",
           "score": 91
         }
       ]
