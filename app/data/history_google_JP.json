@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-27T18:08:24.329Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "黒田慶樹",
-          "score": 100
-        },
-        {
-          "keyword": "アイシン",
-          "score": 99
-        },
-        {
-          "keyword": "山本美憂",
-          "score": 98
-        },
-        {
-          "keyword": "バズリズム",
-          "score": 97
-        },
-        {
-          "keyword": "堀北真希",
-          "score": 96
-        },
-        {
-          "keyword": "ドル円",
-          "score": 95
-        },
-        {
-          "keyword": "菊川怜",
-          "score": 94
-        },
-        {
-          "keyword": "俺たちバッドバーバーズ",
-          "score": 93
-        },
-        {
-          "keyword": "加藤ローサ",
-          "score": 92
-        },
-        {
-          "keyword": "タクシー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T19:14:02.353Z",
       "geo": "JP",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "fgo エイプリルフール",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-31T18:46:14.745Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "スウェーデン 対 ポーランド",
+          "score": 100
+        },
+        {
+          "keyword": "nhk eテレとは",
+          "score": 99
+        },
+        {
+          "keyword": "久保建英",
+          "score": 98
+        },
+        {
+          "keyword": "cooper connolly",
+          "score": 97
+        },
+        {
+          "keyword": "nhk",
+          "score": 96
+        },
+        {
+          "keyword": "恋する胃袋",
+          "score": 95
+        },
+        {
+          "keyword": "ボスニア・ヘルツェゴビナ 対 イタリア",
+          "score": 94
+        },
+        {
+          "keyword": "nhk one",
+          "score": 93
+        },
+        {
+          "keyword": "番組表",
+          "score": 92
+        },
+        {
+          "keyword": "イラン",
           "score": 91
         }
       ]
