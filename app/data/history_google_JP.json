@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-27T12:40:25.275Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ps5",
-          "score": 100
-        },
-        {
-          "keyword": "みなとみらい",
-          "score": 99
-        },
-        {
-          "keyword": "プラハ",
-          "score": 98
-        },
-        {
-          "keyword": "細田佳央太",
-          "score": 97
-        },
-        {
-          "keyword": "ホークス試合",
-          "score": 96
-        },
-        {
-          "keyword": "竹中直人",
-          "score": 95
-        },
-        {
-          "keyword": "ポランコ",
-          "score": 94
-        },
-        {
-          "keyword": "mリーグ速報",
-          "score": 93
-        },
-        {
-          "keyword": "山田孝之",
-          "score": 92
-        },
-        {
-          "keyword": "野球",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T14:04:10.682Z",
       "geo": "JP",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "中日ドラゴンズ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-31T12:53:29.027Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mlb 順位",
+          "score": 100
+        },
+        {
+          "keyword": "サブロー",
+          "score": 99
+        },
+        {
+          "keyword": "プロ野球結果",
+          "score": 98
+        },
+        {
+          "keyword": "南砂町",
+          "score": 97
+        },
+        {
+          "keyword": "スポナビ",
+          "score": 96
+        },
+        {
+          "keyword": "佐藤二朗",
+          "score": 95
+        },
+        {
+          "keyword": "カープ",
+          "score": 94
+        },
+        {
+          "keyword": "オリックス",
+          "score": 93
+        },
+        {
+          "keyword": "今成亮太",
+          "score": 92
+        },
+        {
+          "keyword": "藤川球児",
           "score": 91
         }
       ]
