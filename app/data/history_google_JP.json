@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-27T08:40:59.079Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "特定 技能 外食",
-          "score": 100
-        },
-        {
-          "keyword": "ジャイアンツ",
-          "score": 99
-        },
-        {
-          "keyword": "巨人 対 阪神",
-          "score": 98
-        },
-        {
-          "keyword": "ファミマ キャンペーン",
-          "score": 97
-        },
-        {
-          "keyword": "ソフトバンクホークス",
-          "score": 96
-        },
-        {
-          "keyword": "井上直樹",
-          "score": 95
-        },
-        {
-          "keyword": "巨人 開幕スタメン",
-          "score": 94
-        },
-        {
-          "keyword": "福岡競艇",
-          "score": 93
-        },
-        {
-          "keyword": "広島 対 中日",
-          "score": 92
-        },
-        {
-          "keyword": "東京都",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-27T09:44:08.168Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "齋藤飛鳥",
-          "score": 100
-        },
-        {
-          "keyword": "キャベッジ",
-          "score": 99
-        },
-        {
-          "keyword": "パ・リーグtv",
-          "score": 98
-        },
-        {
-          "keyword": "能年玲奈",
-          "score": 97
-        },
-        {
-          "keyword": "jsports オンデマンド",
-          "score": 96
-        },
-        {
-          "keyword": "武田玲奈",
-          "score": 95
-        },
-        {
-          "keyword": "ニコ生",
-          "score": 94
-        },
-        {
-          "keyword": "オリックス・バファローズ",
-          "score": 93
-        },
-        {
-          "keyword": "藤川球児",
-          "score": 92
-        },
-        {
-          "keyword": "阿部慎之助",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T10:38:04.282Z",
       "geo": "JP",
       "source": "google",
@@ -5027,6 +4933,53 @@
         },
         {
           "keyword": "児島競艇",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-31T09:54:41.007Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "横浜流星",
+          "score": 100
+        },
+        {
+          "keyword": "バチェロレッテ",
+          "score": 99
+        },
+        {
+          "keyword": "山口一郎",
+          "score": 98
+        },
+        {
+          "keyword": "体操のお姉さん アンジェさん",
+          "score": 97
+        },
+        {
+          "keyword": "蓮ノ空",
+          "score": 96
+        },
+        {
+          "keyword": "パリーグtv",
+          "score": 95
+        },
+        {
+          "keyword": "満月",
+          "score": 94
+        },
+        {
+          "keyword": "ロッテリア",
+          "score": 93
+        },
+        {
+          "keyword": "dazn プロ野球",
+          "score": 92
+        },
+        {
+          "keyword": "今日のプロ野球",
           "score": 91
         }
       ]
