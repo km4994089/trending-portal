@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-27T17:14:32.914Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "e15",
-          "score": 100
-        },
-        {
-          "keyword": "ghana vs austria",
-          "score": 99
-        },
-        {
-          "keyword": "unh stock",
-          "score": 98
-        },
-        {
-          "keyword": "red flag (fire weather) warning",
-          "score": 97
-        },
-        {
-          "keyword": "red flag warning",
-          "score": 96
-        },
-        {
-          "keyword": "nerdeen kiswani",
-          "score": 95
-        },
-        {
-          "keyword": "weather dallas",
-          "score": 94
-        },
-        {
-          "keyword": "dallas weather",
-          "score": 93
-        },
-        {
-          "keyword": "mcdonalds adult happy meals",
-          "score": 92
-        },
-        {
-          "keyword": "us mint",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T18:08:21.780Z",
       "geo": "US",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "topps",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-31T17:48:36.197Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "iran news",
+          "score": 100
+        },
+        {
+          "keyword": "meta stock price",
+          "score": 99
+        },
+        {
+          "keyword": "winter storm warning",
+          "score": 98
+        },
+        {
+          "keyword": "cnbc",
+          "score": 97
+        },
+        {
+          "keyword": "iran war news",
+          "score": 96
+        },
+        {
+          "keyword": "nvidia stock price",
+          "score": 95
+        },
+        {
+          "keyword": "summer house",
+          "score": 94
+        },
+        {
+          "keyword": "judge nathan milliron",
+          "score": 93
+        },
+        {
+          "keyword": "orcl",
+          "score": 92
+        },
+        {
+          "keyword": "shelly kittleson",
           "score": 91
         }
       ]

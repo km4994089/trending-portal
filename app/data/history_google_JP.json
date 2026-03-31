@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-27T17:14:35.305Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "アイシン",
-          "score": 100
-        },
-        {
-          "keyword": "堀北真希",
-          "score": 99
-        },
-        {
-          "keyword": "ドル円",
-          "score": 98
-        },
-        {
-          "keyword": "菊川怜",
-          "score": 97
-        },
-        {
-          "keyword": "俺たちバッドバーバーズ",
-          "score": 96
-        },
-        {
-          "keyword": "加藤ローサ",
-          "score": 95
-        },
-        {
-          "keyword": "タクシー",
-          "score": 94
-        },
-        {
-          "keyword": "小学校5年生 行方不明",
-          "score": 93
-        },
-        {
-          "keyword": "山本美月",
-          "score": 92
-        },
-        {
-          "keyword": "みんなの銀行",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T18:08:24.329Z",
       "geo": "JP",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "兵庫県教職員人事異動",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-31T17:48:39.118Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "イラン",
+          "score": 100
+        },
+        {
+          "keyword": "カードキャプターさくら",
+          "score": 99
+        },
+        {
+          "keyword": "デゼルビ",
+          "score": 98
+        },
+        {
+          "keyword": "サーティーワン",
+          "score": 97
+        },
+        {
+          "keyword": "エープリルフール",
+          "score": 96
+        },
+        {
+          "keyword": "foma",
+          "score": 95
+        },
+        {
+          "keyword": "バックトゥザフューチャー",
+          "score": 94
+        },
+        {
+          "keyword": "高城れに",
+          "score": 93
+        },
+        {
+          "keyword": "ガシャポン",
+          "score": 92
+        },
+        {
+          "keyword": "fgo エイプリルフール",
           "score": 91
         }
       ]
