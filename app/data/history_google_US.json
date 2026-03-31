@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-27T14:04:08.092Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dog day afternoon broadway",
-          "score": 100
-        },
-        {
-          "keyword": "the ai doc",
-          "score": 99
-        },
-        {
-          "keyword": "jeff ross",
-          "score": 98
-        },
-        {
-          "keyword": "glen powell",
-          "score": 97
-        },
-        {
-          "keyword": "selena gomez",
-          "score": 96
-        },
-        {
-          "keyword": "connections answers",
-          "score": 95
-        },
-        {
-          "keyword": "college basketball ncaa tournament",
-          "score": 94
-        },
-        {
-          "keyword": "gusto",
-          "score": 93
-        },
-        {
-          "keyword": "cdl",
-          "score": 92
-        },
-        {
-          "keyword": "mark consuelos",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T15:13:16.692Z",
       "geo": "US",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "mrvl stock",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-31T14:22:39.353Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tqqq",
+          "score": 100
+        },
+        {
+          "keyword": "cooper connolly",
+          "score": 99
+        },
+        {
+          "keyword": "stock market news",
+          "score": 98
+        },
+        {
+          "keyword": "mikaela shiffrin",
+          "score": 97
+        },
+        {
+          "keyword": "kisd",
+          "score": 96
+        },
+        {
+          "keyword": "supreme court",
+          "score": 95
+        },
+        {
+          "keyword": "oracle stock",
+          "score": 94
+        },
+        {
+          "keyword": "colt emerson",
+          "score": 93
+        },
+        {
+          "keyword": "roberto de zerbi",
+          "score": 92
+        },
+        {
+          "keyword": "forex factory",
           "score": 91
         }
       ]
