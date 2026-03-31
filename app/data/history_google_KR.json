@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-27T01:19:50.667Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "두산베어스",
-          "score": 100
-        },
-        {
-          "keyword": "스타벅스",
-          "score": 99
-        },
-        {
-          "keyword": "월드컵 유럽 예선",
-          "score": 98
-        },
-        {
-          "keyword": "프랑스",
-          "score": 97
-        },
-        {
-          "keyword": "호르무즈 해협",
-          "score": 96
-        },
-        {
-          "keyword": "미세먼지 농도",
-          "score": 95
-        },
-        {
-          "keyword": "friendlies",
-          "score": 94
-        },
-        {
-          "keyword": "나스닥",
-          "score": 93
-        },
-        {
-          "keyword": "미세먼지",
-          "score": 92
-        },
-        {
-          "keyword": "덴마크 대 북마케도니아",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T04:09:14.667Z",
       "geo": "KR",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "마이크론",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-31T01:46:18.952Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "환율",
+          "score": 100
+        },
+        {
+          "keyword": "삼천당제약",
+          "score": 99
+        },
+        {
+          "keyword": "삼천당제약 주가",
+          "score": 98
+        },
+        {
+          "keyword": "코스피 지수",
+          "score": 97
+        },
+        {
+          "keyword": "폰세",
+          "score": 96
+        },
+        {
+          "keyword": "윤다훈",
+          "score": 95
+        },
+        {
+          "keyword": "문희경",
+          "score": 94
+        },
+        {
+          "keyword": "billboard hot 100",
+          "score": 93
+        },
+        {
+          "keyword": "天氣",
+          "score": 92
+        },
+        {
+          "keyword": "빌보드",
           "score": 91
         }
       ]
