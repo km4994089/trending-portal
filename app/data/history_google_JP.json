@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-27T04:09:16.589Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "星野リゾート",
-          "score": 100
-        },
-        {
-          "keyword": "ジョックロック",
-          "score": 99
-        },
-        {
-          "keyword": "金曜ロードショー コナン",
-          "score": 98
-        },
-        {
-          "keyword": "代々木公園",
-          "score": 97
-        },
-        {
-          "keyword": "東レ",
-          "score": 96
-        },
-        {
-          "keyword": "ラグーナテンボス",
-          "score": 95
-        },
-        {
-          "keyword": "高校野球 結果",
-          "score": 94
-        },
-        {
-          "keyword": "smbc日興証券",
-          "score": 93
-        },
-        {
-          "keyword": "高校野球 今日 の試合速報",
-          "score": 92
-        },
-        {
-          "keyword": "浅香航大",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T05:55:06.969Z",
       "geo": "JP",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "有働由美子",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-31T04:27:55.032Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "vs超特急",
+          "score": 100
+        },
+        {
+          "keyword": "杉原千畝",
+          "score": 99
+        },
+        {
+          "keyword": "桐蔭学園",
+          "score": 98
+        },
+        {
+          "keyword": "高校無償化",
+          "score": 97
+        },
+        {
+          "keyword": "警察署",
+          "score": 96
+        },
+        {
+          "keyword": "アルコアンドピース",
+          "score": 95
+        },
+        {
+          "keyword": "ハイパーカミオカンデ",
+          "score": 94
+        },
+        {
+          "keyword": "大阪桐蔭 中村",
+          "score": 93
+        },
+        {
+          "keyword": "トータルテンボス",
+          "score": 92
+        },
+        {
+          "keyword": "サントリー キャンペーン",
           "score": 91
         }
       ]

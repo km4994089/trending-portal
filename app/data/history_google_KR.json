@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-27T04:09:14.667Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "카일 터커",
-          "score": 100
-        },
-        {
-          "keyword": "독도",
-          "score": 99
-        },
-        {
-          "keyword": "천공기",
-          "score": 98
-        },
-        {
-          "keyword": "도쿄 포켓몬센터",
-          "score": 97
-        },
-        {
-          "keyword": "전한길",
-          "score": 96
-        },
-        {
-          "keyword": "스타벅스 kbo",
-          "score": 95
-        },
-        {
-          "keyword": "예술의전당",
-          "score": 94
-        },
-        {
-          "keyword": "앤디 페이지",
-          "score": 93
-        },
-        {
-          "keyword": "우리로",
-          "score": 92
-        },
-        {
-          "keyword": "서해수호의 날",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T05:55:05.652Z",
       "geo": "KR",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "빌보드",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-31T04:27:53.614Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "인순이",
+          "score": 100
+        },
+        {
+          "keyword": "대한항공 비상경영",
+          "score": 99
+        },
+        {
+          "keyword": "이정후",
+          "score": 98
+        },
+        {
+          "keyword": "독도",
+          "score": 97
+        },
+        {
+          "keyword": "국회",
+          "score": 96
+        },
+        {
+          "keyword": "긴급재정경제명령",
+          "score": 95
+        },
+        {
+          "keyword": "정원오",
+          "score": 94
+        },
+        {
+          "keyword": "김창민 감독",
+          "score": 93
+        },
+        {
+          "keyword": "삼전",
+          "score": 92
+        },
+        {
+          "keyword": "청약홈",
           "score": 91
         }
       ]
