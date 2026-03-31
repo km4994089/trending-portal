@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-27T22:57:18.395Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "メタ",
-          "score": 100
-        },
-        {
-          "keyword": "ローム",
-          "score": 99
-        },
-        {
-          "keyword": "吉川愛",
-          "score": 98
-        },
-        {
-          "keyword": "桜田ひより",
-          "score": 97
-        },
-        {
-          "keyword": "桜開花状況",
-          "score": 96
-        },
-        {
-          "keyword": "目黒川",
-          "score": 95
-        },
-        {
-          "keyword": "為替レート",
-          "score": 94
-        },
-        {
-          "keyword": "清水章吾",
-          "score": 93
-        },
-        {
-          "keyword": "kddi 株価",
-          "score": 92
-        },
-        {
-          "keyword": "豪ドル",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T23:27:29.045Z",
       "geo": "JP",
       "source": "google",
@@ -4933,6 +4886,53 @@
         },
         {
           "keyword": "広島市天気",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-31T23:25:13.828Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "松田好花",
+          "score": 100
+        },
+        {
+          "keyword": "燃油サーチャージ",
+          "score": 99
+        },
+        {
+          "keyword": "和久田麻由子",
+          "score": 98
+        },
+        {
+          "keyword": "新社会人",
+          "score": 97
+        },
+        {
+          "keyword": "日経電子版",
+          "score": 96
+        },
+        {
+          "keyword": "風薫る",
+          "score": 95
+        },
+        {
+          "keyword": "ブレーブス 対 アスレチックス",
+          "score": 94
+        },
+        {
+          "keyword": "ドムドムバーガー",
+          "score": 93
+        },
+        {
+          "keyword": "トミカ",
+          "score": 92
+        },
+        {
+          "keyword": "ダウ平均株価",
           "score": 91
         }
       ]
