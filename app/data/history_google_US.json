@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-27T05:55:04.646Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "vincent d'onofrio",
-          "score": 100
-        },
-        {
-          "keyword": "blade runner 2049",
-          "score": 99
-        },
-        {
-          "keyword": "amanda peet",
-          "score": 98
-        },
-        {
-          "keyword": "seth meyers",
-          "score": 97
-        },
-        {
-          "keyword": "riz ahmed",
-          "score": 96
-        },
-        {
-          "keyword": "yosemite",
-          "score": 95
-        },
-        {
-          "keyword": "weather storms tornadoes ohio",
-          "score": 94
-        },
-        {
-          "keyword": "carolyn bessette",
-          "score": 93
-        },
-        {
-          "keyword": "arizona vs purdue",
-          "score": 92
-        },
-        {
-          "keyword": "kristi noem",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-27T06:56:19.309Z",
       "geo": "US",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "severe thunderstorm warning",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-03-31T05:59:14.096Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "winning powerball numbers",
+          "score": 100
+        },
+        {
+          "keyword": "paul sewald",
+          "score": 99
+        },
+        {
+          "keyword": "brie larson",
+          "score": 98
+        },
+        {
+          "keyword": "apple ipad",
+          "score": 97
+        },
+        {
+          "keyword": "robin williams",
+          "score": 96
+        },
+        {
+          "keyword": "coachella 2026 lineup",
+          "score": 95
+        },
+        {
+          "keyword": "dodgers game today",
+          "score": 94
+        },
+        {
+          "keyword": "wemby",
+          "score": 93
+        },
+        {
+          "keyword": "los angeles dodgers",
+          "score": 92
+        },
+        {
+          "keyword": "dodgers score",
           "score": 91
         }
       ]
