@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-28T01:14:33.073Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김효진",
-          "score": 100
-        },
-        {
-          "keyword": "kbo",
-          "score": 99
-        },
-        {
-          "keyword": "두산베어스",
-          "score": 98
-        },
-        {
-          "keyword": "조성현",
-          "score": 97
-        },
-        {
-          "keyword": "이길여",
-          "score": 96
-        },
-        {
-          "keyword": "야닉 시너",
-          "score": 95
-        },
-        {
-          "keyword": "kbo 리그",
-          "score": 94
-        },
-        {
-          "keyword": "논산딸기축제",
-          "score": 93
-        },
-        {
-          "keyword": "tiger woods",
-          "score": 92
-        },
-        {
-          "keyword": "미세먼지",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-28T03:55:40.473Z",
       "geo": "KR",
       "source": "google",
@@ -4886,6 +4839,53 @@
         },
         {
           "keyword": "cooper connolly",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-01T01:28:28.054Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "민방위",
+          "score": 100
+        },
+        {
+          "keyword": "한국장학재단",
+          "score": 99
+        },
+        {
+          "keyword": "국민카드",
+          "score": 98
+        },
+        {
+          "keyword": "청약홈",
+          "score": 97
+        },
+        {
+          "keyword": "claude code source code",
+          "score": 96
+        },
+        {
+          "keyword": "april fools day",
+          "score": 95
+        },
+        {
+          "keyword": "식목일",
+          "score": 94
+        },
+        {
+          "keyword": "axios 공급망 공격",
+          "score": 93
+        },
+        {
+          "keyword": "신한투자증권",
+          "score": 92
+        },
+        {
+          "keyword": "아르테미스 2호",
           "score": 91
         }
       ]
