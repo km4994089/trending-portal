@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-28T05:17:53.427Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "스포츠",
-          "score": 100
-        },
-        {
-          "keyword": "기아",
-          "score": 99
-        },
-        {
-          "keyword": "롯데 대 삼성",
-          "score": 98
-        },
-        {
-          "keyword": "kia 대 ssg",
-          "score": 97
-        },
-        {
-          "keyword": "키움 대 한화",
-          "score": 96
-        },
-        {
-          "keyword": "kt 대 lg",
-          "score": 95
-        },
-        {
-          "keyword": "알렉스 프리랜드",
-          "score": 94
-        },
-        {
-          "keyword": "프로야구 개막전",
-          "score": 93
-        },
-        {
-          "keyword": "kbo 개막",
-          "score": 92
-        },
-        {
-          "keyword": "프로야구 개막",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-28T06:14:25.155Z",
       "geo": "KR",
       "source": "google",
@@ -4886,6 +4839,53 @@
         },
         {
           "keyword": "한국장학재단",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-01T06:11:00.276Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "한국보육진흥원",
+          "score": 100
+        },
+        {
+          "keyword": "artemis ii",
+          "score": 99
+        },
+        {
+          "keyword": "김재섭",
+          "score": 98
+        },
+        {
+          "keyword": "포스트말론 내한",
+          "score": 97
+        },
+        {
+          "keyword": "오타니 쇼헤이",
+          "score": 96
+        },
+        {
+          "keyword": "브라질 대 크로아티아",
+          "score": 95
+        },
+        {
+          "keyword": "이정후",
+          "score": 94
+        },
+        {
+          "keyword": "la 레이커스 대 클리블랜드",
+          "score": 93
+        },
+        {
+          "keyword": "에어로케이",
+          "score": 92
+        },
+        {
+          "keyword": "독도",
           "score": 91
         }
       ]
