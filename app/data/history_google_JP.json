@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-28T03:55:41.770Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "スカイツリー",
-          "score": 100
-        },
-        {
-          "keyword": "埼玉スタジアム2002",
-          "score": 99
-        },
-        {
-          "keyword": "中林美恵子",
-          "score": 98
-        },
-        {
-          "keyword": "ユニクロ ドジャース",
-          "score": 97
-        },
-        {
-          "keyword": "ペルドモ",
-          "score": 96
-        },
-        {
-          "keyword": "井森美幸",
-          "score": 95
-        },
-        {
-          "keyword": "ガロン",
-          "score": 94
-        },
-        {
-          "keyword": "ナゲッツ 対 ジャズ",
-          "score": 93
-        },
-        {
-          "keyword": "大阪城ホール",
-          "score": 92
-        },
-        {
-          "keyword": "セブン 揚げ物",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-28T05:17:54.610Z",
       "geo": "JP",
       "source": "google",
@@ -4886,6 +4839,53 @@
         },
         {
           "keyword": "東北新幹線",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-01T04:29:16.160Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "東方神起",
+          "score": 100
+        },
+        {
+          "keyword": "チャンミン",
+          "score": 99
+        },
+        {
+          "keyword": "慶應義塾大学",
+          "score": 98
+        },
+        {
+          "keyword": "ヨッシー",
+          "score": 97
+        },
+        {
+          "keyword": "芝浦工業大学",
+          "score": 96
+        },
+        {
+          "keyword": "大リーグドジャース",
+          "score": 95
+        },
+        {
+          "keyword": "高橋みなみ",
+          "score": 94
+        },
+        {
+          "keyword": "b'z",
+          "score": 93
+        },
+        {
+          "keyword": "株式会社trustar",
+          "score": 92
+        },
+        {
+          "keyword": "春ドラマ",
           "score": 91
         }
       ]

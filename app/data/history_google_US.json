@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-28T03:55:39.375Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "bronny james",
-          "score": 100
-        },
-        {
-          "keyword": "jeremiah fears",
-          "score": 99
-        },
-        {
-          "keyword": "bilal coulibaly",
-          "score": 98
-        },
-        {
-          "keyword": "rhys hoskins",
-          "score": 97
-        },
-        {
-          "keyword": "luke raley",
-          "score": 96
-        },
-        {
-          "keyword": "josh minott",
-          "score": 95
-        },
-        {
-          "keyword": "nuggets schedule",
-          "score": 94
-        },
-        {
-          "keyword": "dalton knecht",
-          "score": 93
-        },
-        {
-          "keyword": "noah clowney",
-          "score": 92
-        },
-        {
-          "keyword": "grace knox",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-28T05:17:52.035Z",
       "geo": "US",
       "source": "google",
@@ -4886,6 +4839,53 @@
         },
         {
           "keyword": "aidan hutchinson",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-01T04:29:13.564Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "zendaya",
+          "score": 100
+        },
+        {
+          "keyword": "dan levy",
+          "score": 99
+        },
+        {
+          "keyword": "toumani camara",
+          "score": 98
+        },
+        {
+          "keyword": "mile high city",
+          "score": 97
+        },
+        {
+          "keyword": "dalton knecht",
+          "score": 96
+        },
+        {
+          "keyword": "nathan lane",
+          "score": 95
+        },
+        {
+          "keyword": "dbacks",
+          "score": 94
+        },
+        {
+          "keyword": "ken clay",
+          "score": 93
+        },
+        {
+          "keyword": "dunkin april fools code",
+          "score": 92
+        },
+        {
+          "keyword": "lauren betts",
           "score": 91
         }
       ]
