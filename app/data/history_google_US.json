@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-29T04:14:38.552Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "coup",
-          "score": 100
-        },
-        {
-          "keyword": "grayson allen",
-          "score": 99
-        },
-        {
-          "keyword": "woody harrelson",
-          "score": 98
-        },
-        {
-          "keyword": "dylan o'brien",
-          "score": 97
-        },
-        {
-          "keyword": "riz ahmed",
-          "score": 96
-        },
-        {
-          "keyword": "mariners score",
-          "score": 95
-        },
-        {
-          "keyword": "steven kwan",
-          "score": 94
-        },
-        {
-          "keyword": "will klein",
-          "score": 93
-        },
-        {
-          "keyword": "jose ramirez",
-          "score": 92
-        },
-        {
-          "keyword": "california lottery",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-29T05:55:27.354Z",
       "geo": "US",
       "source": "google",
@@ -4275,6 +4228,53 @@
         },
         {
           "keyword": "liga mx femenil",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-02T05:54:34.885Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "anya taylor-joy",
+          "score": 100
+        },
+        {
+          "keyword": "lol",
+          "score": 99
+        },
+        {
+          "keyword": "north west",
+          "score": 98
+        },
+        {
+          "keyword": "machine gun kelly",
+          "score": 97
+        },
+        {
+          "keyword": "harkins",
+          "score": 96
+        },
+        {
+          "keyword": "san diego zoo",
+          "score": 95
+        },
+        {
+          "keyword": "morgan wallen",
+          "score": 94
+        },
+        {
+          "keyword": "severance",
+          "score": 93
+        },
+        {
+          "keyword": "denzel washington",
+          "score": 92
+        },
+        {
+          "keyword": "kris jenner",
           "score": 91
         }
       ]

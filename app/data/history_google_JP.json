@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-29T04:14:40.990Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "勝浦",
-          "score": 100
-        },
-        {
-          "keyword": "八嶋智人",
-          "score": 99
-        },
-        {
-          "keyword": "熊本 対 鹿児島",
-          "score": 98
-        },
-        {
-          "keyword": "ジョックロック",
-          "score": 97
-        },
-        {
-          "keyword": "今日のドジャース",
-          "score": 96
-        },
-        {
-          "keyword": "甲子園速報",
-          "score": 95
-        },
-        {
-          "keyword": "岡田紗佳",
-          "score": 94
-        },
-        {
-          "keyword": "ガーディアンズ",
-          "score": 93
-        },
-        {
-          "keyword": "ストレンジャーシングス",
-          "score": 92
-        },
-        {
-          "keyword": "マックス・マンシー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-29T05:55:30.127Z",
       "geo": "JP",
       "source": "google",
@@ -4275,6 +4228,53 @@
         },
         {
           "keyword": "jetstar",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-02T05:54:37.189Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "トレイルブレイザーズ",
+          "score": 100
+        },
+        {
+          "keyword": "南丹市立園部小学校",
+          "score": 99
+        },
+        {
+          "keyword": "波瑠",
+          "score": 98
+        },
+        {
+          "keyword": "兼六園",
+          "score": 97
+        },
+        {
+          "keyword": "春ドラマ",
+          "score": 96
+        },
+        {
+          "keyword": "郵便",
+          "score": 95
+        },
+        {
+          "keyword": "セリア",
+          "score": 94
+        },
+        {
+          "keyword": "未解決の女",
+          "score": 93
+        },
+        {
+          "keyword": "jal 国内線",
+          "score": 92
+        },
+        {
+          "keyword": "岡山大学",
           "score": 91
         }
       ]
