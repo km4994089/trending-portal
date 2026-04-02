@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-29T01:23:25.294Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "金田正一",
-          "score": 100
-        },
-        {
-          "keyword": "狩野英孝",
-          "score": 99
-        },
-        {
-          "keyword": "マイク・トラウト",
-          "score": 98
-        },
-        {
-          "keyword": "原宿",
-          "score": 97
-        },
-        {
-          "keyword": "村上宗隆",
-          "score": 96
-        },
-        {
-          "keyword": "桜",
-          "score": 95
-        },
-        {
-          "keyword": "宮世琉弥",
-          "score": 94
-        },
-        {
-          "keyword": "安野貴博",
-          "score": 93
-        },
-        {
-          "keyword": "ドジャース 試合放送予定",
-          "score": 92
-        },
-        {
-          "keyword": "吉田美和",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-29T04:14:40.990Z",
       "geo": "JP",
       "source": "google",
@@ -4275,6 +4228,53 @@
         },
         {
           "keyword": "ホセ・ラミレス",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-02T04:04:07.964Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ニュース",
+          "score": 100
+        },
+        {
+          "keyword": "セス・カリー",
+          "score": 99
+        },
+        {
+          "keyword": "maga",
+          "score": 98
+        },
+        {
+          "keyword": "浅香航大",
+          "score": 97
+        },
+        {
+          "keyword": "真木よう子",
+          "score": 96
+        },
+        {
+          "keyword": "mama 2026",
+          "score": 95
+        },
+        {
+          "keyword": "ママアワード 2026",
+          "score": 94
+        },
+        {
+          "keyword": "福原愛",
+          "score": 93
+        },
+        {
+          "keyword": "マッスルオペラちゃん",
+          "score": 92
+        },
+        {
+          "keyword": "jetstar",
           "score": 91
         }
       ]
