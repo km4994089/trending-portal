@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-29T13:45:00.139Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "장영남",
-          "score": 100
-        },
-        {
-          "keyword": "이연희",
-          "score": 99
-        },
-        {
-          "keyword": "cuaca besok",
-          "score": 98
-        },
-        {
-          "keyword": "내일 날씨",
-          "score": 97
-        },
-        {
-          "keyword": "랄랄",
-          "score": 96
-        },
-        {
-          "keyword": "thời tiết ngày mai",
-          "score": 95
-        },
-        {
-          "keyword": "5부제",
-          "score": 94
-        },
-        {
-          "keyword": "서준영",
-          "score": 93
-        },
-        {
-          "keyword": "탁재훈",
-          "score": 92
-        },
-        {
-          "keyword": "샘킴",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-29T14:26:17.560Z",
       "geo": "KR",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "마크롱",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-02T14:16:35.765Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "고윤정",
+          "score": 100
+        },
+        {
+          "keyword": "윤철형",
+          "score": 99
+        },
+        {
+          "keyword": "lh",
+          "score": 98
+        },
+        {
+          "keyword": "우규민",
+          "score": 97
+        },
+        {
+          "keyword": "엠넷",
+          "score": 96
+        },
+        {
+          "keyword": "쇼미더머니",
+          "score": 95
+        },
+        {
+          "keyword": "롯데",
+          "score": 94
+        },
+        {
+          "keyword": "이상",
+          "score": 93
+        },
+        {
+          "keyword": "삼성 라이온즈",
+          "score": 92
+        },
+        {
+          "keyword": "weather tomorrow",
           "score": 91
         }
       ]

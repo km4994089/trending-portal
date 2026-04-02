@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-29T13:44:58.798Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "andrew lloyd webber",
-          "score": 100
-        },
-        {
-          "keyword": "nancy mace",
-          "score": 99
-        },
-        {
-          "keyword": "cbs sunday morning march 29 2026",
-          "score": 98
-        },
-        {
-          "keyword": "georgia vs lithuania",
-          "score": 97
-        },
-        {
-          "keyword": "mi vs kkr",
-          "score": 96
-        },
-        {
-          "keyword": "george magazine",
-          "score": 95
-        },
-        {
-          "keyword": "olivia munn",
-          "score": 94
-        },
-        {
-          "keyword": "caster semenya",
-          "score": 93
-        },
-        {
-          "keyword": "semana santa 2026",
-          "score": 92
-        },
-        {
-          "keyword": "cherry blossoms dc",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-29T14:26:16.143Z",
       "geo": "US",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "mike tomlin",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-02T14:16:34.789Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nike mind",
+          "score": 100
+        },
+        {
+          "keyword": "falcons new uniforms",
+          "score": 99
+        },
+        {
+          "keyword": "ticket master",
+          "score": 98
+        },
+        {
+          "keyword": "intc stock",
+          "score": 97
+        },
+        {
+          "keyword": "sp500",
+          "score": 96
+        },
+        {
+          "keyword": "kisd",
+          "score": 95
+        },
+        {
+          "keyword": "josh allen",
+          "score": 94
+        },
+        {
+          "keyword": "nfl draft",
+          "score": 93
+        },
+        {
+          "keyword": "grace van patten",
+          "score": 92
+        },
+        {
+          "keyword": "tsla stock",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-29T13:45:01.459Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "桜井和寿",
-          "score": 100
-        },
-        {
-          "keyword": "小泉進次郎",
-          "score": 99
-        },
-        {
-          "keyword": "春ドラマ",
-          "score": 98
-        },
-        {
-          "keyword": "ミセス",
-          "score": 97
-        },
-        {
-          "keyword": "4月ドラマ",
-          "score": 96
-        },
-        {
-          "keyword": "ドラマ",
-          "score": 95
-        },
-        {
-          "keyword": "諏訪部順一",
-          "score": 94
-        },
-        {
-          "keyword": "リブート",
-          "score": 93
-        },
-        {
-          "keyword": "滝川クリステル",
-          "score": 92
-        },
-        {
-          "keyword": "井桁弘恵",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-29T14:26:19.005Z",
       "geo": "JP",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "山本一太",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-02T14:16:36.959Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ラジオスター",
+          "score": 100
+        },
+        {
+          "keyword": "バービー",
+          "score": 99
+        },
+        {
+          "keyword": "奥川恭伸",
+          "score": 98
+        },
+        {
+          "keyword": "こめかみっ ガールズ",
+          "score": 97
+        },
+        {
+          "keyword": "庵野秀明",
+          "score": 96
+        },
+        {
+          "keyword": "スーパーホテル",
+          "score": 95
+        },
+        {
+          "keyword": "安楽亭",
+          "score": 94
+        },
+        {
+          "keyword": "山口百恵",
+          "score": 93
+        },
+        {
+          "keyword": "megumi",
+          "score": 92
+        },
+        {
+          "keyword": "岩崎良美",
           "score": 91
         }
       ]
