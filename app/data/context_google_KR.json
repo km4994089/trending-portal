@@ -1,14 +1,18 @@
 {
-  "capturedAt": "2026-04-02T21:40:02.301Z",
+  "capturedAt": "2026-04-02T22:22:54.387Z",
   "geo": "KR",
   "source": "google",
   "items": [
+    {
+      "keyword": "天气",
+      "articles": []
+    },
     {
       "keyword": "테슬라",
       "articles": []
     },
     {
-      "keyword": "amazon web services",
+      "keyword": "아마존",
       "articles": []
     },
     {
@@ -28,19 +32,15 @@
       "articles": []
     },
     {
+      "keyword": "그레이",
+      "articles": []
+    },
+    {
       "keyword": "오만",
       "articles": []
     },
     {
       "keyword": "srh vs kkr",
-      "articles": []
-    },
-    {
-      "keyword": "riot",
-      "articles": []
-    },
-    {
-      "keyword": "박진영",
       "articles": []
     }
   ]
