@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-29T23:54:20.397Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "비트코인",
-          "score": 100
-        },
-        {
-          "keyword": "天気",
-          "score": 99
-        },
-        {
-          "keyword": "天氣",
-          "score": 98
-        },
-        {
-          "keyword": "wti",
-          "score": 97
-        },
-        {
-          "keyword": "박상용 검사",
-          "score": 96
-        },
-        {
-          "keyword": "김부겸",
-          "score": 95
-        },
-        {
-          "keyword": "miami open",
-          "score": 94
-        },
-        {
-          "keyword": "날씨",
-          "score": 93
-        },
-        {
-          "keyword": "weather",
-          "score": 92
-        },
-        {
-          "keyword": "일기예보",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-30T01:24:15.953Z",
       "geo": "KR",
       "source": "google",
@@ -3805,6 +3758,53 @@
         },
         {
           "keyword": "현대자동차",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-02T23:56:08.543Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "윤세인",
+          "score": 100
+        },
+        {
+          "keyword": "gemma4",
+          "score": 99
+        },
+        {
+          "keyword": "srt",
+          "score": 98
+        },
+        {
+          "keyword": "pam bondi",
+          "score": 97
+        },
+        {
+          "keyword": "날씨",
+          "score": 96
+        },
+        {
+          "keyword": "s&p500",
+          "score": 95
+        },
+        {
+          "keyword": "weather",
+          "score": 94
+        },
+        {
+          "keyword": "tesla stock",
+          "score": 93
+        },
+        {
+          "keyword": "天气",
+          "score": 92
+        },
+        {
+          "keyword": "테슬라",
           "score": 91
         }
       ]
