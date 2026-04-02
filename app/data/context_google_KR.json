@@ -1,18 +1,30 @@
 {
-  "capturedAt": "2026-04-02T22:22:54.387Z",
+  "capturedAt": "2026-04-02T22:56:01.827Z",
   "geo": "KR",
   "source": "google",
   "items": [
+    {
+      "keyword": "날씨",
+      "articles": []
+    },
+    {
+      "keyword": "s&p500",
+      "articles": []
+    },
+    {
+      "keyword": "weather",
+      "articles": []
+    },
+    {
+      "keyword": "서울날씨",
+      "articles": []
+    },
     {
       "keyword": "天气",
       "articles": []
     },
     {
       "keyword": "테슬라",
-      "articles": []
-    },
-    {
-      "keyword": "아마존",
       "articles": []
     },
     {
@@ -29,18 +41,6 @@
     },
     {
       "keyword": "kc",
-      "articles": []
-    },
-    {
-      "keyword": "그레이",
-      "articles": []
-    },
-    {
-      "keyword": "오만",
-      "articles": []
-    },
-    {
-      "keyword": "srh vs kkr",
       "articles": []
     }
   ]
