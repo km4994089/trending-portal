@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-29T11:49:17.788Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "샘킴",
-          "score": 100
-        },
-        {
-          "keyword": "박보영",
-          "score": 99
-        },
-        {
-          "keyword": "이창섭",
-          "score": 98
-        },
-        {
-          "keyword": "송지효",
-          "score": 97
-        },
-        {
-          "keyword": "mlb 순위",
-          "score": 96
-        },
-        {
-          "keyword": "홍주연",
-          "score": 95
-        },
-        {
-          "keyword": "대구fc",
-          "score": 94
-        },
-        {
-          "keyword": "이용찬",
-          "score": 93
-        },
-        {
-          "keyword": "프로야구 순위",
-          "score": 92
-        },
-        {
-          "keyword": "kbo 순위",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-29T12:33:06.807Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "thời tiết ngày mai",
-          "score": 100
-        },
-        {
-          "keyword": "5부제",
-          "score": 99
-        },
-        {
-          "keyword": "서준영",
-          "score": 98
-        },
-        {
-          "keyword": "샘킴",
-          "score": 97
-        },
-        {
-          "keyword": "박보영",
-          "score": 96
-        },
-        {
-          "keyword": "이창섭",
-          "score": 95
-        },
-        {
-          "keyword": "송지효",
-          "score": 94
-        },
-        {
-          "keyword": "mlb 순위",
-          "score": 93
-        },
-        {
-          "keyword": "야구순위",
-          "score": 92
-        },
-        {
-          "keyword": "홍주연",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-29T13:45:00.139Z",
       "geo": "KR",
       "source": "google",
@@ -4134,6 +4040,53 @@
         },
         {
           "keyword": "김채연",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-02T12:48:16.442Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "weather tomorrow",
+          "score": 100
+        },
+        {
+          "keyword": "쇼미 파이널",
+          "score": 99
+        },
+        {
+          "keyword": "cuaca besok",
+          "score": 98
+        },
+        {
+          "keyword": "구자욱",
+          "score": 97
+        },
+        {
+          "keyword": "thời tiết ngày mai",
+          "score": 96
+        },
+        {
+          "keyword": "우강훈",
+          "score": 95
+        },
+        {
+          "keyword": "변희재",
+          "score": 94
+        },
+        {
+          "keyword": "오원석",
+          "score": 93
+        },
+        {
+          "keyword": "웰스",
+          "score": 92
+        },
+        {
+          "keyword": "마크롱",
           "score": 91
         }
       ]
