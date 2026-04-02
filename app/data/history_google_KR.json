@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-29T22:56:19.260Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김부겸",
-          "score": 100
-        },
-        {
-          "keyword": "날씨",
-          "score": 99
-        },
-        {
-          "keyword": "weather",
-          "score": 98
-        },
-        {
-          "keyword": "일기예보",
-          "score": 97
-        },
-        {
-          "keyword": "야닉 시너",
-          "score": 96
-        },
-        {
-          "keyword": "lpga",
-          "score": 95
-        },
-        {
-          "keyword": "김효주",
-          "score": 94
-        },
-        {
-          "keyword": "마이애미 오픈",
-          "score": 93
-        },
-        {
-          "keyword": "박은영 셰프 결혼",
-          "score": 92
-        },
-        {
-          "keyword": "스토브리그 일본판",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-29T23:25:16.175Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "wti",
-          "score": 100
-        },
-        {
-          "keyword": "박상용 검사",
-          "score": 99
-        },
-        {
-          "keyword": "김부겸",
-          "score": 98
-        },
-        {
-          "keyword": "대전날씨",
-          "score": 97
-        },
-        {
-          "keyword": "miami open",
-          "score": 96
-        },
-        {
-          "keyword": "날씨",
-          "score": 95
-        },
-        {
-          "keyword": "weather",
-          "score": 94
-        },
-        {
-          "keyword": "일기예보",
-          "score": 93
-        },
-        {
-          "keyword": "야닉 시너",
-          "score": 92
-        },
-        {
-          "keyword": "lpga",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-29T23:54:20.397Z",
       "geo": "KR",
       "source": "google",
@@ -3852,6 +3758,53 @@
         },
         {
           "keyword": "kc",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-02T23:27:16.131Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "gemma4",
+          "score": 100
+        },
+        {
+          "keyword": "pam bondi",
+          "score": 99
+        },
+        {
+          "keyword": "날씨",
+          "score": 98
+        },
+        {
+          "keyword": "s&p500",
+          "score": 97
+        },
+        {
+          "keyword": "weather",
+          "score": 96
+        },
+        {
+          "keyword": "tesla stock",
+          "score": 95
+        },
+        {
+          "keyword": "天气",
+          "score": 94
+        },
+        {
+          "keyword": "테슬라",
+          "score": 93
+        },
+        {
+          "keyword": "패왕별희",
+          "score": 92
+        },
+        {
+          "keyword": "현대자동차",
           "score": 91
         }
       ]
