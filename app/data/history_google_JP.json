@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-29T05:55:30.127Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "高松宮記念",
-          "score": 100
-        },
-        {
-          "keyword": "芳野友子",
-          "score": 99
-        },
-        {
-          "keyword": "イデオロギー",
-          "score": 98
-        },
-        {
-          "keyword": "ベガルタ仙台",
-          "score": 97
-        },
-        {
-          "keyword": "石田裕太郎",
-          "score": 96
-        },
-        {
-          "keyword": "ソフトバンク",
-          "score": 95
-        },
-        {
-          "keyword": "サガン鳥栖",
-          "score": 94
-        },
-        {
-          "keyword": "巨人戦",
-          "score": 93
-        },
-        {
-          "keyword": "光通信",
-          "score": 92
-        },
-        {
-          "keyword": "f1速報",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-03-29T06:53:33.853Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "野球速報",
-          "score": 100
-        },
-        {
-          "keyword": "スポーツナビ",
-          "score": 99
-        },
-        {
-          "keyword": "松本剛",
-          "score": 98
-        },
-        {
-          "keyword": "ジャックブラック",
-          "score": 97
-        },
-        {
-          "keyword": "大阪桐蔭高校",
-          "score": 96
-        },
-        {
-          "keyword": "大阪杯",
-          "score": 95
-        },
-        {
-          "keyword": "野球結果",
-          "score": 94
-        },
-        {
-          "keyword": "日本ハムファイターズ",
-          "score": 93
-        },
-        {
-          "keyword": "a東京 対 三遠",
-          "score": 92
-        },
-        {
-          "keyword": "カープ 試合結果",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-29T07:45:30.607Z",
       "geo": "JP",
       "source": "google",
@@ -4275,6 +4181,53 @@
         },
         {
           "keyword": "岡山大学",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-02T07:00:31.815Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "トヨタモビリティ東京",
+          "score": 100
+        },
+        {
+          "keyword": "ルーマニア",
+          "score": 99
+        },
+        {
+          "keyword": "テレビ",
+          "score": 98
+        },
+        {
+          "keyword": "ソ・ヘウォン",
+          "score": 97
+        },
+        {
+          "keyword": "スタバ新作",
+          "score": 96
+        },
+        {
+          "keyword": "baidu",
+          "score": 95
+        },
+        {
+          "keyword": "ドコモ starlink direct",
+          "score": 94
+        },
+        {
+          "keyword": "ps plus フリープレイ",
+          "score": 93
+        },
+        {
+          "keyword": "名鉄",
+          "score": 92
+        },
+        {
+          "keyword": "スタバ",
           "score": 91
         }
       ]
