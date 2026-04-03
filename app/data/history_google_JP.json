@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-30T01:24:17.122Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "日本コークス 株価",
-          "score": 100
-        },
-        {
-          "keyword": "ワークマン 靴",
-          "score": 99
-        },
-        {
-          "keyword": "ワークマン",
-          "score": 98
-        },
-        {
-          "keyword": "滝沢カレン",
-          "score": 97
-        },
-        {
-          "keyword": "有働由美子",
-          "score": 96
-        },
-        {
-          "keyword": "ラプターズ 対 マジック",
-          "score": 95
-        },
-        {
-          "keyword": "ネッツ 対 キングス",
-          "score": 94
-        },
-        {
-          "keyword": "カズレーザー",
-          "score": 93
-        },
-        {
-          "keyword": "早期警戒管制機",
-          "score": 92
-        },
-        {
-          "keyword": "日野自動車",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-30T04:21:35.343Z",
       "geo": "JP",
       "source": "google",
@@ -3805,6 +3758,53 @@
         },
         {
           "keyword": "日比谷線",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-03T01:43:31.900Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ジャイアンツ 対 メッツ",
+          "score": 100
+        },
+        {
+          "keyword": "不二家",
+          "score": 99
+        },
+        {
+          "keyword": "dバックス 対 ブレーブス",
+          "score": 98
+        },
+        {
+          "keyword": "リョーサン菱洋",
+          "score": 97
+        },
+        {
+          "keyword": "富山大学",
+          "score": 96
+        },
+        {
+          "keyword": "nas",
+          "score": 95
+        },
+        {
+          "keyword": "中沢元紀",
+          "score": 94
+        },
+        {
+          "keyword": "圏央道 渋滞",
+          "score": 93
+        },
+        {
+          "keyword": "工学院大学",
+          "score": 92
+        },
+        {
+          "keyword": "有働由美子",
           "score": 91
         }
       ]
