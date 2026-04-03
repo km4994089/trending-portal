@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-30T12:54:25.754Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "내일 날씨",
-          "score": 100
-        },
-        {
-          "keyword": "明天的天氣",
-          "score": 99
-        },
-        {
-          "keyword": "thời tiết ngày mai",
-          "score": 98
-        },
-        {
-          "keyword": "울산 현대모비스 대 원주 db",
-          "score": 97
-        },
-        {
-          "keyword": "인하대",
-          "score": 96
-        },
-        {
-          "keyword": "원촌육교",
-          "score": 95
-        },
-        {
-          "keyword": "데제르비",
-          "score": 94
-        },
-        {
-          "keyword": "박은영 셰프",
-          "score": 93
-        },
-        {
-          "keyword": "삼천당제약",
-          "score": 92
-        },
-        {
-          "keyword": "삼천당제약 주가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-30T14:21:34.444Z",
       "geo": "KR",
       "source": "google",
@@ -3946,6 +3899,53 @@
         },
         {
           "keyword": "롯데",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-03T13:56:14.221Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "브리온",
+          "score": 100
+        },
+        {
+          "keyword": "키움",
+          "score": 99
+        },
+        {
+          "keyword": "明日の天気",
+          "score": 98
+        },
+        {
+          "keyword": "top",
+          "score": 97
+        },
+        {
+          "keyword": "내일 날씨",
+          "score": 96
+        },
+        {
+          "keyword": "cuaca besok",
+          "score": 95
+        },
+        {
+          "keyword": "thời tiết ngày mai",
+          "score": 94
+        },
+        {
+          "keyword": "윤미래",
+          "score": 93
+        },
+        {
+          "keyword": "明天的天氣",
+          "score": 92
+        },
+        {
+          "keyword": "두산",
           "score": 91
         }
       ]

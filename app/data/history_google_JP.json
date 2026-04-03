@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-30T12:54:27.043Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "三谷幸喜",
-          "score": 100
-        },
-        {
-          "keyword": "indonesia vs bulgaria",
-          "score": 99
-        },
-        {
-          "keyword": "マカロニえんぴつ",
-          "score": 98
-        },
-        {
-          "keyword": "有明アリーナ",
-          "score": 97
-        },
-        {
-          "keyword": "有村架純",
-          "score": 96
-        },
-        {
-          "keyword": "賀来賢人",
-          "score": 95
-        },
-        {
-          "keyword": "groq",
-          "score": 94
-        },
-        {
-          "keyword": "宇多田ヒカル",
-          "score": 93
-        },
-        {
-          "keyword": "イチロー",
-          "score": 92
-        },
-        {
-          "keyword": "トキエア",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-30T14:21:35.705Z",
       "geo": "JP",
       "source": "google",
@@ -3946,6 +3899,53 @@
         },
         {
           "keyword": "寺西拓人",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-03T13:56:15.781Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ガイアの夜明け",
+          "score": 100
+        },
+        {
+          "keyword": "ケツメイシ",
+          "score": 99
+        },
+        {
+          "keyword": "土屋アンナ",
+          "score": 98
+        },
+        {
+          "keyword": "九州大学",
+          "score": 97
+        },
+        {
+          "keyword": "染谷 将太",
+          "score": 96
+        },
+        {
+          "keyword": "中村勘九郎",
+          "score": 95
+        },
+        {
+          "keyword": "荒井理咲子",
+          "score": 94
+        },
+        {
+          "keyword": "fbi",
+          "score": 93
+        },
+        {
+          "keyword": "バーミンガム 対 ブラックバーン",
+          "score": 92
+        },
+        {
+          "keyword": "松下洸平",
           "score": 91
         }
       ]
