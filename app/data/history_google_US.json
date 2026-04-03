@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-30T08:06:22.797Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nikoloz basilashvili",
-          "score": 100
-        },
-        {
-          "keyword": "news",
-          "score": 99
-        },
-        {
-          "keyword": "brendan fraser",
-          "score": 98
-        },
-        {
-          "keyword": "flight",
-          "score": 97
-        },
-        {
-          "keyword": "game reviews",
-          "score": 96
-        },
-        {
-          "keyword": "sport",
-          "score": 95
-        },
-        {
-          "keyword": "tv shows",
-          "score": 94
-        },
-        {
-          "keyword": "ai news",
-          "score": 93
-        },
-        {
-          "keyword": "electric car",
-          "score": 92
-        },
-        {
-          "keyword": "movie",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-30T09:52:25.128Z",
       "geo": "US",
       "source": "google",
@@ -3899,6 +3852,53 @@
         },
         {
           "keyword": "mark nct",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-03T09:00:00.641Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "the university of arizona",
+          "score": 100
+        },
+        {
+          "keyword": "f35 shot down",
+          "score": 99
+        },
+        {
+          "keyword": "samsung oled 4k s90f smart tv",
+          "score": 98
+        },
+        {
+          "keyword": "comcast xfinity",
+          "score": 97
+        },
+        {
+          "keyword": "dino prizmic",
+          "score": 96
+        },
+        {
+          "keyword": "viernes santo",
+          "score": 95
+        },
+        {
+          "keyword": "tax return",
+          "score": 94
+        },
+        {
+          "keyword": "taxes",
+          "score": 93
+        },
+        {
+          "keyword": "tax refund",
+          "score": 92
+        },
+        {
+          "keyword": "titouan droguet",
           "score": 91
         }
       ]
