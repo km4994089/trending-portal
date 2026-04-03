@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-30T11:47:14.683Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "maggie rogers",
-          "score": 100
-        },
-        {
-          "keyword": "li",
-          "score": 99
-        },
-        {
-          "keyword": "the ai doc",
-          "score": 98
-        },
-        {
-          "keyword": "sysco",
-          "score": 97
-        },
-        {
-          "keyword": "dusan lajovic",
-          "score": 96
-        },
-        {
-          "keyword": "omny card",
-          "score": 95
-        },
-        {
-          "keyword": "eric swalwell",
-          "score": 94
-        },
-        {
-          "keyword": "scott mills",
-          "score": 93
-        },
-        {
-          "keyword": "for a rainy day strands",
-          "score": 92
-        },
-        {
-          "keyword": "cleveland weather",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-30T12:54:24.262Z",
       "geo": "US",
       "source": "google",
@@ -3946,6 +3899,53 @@
         },
         {
           "keyword": "braves score",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-03T12:39:15.131Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "karoline leavitt",
+          "score": 100
+        },
+        {
+          "keyword": "gma deals and steals",
+          "score": 99
+        },
+        {
+          "keyword": "cleveland weather",
+          "score": 98
+        },
+        {
+          "keyword": "alabama power",
+          "score": 97
+        },
+        {
+          "keyword": "steve eisman",
+          "score": 96
+        },
+        {
+          "keyword": "jobs report",
+          "score": 95
+        },
+        {
+          "keyword": "fire damage restoration",
+          "score": 94
+        },
+        {
+          "keyword": "american dream mall",
+          "score": 93
+        },
+        {
+          "keyword": "omaha weather",
+          "score": 92
+        },
+        {
+          "keyword": "franklin graham",
           "score": 91
         }
       ]
