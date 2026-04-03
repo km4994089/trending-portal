@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-30T19:48:32.457Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "luis matos",
-          "score": 100
-        },
-        {
-          "keyword": "tatjana maria",
-          "score": 99
-        },
-        {
-          "keyword": "twins vs royals",
-          "score": 98
-        },
-        {
-          "keyword": "pamela genini",
-          "score": 97
-        },
-        {
-          "keyword": "cbs tv shows cancelled",
-          "score": 96
-        },
-        {
-          "keyword": "barack obama",
-          "score": 95
-        },
-        {
-          "keyword": "shedeur sanders",
-          "score": 94
-        },
-        {
-          "keyword": "dana white",
-          "score": 93
-        },
-        {
-          "keyword": "whoopi goldberg",
-          "score": 92
-        },
-        {
-          "keyword": "kid rock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-30T20:34:48.601Z",
       "geo": "US",
       "source": "google",
@@ -4040,6 +3993,53 @@
         },
         {
           "keyword": "shiloh jolie",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-03T20:25:01.973Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "travon walker",
+          "score": 100
+        },
+        {
+          "keyword": "marcelo mayer",
+          "score": 99
+        },
+        {
+          "keyword": "valero texas open leaderboard",
+          "score": 98
+        },
+        {
+          "keyword": "jake bird",
+          "score": 97
+        },
+        {
+          "keyword": "ben rice",
+          "score": 96
+        },
+        {
+          "keyword": "willson contreras",
+          "score": 95
+        },
+        {
+          "keyword": "nika muhl",
+          "score": 94
+        },
+        {
+          "keyword": "julie allemand",
+          "score": 93
+        },
+        {
+          "keyword": "sporting cp",
+          "score": 92
+        },
+        {
+          "keyword": "magnus carlsen",
           "score": 91
         }
       ]
