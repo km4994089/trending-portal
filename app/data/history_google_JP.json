@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-30T23:01:43.407Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "小芝風花",
-          "score": 100
-        },
-        {
-          "keyword": "安田顕",
-          "score": 99
-        },
-        {
-          "keyword": "天気東京",
-          "score": 98
-        },
-        {
-          "keyword": "長野パルセイロ",
-          "score": 97
-        },
-        {
-          "keyword": "ドジャース 試合 今日",
-          "score": 96
-        },
-        {
-          "keyword": "石橋静河",
-          "score": 95
-        },
-        {
-          "keyword": "望月理恵",
-          "score": 94
-        },
-        {
-          "keyword": "槇原敬之",
-          "score": 93
-        },
-        {
-          "keyword": "水野美紀",
-          "score": 92
-        },
-        {
-          "keyword": "玉川警察署",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-30T23:56:16.240Z",
       "geo": "JP",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "スーパーフォーミュラ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-03T23:33:37.841Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "秩父",
+          "score": 100
+        },
+        {
+          "keyword": "津田健次郎",
+          "score": 99
+        },
+        {
+          "keyword": "テレビ朝日",
+          "score": 98
+        },
+        {
+          "keyword": "風薫る",
+          "score": 97
+        },
+        {
+          "keyword": "池田エライザ",
+          "score": 96
+        },
+        {
+          "keyword": "鳴門大橋通行止め",
+          "score": 95
+        },
+        {
+          "keyword": "津田寛治",
+          "score": 94
+        },
+        {
+          "keyword": "ツインズ 対 レイズ",
+          "score": 93
+        },
+        {
+          "keyword": "芳根京子",
+          "score": 92
+        },
+        {
+          "keyword": "evモーターズ・ジャパン",
           "score": 91
         }
       ]

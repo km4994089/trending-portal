@@ -1,8 +1,12 @@
 {
-  "capturedAt": "2026-04-03T22:58:46.528Z",
+  "capturedAt": "2026-04-03T23:33:36.456Z",
   "geo": "KR",
   "source": "google",
   "items": [
+    {
+      "keyword": "天気",
+      "articles": []
+    },
     {
       "keyword": "天氣",
       "articles": []
@@ -37,10 +41,6 @@
     },
     {
       "keyword": "이강인",
-      "articles": []
-    },
-    {
-      "keyword": "오타니 쇼헤이",
       "articles": []
     }
   ]
