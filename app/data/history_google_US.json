@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-30T14:21:33.191Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "air canada ceo",
-          "score": 100
-        },
-        {
-          "keyword": "oracle stock",
-          "score": 99
-        },
-        {
-          "keyword": "broadcom stock",
-          "score": 98
-        },
-        {
-          "keyword": "brent crude price",
-          "score": 97
-        },
-        {
-          "keyword": "kisd",
-          "score": 96
-        },
-        {
-          "keyword": "uber stock",
-          "score": 95
-        },
-        {
-          "keyword": "googl stock",
-          "score": 94
-        },
-        {
-          "keyword": "s&p 500 index",
-          "score": 93
-        },
-        {
-          "keyword": "ge stock",
-          "score": 92
-        },
-        {
-          "keyword": "vgt",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-30T15:48:27.468Z",
       "geo": "US",
       "source": "google",
@@ -3946,6 +3899,53 @@
         },
         {
           "keyword": "noah cyrus",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-03T14:37:24.269Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ayush mhatre",
+          "score": 100
+        },
+        {
+          "keyword": "wrexham",
+          "score": 99
+        },
+        {
+          "keyword": "sheffield united vs swansea",
+          "score": 98
+        },
+        {
+          "keyword": "efl championship",
+          "score": 97
+        },
+        {
+          "keyword": "oxford utd vs hull",
+          "score": 96
+        },
+        {
+          "keyword": "transamerica",
+          "score": 95
+        },
+        {
+          "keyword": "willie geist",
+          "score": 94
+        },
+        {
+          "keyword": "viggo mortensen",
+          "score": 93
+        },
+        {
+          "keyword": "mariano navone",
+          "score": 92
+        },
+        {
+          "keyword": "experts only festival",
           "score": 91
         }
       ]
