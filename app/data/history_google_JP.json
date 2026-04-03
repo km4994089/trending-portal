@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-30T20:34:51.273Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "三吉彩花",
-          "score": 100
-        },
-        {
-          "keyword": "鈴木えみ",
-          "score": 99
-        },
-        {
-          "keyword": "ドイツ 対 ガーナ",
-          "score": 98
-        },
-        {
-          "keyword": "宇連ダム貯水率現在",
-          "score": 97
-        },
-        {
-          "keyword": "大リーグ",
-          "score": 96
-        },
-        {
-          "keyword": "阪急電車",
-          "score": 95
-        },
-        {
-          "keyword": "ロイヤルズ 対 ツインズ",
-          "score": 94
-        },
-        {
-          "keyword": "田久保",
-          "score": 93
-        },
-        {
-          "keyword": "紅の砂漠",
-          "score": 92
-        },
-        {
-          "keyword": "竜巻注意情報",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-30T21:33:19.788Z",
       "geo": "JP",
       "source": "google",
@@ -4040,6 +3993,53 @@
         },
         {
           "keyword": "エメット・シーハン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-03T21:00:30.096Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "今日の天気は",
+          "score": 100
+        },
+        {
+          "keyword": "広島 天気",
+          "score": 99
+        },
+        {
+          "keyword": "weather today",
+          "score": 98
+        },
+        {
+          "keyword": "mlb",
+          "score": 97
+        },
+        {
+          "keyword": "psg vs toulouse",
+          "score": 96
+        },
+        {
+          "keyword": "アレックス・コール",
+          "score": 95
+        },
+        {
+          "keyword": "パイレーツ 対 オリオールズ",
+          "score": 94
+        },
+        {
+          "keyword": "平祐奈",
+          "score": 93
+        },
+        {
+          "keyword": "f-15e",
+          "score": 92
+        },
+        {
+          "keyword": "アレックス・フリーランド",
           "score": 91
         }
       ]
