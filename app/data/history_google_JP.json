@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-30T21:33:19.788Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "らじるらじる",
-          "score": 100
-        },
-        {
-          "keyword": "岡山 天気",
-          "score": 99
-        },
-        {
-          "keyword": "オムロン 電子部品事業",
-          "score": 98
-        },
-        {
-          "keyword": "吉岡里帆",
-          "score": 97
-        },
-        {
-          "keyword": "おはよう朝日です",
-          "score": 96
-        },
-        {
-          "keyword": "宇連ダム",
-          "score": 95
-        },
-        {
-          "keyword": "広島市天気",
-          "score": 94
-        },
-        {
-          "keyword": "阪急神戸線",
-          "score": 93
-        },
-        {
-          "keyword": "伊藤健太郎",
-          "score": 92
-        },
-        {
-          "keyword": "おはよう日本",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-30T22:25:24.897Z",
       "geo": "JP",
       "source": "google",
@@ -4040,6 +3993,53 @@
         },
         {
           "keyword": "アレックス・フリーランド",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-03T21:54:52.640Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "地震速報 今",
+          "score": 100
+        },
+        {
+          "keyword": "地震 広島",
+          "score": 99
+        },
+        {
+          "keyword": "辺野古沖転覆事件",
+          "score": 98
+        },
+        {
+          "keyword": "天気",
+          "score": 97
+        },
+        {
+          "keyword": "ホルムズ海峡 通行料",
+          "score": 96
+        },
+        {
+          "keyword": "weather",
+          "score": 95
+        },
+        {
+          "keyword": "날씨",
+          "score": 94
+        },
+        {
+          "keyword": "宮世琉弥",
+          "score": 93
+        },
+        {
+          "keyword": "jr九州",
+          "score": 92
+        },
+        {
+          "keyword": "天気予報 横浜",
           "score": 91
         }
       ]
