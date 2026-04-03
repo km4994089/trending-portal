@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-30T22:25:23.514Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "샌디스크 주가",
-          "score": 100
-        },
-        {
-          "keyword": "다우지수",
-          "score": 99
-        },
-        {
-          "keyword": "마이크론",
-          "score": 98
-        },
-        {
-          "keyword": "김소영",
-          "score": 97
-        },
-        {
-          "keyword": "cricbuzz",
-          "score": 96
-        },
-        {
-          "keyword": "공포탐욕지수",
-          "score": 95
-        },
-        {
-          "keyword": "파월",
-          "score": 94
-        },
-        {
-          "keyword": "indonesia vs bulgaria",
-          "score": 93
-        },
-        {
-          "keyword": "전소미",
-          "score": 92
-        },
-        {
-          "keyword": "한준호",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-30T23:01:41.841Z",
       "geo": "KR",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "민호",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-03T22:58:46.528Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "天氣",
+          "score": 100
+        },
+        {
+          "keyword": "날씨",
+          "score": 99
+        },
+        {
+          "keyword": "weather",
+          "score": 98
+        },
+        {
+          "keyword": "psg vs toulouse",
+          "score": 97
+        },
+        {
+          "keyword": "부산날씨",
+          "score": 96
+        },
+        {
+          "keyword": "코너 그리핀",
+          "score": 95
+        },
+        {
+          "keyword": "대전날씨",
+          "score": 94
+        },
+        {
+          "keyword": "al-nassr vs al-najma",
+          "score": 93
+        },
+        {
+          "keyword": "이강인",
+          "score": 92
+        },
+        {
+          "keyword": "오타니 쇼헤이",
           "score": 91
         }
       ]

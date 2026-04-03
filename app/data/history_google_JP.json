@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-30T22:25:24.897Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "usj",
-          "score": 100
-        },
-        {
-          "keyword": "ナフサ",
-          "score": 99
-        },
-        {
-          "keyword": "ハーモニーランド",
-          "score": 98
-        },
-        {
-          "keyword": "子ども子育て支援金",
-          "score": 97
-        },
-        {
-          "keyword": "阪急電鉄",
-          "score": 96
-        },
-        {
-          "keyword": "クローバー食品",
-          "score": 95
-        },
-        {
-          "keyword": "メジャー",
-          "score": 94
-        },
-        {
-          "keyword": "ピーチ航空",
-          "score": 93
-        },
-        {
-          "keyword": "トリポリ",
-          "score": 92
-        },
-        {
-          "keyword": "茨城県 教員 異動",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-30T23:01:43.407Z",
       "geo": "JP",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "奈良 天気",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-03T22:58:48.063Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "短歌",
+          "score": 100
+        },
+        {
+          "keyword": "岡山 天気",
+          "score": 99
+        },
+        {
+          "keyword": "崎陽軒",
+          "score": 98
+        },
+        {
+          "keyword": "暴風警報",
+          "score": 97
+        },
+        {
+          "keyword": "田原萌々",
+          "score": 96
+        },
+        {
+          "keyword": "福岡 天気",
+          "score": 95
+        },
+        {
+          "keyword": "パーキンソン病",
+          "score": 94
+        },
+        {
+          "keyword": "徳島 天気",
+          "score": 93
+        },
+        {
+          "keyword": "長崎市天気",
+          "score": 92
+        },
+        {
+          "keyword": "スーパーフォーミュラ",
           "score": 91
         }
       ]
