@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-30T09:52:27.686Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "予告先発",
-          "score": 100
-        },
-        {
-          "keyword": "資さんうどん",
-          "score": 99
-        },
-        {
-          "keyword": "バヌアツ",
-          "score": 98
-        },
-        {
-          "keyword": "矢崎総業",
-          "score": 97
-        },
-        {
-          "keyword": "オリコンランキング",
-          "score": 96
-        },
-        {
-          "keyword": "倖田來未",
-          "score": 95
-        },
-        {
-          "keyword": "古川聡",
-          "score": 94
-        },
-        {
-          "keyword": "神奈川県 教員異動令和 8年",
-          "score": 93
-        },
-        {
-          "keyword": "ナウル共和国",
-          "score": 92
-        },
-        {
-          "keyword": "リクルート",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-30T10:54:05.673Z",
       "geo": "JP",
       "source": "google",
@@ -3899,6 +3852,53 @@
         },
         {
           "keyword": "巨人 対 dena",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-03T09:55:25.710Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "キューティーストリート",
+          "score": 100
+        },
+        {
+          "keyword": "チケプラ",
+          "score": 99
+        },
+        {
+          "keyword": "サンテレビ",
+          "score": 98
+        },
+        {
+          "keyword": "東海道線",
+          "score": 97
+        },
+        {
+          "keyword": "にじさんじ",
+          "score": 96
+        },
+        {
+          "keyword": "mufgスタジアム",
+          "score": 95
+        },
+        {
+          "keyword": "国立競技場",
+          "score": 94
+        },
+        {
+          "keyword": "ゆめっち",
+          "score": 93
+        },
+        {
+          "keyword": "かっぱ寿司",
+          "score": 92
+        },
+        {
+          "keyword": "ベルーナドーム",
           "score": 91
         }
       ]

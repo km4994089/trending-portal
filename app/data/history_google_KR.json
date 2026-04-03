@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-30T09:52:26.310Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "박은영 셰프",
-          "score": 100
-        },
-        {
-          "keyword": "삼천당제약",
-          "score": 99
-        },
-        {
-          "keyword": "삼천당제약 주가",
-          "score": 98
-        },
-        {
-          "keyword": "명현만",
-          "score": 97
-        },
-        {
-          "keyword": "앨리스 소희",
-          "score": 96
-        },
-        {
-          "keyword": "浅野啓介",
-          "score": 95
-        },
-        {
-          "keyword": "윤도현",
-          "score": 94
-        },
-        {
-          "keyword": "이명박",
-          "score": 93
-        },
-        {
-          "keyword": "독도",
-          "score": 92
-        },
-        {
-          "keyword": "청와대",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-30T10:54:04.518Z",
       "geo": "KR",
       "source": "google",
@@ -3899,6 +3852,53 @@
         },
         {
           "keyword": "마크 탈퇴",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-03T09:55:24.467Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nc 대 kia",
+          "score": 100
+        },
+        {
+          "keyword": "한화 대 두산",
+          "score": 99
+        },
+        {
+          "keyword": "ssg 대 롯데",
+          "score": 98
+        },
+        {
+          "keyword": "삼성 대 kt",
+          "score": 97
+        },
+        {
+          "keyword": "lg 대 키움",
+          "score": 96
+        },
+        {
+          "keyword": "에포트",
+          "score": 95
+        },
+        {
+          "keyword": "삼성",
+          "score": 94
+        },
+        {
+          "keyword": "삼성전자 채용",
+          "score": 93
+        },
+        {
+          "keyword": "박상용",
+          "score": 92
+        },
+        {
+          "keyword": "차주영",
           "score": 91
         }
       ]
