@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-31T17:48:36.197Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "iran news",
-          "score": 100
-        },
-        {
-          "keyword": "meta stock price",
-          "score": 99
-        },
-        {
-          "keyword": "winter storm warning",
-          "score": 98
-        },
-        {
-          "keyword": "cnbc",
-          "score": 97
-        },
-        {
-          "keyword": "iran war news",
-          "score": 96
-        },
-        {
-          "keyword": "nvidia stock price",
-          "score": 95
-        },
-        {
-          "keyword": "summer house",
-          "score": 94
-        },
-        {
-          "keyword": "judge nathan milliron",
-          "score": 93
-        },
-        {
-          "keyword": "orcl",
-          "score": 92
-        },
-        {
-          "keyword": "shelly kittleson",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-31T18:46:11.342Z",
       "geo": "US",
       "source": "google",
@@ -4416,6 +4369,53 @@
         },
         {
           "keyword": "clark gilbert",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-04T18:27:28.347Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "southampton vs arsenal",
+          "score": 100
+        },
+        {
+          "keyword": "wizards vs heat",
+          "score": 99
+        },
+        {
+          "keyword": "trump walter reed",
+          "score": 98
+        },
+        {
+          "keyword": "atlético madrid - barcelona",
+          "score": 97
+        },
+        {
+          "keyword": "pizza chain closing",
+          "score": 96
+        },
+        {
+          "keyword": "blue jays - white sox",
+          "score": 95
+        },
+        {
+          "keyword": "lazio vs parma",
+          "score": 94
+        },
+        {
+          "keyword": "andrea revuelta",
+          "score": 93
+        },
+        {
+          "keyword": "kerry carpenter",
+          "score": 92
+        },
+        {
+          "keyword": "oklahoma vs baylor",
           "score": 91
         }
       ]

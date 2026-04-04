@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-31T17:48:39.118Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "イラン",
-          "score": 100
-        },
-        {
-          "keyword": "カードキャプターさくら",
-          "score": 99
-        },
-        {
-          "keyword": "デゼルビ",
-          "score": 98
-        },
-        {
-          "keyword": "サーティーワン",
-          "score": 97
-        },
-        {
-          "keyword": "エープリルフール",
-          "score": 96
-        },
-        {
-          "keyword": "foma",
-          "score": 95
-        },
-        {
-          "keyword": "バックトゥザフューチャー",
-          "score": 94
-        },
-        {
-          "keyword": "高城れに",
-          "score": 93
-        },
-        {
-          "keyword": "ガシャポン",
-          "score": 92
-        },
-        {
-          "keyword": "fgo エイプリルフール",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-31T18:46:14.745Z",
       "geo": "JP",
       "source": "google",
@@ -4416,6 +4369,53 @@
         },
         {
           "keyword": "石井一成",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-04T18:27:30.885Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "アトレティコ 対 バルセロナ",
+          "score": 100
+        },
+        {
+          "keyword": "サウサンプトン 対 アーセナル",
+          "score": 99
+        },
+        {
+          "keyword": "ロイヤルズ 対 ブルワーズ",
+          "score": 98
+        },
+        {
+          "keyword": "サブノーティカ",
+          "score": 97
+        },
+        {
+          "keyword": "シュトゥットガルト 対 ドルトムント",
+          "score": 96
+        },
+        {
+          "keyword": "八丈島",
+          "score": 95
+        },
+        {
+          "keyword": "鈴木このみ",
+          "score": 94
+        },
+        {
+          "keyword": "セーラームーン",
+          "score": 93
+        },
+        {
+          "keyword": "セザンヌ",
+          "score": 92
+        },
+        {
+          "keyword": "ドン・キホーテ",
           "score": 91
         }
       ]
