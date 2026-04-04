@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-31T07:16:35.334Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cameroon vs china",
-          "score": 100
-        },
-        {
-          "keyword": "cathay pacific",
-          "score": 99
-        },
-        {
-          "keyword": "richard nixon",
-          "score": 98
-        },
-        {
-          "keyword": "11",
-          "score": 97
-        },
-        {
-          "keyword": "auto accident lawyers",
-          "score": 96
-        },
-        {
-          "keyword": "aurora borealis",
-          "score": 95
-        },
-        {
-          "keyword": "andy samberg",
-          "score": 94
-        },
-        {
-          "keyword": "amber rose",
-          "score": 93
-        },
-        {
-          "keyword": "rick and morty",
-          "score": 92
-        },
-        {
-          "keyword": "apple",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-31T08:36:10.087Z",
       "geo": "US",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "josh naylor",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-04T07:41:53.137Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "seattle",
+          "score": 100
+        },
+        {
+          "keyword": "ohio",
+          "score": 99
+        },
+        {
+          "keyword": "auto accident lawyers",
+          "score": 98
+        },
+        {
+          "keyword": "truck accident lawyers",
+          "score": 97
+        },
+        {
+          "keyword": "idaho",
+          "score": 96
+        },
+        {
+          "keyword": "injury attorney",
+          "score": 95
+        },
+        {
+          "keyword": "accident attorneys",
+          "score": 94
+        },
+        {
+          "keyword": "tom morello",
+          "score": 93
+        },
+        {
+          "keyword": "5 news",
+          "score": 92
+        },
+        {
+          "keyword": "fort smith weather",
           "score": 91
         }
       ]
