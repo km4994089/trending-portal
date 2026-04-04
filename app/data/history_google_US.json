@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-31T18:46:11.342Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "italy",
-          "score": 100
-        },
-        {
-          "keyword": "italy fc",
-          "score": 99
-        },
-        {
-          "keyword": "fifa",
-          "score": 98
-        },
-        {
-          "keyword": "anna blinkova",
-          "score": 97
-        },
-        {
-          "keyword": "peru",
-          "score": 96
-        },
-        {
-          "keyword": "gujarat titans vs punjab kings standings",
-          "score": 95
-        },
-        {
-          "keyword": "czechia vs denmark",
-          "score": 94
-        },
-        {
-          "keyword": "perú - honduras",
-          "score": 93
-        },
-        {
-          "keyword": "algeria vs uruguay",
-          "score": 92
-        },
-        {
-          "keyword": "kosovo - turquía",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-31T19:48:04.971Z",
       "geo": "US",
       "source": "google",
@@ -4416,6 +4369,53 @@
         },
         {
           "keyword": "oklahoma vs baylor",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-04T19:07:25.787Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jordan walker",
+          "score": 100
+        },
+        {
+          "keyword": "syracuse lacrosse",
+          "score": 99
+        },
+        {
+          "keyword": "avalanche vs stars",
+          "score": 98
+        },
+        {
+          "keyword": "lamine yamal",
+          "score": 97
+        },
+        {
+          "keyword": "trump hospital",
+          "score": 96
+        },
+        {
+          "keyword": "ou softball",
+          "score": 95
+        },
+        {
+          "keyword": "steven krueger",
+          "score": 94
+        },
+        {
+          "keyword": "nasa artemis ii astronauts moon",
+          "score": 93
+        },
+        {
+          "keyword": "gabe perreault",
+          "score": 92
+        },
+        {
+          "keyword": "ryan coogler x files reboot",
           "score": 91
         }
       ]
