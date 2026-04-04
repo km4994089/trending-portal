@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-31T04:27:52.144Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kpop demon hunters mcdonalds",
-          "score": 100
-        },
-        {
-          "keyword": "hail",
-          "score": 99
-        },
-        {
-          "keyword": "harrison ford",
-          "score": 98
-        },
-        {
-          "keyword": "shai gilgeous-alexander",
-          "score": 97
-        },
-        {
-          "keyword": "chicago weather",
-          "score": 96
-        },
-        {
-          "keyword": "jaxson hayes",
-          "score": 95
-        },
-        {
-          "keyword": "jackson merrill",
-          "score": 94
-        },
-        {
-          "keyword": "aaron wiggins",
-          "score": 93
-        },
-        {
-          "keyword": "julio rodriguez",
-          "score": 92
-        },
-        {
-          "keyword": "severe thunderstorm warning",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-31T05:59:14.096Z",
       "geo": "US",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "marcus semien",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-04T05:17:26.641Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cole young",
+          "score": 100
+        },
+        {
+          "keyword": "wwe smackdown",
+          "score": 99
+        },
+        {
+          "keyword": "moon today",
+          "score": 98
+        },
+        {
+          "keyword": "jury duty company retreat",
+          "score": 97
+        },
+        {
+          "keyword": "kick",
+          "score": 96
+        },
+        {
+          "keyword": "erin moriarty",
+          "score": 95
+        },
+        {
+          "keyword": "fa cup",
+          "score": 94
+        },
+        {
+          "keyword": "al pacino",
+          "score": 93
+        },
+        {
+          "keyword": "klay thompson",
+          "score": 92
+        },
+        {
+          "keyword": "angels score",
           "score": 91
         }
       ]
