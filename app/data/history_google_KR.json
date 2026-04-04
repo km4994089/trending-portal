@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-31T22:02:52.648Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cooper connolly",
-          "score": 100
-        },
-        {
-          "keyword": "월드컵",
-          "score": 99
-        },
-        {
-          "keyword": "잉글랜드 대 일본",
-          "score": 98
-        },
-        {
-          "keyword": "미국 이란",
-          "score": 97
-        },
-        {
-          "keyword": "월드컵 예선",
-          "score": 96
-        },
-        {
-          "keyword": "이탈리아",
-          "score": 95
-        },
-        {
-          "keyword": "이탈리아 축구",
-          "score": 94
-        },
-        {
-          "keyword": "오스트리아 대 한국",
-          "score": 93
-        },
-        {
-          "keyword": "한국 축구",
-          "score": 92
-        },
-        {
-          "keyword": "이란",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-31T22:55:23.298Z",
       "geo": "KR",
       "source": "google",
@@ -4510,6 +4463,53 @@
         },
         {
           "keyword": "라리가",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-04T22:19:07.812Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "atlético madrid đấu với barcelona",
+          "score": 100
+        },
+        {
+          "keyword": "атлетико мадрид – барселона",
+          "score": 99
+        },
+        {
+          "keyword": "southampton đấu với arsenal",
+          "score": 98
+        },
+        {
+          "keyword": "오타니 쇼헤이",
+          "score": 97
+        },
+        {
+          "keyword": "เซาแธมป์ตัน พบ อาร์เซนอล",
+          "score": 96
+        },
+        {
+          "keyword": "아스날",
+          "score": 95
+        },
+        {
+          "keyword": "เชลซี พบ พอร์ทเวล",
+          "score": 94
+        },
+        {
+          "keyword": "바르셀로나",
+          "score": 93
+        },
+        {
+          "keyword": "atlético madrid vs barcelona",
+          "score": 92
+        },
+        {
+          "keyword": "사우샘프턴 대 아스널",
           "score": 91
         }
       ]
