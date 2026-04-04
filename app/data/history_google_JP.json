@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-31T19:48:08.325Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "コールパーマー",
-          "score": 100
-        },
-        {
-          "keyword": "伊藤洋輝",
-          "score": 99
-        },
-        {
-          "keyword": "アンソニーゴードン",
-          "score": 98
-        },
-        {
-          "keyword": "谷口彰悟",
-          "score": 97
-        },
-        {
-          "keyword": "スポーツナビ",
-          "score": 96
-        },
-        {
-          "keyword": "ピックフォード",
-          "score": 95
-        },
-        {
-          "keyword": "スウェーデン代表",
-          "score": 94
-        },
-        {
-          "keyword": "uネクスト",
-          "score": 93
-        },
-        {
-          "keyword": "コンサ",
-          "score": 92
-        },
-        {
-          "keyword": "ワールドカップ 2026",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-31T20:33:33.748Z",
       "geo": "JP",
       "source": "google",
@@ -4416,6 +4369,53 @@
         },
         {
           "keyword": "八丈島",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-04T19:51:15.756Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "アーセナル",
+          "score": 100
+        },
+        {
+          "keyword": "southampton vs arsenal",
+          "score": 99
+        },
+        {
+          "keyword": "バルセロナ",
+          "score": 98
+        },
+        {
+          "keyword": "アクアライン",
+          "score": 97
+        },
+        {
+          "keyword": "ラツィオ 対 パルマ",
+          "score": 96
+        },
+        {
+          "keyword": "kick",
+          "score": 95
+        },
+        {
+          "keyword": "atlético madrid vs barcelona",
+          "score": 94
+        },
+        {
+          "keyword": "フロムソフトウェア",
+          "score": 93
+        },
+        {
+          "keyword": "アヤックス 対 トゥウェンテ",
+          "score": 92
+        },
+        {
+          "keyword": "山田涼介",
           "score": 91
         }
       ]
