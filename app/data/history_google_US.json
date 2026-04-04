@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-31T10:44:18.315Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "consumers energy",
-          "score": 100
-        },
-        {
-          "keyword": "sensex today",
-          "score": 99
-        },
-        {
-          "keyword": "weather boston",
-          "score": 98
-        },
-        {
-          "keyword": "redsox",
-          "score": 97
-        },
-        {
-          "keyword": "myrtle beach weather",
-          "score": 96
-        },
-        {
-          "keyword": "kitco",
-          "score": 95
-        },
-        {
-          "keyword": "atmos energy",
-          "score": 94
-        },
-        {
-          "keyword": "cleveland guardians",
-          "score": 93
-        },
-        {
-          "keyword": "mens final 4 2026",
-          "score": 92
-        },
-        {
-          "keyword": "tesla stock price",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-31T11:40:38.534Z",
       "geo": "US",
       "source": "google",
@@ -4181,6 +4134,53 @@
         },
         {
           "keyword": "b",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-04T11:21:44.417Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "fa cup schedule",
+          "score": 100
+        },
+        {
+          "keyword": "ny mets",
+          "score": 99
+        },
+        {
+          "keyword": "botic van de zandschulp",
+          "score": 98
+        },
+        {
+          "keyword": "weather new york",
+          "score": 97
+        },
+        {
+          "keyword": "atlanta braves",
+          "score": 96
+        },
+        {
+          "keyword": "날씨",
+          "score": 95
+        },
+        {
+          "keyword": "npr news",
+          "score": 94
+        },
+        {
+          "keyword": "criminal attorney",
+          "score": 93
+        },
+        {
+          "keyword": "boot",
+          "score": 92
+        },
+        {
+          "keyword": "bbc world news",
           "score": 91
         }
       ]
