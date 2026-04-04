@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-31T01:46:17.465Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tyler herro",
-          "score": 100
-        },
-        {
-          "keyword": "juan soto",
-          "score": 99
-        },
-        {
-          "keyword": "walker buehler",
-          "score": 98
-        },
-        {
-          "keyword": "onyeka okongwu",
-          "score": 97
-        },
-        {
-          "keyword": "tigers vs diamondbacks",
-          "score": 96
-        },
-        {
-          "keyword": "wrestlemania 42",
-          "score": 95
-        },
-        {
-          "keyword": "mike yastrzemski",
-          "score": 94
-        },
-        {
-          "keyword": "colorado rockies",
-          "score": 93
-        },
-        {
-          "keyword": "wsj",
-          "score": 92
-        },
-        {
-          "keyword": "brice matthews",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-31T04:27:52.144Z",
       "geo": "US",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "mariners vs angels",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-04T03:45:09.968Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jerome powell subpoenas",
+          "score": 100
+        },
+        {
+          "keyword": "best new streaming shows",
+          "score": 99
+        },
+        {
+          "keyword": "polar vortex",
+          "score": 98
+        },
+        {
+          "keyword": "crimson desert update",
+          "score": 97
+        },
+        {
+          "keyword": "joe rogan",
+          "score": 96
+        },
+        {
+          "keyword": "demar derozan",
+          "score": 95
+        },
+        {
+          "keyword": "cooper flagg",
+          "score": 94
+        },
+        {
+          "keyword": "mavs",
+          "score": 93
+        },
+        {
+          "keyword": "sofi stadium",
+          "score": 92
+        },
+        {
+          "keyword": "marcus semien",
           "score": 91
         }
       ]

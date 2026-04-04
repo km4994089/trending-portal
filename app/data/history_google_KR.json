@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-31T01:46:18.952Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "환율",
-          "score": 100
-        },
-        {
-          "keyword": "삼천당제약",
-          "score": 99
-        },
-        {
-          "keyword": "삼천당제약 주가",
-          "score": 98
-        },
-        {
-          "keyword": "코스피 지수",
-          "score": 97
-        },
-        {
-          "keyword": "폰세",
-          "score": 96
-        },
-        {
-          "keyword": "윤다훈",
-          "score": 95
-        },
-        {
-          "keyword": "문희경",
-          "score": 94
-        },
-        {
-          "keyword": "billboard hot 100",
-          "score": 93
-        },
-        {
-          "keyword": "天氣",
-          "score": 92
-        },
-        {
-          "keyword": "빌보드",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-31T04:27:53.614Z",
       "geo": "KR",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "민생회복 소비쿠폰",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-04T03:45:11.567Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "잭 쿠싱",
+          "score": 100
+        },
+        {
+          "keyword": "주지훈",
+          "score": 99
+        },
+        {
+          "keyword": "변우석",
+          "score": 98
+        },
+        {
+          "keyword": "공단기",
+          "score": 97
+        },
+        {
+          "keyword": "부산 날씨",
+          "score": 96
+        },
+        {
+          "keyword": "天気",
+          "score": 95
+        },
+        {
+          "keyword": "天氣",
+          "score": 94
+        },
+        {
+          "keyword": "날씨",
+          "score": 93
+        },
+        {
+          "keyword": "weather",
+          "score": 92
+        },
+        {
+          "keyword": "psg vs toulouse",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-31T01:46:20.459Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "レイカーズ 対 ウィザーズ",
-          "score": 100
-        },
-        {
-          "keyword": "mama 2026",
-          "score": 99
-        },
-        {
-          "keyword": "尾崎健夫",
-          "score": 98
-        },
-        {
-          "keyword": "ドジャース 対 ガーディアンズ",
-          "score": 97
-        },
-        {
-          "keyword": "中沢元紀",
-          "score": 96
-        },
-        {
-          "keyword": "りそな銀行",
-          "score": 95
-        },
-        {
-          "keyword": "参議院",
-          "score": 94
-        },
-        {
-          "keyword": "mlb速報",
-          "score": 93
-        },
-        {
-          "keyword": "ドジャース試合",
-          "score": 92
-        },
-        {
-          "keyword": "有働由美子",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-31T04:27:55.032Z",
       "geo": "JP",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "犬山祭り",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-04T03:45:13.019Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "竜巻注意情報",
+          "score": 100
+        },
+        {
+          "keyword": "ナダル",
+          "score": 99
+        },
+        {
+          "keyword": "クーパー・フラッグ",
+          "score": 98
+        },
+        {
+          "keyword": "古坂大魔王",
+          "score": 97
+        },
+        {
+          "keyword": "帝京大学",
+          "score": 96
+        },
+        {
+          "keyword": "鯖江市",
+          "score": 95
+        },
+        {
+          "keyword": "ファーストサマーウイカ",
+          "score": 94
+        },
+        {
+          "keyword": "浜崎あゆみ",
+          "score": 93
+        },
+        {
+          "keyword": "豊田スタジアム",
+          "score": 92
+        },
+        {
+          "keyword": "chrome ゼロデイ",
           "score": 91
         }
       ]
