@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-31T08:36:12.669Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "中日 対 巨人",
-          "score": 100
-        },
-        {
-          "keyword": "シーサイドライン",
-          "score": 99
-        },
-        {
-          "keyword": "ヤクルト 対 広島",
-          "score": 98
-        },
-        {
-          "keyword": "多摩川競艇",
-          "score": 97
-        },
-        {
-          "keyword": "国土交通省",
-          "score": 96
-        },
-        {
-          "keyword": "競輪結果",
-          "score": 95
-        },
-        {
-          "keyword": "サミー",
-          "score": 94
-        },
-        {
-          "keyword": "nikke2",
-          "score": 93
-        },
-        {
-          "keyword": "懸賞",
-          "score": 92
-        },
-        {
-          "keyword": "児島競艇",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-31T09:54:41.007Z",
       "geo": "JP",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "bリーグ 順位",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-04T09:07:27.270Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "プロ野球 今日",
+          "score": 100
+        },
+        {
+          "keyword": "埼玉りそな銀行",
+          "score": 99
+        },
+        {
+          "keyword": "algs",
+          "score": 98
+        },
+        {
+          "keyword": "根尾昂",
+          "score": 97
+        },
+        {
+          "keyword": "りそな銀行",
+          "score": 96
+        },
+        {
+          "keyword": "日ハム 試合",
+          "score": 95
+        },
+        {
+          "keyword": "km",
+          "score": 94
+        },
+        {
+          "keyword": "wリーグ",
+          "score": 93
+        },
+        {
+          "keyword": "ソフトバンク 今日の試合",
+          "score": 92
+        },
+        {
+          "keyword": "筒香",
           "score": 91
         }
       ]

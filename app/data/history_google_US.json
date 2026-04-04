@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-31T08:36:10.087Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "alexander shevchenko",
-          "score": 100
-        },
-        {
-          "keyword": "the university of arizona",
-          "score": 99
-        },
-        {
-          "keyword": "banking",
-          "score": 98
-        },
-        {
-          "keyword": "criminal defense lawyer",
-          "score": 97
-        },
-        {
-          "keyword": "blood donation",
-          "score": 96
-        },
-        {
-          "keyword": "28 years later",
-          "score": 95
-        },
-        {
-          "keyword": "cruise line",
-          "score": 94
-        },
-        {
-          "keyword": "lamar odom",
-          "score": 93
-        },
-        {
-          "keyword": "youth soccer",
-          "score": 92
-        },
-        {
-          "keyword": "aged care",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-31T09:54:38.557Z",
       "geo": "US",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "seattle",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-04T09:07:24.831Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "solo leveling",
+          "score": 100
+        },
+        {
+          "keyword": "the chosen season six",
+          "score": 99
+        },
+        {
+          "keyword": "suits",
+          "score": 98
+        },
+        {
+          "keyword": "courtney love",
+          "score": 97
+        },
+        {
+          "keyword": "christopher nolan",
+          "score": 96
+        },
+        {
+          "keyword": "the walking dead",
+          "score": 95
+        },
+        {
+          "keyword": "alaska airline",
+          "score": 94
+        },
+        {
+          "keyword": "pick 3",
+          "score": 93
+        },
+        {
+          "keyword": "cloud",
+          "score": 92
+        },
+        {
+          "keyword": "polar vortex collapse forecast",
           "score": 91
         }
       ]
