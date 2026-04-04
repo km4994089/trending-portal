@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-30T23:56:14.917Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "빌보드 핫 100",
-          "score": 100
-        },
-        {
-          "keyword": "billboard hot 100",
-          "score": 99
-        },
-        {
-          "keyword": "天氣",
-          "score": 98
-        },
-        {
-          "keyword": "날씨",
-          "score": 97
-        },
-        {
-          "keyword": "weather",
-          "score": 96
-        },
-        {
-          "keyword": "야간선물",
-          "score": 95
-        },
-        {
-          "keyword": "샌디스크 주가",
-          "score": 94
-        },
-        {
-          "keyword": "다우지수",
-          "score": 93
-        },
-        {
-          "keyword": "날씨예보",
-          "score": 92
-        },
-        {
-          "keyword": "마이크론",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-31T01:46:18.952Z",
       "geo": "KR",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "이강인",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-04T01:15:18.463Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "天気",
+          "score": 100
+        },
+        {
+          "keyword": "天氣",
+          "score": 99
+        },
+        {
+          "keyword": "날씨",
+          "score": 98
+        },
+        {
+          "keyword": "weather",
+          "score": 97
+        },
+        {
+          "keyword": "기상청",
+          "score": 96
+        },
+        {
+          "keyword": "psg vs toulouse",
+          "score": 95
+        },
+        {
+          "keyword": "부산날씨",
+          "score": 94
+        },
+        {
+          "keyword": "코너 그리핀",
+          "score": 93
+        },
+        {
+          "keyword": "대전날씨",
+          "score": 92
+        },
+        {
+          "keyword": "민생회복 소비쿠폰",
           "score": 91
         }
       ]
