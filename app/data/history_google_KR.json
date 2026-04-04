@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-31T23:25:12.574Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "1달러",
-          "score": 100
-        },
-        {
-          "keyword": "날씨",
-          "score": 99
-        },
-        {
-          "keyword": "테슬라",
-          "score": 98
-        },
-        {
-          "keyword": "weather",
-          "score": 97
-        },
-        {
-          "keyword": "나무위키",
-          "score": 96
-        },
-        {
-          "keyword": "롤 점검",
-          "score": 95
-        },
-        {
-          "keyword": "cooper connolly",
-          "score": 94
-        },
-        {
-          "keyword": "필라델피아 반도체 지수",
-          "score": 93
-        },
-        {
-          "keyword": "잉글랜드 대 일본",
-          "score": 92
-        },
-        {
-          "keyword": "미국 이란",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-31T23:55:25.507Z",
       "geo": "KR",
       "source": "google",
@@ -4557,6 +4510,53 @@
         },
         {
           "keyword": "바르셀로나",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-04T23:52:44.082Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "인터 마이애미 대 오스틴",
+          "score": 100
+        },
+        {
+          "keyword": "天氣",
+          "score": 99
+        },
+        {
+          "keyword": "날씨 서울",
+          "score": 98
+        },
+        {
+          "keyword": "easter",
+          "score": 97
+        },
+        {
+          "keyword": "mlb",
+          "score": 96
+        },
+        {
+          "keyword": "atlético madrid đấu với barcelona",
+          "score": 95
+        },
+        {
+          "keyword": "атлетико мадрид – барселона",
+          "score": 94
+        },
+        {
+          "keyword": "southampton đấu với arsenal",
+          "score": 93
+        },
+        {
+          "keyword": "오타니 쇼헤이",
+          "score": 92
+        },
+        {
+          "keyword": "เซาแธมป์ตัน พบ อาร์เซนอล",
           "score": 91
         }
       ]
