@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-31T16:48:36.539Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "カードキャプターさくら",
-          "score": 100
-        },
-        {
-          "keyword": "デゼルビ",
-          "score": 99
-        },
-        {
-          "keyword": "サーティーワン",
-          "score": 98
-        },
-        {
-          "keyword": "31アイス",
-          "score": 97
-        },
-        {
-          "keyword": "foma",
-          "score": 96
-        },
-        {
-          "keyword": "バックトゥザフューチャー",
-          "score": 95
-        },
-        {
-          "keyword": "fgo エイプリルフール",
-          "score": 94
-        },
-        {
-          "keyword": "ガシャポン",
-          "score": 93
-        },
-        {
-          "keyword": "吉川愛",
-          "score": 92
-        },
-        {
-          "keyword": "兵庫県教職員人事異動",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-31T17:48:39.118Z",
       "geo": "JP",
       "source": "google",
@@ -4369,6 +4322,53 @@
         },
         {
           "keyword": "ザたっち",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-04T16:59:25.605Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "サブノーティカ",
+          "score": 100
+        },
+        {
+          "keyword": "シュトゥットガルト 対 ドルトムント",
+          "score": 99
+        },
+        {
+          "keyword": "八丈島",
+          "score": 98
+        },
+        {
+          "keyword": "鈴木このみ",
+          "score": 97
+        },
+        {
+          "keyword": "セーラームーン",
+          "score": 96
+        },
+        {
+          "keyword": "セザンヌ",
+          "score": 95
+        },
+        {
+          "keyword": "ドン・キホーテ",
+          "score": 94
+        },
+        {
+          "keyword": "chelsea vs port vale",
+          "score": 93
+        },
+        {
+          "keyword": "wordle",
+          "score": 92
+        },
+        {
+          "keyword": "石井一成",
           "score": 91
         }
       ]

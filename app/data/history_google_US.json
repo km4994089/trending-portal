@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-31T16:48:33.796Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "super el nino",
-          "score": 100
-        },
-        {
-          "keyword": "supergirl trailer",
-          "score": 99
-        },
-        {
-          "keyword": "colorado state fair",
-          "score": 98
-        },
-        {
-          "keyword": "haiti",
-          "score": 97
-        },
-        {
-          "keyword": "orcl stock",
-          "score": 96
-        },
-        {
-          "keyword": "kristi noem",
-          "score": 95
-        },
-        {
-          "keyword": "norway vs switzerland",
-          "score": 94
-        },
-        {
-          "keyword": "aurora forecast",
-          "score": 93
-        },
-        {
-          "keyword": "haiti vs iceland",
-          "score": 92
-        },
-        {
-          "keyword": "topps",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-03-31T17:48:36.197Z",
       "geo": "US",
       "source": "google",
@@ -4369,6 +4322,53 @@
         },
         {
           "keyword": "church of jesus christ of latter day saints",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-04T16:59:22.447Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "clark gilbert",
+          "score": 100
+        },
+        {
+          "keyword": "wild vs senators",
+          "score": 99
+        },
+        {
+          "keyword": "barca game",
+          "score": 98
+        },
+        {
+          "keyword": "barcelona",
+          "score": 97
+        },
+        {
+          "keyword": "northeastern university",
+          "score": 96
+        },
+        {
+          "keyword": "dakota johnson",
+          "score": 95
+        },
+        {
+          "keyword": "patrick kane",
+          "score": 94
+        },
+        {
+          "keyword": "al-ahli vs damac",
+          "score": 93
+        },
+        {
+          "keyword": "la liga",
+          "score": 92
+        },
+        {
+          "keyword": "red wings vs rangers",
           "score": 91
         }
       ]
