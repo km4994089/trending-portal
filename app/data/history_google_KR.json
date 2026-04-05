@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-01T11:43:21.759Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "여행가는달",
-          "score": 100
-        },
-        {
-          "keyword": "문상훈",
-          "score": 99
-        },
-        {
-          "keyword": "배동현",
-          "score": 98
-        },
-        {
-          "keyword": "고유가지원금",
-          "score": 97
-        },
-        {
-          "keyword": "이상아",
-          "score": 96
-        },
-        {
-          "keyword": "류현진",
-          "score": 95
-        },
-        {
-          "keyword": "스포츠",
-          "score": 94
-        },
-        {
-          "keyword": "롯데 자이언츠",
-          "score": 93
-        },
-        {
-          "keyword": "포스트말론",
-          "score": 92
-        },
-        {
-          "keyword": "삼성 라이온즈",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-01T12:54:45.972Z",
       "geo": "KR",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "남규리",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-05T12:34:24.525Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "음식",
+          "score": 100
+        },
+        {
+          "keyword": "투자",
+          "score": 99
+        },
+        {
+          "keyword": "나는 solo",
+          "score": 98
+        },
+        {
+          "keyword": "어묵",
+          "score": 97
+        },
+        {
+          "keyword": "골프",
+          "score": 96
+        },
+        {
+          "keyword": "기아 ev3",
+          "score": 95
+        },
+        {
+          "keyword": "자영업",
+          "score": 94
+        },
+        {
+          "keyword": "근육",
+          "score": 93
+        },
+        {
+          "keyword": "손태영",
+          "score": 92
+        },
+        {
+          "keyword": "이정재",
           "score": 91
         }
       ]
