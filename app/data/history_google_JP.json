@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-01T10:32:43.747Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "自転車 青切符 歩道走行",
-          "score": 100
-        },
-        {
-          "keyword": "永作博美",
-          "score": 99
-        },
-        {
-          "keyword": "北川莉央",
-          "score": 98
-        },
-        {
-          "keyword": "水森かおり",
-          "score": 97
-        },
-        {
-          "keyword": "サブウェイ",
-          "score": 96
-        },
-        {
-          "keyword": "黒田清子",
-          "score": 95
-        },
-        {
-          "keyword": "高橋真麻",
-          "score": 94
-        },
-        {
-          "keyword": "中西聖輝",
-          "score": 93
-        },
-        {
-          "keyword": "ベルーナドーム",
-          "score": 92
-        },
-        {
-          "keyword": "ミラタップ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-01T11:43:23.044Z",
       "geo": "JP",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "岩瀬洋志",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-05T10:59:34.346Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "大潟村",
+          "score": 100
+        },
+        {
+          "keyword": "対馬",
+          "score": 99
+        },
+        {
+          "keyword": "桐生競艇",
+          "score": 98
+        },
+        {
+          "keyword": "東京農業大学",
+          "score": 97
+        },
+        {
+          "keyword": "鹿児島",
+          "score": 96
+        },
+        {
+          "keyword": "森脇健児",
+          "score": 95
+        },
+        {
+          "keyword": "日村勇紀",
+          "score": 94
+        },
+        {
+          "keyword": "グリッドマン",
+          "score": 93
+        },
+        {
+          "keyword": "松田好花",
+          "score": 92
+        },
+        {
+          "keyword": "日曜劇場",
           "score": 91
         }
       ]

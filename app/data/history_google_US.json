@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-01T10:32:41.134Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "doug irwin guitars",
-          "score": 100
-        },
-        {
-          "keyword": "yankees score",
-          "score": 99
-        },
-        {
-          "keyword": "detroit weather",
-          "score": 98
-        },
-        {
-          "keyword": "chili tlc",
-          "score": 97
-        },
-        {
-          "keyword": "topps",
-          "score": 96
-        },
-        {
-          "keyword": "flood watch",
-          "score": 95
-        },
-        {
-          "keyword": "matty healy",
-          "score": 94
-        },
-        {
-          "keyword": "nytimes.com",
-          "score": 93
-        },
-        {
-          "keyword": "go daddy",
-          "score": 92
-        },
-        {
-          "keyword": "aurora borealis forecast",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-01T11:43:20.506Z",
       "geo": "US",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "stock market",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-05T10:59:31.360Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "easter greetings",
+          "score": 100
+        },
+        {
+          "keyword": "特朗普",
+          "score": 99
+        },
+        {
+          "keyword": "phillies standings",
+          "score": 98
+        },
+        {
+          "keyword": "날씨",
+          "score": 97
+        },
+        {
+          "keyword": "tour of flanders 2026",
+          "score": 96
+        },
+        {
+          "keyword": "south carolina vs ucla",
+          "score": 95
+        },
+        {
+          "keyword": "happy resurrection day 2026",
+          "score": 94
+        },
+        {
+          "keyword": "simone henault",
+          "score": 93
+        },
+        {
+          "keyword": "sheetz",
+          "score": 92
+        },
+        {
+          "keyword": "is dunkin open on easter",
           "score": 91
         }
       ]
