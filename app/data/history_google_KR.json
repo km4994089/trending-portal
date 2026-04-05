@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-01T14:24:57.069Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "박영현",
-          "score": 100
-        },
-        {
-          "keyword": "kbo",
-          "score": 99
-        },
-        {
-          "keyword": "악뮤",
-          "score": 98
-        },
-        {
-          "keyword": "한화",
-          "score": 97
-        },
-        {
-          "keyword": "롯데 nc",
-          "score": 96
-        },
-        {
-          "keyword": "영국",
-          "score": 95
-        },
-        {
-          "keyword": "현대자동차",
-          "score": 94
-        },
-        {
-          "keyword": "무명전설",
-          "score": 93
-        },
-        {
-          "keyword": "티원",
-          "score": 92
-        },
-        {
-          "keyword": "최원준",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-01T15:49:09.125Z",
       "geo": "KR",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "에코프로",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-05T14:27:39.722Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "박은영 결혼",
+          "score": 100
+        },
+        {
+          "keyword": "지진",
+          "score": 99
+        },
+        {
+          "keyword": "관세",
+          "score": 98
+        },
+        {
+          "keyword": "김지민",
+          "score": 97
+        },
+        {
+          "keyword": "건강보험",
+          "score": 96
+        },
+        {
+          "keyword": "김신영",
+          "score": 95
+        },
+        {
+          "keyword": "해리 케인",
+          "score": 94
+        },
+        {
+          "keyword": "기상청",
+          "score": 93
+        },
+        {
+          "keyword": "무인 항공기",
+          "score": 92
+        },
+        {
+          "keyword": "택시",
           "score": 91
         }
       ]
