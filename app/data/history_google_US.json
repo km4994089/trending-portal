@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-03-31T23:55:24.119Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mexico fc",
-          "score": 100
-        },
-        {
-          "keyword": "pete alonso",
-          "score": 99
-        },
-        {
-          "keyword": "mets - cardenales",
-          "score": 98
-        },
-        {
-          "keyword": "max muncy",
-          "score": 97
-        },
-        {
-          "keyword": "argentina",
-          "score": 96
-        },
-        {
-          "keyword": "anthony mantha",
-          "score": 95
-        },
-        {
-          "keyword": "drake baldwin",
-          "score": 94
-        },
-        {
-          "keyword": "christian pulisic",
-          "score": 93
-        },
-        {
-          "keyword": "mars climate orbiter",
-          "score": 92
-        },
-        {
-          "keyword": "adolis garcia",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-01T01:28:26.879Z",
       "geo": "US",
       "source": "google",
@@ -4557,6 +4510,53 @@
         },
         {
           "keyword": "pittsburgh pirates",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-05T01:24:48.926Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nimari burnett",
+          "score": 100
+        },
+        {
+          "keyword": "koa peat",
+          "score": 99
+        },
+        {
+          "keyword": "jaden bradley",
+          "score": 98
+        },
+        {
+          "keyword": "aday mara",
+          "score": 97
+        },
+        {
+          "keyword": "blue jackets",
+          "score": 96
+        },
+        {
+          "keyword": "brayden burries",
+          "score": 95
+        },
+        {
+          "keyword": "morez johnson jr",
+          "score": 94
+        },
+        {
+          "keyword": "elliot cadeau",
+          "score": 93
+        },
+        {
+          "keyword": "breland",
+          "score": 92
+        },
+        {
+          "keyword": "tim friede",
           "score": 91
         }
       ]
