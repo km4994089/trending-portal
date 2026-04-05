@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-01T20:34:43.027Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "중고차",
-          "score": 100
-        },
-        {
-          "keyword": "aws",
-          "score": 99
-        },
-        {
-          "keyword": "사냥개들",
-          "score": 98
-        },
-        {
-          "keyword": "나이키 주가",
-          "score": 97
-        },
-        {
-          "keyword": "제니",
-          "score": 96
-        },
-        {
-          "keyword": "고우리",
-          "score": 95
-        },
-        {
-          "keyword": "채연",
-          "score": 94
-        },
-        {
-          "keyword": "엄지윤",
-          "score": 93
-        },
-        {
-          "keyword": "lsg vs dc",
-          "score": 92
-        },
-        {
-          "keyword": "조갑경",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-01T21:33:18.323Z",
       "geo": "KR",
       "source": "google",
@@ -4886,6 +4839,53 @@
         },
         {
           "keyword": "인공지능",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-05T20:55:31.536Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "한화그룹",
+          "score": 100
+        },
+        {
+          "keyword": "지구",
+          "score": 99
+        },
+        {
+          "keyword": "홍명보",
+          "score": 98
+        },
+        {
+          "keyword": "파울루 벤투",
+          "score": 97
+        },
+        {
+          "keyword": "박수홍",
+          "score": 96
+        },
+        {
+          "keyword": "냉장고를 부탁해",
+          "score": 95
+        },
+        {
+          "keyword": "정준하",
+          "score": 94
+        },
+        {
+          "keyword": "두산에너빌리티",
+          "score": 93
+        },
+        {
+          "keyword": "west ham vs leeds",
+          "score": 92
+        },
+        {
+          "keyword": "상장폐지",
           "score": 91
         }
       ]
