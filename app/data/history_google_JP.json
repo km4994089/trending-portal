@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-01T01:28:29.352Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "最大震度5弱の地震",
-          "score": 100
-        },
-        {
-          "keyword": "x",
-          "score": 99
-        },
-        {
-          "keyword": "earthquake japan",
-          "score": 98
-        },
-        {
-          "keyword": "yahoo ニュース",
-          "score": 97
-        },
-        {
-          "keyword": "震源",
-          "score": 96
-        },
-        {
-          "keyword": "宇都宮",
-          "score": 95
-        },
-        {
-          "keyword": "yahoo 自身",
-          "score": 94
-        },
-        {
-          "keyword": "埼玉地震",
-          "score": 93
-        },
-        {
-          "keyword": "ニュース速報",
-          "score": 92
-        },
-        {
-          "keyword": "東北新幹線",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-01T04:29:16.160Z",
       "geo": "JP",
       "source": "google",
@@ -4557,6 +4510,53 @@
         },
         {
           "keyword": "吉川愛",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-05T04:14:02.541Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "清水エスパルス",
+          "score": 100
+        },
+        {
+          "keyword": "浜松市",
+          "score": 99
+        },
+        {
+          "keyword": "コムドット",
+          "score": 98
+        },
+        {
+          "keyword": "全日本選抜柔道体重別選手権大会",
+          "score": 97
+        },
+        {
+          "keyword": "浜松",
+          "score": 96
+        },
+        {
+          "keyword": "八戸 対 山形",
+          "score": 95
+        },
+        {
+          "keyword": "若林正恭",
+          "score": 94
+        },
+        {
+          "keyword": "31アイスクリーム",
+          "score": 93
+        },
+        {
+          "keyword": "鳥山明",
+          "score": 92
+        },
+        {
+          "keyword": "公示",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-01T01:28:26.879Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "marco rubio",
-          "score": 100
-        },
-        {
-          "keyword": "brian gutierrez",
-          "score": 99
-        },
-        {
-          "keyword": "anton frondell",
-          "score": 98
-        },
-        {
-          "keyword": "eddie cibrian",
-          "score": 97
-        },
-        {
-          "keyword": "sarah paulson",
-          "score": 96
-        },
-        {
-          "keyword": "amanda peet breast cancer",
-          "score": 95
-        },
-        {
-          "keyword": "john hamm",
-          "score": 94
-        },
-        {
-          "keyword": "jaxon richardson",
-          "score": 93
-        },
-        {
-          "keyword": "reed sheppard",
-          "score": 92
-        },
-        {
-          "keyword": "aidan hutchinson",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-01T04:29:13.564Z",
       "geo": "US",
       "source": "google",
@@ -4557,6 +4510,53 @@
         },
         {
           "keyword": "tim friede",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-05T04:14:00.017Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "colman domingo",
+          "score": 100
+        },
+        {
+          "keyword": "anitta",
+          "score": 99
+        },
+        {
+          "keyword": "angels",
+          "score": 98
+        },
+        {
+          "keyword": "anaheim ducks",
+          "score": 97
+        },
+        {
+          "keyword": "chloe fineman",
+          "score": 96
+        },
+        {
+          "keyword": "los angeles angels",
+          "score": 95
+        },
+        {
+          "keyword": "jo adell",
+          "score": 94
+        },
+        {
+          "keyword": "angels game",
+          "score": 93
+        },
+        {
+          "keyword": "la angels",
+          "score": 92
+        },
+        {
+          "keyword": "seth rogen",
           "score": 91
         }
       ]
