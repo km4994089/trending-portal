@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-01T06:10:59.038Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "justin gaethje",
-          "score": 100
-        },
-        {
-          "keyword": "arc raiders down",
-          "score": 99
-        },
-        {
-          "keyword": "sat",
-          "score": 98
-        },
-        {
-          "keyword": "fortnite down",
-          "score": 97
-        },
-        {
-          "keyword": "nba mvp race",
-          "score": 96
-        },
-        {
-          "keyword": "kawhi leonard",
-          "score": 95
-        },
-        {
-          "keyword": "yosemite national park",
-          "score": 94
-        },
-        {
-          "keyword": "epstein files",
-          "score": 93
-        },
-        {
-          "keyword": "edwin diaz",
-          "score": 92
-        },
-        {
-          "keyword": "damian lillard",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-01T07:58:31.023Z",
       "geo": "US",
       "source": "google",
@@ -4557,6 +4510,53 @@
         },
         {
           "keyword": "foxnews",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-05T06:59:49.739Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jon jones",
+          "score": 100
+        },
+        {
+          "keyword": "kristen stewart",
+          "score": 99
+        },
+        {
+          "keyword": "kate beckinsale",
+          "score": 98
+        },
+        {
+          "keyword": "easter 2026",
+          "score": 97
+        },
+        {
+          "keyword": "sydney kings",
+          "score": 96
+        },
+        {
+          "keyword": "nbl",
+          "score": 95
+        },
+        {
+          "keyword": "jared leto",
+          "score": 94
+        },
+        {
+          "keyword": "the middle",
+          "score": 93
+        },
+        {
+          "keyword": "harry potter cast",
+          "score": 92
+        },
+        {
+          "keyword": "shell",
           "score": 91
         }
       ]
