@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-01T12:54:47.169Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "del-1",
-          "score": 100
-        },
-        {
-          "keyword": "上原さくら",
-          "score": 99
-        },
-        {
-          "keyword": "原西孝幸",
-          "score": 98
-        },
-        {
-          "keyword": "星麻琴アナウンサー",
-          "score": 97
-        },
-        {
-          "keyword": "野球結果",
-          "score": 96
-        },
-        {
-          "keyword": "世にも奇妙な物語",
-          "score": 95
-        },
-        {
-          "keyword": "日豊本線",
-          "score": 94
-        },
-        {
-          "keyword": "棚橋弘至",
-          "score": 93
-        },
-        {
-          "keyword": "吉田明世",
-          "score": 92
-        },
-        {
-          "keyword": "吉野家",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-01T14:24:58.014Z",
       "geo": "JP",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "嵐",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-05T13:46:47.781Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "山口智子",
+          "score": 100
+        },
+        {
+          "keyword": "スクランブル交差点 放火",
+          "score": 99
+        },
+        {
+          "keyword": "唐沢 寿明",
+          "score": 98
+        },
+        {
+          "keyword": "ルルットリリィ",
+          "score": 97
+        },
+        {
+          "keyword": "rcb vs csk",
+          "score": 96
+        },
+        {
+          "keyword": "オイルショック",
+          "score": 95
+        },
+        {
+          "keyword": "サンデーレーシング",
+          "score": 94
+        },
+        {
+          "keyword": "ゴミ袋",
+          "score": 93
+        },
+        {
+          "keyword": "バンテリンドーム",
+          "score": 92
+        },
+        {
+          "keyword": "連続テレビ小説",
           "score": 91
         }
       ]

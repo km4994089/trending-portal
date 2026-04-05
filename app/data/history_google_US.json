@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-01T12:54:44.829Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mta",
-          "score": 100
-        },
-        {
-          "keyword": "weather houston",
-          "score": 99
-        },
-        {
-          "keyword": "noah kahan",
-          "score": 98
-        },
-        {
-          "keyword": "joey bosa",
-          "score": 97
-        },
-        {
-          "keyword": "steve jobs",
-          "score": 96
-        },
-        {
-          "keyword": "nfl coaches picture",
-          "score": 95
-        },
-        {
-          "keyword": "carmelo anthony",
-          "score": 94
-        },
-        {
-          "keyword": "nuno borges",
-          "score": 93
-        },
-        {
-          "keyword": "storm damage restoration",
-          "score": 92
-        },
-        {
-          "keyword": "jalen hurts",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-01T14:24:55.762Z",
       "geo": "US",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "hayley williams",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-05T13:46:45.198Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "donald trump easter message",
+          "score": 100
+        },
+        {
+          "keyword": "valencia vs celta vigo",
+          "score": 99
+        },
+        {
+          "keyword": "schitts creek",
+          "score": 98
+        },
+        {
+          "keyword": "union berlin vs st. pauli",
+          "score": 97
+        },
+        {
+          "keyword": "trump easter",
+          "score": 96
+        },
+        {
+          "keyword": "rcb vs csk",
+          "score": 95
+        },
+        {
+          "keyword": "dan levy",
+          "score": 94
+        },
+        {
+          "keyword": "hacks",
+          "score": 93
+        },
+        {
+          "keyword": "tommy fleetwood",
+          "score": 92
+        },
+        {
+          "keyword": "crypto exchange binance",
           "score": 91
         }
       ]
