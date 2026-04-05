@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-01T19:51:46.265Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "皇治",
-          "score": 100
-        },
-        {
-          "keyword": "ブルワーズ 対 レイズ",
-          "score": 99
-        },
-        {
-          "keyword": "オリオールズ 対 レンジャーズ",
-          "score": 98
-        },
-        {
-          "keyword": "和歌山 地震",
-          "score": 97
-        },
-        {
-          "keyword": "patreon",
-          "score": 96
-        },
-        {
-          "keyword": "水崎綾女",
-          "score": 95
-        },
-        {
-          "keyword": "京都天気",
-          "score": 94
-        },
-        {
-          "keyword": "村上宗隆 ホワイトソックス",
-          "score": 93
-        },
-        {
-          "keyword": "石田ひかり",
-          "score": 92
-        },
-        {
-          "keyword": "明日 天気",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-01T20:34:44.202Z",
       "geo": "JP",
       "source": "google",
@@ -4839,6 +4792,53 @@
         },
         {
           "keyword": "パク・ミニョン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-05T19:53:35.353Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mlb速報",
+          "score": 100
+        },
+        {
+          "keyword": "春の交通安全運動 2026",
+          "score": 99
+        },
+        {
+          "keyword": "ロッキーズ 対 フィリーズ",
+          "score": 98
+        },
+        {
+          "keyword": "女性天皇",
+          "score": 97
+        },
+        {
+          "keyword": "レンジャーズ 対 レッズ",
+          "score": 96
+        },
+        {
+          "keyword": "住宅ローン 変動金利",
+          "score": 95
+        },
+        {
+          "keyword": "インテル 対 ローマ",
+          "score": 94
+        },
+        {
+          "keyword": "かつや",
+          "score": 93
+        },
+        {
+          "keyword": "ドジャース 試合",
+          "score": 92
+        },
+        {
+          "keyword": "ドジャース 試合 今日",
           "score": 91
         }
       ]
