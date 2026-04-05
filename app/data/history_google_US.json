@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-01T07:58:31.023Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "crb",
-          "score": 100
-        },
-        {
-          "keyword": "nate diaz",
-          "score": 99
-        },
-        {
-          "keyword": "news today",
-          "score": 98
-        },
-        {
-          "keyword": "jim carrey",
-          "score": 97
-        },
-        {
-          "keyword": "giannis antetokounmpo",
-          "score": 96
-        },
-        {
-          "keyword": "harkins",
-          "score": 95
-        },
-        {
-          "keyword": "arman tsarukyan",
-          "score": 94
-        },
-        {
-          "keyword": "keir starmer",
-          "score": 93
-        },
-        {
-          "keyword": "brie larson",
-          "score": 92
-        },
-        {
-          "keyword": "epic games",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-01T09:02:52.669Z",
       "geo": "US",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "sydney kings",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-05T08:33:13.505Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "stock market",
+          "score": 100
+        },
+        {
+          "keyword": "the chi",
+          "score": 99
+        },
+        {
+          "keyword": "travel europe",
+          "score": 98
+        },
+        {
+          "keyword": "new general primary presidency 2026",
+          "score": 97
+        },
+        {
+          "keyword": "steve martin",
+          "score": 96
+        },
+        {
+          "keyword": "affordable housing",
+          "score": 95
+        },
+        {
+          "keyword": "gta 6 release date",
+          "score": 94
+        },
+        {
+          "keyword": "sang heon lee",
+          "score": 93
+        },
+        {
+          "keyword": "alaskaair",
+          "score": 92
+        },
+        {
+          "keyword": "jon jones",
           "score": 91
         }
       ]
