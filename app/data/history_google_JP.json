@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-01T21:33:19.731Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "今日の気温",
-          "score": 100
-        },
-        {
-          "keyword": "カージナルス 対 メッツ",
-          "score": 99
-        },
-        {
-          "keyword": "アーロン・ジャッジ",
-          "score": 98
-        },
-        {
-          "keyword": "ヒドロコドン",
-          "score": 97
-        },
-        {
-          "keyword": "cuaca hari ini",
-          "score": 96
-        },
-        {
-          "keyword": "kpmg",
-          "score": 95
-        },
-        {
-          "keyword": "バッファロー吾郎a",
-          "score": 94
-        },
-        {
-          "keyword": "木南晴夏",
-          "score": 93
-        },
-        {
-          "keyword": "gmo",
-          "score": 92
-        },
-        {
-          "keyword": "京王線",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-01T22:27:13.290Z",
       "geo": "JP",
       "source": "google",
@@ -4933,6 +4886,53 @@
         },
         {
           "keyword": "事故",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-05T21:52:36.749Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "奈緒",
+          "score": 100
+        },
+        {
+          "keyword": "東京科学大学",
+          "score": 99
+        },
+        {
+          "keyword": "老齢年金",
+          "score": 98
+        },
+        {
+          "keyword": "木南晴夏",
+          "score": 97
+        },
+        {
+          "keyword": "櫻井翔",
+          "score": 96
+        },
+        {
+          "keyword": "姫路城",
+          "score": 95
+        },
+        {
+          "keyword": "jr東海",
+          "score": 94
+        },
+        {
+          "keyword": "pgaツアー",
+          "score": 93
+        },
+        {
+          "keyword": "iphone",
+          "score": 92
+        },
+        {
+          "keyword": "らじるらじる",
           "score": 91
         }
       ]
