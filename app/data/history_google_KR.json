@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-02T22:22:54.387Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "天气",
-          "score": 100
-        },
-        {
-          "keyword": "테슬라",
-          "score": 99
-        },
-        {
-          "keyword": "아마존",
-          "score": 98
-        },
-        {
-          "keyword": "패왕별희",
-          "score": 97
-        },
-        {
-          "keyword": "현대자동차",
-          "score": 96
-        },
-        {
-          "keyword": "케플러 김채현",
-          "score": 95
-        },
-        {
-          "keyword": "kc",
-          "score": 94
-        },
-        {
-          "keyword": "그레이",
-          "score": 93
-        },
-        {
-          "keyword": "오만",
-          "score": 92
-        },
-        {
-          "keyword": "srh vs kkr",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-02T22:56:01.827Z",
       "geo": "KR",
       "source": "google",
@@ -4933,6 +4886,53 @@
         },
         {
           "keyword": "김신영",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-06T22:27:19.801Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "복싱",
+          "score": 100
+        },
+        {
+          "keyword": "tsla",
+          "score": 99
+        },
+        {
+          "keyword": "나스닥 100",
+          "score": 98
+        },
+        {
+          "keyword": "vix",
+          "score": 97
+        },
+        {
+          "keyword": "도시 재개발",
+          "score": 96
+        },
+        {
+          "keyword": "회사",
+          "score": 95
+        },
+        {
+          "keyword": "변호사",
+          "score": 94
+        },
+        {
+          "keyword": "나스닥 지수",
+          "score": 93
+        },
+        {
+          "keyword": "무명전설",
+          "score": 92
+        },
+        {
+          "keyword": "바이 낸스",
           "score": 91
         }
       ]
