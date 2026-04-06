@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-02T07:00:31.815Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "トヨタモビリティ東京",
-          "score": 100
-        },
-        {
-          "keyword": "ルーマニア",
-          "score": 99
-        },
-        {
-          "keyword": "テレビ",
-          "score": 98
-        },
-        {
-          "keyword": "ソ・ヘウォン",
-          "score": 97
-        },
-        {
-          "keyword": "スタバ新作",
-          "score": 96
-        },
-        {
-          "keyword": "baidu",
-          "score": 95
-        },
-        {
-          "keyword": "ドコモ starlink direct",
-          "score": 94
-        },
-        {
-          "keyword": "ps plus フリープレイ",
-          "score": 93
-        },
-        {
-          "keyword": "名鉄",
-          "score": 92
-        },
-        {
-          "keyword": "スタバ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-02T08:32:13.996Z",
       "geo": "JP",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "衝突",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-06T08:08:00.488Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "wester",
+          "score": 100
+        },
+        {
+          "keyword": "首相",
+          "score": 99
+        },
+        {
+          "keyword": "高橋 一生",
+          "score": 98
+        },
+        {
+          "keyword": "辻 希美",
+          "score": 97
+        },
+        {
+          "keyword": "大和路線",
+          "score": 96
+        },
+        {
+          "keyword": "松倉海斗",
+          "score": 95
+        },
+        {
+          "keyword": "パシオス",
+          "score": 94
+        },
+        {
+          "keyword": "地球防衛軍6",
+          "score": 93
+        },
+        {
+          "keyword": "堂本 光一",
+          "score": 92
+        },
+        {
+          "keyword": "サンリオ",
           "score": 91
         }
       ]
