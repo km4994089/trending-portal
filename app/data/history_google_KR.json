@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-02T16:45:06.917Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "케플러 김채현",
-          "score": 100
-        },
-        {
-          "keyword": "kc",
-          "score": 99
-        },
-        {
-          "keyword": "오만",
-          "score": 98
-        },
-        {
-          "keyword": "srh vs kkr",
-          "score": 97
-        },
-        {
-          "keyword": "riot",
-          "score": 96
-        },
-        {
-          "keyword": "박진영",
-          "score": 95
-        },
-        {
-          "keyword": "라이엇",
-          "score": 94
-        },
-        {
-          "keyword": "lol",
-          "score": 93
-        },
-        {
-          "keyword": "꼬꼬무",
-          "score": 92
-        },
-        {
-          "keyword": "league of legends",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-02T17:41:22.440Z",
       "geo": "KR",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "오연수",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-06T17:11:01.590Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김용건",
+          "score": 100
+        },
+        {
+          "keyword": "정몽규",
+          "score": 99
+        },
+        {
+          "keyword": "정부",
+          "score": 98
+        },
+        {
+          "keyword": "미스터트롯",
+          "score": 97
+        },
+        {
+          "keyword": "세균",
+          "score": 96
+        },
+        {
+          "keyword": "이슬람 혁명 수비대",
+          "score": 95
+        },
+        {
+          "keyword": "전한길",
+          "score": 94
+        },
+        {
+          "keyword": "kkr vs pbks",
+          "score": 93
+        },
+        {
+          "keyword": "챔피언십",
+          "score": 92
+        },
+        {
+          "keyword": "is",
           "score": 91
         }
       ]

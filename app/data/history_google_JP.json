@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-02T16:45:08.372Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "石丸伸二",
-          "score": 100
-        },
-        {
-          "keyword": "中山美穂",
-          "score": 99
-        },
-        {
-          "keyword": "浅田真央",
-          "score": 98
-        },
-        {
-          "keyword": "藤竜也",
-          "score": 97
-        },
-        {
-          "keyword": "柏原崇 内田有紀",
-          "score": 96
-        },
-        {
-          "keyword": "与田祐希",
-          "score": 95
-        },
-        {
-          "keyword": "石黒英雄",
-          "score": 94
-        },
-        {
-          "keyword": "瓜田純士",
-          "score": 93
-        },
-        {
-          "keyword": "ミランダカー",
-          "score": 92
-        },
-        {
-          "keyword": "爆弾 考察",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-02T17:41:23.910Z",
       "geo": "JP",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "島田麻央",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-06T17:11:02.966Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "トランプ 会見",
+          "score": 100
+        },
+        {
+          "keyword": "超特急",
+          "score": 99
+        },
+        {
+          "keyword": "大原優乃",
+          "score": 98
+        },
+        {
+          "keyword": "岩崎宏美",
+          "score": 97
+        },
+        {
+          "keyword": "大竹しのぶ",
+          "score": 96
+        },
+        {
+          "keyword": "オープンワールド",
+          "score": 95
+        },
+        {
+          "keyword": "香港",
+          "score": 94
+        },
+        {
+          "keyword": "月の裏側",
+          "score": 93
+        },
+        {
+          "keyword": "森カンナ",
+          "score": 92
+        },
+        {
+          "keyword": "ユヴェントス 対 ジェノア",
           "score": 91
         }
       ]

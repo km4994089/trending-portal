@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-02T16:45:05.356Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ticketmaster",
-          "score": 100
-        },
-        {
-          "keyword": "barcelona - real madrid c. f. femenino",
-          "score": 99
-        },
-        {
-          "keyword": "fabian marozsan",
-          "score": 98
-        },
-        {
-          "keyword": "belinda bencic",
-          "score": 97
-        },
-        {
-          "keyword": "tiger woods body cam footage",
-          "score": 96
-        },
-        {
-          "keyword": "d23",
-          "score": 95
-        },
-        {
-          "keyword": "tina peters",
-          "score": 94
-        },
-        {
-          "keyword": "peyton stearns",
-          "score": 93
-        },
-        {
-          "keyword": "the view",
-          "score": 92
-        },
-        {
-          "keyword": "tyson foerster",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-02T17:41:20.681Z",
       "geo": "US",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "juventus vs genoa",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-06T17:11:00.359Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sloane stephens",
+          "score": 100
+        },
+        {
+          "keyword": "dj wagner",
+          "score": 99
+        },
+        {
+          "keyword": "barcelona vs levante badalona",
+          "score": 98
+        },
+        {
+          "keyword": "soleimani",
+          "score": 97
+        },
+        {
+          "keyword": "dexter lawrence",
+          "score": 96
+        },
+        {
+          "keyword": "jp estrella",
+          "score": 95
+        },
+        {
+          "keyword": "rhode",
+          "score": 94
+        },
+        {
+          "keyword": "trump press conference",
+          "score": 93
+        },
+        {
+          "keyword": "flavio cobolli",
+          "score": 92
+        },
+        {
+          "keyword": "florida mall",
           "score": 91
         }
       ]
