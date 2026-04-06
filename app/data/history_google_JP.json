@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-02T14:16:36.959Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ラジオスター",
-          "score": 100
-        },
-        {
-          "keyword": "バービー",
-          "score": 99
-        },
-        {
-          "keyword": "奥川恭伸",
-          "score": 98
-        },
-        {
-          "keyword": "こめかみっ ガールズ",
-          "score": 97
-        },
-        {
-          "keyword": "庵野秀明",
-          "score": 96
-        },
-        {
-          "keyword": "スーパーホテル",
-          "score": 95
-        },
-        {
-          "keyword": "安楽亭",
-          "score": 94
-        },
-        {
-          "keyword": "山口百恵",
-          "score": 93
-        },
-        {
-          "keyword": "megumi",
-          "score": 92
-        },
-        {
-          "keyword": "岩崎良美",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-02T15:32:26.877Z",
       "geo": "JP",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "キオクシア",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-06T15:10:04.850Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "九龍城",
+          "score": 100
+        },
+        {
+          "keyword": "恒松祐里",
+          "score": 99
+        },
+        {
+          "keyword": "イプスウィッチ 対 バーミンガム",
+          "score": 98
+        },
+        {
+          "keyword": "江川 卓",
+          "score": 97
+        },
+        {
+          "keyword": "シカゴ・ホワイトソックス",
+          "score": 96
+        },
+        {
+          "keyword": "佐藤彩乃",
+          "score": 95
+        },
+        {
+          "keyword": "宝塚",
+          "score": 94
+        },
+        {
+          "keyword": "青木裕子",
+          "score": 93
+        },
+        {
+          "keyword": "ダイハツ・ムーヴ",
+          "score": 92
+        },
+        {
+          "keyword": "同志社国際高校",
           "score": 91
         }
       ]
