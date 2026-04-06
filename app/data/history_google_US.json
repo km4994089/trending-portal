@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-02T11:38:26.078Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lego world cup",
-          "score": 100
-        },
-        {
-          "keyword": "road conditions",
-          "score": 99
-        },
-        {
-          "keyword": "poutine",
-          "score": 98
-        },
-        {
-          "keyword": "npr news",
-          "score": 97
-        },
-        {
-          "keyword": "powerball numbers last night",
-          "score": 96
-        },
-        {
-          "keyword": "peco",
-          "score": 95
-        },
-        {
-          "keyword": "alabama power",
-          "score": 94
-        },
-        {
-          "keyword": "kacey musgraves",
-          "score": 93
-        },
-        {
-          "keyword": "gaten matarazzo",
-          "score": 92
-        },
-        {
-          "keyword": "weather houston",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-02T12:48:15.028Z",
       "geo": "US",
       "source": "google",
@@ -4933,6 +4886,53 @@
         },
         {
           "keyword": "stock futures market",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-06T11:40:33.807Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "personal injury attorney",
+          "score": 100
+        },
+        {
+          "keyword": "dyngus day cleveland",
+          "score": 99
+        },
+        {
+          "keyword": "valencia vs celta vigo",
+          "score": 98
+        },
+        {
+          "keyword": "market futures",
+          "score": 97
+        },
+        {
+          "keyword": "intel stock",
+          "score": 96
+        },
+        {
+          "keyword": "elbow cay",
+          "score": 95
+        },
+        {
+          "keyword": "arne slot",
+          "score": 94
+        },
+        {
+          "keyword": "nflx stock",
+          "score": 93
+        },
+        {
+          "keyword": "rory mcilroy masters dinner",
+          "score": 92
+        },
+        {
+          "keyword": "mindy kaling",
           "score": 91
         }
       ]
