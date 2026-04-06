@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-02T09:51:54.927Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "james bond 007",
-          "score": 100
-        },
-        {
-          "keyword": "san jose",
-          "score": 99
-        },
-        {
-          "keyword": "is twitter down",
-          "score": 98
-        },
-        {
-          "keyword": "ea",
-          "score": 97
-        },
-        {
-          "keyword": "地震",
-          "score": 96
-        },
-        {
-          "keyword": "earthquake alert",
-          "score": 95
-        },
-        {
-          "keyword": "terremoto",
-          "score": 94
-        },
-        {
-          "keyword": "earthquake san ramon",
-          "score": 93
-        },
-        {
-          "keyword": "local news",
-          "score": 92
-        },
-        {
-          "keyword": "earthquake",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-04-02T10:42:28.051Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "weather boston",
-          "score": 100
-        },
-        {
-          "keyword": "indianapolis weather",
-          "score": 99
-        },
-        {
-          "keyword": "uofa",
-          "score": 98
-        },
-        {
-          "keyword": "st louis weather",
-          "score": 97
-        },
-        {
-          "keyword": "milwaukee weather",
-          "score": 96
-        },
-        {
-          "keyword": "student loan",
-          "score": 95
-        },
-        {
-          "keyword": "winter weather advisory",
-          "score": 94
-        },
-        {
-          "keyword": "randy orton",
-          "score": 93
-        },
-        {
-          "keyword": "premarket",
-          "score": 92
-        },
-        {
-          "keyword": "noaa weather",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-02T11:38:26.078Z",
       "geo": "US",
       "source": "google",
@@ -4980,6 +4886,53 @@
         },
         {
           "keyword": "unemployment",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-06T10:46:47.556Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "television show",
+          "score": 100
+        },
+        {
+          "keyword": "northfield nh",
+          "score": 99
+        },
+        {
+          "keyword": "lawsuit",
+          "score": 98
+        },
+        {
+          "keyword": "candace owens",
+          "score": 97
+        },
+        {
+          "keyword": "sabrina ionescu",
+          "score": 96
+        },
+        {
+          "keyword": "boston marathon 2026",
+          "score": 95
+        },
+        {
+          "keyword": "udinese - como",
+          "score": 94
+        },
+        {
+          "keyword": "choosin texas video",
+          "score": 93
+        },
+        {
+          "keyword": "hasan piker",
+          "score": 92
+        },
+        {
+          "keyword": "stock futures market",
           "score": 91
         }
       ]
