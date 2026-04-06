@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-02T08:32:11.411Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "alaska air",
-          "score": 100
-        },
-        {
-          "keyword": "weather winter storm warning",
-          "score": 99
-        },
-        {
-          "keyword": "injury lawyer",
-          "score": 98
-        },
-        {
-          "keyword": "accident attorney",
-          "score": 97
-        },
-        {
-          "keyword": "allstate insurance",
-          "score": 96
-        },
-        {
-          "keyword": "comcast cable",
-          "score": 95
-        },
-        {
-          "keyword": "the university of arizona",
-          "score": 94
-        },
-        {
-          "keyword": "online lottery",
-          "score": 93
-        },
-        {
-          "keyword": "aidan hutchinson",
-          "score": 92
-        },
-        {
-          "keyword": "floyd mayweather",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-02T09:51:54.927Z",
       "geo": "US",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "ten nct",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-06T09:45:49.509Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "karen khachanov",
+          "score": 100
+        },
+        {
+          "keyword": "majid khademi",
+          "score": 99
+        },
+        {
+          "keyword": "cleveland",
+          "score": 98
+        },
+        {
+          "keyword": "andrey rublev",
+          "score": 97
+        },
+        {
+          "keyword": "ohio",
+          "score": 96
+        },
+        {
+          "keyword": "season finale",
+          "score": 95
+        },
+        {
+          "keyword": "fringe group",
+          "score": 94
+        },
+        {
+          "keyword": "lisa kudrow",
+          "score": 93
+        },
+        {
+          "keyword": "pick 3",
+          "score": 92
+        },
+        {
+          "keyword": "unemployment",
           "score": 91
         }
       ]
