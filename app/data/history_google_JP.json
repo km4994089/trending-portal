@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-02T20:59:36.352Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "白石聖",
-          "score": 100
-        },
-        {
-          "keyword": "スバル",
-          "score": 99
-        },
-        {
-          "keyword": "小芝風花 小関裕太 結婚",
-          "score": 98
-        },
-        {
-          "keyword": "ダウ",
-          "score": 97
-        },
-        {
-          "keyword": "pam bondi",
-          "score": 96
-        },
-        {
-          "keyword": "自転車ルール 青切符",
-          "score": 95
-        },
-        {
-          "keyword": "尾崎亜美",
-          "score": 94
-        },
-        {
-          "keyword": "りくりゅうペア",
-          "score": 93
-        },
-        {
-          "keyword": "スシロー",
-          "score": 92
-        },
-        {
-          "keyword": "ミュージックステーション",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-02T21:40:03.767Z",
       "geo": "JP",
       "source": "google",
@@ -4933,6 +4886,53 @@
         },
         {
           "keyword": "ローソン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-06T21:03:28.076Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ラウール",
+          "score": 100
+        },
+        {
+          "keyword": "田原萌々",
+          "score": 99
+        },
+        {
+          "keyword": "weather today",
+          "score": 98
+        },
+        {
+          "keyword": "レアル・マドリード",
+          "score": 97
+        },
+        {
+          "keyword": "原菜乃華",
+          "score": 96
+        },
+        {
+          "keyword": "ナスダック100",
+          "score": 95
+        },
+        {
+          "keyword": "炭素",
+          "score": 94
+        },
+        {
+          "keyword": "ジネディーヌ ジダン",
+          "score": 93
+        },
+        {
+          "keyword": "モンベル",
+          "score": 92
+        },
+        {
+          "keyword": "棚橋弘至",
           "score": 91
         }
       ]
