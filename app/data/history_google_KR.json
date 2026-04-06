@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-02T04:04:06.582Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "삼성전자 주가",
-          "score": 100
-        },
-        {
-          "keyword": "명재완",
-          "score": 99
-        },
-        {
-          "keyword": "삼전 주가",
-          "score": 98
-        },
-        {
-          "keyword": "골든 스테이트 대 샌안토니오",
-          "score": 97
-        },
-        {
-          "keyword": "주식",
-          "score": 96
-        },
-        {
-          "keyword": "주가",
-          "score": 95
-        },
-        {
-          "keyword": "bbc",
-          "score": 94
-        },
-        {
-          "keyword": "연합뉴스",
-          "score": 93
-        },
-        {
-          "keyword": "ytn 실시간 뉴스",
-          "score": 92
-        },
-        {
-          "keyword": "cnn news",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-02T05:54:36.031Z",
       "geo": "KR",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "차량 2부제",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-06T04:36:29.328Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김원중",
+          "score": 100
+        },
+        {
+          "keyword": "치어리더",
+          "score": 99
+        },
+        {
+          "keyword": "최정윤",
+          "score": 98
+        },
+        {
+          "keyword": "살목지",
+          "score": 97
+        },
+        {
+          "keyword": "정선희",
+          "score": 96
+        },
+        {
+          "keyword": "장한나",
+          "score": 95
+        },
+        {
+          "keyword": "cgv",
+          "score": 94
+        },
+        {
+          "keyword": "인천국제공항",
+          "score": 93
+        },
+        {
+          "keyword": "대통령",
+          "score": 92
+        },
+        {
+          "keyword": "다날",
           "score": 91
         }
       ]
