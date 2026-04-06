@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-02T05:54:37.189Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "トレイルブレイザーズ",
-          "score": 100
-        },
-        {
-          "keyword": "南丹市立園部小学校",
-          "score": 99
-        },
-        {
-          "keyword": "波瑠",
-          "score": 98
-        },
-        {
-          "keyword": "兼六園",
-          "score": 97
-        },
-        {
-          "keyword": "春ドラマ",
-          "score": 96
-        },
-        {
-          "keyword": "郵便",
-          "score": 95
-        },
-        {
-          "keyword": "セリア",
-          "score": 94
-        },
-        {
-          "keyword": "未解決の女",
-          "score": 93
-        },
-        {
-          "keyword": "jal 国内線",
-          "score": 92
-        },
-        {
-          "keyword": "岡山大学",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-02T07:00:31.815Z",
       "geo": "JP",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "角田裕毅",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-06T06:25:00.809Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "辺野古沖転覆事件",
+          "score": 100
+        },
+        {
+          "keyword": "g1 climax",
+          "score": 99
+        },
+        {
+          "keyword": "ホンダ・シビック",
+          "score": 98
+        },
+        {
+          "keyword": "那須川天心",
+          "score": 97
+        },
+        {
+          "keyword": "arirang",
+          "score": 96
+        },
+        {
+          "keyword": "みずほ台駅",
+          "score": 95
+        },
+        {
+          "keyword": "羽田アクセス線",
+          "score": 94
+        },
+        {
+          "keyword": "佐藤勝利",
+          "score": 93
+        },
+        {
+          "keyword": "門脇誠",
+          "score": 92
+        },
+        {
+          "keyword": "衝突",
           "score": 91
         }
       ]
