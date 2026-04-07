@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-03T13:56:12.674Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ipl schedule",
-          "score": 100
-        },
-        {
-          "keyword": "championship",
-          "score": 99
-        },
-        {
-          "keyword": "albion - wrexham",
-          "score": 98
-        },
-        {
-          "keyword": "library",
-          "score": 97
-        },
-        {
-          "keyword": "rafael jodar",
-          "score": 96
-        },
-        {
-          "keyword": "csk vs pbks",
-          "score": 95
-        },
-        {
-          "keyword": "leicester city vs preston",
-          "score": 94
-        },
-        {
-          "keyword": "tigers game",
-          "score": 93
-        },
-        {
-          "keyword": "walt disney world",
-          "score": 92
-        },
-        {
-          "keyword": "noah cyrus",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-03T14:37:24.269Z",
       "geo": "US",
       "source": "google",
@@ -4839,6 +4792,53 @@
         },
         {
           "keyword": "ro khanna",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-07T14:27:50.306Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "reuters",
+          "score": 100
+        },
+        {
+          "keyword": "lucid",
+          "score": 99
+        },
+        {
+          "keyword": "karol g",
+          "score": 98
+        },
+        {
+          "keyword": "the roku channel",
+          "score": 97
+        },
+        {
+          "keyword": "intel stock",
+          "score": 96
+        },
+        {
+          "keyword": "aapl",
+          "score": 95
+        },
+        {
+          "keyword": "kalshi",
+          "score": 94
+        },
+        {
+          "keyword": "polymarket",
+          "score": 93
+        },
+        {
+          "keyword": "david cross",
+          "score": 92
+        },
+        {
+          "keyword": "intc",
           "score": 91
         }
       ]

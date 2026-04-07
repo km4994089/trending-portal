@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-03T13:56:15.781Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ガイアの夜明け",
-          "score": 100
-        },
-        {
-          "keyword": "ケツメイシ",
-          "score": 99
-        },
-        {
-          "keyword": "土屋アンナ",
-          "score": 98
-        },
-        {
-          "keyword": "九州大学",
-          "score": 97
-        },
-        {
-          "keyword": "染谷 将太",
-          "score": 96
-        },
-        {
-          "keyword": "中村勘九郎",
-          "score": 95
-        },
-        {
-          "keyword": "荒井理咲子",
-          "score": 94
-        },
-        {
-          "keyword": "fbi",
-          "score": 93
-        },
-        {
-          "keyword": "バーミンガム 対 ブラックバーン",
-          "score": 92
-        },
-        {
-          "keyword": "松下洸平",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-03T14:37:26.808Z",
       "geo": "JP",
       "source": "google",
@@ -4839,6 +4792,53 @@
         },
         {
           "keyword": "北大路 欣也",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-07T14:27:53.019Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "立川市",
+          "score": 100
+        },
+        {
+          "keyword": "ボーイング",
+          "score": 99
+        },
+        {
+          "keyword": "木浪聖也",
+          "score": 98
+        },
+        {
+          "keyword": "浅野忠信",
+          "score": 97
+        },
+        {
+          "keyword": "奥森皐月",
+          "score": 96
+        },
+        {
+          "keyword": "ガイアナ",
+          "score": 95
+        },
+        {
+          "keyword": "rr vs mi",
+          "score": 94
+        },
+        {
+          "keyword": "大和ハウス",
+          "score": 93
+        },
+        {
+          "keyword": "ポケモンチャンピオンズ 配信時間",
+          "score": 92
+        },
+        {
+          "keyword": "羽鳥慎一",
           "score": 91
         }
       ]
