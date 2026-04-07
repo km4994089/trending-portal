@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-03T21:54:52.640Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "地震速報 今",
-          "score": 100
-        },
-        {
-          "keyword": "地震 広島",
-          "score": 99
-        },
-        {
-          "keyword": "辺野古沖転覆事件",
-          "score": 98
-        },
-        {
-          "keyword": "天気",
-          "score": 97
-        },
-        {
-          "keyword": "ホルムズ海峡 通行料",
-          "score": 96
-        },
-        {
-          "keyword": "weather",
-          "score": 95
-        },
-        {
-          "keyword": "날씨",
-          "score": 94
-        },
-        {
-          "keyword": "宮世琉弥",
-          "score": 93
-        },
-        {
-          "keyword": "jr九州",
-          "score": 92
-        },
-        {
-          "keyword": "天気予報 横浜",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-04-03T22:22:46.371Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "インシデント",
-          "score": 100
-        },
-        {
-          "keyword": "赤木野々花",
-          "score": 99
-        },
-        {
-          "keyword": "武雄アジア大学",
-          "score": 98
-        },
-        {
-          "keyword": "神戸 天気",
-          "score": 97
-        },
-        {
-          "keyword": "岡山天気",
-          "score": 96
-        },
-        {
-          "keyword": "lpga",
-          "score": 95
-        },
-        {
-          "keyword": "広島 地震",
-          "score": 94
-        },
-        {
-          "keyword": "地震速報 今",
-          "score": 93
-        },
-        {
-          "keyword": "辺野古沖転覆事件",
-          "score": 92
-        },
-        {
-          "keyword": "奈良 天気",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-03T22:58:48.063Z",
       "geo": "JP",
       "source": "google",
@@ -4745,6 +4651,53 @@
         },
         {
           "keyword": "ntt",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-07T22:28:43.405Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "デーブ・ロバーツ",
+          "score": 100
+        },
+        {
+          "keyword": "天皇陛下",
+          "score": 99
+        },
+        {
+          "keyword": "イラン戦争",
+          "score": 98
+        },
+        {
+          "keyword": "製鉄所 事故",
+          "score": 97
+        },
+        {
+          "keyword": "bts ライブビューイング",
+          "score": 96
+        },
+        {
+          "keyword": "張本 智和",
+          "score": 95
+        },
+        {
+          "keyword": "櫻井翔",
+          "score": 94
+        },
+        {
+          "keyword": "堂本光一",
+          "score": 93
+        },
+        {
+          "keyword": "松木玖生",
+          "score": 92
+        },
+        {
+          "keyword": "東芝",
           "score": 91
         }
       ]
