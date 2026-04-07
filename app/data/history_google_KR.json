@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-03T09:00:01.957Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "삼성전자 채용",
-          "score": 100
-        },
-        {
-          "keyword": "박상용",
-          "score": 99
-        },
-        {
-          "keyword": "차주영",
-          "score": 98
-        },
-        {
-          "keyword": "윤경호",
-          "score": 97
-        },
-        {
-          "keyword": "끝장수사",
-          "score": 96
-        },
-        {
-          "keyword": "오중기",
-          "score": 95
-        },
-        {
-          "keyword": "우베",
-          "score": 94
-        },
-        {
-          "keyword": "nct",
-          "score": 93
-        },
-        {
-          "keyword": "f35 격추",
-          "score": 92
-        },
-        {
-          "keyword": "마크 탈퇴",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-04-03T09:55:24.467Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nc 대 kia",
-          "score": 100
-        },
-        {
-          "keyword": "한화 대 두산",
-          "score": 99
-        },
-        {
-          "keyword": "ssg 대 롯데",
-          "score": 98
-        },
-        {
-          "keyword": "삼성 대 kt",
-          "score": 97
-        },
-        {
-          "keyword": "lg 대 키움",
-          "score": 96
-        },
-        {
-          "keyword": "에포트",
-          "score": 95
-        },
-        {
-          "keyword": "삼성",
-          "score": 94
-        },
-        {
-          "keyword": "삼성전자 채용",
-          "score": 93
-        },
-        {
-          "keyword": "박상용",
-          "score": 92
-        },
-        {
-          "keyword": "차주영",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-03T10:34:05.848Z",
       "geo": "KR",
       "source": "google",
@@ -4886,6 +4792,53 @@
         },
         {
           "keyword": "핵무기",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-07T09:58:23.856Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김다예",
+          "score": 100
+        },
+        {
+          "keyword": "이스라엘",
+          "score": 99
+        },
+        {
+          "keyword": "삼성 대 kia",
+          "score": 98
+        },
+        {
+          "keyword": "한화 대 ssg",
+          "score": 97
+        },
+        {
+          "keyword": "kt 대 롯데",
+          "score": 96
+        },
+        {
+          "keyword": "lg 대 nc",
+          "score": 95
+        },
+        {
+          "keyword": "철쭉동산",
+          "score": 94
+        },
+        {
+          "keyword": "윤갑근",
+          "score": 93
+        },
+        {
+          "keyword": "배드민턴",
+          "score": 92
+        },
+        {
+          "keyword": "한국투자증권 채용",
           "score": 91
         }
       ]
