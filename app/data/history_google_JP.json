@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-03T01:43:31.900Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ジャイアンツ 対 メッツ",
-          "score": 100
-        },
-        {
-          "keyword": "不二家",
-          "score": 99
-        },
-        {
-          "keyword": "dバックス 対 ブレーブス",
-          "score": 98
-        },
-        {
-          "keyword": "リョーサン菱洋",
-          "score": 97
-        },
-        {
-          "keyword": "富山大学",
-          "score": 96
-        },
-        {
-          "keyword": "nas",
-          "score": 95
-        },
-        {
-          "keyword": "中沢元紀",
-          "score": 94
-        },
-        {
-          "keyword": "圏央道 渋滞",
-          "score": 93
-        },
-        {
-          "keyword": "工学院大学",
-          "score": 92
-        },
-        {
-          "keyword": "有働由美子",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-03T04:21:23.734Z",
       "geo": "JP",
       "source": "google",
@@ -4886,6 +4839,53 @@
         },
         {
           "keyword": "最後通牒",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-07T01:45:25.622Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ジャイアンツ 対 フィリーズ",
+          "score": 100
+        },
+        {
+          "keyword": "着陸",
+          "score": 99
+        },
+        {
+          "keyword": "明治大学",
+          "score": 98
+        },
+        {
+          "keyword": "東久留米",
+          "score": 97
+        },
+        {
+          "keyword": "バドミントン",
+          "score": 96
+        },
+        {
+          "keyword": "福士蒼汰",
+          "score": 95
+        },
+        {
+          "keyword": "reit",
+          "score": 94
+        },
+        {
+          "keyword": "ヤーレンズ",
+          "score": 93
+        },
+        {
+          "keyword": "全日本 空輸",
+          "score": 92
+        },
+        {
+          "keyword": "中道改革連合",
           "score": 91
         }
       ]
