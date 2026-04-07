@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-03T04:21:22.520Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "양조위",
-          "score": 100
-        },
-        {
-          "keyword": "4.3사건",
-          "score": 99
-        },
-        {
-          "keyword": "뱀",
-          "score": 98
-        },
-        {
-          "keyword": "오클라호마시티 대 la 레이커스",
-          "score": 97
-        },
-        {
-          "keyword": "테슬라 yl",
-          "score": 96
-        },
-        {
-          "keyword": "나이키",
-          "score": 95
-        },
-        {
-          "keyword": "미국 휴장",
-          "score": 94
-        },
-        {
-          "keyword": "대한광통신",
-          "score": 93
-        },
-        {
-          "keyword": "good friday",
-          "score": 92
-        },
-        {
-          "keyword": "gemma 4",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-03T05:54:56.916Z",
       "geo": "KR",
       "source": "google",
@@ -4886,6 +4839,53 @@
         },
         {
           "keyword": "오후 금 시세",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-07T04:24:56.538Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "라이언 와이스",
+          "score": 100
+        },
+        {
+          "keyword": "맘스터치",
+          "score": 99
+        },
+        {
+          "keyword": "영래 기",
+          "score": 98
+        },
+        {
+          "keyword": "벚꽃명소",
+          "score": 97
+        },
+        {
+          "keyword": "군위군",
+          "score": 96
+        },
+        {
+          "keyword": "레알 마드리드 cf",
+          "score": 95
+        },
+        {
+          "keyword": "강인",
+          "score": 94
+        },
+        {
+          "keyword": "fc 바르셀로나",
+          "score": 93
+        },
+        {
+          "keyword": "해병대",
+          "score": 92
+        },
+        {
+          "keyword": "노시환",
           "score": 91
         }
       ]
