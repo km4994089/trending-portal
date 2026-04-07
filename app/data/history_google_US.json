@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-03T16:28:30.130Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dodgers vs nationals",
-          "score": 100
-        },
-        {
-          "keyword": "cardinals vs tigers",
-          "score": 99
-        },
-        {
-          "keyword": "pegula",
-          "score": 98
-        },
-        {
-          "keyword": "seychelles",
-          "score": 97
-        },
-        {
-          "keyword": "samuel alito",
-          "score": 96
-        },
-        {
-          "keyword": "ao3 beta",
-          "score": 95
-        },
-        {
-          "keyword": "state of decay 3",
-          "score": 94
-        },
-        {
-          "keyword": "topps chrome football",
-          "score": 93
-        },
-        {
-          "keyword": "usf bomb threat",
-          "score": 92
-        },
-        {
-          "keyword": "al-ittihad vs al-hazem",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-03T17:03:07.488Z",
       "geo": "US",
       "source": "google",
@@ -4792,6 +4745,53 @@
         },
         {
           "keyword": "tom watson",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-07T16:45:24.554Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "msnbc",
+          "score": 100
+        },
+        {
+          "keyword": "npr",
+          "score": 99
+        },
+        {
+          "keyword": "pokemon champions release",
+          "score": 98
+        },
+        {
+          "keyword": "bbc",
+          "score": 97
+        },
+        {
+          "keyword": "impeachment",
+          "score": 96
+        },
+        {
+          "keyword": "dark money",
+          "score": 95
+        },
+        {
+          "keyword": "brian cox joins dexter resurrection",
+          "score": 94
+        },
+        {
+          "keyword": "ray stevens",
+          "score": 93
+        },
+        {
+          "keyword": "gambia",
+          "score": 92
+        },
+        {
+          "keyword": "daniel radcliffe",
           "score": 91
         }
       ]
