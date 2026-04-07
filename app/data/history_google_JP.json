@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-03T22:58:48.063Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "短歌",
-          "score": 100
-        },
-        {
-          "keyword": "岡山 天気",
-          "score": 99
-        },
-        {
-          "keyword": "崎陽軒",
-          "score": 98
-        },
-        {
-          "keyword": "暴風警報",
-          "score": 97
-        },
-        {
-          "keyword": "田原萌々",
-          "score": 96
-        },
-        {
-          "keyword": "福岡 天気",
-          "score": 95
-        },
-        {
-          "keyword": "パーキンソン病",
-          "score": 94
-        },
-        {
-          "keyword": "徳島 天気",
-          "score": 93
-        },
-        {
-          "keyword": "長崎市天気",
-          "score": 92
-        },
-        {
-          "keyword": "スーパーフォーミュラ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-03T23:33:37.841Z",
       "geo": "JP",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "東芝",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-07T23:06:13.770Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ウィザーズ 対 ブルズ",
+          "score": 100
+        },
+        {
+          "keyword": "東武スカイツリーライン",
+          "score": 99
+        },
+        {
+          "keyword": "tobe",
+          "score": 98
+        },
+        {
+          "keyword": "jx金属 株価",
+          "score": 97
+        },
+        {
+          "keyword": "マスク",
+          "score": 96
+        },
+        {
+          "keyword": "移動捜査課 捜査本部の場所は?",
+          "score": 95
+        },
+        {
+          "keyword": "シソンヌ",
+          "score": 94
+        },
+        {
+          "keyword": "ディーンフジオカ",
+          "score": 93
+        },
+        {
+          "keyword": "マーリンズ 対 レッズ",
+          "score": 92
+        },
+        {
+          "keyword": "エル・デスペラード",
           "score": 91
         }
       ]

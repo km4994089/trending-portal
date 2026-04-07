@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-03T22:58:46.528Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "天氣",
-          "score": 100
-        },
-        {
-          "keyword": "날씨",
-          "score": 99
-        },
-        {
-          "keyword": "weather",
-          "score": 98
-        },
-        {
-          "keyword": "psg vs toulouse",
-          "score": 97
-        },
-        {
-          "keyword": "부산날씨",
-          "score": 96
-        },
-        {
-          "keyword": "코너 그리핀",
-          "score": 95
-        },
-        {
-          "keyword": "대전날씨",
-          "score": 94
-        },
-        {
-          "keyword": "al-nassr vs al-najma",
-          "score": 93
-        },
-        {
-          "keyword": "이강인",
-          "score": 92
-        },
-        {
-          "keyword": "오타니 쇼헤이",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-03T23:33:36.456Z",
       "geo": "KR",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "전원주",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-07T23:06:12.639Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "보조금",
+          "score": 100
+        },
+        {
+          "keyword": "부산광역시",
+          "score": 99
+        },
+        {
+          "keyword": "파키스탄",
+          "score": 98
+        },
+        {
+          "keyword": "ionq",
+          "score": 97
+        },
+        {
+          "keyword": "달의 뒷면",
+          "score": 96
+        },
+        {
+          "keyword": "한국프로농구",
+          "score": 95
+        },
+        {
+          "keyword": "임신",
+          "score": 94
+        },
+        {
+          "keyword": "jepi",
+          "score": 93
+        },
+        {
+          "keyword": "tsla",
+          "score": 92
+        },
+        {
+          "keyword": "영화",
           "score": 91
         }
       ]
