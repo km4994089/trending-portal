@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-03T23:33:37.841Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "秩父",
-          "score": 100
-        },
-        {
-          "keyword": "津田健次郎",
-          "score": 99
-        },
-        {
-          "keyword": "テレビ朝日",
-          "score": 98
-        },
-        {
-          "keyword": "風薫る",
-          "score": 97
-        },
-        {
-          "keyword": "池田エライザ",
-          "score": 96
-        },
-        {
-          "keyword": "鳴門大橋通行止め",
-          "score": 95
-        },
-        {
-          "keyword": "津田寛治",
-          "score": 94
-        },
-        {
-          "keyword": "ツインズ 対 レイズ",
-          "score": 93
-        },
-        {
-          "keyword": "芳根京子",
-          "score": 92
-        },
-        {
-          "keyword": "evモーターズ・ジャパン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-04T01:15:19.927Z",
       "geo": "JP",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "エル・デスペラード",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-07T23:58:52.051Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "スタバ",
+          "score": 100
+        },
+        {
+          "keyword": "広末涼子",
+          "score": 99
+        },
+        {
+          "keyword": "ヒャダイン",
+          "score": 98
+        },
+        {
+          "keyword": "原油チャート",
+          "score": 97
+        },
+        {
+          "keyword": "マネックス",
+          "score": 96
+        },
+        {
+          "keyword": "オクニョ",
+          "score": 95
+        },
+        {
+          "keyword": "リコー",
+          "score": 94
+        },
+        {
+          "keyword": "トロント",
+          "score": 93
+        },
+        {
+          "keyword": "原油価格",
+          "score": 92
+        },
+        {
+          "keyword": "わたなべ麻衣",
           "score": 91
         }
       ]
