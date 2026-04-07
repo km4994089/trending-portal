@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-03T06:57:30.438Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "g7",
-          "score": 100
-        },
-        {
-          "keyword": "f-35",
-          "score": 99
-        },
-        {
-          "keyword": "f35",
-          "score": 98
-        },
-        {
-          "keyword": "정동원",
-          "score": 97
-        },
-        {
-          "keyword": "엘지트윈스",
-          "score": 96
-        },
-        {
-          "keyword": "사냥개들2 공개시간",
-          "score": 95
-        },
-        {
-          "keyword": "롯데자이언츠",
-          "score": 94
-        },
-        {
-          "keyword": "모즈타바 하메네이",
-          "score": 93
-        },
-        {
-          "keyword": "하메네이",
-          "score": 92
-        },
-        {
-          "keyword": "양조위",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-03T08:00:18.893Z",
       "geo": "KR",
       "source": "google",
@@ -4886,6 +4839,53 @@
         },
         {
           "keyword": "lg",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-07T07:53:39.586Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mlb",
+          "score": 100
+        },
+        {
+          "keyword": "부천시",
+          "score": 99
+        },
+        {
+          "keyword": "정청래",
+          "score": 98
+        },
+        {
+          "keyword": "넬리 코다",
+          "score": 97
+        },
+        {
+          "keyword": "아이티켐",
+          "score": 96
+        },
+        {
+          "keyword": "악뮤",
+          "score": 95
+        },
+        {
+          "keyword": "공무원",
+          "score": 94
+        },
+        {
+          "keyword": "저축",
+          "score": 93
+        },
+        {
+          "keyword": "한화그룹",
+          "score": 92
+        },
+        {
+          "keyword": "투수",
           "score": 91
         }
       ]
