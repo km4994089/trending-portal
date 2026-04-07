@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-03T20:25:04.278Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "f-15e",
-          "score": 100
-        },
-        {
-          "keyword": "アレックス・フリーランド",
-          "score": 99
-        },
-        {
-          "keyword": "フレディ・フリーマン",
-          "score": 98
-        },
-        {
-          "keyword": "アーロン・ジャッジ",
-          "score": 97
-        },
-        {
-          "keyword": "al-nassr vs al-najma",
-          "score": 96
-        },
-        {
-          "keyword": "テオスカー・ヘルナンデス",
-          "score": 95
-        },
-        {
-          "keyword": "ロサンゼルス・ドジャース",
-          "score": 94
-        },
-        {
-          "keyword": "ムーキー・ベッツ",
-          "score": 93
-        },
-        {
-          "keyword": "ヤンキース",
-          "score": 92
-        },
-        {
-          "keyword": "エメット・シーハン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-03T21:00:30.096Z",
       "geo": "JP",
       "source": "google",
@@ -4745,6 +4698,53 @@
         },
         {
           "keyword": "real madrid vs bayern",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-07T20:36:03.229Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "高石あかり",
+          "score": 100
+        },
+        {
+          "keyword": "あいみょん 始球式",
+          "score": 99
+        },
+        {
+          "keyword": "柏市",
+          "score": 98
+        },
+        {
+          "keyword": "real madrid đấu với bayern",
+          "score": 97
+        },
+        {
+          "keyword": "有吉弘行",
+          "score": 96
+        },
+        {
+          "keyword": "大森元貴",
+          "score": 95
+        },
+        {
+          "keyword": "ブルームバーグ",
+          "score": 94
+        },
+        {
+          "keyword": "メッツ 対 dバックス",
+          "score": 93
+        },
+        {
+          "keyword": "五木寛之",
+          "score": 92
+        },
+        {
+          "keyword": "sporting vs arsenal",
           "score": 91
         }
       ]
