@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-03T05:54:55.523Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "apple iphone 17 pro max",
-          "score": 100
-        },
-        {
-          "keyword": "silver alert",
-          "score": 99
-        },
-        {
-          "keyword": "kawhi leonard",
-          "score": 98
-        },
-        {
-          "keyword": "sheetz",
-          "score": 97
-        },
-        {
-          "keyword": "la kings",
-          "score": 96
-        },
-        {
-          "keyword": "dylan harper",
-          "score": 95
-        },
-        {
-          "keyword": "jenna ortega",
-          "score": 94
-        },
-        {
-          "keyword": "modi comedian",
-          "score": 93
-        },
-        {
-          "keyword": "luke kornet",
-          "score": 92
-        },
-        {
-          "keyword": "western conference standings",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-03T06:57:28.882Z",
       "geo": "US",
       "source": "google",
@@ -4886,6 +4839,53 @@
         },
         {
           "keyword": "nuggets schedule",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-07T06:01:01.184Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kate jackson",
+          "score": 100
+        },
+        {
+          "keyword": "powerball winner",
+          "score": 99
+        },
+        {
+          "keyword": "eva longoria",
+          "score": 98
+        },
+        {
+          "keyword": "jackie chan",
+          "score": 97
+        },
+        {
+          "keyword": "sabic",
+          "score": 96
+        },
+        {
+          "keyword": "trump oil prices",
+          "score": 95
+        },
+        {
+          "keyword": "jordan chiles",
+          "score": 94
+        },
+        {
+          "keyword": "giants game today",
+          "score": 93
+        },
+        {
+          "keyword": "twice",
+          "score": 92
+        },
+        {
+          "keyword": "the middle",
           "score": 91
         }
       ]
