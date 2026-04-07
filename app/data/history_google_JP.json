@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-03T11:31:17.984Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ピコ太郎",
-          "score": 100
-        },
-        {
-          "keyword": "ヤクルト",
-          "score": 99
-        },
-        {
-          "keyword": "ジミン",
-          "score": 98
-        },
-        {
-          "keyword": "v bts",
-          "score": 97
-        },
-        {
-          "keyword": "山之内すず",
-          "score": 96
-        },
-        {
-          "keyword": "iea",
-          "score": 95
-        },
-        {
-          "keyword": "岡田彰布",
-          "score": 94
-        },
-        {
-          "keyword": "tokyo dream park",
-          "score": 93
-        },
-        {
-          "keyword": "bts",
-          "score": 92
-        },
-        {
-          "keyword": "bts メンバー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-03T12:39:18.486Z",
       "geo": "JP",
       "source": "google",
@@ -4839,6 +4792,53 @@
         },
         {
           "keyword": "訴訟",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-07T11:44:58.299Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "細川たかし",
+          "score": 100
+        },
+        {
+          "keyword": "レインボー ジャンボ",
+          "score": 99
+        },
+        {
+          "keyword": "しまむら",
+          "score": 98
+        },
+        {
+          "keyword": "京口紘人",
+          "score": 97
+        },
+        {
+          "keyword": "レインボー",
+          "score": 96
+        },
+        {
+          "keyword": "京口",
+          "score": 95
+        },
+        {
+          "keyword": "ジェット風船",
+          "score": 94
+        },
+        {
+          "keyword": "中村奨成",
+          "score": 93
+        },
+        {
+          "keyword": "witch hat atelier",
+          "score": 92
+        },
+        {
+          "keyword": "永瀬拓矢",
           "score": 91
         }
       ]
