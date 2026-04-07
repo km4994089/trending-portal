@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-03T19:31:59.980Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "アーロン・ジャッジ",
-          "score": 100
-        },
-        {
-          "keyword": "テオスカー・ヘルナンデス",
-          "score": 99
-        },
-        {
-          "keyword": "カイル・タッカー",
-          "score": 98
-        },
-        {
-          "keyword": "ドジャース",
-          "score": 97
-        },
-        {
-          "keyword": "ムーキー・ベッツ",
-          "score": 96
-        },
-        {
-          "keyword": "ヤンキース",
-          "score": 95
-        },
-        {
-          "keyword": "エメット・シーハン",
-          "score": 94
-        },
-        {
-          "keyword": "パリsg 対 トゥールーズ",
-          "score": 93
-        },
-        {
-          "keyword": "大谷翔平",
-          "score": 92
-        },
-        {
-          "keyword": "バイオハザード",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-03T20:25:04.278Z",
       "geo": "JP",
       "source": "google",
@@ -4745,6 +4698,53 @@
         },
         {
           "keyword": "山口一郎",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-07T19:50:25.913Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sporting vs arsenal",
+          "score": 100
+        },
+        {
+          "keyword": "吉野家",
+          "score": 99
+        },
+        {
+          "keyword": "皇室",
+          "score": 98
+        },
+        {
+          "keyword": "演技",
+          "score": 97
+        },
+        {
+          "keyword": "鎌倉パスタ パン食べ放題",
+          "score": 96
+        },
+        {
+          "keyword": "相撲",
+          "score": 95
+        },
+        {
+          "keyword": "abema",
+          "score": 94
+        },
+        {
+          "keyword": "ワークマン",
+          "score": 93
+        },
+        {
+          "keyword": "マスターズ 2026",
+          "score": 92
+        },
+        {
+          "keyword": "real madrid vs bayern",
           "score": 91
         }
       ]
