@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-04T08:30:30.274Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "alaska airline",
-          "score": 100
-        },
-        {
-          "keyword": "pick 3",
-          "score": 99
-        },
-        {
-          "keyword": "cloud",
-          "score": 98
-        },
-        {
-          "keyword": "polar vortex collapse forecast",
-          "score": 97
-        },
-        {
-          "keyword": "lck",
-          "score": 96
-        },
-        {
-          "keyword": "lol",
-          "score": 95
-        },
-        {
-          "keyword": "best picture oscar winners",
-          "score": 94
-        },
-        {
-          "keyword": "quentin tarantino",
-          "score": 93
-        },
-        {
-          "keyword": "oregon",
-          "score": 92
-        },
-        {
-          "keyword": "seattle",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-04T09:07:24.831Z",
       "geo": "US",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "jabari smith jr.",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-08T08:54:08.909Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cryptocurrency trading",
+          "score": 100
+        },
+        {
+          "keyword": "nfl schedule this week",
+          "score": 99
+        },
+        {
+          "keyword": "star",
+          "score": 98
+        },
+        {
+          "keyword": "decentralized finance",
+          "score": 97
+        },
+        {
+          "keyword": "auto accident lawyer",
+          "score": 96
+        },
+        {
+          "keyword": "netflix top movies right now",
+          "score": 95
+        },
+        {
+          "keyword": "tennis scores today",
+          "score": 94
+        },
+        {
+          "keyword": "11",
+          "score": 93
+        },
+        {
+          "keyword": "alaskaair",
+          "score": 92
+        },
+        {
+          "keyword": "lee pace",
           "score": 91
         }
       ]

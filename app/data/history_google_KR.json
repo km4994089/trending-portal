@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-04T08:30:31.470Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "아이린",
-          "score": 100
-        },
-        {
-          "keyword": "이용찬",
-          "score": 99
-        },
-        {
-          "keyword": "하주석",
-          "score": 98
-        },
-        {
-          "keyword": "강원 대 광주",
-          "score": 97
-        },
-        {
-          "keyword": "포항 대 대전",
-          "score": 96
-        },
-        {
-          "keyword": "양의지",
-          "score": 95
-        },
-        {
-          "keyword": "김재중",
-          "score": 94
-        },
-        {
-          "keyword": "왕옌청",
-          "score": 93
-        },
-        {
-          "keyword": "안양 정관장 대 울산 현대모비스",
-          "score": 92
-        },
-        {
-          "keyword": "서울e 대 수원fc",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-04T09:07:25.924Z",
       "geo": "KR",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "이수지",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-08T08:54:10.012Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "한국항공우주산업",
+          "score": 100
+        },
+        {
+          "keyword": "조재복",
+          "score": 99
+        },
+        {
+          "keyword": "한진",
+          "score": 98
+        },
+        {
+          "keyword": "김혜경",
+          "score": 97
+        },
+        {
+          "keyword": "코스피",
+          "score": 96
+        },
+        {
+          "keyword": "한화 이글스",
+          "score": 95
+        },
+        {
+          "keyword": "쓰레기 봉투",
+          "score": 94
+        },
+        {
+          "keyword": "000660",
+          "score": 93
+        },
+        {
+          "keyword": "닛케이 평균주가",
+          "score": 92
+        },
+        {
+          "keyword": "폴더블 스마트폰",
           "score": 91
         }
       ]
