@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-04T11:21:44.417Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "fa cup schedule",
-          "score": 100
-        },
-        {
-          "keyword": "ny mets",
-          "score": 99
-        },
-        {
-          "keyword": "botic van de zandschulp",
-          "score": 98
-        },
-        {
-          "keyword": "weather new york",
-          "score": 97
-        },
-        {
-          "keyword": "atlanta braves",
-          "score": 96
-        },
-        {
-          "keyword": "날씨",
-          "score": 95
-        },
-        {
-          "keyword": "npr news",
-          "score": 94
-        },
-        {
-          "keyword": "criminal attorney",
-          "score": 93
-        },
-        {
-          "keyword": "boot",
-          "score": 92
-        },
-        {
-          "keyword": "bbc world news",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-04T11:50:16.245Z",
       "geo": "US",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "new",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-08T11:48:14.634Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "interstate 80",
+          "score": 100
+        },
+        {
+          "keyword": "masters tee times",
+          "score": 99
+        },
+        {
+          "keyword": "trump student loan repayment plan",
+          "score": 98
+        },
+        {
+          "keyword": "joao fonseca",
+          "score": 97
+        },
+        {
+          "keyword": "joel kinnaman",
+          "score": 96
+        },
+        {
+          "keyword": "dal stock",
+          "score": 95
+        },
+        {
+          "keyword": "tesla stock price",
+          "score": 94
+        },
+        {
+          "keyword": "college student",
+          "score": 93
+        },
+        {
+          "keyword": "nvda stock price",
+          "score": 92
+        },
+        {
+          "keyword": "msft stock",
           "score": 91
         }
       ]
