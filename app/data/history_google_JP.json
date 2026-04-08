@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-04T03:45:13.019Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "竜巻注意情報",
-          "score": 100
-        },
-        {
-          "keyword": "ナダル",
-          "score": 99
-        },
-        {
-          "keyword": "クーパー・フラッグ",
-          "score": 98
-        },
-        {
-          "keyword": "古坂大魔王",
-          "score": 97
-        },
-        {
-          "keyword": "帝京大学",
-          "score": 96
-        },
-        {
-          "keyword": "鯖江市",
-          "score": 95
-        },
-        {
-          "keyword": "ファーストサマーウイカ",
-          "score": 94
-        },
-        {
-          "keyword": "浜崎あゆみ",
-          "score": 93
-        },
-        {
-          "keyword": "豊田スタジアム",
-          "score": 92
-        },
-        {
-          "keyword": "chrome ゼロデイ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-04T05:17:29.385Z",
       "geo": "JP",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "ロフト",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-08T04:58:56.317Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "北 朝鮮 ミサイル",
+          "score": 100
+        },
+        {
+          "keyword": "商品券",
+          "score": 99
+        },
+        {
+          "keyword": "椎名林檎",
+          "score": 98
+        },
+        {
+          "keyword": "tod",
+          "score": 97
+        },
+        {
+          "keyword": "乱闘",
+          "score": 96
+        },
+        {
+          "keyword": "貨物",
+          "score": 95
+        },
+        {
+          "keyword": "シェイ・ギルジャス=アレクサンダー",
+          "score": 94
+        },
+        {
+          "keyword": "vcj",
+          "score": 93
+        },
+        {
+          "keyword": "野村証券",
+          "score": 92
+        },
+        {
+          "keyword": "サンズ 対 ロケッツ",
           "score": 91
         }
       ]
