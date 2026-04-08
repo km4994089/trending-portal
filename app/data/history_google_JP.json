@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-04T09:07:27.270Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "プロ野球 今日",
-          "score": 100
-        },
-        {
-          "keyword": "埼玉りそな銀行",
-          "score": 99
-        },
-        {
-          "keyword": "algs",
-          "score": 98
-        },
-        {
-          "keyword": "根尾昂",
-          "score": 97
-        },
-        {
-          "keyword": "りそな銀行",
-          "score": 96
-        },
-        {
-          "keyword": "日ハム 試合",
-          "score": 95
-        },
-        {
-          "keyword": "km",
-          "score": 94
-        },
-        {
-          "keyword": "wリーグ",
-          "score": 93
-        },
-        {
-          "keyword": "ソフトバンク 今日の試合",
-          "score": 92
-        },
-        {
-          "keyword": "筒香",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-04T09:59:23.407Z",
       "geo": "JP",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "稲垣 吾郎",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-08T09:59:06.665Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ヤクルト 監督",
+          "score": 100
+        },
+        {
+          "keyword": "タコス",
+          "score": 99
+        },
+        {
+          "keyword": "徹子の部屋",
+          "score": 98
+        },
+        {
+          "keyword": "景気",
+          "score": 97
+        },
+        {
+          "keyword": "名探偵プリキュア!",
+          "score": 96
+        },
+        {
+          "keyword": "乳がん",
+          "score": 95
+        },
+        {
+          "keyword": "pta",
+          "score": 94
+        },
+        {
+          "keyword": "エマニュエル トッド",
+          "score": 93
+        },
+        {
+          "keyword": "サンリオキャラクター大賞",
+          "score": 92
+        },
+        {
+          "keyword": "健康保険",
           "score": 91
         }
       ]
