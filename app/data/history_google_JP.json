@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-04T18:27:30.885Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "アトレティコ 対 バルセロナ",
-          "score": 100
-        },
-        {
-          "keyword": "サウサンプトン 対 アーセナル",
-          "score": 99
-        },
-        {
-          "keyword": "ロイヤルズ 対 ブルワーズ",
-          "score": 98
-        },
-        {
-          "keyword": "サブノーティカ",
-          "score": 97
-        },
-        {
-          "keyword": "シュトゥットガルト 対 ドルトムント",
-          "score": 96
-        },
-        {
-          "keyword": "八丈島",
-          "score": 95
-        },
-        {
-          "keyword": "鈴木このみ",
-          "score": 94
-        },
-        {
-          "keyword": "セーラームーン",
-          "score": 93
-        },
-        {
-          "keyword": "セザンヌ",
-          "score": 92
-        },
-        {
-          "keyword": "ドン・キホーテ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-04T19:07:28.004Z",
       "geo": "JP",
       "source": "google",
@@ -4322,6 +4275,53 @@
         },
         {
           "keyword": "河北新報",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-08T19:02:20.621Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "wowow",
+          "score": 100
+        },
+        {
+          "keyword": "barcelona vs atlético madrid",
+          "score": 99
+        },
+        {
+          "keyword": "ローソン",
+          "score": 98
+        },
+        {
+          "keyword": "パリsg 対 リヴァプール",
+          "score": 97
+        },
+        {
+          "keyword": "バルセロナ 対 アトレティコ",
+          "score": 96
+        },
+        {
+          "keyword": "吉野家",
+          "score": 95
+        },
+        {
+          "keyword": "藤井風",
+          "score": 94
+        },
+        {
+          "keyword": "天気天気",
+          "score": 93
+        },
+        {
+          "keyword": "フワちゃん",
+          "score": 92
+        },
+        {
+          "keyword": "皇位継承",
           "score": 91
         }
       ]
