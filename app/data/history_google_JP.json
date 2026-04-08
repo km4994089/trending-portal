@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-04T05:17:29.385Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大宮 対 岐阜",
-          "score": 100
-        },
-        {
-          "keyword": "藤枝 対 長野",
-          "score": 99
-        },
-        {
-          "keyword": "柳田悠岐",
-          "score": 98
-        },
-        {
-          "keyword": "90メートル",
-          "score": 97
-        },
-        {
-          "keyword": "nttドコモ",
-          "score": 96
-        },
-        {
-          "keyword": "湘南 対 栃木",
-          "score": 95
-        },
-        {
-          "keyword": "口蹄疫",
-          "score": 94
-        },
-        {
-          "keyword": "今日のプロ野球",
-          "score": 93
-        },
-        {
-          "keyword": "尾畠春夫",
-          "score": 92
-        },
-        {
-          "keyword": "フィットネス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-04T06:34:25.453Z",
       "geo": "JP",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "サンズ 対 ロケッツ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-08T06:20:59.117Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "えんとつ町のプペル",
+          "score": 100
+        },
+        {
+          "keyword": "中国時代劇",
+          "score": 99
+        },
+        {
+          "keyword": "iphone 折りたたみ",
+          "score": 98
+        },
+        {
+          "keyword": "富山大学",
+          "score": 97
+        },
+        {
+          "keyword": "日本郵船",
+          "score": 96
+        },
+        {
+          "keyword": "ワンピース",
+          "score": 95
+        },
+        {
+          "keyword": "東北新幹線",
+          "score": 94
+        },
+        {
+          "keyword": "渋野日向子",
+          "score": 93
+        },
+        {
+          "keyword": "クォン・サンウ",
+          "score": 92
+        },
+        {
+          "keyword": "マルク カサド",
           "score": 91
         }
       ]

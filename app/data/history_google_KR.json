@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-04T05:17:27.981Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "전북 대 울산",
-          "score": 100
-        },
-        {
-          "keyword": "이상이",
-          "score": 99
-        },
-        {
-          "keyword": "잭 쿠싱",
-          "score": 98
-        },
-        {
-          "keyword": "주지훈",
-          "score": 97
-        },
-        {
-          "keyword": "변우석",
-          "score": 96
-        },
-        {
-          "keyword": "공단기",
-          "score": 95
-        },
-        {
-          "keyword": "天気",
-          "score": 94
-        },
-        {
-          "keyword": "天氣",
-          "score": 93
-        },
-        {
-          "keyword": "날씨",
-          "score": 92
-        },
-        {
-          "keyword": "weather",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-04T06:34:24.308Z",
       "geo": "KR",
       "source": "google",
@@ -4698,6 +4651,53 @@
         },
         {
           "keyword": "방신실",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-08T06:20:57.630Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "아들",
+          "score": 100
+        },
+        {
+          "keyword": "파업",
+          "score": 99
+        },
+        {
+          "keyword": "스코티 셰플러",
+          "score": 98
+        },
+        {
+          "keyword": "주호영",
+          "score": 97
+        },
+        {
+          "keyword": "인수 합병",
+          "score": 96
+        },
+        {
+          "keyword": "축구 감독",
+          "score": 95
+        },
+        {
+          "keyword": "실업",
+          "score": 94
+        },
+        {
+          "keyword": "오은영 리포트 - 결혼지옥",
+          "score": 93
+        },
+        {
+          "keyword": "휘발유",
+          "score": 92
+        },
+        {
+          "keyword": "이정후",
           "score": 91
         }
       ]
