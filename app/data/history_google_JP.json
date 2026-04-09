@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-05T20:21:24.868Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mlb",
-          "score": 100
-        },
-        {
-          "keyword": "イラン",
-          "score": 99
-        },
-        {
-          "keyword": "シャトレーゼ",
-          "score": 98
-        },
-        {
-          "keyword": "mlb 結果",
-          "score": 97
-        },
-        {
-          "keyword": "フォスター・グリフィン",
-          "score": 96
-        },
-        {
-          "keyword": "佐藤弘道",
-          "score": 95
-        },
-        {
-          "keyword": "佐々木朗希",
-          "score": 94
-        },
-        {
-          "keyword": "モナコ 対 マルセイユ",
-          "score": 93
-        },
-        {
-          "keyword": "ローソン",
-          "score": 92
-        },
-        {
-          "keyword": "ドジャース 試合日程",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-05T20:55:32.905Z",
       "geo": "JP",
       "source": "google",
@@ -3711,6 +3664,53 @@
         },
         {
           "keyword": "熊本天気",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-09T20:45:15.257Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "青山 剛昌",
+          "score": 100
+        },
+        {
+          "keyword": "ワークマン",
+          "score": 99
+        },
+        {
+          "keyword": "jr西日本",
+          "score": 98
+        },
+        {
+          "keyword": "天気図",
+          "score": 97
+        },
+        {
+          "keyword": "税額控除",
+          "score": 96
+        },
+        {
+          "keyword": "jr九州",
+          "score": 95
+        },
+        {
+          "keyword": "トレイ キャベッジ",
+          "score": 94
+        },
+        {
+          "keyword": "sbi証券",
+          "score": 93
+        },
+        {
+          "keyword": "知事",
+          "score": 92
+        },
+        {
+          "keyword": "ボローニャ 対 アストン・ビラ",
           "score": 91
         }
       ]
