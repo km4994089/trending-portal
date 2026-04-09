@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-05T19:09:59.392Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "twitch",
-          "score": 100
-        },
-        {
-          "keyword": "panthers vs penguins",
-          "score": 99
-        },
-        {
-          "keyword": "jack leiter",
-          "score": 98
-        },
-        {
-          "keyword": "suns vs bulls",
-          "score": 97
-        },
-        {
-          "keyword": "grizzlies vs bucks",
-          "score": 96
-        },
-        {
-          "keyword": "wizards vs nets",
-          "score": 95
-        },
-        {
-          "keyword": "kyle harrison",
-          "score": 94
-        },
-        {
-          "keyword": "jose ramirez",
-          "score": 93
-        },
-        {
-          "keyword": "wilyer abreu",
-          "score": 92
-        },
-        {
-          "keyword": "charles bassey",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-04-05T19:53:32.554Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nhl standings",
-          "score": 100
-        },
-        {
-          "keyword": "holly rowe",
-          "score": 99
-        },
-        {
-          "keyword": "kiki rice",
-          "score": 98
-        },
-        {
-          "keyword": "gabriela jaquez",
-          "score": 97
-        },
-        {
-          "keyword": "flamengo vs santos",
-          "score": 96
-        },
-        {
-          "keyword": "joyce edwards",
-          "score": 95
-        },
-        {
-          "keyword": "wnba mock draft 2026",
-          "score": 94
-        },
-        {
-          "keyword": "bruins schedule",
-          "score": 93
-        },
-        {
-          "keyword": "madina okot",
-          "score": 92
-        },
-        {
-          "keyword": "alex bregman",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-05T20:21:22.187Z",
       "geo": "US",
       "source": "google",
@@ -3758,6 +3664,53 @@
         },
         {
           "keyword": "sc freiburg vs celta vigo",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-09T19:57:52.014Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jp estrella",
+          "score": 100
+        },
+        {
+          "keyword": "joel embiid",
+          "score": 99
+        },
+        {
+          "keyword": "aipac",
+          "score": 98
+        },
+        {
+          "keyword": "the dodo",
+          "score": 97
+        },
+        {
+          "keyword": "todd blanche acting ag memos",
+          "score": 96
+        },
+        {
+          "keyword": "tia mowry",
+          "score": 95
+        },
+        {
+          "keyword": "fc porto",
+          "score": 94
+        },
+        {
+          "keyword": "adam scott",
+          "score": 93
+        },
+        {
+          "keyword": "neymar",
+          "score": 92
+        },
+        {
+          "keyword": "james carville",
           "score": 91
         }
       ]
