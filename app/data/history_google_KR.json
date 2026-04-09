@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-05T12:34:24.525Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "음식",
-          "score": 100
-        },
-        {
-          "keyword": "투자",
-          "score": 99
-        },
-        {
-          "keyword": "나는 solo",
-          "score": 98
-        },
-        {
-          "keyword": "어묵",
-          "score": 97
-        },
-        {
-          "keyword": "골프",
-          "score": 96
-        },
-        {
-          "keyword": "기아 ev3",
-          "score": 95
-        },
-        {
-          "keyword": "자영업",
-          "score": 94
-        },
-        {
-          "keyword": "근육",
-          "score": 93
-        },
-        {
-          "keyword": "손태영",
-          "score": 92
-        },
-        {
-          "keyword": "이정재",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-05T13:46:46.686Z",
       "geo": "KR",
       "source": "google",
@@ -3946,6 +3899,53 @@
         },
         {
           "keyword": "정원오",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-09T12:59:04.142Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "호프",
+          "score": 100
+        },
+        {
+          "keyword": "한동희",
+          "score": 99
+        },
+        {
+          "keyword": "농협",
+          "score": 98
+        },
+        {
+          "keyword": "공군사관학교",
+          "score": 97
+        },
+        {
+          "keyword": "연예인",
+          "score": 96
+        },
+        {
+          "keyword": "클로버게임즈",
+          "score": 95
+        },
+        {
+          "keyword": "진 양곤",
+          "score": 94
+        },
+        {
+          "keyword": "러시아",
+          "score": 93
+        },
+        {
+          "keyword": "한국은행 기준금리",
+          "score": 92
+        },
+        {
+          "keyword": "이재훈",
           "score": 91
         }
       ]
