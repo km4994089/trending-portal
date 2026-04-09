@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-05T01:24:50.287Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "민호",
-          "score": 100
-        },
-        {
-          "keyword": "happy easter",
-          "score": 99
-        },
-        {
-          "keyword": "마라톤",
-          "score": 98
-        },
-        {
-          "keyword": "불교박람회 2026",
-          "score": 97
-        },
-        {
-          "keyword": "인터 마이애미 대 오스틴",
-          "score": 96
-        },
-        {
-          "keyword": "부활",
-          "score": 95
-        },
-        {
-          "keyword": "天氣",
-          "score": 94
-        },
-        {
-          "keyword": "easter",
-          "score": 93
-        },
-        {
-          "keyword": "mlb",
-          "score": 92
-        },
-        {
-          "keyword": "민생회복지원금",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-05T04:14:01.337Z",
       "geo": "KR",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "mu",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-09T01:26:36.410Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "영재 발굴단",
+          "score": 100
+        },
+        {
+          "keyword": "김남국",
+          "score": 99
+        },
+        {
+          "keyword": "배달",
+          "score": 98
+        },
+        {
+          "keyword": "옥순이",
+          "score": 97
+        },
+        {
+          "keyword": "택배기사",
+          "score": 96
+        },
+        {
+          "keyword": "pokémon go",
+          "score": 95
+        },
+        {
+          "keyword": "타이거스 대 트윈스",
+          "score": 94
+        },
+        {
+          "keyword": "머니투데이",
+          "score": 93
+        },
+        {
+          "keyword": "기아 ev3",
+          "score": 92
+        },
+        {
+          "keyword": "상장지수 펀드",
           "score": 91
         }
       ]
