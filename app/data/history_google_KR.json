@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-06T06:24:59.549Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김경문",
-          "score": 100
-        },
-        {
-          "keyword": "5월 1일",
-          "score": 99
-        },
-        {
-          "keyword": "대구 우박",
-          "score": 98
-        },
-        {
-          "keyword": "농업",
-          "score": 97
-        },
-        {
-          "keyword": "코레일",
-          "score": 96
-        },
-        {
-          "keyword": "별자리",
-          "score": 95
-        },
-        {
-          "keyword": "arirang",
-          "score": 94
-        },
-        {
-          "keyword": "엘지트윈스",
-          "score": 93
-        },
-        {
-          "keyword": "미래에셋",
-          "score": 92
-        },
-        {
-          "keyword": "관광",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-06T08:07:59.293Z",
       "geo": "KR",
       "source": "google",
@@ -3570,6 +3523,53 @@
         },
         {
           "keyword": "강기정",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-10T08:04:20.142Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "공천",
+          "score": 100
+        },
+        {
+          "keyword": "개",
+          "score": 99
+        },
+        {
+          "keyword": "루닛",
+          "score": 98
+        },
+        {
+          "keyword": "돈",
+          "score": 97
+        },
+        {
+          "keyword": "차상현",
+          "score": 96
+        },
+        {
+          "keyword": "해트트릭",
+          "score": 95
+        },
+        {
+          "keyword": "김풍",
+          "score": 94
+        },
+        {
+          "keyword": "윤여정",
+          "score": 93
+        },
+        {
+          "keyword": "한혜진",
+          "score": 92
+        },
+        {
+          "keyword": "전주시",
           "score": 91
         }
       ]

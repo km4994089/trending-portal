@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-06T06:25:00.809Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "辺野古沖転覆事件",
-          "score": 100
-        },
-        {
-          "keyword": "g1 climax",
-          "score": 99
-        },
-        {
-          "keyword": "ホンダ・シビック",
-          "score": 98
-        },
-        {
-          "keyword": "那須川天心",
-          "score": 97
-        },
-        {
-          "keyword": "arirang",
-          "score": 96
-        },
-        {
-          "keyword": "みずほ台駅",
-          "score": 95
-        },
-        {
-          "keyword": "羽田アクセス線",
-          "score": 94
-        },
-        {
-          "keyword": "佐藤勝利",
-          "score": 93
-        },
-        {
-          "keyword": "門脇誠",
-          "score": 92
-        },
-        {
-          "keyword": "衝突",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-06T08:08:00.488Z",
       "geo": "JP",
       "source": "google",
@@ -3570,6 +3523,53 @@
         },
         {
           "keyword": "お台場",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-10T08:04:21.588Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "訴訟",
+          "score": 100
+        },
+        {
+          "keyword": "ウォーレン・バフェット",
+          "score": 99
+        },
+        {
+          "keyword": "マツコ デラックス",
+          "score": 98
+        },
+        {
+          "keyword": "中条 あやみ",
+          "score": 97
+        },
+        {
+          "keyword": "サントリーサンバーズ大阪",
+          "score": 96
+        },
+        {
+          "keyword": "鈴木 おさむ",
+          "score": 95
+        },
+        {
+          "keyword": "jimin",
+          "score": 94
+        },
+        {
+          "keyword": "冷夏",
+          "score": 93
+        },
+        {
+          "keyword": "285a",
+          "score": 92
+        },
+        {
+          "keyword": "日経平均株価",
           "score": 91
         }
       ]
