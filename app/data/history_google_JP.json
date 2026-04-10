@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-06T16:05:49.538Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "香港",
-          "score": 100
-        },
-        {
-          "keyword": "月の裏側",
-          "score": 99
-        },
-        {
-          "keyword": "森カンナ",
-          "score": 98
-        },
-        {
-          "keyword": "ユヴェントス 対 ジェノア",
-          "score": 97
-        },
-        {
-          "keyword": "夜ドラ",
-          "score": 96
-        },
-        {
-          "keyword": "あの",
-          "score": 95
-        },
-        {
-          "keyword": "畑芽育",
-          "score": 94
-        },
-        {
-          "keyword": "オールナイトニッポン",
-          "score": 93
-        },
-        {
-          "keyword": "tohoシネマズ",
-          "score": 92
-        },
-        {
-          "keyword": "島田麻央",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-06T17:11:02.966Z",
       "geo": "JP",
       "source": "google",
@@ -3523,6 +3476,53 @@
         },
         {
           "keyword": "高橋克実",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-10T16:11:34.440Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "hikakin",
+          "score": 100
+        },
+        {
+          "keyword": "この番組は番宣番組です",
+          "score": 99
+        },
+        {
+          "keyword": "オーストラリア",
+          "score": 98
+        },
+        {
+          "keyword": "ボクシング",
+          "score": 97
+        },
+        {
+          "keyword": "市原隼人",
+          "score": 96
+        },
+        {
+          "keyword": "青木裕子",
+          "score": 95
+        },
+        {
+          "keyword": "松重豊",
+          "score": 94
+        },
+        {
+          "keyword": "サブリナカーペンター",
+          "score": 93
+        },
+        {
+          "keyword": "rcb vs rr",
+          "score": 92
+        },
+        {
+          "keyword": "メガユキメノコ",
           "score": 91
         }
       ]
