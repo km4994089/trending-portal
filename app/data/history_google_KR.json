@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-06T10:46:48.920Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "공화당",
-          "score": 100
-        },
-        {
-          "keyword": "건설",
-          "score": 99
-        },
-        {
-          "keyword": "포스코",
-          "score": 98
-        },
-        {
-          "keyword": "dl이앤씨",
-          "score": 97
-        },
-        {
-          "keyword": "이노그리드",
-          "score": 96
-        },
-        {
-          "keyword": "은가은",
-          "score": 95
-        },
-        {
-          "keyword": "이채영",
-          "score": 94
-        },
-        {
-          "keyword": "자료",
-          "score": 93
-        },
-        {
-          "keyword": "lg 유플러스",
-          "score": 92
-        },
-        {
-          "keyword": "대구광역시",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-06T11:40:35.201Z",
       "geo": "KR",
       "source": "google",
@@ -3570,6 +3523,53 @@
         },
         {
           "keyword": "가상자산",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-10T11:39:38.488Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "현대자동차",
+          "score": 100
+        },
+        {
+          "keyword": "마이클 버리",
+          "score": 99
+        },
+        {
+          "keyword": "전기",
+          "score": 98
+        },
+        {
+          "keyword": "야구중계",
+          "score": 97
+        },
+        {
+          "keyword": "삼성바이오로직스",
+          "score": 96
+        },
+        {
+          "keyword": "이서진",
+          "score": 95
+        },
+        {
+          "keyword": "서승만",
+          "score": 94
+        },
+        {
+          "keyword": "통행료",
+          "score": 93
+        },
+        {
+          "keyword": "세미파이브",
+          "score": 92
+        },
+        {
+          "keyword": "고현정",
           "score": 91
         }
       ]
