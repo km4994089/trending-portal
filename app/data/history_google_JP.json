@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-06T08:08:00.488Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "wester",
-          "score": 100
-        },
-        {
-          "keyword": "首相",
-          "score": 99
-        },
-        {
-          "keyword": "高橋 一生",
-          "score": 98
-        },
-        {
-          "keyword": "辻 希美",
-          "score": 97
-        },
-        {
-          "keyword": "大和路線",
-          "score": 96
-        },
-        {
-          "keyword": "松倉海斗",
-          "score": 95
-        },
-        {
-          "keyword": "パシオス",
-          "score": 94
-        },
-        {
-          "keyword": "地球防衛軍6",
-          "score": 93
-        },
-        {
-          "keyword": "堂本 光一",
-          "score": 92
-        },
-        {
-          "keyword": "サンリオ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-06T09:45:51.796Z",
       "geo": "JP",
       "source": "google",
@@ -3570,6 +3523,53 @@
         },
         {
           "keyword": "日経平均株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-10T09:43:10.214Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ウィットスタジオ",
+          "score": 100
+        },
+        {
+          "keyword": "プラレール",
+          "score": 99
+        },
+        {
+          "keyword": "南海高野線",
+          "score": 98
+        },
+        {
+          "keyword": "土屋伸之",
+          "score": 97
+        },
+        {
+          "keyword": "坂路",
+          "score": 96
+        },
+        {
+          "keyword": "プルパレイ",
+          "score": 95
+        },
+        {
+          "keyword": "今中慎二",
+          "score": 94
+        },
+        {
+          "keyword": "不二家",
+          "score": 93
+        },
+        {
+          "keyword": "ハイキュー!!",
+          "score": 92
+        },
+        {
+          "keyword": "hana",
           "score": 91
         }
       ]
