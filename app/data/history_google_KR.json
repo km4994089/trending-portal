@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-06T04:36:29.328Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김원중",
-          "score": 100
-        },
-        {
-          "keyword": "치어리더",
-          "score": 99
-        },
-        {
-          "keyword": "최정윤",
-          "score": 98
-        },
-        {
-          "keyword": "살목지",
-          "score": 97
-        },
-        {
-          "keyword": "정선희",
-          "score": 96
-        },
-        {
-          "keyword": "장한나",
-          "score": 95
-        },
-        {
-          "keyword": "cgv",
-          "score": 94
-        },
-        {
-          "keyword": "인천국제공항",
-          "score": 93
-        },
-        {
-          "keyword": "대통령",
-          "score": 92
-        },
-        {
-          "keyword": "다날",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-06T06:24:59.549Z",
       "geo": "KR",
       "source": "google",
@@ -3570,6 +3523,53 @@
         },
         {
           "keyword": "철도",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-10T06:13:06.683Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "최충연",
+          "score": 100
+        },
+        {
+          "keyword": "서정희",
+          "score": 99
+        },
+        {
+          "keyword": "하재숙",
+          "score": 98
+        },
+        {
+          "keyword": "르브론 제임스",
+          "score": 97
+        },
+        {
+          "keyword": "sk실트론",
+          "score": 96
+        },
+        {
+          "keyword": "비야디",
+          "score": 95
+        },
+        {
+          "keyword": "warriors vs lakers",
+          "score": 94
+        },
+        {
+          "keyword": "잠수함",
+          "score": 93
+        },
+        {
+          "keyword": "김영옥",
+          "score": 92
+        },
+        {
+          "keyword": "강기정",
           "score": 91
         }
       ]
