@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-07T16:45:25.708Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "한일가왕전",
-          "score": 100
-        },
-        {
-          "keyword": "해상 운송",
-          "score": 99
-        },
-        {
-          "keyword": "윤수영",
-          "score": 98
-        },
-        {
-          "keyword": "권혁",
-          "score": 97
-        },
-        {
-          "keyword": "avgo",
-          "score": 96
-        },
-        {
-          "keyword": "항공우주",
-          "score": 95
-        },
-        {
-          "keyword": "퇴직금",
-          "score": 94
-        },
-        {
-          "keyword": "삼성전기",
-          "score": 93
-        },
-        {
-          "keyword": "워렌 버핏",
-          "score": 92
-        },
-        {
-          "keyword": "iran",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-07T17:49:29.598Z",
       "geo": "KR",
       "source": "google",
@@ -3664,6 +3617,53 @@
         },
         {
           "keyword": "맨유",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-11T17:01:14.814Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "리버풀 대 풀럼",
+          "score": 100
+        },
+        {
+          "keyword": "바르셀로나 대 에스파뇰",
+          "score": 99
+        },
+        {
+          "keyword": "barcelona vs espanyol",
+          "score": 98
+        },
+        {
+          "keyword": "brentford vs everton",
+          "score": 97
+        },
+        {
+          "keyword": "도르트문트",
+          "score": 96
+        },
+        {
+          "keyword": "송지효",
+          "score": 95
+        },
+        {
+          "keyword": "다바크",
+          "score": 94
+        },
+        {
+          "keyword": "카를로스 알카라스",
+          "score": 93
+        },
+        {
+          "keyword": "지민",
+          "score": 92
+        },
+        {
+          "keyword": "csk vs dc",
           "score": 91
         }
       ]

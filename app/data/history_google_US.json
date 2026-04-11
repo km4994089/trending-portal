@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-07T16:45:24.554Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "msnbc",
-          "score": 100
-        },
-        {
-          "keyword": "npr",
-          "score": 99
-        },
-        {
-          "keyword": "pokemon champions release",
-          "score": 98
-        },
-        {
-          "keyword": "bbc",
-          "score": 97
-        },
-        {
-          "keyword": "impeachment",
-          "score": 96
-        },
-        {
-          "keyword": "dark money",
-          "score": 95
-        },
-        {
-          "keyword": "brian cox joins dexter resurrection",
-          "score": 94
-        },
-        {
-          "keyword": "ray stevens",
-          "score": 93
-        },
-        {
-          "keyword": "gambia",
-          "score": 92
-        },
-        {
-          "keyword": "daniel radcliffe",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-07T17:49:28.216Z",
       "geo": "US",
       "source": "google",
@@ -3664,6 +3617,53 @@
         },
         {
           "keyword": "liverpool vs fulham",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-11T17:01:13.419Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "iran supreme leader",
+          "score": 100
+        },
+        {
+          "keyword": "charl schwartzel",
+          "score": 99
+        },
+        {
+          "keyword": "senators vs islanders",
+          "score": 98
+        },
+        {
+          "keyword": "amanda balionis",
+          "score": 97
+        },
+        {
+          "keyword": "collin chandler",
+          "score": 96
+        },
+        {
+          "keyword": "alex karp",
+          "score": 95
+        },
+        {
+          "keyword": "dc defenders",
+          "score": 94
+        },
+        {
+          "keyword": "china iran",
+          "score": 93
+        },
+        {
+          "keyword": "ina garten",
+          "score": 92
+        },
+        {
+          "keyword": "houston gamblers",
           "score": 91
         }
       ]
