@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-07T04:24:56.538Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "라이언 와이스",
-          "score": 100
-        },
-        {
-          "keyword": "맘스터치",
-          "score": 99
-        },
-        {
-          "keyword": "영래 기",
-          "score": 98
-        },
-        {
-          "keyword": "벚꽃명소",
-          "score": 97
-        },
-        {
-          "keyword": "군위군",
-          "score": 96
-        },
-        {
-          "keyword": "레알 마드리드 cf",
-          "score": 95
-        },
-        {
-          "keyword": "강인",
-          "score": 94
-        },
-        {
-          "keyword": "fc 바르셀로나",
-          "score": 93
-        },
-        {
-          "keyword": "해병대",
-          "score": 92
-        },
-        {
-          "keyword": "노시환",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-07T06:01:02.567Z",
       "geo": "KR",
       "source": "google",
@@ -3476,6 +3429,53 @@
         },
         {
           "keyword": "울산페이",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-11T05:42:48.637Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "수원fc 대 대구",
+          "score": 100
+        },
+        {
+          "keyword": "이자",
+          "score": 99
+        },
+        {
+          "keyword": "스테픈 커리",
+          "score": 98
+        },
+        {
+          "keyword": "님아, 그 강을 건너지 마오",
+          "score": 97
+        },
+        {
+          "keyword": "fc 서울 대 전북",
+          "score": 96
+        },
+        {
+          "keyword": "세븐일레븐",
+          "score": 95
+        },
+        {
+          "keyword": "kdb생명",
+          "score": 94
+        },
+        {
+          "keyword": "이스라엘",
+          "score": 93
+        },
+        {
+          "keyword": "울릉도",
+          "score": 92
+        },
+        {
+          "keyword": "윈터",
           "score": 91
         }
       ]

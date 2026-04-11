@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-07T04:24:57.801Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ソフトバンク 対 西武",
-          "score": 100
-        },
-        {
-          "keyword": "大黒摩季",
-          "score": 99
-        },
-        {
-          "keyword": "布袋寅泰",
-          "score": 98
-        },
-        {
-          "keyword": "ゴディバ",
-          "score": 97
-        },
-        {
-          "keyword": "鹿児島大学",
-          "score": 96
-        },
-        {
-          "keyword": "今井美樹",
-          "score": 95
-        },
-        {
-          "keyword": "吉田優利",
-          "score": 94
-        },
-        {
-          "keyword": "サントリー",
-          "score": 93
-        },
-        {
-          "keyword": "三菱マヒンドラ農機",
-          "score": 92
-        },
-        {
-          "keyword": "ポルシェ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-07T06:01:03.737Z",
       "geo": "JP",
       "source": "google",
@@ -3476,6 +3429,53 @@
         },
         {
           "keyword": "長井市",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-11T05:42:49.832Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "京急線",
+          "score": 100
+        },
+        {
+          "keyword": "清水エスパルス",
+          "score": 99
+        },
+        {
+          "keyword": "護衛艦",
+          "score": 98
+        },
+        {
+          "keyword": "ベンヤミン・ネタニヤフ",
+          "score": 97
+        },
+        {
+          "keyword": "ポケモンgo カヌチャン",
+          "score": 96
+        },
+        {
+          "keyword": "岡田准一",
+          "score": 95
+        },
+        {
+          "keyword": "沢口靖子",
+          "score": 94
+        },
+        {
+          "keyword": "政権",
+          "score": 93
+        },
+        {
+          "keyword": "宮川大輔",
+          "score": 92
+        },
+        {
+          "keyword": "j1 試合",
           "score": 91
         }
       ]
