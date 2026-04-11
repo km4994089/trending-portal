@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-07T07:53:39.586Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mlb",
-          "score": 100
-        },
-        {
-          "keyword": "부천시",
-          "score": 99
-        },
-        {
-          "keyword": "정청래",
-          "score": 98
-        },
-        {
-          "keyword": "넬리 코다",
-          "score": 97
-        },
-        {
-          "keyword": "아이티켐",
-          "score": 96
-        },
-        {
-          "keyword": "악뮤",
-          "score": 95
-        },
-        {
-          "keyword": "공무원",
-          "score": 94
-        },
-        {
-          "keyword": "저축",
-          "score": 93
-        },
-        {
-          "keyword": "한화그룹",
-          "score": 92
-        },
-        {
-          "keyword": "투수",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-07T08:51:53.215Z",
       "geo": "KR",
       "source": "google",
@@ -3523,6 +3476,53 @@
         },
         {
           "keyword": "뉴데일리",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-11T08:31:29.020Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "청년 국민연금 보험료 지원",
+          "score": 100
+        },
+        {
+          "keyword": "제이슨 데이",
+          "score": 99
+        },
+        {
+          "keyword": "제주시",
+          "score": 98
+        },
+        {
+          "keyword": "데일",
+          "score": 97
+        },
+        {
+          "keyword": "에코프로비엠",
+          "score": 96
+        },
+        {
+          "keyword": "박나래",
+          "score": 95
+        },
+        {
+          "keyword": "판결",
+          "score": 94
+        },
+        {
+          "keyword": "진양곤",
+          "score": 93
+        },
+        {
+          "keyword": "유럽",
+          "score": 92
+        },
+        {
+          "keyword": "허수봉",
           "score": 91
         }
       ]

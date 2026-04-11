@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-07T07:53:38.404Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "manaus",
-          "score": 100
-        },
-        {
-          "keyword": "carlos alcaraz",
-          "score": 99
-        },
-        {
-          "keyword": "cindy crawford",
-          "score": 98
-        },
-        {
-          "keyword": "alaskaair",
-          "score": 97
-        },
-        {
-          "keyword": "wrongful death attorney",
-          "score": 96
-        },
-        {
-          "keyword": "cheryl ladd",
-          "score": 95
-        },
-        {
-          "keyword": "apple iphone 18 pro",
-          "score": 94
-        },
-        {
-          "keyword": "truck accident attorney",
-          "score": 93
-        },
-        {
-          "keyword": "auto accident lawyer",
-          "score": 92
-        },
-        {
-          "keyword": "the walking dead",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-07T08:51:52.160Z",
       "geo": "US",
       "source": "google",
@@ -3523,6 +3476,53 @@
         },
         {
           "keyword": "will ferrell",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-11T08:31:27.713Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "eva de dominici",
+          "score": 100
+        },
+        {
+          "keyword": "snowflake",
+          "score": 99
+        },
+        {
+          "keyword": "homelander",
+          "score": 98
+        },
+        {
+          "keyword": "oj simpson",
+          "score": 97
+        },
+        {
+          "keyword": "creepy nuts coachella",
+          "score": 96
+        },
+        {
+          "keyword": "truck accident attorney",
+          "score": 95
+        },
+        {
+          "keyword": "accident attorney",
+          "score": 94
+        },
+        {
+          "keyword": "auto accident attorney",
+          "score": 93
+        },
+        {
+          "keyword": "carolina durante",
+          "score": 92
+        },
+        {
+          "keyword": "the wire",
           "score": 91
         }
       ]
