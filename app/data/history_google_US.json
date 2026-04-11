@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-07T18:47:44.061Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "bayern",
-          "score": 100
-        },
-        {
-          "keyword": "mircea lucescu",
-          "score": 99
-        },
-        {
-          "keyword": "in the city trailer",
-          "score": 98
-        },
-        {
-          "keyword": "manuel neuer",
-          "score": 97
-        },
-        {
-          "keyword": "aleksandar pavlović",
-          "score": 96
-        },
-        {
-          "keyword": "michael olise",
-          "score": 95
-        },
-        {
-          "keyword": "sporting vs arsenal",
-          "score": 94
-        },
-        {
-          "keyword": "wrexham vs southampton",
-          "score": 93
-        },
-        {
-          "keyword": "harry kane",
-          "score": 92
-        },
-        {
-          "keyword": "dallas bomb threat",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-07T19:50:23.062Z",
       "geo": "US",
       "source": "google",
@@ -3711,6 +3664,53 @@
         },
         {
           "keyword": "atalanta - juventus",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-11T19:11:18.957Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cameron young",
+          "score": 100
+        },
+        {
+          "keyword": "justis huni",
+          "score": 99
+        },
+        {
+          "keyword": "sciencedaily",
+          "score": 98
+        },
+        {
+          "keyword": "fc cincinnati",
+          "score": 97
+        },
+        {
+          "keyword": "capitals vs penguins",
+          "score": 96
+        },
+        {
+          "keyword": "estrela amadora vs sporting",
+          "score": 95
+        },
+        {
+          "keyword": "cómo quedó el barcelona",
+          "score": 94
+        },
+        {
+          "keyword": "nikola jokić",
+          "score": 93
+        },
+        {
+          "keyword": "atletico madrid",
+          "score": 92
+        },
+        {
+          "keyword": "jim nantz",
           "score": 91
         }
       ]
