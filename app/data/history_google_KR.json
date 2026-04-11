@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-07T06:01:02.567Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "엘지트윈스",
-          "score": 100
-        },
-        {
-          "keyword": "택시",
-          "score": 99
-        },
-        {
-          "keyword": "세계일보",
-          "score": 98
-        },
-        {
-          "keyword": "현대자동차",
-          "score": 97
-        },
-        {
-          "keyword": "v-리그",
-          "score": 96
-        },
-        {
-          "keyword": "맘스터치 김풍",
-          "score": 95
-        },
-        {
-          "keyword": "영래 기 고소",
-          "score": 94
-        },
-        {
-          "keyword": "이용식",
-          "score": 93
-        },
-        {
-          "keyword": "현대제철",
-          "score": 92
-        },
-        {
-          "keyword": "lg",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-07T07:53:39.586Z",
       "geo": "KR",
       "source": "google",
@@ -3476,6 +3429,53 @@
         },
         {
           "keyword": "윈터",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-11T06:49:42.236Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "차정원",
+          "score": 100
+        },
+        {
+          "keyword": "이의리",
+          "score": 99
+        },
+        {
+          "keyword": "왕옌청",
+          "score": 98
+        },
+        {
+          "keyword": "선발투수",
+          "score": 97
+        },
+        {
+          "keyword": "뉴데일리",
+          "score": 96
+        },
+        {
+          "keyword": "정채율",
+          "score": 95
+        },
+        {
+          "keyword": "소방방재신문",
+          "score": 94
+        },
+        {
+          "keyword": "수원fc 대 대구",
+          "score": 93
+        },
+        {
+          "keyword": "이자",
+          "score": 92
+        },
+        {
+          "keyword": "스테픈 커리",
           "score": 91
         }
       ]

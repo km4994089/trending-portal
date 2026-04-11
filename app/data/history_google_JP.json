@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-07T06:01:03.737Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "山口大学",
-          "score": 100
-        },
-        {
-          "keyword": "f-15",
-          "score": 99
-        },
-        {
-          "keyword": "愛子天皇",
-          "score": 98
-        },
-        {
-          "keyword": "阪神甲子園球場",
-          "score": 97
-        },
-        {
-          "keyword": "富士山 噴火",
-          "score": 96
-        },
-        {
-          "keyword": "南阪奈道路",
-          "score": 95
-        },
-        {
-          "keyword": "西鉄電車",
-          "score": 94
-        },
-        {
-          "keyword": "山本由伸",
-          "score": 93
-        },
-        {
-          "keyword": "警察",
-          "score": 92
-        },
-        {
-          "keyword": "未解決の女",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-07T07:53:41.204Z",
       "geo": "JP",
       "source": "google",
@@ -3476,6 +3429,53 @@
         },
         {
           "keyword": "j1 試合",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-11T06:49:43.622Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ラヴァンダ",
+          "score": 100
+        },
+        {
+          "keyword": "ニュージーランドt",
+          "score": 99
+        },
+        {
+          "keyword": "中島史恵",
+          "score": 98
+        },
+        {
+          "keyword": "節約",
+          "score": 97
+        },
+        {
+          "keyword": "柳田悠岐",
+          "score": 96
+        },
+        {
+          "keyword": "アビスパ",
+          "score": 95
+        },
+        {
+          "keyword": "感染",
+          "score": 94
+        },
+        {
+          "keyword": "吉田鈴",
+          "score": 93
+        },
+        {
+          "keyword": "三河 対 名古屋d",
+          "score": 92
+        },
+        {
+          "keyword": "山本裕典",
           "score": 91
         }
       ]
