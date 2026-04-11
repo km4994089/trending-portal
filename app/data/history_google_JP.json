@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-07T08:51:54.343Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jfeスチール",
-          "score": 100
-        },
-        {
-          "keyword": "jfe",
-          "score": 99
-        },
-        {
-          "keyword": "醍醐寺",
-          "score": 98
-        },
-        {
-          "keyword": "日本銀行",
-          "score": 97
-        },
-        {
-          "keyword": "久保凛",
-          "score": 96
-        },
-        {
-          "keyword": "佐久間宣行",
-          "score": 95
-        },
-        {
-          "keyword": "モジタバ",
-          "score": 94
-        },
-        {
-          "keyword": "広瀬 アリス",
-          "score": 93
-        },
-        {
-          "keyword": "孝太郎&ちさ子 プラチナファミリー 華麗なる一家をのぞき見",
-          "score": 92
-        },
-        {
-          "keyword": "奨学金",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-07T09:58:24.935Z",
       "geo": "JP",
       "source": "google",
@@ -3523,6 +3476,53 @@
         },
         {
           "keyword": "デンソー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-11T09:31:14.540Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "issa",
+          "score": 100
+        },
+        {
+          "keyword": "今市隆二",
+          "score": 99
+        },
+        {
+          "keyword": "箱根",
+          "score": 98
+        },
+        {
+          "keyword": "mlb",
+          "score": 97
+        },
+        {
+          "keyword": "三木市",
+          "score": 96
+        },
+        {
+          "keyword": "伊藤俊介",
+          "score": 95
+        },
+        {
+          "keyword": "rapidus",
+          "score": 94
+        },
+        {
+          "keyword": "シュヴァルグラン",
+          "score": 93
+        },
+        {
+          "keyword": "ジャイアンツtv",
+          "score": 92
+        },
+        {
+          "keyword": "原菜乃華",
           "score": 91
         }
       ]

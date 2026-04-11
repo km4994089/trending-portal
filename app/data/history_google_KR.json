@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-07T08:51:53.215Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "퇴직",
-          "score": 100
-        },
-        {
-          "keyword": "토트넘 홋스퍼 fc",
-          "score": 99
-        },
-        {
-          "keyword": "모즈타바 하메네이",
-          "score": 98
-        },
-        {
-          "keyword": "풍산",
-          "score": 97
-        },
-        {
-          "keyword": "주식 병합",
-          "score": 96
-        },
-        {
-          "keyword": "채연",
-          "score": 95
-        },
-        {
-          "keyword": "코스피",
-          "score": 94
-        },
-        {
-          "keyword": "005930",
-          "score": 93
-        },
-        {
-          "keyword": "아이티 켐",
-          "score": 92
-        },
-        {
-          "keyword": "핵무기",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-07T09:58:23.856Z",
       "geo": "KR",
       "source": "google",
@@ -3523,6 +3476,53 @@
         },
         {
           "keyword": "허수봉",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-11T09:31:13.339Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "파주 대 서울e",
+          "score": 100
+        },
+        {
+          "keyword": "성영탁",
+          "score": 99
+        },
+        {
+          "keyword": "김호령",
+          "score": 98
+        },
+        {
+          "keyword": "세계일보",
+          "score": 97
+        },
+        {
+          "keyword": "정우주",
+          "score": 96
+        },
+        {
+          "keyword": "청년 국민연금 보험료 지원",
+          "score": 95
+        },
+        {
+          "keyword": "제주시",
+          "score": 94
+        },
+        {
+          "keyword": "제이슨 데이",
+          "score": 93
+        },
+        {
+          "keyword": "데일",
+          "score": 92
+        },
+        {
+          "keyword": "에코프로비엠",
           "score": 91
         }
       ]
