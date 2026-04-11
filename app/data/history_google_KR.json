@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-07T12:56:54.749Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "최민정",
-          "score": 100
-        },
-        {
-          "keyword": "상속",
-          "score": 99
-        },
-        {
-          "keyword": "탄핵",
-          "score": 98
-        },
-        {
-          "keyword": "카를로스 알카라스",
-          "score": 97
-        },
-        {
-          "keyword": "김해시",
-          "score": 96
-        },
-        {
-          "keyword": "포켓몬 챔피언스",
-          "score": 95
-        },
-        {
-          "keyword": "슬램덩크",
-          "score": 94
-        },
-        {
-          "keyword": "롯데온",
-          "score": 93
-        },
-        {
-          "keyword": "히든싱어",
-          "score": 92
-        },
-        {
-          "keyword": "삼천당제약(주)",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-07T14:27:51.486Z",
       "geo": "KR",
       "source": "google",
@@ -3570,6 +3523,53 @@
         },
         {
           "keyword": "항공권",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-11T13:48:18.069Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "설민석",
+          "score": 100
+        },
+        {
+          "keyword": "mbc",
+          "score": 99
+        },
+        {
+          "keyword": "윤성빈",
+          "score": 98
+        },
+        {
+          "keyword": "21세기 대군부인 출연진",
+          "score": 97
+        },
+        {
+          "keyword": "арсенал – борнмут",
+          "score": 96
+        },
+        {
+          "keyword": "알렉산더 즈베레프",
+          "score": 95
+        },
+        {
+          "keyword": "xrp 레저",
+          "score": 94
+        },
+        {
+          "keyword": "젠지",
+          "score": 93
+        },
+        {
+          "keyword": "아스날",
+          "score": 92
+        },
+        {
+          "keyword": "쇼트트랙",
           "score": 91
         }
       ]
