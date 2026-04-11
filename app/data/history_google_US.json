@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-07T22:28:40.664Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "athletics vs yankees",
-          "score": 100
-        },
-        {
-          "keyword": "timberwolves vs pacers",
-          "score": 99
-        },
-        {
-          "keyword": "bulls vs wizards",
-          "score": 98
-        },
-        {
-          "keyword": "gunnar henderson",
-          "score": 97
-        },
-        {
-          "keyword": "mark henry",
-          "score": 96
-        },
-        {
-          "keyword": "barracas central vs vasco",
-          "score": 95
-        },
-        {
-          "keyword": "pauls valley school shooting",
-          "score": 94
-        },
-        {
-          "keyword": "europe flight delays cancellations",
-          "score": 93
-        },
-        {
-          "keyword": "cassidy hutchinson",
-          "score": 92
-        },
-        {
-          "keyword": "sabrina carpenter hair transformation",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-07T23:06:11.733Z",
       "geo": "US",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "badger hockey score",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-11T22:58:17.683Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "savannah guthrie",
+          "score": 100
+        },
+        {
+          "keyword": "ny red bulls vs inter miami",
+          "score": 99
+        },
+        {
+          "keyword": "flyers vs jets",
+          "score": 98
+        },
+        {
+          "keyword": "new zelda game",
+          "score": 97
+        },
+        {
+          "keyword": "bo bichette",
+          "score": 96
+        },
+        {
+          "keyword": "prince george's county",
+          "score": 95
+        },
+        {
+          "keyword": "palantir technologies",
+          "score": 94
+        },
+        {
+          "keyword": "tesla model 3",
+          "score": 93
+        },
+        {
+          "keyword": "sabrina carpenter yodel",
+          "score": 92
+        },
+        {
+          "keyword": "trump magic paint",
           "score": 91
         }
       ]
