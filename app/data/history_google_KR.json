@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-07T11:44:56.724Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "서장훈",
-          "score": 100
-        },
-        {
-          "keyword": "주유소",
-          "score": 99
-        },
-        {
-          "keyword": "선박",
-          "score": 98
-        },
-        {
-          "keyword": "tving",
-          "score": 97
-        },
-        {
-          "keyword": "김밥",
-          "score": 96
-        },
-        {
-          "keyword": "삼양식품",
-          "score": 95
-        },
-        {
-          "keyword": "규제",
-          "score": 94
-        },
-        {
-          "keyword": "양현종",
-          "score": 93
-        },
-        {
-          "keyword": "경상북도지사",
-          "score": 92
-        },
-        {
-          "keyword": "정해인",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-07T12:56:54.749Z",
       "geo": "KR",
       "source": "google",
@@ -3570,6 +3523,53 @@
         },
         {
           "keyword": "경상북도",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-11T12:34:48.404Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "박승수",
+          "score": 100
+        },
+        {
+          "keyword": "청주",
+          "score": 99
+        },
+        {
+          "keyword": "박정민",
+          "score": 98
+        },
+        {
+          "keyword": "윤하",
+          "score": 97
+        },
+        {
+          "keyword": "맨체스터 유나이티드 fc",
+          "score": 96
+        },
+        {
+          "keyword": "arsenal đấu với bournemouth",
+          "score": 95
+        },
+        {
+          "keyword": "아스널 대 본머스",
+          "score": 94
+        },
+        {
+          "keyword": "arsenal vs bournemouth",
+          "score": 93
+        },
+        {
+          "keyword": "민우혁",
+          "score": 92
+        },
+        {
+          "keyword": "항공권",
           "score": 91
         }
       ]
