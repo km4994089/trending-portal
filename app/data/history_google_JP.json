@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-07T09:58:24.935Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "株フジクラ",
-          "score": 100
-        },
-        {
-          "keyword": "山之内すず",
-          "score": 99
-        },
-        {
-          "keyword": "上方漫才大賞",
-          "score": 98
-        },
-        {
-          "keyword": "バンタン",
-          "score": 97
-        },
-        {
-          "keyword": "金融",
-          "score": 96
-        },
-        {
-          "keyword": "キャンディーズ",
-          "score": 95
-        },
-        {
-          "keyword": "大鳴門橋",
-          "score": 94
-        },
-        {
-          "keyword": "snowman 特典",
-          "score": 93
-        },
-        {
-          "keyword": "周船寺中学校",
-          "score": 92
-        },
-        {
-          "keyword": "比亜迪",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-07T10:53:19.808Z",
       "geo": "JP",
       "source": "google",
@@ -3523,6 +3476,53 @@
         },
         {
           "keyword": "原菜乃華",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-11T10:23:53.741Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "amazonプライム",
+          "score": 100
+        },
+        {
+          "keyword": "srh vs pbks",
+          "score": 99
+        },
+        {
+          "keyword": "井上尚弥 中谷潤人",
+          "score": 98
+        },
+        {
+          "keyword": "なでしこジャパン",
+          "score": 97
+        },
+        {
+          "keyword": "nvidia",
+          "score": 96
+        },
+        {
+          "keyword": "小林節",
+          "score": 95
+        },
+        {
+          "keyword": "新しいカギ",
+          "score": 94
+        },
+        {
+          "keyword": "岡崎紗絵",
+          "score": 93
+        },
+        {
+          "keyword": "麻生 太郎",
+          "score": 92
+        },
+        {
+          "keyword": "山瀬慎之助",
           "score": 91
         }
       ]
