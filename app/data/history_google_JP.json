@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-07T21:34:29.305Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "あきない世傳 金と銀",
-          "score": 100
-        },
-        {
-          "keyword": "井桁弘恵",
-          "score": 99
-        },
-        {
-          "keyword": "s&p 500",
-          "score": 98
-        },
-        {
-          "keyword": "フィラデルフィア半導体株指数",
-          "score": 97
-        },
-        {
-          "keyword": "adr",
-          "score": 96
-        },
-        {
-          "keyword": "コメダ",
-          "score": 95
-        },
-        {
-          "keyword": "気温",
-          "score": 94
-        },
-        {
-          "keyword": "vix指数",
-          "score": 93
-        },
-        {
-          "keyword": "schd",
-          "score": 92
-        },
-        {
-          "keyword": "ntt",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-07T22:28:43.405Z",
       "geo": "JP",
       "source": "google",
@@ -3805,6 +3758,53 @@
         },
         {
           "keyword": "abema",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-11T21:54:40.020Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "有森裕子",
+          "score": 100
+        },
+        {
+          "keyword": "冨安健洋",
+          "score": 99
+        },
+        {
+          "keyword": "キャメロン・ヤング",
+          "score": 98
+        },
+        {
+          "keyword": "聖徳太子",
+          "score": 97
+        },
+        {
+          "keyword": "東海道線",
+          "score": 96
+        },
+        {
+          "keyword": "ゲキサカ",
+          "score": 95
+        },
+        {
+          "keyword": "長谷川唯",
+          "score": 94
+        },
+        {
+          "keyword": "電気工事士",
+          "score": 93
+        },
+        {
+          "keyword": "白鵬翔",
+          "score": 92
+        },
+        {
+          "keyword": "レクサス・is",
           "score": 91
         }
       ]
