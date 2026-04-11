@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-07T23:06:11.733Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "oil prices",
-          "score": 100
-        },
-        {
-          "keyword": "dodgers - blue jays",
-          "score": 99
-        },
-        {
-          "keyword": "btc",
-          "score": 98
-        },
-        {
-          "keyword": "bill gates",
-          "score": 97
-        },
-        {
-          "keyword": "taco tuesday trump",
-          "score": 96
-        },
-        {
-          "keyword": "heat vs raptors",
-          "score": 95
-        },
-        {
-          "keyword": "bucks vs nets",
-          "score": 94
-        },
-        {
-          "keyword": "bruins vs hurricanes",
-          "score": 93
-        },
-        {
-          "keyword": "dianna russini",
-          "score": 92
-        },
-        {
-          "keyword": "blue jackets vs red wings",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-07T23:58:48.940Z",
       "geo": "US",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "trump magic paint",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-11T23:31:51.112Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "addison rae",
+          "score": 100
+        },
+        {
+          "keyword": "rockstar games",
+          "score": 99
+        },
+        {
+          "keyword": "who won the masters",
+          "score": 98
+        },
+        {
+          "keyword": "democrats push virginia redistricting",
+          "score": 97
+        },
+        {
+          "keyword": "nashville sc - charlotte fc",
+          "score": 96
+        },
+        {
+          "keyword": "tyler soderstrom",
+          "score": 95
+        },
+        {
+          "keyword": "los hermanos flores coachella",
+          "score": 94
+        },
+        {
+          "keyword": "cbs cancels the tillbrooks",
+          "score": 93
+        },
+        {
+          "keyword": "nba games tonight",
+          "score": 92
+        },
+        {
+          "keyword": "golf world rankings",
           "score": 91
         }
       ]
