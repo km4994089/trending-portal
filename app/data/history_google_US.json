@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-07T14:27:50.306Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "reuters",
-          "score": 100
-        },
-        {
-          "keyword": "lucid",
-          "score": 99
-        },
-        {
-          "keyword": "karol g",
-          "score": 98
-        },
-        {
-          "keyword": "the roku channel",
-          "score": 97
-        },
-        {
-          "keyword": "intel stock",
-          "score": 96
-        },
-        {
-          "keyword": "aapl",
-          "score": 95
-        },
-        {
-          "keyword": "kalshi",
-          "score": 94
-        },
-        {
-          "keyword": "polymarket",
-          "score": 93
-        },
-        {
-          "keyword": "david cross",
-          "score": 92
-        },
-        {
-          "keyword": "intc",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-07T15:53:33.636Z",
       "geo": "US",
       "source": "google",
@@ -3570,6 +3523,53 @@
         },
         {
           "keyword": "premier league standings",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-11T14:28:28.648Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "delroy lindo",
+          "score": 100
+        },
+        {
+          "keyword": "harry reid international airport",
+          "score": 99
+        },
+        {
+          "keyword": "amanda bynes",
+          "score": 98
+        },
+        {
+          "keyword": "carlos alcaraz",
+          "score": 97
+        },
+        {
+          "keyword": "mirra andreeva",
+          "score": 96
+        },
+        {
+          "keyword": "samuel alito",
+          "score": 95
+        },
+        {
+          "keyword": "leganés - albacete",
+          "score": 94
+        },
+        {
+          "keyword": "vacherot",
+          "score": 93
+        },
+        {
+          "keyword": "craig kimbrel",
+          "score": 92
+        },
+        {
+          "keyword": "bexar county",
           "score": 91
         }
       ]
