@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-07T15:53:33.636Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "germany",
-          "score": 100
-        },
-        {
-          "keyword": "ron desantis",
-          "score": 99
-        },
-        {
-          "keyword": "stock market news",
-          "score": 98
-        },
-        {
-          "keyword": "weather forecast today",
-          "score": 97
-        },
-        {
-          "keyword": "wendys",
-          "score": 96
-        },
-        {
-          "keyword": "tesla autopilot",
-          "score": 95
-        },
-        {
-          "keyword": "pokemon champions release date",
-          "score": 94
-        },
-        {
-          "keyword": "agyemang ruled out world cup",
-          "score": 93
-        },
-        {
-          "keyword": "noah beck sister",
-          "score": 92
-        },
-        {
-          "keyword": "tom watson",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-07T16:45:24.554Z",
       "geo": "US",
       "source": "google",
@@ -3664,6 +3617,53 @@
         },
         {
           "keyword": "hormuz",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-11T16:24:57.925Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lightning vs bruins",
+          "score": 100
+        },
+        {
+          "keyword": "championship",
+          "score": 99
+        },
+        {
+          "keyword": "cincinnati vs toronto",
+          "score": 98
+        },
+        {
+          "keyword": "jacy sheldon",
+          "score": 97
+        },
+        {
+          "keyword": "h-1b visa",
+          "score": 96
+        },
+        {
+          "keyword": "igor thiago",
+          "score": 95
+        },
+        {
+          "keyword": "anastasia potapova",
+          "score": 94
+        },
+        {
+          "keyword": "sting",
+          "score": 93
+        },
+        {
+          "keyword": "barcelona - rcd espanyol",
+          "score": 92
+        },
+        {
+          "keyword": "liverpool vs fulham",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-07T15:53:35.098Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "윤수영",
-          "score": 100
-        },
-        {
-          "keyword": "권혁",
-          "score": 99
-        },
-        {
-          "keyword": "avgo",
-          "score": 98
-        },
-        {
-          "keyword": "항공우주",
-          "score": 97
-        },
-        {
-          "keyword": "퇴직금",
-          "score": 96
-        },
-        {
-          "keyword": "삼성전기",
-          "score": 95
-        },
-        {
-          "keyword": "워렌 버핏",
-          "score": 94
-        },
-        {
-          "keyword": "iran",
-          "score": 93
-        },
-        {
-          "keyword": "리사",
-          "score": 92
-        },
-        {
-          "keyword": "rr vs mi",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-07T16:45:25.708Z",
       "geo": "KR",
       "source": "google",
@@ -3664,6 +3617,53 @@
         },
         {
           "keyword": "코디 폰세",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-11T16:24:59.127Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "도르트문트",
+          "score": 100
+        },
+        {
+          "keyword": "brentford vs everton",
+          "score": 99
+        },
+        {
+          "keyword": "송지효",
+          "score": 98
+        },
+        {
+          "keyword": "다바크",
+          "score": 97
+        },
+        {
+          "keyword": "카를로스 알카라스",
+          "score": 96
+        },
+        {
+          "keyword": "지민",
+          "score": 95
+        },
+        {
+          "keyword": "csk vs dc",
+          "score": 94
+        },
+        {
+          "keyword": "코인베이스",
+          "score": 93
+        },
+        {
+          "keyword": "최가온",
+          "score": 92
+        },
+        {
+          "keyword": "맨유",
           "score": 91
         }
       ]
