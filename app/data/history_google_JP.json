@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-08T12:57:43.979Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "阪神",
-          "score": 100
-        },
-        {
-          "keyword": "若槻千夏",
-          "score": 99
-        },
-        {
-          "keyword": "田中将大",
-          "score": 98
-        },
-        {
-          "keyword": "大使",
-          "score": 97
-        },
-        {
-          "keyword": "隈研吾",
-          "score": 96
-        },
-        {
-          "keyword": "スズキ ジムニーシエラ",
-          "score": 95
-        },
-        {
-          "keyword": "群馬クレインサンダーズ",
-          "score": 94
-        },
-        {
-          "keyword": "ヒスン",
-          "score": 93
-        },
-        {
-          "keyword": "三遠ネオフェニックス",
-          "score": 92
-        },
-        {
-          "keyword": "タイガース",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-08T14:44:11.950Z",
       "geo": "JP",
       "source": "google",
@@ -3899,6 +3852,53 @@
         },
         {
           "keyword": "マーク・ハミル",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-12T13:53:42.266Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ファフ・デクラーク",
+          "score": 100
+        },
+        {
+          "keyword": "袴田彩会",
+          "score": 99
+        },
+        {
+          "keyword": "サバンナ八木",
+          "score": 98
+        },
+        {
+          "keyword": "横山由依",
+          "score": 97
+        },
+        {
+          "keyword": "トッテナム",
+          "score": 96
+        },
+        {
+          "keyword": "カルロス・アルカラス",
+          "score": 95
+        },
+        {
+          "keyword": "福士蒼汰",
+          "score": 94
+        },
+        {
+          "keyword": "藤枝myfc",
+          "score": 93
+        },
+        {
+          "keyword": "バーガーキング",
+          "score": 92
+        },
+        {
+          "keyword": "沼津",
           "score": 91
         }
       ]

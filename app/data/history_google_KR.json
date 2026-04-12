@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-08T12:57:42.578Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "내일 날씨",
-          "score": 100
-        },
-        {
-          "keyword": "이소나",
-          "score": 99
-        },
-        {
-          "keyword": "테이큰",
-          "score": 98
-        },
-        {
-          "keyword": "박미선",
-          "score": 97
-        },
-        {
-          "keyword": "hd한국조선해양",
-          "score": 96
-        },
-        {
-          "keyword": "보검 매직컬",
-          "score": 95
-        },
-        {
-          "keyword": "강인",
-          "score": 94
-        },
-        {
-          "keyword": "살목 지",
-          "score": 93
-        },
-        {
-          "keyword": "김진욱",
-          "score": 92
-        },
-        {
-          "keyword": "새만금",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-08T14:44:11.049Z",
       "geo": "KR",
       "source": "google",
@@ -3899,6 +3852,53 @@
         },
         {
           "keyword": "오늘의 운세 띠별 운세",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-12T13:53:39.249Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "선덜랜드",
+          "score": 100
+        },
+        {
+          "keyword": "동전주",
+          "score": 99
+        },
+        {
+          "keyword": "우리동네 야구대장",
+          "score": 98
+        },
+        {
+          "keyword": "김범수",
+          "score": 97
+        },
+        {
+          "keyword": "sunderland vs tottenham",
+          "score": 96
+        },
+        {
+          "keyword": "효연",
+          "score": 95
+        },
+        {
+          "keyword": "노팅엄 포레스트 대 애스턴 빌라",
+          "score": 94
+        },
+        {
+          "keyword": "박중훈",
+          "score": 93
+        },
+        {
+          "keyword": "토트넘 선덜랜드",
+          "score": 92
+        },
+        {
+          "keyword": "헌법재판소",
           "score": 91
         }
       ]
