@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-08T17:36:40.830Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "フワちゃん",
-          "score": 100
-        },
-        {
-          "keyword": "皇位継承",
-          "score": 99
-        },
-        {
-          "keyword": "porter",
-          "score": 98
-        },
-        {
-          "keyword": "山下美月",
-          "score": 97
-        },
-        {
-          "keyword": "キンギョ",
-          "score": 96
-        },
-        {
-          "keyword": "轟はじめ",
-          "score": 95
-        },
-        {
-          "keyword": "ワンパンマン",
-          "score": 94
-        },
-        {
-          "keyword": "浜崎あゆみ",
-          "score": 93
-        },
-        {
-          "keyword": "岡田紗佳",
-          "score": 92
-        },
-        {
-          "keyword": "河北新報",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-08T19:02:20.621Z",
       "geo": "JP",
       "source": "google",
@@ -4040,6 +3993,53 @@
         },
         {
           "keyword": "日曜ドラマ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-12T17:58:18.607Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "福原遥",
+          "score": 100
+        },
+        {
+          "keyword": "松山 千春",
+          "score": 99
+        },
+        {
+          "keyword": "カカロニ栗谷",
+          "score": 98
+        },
+        {
+          "keyword": "ポケモンチャンピオンズ 最強",
+          "score": 97
+        },
+        {
+          "keyword": "ミセス",
+          "score": 96
+        },
+        {
+          "keyword": "バレンシアガ",
+          "score": 95
+        },
+        {
+          "keyword": "木南晴夏",
+          "score": 94
+        },
+        {
+          "keyword": "ルルットリリィ",
+          "score": 93
+        },
+        {
+          "keyword": "伊勢谷友介",
+          "score": 92
+        },
+        {
+          "keyword": "幾田りら",
           "score": 91
         }
       ]
