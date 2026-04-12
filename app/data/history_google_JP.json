@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-08T10:56:29.055Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "泉州",
-          "score": 100
-        },
-        {
-          "keyword": "ドゥラエレーデ",
-          "score": 99
-        },
-        {
-          "keyword": "u20女子アジアカップ",
-          "score": 98
-        },
-        {
-          "keyword": "横綱",
-          "score": 97
-        },
-        {
-          "keyword": "新ドラマ 2026 4月",
-          "score": 96
-        },
-        {
-          "keyword": "u20 女子アジアカップ 2026",
-          "score": 95
-        },
-        {
-          "keyword": "坂東工",
-          "score": 94
-        },
-        {
-          "keyword": "古謝樹",
-          "score": 93
-        },
-        {
-          "keyword": "サンエックス",
-          "score": 92
-        },
-        {
-          "keyword": "ルーカス 阪神",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-08T11:48:17.493Z",
       "geo": "JP",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "日曜劇場",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-12T11:07:06.892Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "丘みどり",
+          "score": 100
+        },
+        {
+          "keyword": "河合郁人",
+          "score": 99
+        },
+        {
+          "keyword": "アンジェラアキ",
+          "score": 98
+        },
+        {
+          "keyword": "イノシシ",
+          "score": 97
+        },
+        {
+          "keyword": "ファミマ サンリオ",
+          "score": 96
+        },
+        {
+          "keyword": "スイフト",
+          "score": 95
+        },
+        {
+          "keyword": "多摩川",
+          "score": 94
+        },
+        {
+          "keyword": "児童手当",
+          "score": 93
+        },
+        {
+          "keyword": "貫地谷しほり",
+          "score": 92
+        },
+        {
+          "keyword": "出雲大社",
           "score": 91
         }
       ]

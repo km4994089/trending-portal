@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-08T10:56:26.582Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "orlando weather",
-          "score": 100
-        },
-        {
-          "keyword": "nvidia stock",
-          "score": 99
-        },
-        {
-          "keyword": "gas prices",
-          "score": 98
-        },
-        {
-          "keyword": "alexander zverev",
-          "score": 97
-        },
-        {
-          "keyword": "the gem state",
-          "score": 96
-        },
-        {
-          "keyword": "amd stock price",
-          "score": 95
-        },
-        {
-          "keyword": "jasveen sangha",
-          "score": 94
-        },
-        {
-          "keyword": "tsla stock",
-          "score": 93
-        },
-        {
-          "keyword": "venezuela",
-          "score": 92
-        },
-        {
-          "keyword": "new",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-08T11:48:14.634Z",
       "geo": "US",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "movies",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-12T11:07:04.236Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "brittany swalwell",
+          "score": 100
+        },
+        {
+          "keyword": "wrexham standings",
+          "score": 99
+        },
+        {
+          "keyword": "abigail spanberger",
+          "score": 98
+        },
+        {
+          "keyword": "photos",
+          "score": 97
+        },
+        {
+          "keyword": "boston marathon 2026",
+          "score": 96
+        },
+        {
+          "keyword": "2026 nfl mock draft",
+          "score": 95
+        },
+        {
+          "keyword": "birmingham vs wrexham",
+          "score": 94
+        },
+        {
+          "keyword": "genoa vs sassuolo",
+          "score": 93
+        },
+        {
+          "keyword": "ben affleck",
+          "score": 92
+        },
+        {
+          "keyword": "paris roubaix",
           "score": 91
         }
       ]

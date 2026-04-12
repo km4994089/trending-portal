@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-08T10:56:27.964Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "구속영장",
-          "score": 100
-        },
-        {
-          "keyword": "두산",
-          "score": 99
-        },
-        {
-          "keyword": "정원오 박원순",
-          "score": 98
-        },
-        {
-          "keyword": "로봇",
-          "score": 97
-        },
-        {
-          "keyword": "6세대 전투기",
-          "score": 96
-        },
-        {
-          "keyword": "도둑",
-          "score": 95
-        },
-        {
-          "keyword": "최현석",
-          "score": 94
-        },
-        {
-          "keyword": "노란봉투법",
-          "score": 93
-        },
-        {
-          "keyword": "살인",
-          "score": 92
-        },
-        {
-          "keyword": "통행료",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-08T11:48:15.998Z",
       "geo": "KR",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "황동하",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-12T11:07:05.524Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lsg vs gt",
+          "score": 100
+        },
+        {
+          "keyword": "금융감독원",
+          "score": 99
+        },
+        {
+          "keyword": "베트남",
+          "score": 98
+        },
+        {
+          "keyword": "최홍 라",
+          "score": 97
+        },
+        {
+          "keyword": "사우디아라비아",
+          "score": 96
+        },
+        {
+          "keyword": "축구 감독",
+          "score": 95
+        },
+        {
+          "keyword": "딘딘",
+          "score": 94
+        },
+        {
+          "keyword": "유노윤호",
+          "score": 93
+        },
+        {
+          "keyword": "황동 하",
+          "score": 92
+        },
+        {
+          "keyword": "투자",
           "score": 91
         }
       ]
