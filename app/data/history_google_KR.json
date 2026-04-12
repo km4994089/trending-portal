@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-08T08:54:10.012Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "한국항공우주산업",
-          "score": 100
-        },
-        {
-          "keyword": "조재복",
-          "score": 99
-        },
-        {
-          "keyword": "한진",
-          "score": 98
-        },
-        {
-          "keyword": "김혜경",
-          "score": 97
-        },
-        {
-          "keyword": "코스피",
-          "score": 96
-        },
-        {
-          "keyword": "한화 이글스",
-          "score": 95
-        },
-        {
-          "keyword": "쓰레기 봉투",
-          "score": 94
-        },
-        {
-          "keyword": "000660",
-          "score": 93
-        },
-        {
-          "keyword": "닛케이 평균주가",
-          "score": 92
-        },
-        {
-          "keyword": "폴더블 스마트폰",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-08T09:59:05.235Z",
       "geo": "KR",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "배동현",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-12T09:37:00.589Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "아이폰",
+          "score": 100
+        },
+        {
+          "keyword": "한준수",
+          "score": 99
+        },
+        {
+          "keyword": "홍건희",
+          "score": 98
+        },
+        {
+          "keyword": "마이클 올리세",
+          "score": 97
+        },
+        {
+          "keyword": "임광현",
+          "score": 96
+        },
+        {
+          "keyword": "대전오월드",
+          "score": 95
+        },
+        {
+          "keyword": "충남 아산 fc 대 김해",
+          "score": 94
+        },
+        {
+          "keyword": "성남 대 안산 그리너스",
+          "score": 93
+        },
+        {
+          "keyword": "검찰",
+          "score": 92
+        },
+        {
+          "keyword": "수원삼성",
           "score": 91
         }
       ]
