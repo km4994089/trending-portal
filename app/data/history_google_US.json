@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-08T04:58:53.391Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lakers score",
-          "score": 100
-        },
-        {
-          "keyword": "jared mccain",
-          "score": 99
-        },
-        {
-          "keyword": "vgk",
-          "score": 98
-        },
-        {
-          "keyword": "jill scott",
-          "score": 97
-        },
-        {
-          "keyword": "angels score",
-          "score": 96
-        },
-        {
-          "keyword": "daniel susac",
-          "score": 95
-        },
-        {
-          "keyword": "johnny knoxville",
-          "score": 94
-        },
-        {
-          "keyword": "meteor fireball",
-          "score": 93
-        },
-        {
-          "keyword": "isaiah hartenstein",
-          "score": 92
-        },
-        {
-          "keyword": "devin booker",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-08T06:20:56.423Z",
       "geo": "US",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "padres standings",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-12T06:08:34.029Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "paulina rubio",
+          "score": 100
+        },
+        {
+          "keyword": "david byrne",
+          "score": 99
+        },
+        {
+          "keyword": "jennifer lopez",
+          "score": 98
+        },
+        {
+          "keyword": "mariners standings",
+          "score": 97
+        },
+        {
+          "keyword": "sza",
+          "score": 96
+        },
+        {
+          "keyword": "lollapalooza",
+          "score": 95
+        },
+        {
+          "keyword": "david guetta coachella",
+          "score": 94
+        },
+        {
+          "keyword": "jp crawford",
+          "score": 93
+        },
+        {
+          "keyword": "bryan abreu",
+          "score": 92
+        },
+        {
+          "keyword": "vin scully",
           "score": 91
         }
       ]

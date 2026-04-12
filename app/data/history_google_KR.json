@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-08T04:58:54.938Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lg화학",
-          "score": 100
-        },
-        {
-          "keyword": "이정현",
-          "score": 99
-        },
-        {
-          "keyword": "실종자",
-          "score": 98
-        },
-        {
-          "keyword": "인도네시아",
-          "score": 97
-        },
-        {
-          "keyword": "tsmc",
-          "score": 96
-        },
-        {
-          "keyword": "lafc",
-          "score": 95
-        },
-        {
-          "keyword": "로스앤젤레스 다저스",
-          "score": 94
-        },
-        {
-          "keyword": "곽튜브",
-          "score": 93
-        },
-        {
-          "keyword": "양준혁",
-          "score": 92
-        },
-        {
-          "keyword": "방신실",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-08T06:20:57.630Z",
       "geo": "KR",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "새마을금고",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-12T06:08:35.205Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "롯데케미칼",
+          "score": 100
+        },
+        {
+          "keyword": "원태인",
+          "score": 99
+        },
+        {
+          "keyword": "안우진",
+          "score": 98
+        },
+        {
+          "keyword": "서울 sk 대 고양 소노",
+          "score": 97
+        },
+        {
+          "keyword": "아이유 이종석",
+          "score": 96
+        },
+        {
+          "keyword": "방시혁",
+          "score": 95
+        },
+        {
+          "keyword": "롯데카드",
+          "score": 94
+        },
+        {
+          "keyword": "김영웅",
+          "score": 93
+        },
+        {
+          "keyword": "신동엽",
+          "score": 92
+        },
+        {
+          "keyword": "이재용",
           "score": 91
         }
       ]
