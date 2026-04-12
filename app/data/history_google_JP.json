@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-08T19:02:20.621Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "wowow",
-          "score": 100
-        },
-        {
-          "keyword": "barcelona vs atlético madrid",
-          "score": 99
-        },
-        {
-          "keyword": "ローソン",
-          "score": 98
-        },
-        {
-          "keyword": "パリsg 対 リヴァプール",
-          "score": 97
-        },
-        {
-          "keyword": "バルセロナ 対 アトレティコ",
-          "score": 96
-        },
-        {
-          "keyword": "吉野家",
-          "score": 95
-        },
-        {
-          "keyword": "藤井風",
-          "score": 94
-        },
-        {
-          "keyword": "天気天気",
-          "score": 93
-        },
-        {
-          "keyword": "フワちゃん",
-          "score": 92
-        },
-        {
-          "keyword": "皇位継承",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-08T20:06:04.659Z",
       "geo": "JP",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "伊勢谷友介",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-12T19:32:41.007Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "コモ 対 インテル",
+          "score": 100
+        },
+        {
+          "keyword": "黒田清子",
+          "score": 99
+        },
+        {
+          "keyword": "松岡茉優",
+          "score": 98
+        },
+        {
+          "keyword": "シェーン・ローリー",
+          "score": 97
+        },
+        {
+          "keyword": "小池栄子",
+          "score": 96
+        },
+        {
+          "keyword": "マイク・トラウト",
+          "score": 95
+        },
+        {
+          "keyword": "張本美和",
+          "score": 94
+        },
+        {
+          "keyword": "福原遥",
+          "score": 93
+        },
+        {
+          "keyword": "松山 千春",
+          "score": 92
+        },
+        {
+          "keyword": "カカロニ栗谷",
           "score": 91
         }
       ]
