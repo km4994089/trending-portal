@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-08T20:06:03.232Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "장윤정",
-          "score": 100
-        },
-        {
-          "keyword": "바르셀로나",
-          "score": 99
-        },
-        {
-          "keyword": "barcelona vs atlético madrid",
-          "score": 98
-        },
-        {
-          "keyword": "psg",
-          "score": 97
-        },
-        {
-          "keyword": "psg 대 리버풀",
-          "score": 96
-        },
-        {
-          "keyword": "바르셀로나 대 아틀레티코",
-          "score": 95
-        },
-        {
-          "keyword": "가격",
-          "score": 94
-        },
-        {
-          "keyword": "혜리",
-          "score": 93
-        },
-        {
-          "keyword": "정년",
-          "score": 92
-        },
-        {
-          "keyword": "체크카드",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-08T21:06:19.689Z",
       "geo": "KR",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "맨유",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-12T20:24:23.770Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "무인 항공기",
+          "score": 100
+        },
+        {
+          "keyword": "전광훈",
+          "score": 99
+        },
+        {
+          "keyword": "게임",
+          "score": 98
+        },
+        {
+          "keyword": "이영자",
+          "score": 97
+        },
+        {
+          "keyword": "스위프트",
+          "score": 96
+        },
+        {
+          "keyword": "배현진",
+          "score": 95
+        },
+        {
+          "keyword": "손담비",
+          "score": 94
+        },
+        {
+          "keyword": "justin bieber",
+          "score": 93
+        },
+        {
+          "keyword": "เชลซี พบ แมนซิตี",
+          "score": 92
+        },
+        {
+          "keyword": "chelsea đấu với man city",
           "score": 91
         }
       ]
