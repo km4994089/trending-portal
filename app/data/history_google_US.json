@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-08T23:05:05.681Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "pope",
-          "score": 100
-        },
-        {
-          "keyword": "lindsey buckingham attacked",
-          "score": 99
-        },
-        {
-          "keyword": "sabres vs rangers",
-          "score": 98
-        },
-        {
-          "keyword": "marsai martin",
-          "score": 97
-        },
-        {
-          "keyword": "copa sudamericana",
-          "score": 96
-        },
-        {
-          "keyword": "mark rutte",
-          "score": 95
-        },
-        {
-          "keyword": "dick vitale",
-          "score": 94
-        },
-        {
-          "keyword": "jim cramer",
-          "score": 93
-        },
-        {
-          "keyword": "hawks vs cavaliers",
-          "score": 92
-        },
-        {
-          "keyword": "bucks vs pistons",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-04-08T23:56:14.297Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "yankee game today",
-          "score": 100
-        },
-        {
-          "keyword": "junior vs palmeiras",
-          "score": 99
-        },
-        {
-          "keyword": "junior - palmeiras",
-          "score": 98
-        },
-        {
-          "keyword": "dominican republic",
-          "score": 97
-        },
-        {
-          "keyword": "john wick",
-          "score": 96
-        },
-        {
-          "keyword": "mike lawler",
-          "score": 95
-        },
-        {
-          "keyword": "jamie ding",
-          "score": 94
-        },
-        {
-          "keyword": "jeopardy today",
-          "score": 93
-        },
-        {
-          "keyword": "libertadores",
-          "score": 92
-        },
-        {
-          "keyword": "ron francis",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-09T01:26:34.909Z",
       "geo": "US",
       "source": "google",
@@ -4181,6 +4087,53 @@
         },
         {
           "keyword": "rory mcilroy masters dinner",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-12T23:57:23.056Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "warriors vs clippers",
+          "score": 100
+        },
+        {
+          "keyword": "nuggets vs spurs",
+          "score": 99
+        },
+        {
+          "keyword": "suns vs thunder",
+          "score": 98
+        },
+        {
+          "keyword": "grizzlies vs rockets",
+          "score": 97
+        },
+        {
+          "keyword": "pelicans vs timberwolves",
+          "score": 96
+        },
+        {
+          "keyword": "mike tomlin",
+          "score": 95
+        },
+        {
+          "keyword": "baylor scheierman",
+          "score": 94
+        },
+        {
+          "keyword": "wet leg",
+          "score": 93
+        },
+        {
+          "keyword": "dtf st. louis episodes",
+          "score": 92
+        },
+        {
+          "keyword": "chris mcintosh",
           "score": 91
         }
       ]

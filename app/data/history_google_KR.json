@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-08T23:05:06.902Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "오타니 쇼헤이",
-          "score": 100
-        },
-        {
-          "keyword": "화재",
-          "score": 99
-        },
-        {
-          "keyword": "mu",
-          "score": 98
-        },
-        {
-          "keyword": "날씨",
-          "score": 97
-        },
-        {
-          "keyword": "비트코인",
-          "score": 96
-        },
-        {
-          "keyword": "해산물",
-          "score": 95
-        },
-        {
-          "keyword": "다이 소",
-          "score": 94
-        },
-        {
-          "keyword": "weather",
-          "score": 93
-        },
-        {
-          "keyword": "베트남 축구 국가대표팀",
-          "score": 92
-        },
-        {
-          "keyword": "pltr",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-04-08T23:56:15.539Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "연료전지",
-          "score": 100
-        },
-        {
-          "keyword": "김상식",
-          "score": 99
-        },
-        {
-          "keyword": "함지훈",
-          "score": 98
-        },
-        {
-          "keyword": "로보택시",
-          "score": 97
-        },
-        {
-          "keyword": "이정후",
-          "score": 96
-        },
-        {
-          "keyword": "한국 금 거래소 시세",
-          "score": 95
-        },
-        {
-          "keyword": "天气",
-          "score": 94
-        },
-        {
-          "keyword": "화재",
-          "score": 93
-        },
-        {
-          "keyword": "현대무벡스",
-          "score": 92
-        },
-        {
-          "keyword": "mu",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-09T01:26:36.410Z",
       "geo": "KR",
       "source": "google",
@@ -4181,6 +4087,53 @@
         },
         {
           "keyword": "위성우",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-12T23:57:24.349Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "현인",
+          "score": 100
+        },
+        {
+          "keyword": "헌법",
+          "score": 99
+        },
+        {
+          "keyword": "뉴스",
+          "score": 98
+        },
+        {
+          "keyword": "건강보험",
+          "score": 97
+        },
+        {
+          "keyword": "헝가리 총선",
+          "score": 96
+        },
+        {
+          "keyword": "다저스",
+          "score": 95
+        },
+        {
+          "keyword": "신랑",
+          "score": 94
+        },
+        {
+          "keyword": "이재원",
+          "score": 93
+        },
+        {
+          "keyword": "송민규",
+          "score": 92
+        },
+        {
+          "keyword": "lg그룹",
           "score": 91
         }
       ]
