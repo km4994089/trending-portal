@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-08T06:20:56.423Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "john krasinski",
-          "score": 100
-        },
-        {
-          "keyword": "amen thompson",
-          "score": 99
-        },
-        {
-          "keyword": "scooter braun",
-          "score": 98
-        },
-        {
-          "keyword": "suns score",
-          "score": 97
-        },
-        {
-          "keyword": "reed sheppard",
-          "score": 96
-        },
-        {
-          "keyword": "alperen şengün",
-          "score": 95
-        },
-        {
-          "keyword": "bronny james",
-          "score": 94
-        },
-        {
-          "keyword": "alperen sengun",
-          "score": 93
-        },
-        {
-          "keyword": "lakers score",
-          "score": 92
-        },
-        {
-          "keyword": "vgk",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-08T07:56:38.500Z",
       "geo": "US",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "vin scully",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-12T07:47:35.019Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tokyo",
+          "score": 100
+        },
+        {
+          "keyword": "sydney",
+          "score": 99
+        },
+        {
+          "keyword": "delhi",
+          "score": 98
+        },
+        {
+          "keyword": "timothee chalamet",
+          "score": 97
+        },
+        {
+          "keyword": "berlin",
+          "score": 96
+        },
+        {
+          "keyword": "paris",
+          "score": 95
+        },
+        {
+          "keyword": "london",
+          "score": 94
+        },
+        {
+          "keyword": "sykkuno drama",
+          "score": 93
+        },
+        {
+          "keyword": "attack on titan",
+          "score": 92
+        },
+        {
+          "keyword": "thailand",
           "score": 91
         }
       ]

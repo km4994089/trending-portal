@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-08T06:20:59.117Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "えんとつ町のプペル",
-          "score": 100
-        },
-        {
-          "keyword": "中国時代劇",
-          "score": 99
-        },
-        {
-          "keyword": "iphone 折りたたみ",
-          "score": 98
-        },
-        {
-          "keyword": "富山大学",
-          "score": 97
-        },
-        {
-          "keyword": "日本郵船",
-          "score": 96
-        },
-        {
-          "keyword": "ワンピース",
-          "score": 95
-        },
-        {
-          "keyword": "東北新幹線",
-          "score": 94
-        },
-        {
-          "keyword": "渋野日向子",
-          "score": 93
-        },
-        {
-          "keyword": "クォン・サンウ",
-          "score": 92
-        },
-        {
-          "keyword": "マルク カサド",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-08T07:56:40.803Z",
       "geo": "JP",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "松本山雅fc",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-12T07:47:37.864Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "鹿島アントラーズ",
+          "score": 100
+        },
+        {
+          "keyword": "吉瀬 美智子",
+          "score": 99
+        },
+        {
+          "keyword": "オートレース",
+          "score": 98
+        },
+        {
+          "keyword": "マルジェラ展",
+          "score": 97
+        },
+        {
+          "keyword": "mlb",
+          "score": 96
+        },
+        {
+          "keyword": "弥彦村",
+          "score": 95
+        },
+        {
+          "keyword": "サブロー",
+          "score": 94
+        },
+        {
+          "keyword": "増居翔太",
+          "score": 93
+        },
+        {
+          "keyword": "東建ホームメイトカップ",
+          "score": 92
+        },
+        {
+          "keyword": "亀梨 和也",
           "score": 91
         }
       ]
