@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-08T21:06:19.689Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "승무원",
-          "score": 100
-        },
-        {
-          "keyword": "대륙간 탄도 미사일",
-          "score": 99
-        },
-        {
-          "keyword": "지상렬",
-          "score": 98
-        },
-        {
-          "keyword": "barcelona",
-          "score": 97
-        },
-        {
-          "keyword": "김관영",
-          "score": 96
-        },
-        {
-          "keyword": "psg vs liverpool",
-          "score": 95
-        },
-        {
-          "keyword": "장윤정",
-          "score": 94
-        },
-        {
-          "keyword": "전자 담배",
-          "score": 93
-        },
-        {
-          "keyword": "스포티비",
-          "score": 92
-        },
-        {
-          "keyword": "barcelona vs atlético madrid",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-08T22:03:37.744Z",
       "geo": "KR",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "배현진",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-12T21:36:29.246Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "선거",
+          "score": 100
+        },
+        {
+          "keyword": "가요무대",
+          "score": 99
+        },
+        {
+          "keyword": "kia 타이거즈",
+          "score": 98
+        },
+        {
+          "keyword": "삼성sds",
+          "score": 97
+        },
+        {
+          "keyword": "masters",
+          "score": 96
+        },
+        {
+          "keyword": "아버지",
+          "score": 95
+        },
+        {
+          "keyword": "야구",
+          "score": 94
+        },
+        {
+          "keyword": "정치",
+          "score": 93
+        },
+        {
+          "keyword": "탁구",
+          "score": 92
+        },
+        {
+          "keyword": "김미숙",
           "score": 91
         }
       ]
