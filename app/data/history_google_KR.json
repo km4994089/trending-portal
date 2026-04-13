@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-09T01:26:36.410Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "영재 발굴단",
-          "score": 100
-        },
-        {
-          "keyword": "김남국",
-          "score": 99
-        },
-        {
-          "keyword": "배달",
-          "score": 98
-        },
-        {
-          "keyword": "옥순이",
-          "score": 97
-        },
-        {
-          "keyword": "택배기사",
-          "score": 96
-        },
-        {
-          "keyword": "pokémon go",
-          "score": 95
-        },
-        {
-          "keyword": "타이거스 대 트윈스",
-          "score": 94
-        },
-        {
-          "keyword": "머니투데이",
-          "score": 93
-        },
-        {
-          "keyword": "기아 ev3",
-          "score": 92
-        },
-        {
-          "keyword": "상장지수 펀드",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-09T04:08:40.757Z",
       "geo": "KR",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "lg그룹",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-13T02:11:56.566Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "광주방송",
+          "score": 100
+        },
+        {
+          "keyword": "금융투자협회",
+          "score": 99
+        },
+        {
+          "keyword": "대한광통신 주가",
+          "score": 98
+        },
+        {
+          "keyword": "오픈ai",
+          "score": 97
+        },
+        {
+          "keyword": "청약",
+          "score": 96
+        },
+        {
+          "keyword": "복싱",
+          "score": 95
+        },
+        {
+          "keyword": "재보궐선거",
+          "score": 94
+        },
+        {
+          "keyword": "제시 린가드",
+          "score": 93
+        },
+        {
+          "keyword": "마이클 버리",
+          "score": 92
+        },
+        {
+          "keyword": "주가",
           "score": 91
         }
       ]

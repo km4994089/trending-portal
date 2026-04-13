@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-09T01:26:34.909Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mavericks vs suns",
-          "score": 100
-        },
-        {
-          "keyword": "bob woodward",
-          "score": 99
-        },
-        {
-          "keyword": "tigres uanl",
-          "score": 98
-        },
-        {
-          "keyword": "jalen johnson",
-          "score": 97
-        },
-        {
-          "keyword": "jeff probst",
-          "score": 96
-        },
-        {
-          "keyword": "biopics",
-          "score": 95
-        },
-        {
-          "keyword": "thunder vs clippers",
-          "score": 94
-        },
-        {
-          "keyword": "sierra nevada winter storm",
-          "score": 93
-        },
-        {
-          "keyword": "east providence",
-          "score": 92
-        },
-        {
-          "keyword": "gerhardt konig verdict",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-09T04:08:39.271Z",
       "geo": "US",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "chris mcintosh",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-13T02:11:54.967Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sam levinson",
+          "score": 100
+        },
+        {
+          "keyword": "david harbour",
+          "score": 99
+        },
+        {
+          "keyword": "roy wood jr",
+          "score": 98
+        },
+        {
+          "keyword": "the rookie",
+          "score": 97
+        },
+        {
+          "keyword": "ace bailey",
+          "score": 96
+        },
+        {
+          "keyword": "john collins",
+          "score": 95
+        },
+        {
+          "keyword": "kevin love",
+          "score": 94
+        },
+        {
+          "keyword": "bailey zimmerman",
+          "score": 93
+        },
+        {
+          "keyword": "adam copeland",
+          "score": 92
+        },
+        {
+          "keyword": "curtis jones",
           "score": 91
         }
       ]

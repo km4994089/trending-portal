@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-09T01:26:37.841Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "千葉雄大",
-          "score": 100
-        },
-        {
-          "keyword": "和田明日香",
-          "score": 99
-        },
-        {
-          "keyword": "中央線",
-          "score": 98
-        },
-        {
-          "keyword": "イージス・システム搭載艦",
-          "score": 97
-        },
-        {
-          "keyword": "浅草",
-          "score": 96
-        },
-        {
-          "keyword": "お台場",
-          "score": 95
-        },
-        {
-          "keyword": "金与正",
-          "score": 94
-        },
-        {
-          "keyword": "大阪公立大学",
-          "score": 93
-        },
-        {
-          "keyword": "国枝栄",
-          "score": 92
-        },
-        {
-          "keyword": "横田真悠",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-09T04:08:42.264Z",
       "geo": "JP",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "遅延",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-13T02:11:57.912Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "豊後高田市",
+          "score": 100
+        },
+        {
+          "keyword": "台風風速",
+          "score": 99
+        },
+        {
+          "keyword": "astemo",
+          "score": 98
+        },
+        {
+          "keyword": "登板",
+          "score": 97
+        },
+        {
+          "keyword": "埼玉大学",
+          "score": 96
+        },
+        {
+          "keyword": "シティーハンター",
+          "score": 95
+        },
+        {
+          "keyword": "萩原利久",
+          "score": 94
+        },
+        {
+          "keyword": "コロンビア",
+          "score": 93
+        },
+        {
+          "keyword": "nba",
+          "score": 92
+        },
+        {
+          "keyword": "グループ リーグ",
           "score": 91
         }
       ]
