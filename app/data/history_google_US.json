@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-09T16:12:34.909Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "diddy",
-          "score": 100
-        },
-        {
-          "keyword": "the miz",
-          "score": 99
-        },
-        {
-          "keyword": "mcallen tx",
-          "score": 98
-        },
-        {
-          "keyword": "mexico–united states border wall",
-          "score": 97
-        },
-        {
-          "keyword": "nyt strands hints",
-          "score": 96
-        },
-        {
-          "keyword": "amzn",
-          "score": 95
-        },
-        {
-          "keyword": "fireball meteor over northeast",
-          "score": 94
-        },
-        {
-          "keyword": "splendora high school",
-          "score": 93
-        },
-        {
-          "keyword": "liudmila samsonova",
-          "score": 92
-        },
-        {
-          "keyword": "prince harry",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-09T17:35:02.751Z",
       "geo": "US",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "mike greenberg sergio garcia masters",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-13T16:53:31.106Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sloane stephens",
+          "score": 100
+        },
+        {
+          "keyword": "jaeden mustaf",
+          "score": 99
+        },
+        {
+          "keyword": "sid krofft",
+          "score": 98
+        },
+        {
+          "keyword": "ravens george pickens trade rumors",
+          "score": 97
+        },
+        {
+          "keyword": "pershing square",
+          "score": 96
+        },
+        {
+          "keyword": "sakib hussain",
+          "score": 95
+        },
+        {
+          "keyword": "alix earle",
+          "score": 94
+        },
+        {
+          "keyword": "iphone 17 pro",
+          "score": 93
+        },
+        {
+          "keyword": "brian hooker",
+          "score": 92
+        },
+        {
+          "keyword": "jonathan quick",
           "score": 91
         }
       ]
