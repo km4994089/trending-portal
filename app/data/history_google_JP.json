@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-09T18:49:46.823Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "熊本天気",
-          "score": 100
-        },
-        {
-          "keyword": "名探偵コナン",
-          "score": 99
-        },
-        {
-          "keyword": "最終回",
-          "score": 98
-        },
-        {
-          "keyword": "廣瀬智紀",
-          "score": 97
-        },
-        {
-          "keyword": "スティグマ",
-          "score": 96
-        },
-        {
-          "keyword": "アトリエ",
-          "score": 95
-        },
-        {
-          "keyword": "魯山人のかまど",
-          "score": 94
-        },
-        {
-          "keyword": "花澤香菜",
-          "score": 93
-        },
-        {
-          "keyword": "鈴木愛理",
-          "score": 92
-        },
-        {
-          "keyword": "藤竜也",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-09T19:57:54.879Z",
       "geo": "JP",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "プラグマタ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-13T19:00:44.813Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "日本アカデミー賞 最優秀助演男優賞",
+          "score": 100
+        },
+        {
+          "keyword": "マンu 対 リーズ u",
+          "score": 99
+        },
+        {
+          "keyword": "サンディスク 株価",
+          "score": 98
+        },
+        {
+          "keyword": "マクドナルド",
+          "score": 97
+        },
+        {
+          "keyword": "ロシア",
+          "score": 96
+        },
+        {
+          "keyword": "広島市",
+          "score": 95
+        },
+        {
+          "keyword": "ワークマン",
+          "score": 94
+        },
+        {
+          "keyword": "claude",
+          "score": 93
+        },
+        {
+          "keyword": "犯人逮捕",
+          "score": 92
+        },
+        {
+          "keyword": "ストレンジャーシングス",
           "score": 91
         }
       ]

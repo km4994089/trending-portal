@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-09T18:49:43.929Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "melania trump",
-          "score": 100
-        },
-        {
-          "keyword": "barron trump beverage company",
-          "score": 99
-        },
-        {
-          "keyword": "sphere",
-          "score": 98
-        },
-        {
-          "keyword": "refinance rates",
-          "score": 97
-        },
-        {
-          "keyword": "fha financing",
-          "score": 96
-        },
-        {
-          "keyword": "childcare",
-          "score": 95
-        },
-        {
-          "keyword": "bologna vs aston villa",
-          "score": 94
-        },
-        {
-          "keyword": "porto vs nottm forest",
-          "score": 93
-        },
-        {
-          "keyword": "crystal palace vs fiorentina",
-          "score": 92
-        },
-        {
-          "keyword": "sc freiburg vs celta vigo",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-09T19:57:52.014Z",
       "geo": "US",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "uranium enrichment",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-13T19:00:41.927Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "carlos batista",
+          "score": 100
+        },
+        {
+          "keyword": "katie boulter",
+          "score": 99
+        },
+        {
+          "keyword": "levante - getafe",
+          "score": 98
+        },
+        {
+          "keyword": "levante vs getafe",
+          "score": 97
+        },
+        {
+          "keyword": "mcilroy green jacket presentation",
+          "score": 96
+        },
+        {
+          "keyword": "man united vs leeds",
+          "score": 95
+        },
+        {
+          "keyword": "7-eleven closing locations",
+          "score": 94
+        },
+        {
+          "keyword": "fiorentina vs lazio",
+          "score": 93
+        },
+        {
+          "keyword": "nvidia",
+          "score": 92
+        },
+        {
+          "keyword": "ipl standings",
           "score": 91
         }
       ]
