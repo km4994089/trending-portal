@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-09T21:38:14.834Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cboe volatility index",
-          "score": 100
-        },
-        {
-          "keyword": "und hockey",
-          "score": 99
-        },
-        {
-          "keyword": "nasdaq composite",
-          "score": 98
-        },
-        {
-          "keyword": "candace owens",
-          "score": 97
-        },
-        {
-          "keyword": "brendan fraser mummy sequel",
-          "score": 96
-        },
-        {
-          "keyword": "miles byrd",
-          "score": 95
-        },
-        {
-          "keyword": "frozen four",
-          "score": 94
-        },
-        {
-          "keyword": "spanish broadcasting system",
-          "score": 93
-        },
-        {
-          "keyword": "xbox game pass games",
-          "score": 92
-        },
-        {
-          "keyword": "strait hormuz shipping standstill",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-09T22:31:23.643Z",
       "geo": "US",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "minnesota",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-13T22:06:30.506Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "atlantic meridional overturning circulation",
+          "score": 100
+        },
+        {
+          "keyword": "cubs vs phillies",
+          "score": 99
+        },
+        {
+          "keyword": "nationals vs pirates",
+          "score": 98
+        },
+        {
+          "keyword": "naples fire",
+          "score": 97
+        },
+        {
+          "keyword": "the cook political report",
+          "score": 96
+        },
+        {
+          "keyword": "diamondbacks vs orioles",
+          "score": 95
+        },
+        {
+          "keyword": "susan ballabina",
+          "score": 94
+        },
+        {
+          "keyword": "jj mandaquit",
+          "score": 93
+        },
+        {
+          "keyword": "be stock",
+          "score": 92
+        },
+        {
+          "keyword": "lamar jackson",
           "score": 91
         }
       ]
