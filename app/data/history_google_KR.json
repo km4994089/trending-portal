@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-09T10:38:12.261Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "풍산",
-          "score": 100
-        },
-        {
-          "keyword": "차승원",
-          "score": 99
-        },
-        {
-          "keyword": "삼성e&a",
-          "score": 98
-        },
-        {
-          "keyword": "봉투",
-          "score": 97
-        },
-        {
-          "keyword": "스테이블코인",
-          "score": 96
-        },
-        {
-          "keyword": "불암산 철쭉동산",
-          "score": 95
-        },
-        {
-          "keyword": "우주비행사",
-          "score": 94
-        },
-        {
-          "keyword": "사형",
-          "score": 93
-        },
-        {
-          "keyword": "배우",
-          "score": 92
-        },
-        {
-          "keyword": "gs건설",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-09T11:44:48.064Z",
       "geo": "KR",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "tv chosun",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-13T10:58:53.301Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "천이슬",
+          "score": 100
+        },
+        {
+          "keyword": "투수",
+          "score": 99
+        },
+        {
+          "keyword": "황산",
+          "score": 98
+        },
+        {
+          "keyword": "대학수학능력시험",
+          "score": 97
+        },
+        {
+          "keyword": "김건희",
+          "score": 96
+        },
+        {
+          "keyword": "혜인",
+          "score": 95
+        },
+        {
+          "keyword": "술",
+          "score": 94
+        },
+        {
+          "keyword": "카를로스 울버그",
+          "score": 93
+        },
+        {
+          "keyword": "이상렬",
+          "score": 92
+        },
+        {
+          "keyword": "김지수",
           "score": 91
         }
       ]
