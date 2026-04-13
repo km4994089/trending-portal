@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-09T12:59:03.068Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "matthew macfadyen",
-          "score": 100
-        },
-        {
-          "keyword": "daniel radcliffe",
-          "score": 99
-        },
-        {
-          "keyword": "jose maria olazabal",
-          "score": 98
-        },
-        {
-          "keyword": "arnold palmer",
-          "score": 97
-        },
-        {
-          "keyword": "judy reyes",
-          "score": 96
-        },
-        {
-          "keyword": "carlos ortiz",
-          "score": 95
-        },
-        {
-          "keyword": "naoyuki kataoka",
-          "score": 94
-        },
-        {
-          "keyword": "aldrich potgieter",
-          "score": 93
-        },
-        {
-          "keyword": "jim nantz",
-          "score": 92
-        },
-        {
-          "keyword": "supreme court",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-09T14:54:06.697Z",
       "geo": "US",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "celtics playoff schedule",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-13T14:12:20.216Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "intc",
+          "score": 100
+        },
+        {
+          "keyword": "australia",
+          "score": 99
+        },
+        {
+          "keyword": "santa rosa county",
+          "score": 98
+        },
+        {
+          "keyword": "santa rosa",
+          "score": 97
+        },
+        {
+          "keyword": "sandisk stock",
+          "score": 96
+        },
+        {
+          "keyword": "crm stock",
+          "score": 95
+        },
+        {
+          "keyword": "pltr stock price",
+          "score": 94
+        },
+        {
+          "keyword": "antony starr",
+          "score": 93
+        },
+        {
+          "keyword": "crwv stock",
+          "score": 92
+        },
+        {
+          "keyword": "sabres playoff tickets",
           "score": 91
         }
       ]
