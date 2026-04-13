@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-09T06:02:48.824Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "pablo escobar",
-          "score": 100
-        },
-        {
-          "keyword": "journey",
-          "score": 99
-        },
-        {
-          "keyword": "dan caine",
-          "score": 98
-        },
-        {
-          "keyword": "robby hoffman",
-          "score": 97
-        },
-        {
-          "keyword": "robert plant",
-          "score": 96
-        },
-        {
-          "keyword": "verizon outage",
-          "score": 95
-        },
-        {
-          "keyword": "alien romulus",
-          "score": 94
-        },
-        {
-          "keyword": "wordle",
-          "score": 93
-        },
-        {
-          "keyword": "is wordle down",
-          "score": 92
-        },
-        {
-          "keyword": "nyt strands",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-09T07:58:30.340Z",
       "geo": "US",
       "source": "google",
@@ -4134,6 +4087,53 @@
         },
         {
           "keyword": "rich eisen",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-13T07:24:16.928Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sykkuno drama",
+          "score": 100
+        },
+        {
+          "keyword": "coachella headliners 2026",
+          "score": 99
+        },
+        {
+          "keyword": "what time does coachella end",
+          "score": 98
+        },
+        {
+          "keyword": "coachella 2023",
+          "score": 97
+        },
+        {
+          "keyword": "anuel aa",
+          "score": 96
+        },
+        {
+          "keyword": "colombia",
+          "score": 95
+        },
+        {
+          "keyword": "seattle",
+          "score": 94
+        },
+        {
+          "keyword": "coachella weather",
+          "score": 93
+        },
+        {
+          "keyword": "bernie sanders",
+          "score": 92
+        },
+        {
+          "keyword": "shakira",
           "score": 91
         }
       ]
