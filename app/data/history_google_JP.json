@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-09T11:44:49.215Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "破産",
-          "score": 100
-        },
-        {
-          "keyword": "中山 美穂",
-          "score": 99
-        },
-        {
-          "keyword": "サトシ・ナカモト",
-          "score": 98
-        },
-        {
-          "keyword": "小池湧",
-          "score": 97
-        },
-        {
-          "keyword": "スルガ銀行",
-          "score": 96
-        },
-        {
-          "keyword": "カラム・ニューマン",
-          "score": 95
-        },
-        {
-          "keyword": "佐藤江梨子",
-          "score": 94
-        },
-        {
-          "keyword": "井口綾子",
-          "score": 93
-        },
-        {
-          "keyword": "影山優佳",
-          "score": 92
-        },
-        {
-          "keyword": "リュウジ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-09T12:59:05.786Z",
       "geo": "JP",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "安達祐実",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-13T12:02:07.374Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "夫婦別姓刑事",
+          "score": 100
+        },
+        {
+          "keyword": "吉村洋文",
+          "score": 99
+        },
+        {
+          "keyword": "タコス",
+          "score": 98
+        },
+        {
+          "keyword": "ラグビー",
+          "score": 97
+        },
+        {
+          "keyword": "陸上 自衛隊 滝川 駐屯 地",
+          "score": 96
+        },
+        {
+          "keyword": "角野隼斗",
+          "score": 95
+        },
+        {
+          "keyword": "中井亜美",
+          "score": 94
+        },
+        {
+          "keyword": "鶴瓶の家族に乾杯",
+          "score": 93
+        },
+        {
+          "keyword": "織田信成",
+          "score": 92
+        },
+        {
+          "keyword": "ボートレース桐生",
           "score": 91
         }
       ]
