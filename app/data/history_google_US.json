@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-09T17:35:02.751Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "brooks koepka",
-          "score": 100
-        },
-        {
-          "keyword": "aaron rai",
-          "score": 99
-        },
-        {
-          "keyword": "la28",
-          "score": 98
-        },
-        {
-          "keyword": "prime video",
-          "score": 97
-        },
-        {
-          "keyword": "usda brooke rollins easter email",
-          "score": 96
-        },
-        {
-          "keyword": "ayush badoni",
-          "score": 95
-        },
-        {
-          "keyword": "rickea jackson",
-          "score": 94
-        },
-        {
-          "keyword": "vacherot",
-          "score": 93
-        },
-        {
-          "keyword": "kristoffer reitan",
-          "score": 92
-        },
-        {
-          "keyword": "noah wyle",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-09T18:49:43.929Z",
       "geo": "US",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "jonathan quick",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-13T17:51:47.063Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "darren harris",
+          "score": 100
+        },
+        {
+          "keyword": "rafael jodar",
+          "score": 99
+        },
+        {
+          "keyword": "silver",
+          "score": 98
+        },
+        {
+          "keyword": "al-hilal vs al sadd",
+          "score": 97
+        },
+        {
+          "keyword": "bobby flay",
+          "score": 96
+        },
+        {
+          "keyword": "lenyn sosa",
+          "score": 95
+        },
+        {
+          "keyword": "laura siegemund",
+          "score": 94
+        },
+        {
+          "keyword": "orcl stock",
+          "score": 93
+        },
+        {
+          "keyword": "cpa",
+          "score": 92
+        },
+        {
+          "keyword": "uranium enrichment",
           "score": 91
         }
       ]
