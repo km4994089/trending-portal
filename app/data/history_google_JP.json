@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-10T09:43:10.214Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ウィットスタジオ",
-          "score": 100
-        },
-        {
-          "keyword": "プラレール",
-          "score": 99
-        },
-        {
-          "keyword": "南海高野線",
-          "score": 98
-        },
-        {
-          "keyword": "土屋伸之",
-          "score": 97
-        },
-        {
-          "keyword": "坂路",
-          "score": 96
-        },
-        {
-          "keyword": "プルパレイ",
-          "score": 95
-        },
-        {
-          "keyword": "今中慎二",
-          "score": 94
-        },
-        {
-          "keyword": "不二家",
-          "score": 93
-        },
-        {
-          "keyword": "ハイキュー!!",
-          "score": 92
-        },
-        {
-          "keyword": "hana",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-10T10:42:58.490Z",
       "geo": "JP",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "今村聖奈",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-14T10:14:40.243Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "中田翔",
+          "score": 100
+        },
+        {
+          "keyword": "小泉孝太郎",
+          "score": 99
+        },
+        {
+          "keyword": "松村 北斗",
+          "score": 98
+        },
+        {
+          "keyword": "糸井嘉男",
+          "score": 97
+        },
+        {
+          "keyword": "ドットアビス",
+          "score": 96
+        },
+        {
+          "keyword": "安達祐実",
+          "score": 95
+        },
+        {
+          "keyword": "音無 美紀子",
+          "score": 94
+        },
+        {
+          "keyword": "sfpホールディングス",
+          "score": 93
+        },
+        {
+          "keyword": "ドミノ・ピザ",
+          "score": 92
+        },
+        {
+          "keyword": "大井競馬",
           "score": 91
         }
       ]

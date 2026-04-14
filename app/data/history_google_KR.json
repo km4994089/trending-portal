@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-10T09:43:09.151Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kia 대 한화",
-          "score": 100
-        },
-        {
-          "keyword": "nc 대 삼성",
-          "score": 99
-        },
-        {
-          "keyword": "롯데 대 키움",
-          "score": 98
-        },
-        {
-          "keyword": "ssg 대 lg",
-          "score": 97
-        },
-        {
-          "keyword": "이재명",
-          "score": 96
-        },
-        {
-          "keyword": "두산 대 kt",
-          "score": 95
-        },
-        {
-          "keyword": "dns",
-          "score": 94
-        },
-        {
-          "keyword": "세율",
-          "score": 93
-        },
-        {
-          "keyword": "mlb",
-          "score": 92
-        },
-        {
-          "keyword": "전희철",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-10T10:42:57.405Z",
       "geo": "KR",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "공무원",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-14T10:14:38.794Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "초과근무",
+          "score": 100
+        },
+        {
+          "keyword": "포르쉐",
+          "score": 99
+        },
+        {
+          "keyword": "경제",
+          "score": 98
+        },
+        {
+          "keyword": "kt 대 nc",
+          "score": 97
+        },
+        {
+          "keyword": "이재명",
+          "score": 96
+        },
+        {
+          "keyword": "프로 바둑 기사",
+          "score": 95
+        },
+        {
+          "keyword": "삼성 대 한화",
+          "score": 94
+        },
+        {
+          "keyword": "키움 대 kia",
+          "score": 93
+        },
+        {
+          "keyword": "롯데 대 lg",
+          "score": 92
+        },
+        {
+          "keyword": "김경문",
           "score": 91
         }
       ]
