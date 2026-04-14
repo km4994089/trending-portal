@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-10T23:01:08.127Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "今田美桜",
-          "score": 100
-        },
-        {
-          "keyword": "造幣局通り抜け",
-          "score": 99
-        },
-        {
-          "keyword": "百貨店",
-          "score": 98
-        },
-        {
-          "keyword": "リファ",
-          "score": 97
-        },
-        {
-          "keyword": "アドバンテスト",
-          "score": 96
-        },
-        {
-          "keyword": "イ ジェフン",
-          "score": 95
-        },
-        {
-          "keyword": "あびき",
-          "score": 94
-        },
-        {
-          "keyword": "ジェシー・ロドリゲス",
-          "score": 93
-        },
-        {
-          "keyword": "福島競馬場",
-          "score": 92
-        },
-        {
-          "keyword": "オールガールズクラシック",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-10T23:56:24.929Z",
       "geo": "JP",
       "source": "google",
@@ -3946,6 +3899,53 @@
         },
         {
           "keyword": "ini",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-14T23:08:03.451Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "新しい地図",
+          "score": 100
+        },
+        {
+          "keyword": "ポルシェ",
+          "score": 99
+        },
+        {
+          "keyword": "藤原季節",
+          "score": 98
+        },
+        {
+          "keyword": "ジョルジャ・メローニ",
+          "score": 97
+        },
+        {
+          "keyword": "中村芝翫",
+          "score": 96
+        },
+        {
+          "keyword": "柴咲コウ",
+          "score": 95
+        },
+        {
+          "keyword": "タクシー",
+          "score": 94
+        },
+        {
+          "keyword": "野村悟",
+          "score": 93
+        },
+        {
+          "keyword": "ゴジラ",
+          "score": 92
+        },
+        {
+          "keyword": "中東",
           "score": 91
         }
       ]

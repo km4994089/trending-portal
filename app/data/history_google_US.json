@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-10T23:01:04.593Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "pelicans vs celtics",
-          "score": 100
-        },
-        {
-          "keyword": "raptors vs knicks",
-          "score": 99
-        },
-        {
-          "keyword": "nationals vs brewers",
-          "score": 98
-        },
-        {
-          "keyword": "who won the 2025 masters",
-          "score": 97
-        },
-        {
-          "keyword": "76ers vs pacers",
-          "score": 96
-        },
-        {
-          "keyword": "fsu shooting",
-          "score": 95
-        },
-        {
-          "keyword": "who has won back to back masters",
-          "score": 94
-        },
-        {
-          "keyword": "michael patrick game of thrones character",
-          "score": 93
-        },
-        {
-          "keyword": "real housewives potomac season 11",
-          "score": 92
-        },
-        {
-          "keyword": "lorenzo lamas",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-10T23:56:22.099Z",
       "geo": "US",
       "source": "google",
@@ -3946,6 +3899,53 @@
         },
         {
           "keyword": "avgo",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-14T23:08:00.723Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "fisa",
+          "score": 100
+        },
+        {
+          "keyword": "angels - yankees",
+          "score": 99
+        },
+        {
+          "keyword": "blue jays vs brewers",
+          "score": 98
+        },
+        {
+          "keyword": "devils vs bruins",
+          "score": 97
+        },
+        {
+          "keyword": "rays vs white sox",
+          "score": 96
+        },
+        {
+          "keyword": "canadiens vs flyers",
+          "score": 95
+        },
+        {
+          "keyword": "alex ovechkin",
+          "score": 94
+        },
+        {
+          "keyword": "capitals vs blue jackets",
+          "score": 93
+        },
+        {
+          "keyword": "roman gofman",
+          "score": 92
+        },
+        {
+          "keyword": "game changer",
           "score": 91
         }
       ]
