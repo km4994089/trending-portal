@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-10T08:04:21.588Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "訴訟",
-          "score": 100
-        },
-        {
-          "keyword": "ウォーレン・バフェット",
-          "score": 99
-        },
-        {
-          "keyword": "マツコ デラックス",
-          "score": 98
-        },
-        {
-          "keyword": "中条 あやみ",
-          "score": 97
-        },
-        {
-          "keyword": "サントリーサンバーズ大阪",
-          "score": 96
-        },
-        {
-          "keyword": "鈴木 おさむ",
-          "score": 95
-        },
-        {
-          "keyword": "jimin",
-          "score": 94
-        },
-        {
-          "keyword": "冷夏",
-          "score": 93
-        },
-        {
-          "keyword": "285a",
-          "score": 92
-        },
-        {
-          "keyword": "日経平均株価",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-10T09:43:10.214Z",
       "geo": "JP",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "適時開示",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-14T08:58:33.422Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "妻夫木聡",
+          "score": 100
+        },
+        {
+          "keyword": "豊橋市民球場",
+          "score": 99
+        },
+        {
+          "keyword": "ストリートファイター6",
+          "score": 98
+        },
+        {
+          "keyword": "デイリーnk",
+          "score": 97
+        },
+        {
+          "keyword": "積水化学",
+          "score": 96
+        },
+        {
+          "keyword": "阪神 対 巨人",
+          "score": 95
+        },
+        {
+          "keyword": "ソフトバンク 対 楽天",
+          "score": 94
+        },
+        {
+          "keyword": "中日 対 広島",
+          "score": 93
+        },
+        {
+          "keyword": "ロッテ 対 日本ハム",
+          "score": 92
+        },
+        {
+          "keyword": "今村聖奈",
           "score": 91
         }
       ]

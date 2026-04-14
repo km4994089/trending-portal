@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-10T08:04:18.961Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sonic",
-          "score": 100
-        },
-        {
-          "keyword": "prediction market",
-          "score": 99
-        },
-        {
-          "keyword": "real estate",
-          "score": 98
-        },
-        {
-          "keyword": "donald trump military draft",
-          "score": 97
-        },
-        {
-          "keyword": "malcolm in the middle: life's still unfair",
-          "score": 96
-        },
-        {
-          "keyword": "melissa mccarthy",
-          "score": 95
-        },
-        {
-          "keyword": "xander bogaerts",
-          "score": 94
-        },
-        {
-          "keyword": "laura loomer",
-          "score": 93
-        },
-        {
-          "keyword": "kyle karros",
-          "score": 92
-        },
-        {
-          "keyword": "erin moriarty",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-10T09:43:07.963Z",
       "geo": "US",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "national weather service",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-14T08:58:30.931Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "class action",
+          "score": 100
+        },
+        {
+          "keyword": "personal injury attorney",
+          "score": 99
+        },
+        {
+          "keyword": "auto accident attorneys",
+          "score": 98
+        },
+        {
+          "keyword": "daniel rodriguez",
+          "score": 97
+        },
+        {
+          "keyword": "truck accident lawyers",
+          "score": 96
+        },
+        {
+          "keyword": "car accident lawyers",
+          "score": 95
+        },
+        {
+          "keyword": "kansas tornadoes",
+          "score": 94
+        },
+        {
+          "keyword": "richard russell",
+          "score": 93
+        },
+        {
+          "keyword": "windrose",
+          "score": 92
+        },
+        {
+          "keyword": "miu miu",
           "score": 91
         }
       ]

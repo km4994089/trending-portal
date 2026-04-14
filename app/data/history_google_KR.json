@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-10T08:04:20.142Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "공천",
-          "score": 100
-        },
-        {
-          "keyword": "개",
-          "score": 99
-        },
-        {
-          "keyword": "루닛",
-          "score": 98
-        },
-        {
-          "keyword": "돈",
-          "score": 97
-        },
-        {
-          "keyword": "차상현",
-          "score": 96
-        },
-        {
-          "keyword": "해트트릭",
-          "score": 95
-        },
-        {
-          "keyword": "김풍",
-          "score": 94
-        },
-        {
-          "keyword": "윤여정",
-          "score": 93
-        },
-        {
-          "keyword": "한혜진",
-          "score": 92
-        },
-        {
-          "keyword": "전주시",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-10T09:43:09.151Z",
       "geo": "KR",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "소방관",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-14T08:58:32.315Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "코스피",
+          "score": 100
+        },
+        {
+          "keyword": "프로바둑기사",
+          "score": 99
+        },
+        {
+          "keyword": "돈",
+          "score": 98
+        },
+        {
+          "keyword": "고용",
+          "score": 97
+        },
+        {
+          "keyword": "영도교",
+          "score": 96
+        },
+        {
+          "keyword": "액화천연가스",
+          "score": 95
+        },
+        {
+          "keyword": "000660",
+          "score": 94
+        },
+        {
+          "keyword": "mlb",
+          "score": 93
+        },
+        {
+          "keyword": "충전기",
+          "score": 92
+        },
+        {
+          "keyword": "공무원",
           "score": 91
         }
       ]
