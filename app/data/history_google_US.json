@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-10T06:13:05.653Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "melissa mccarthy",
-          "score": 100
-        },
-        {
-          "keyword": "xander bogaerts",
-          "score": 99
-        },
-        {
-          "keyword": "kyle karros",
-          "score": 98
-        },
-        {
-          "keyword": "laura loomer",
-          "score": 97
-        },
-        {
-          "keyword": "erin moriarty",
-          "score": 96
-        },
-        {
-          "keyword": "alana haim",
-          "score": 95
-        },
-        {
-          "keyword": "gen v",
-          "score": 94
-        },
-        {
-          "keyword": "kehlani",
-          "score": 93
-        },
-        {
-          "keyword": "nathan lane",
-          "score": 92
-        },
-        {
-          "keyword": "padres game today",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-10T08:04:18.961Z",
       "geo": "US",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "disney cruise line",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-14T07:17:48.801Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "miu miu",
+          "score": 100
+        },
+        {
+          "keyword": "tornado siren",
+          "score": 99
+        },
+        {
+          "keyword": "fox6",
+          "score": 98
+        },
+        {
+          "keyword": "scott bessent",
+          "score": 97
+        },
+        {
+          "keyword": "fox 6",
+          "score": 96
+        },
+        {
+          "keyword": "tornado warning near me",
+          "score": 95
+        },
+        {
+          "keyword": "power outage near me",
+          "score": 94
+        },
+        {
+          "keyword": "tornado warning",
+          "score": 93
+        },
+        {
+          "keyword": "tornado near me",
+          "score": 92
+        },
+        {
+          "keyword": "national weather service",
           "score": 91
         }
       ]
