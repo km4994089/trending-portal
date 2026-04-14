@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-10T10:42:58.490Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "イオン",
-          "score": 100
-        },
-        {
-          "keyword": "株主",
-          "score": 99
-        },
-        {
-          "keyword": "秋野暢子",
-          "score": 98
-        },
-        {
-          "keyword": "横浜スタジアム",
-          "score": 97
-        },
-        {
-          "keyword": "内田 有紀",
-          "score": 96
-        },
-        {
-          "keyword": "ゆりにゃ",
-          "score": 95
-        },
-        {
-          "keyword": "jdリーグ",
-          "score": 94
-        },
-        {
-          "keyword": "ダヤン・ビシエド",
-          "score": 93
-        },
-        {
-          "keyword": "宝塚音楽学校",
-          "score": 92
-        },
-        {
-          "keyword": "exo-cbx",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-10T11:39:39.770Z",
       "geo": "JP",
       "source": "google",
@@ -4087,6 +4040,53 @@
         },
         {
           "keyword": "大井競馬",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-14T11:34:08.735Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "上坂樹里",
+          "score": 100
+        },
+        {
+          "keyword": "田中瑛斗",
+          "score": 99
+        },
+        {
+          "keyword": "美空ひばり",
+          "score": 98
+        },
+        {
+          "keyword": "高井幸大",
+          "score": 97
+        },
+        {
+          "keyword": "ギフト キャスト",
+          "score": 96
+        },
+        {
+          "keyword": "小松菜奈",
+          "score": 95
+        },
+        {
+          "keyword": "コーチェラ・フェスティバル",
+          "score": 94
+        },
+        {
+          "keyword": "オモウマい店 和歌山",
+          "score": 93
+        },
+        {
+          "keyword": "カイヤ",
+          "score": 92
+        },
+        {
+          "keyword": "岡田将生",
           "score": 91
         }
       ]
