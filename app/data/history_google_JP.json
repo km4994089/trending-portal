@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-10T11:39:39.770Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "florida man",
-          "score": 100
-        },
-        {
-          "keyword": "小豆島",
-          "score": 99
-        },
-        {
-          "keyword": "マツコデラックス",
-          "score": 98
-        },
-        {
-          "keyword": "山口陽世",
-          "score": 97
-        },
-        {
-          "keyword": "直島",
-          "score": 96
-        },
-        {
-          "keyword": "川﨑桜",
-          "score": 95
-        },
-        {
-          "keyword": "香川県",
-          "score": 94
-        },
-        {
-          "keyword": "四国",
-          "score": 93
-        },
-        {
-          "keyword": "マツコ",
-          "score": 92
-        },
-        {
-          "keyword": "くじ",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-04-10T12:45:17.312Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "古谷徹",
-          "score": 100
-        },
-        {
-          "keyword": "cpi",
-          "score": 99
-        },
-        {
-          "keyword": "パナソニック",
-          "score": 98
-        },
-        {
-          "keyword": "麻生太郎",
-          "score": 97
-        },
-        {
-          "keyword": "ウルフアロン",
-          "score": 96
-        },
-        {
-          "keyword": "経済指標",
-          "score": 95
-        },
-        {
-          "keyword": "応援上映",
-          "score": 94
-        },
-        {
-          "keyword": "高市内閣 支持率",
-          "score": 93
-        },
-        {
-          "keyword": "ダイソー ちい かわ",
-          "score": 92
-        },
-        {
-          "keyword": "渡部建",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-10T14:11:08.484Z",
       "geo": "JP",
       "source": "google",
@@ -4087,6 +3993,53 @@
         },
         {
           "keyword": "岡田将生",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-14T13:00:52.275Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "モンハン",
+          "score": 100
+        },
+        {
+          "keyword": "大東文化大学",
+          "score": 99
+        },
+        {
+          "keyword": "ジョリー",
+          "score": 98
+        },
+        {
+          "keyword": "ディズニーファン",
+          "score": 97
+        },
+        {
+          "keyword": "峰竜太",
+          "score": 96
+        },
+        {
+          "keyword": "メタプラネット",
+          "score": 95
+        },
+        {
+          "keyword": "東京スプリント",
+          "score": 94
+        },
+        {
+          "keyword": "小池百合子",
+          "score": 93
+        },
+        {
+          "keyword": "u23ラグビー日本代表",
+          "score": 92
+        },
+        {
+          "keyword": "スポティファイ",
           "score": 91
         }
       ]
