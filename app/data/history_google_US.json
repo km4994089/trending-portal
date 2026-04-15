@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-11T20:21:46.657Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tj hughes",
-          "score": 100
-        },
-        {
-          "keyword": "al ahly vs smouha",
-          "score": 99
-        },
-        {
-          "keyword": "lafc vs portland",
-          "score": 98
-        },
-        {
-          "keyword": "collin morikawa",
-          "score": 97
-        },
-        {
-          "keyword": "shane lowry hole in one masters",
-          "score": 96
-        },
-        {
-          "keyword": "oilers vs kings",
-          "score": 95
-        },
-        {
-          "keyword": "craig conover",
-          "score": 94
-        },
-        {
-          "keyword": "sidney crosby",
-          "score": 93
-        },
-        {
-          "keyword": "ryan gerard",
-          "score": 92
-        },
-        {
-          "keyword": "richard riakporhe",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-11T20:56:32.648Z",
       "geo": "US",
       "source": "google",
@@ -3570,6 +3523,53 @@
         },
         {
           "keyword": "madrid club",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-15T20:42:01.417Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "olise",
+          "score": 100
+        },
+        {
+          "keyword": "musiala",
+          "score": 99
+        },
+        {
+          "keyword": "gnabry",
+          "score": 98
+        },
+        {
+          "keyword": "airline",
+          "score": 97
+        },
+        {
+          "keyword": "ketanji brown jackson",
+          "score": 96
+        },
+        {
+          "keyword": "joy harmon",
+          "score": 95
+        },
+        {
+          "keyword": "tijuana river",
+          "score": 94
+        },
+        {
+          "keyword": "katie boulter",
+          "score": 93
+        },
+        {
+          "keyword": "champions league bracket",
+          "score": 92
+        },
+        {
+          "keyword": "uss carl m. levin coyote launcher",
           "score": 91
         }
       ]
