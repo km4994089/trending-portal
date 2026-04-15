@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-10T23:56:23.456Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "상속세",
-          "score": 100
-        },
-        {
-          "keyword": "엑스포츠뉴스",
-          "score": 99
-        },
-        {
-          "keyword": "김소영",
-          "score": 98
-        },
-        {
-          "keyword": "원주시",
-          "score": 97
-        },
-        {
-          "keyword": "박지성",
-          "score": 96
-        },
-        {
-          "keyword": "당근마켓",
-          "score": 95
-        },
-        {
-          "keyword": "임지연",
-          "score": 94
-        },
-        {
-          "keyword": "masters",
-          "score": 93
-        },
-        {
-          "keyword": "로스앤젤레스 다저스",
-          "score": 92
-        },
-        {
-          "keyword": "땅끝항",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-11T04:11:28.341Z",
       "geo": "KR",
       "source": "google",
@@ -3946,6 +3899,53 @@
         },
         {
           "keyword": "플레이스테이션 5",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-15T00:03:40.837Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "비야디",
+          "score": 100
+        },
+        {
+          "keyword": "가수",
+          "score": 99
+        },
+        {
+          "keyword": "커피",
+          "score": 98
+        },
+        {
+          "keyword": "알베르토 후지모리",
+          "score": 97
+        },
+        {
+          "keyword": "한국프로농구",
+          "score": 96
+        },
+        {
+          "keyword": "박주봉",
+          "score": 95
+        },
+        {
+          "keyword": "협박",
+          "score": 94
+        },
+        {
+          "keyword": "기소",
+          "score": 93
+        },
+        {
+          "keyword": "스타벅스 토이스토리",
+          "score": 92
+        },
+        {
+          "keyword": "인플레이션",
           "score": 91
         }
       ]
