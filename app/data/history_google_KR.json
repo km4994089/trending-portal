@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-12T21:36:29.246Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "선거",
-          "score": 100
-        },
-        {
-          "keyword": "가요무대",
-          "score": 99
-        },
-        {
-          "keyword": "kia 타이거즈",
-          "score": 98
-        },
-        {
-          "keyword": "삼성sds",
-          "score": 97
-        },
-        {
-          "keyword": "masters",
-          "score": 96
-        },
-        {
-          "keyword": "아버지",
-          "score": 95
-        },
-        {
-          "keyword": "야구",
-          "score": 94
-        },
-        {
-          "keyword": "정치",
-          "score": 93
-        },
-        {
-          "keyword": "탁구",
-          "score": 92
-        },
-        {
-          "keyword": "김미숙",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-04-12T22:23:18.298Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "엘앤에프",
-          "score": 100
-        },
-        {
-          "keyword": "lg 트윈스",
-          "score": 99
-        },
-        {
-          "keyword": "휴가",
-          "score": 98
-        },
-        {
-          "keyword": "2026",
-          "score": 97
-        },
-        {
-          "keyword": "위성우",
-          "score": 96
-        },
-        {
-          "keyword": "조선일보",
-          "score": 95
-        },
-        {
-          "keyword": "비트코인",
-          "score": 94
-        },
-        {
-          "keyword": "모두가 자신의 무가치함과 싸우고 있다",
-          "score": 93
-        },
-        {
-          "keyword": "수학여행",
-          "score": 92
-        },
-        {
-          "keyword": "대한민국",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-12T23:00:40.809Z",
       "geo": "KR",
       "source": "google",
@@ -3100,6 +3006,53 @@
         },
         {
           "keyword": "추성훈",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-16T22:30:28.329Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "amd",
+          "score": 100
+        },
+        {
+          "keyword": "빛과전자",
+          "score": 99
+        },
+        {
+          "keyword": "뉴스",
+          "score": 98
+        },
+        {
+          "keyword": "메이저 리그 베이스볼",
+          "score": 97
+        },
+        {
+          "keyword": "손아섭",
+          "score": 96
+        },
+        {
+          "keyword": "schd",
+          "score": 95
+        },
+        {
+          "keyword": "유로파 컨퍼런스리그",
+          "score": 94
+        },
+        {
+          "keyword": "kt",
+          "score": 93
+        },
+        {
+          "keyword": "당구",
+          "score": 92
+        },
+        {
+          "keyword": "현대자동차그룹",
           "score": 91
         }
       ]
