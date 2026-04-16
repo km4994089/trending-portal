@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-12T20:24:25.005Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "角田裕毅",
-          "score": 100
-        },
-        {
-          "keyword": "岩田絵里奈",
-          "score": 99
-        },
-        {
-          "keyword": "新庄 剛志",
-          "score": 98
-        },
-        {
-          "keyword": "テレビドラマ",
-          "score": 97
-        },
-        {
-          "keyword": "メジャーリーグベースボール",
-          "score": 96
-        },
-        {
-          "keyword": "ジャスティン・ローズ",
-          "score": 95
-        },
-        {
-          "keyword": "小出恵介",
-          "score": 94
-        },
-        {
-          "keyword": "タイガース 対 マーリンズ",
-          "score": 93
-        },
-        {
-          "keyword": "フワちゃん",
-          "score": 92
-        },
-        {
-          "keyword": "スコッティ・シェフラー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-12T20:59:31.002Z",
       "geo": "JP",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "町田ゼルビア",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-16T20:38:35.741Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "窪塚洋介",
+          "score": 100
+        },
+        {
+          "keyword": "石油",
+          "score": 99
+        },
+        {
+          "keyword": "長渕剛",
+          "score": 98
+        },
+        {
+          "keyword": "岡本和真",
+          "score": 97
+        },
+        {
+          "keyword": "パンスターズ",
+          "score": 96
+        },
+        {
+          "keyword": "クリスタルパレス",
+          "score": 95
+        },
+        {
+          "keyword": "皐月賞2026",
+          "score": 94
+        },
+        {
+          "keyword": "ヨーロッパカンファレンスリーグ",
+          "score": 93
+        },
+        {
+          "keyword": "入山法子",
+          "score": 92
+        },
+        {
+          "keyword": "長谷川唯",
           "score": 91
         }
       ]
