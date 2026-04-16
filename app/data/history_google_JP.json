@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-12T11:07:06.892Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "丘みどり",
-          "score": 100
-        },
-        {
-          "keyword": "河合郁人",
-          "score": 99
-        },
-        {
-          "keyword": "アンジェラアキ",
-          "score": 98
-        },
-        {
-          "keyword": "イノシシ",
-          "score": 97
-        },
-        {
-          "keyword": "ファミマ サンリオ",
-          "score": 96
-        },
-        {
-          "keyword": "スイフト",
-          "score": 95
-        },
-        {
-          "keyword": "多摩川",
-          "score": 94
-        },
-        {
-          "keyword": "児童手当",
-          "score": 93
-        },
-        {
-          "keyword": "貫地谷しほり",
-          "score": 92
-        },
-        {
-          "keyword": "出雲大社",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-12T11:53:30.145Z",
       "geo": "JP",
       "source": "google",
@@ -3382,6 +3335,53 @@
         },
         {
           "keyword": "今日のプロ野球",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-16T11:52:20.247Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "大勢",
+          "score": 100
+        },
+        {
+          "keyword": "川上球審",
+          "score": 99
+        },
+        {
+          "keyword": "アイナジエンド",
+          "score": 98
+        },
+        {
+          "keyword": "なにわ男子",
+          "score": 97
+        },
+        {
+          "keyword": "rize",
+          "score": 96
+        },
+        {
+          "keyword": "rise",
+          "score": 95
+        },
+        {
+          "keyword": "小野伸二",
+          "score": 94
+        },
+        {
+          "keyword": "松江市",
+          "score": 93
+        },
+        {
+          "keyword": "スターライト・キッド",
+          "score": 92
+        },
+        {
+          "keyword": "さよならプロポーズ",
           "score": 91
         }
       ]
