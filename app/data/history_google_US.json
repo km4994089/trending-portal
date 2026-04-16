@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-12T04:27:15.293Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "astros",
-          "score": 100
-        },
-        {
-          "keyword": "colin jost",
-          "score": 99
-        },
-        {
-          "keyword": "jose altuve",
-          "score": 98
-        },
-        {
-          "keyword": "jerami grant",
-          "score": 97
-        },
-        {
-          "keyword": "mariners game today",
-          "score": 96
-        },
-        {
-          "keyword": "mariners score",
-          "score": 95
-        },
-        {
-          "keyword": "rob refsnyder",
-          "score": 94
-        },
-        {
-          "keyword": "czechia",
-          "score": 93
-        },
-        {
-          "keyword": "julio rodríguez",
-          "score": 92
-        },
-        {
-          "keyword": "padres standings",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-12T06:08:34.029Z",
       "geo": "US",
       "source": "google",
@@ -3429,6 +3382,53 @@
         },
         {
           "keyword": "taylor rooks",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-16T04:44:09.277Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "dodgers",
+          "score": 100
+        },
+        {
+          "keyword": "dalton rushing",
+          "score": 99
+        },
+        {
+          "keyword": "fired football coach new job",
+          "score": 98
+        },
+        {
+          "keyword": "espn nba",
+          "score": 97
+        },
+        {
+          "keyword": "bruno mars setlist",
+          "score": 96
+        },
+        {
+          "keyword": "padres",
+          "score": 95
+        },
+        {
+          "keyword": "concacaf champions cup 2026",
+          "score": 94
+        },
+        {
+          "keyword": "dodgers score",
+          "score": 93
+        },
+        {
+          "keyword": "athletics",
+          "score": 92
+        },
+        {
+          "keyword": "shea langeliers",
           "score": 91
         }
       ]

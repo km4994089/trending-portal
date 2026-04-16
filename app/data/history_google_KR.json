@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-12T04:27:16.554Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "포포투",
-          "score": 100
-        },
-        {
-          "keyword": "신부",
-          "score": 99
-        },
-        {
-          "keyword": "귀화",
-          "score": 98
-        },
-        {
-          "keyword": "쿠싱",
-          "score": 97
-        },
-        {
-          "keyword": "청약홈",
-          "score": 96
-        },
-        {
-          "keyword": "엘리자베스 2세",
-          "score": 95
-        },
-        {
-          "keyword": "지역화폐",
-          "score": 94
-        },
-        {
-          "keyword": "탑승",
-          "score": 93
-        },
-        {
-          "keyword": "양재웅",
-          "score": 92
-        },
-        {
-          "keyword": "새마을금고",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-12T06:08:35.205Z",
       "geo": "KR",
       "source": "google",
@@ -3429,6 +3382,53 @@
         },
         {
           "keyword": "임지연",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-16T04:44:10.490Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "강소휘",
+          "score": 100
+        },
+        {
+          "keyword": "서희제",
+          "score": 99
+        },
+        {
+          "keyword": "앤 트로픽",
+          "score": 98
+        },
+        {
+          "keyword": "데이터 센터",
+          "score": 97
+        },
+        {
+          "keyword": "하지원",
+          "score": 96
+        },
+        {
+          "keyword": "파업",
+          "score": 95
+        },
+        {
+          "keyword": "심우정",
+          "score": 94
+        },
+        {
+          "keyword": "테슬라 모델 x",
+          "score": 93
+        },
+        {
+          "keyword": "skc",
+          "score": 92
+        },
+        {
+          "keyword": "문원",
           "score": 91
         }
       ]
