@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-12T10:29:55.098Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "최홍라",
-          "score": 100
-        },
-        {
-          "keyword": "한국은행 기준금리",
-          "score": 99
-        },
-        {
-          "keyword": "안혜진",
-          "score": 98
-        },
-        {
-          "keyword": "타이어",
-          "score": 97
-        },
-        {
-          "keyword": "샘 해밍턴",
-          "score": 96
-        },
-        {
-          "keyword": "전라남도",
-          "score": 95
-        },
-        {
-          "keyword": "김부겸",
-          "score": 94
-        },
-        {
-          "keyword": "이범수",
-          "score": 93
-        },
-        {
-          "keyword": "런닝맨",
-          "score": 92
-        },
-        {
-          "keyword": "황동하",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-12T11:07:05.524Z",
       "geo": "KR",
       "source": "google",
@@ -3382,6 +3335,53 @@
         },
         {
           "keyword": "지연",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-16T10:54:56.209Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "고양 소노 대 서울 sk",
+          "score": 100
+        },
+        {
+          "keyword": "뇌진탕",
+          "score": 99
+        },
+        {
+          "keyword": "티빙",
+          "score": 98
+        },
+        {
+          "keyword": "오피셜히게단디즘",
+          "score": 97
+        },
+        {
+          "keyword": "휴머노이드",
+          "score": 96
+        },
+        {
+          "keyword": "갑질",
+          "score": 95
+        },
+        {
+          "keyword": "주가조작",
+          "score": 94
+        },
+        {
+          "keyword": "tsm",
+          "score": 93
+        },
+        {
+          "keyword": "이국주",
+          "score": 92
+        },
+        {
+          "keyword": "전략폭격기",
           "score": 91
         }
       ]
