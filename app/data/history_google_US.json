@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-12T07:47:35.019Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tokyo",
-          "score": 100
-        },
-        {
-          "keyword": "sydney",
-          "score": 99
-        },
-        {
-          "keyword": "delhi",
-          "score": 98
-        },
-        {
-          "keyword": "timothee chalamet",
-          "score": 97
-        },
-        {
-          "keyword": "berlin",
-          "score": 96
-        },
-        {
-          "keyword": "paris",
-          "score": 95
-        },
-        {
-          "keyword": "london",
-          "score": 94
-        },
-        {
-          "keyword": "sykkuno drama",
-          "score": 93
-        },
-        {
-          "keyword": "attack on titan",
-          "score": 92
-        },
-        {
-          "keyword": "thailand",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-12T08:37:07.850Z",
       "geo": "US",
       "source": "google",
@@ -3429,6 +3382,53 @@
         },
         {
           "keyword": "udonis haslem",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-16T08:11:56.930Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "avengers doomsday",
+          "score": 100
+        },
+        {
+          "keyword": "gemini mac",
+          "score": 99
+        },
+        {
+          "keyword": "t rowe price",
+          "score": 98
+        },
+        {
+          "keyword": "philippine airlines",
+          "score": 97
+        },
+        {
+          "keyword": "the sopranos",
+          "score": 96
+        },
+        {
+          "keyword": "tsmc stock",
+          "score": 95
+        },
+        {
+          "keyword": "macbook pro",
+          "score": 94
+        },
+        {
+          "keyword": "mel brooks",
+          "score": 93
+        },
+        {
+          "keyword": "earthquake now",
+          "score": 92
+        },
+        {
+          "keyword": "mlb standings",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-12T07:47:36.431Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이원석",
-          "score": 100
-        },
-        {
-          "keyword": "지예은",
-          "score": 99
-        },
-        {
-          "keyword": "서울지하철",
-          "score": 98
-        },
-        {
-          "keyword": "목동 6단지아파트",
-          "score": 97
-        },
-        {
-          "keyword": "기아 한화",
-          "score": 96
-        },
-        {
-          "keyword": "박재현",
-          "score": 95
-        },
-        {
-          "keyword": "나솔",
-          "score": 94
-        },
-        {
-          "keyword": "이민우",
-          "score": 93
-        },
-        {
-          "keyword": "완도군",
-          "score": 92
-        },
-        {
-          "keyword": "채널a",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-12T08:37:09.114Z",
       "geo": "KR",
       "source": "google",
@@ -3429,6 +3382,53 @@
         },
         {
           "keyword": "로켓",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-16T08:11:58.280Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "홍성윤",
+          "score": 100
+        },
+        {
+          "keyword": "스마트 폰",
+          "score": 99
+        },
+        {
+          "keyword": "급발진",
+          "score": 98
+        },
+        {
+          "keyword": "유튜버",
+          "score": 97
+        },
+        {
+          "keyword": "대한 광통신",
+          "score": 96
+        },
+        {
+          "keyword": "정유미",
+          "score": 95
+        },
+        {
+          "keyword": "총파업",
+          "score": 94
+        },
+        {
+          "keyword": "간호사",
+          "score": 93
+        },
+        {
+          "keyword": "asml 홀딩",
+          "score": 92
+        },
+        {
+          "keyword": "제주특별자치도",
           "score": 91
         }
       ]
