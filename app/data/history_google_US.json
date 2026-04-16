@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-12T01:28:11.894Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "5g",
-          "score": 100
-        },
-        {
-          "keyword": "neymar",
-          "score": 99
-        },
-        {
-          "keyword": "uf",
-          "score": 98
-        },
-        {
-          "keyword": "tom selleck",
-          "score": 97
-        },
-        {
-          "keyword": "kevin costner",
-          "score": 96
-        },
-        {
-          "keyword": "mickey moniak",
-          "score": 95
-        },
-        {
-          "keyword": "allegiant stadium",
-          "score": 94
-        },
-        {
-          "keyword": "paramount",
-          "score": 93
-        },
-        {
-          "keyword": "dana white",
-          "score": 92
-        },
-        {
-          "keyword": "alex pereira",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-12T04:27:15.293Z",
       "geo": "US",
       "source": "google",
@@ -3429,6 +3382,53 @@
         },
         {
           "keyword": "kyle lowry",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-16T01:44:23.744Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jose caballero",
+          "score": 100
+        },
+        {
+          "keyword": "kwqc weather",
+          "score": 99
+        },
+        {
+          "keyword": "rob lowe",
+          "score": 98
+        },
+        {
+          "keyword": "jordan romano",
+          "score": 97
+        },
+        {
+          "keyword": "américa - alianza atlético",
+          "score": 96
+        },
+        {
+          "keyword": "nancy guthrie",
+          "score": 95
+        },
+        {
+          "keyword": "jerry west",
+          "score": 94
+        },
+        {
+          "keyword": "millonarios - boston river",
+          "score": 93
+        },
+        {
+          "keyword": "elizabeth banks",
+          "score": 92
+        },
+        {
+          "keyword": "taylor rooks",
           "score": 91
         }
       ]
