@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-13T09:15:58.733Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이더 리움",
-          "score": 100
-        },
-        {
-          "keyword": "과즙세연",
-          "score": 99
-        },
-        {
-          "keyword": "배우",
-          "score": 98
-        },
-        {
-          "keyword": "닛케이 평균주가",
-          "score": 97
-        },
-        {
-          "keyword": "금양",
-          "score": 96
-        },
-        {
-          "keyword": "cj제일제당",
-          "score": 95
-        },
-        {
-          "keyword": "포괄임금제",
-          "score": 94
-        },
-        {
-          "keyword": "어린이",
-          "score": 93
-        },
-        {
-          "keyword": "교황",
-          "score": 92
-        },
-        {
-          "keyword": "tv chosun",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-13T10:58:53.301Z",
       "geo": "KR",
       "source": "google",
@@ -3053,6 +3006,53 @@
         },
         {
           "keyword": "만평",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-17T09:51:27.462Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "로베르토 데 제르비",
+          "score": 100
+        },
+        {
+          "keyword": "동서발전",
+          "score": 99
+        },
+        {
+          "keyword": "한화 대 롯데",
+          "score": 98
+        },
+        {
+          "keyword": "kia 대 두산",
+          "score": 97
+        },
+        {
+          "keyword": "이지현",
+          "score": 96
+        },
+        {
+          "keyword": "파나마 운하",
+          "score": 95
+        },
+        {
+          "keyword": "한겨레",
+          "score": 94
+        },
+        {
+          "keyword": "고아라",
+          "score": 93
+        },
+        {
+          "keyword": "로드 fc",
+          "score": 92
+        },
+        {
+          "keyword": "l g 화학",
           "score": 91
         }
       ]

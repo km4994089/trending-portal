@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-13T09:15:57.499Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cloud",
-          "score": 100
-        },
-        {
-          "keyword": "sports",
-          "score": 99
-        },
-        {
-          "keyword": "sony playstation",
-          "score": 98
-        },
-        {
-          "keyword": "alaska airline",
-          "score": 97
-        },
-        {
-          "keyword": "sydney",
-          "score": 96
-        },
-        {
-          "keyword": "toronto",
-          "score": 95
-        },
-        {
-          "keyword": "paris",
-          "score": 94
-        },
-        {
-          "keyword": "tokyo",
-          "score": 93
-        },
-        {
-          "keyword": "delhi",
-          "score": 92
-        },
-        {
-          "keyword": "sykkuno drama",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-13T10:58:51.958Z",
       "geo": "US",
       "source": "google",
@@ -3053,6 +3006,53 @@
         },
         {
           "keyword": "invincible comics",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-17T09:51:25.917Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "flavio cobolli",
+          "score": 100
+        },
+        {
+          "keyword": "ryan seacrest calls out contestant",
+          "score": 99
+        },
+        {
+          "keyword": "faith torrez",
+          "score": 98
+        },
+        {
+          "keyword": "hamad medjedovic",
+          "score": 97
+        },
+        {
+          "keyword": "john glenn columbus international airport",
+          "score": 96
+        },
+        {
+          "keyword": "buc-ee's",
+          "score": 95
+        },
+        {
+          "keyword": "airline",
+          "score": 94
+        },
+        {
+          "keyword": "massachusetts registry of motor vehicles",
+          "score": 93
+        },
+        {
+          "keyword": "truck accident attorney",
+          "score": 92
+        },
+        {
+          "keyword": "wrongful death attorney",
           "score": 91
         }
       ]
