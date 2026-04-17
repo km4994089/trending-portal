@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-12T23:57:24.349Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "현인",
-          "score": 100
-        },
-        {
-          "keyword": "헌법",
-          "score": 99
-        },
-        {
-          "keyword": "뉴스",
-          "score": 98
-        },
-        {
-          "keyword": "건강보험",
-          "score": 97
-        },
-        {
-          "keyword": "헝가리 총선",
-          "score": 96
-        },
-        {
-          "keyword": "다저스",
-          "score": 95
-        },
-        {
-          "keyword": "신랑",
-          "score": 94
-        },
-        {
-          "keyword": "이재원",
-          "score": 93
-        },
-        {
-          "keyword": "송민규",
-          "score": 92
-        },
-        {
-          "keyword": "lg그룹",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-13T02:11:56.566Z",
       "geo": "KR",
       "source": "google",
@@ -3053,6 +3006,53 @@
         },
         {
           "keyword": "สภาพอากาศ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-17T01:27:54.149Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "학교 급식",
+          "score": 100
+        },
+        {
+          "keyword": "teams",
+          "score": 99
+        },
+        {
+          "keyword": "염경엽",
+          "score": 98
+        },
+        {
+          "keyword": "송지효",
+          "score": 97
+        },
+        {
+          "keyword": "연기금",
+          "score": 96
+        },
+        {
+          "keyword": "이의 리",
+          "score": 95
+        },
+        {
+          "keyword": "파리바게트",
+          "score": 94
+        },
+        {
+          "keyword": "후성",
+          "score": 93
+        },
+        {
+          "keyword": "유병언",
+          "score": 92
+        },
+        {
+          "keyword": "앞유리",
           "score": 91
         }
       ]
