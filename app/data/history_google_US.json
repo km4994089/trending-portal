@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-13T02:11:54.967Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sam levinson",
-          "score": 100
-        },
-        {
-          "keyword": "david harbour",
-          "score": 99
-        },
-        {
-          "keyword": "roy wood jr",
-          "score": 98
-        },
-        {
-          "keyword": "the rookie",
-          "score": 97
-        },
-        {
-          "keyword": "ace bailey",
-          "score": 96
-        },
-        {
-          "keyword": "john collins",
-          "score": 95
-        },
-        {
-          "keyword": "kevin love",
-          "score": 94
-        },
-        {
-          "keyword": "bailey zimmerman",
-          "score": 93
-        },
-        {
-          "keyword": "adam copeland",
-          "score": 92
-        },
-        {
-          "keyword": "curtis jones",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-13T05:25:29.525Z",
       "geo": "US",
       "source": "google",
@@ -3053,6 +3006,53 @@
         },
         {
           "keyword": "david",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-17T04:28:23.947Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ban vs nz",
+          "score": 100
+        },
+        {
+          "keyword": "anderson cooper",
+          "score": 99
+        },
+        {
+          "keyword": "red dead redemption 2",
+          "score": 98
+        },
+        {
+          "keyword": "louis partridge",
+          "score": 97
+        },
+        {
+          "keyword": "iceman drake",
+          "score": 96
+        },
+        {
+          "keyword": "sam bateman",
+          "score": 95
+        },
+        {
+          "keyword": "the rock",
+          "score": 94
+        },
+        {
+          "keyword": "jahmyr gibbs",
+          "score": 93
+        },
+        {
+          "keyword": "denver weather",
+          "score": 92
+        },
+        {
+          "keyword": "kevin goldschmidt",
           "score": 91
         }
       ]
