@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-13T14:12:21.380Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "뇌물",
-          "score": 100
-        },
-        {
-          "keyword": "한겨레",
-          "score": 99
-        },
-        {
-          "keyword": "삼성sdi",
-          "score": 98
-        },
-        {
-          "keyword": "신봉선",
-          "score": 97
-        },
-        {
-          "keyword": "사령관",
-          "score": 96
-        },
-        {
-          "keyword": "폴카 닷",
-          "score": 95
-        },
-        {
-          "keyword": "신혜선",
-          "score": 94
-        },
-        {
-          "keyword": "박지현",
-          "score": 93
-        },
-        {
-          "keyword": "쓰레기 종량제",
-          "score": 92
-        },
-        {
-          "keyword": "파리바게뜨",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-13T15:52:51.042Z",
       "geo": "KR",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "t1",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-17T14:17:32.998Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "노소영",
+          "score": 100
+        },
+        {
+          "keyword": "도란",
+          "score": 99
+        },
+        {
+          "keyword": "서울경제",
+          "score": 98
+        },
+        {
+          "keyword": "마이클 버리",
+          "score": 97
+        },
+        {
+          "keyword": "lck",
+          "score": 96
+        },
+        {
+          "keyword": "홍윤화",
+          "score": 95
+        },
+        {
+          "keyword": "dna",
+          "score": 94
+        },
+        {
+          "keyword": "mbc",
+          "score": 93
+        },
+        {
+          "keyword": "순직",
+          "score": 92
+        },
+        {
+          "keyword": "조선 의 사랑 꾼",
           "score": 91
         }
       ]

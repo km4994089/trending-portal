@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-13T14:12:20.216Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "intc",
-          "score": 100
-        },
-        {
-          "keyword": "australia",
-          "score": 99
-        },
-        {
-          "keyword": "santa rosa county",
-          "score": 98
-        },
-        {
-          "keyword": "santa rosa",
-          "score": 97
-        },
-        {
-          "keyword": "sandisk stock",
-          "score": 96
-        },
-        {
-          "keyword": "crm stock",
-          "score": 95
-        },
-        {
-          "keyword": "pltr stock price",
-          "score": 94
-        },
-        {
-          "keyword": "antony starr",
-          "score": 93
-        },
-        {
-          "keyword": "crwv stock",
-          "score": 92
-        },
-        {
-          "keyword": "sabres playoff tickets",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-13T15:52:49.757Z",
       "geo": "US",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "don schlitz",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-17T14:17:31.692Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "oil prices",
+          "score": 100
+        },
+        {
+          "keyword": "btc",
+          "score": 99
+        },
+        {
+          "keyword": "xrp",
+          "score": 98
+        },
+        {
+          "keyword": "ethereum price",
+          "score": 97
+        },
+        {
+          "keyword": "s&p",
+          "score": 96
+        },
+        {
+          "keyword": "xom stock",
+          "score": 95
+        },
+        {
+          "keyword": "hims stock",
+          "score": 94
+        },
+        {
+          "keyword": "hood stock",
+          "score": 93
+        },
+        {
+          "keyword": "mstr",
+          "score": 92
+        },
+        {
+          "keyword": "apple stock price",
           "score": 91
         }
       ]
