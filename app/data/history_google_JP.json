@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-13T21:11:45.589Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "サッカー",
-          "score": 100
-        },
-        {
-          "keyword": "mu",
-          "score": 99
-        },
-        {
-          "keyword": "ナスダック総合指数",
-          "score": 98
-        },
-        {
-          "keyword": "北海道新聞",
-          "score": 97
-        },
-        {
-          "keyword": "菊池風磨",
-          "score": 96
-        },
-        {
-          "keyword": "フィオレンティーナ 対 ラツィオ",
-          "score": 95
-        },
-        {
-          "keyword": "河合優実",
-          "score": 94
-        },
-        {
-          "keyword": "鈴木凌",
-          "score": 93
-        },
-        {
-          "keyword": "h3ロケット",
-          "score": 92
-        },
-        {
-          "keyword": "スバル",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-13T22:06:32.700Z",
       "geo": "JP",
       "source": "google",
@@ -3147,6 +3100,53 @@
         },
         {
           "keyword": "インテル 対 カリアリ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-17T21:33:08.821Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "サッカーアメリカ合衆国女子代表",
+          "score": 100
+        },
+        {
+          "keyword": "アベイル",
+          "score": 99
+        },
+        {
+          "keyword": "ダウ平均株価",
+          "score": 98
+        },
+        {
+          "keyword": "アークナイツ エンドフィールド ゾアン",
+          "score": 97
+        },
+        {
+          "keyword": "大原優乃",
+          "score": 96
+        },
+        {
+          "keyword": "競輪選手",
+          "score": 95
+        },
+        {
+          "keyword": "福島県警察",
+          "score": 94
+        },
+        {
+          "keyword": "x",
+          "score": 93
+        },
+        {
+          "keyword": "セブン-イレブン",
+          "score": 92
+        },
+        {
+          "keyword": "森尾由美",
           "score": 91
         }
       ]
