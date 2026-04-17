@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-13T17:51:48.189Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "비닐봉투",
-          "score": 100
-        },
-        {
-          "keyword": "praful hinge",
-          "score": 99
-        },
-        {
-          "keyword": "맨유",
-          "score": 98
-        },
-        {
-          "keyword": "10",
-          "score": 97
-        },
-        {
-          "keyword": "해동용궁사",
-          "score": 96
-        },
-        {
-          "keyword": "양효진",
-          "score": 95
-        },
-        {
-          "keyword": "샌디스크 주가",
-          "score": 94
-        },
-        {
-          "keyword": "김태리",
-          "score": 93
-        },
-        {
-          "keyword": "오늘도 매진했습니다",
-          "score": 92
-        },
-        {
-          "keyword": "정우",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-13T19:00:43.280Z",
       "geo": "KR",
       "source": "google",
@@ -3147,6 +3100,53 @@
         },
         {
           "keyword": "코덱스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-17T18:43:09.008Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "10",
+          "score": 100
+        },
+        {
+          "keyword": "claude design",
+          "score": 99
+        },
+        {
+          "keyword": "박경혜",
+          "score": 98
+        },
+        {
+          "keyword": "시드니 스위니",
+          "score": 97
+        },
+        {
+          "keyword": "김남길",
+          "score": 96
+        },
+        {
+          "keyword": "오픈ai",
+          "score": 95
+        },
+        {
+          "keyword": "kkr vs gt",
+          "score": 94
+        },
+        {
+          "keyword": "테니스",
+          "score": 93
+        },
+        {
+          "keyword": "악뮤",
+          "score": 92
+        },
+        {
+          "keyword": "박진성",
           "score": 91
         }
       ]
