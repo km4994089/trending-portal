@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-13T20:15:04.823Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "金融",
-          "score": 100
-        },
-        {
-          "keyword": "日清食品",
-          "score": 99
-        },
-        {
-          "keyword": "man utd đấu với leeds",
-          "score": 98
-        },
-        {
-          "keyword": "すき家",
-          "score": 97
-        },
-        {
-          "keyword": "ナンバーズ当選番号",
-          "score": 96
-        },
-        {
-          "keyword": "ガソリン",
-          "score": 95
-        },
-        {
-          "keyword": "man united vs leeds",
-          "score": 94
-        },
-        {
-          "keyword": "白鵬翔",
-          "score": 93
-        },
-        {
-          "keyword": "47news",
-          "score": 92
-        },
-        {
-          "keyword": "大原優乃",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-13T21:11:45.589Z",
       "geo": "JP",
       "source": "google",
@@ -3147,6 +3100,53 @@
         },
         {
           "keyword": "サッスオーロ 対 コモ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-17T20:35:32.300Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "エルニーニョ",
+          "score": 100
+        },
+        {
+          "keyword": "日経先物",
+          "score": 99
+        },
+        {
+          "keyword": "メッツ",
+          "score": 98
+        },
+        {
+          "keyword": "坂路",
+          "score": 97
+        },
+        {
+          "keyword": "原油価格",
+          "score": 96
+        },
+        {
+          "keyword": "日曜劇場",
+          "score": 95
+        },
+        {
+          "keyword": "アジアチャンピオンズリーグ",
+          "score": 94
+        },
+        {
+          "keyword": "カブス",
+          "score": 93
+        },
+        {
+          "keyword": "ブロードコム 株価",
+          "score": 92
+        },
+        {
+          "keyword": "インテル 対 カリアリ",
           "score": 91
         }
       ]
