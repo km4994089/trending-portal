@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-13T10:58:53.301Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "천이슬",
-          "score": 100
-        },
-        {
-          "keyword": "투수",
-          "score": 99
-        },
-        {
-          "keyword": "황산",
-          "score": 98
-        },
-        {
-          "keyword": "대학수학능력시험",
-          "score": 97
-        },
-        {
-          "keyword": "김건희",
-          "score": 96
-        },
-        {
-          "keyword": "혜인",
-          "score": 95
-        },
-        {
-          "keyword": "술",
-          "score": 94
-        },
-        {
-          "keyword": "카를로스 울버그",
-          "score": 93
-        },
-        {
-          "keyword": "이상렬",
-          "score": 92
-        },
-        {
-          "keyword": "김지수",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-13T12:02:06.243Z",
       "geo": "KR",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "통장",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-17T11:42:03.239Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "제니퍼 로렌스",
+          "score": 100
+        },
+        {
+          "keyword": "군체",
+          "score": 99
+        },
+        {
+          "keyword": "조선의 사랑꾼",
+          "score": 98
+        },
+        {
+          "keyword": "허희수",
+          "score": 97
+        },
+        {
+          "keyword": "장준 원",
+          "score": 96
+        },
+        {
+          "keyword": "고윤정",
+          "score": 95
+        },
+        {
+          "keyword": "부산 kcc 대 원주 db",
+          "score": 94
+        },
+        {
+          "keyword": "효민",
+          "score": 93
+        },
+        {
+          "keyword": "함덕 주",
+          "score": 92
+        },
+        {
+          "keyword": "정주영",
           "score": 91
         }
       ]

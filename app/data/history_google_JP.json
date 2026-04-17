@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-13T10:58:54.682Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "石油タンカー",
-          "score": 100
-        },
-        {
-          "keyword": "yahoo!",
-          "score": 99
-        },
-        {
-          "keyword": "田中律子",
-          "score": 98
-        },
-        {
-          "keyword": "佐々木大光",
-          "score": 97
-        },
-        {
-          "keyword": "レオ14世",
-          "score": 96
-        },
-        {
-          "keyword": "唐沢寿明",
-          "score": 95
-        },
-        {
-          "keyword": "カリフォルニアディズニー",
-          "score": 94
-        },
-        {
-          "keyword": "音道楽",
-          "score": 93
-        },
-        {
-          "keyword": "コーチェラ bigbang",
-          "score": 92
-        },
-        {
-          "keyword": "安達祐実",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-13T12:02:07.374Z",
       "geo": "JP",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "葛飾区",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-17T11:42:04.419Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "桐生競艇",
+          "score": 100
+        },
+        {
+          "keyword": "児童",
+          "score": 99
+        },
+        {
+          "keyword": "チケプラ",
+          "score": 98
+        },
+        {
+          "keyword": "アンジュルム",
+          "score": 97
+        },
+        {
+          "keyword": "阪神 ポケモン",
+          "score": 96
+        },
+        {
+          "keyword": "古川雄大",
+          "score": 95
+        },
+        {
+          "keyword": "近本光司",
+          "score": 94
+        },
+        {
+          "keyword": "藤まつり",
+          "score": 93
+        },
+        {
+          "keyword": "黒沢年雄",
+          "score": 92
+        },
+        {
+          "keyword": "slay the spire アップデート",
           "score": 91
         }
       ]
