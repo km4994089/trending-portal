@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-13T23:07:17.069Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "평택시 을",
-          "score": 100
-        },
-        {
-          "keyword": "대한광통신",
-          "score": 99
-        },
-        {
-          "keyword": "ionq",
-          "score": 98
-        },
-        {
-          "keyword": "첫 번째 남자",
-          "score": 97
-        },
-        {
-          "keyword": "남동구",
-          "score": 96
-        },
-        {
-          "keyword": "필라델피아 반도체 지수",
-          "score": 95
-        },
-        {
-          "keyword": "южная корея",
-          "score": 94
-        },
-        {
-          "keyword": "나스닥 100",
-          "score": 93
-        },
-        {
-          "keyword": "히샬리송",
-          "score": 92
-        },
-        {
-          "keyword": "에어부산",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-14T00:03:37.677Z",
       "geo": "KR",
       "source": "google",
@@ -3147,6 +3100,53 @@
         },
         {
           "keyword": "코스피",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-17T23:07:40.086Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "검사",
+          "score": 100
+        },
+        {
+          "keyword": "이더리움",
+          "score": 99
+        },
+        {
+          "keyword": "박진만",
+          "score": 98
+        },
+        {
+          "keyword": "허훈",
+          "score": 97
+        },
+        {
+          "keyword": "위성우",
+          "score": 96
+        },
+        {
+          "keyword": "tsla",
+          "score": 95
+        },
+        {
+          "keyword": "카카오",
+          "score": 94
+        },
+        {
+          "keyword": "재테크",
+          "score": 93
+        },
+        {
+          "keyword": "장두성",
+          "score": 92
+        },
+        {
+          "keyword": "오늘의 운세 띠별 운세",
           "score": 91
         }
       ]

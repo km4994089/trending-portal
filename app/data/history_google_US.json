@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-13T23:07:15.847Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "flau'jae johnson",
-          "score": 100
-        },
-        {
-          "keyword": "red sox vs twins",
-          "score": 99
-        },
-        {
-          "keyword": "guardians vs cardinals",
-          "score": 98
-        },
-        {
-          "keyword": "red wings vs lightning",
-          "score": 97
-        },
-        {
-          "keyword": "hurricanes vs flyers",
-          "score": 96
-        },
-        {
-          "keyword": "rangers vs panthers",
-          "score": 95
-        },
-        {
-          "keyword": "dave mcginnis",
-          "score": 94
-        },
-        {
-          "keyword": "mariners standings",
-          "score": 93
-        },
-        {
-          "keyword": "paige bueckers",
-          "score": 92
-        },
-        {
-          "keyword": "the winds of winter",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-14T00:03:36.671Z",
       "geo": "US",
       "source": "google",
@@ -3147,6 +3100,53 @@
         },
         {
           "keyword": "bankruptcy",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-17T23:07:38.603Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kwqc weather",
+          "score": 100
+        },
+        {
+          "keyword": "appellate court",
+          "score": 99
+        },
+        {
+          "keyword": "ufc 327 fighter suspensions",
+          "score": 98
+        },
+        {
+          "keyword": "detroit tigers schedule",
+          "score": 97
+        },
+        {
+          "keyword": "jm eagle la championship",
+          "score": 96
+        },
+        {
+          "keyword": "uc berkeley",
+          "score": 95
+        },
+        {
+          "keyword": "baseball player dies",
+          "score": 94
+        },
+        {
+          "keyword": "portage wi",
+          "score": 93
+        },
+        {
+          "keyword": "coachella weekend 2",
+          "score": 92
+        },
+        {
+          "keyword": "marathon county",
           "score": 91
         }
       ]
