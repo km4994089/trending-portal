@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-13T22:06:30.506Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "atlantic meridional overturning circulation",
-          "score": 100
-        },
-        {
-          "keyword": "cubs vs phillies",
-          "score": 99
-        },
-        {
-          "keyword": "nationals vs pirates",
-          "score": 98
-        },
-        {
-          "keyword": "naples fire",
-          "score": 97
-        },
-        {
-          "keyword": "the cook political report",
-          "score": 96
-        },
-        {
-          "keyword": "diamondbacks vs orioles",
-          "score": 95
-        },
-        {
-          "keyword": "susan ballabina",
-          "score": 94
-        },
-        {
-          "keyword": "jj mandaquit",
-          "score": 93
-        },
-        {
-          "keyword": "be stock",
-          "score": 92
-        },
-        {
-          "keyword": "lamar jackson",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-13T23:07:15.847Z",
       "geo": "US",
       "source": "google",
@@ -3147,6 +3100,53 @@
         },
         {
           "keyword": "twitter down",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-17T22:28:36.947Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "flash flood warning",
+          "score": 100
+        },
+        {
+          "keyword": "brewers vs marlins",
+          "score": 99
+        },
+        {
+          "keyword": "tigers vs red sox",
+          "score": 98
+        },
+        {
+          "keyword": "invincible - season 4",
+          "score": 97
+        },
+        {
+          "keyword": "royals vs yankees",
+          "score": 96
+        },
+        {
+          "keyword": "kaitlin olson high potential",
+          "score": 95
+        },
+        {
+          "keyword": "aja wilson contract",
+          "score": 94
+        },
+        {
+          "keyword": "ozark",
+          "score": 93
+        },
+        {
+          "keyword": "suns vs warriors",
+          "score": 92
+        },
+        {
+          "keyword": "bankruptcy",
           "score": 91
         }
       ]
