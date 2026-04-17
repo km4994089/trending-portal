@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-13T19:00:44.813Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "日本アカデミー賞 最優秀助演男優賞",
-          "score": 100
-        },
-        {
-          "keyword": "マンu 対 リーズ u",
-          "score": 99
-        },
-        {
-          "keyword": "サンディスク 株価",
-          "score": 98
-        },
-        {
-          "keyword": "マクドナルド",
-          "score": 97
-        },
-        {
-          "keyword": "ロシア",
-          "score": 96
-        },
-        {
-          "keyword": "広島市",
-          "score": 95
-        },
-        {
-          "keyword": "ワークマン",
-          "score": 94
-        },
-        {
-          "keyword": "claude",
-          "score": 93
-        },
-        {
-          "keyword": "犯人逮捕",
-          "score": 92
-        },
-        {
-          "keyword": "ストレンジャーシングス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-13T20:15:04.823Z",
       "geo": "JP",
       "source": "google",
@@ -3147,6 +3100,53 @@
         },
         {
           "keyword": "さだまさし",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-17T19:51:52.830Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ブロードコム 株価",
+          "score": 100
+        },
+        {
+          "keyword": "インテル 対 カリアリ",
+          "score": 99
+        },
+        {
+          "keyword": "インテル株価",
+          "score": 98
+        },
+        {
+          "keyword": "ウォーカー・ビューラー",
+          "score": 97
+        },
+        {
+          "keyword": "エヌビディア 株価",
+          "score": 96
+        },
+        {
+          "keyword": "アマゾン株価",
+          "score": 95
+        },
+        {
+          "keyword": "ハイウェイ の 堕 天使 興行 収入",
+          "score": 94
+        },
+        {
+          "keyword": "阿部慎之助",
+          "score": 93
+        },
+        {
+          "keyword": "カブス 対 メッツ",
+          "score": 92
+        },
+        {
+          "keyword": "サッスオーロ 対 コモ",
           "score": 91
         }
       ]
