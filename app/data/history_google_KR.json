@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-13T05:25:31.045Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "쿠바",
-          "score": 100
-        },
-        {
-          "keyword": "주택도시보증공사",
-          "score": 99
-        },
-        {
-          "keyword": "알 테오 젠",
-          "score": 98
-        },
-        {
-          "keyword": "유튜버",
-          "score": 97
-        },
-        {
-          "keyword": "허수봉",
-          "score": 96
-        },
-        {
-          "keyword": "천궁",
-          "score": 95
-        },
-        {
-          "keyword": "여자 축구",
-          "score": 94
-        },
-        {
-          "keyword": "한국연구재단",
-          "score": 93
-        },
-        {
-          "keyword": "전지",
-          "score": 92
-        },
-        {
-          "keyword": "천안시",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-13T07:24:18.372Z",
       "geo": "KR",
       "source": "google",
@@ -3053,6 +3006,53 @@
         },
         {
           "keyword": "살림하는 남자들",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-17T06:19:17.056Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "우주팽창",
+          "score": 100
+        },
+        {
+          "keyword": "선거",
+          "score": 99
+        },
+        {
+          "keyword": "류중일",
+          "score": 98
+        },
+        {
+          "keyword": "삼성 라이온즈",
+          "score": 97
+        },
+        {
+          "keyword": "에코프로비엠",
+          "score": 96
+        },
+        {
+          "keyword": "하주석",
+          "score": 95
+        },
+        {
+          "keyword": "국제 에너지 기구",
+          "score": 94
+        },
+        {
+          "keyword": "도지 코인",
+          "score": 93
+        },
+        {
+          "keyword": "대통령",
+          "score": 92
+        },
+        {
+          "keyword": "친자검사",
           "score": 91
         }
       ]
