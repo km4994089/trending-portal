@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-14T00:03:38.864Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ロイロノート",
-          "score": 100
-        },
-        {
-          "keyword": "細田佳央太",
-          "score": 99
-        },
-        {
-          "keyword": "運行情報",
-          "score": 98
-        },
-        {
-          "keyword": "陸上競技",
-          "score": 97
-        },
-        {
-          "keyword": "日経225先物取引",
-          "score": 96
-        },
-        {
-          "keyword": "カイル・シュワーバー",
-          "score": 95
-        },
-        {
-          "keyword": "ニューヨーク・メッツ",
-          "score": 94
-        },
-        {
-          "keyword": "織田 裕二",
-          "score": 93
-        },
-        {
-          "keyword": "デンソー",
-          "score": 92
-        },
-        {
-          "keyword": "j",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-14T03:46:24.521Z",
       "geo": "JP",
       "source": "google",
@@ -3194,6 +3147,53 @@
         },
         {
           "keyword": "武雄競輪",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-18T03:33:53.887Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ニコラスケイジ",
+          "score": 100
+        },
+        {
+          "keyword": "エンゼルス",
+          "score": 99
+        },
+        {
+          "keyword": "ゆいレール",
+          "score": 98
+        },
+        {
+          "keyword": "ウォリアーズ",
+          "score": 97
+        },
+        {
+          "keyword": "横浜fm 対 川崎f",
+          "score": 96
+        },
+        {
+          "keyword": "アキナ",
+          "score": 95
+        },
+        {
+          "keyword": "柴田文子",
+          "score": 94
+        },
+        {
+          "keyword": "大阪城ホール",
+          "score": 93
+        },
+        {
+          "keyword": "nba直播",
+          "score": 92
+        },
+        {
+          "keyword": "ヨーホーレイク",
           "score": 91
         }
       ]
