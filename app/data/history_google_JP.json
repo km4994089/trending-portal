@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-14T07:17:51.376Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "鈴木 亮平",
-          "score": 100
-        },
-        {
-          "keyword": "島津亜矢",
-          "score": 99
-        },
-        {
-          "keyword": "菅田将暉",
-          "score": 98
-        },
-        {
-          "keyword": "9984",
-          "score": 97
-        },
-        {
-          "keyword": "鈴木 保奈美",
-          "score": 96
-        },
-        {
-          "keyword": "パワーエックス",
-          "score": 95
-        },
-        {
-          "keyword": "田中 聖",
-          "score": 94
-        },
-        {
-          "keyword": "福岡大学",
-          "score": 93
-        },
-        {
-          "keyword": "金曜ミステリークラブ",
-          "score": 92
-        },
-        {
-          "keyword": "適時開示",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-14T08:58:33.422Z",
       "geo": "JP",
       "source": "google",
@@ -3194,6 +3147,53 @@
         },
         {
           "keyword": "c大阪 対 京都",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-18T07:53:54.207Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "日比谷線脱線事故",
+          "score": 100
+        },
+        {
+          "keyword": "上原佑紀",
+          "score": 99
+        },
+        {
+          "keyword": "ウィンター",
+          "score": 98
+        },
+        {
+          "keyword": "横浜スタジアム",
+          "score": 97
+        },
+        {
+          "keyword": "ベルマーレ",
+          "score": 96
+        },
+        {
+          "keyword": "paypayドーム",
+          "score": 95
+        },
+        {
+          "keyword": "芦田愛菜",
+          "score": 94
+        },
+        {
+          "keyword": "モーリーロバートソン",
+          "score": 93
+        },
+        {
+          "keyword": "anyma",
+          "score": 92
+        },
+        {
+          "keyword": "イコラブ",
           "score": 91
         }
       ]

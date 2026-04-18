@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-14T07:17:48.801Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "miu miu",
-          "score": 100
-        },
-        {
-          "keyword": "tornado siren",
-          "score": 99
-        },
-        {
-          "keyword": "fox6",
-          "score": 98
-        },
-        {
-          "keyword": "scott bessent",
-          "score": 97
-        },
-        {
-          "keyword": "fox 6",
-          "score": 96
-        },
-        {
-          "keyword": "tornado warning near me",
-          "score": 95
-        },
-        {
-          "keyword": "power outage near me",
-          "score": 94
-        },
-        {
-          "keyword": "tornado warning",
-          "score": 93
-        },
-        {
-          "keyword": "tornado near me",
-          "score": 92
-        },
-        {
-          "keyword": "national weather service",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-14T08:58:30.931Z",
       "geo": "US",
       "source": "google",
@@ -3194,6 +3147,53 @@
         },
         {
           "keyword": "star wars movies",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-18T07:53:51.602Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "apple iphone 18 pro max",
+          "score": 100
+        },
+        {
+          "keyword": "and",
+          "score": 99
+        },
+        {
+          "keyword": "diesel fuel",
+          "score": 98
+        },
+        {
+          "keyword": "convenience store",
+          "score": 97
+        },
+        {
+          "keyword": "jack nicholson",
+          "score": 96
+        },
+        {
+          "keyword": "beyonce",
+          "score": 95
+        },
+        {
+          "keyword": "aj styles",
+          "score": 94
+        },
+        {
+          "keyword": "troy baker",
+          "score": 93
+        },
+        {
+          "keyword": "prince harry",
+          "score": 92
+        },
+        {
+          "keyword": "gwen stefani",
           "score": 91
         }
       ]
