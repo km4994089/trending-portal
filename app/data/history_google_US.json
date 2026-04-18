@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-14T21:11:37.278Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "johnny cardoso",
-          "score": 100
-        },
-        {
-          "keyword": "ousmane dembélé",
-          "score": 99
-        },
-        {
-          "keyword": "eric garcía",
-          "score": 98
-        },
-        {
-          "keyword": "sorloth",
-          "score": 97
-        },
-        {
-          "keyword": "jamie raskin",
-          "score": 96
-        },
-        {
-          "keyword": "prince harry, duke of sussex",
-          "score": 95
-        },
-        {
-          "keyword": "dianna russini the athletic resignation",
-          "score": 94
-        },
-        {
-          "keyword": "liverpool game",
-          "score": 93
-        },
-        {
-          "keyword": "griff mcgarry",
-          "score": 92
-        },
-        {
-          "keyword": "tornado watch",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-14T22:08:42.878Z",
       "geo": "US",
       "source": "google",
@@ -3523,6 +3476,53 @@
         },
         {
           "keyword": "bruce brown",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-18T21:55:15.443Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "aaron rodgers",
+          "score": 100
+        },
+        {
+          "keyword": "half man",
+          "score": 99
+        },
+        {
+          "keyword": "stephanie vaquer",
+          "score": 98
+        },
+        {
+          "keyword": "wild vs stars",
+          "score": 97
+        },
+        {
+          "keyword": "trump white house ballroom construction",
+          "score": 96
+        },
+        {
+          "keyword": "bridgeport",
+          "score": 95
+        },
+        {
+          "keyword": "bam margera",
+          "score": 94
+        },
+        {
+          "keyword": "dua lipa",
+          "score": 93
+        },
+        {
+          "keyword": "alex wilkins",
+          "score": 92
+        },
+        {
+          "keyword": "taylor hall",
           "score": 91
         }
       ]

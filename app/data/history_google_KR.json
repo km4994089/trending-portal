@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-14T21:11:38.755Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "로스앤젤레스 fc",
-          "score": 100
-        },
-        {
-          "keyword": "제주시",
-          "score": 99
-        },
-        {
-          "keyword": "전기자동차",
-          "score": 98
-        },
-        {
-          "keyword": "농지",
-          "score": 97
-        },
-        {
-          "keyword": "메이저 리그 사커",
-          "score": 96
-        },
-        {
-          "keyword": "psg",
-          "score": 95
-        },
-        {
-          "keyword": "liverpool",
-          "score": 94
-        },
-        {
-          "keyword": "atlético madrid đấu với barcelona",
-          "score": 93
-        },
-        {
-          "keyword": "백지연",
-          "score": 92
-        },
-        {
-          "keyword": "liverpool vs psg",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-14T22:08:44.360Z",
       "geo": "KR",
       "source": "google",
@@ -3523,6 +3476,53 @@
         },
         {
           "keyword": "클리블랜드 대 토론토",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-18T21:55:16.696Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "제네시스",
+          "score": 100
+        },
+        {
+          "keyword": "상여금",
+          "score": 99
+        },
+        {
+          "keyword": "선박",
+          "score": 98
+        },
+        {
+          "keyword": "김민재",
+          "score": 97
+        },
+        {
+          "keyword": "빅뱅",
+          "score": 96
+        },
+        {
+          "keyword": "배현진",
+          "score": 95
+        },
+        {
+          "keyword": "메츠 대 컵스",
+          "score": 94
+        },
+        {
+          "keyword": "atlético madrid vs real sociedad",
+          "score": 93
+        },
+        {
+          "keyword": "경기도",
+          "score": 92
+        },
+        {
+          "keyword": "남규리",
           "score": 91
         }
       ]
