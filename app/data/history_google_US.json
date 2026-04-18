@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-14T13:00:50.063Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jean smart",
-          "score": 100
-        },
-        {
-          "keyword": "andrew lloyd webber",
-          "score": 99
-        },
-        {
-          "keyword": "hannah einbinder",
-          "score": 98
-        },
-        {
-          "keyword": "ppi report",
-          "score": 97
-        },
-        {
-          "keyword": "earth day",
-          "score": 96
-        },
-        {
-          "keyword": "patrick duffy",
-          "score": 95
-        },
-        {
-          "keyword": "cooper bowser",
-          "score": 94
-        },
-        {
-          "keyword": "air canada",
-          "score": 93
-        },
-        {
-          "keyword": "connections answers",
-          "score": 92
-        },
-        {
-          "keyword": "c stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-14T14:57:50.155Z",
       "geo": "US",
       "source": "google",
@@ -3335,6 +3288,53 @@
         },
         {
           "keyword": "monster jam philadelphia",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-18T13:55:13.048Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ben shelton",
+          "score": 100
+        },
+        {
+          "keyword": "epl scores",
+          "score": 99
+        },
+        {
+          "keyword": "shadow docket",
+          "score": 98
+        },
+        {
+          "keyword": "executive order",
+          "score": 97
+        },
+        {
+          "keyword": "ukraine",
+          "score": 96
+        },
+        {
+          "keyword": "muchova",
+          "score": 95
+        },
+        {
+          "keyword": "knicks schedule",
+          "score": 94
+        },
+        {
+          "keyword": "petróleo",
+          "score": 93
+        },
+        {
+          "keyword": "union berlin vs wolfsburg",
+          "score": 92
+        },
+        {
+          "keyword": "ibogaine",
           "score": 91
         }
       ]

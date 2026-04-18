@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-14T13:00:52.275Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "モンハン",
-          "score": 100
-        },
-        {
-          "keyword": "大東文化大学",
-          "score": 99
-        },
-        {
-          "keyword": "ジョリー",
-          "score": 98
-        },
-        {
-          "keyword": "ディズニーファン",
-          "score": 97
-        },
-        {
-          "keyword": "峰竜太",
-          "score": 96
-        },
-        {
-          "keyword": "メタプラネット",
-          "score": 95
-        },
-        {
-          "keyword": "東京スプリント",
-          "score": 94
-        },
-        {
-          "keyword": "小池百合子",
-          "score": 93
-        },
-        {
-          "keyword": "u23ラグビー日本代表",
-          "score": 92
-        },
-        {
-          "keyword": "スポティファイ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-14T14:57:53.207Z",
       "geo": "JP",
       "source": "google",
@@ -3335,6 +3288,53 @@
         },
         {
           "keyword": "march",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-18T13:55:15.232Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "加藤あい",
+          "score": 100
+        },
+        {
+          "keyword": "長崎県",
+          "score": 99
+        },
+        {
+          "keyword": "瀬戸 朝香",
+          "score": 98
+        },
+        {
+          "keyword": "ジーユー",
+          "score": 97
+        },
+        {
+          "keyword": "寺本莉緒",
+          "score": 96
+        },
+        {
+          "keyword": "橋爪功",
+          "score": 95
+        },
+        {
+          "keyword": "ソン・ジュンギ",
+          "score": 94
+        },
+        {
+          "keyword": "リーズ u 対 ウルブス",
+          "score": 93
+        },
+        {
+          "keyword": "ニューカッスル 対 ボーンマス",
+          "score": 92
+        },
+        {
+          "keyword": "藤江れいな",
           "score": 91
         }
       ]
