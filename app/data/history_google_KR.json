@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-14T08:58:32.315Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "코스피",
-          "score": 100
-        },
-        {
-          "keyword": "프로바둑기사",
-          "score": 99
-        },
-        {
-          "keyword": "돈",
-          "score": 98
-        },
-        {
-          "keyword": "고용",
-          "score": 97
-        },
-        {
-          "keyword": "영도교",
-          "score": 96
-        },
-        {
-          "keyword": "액화천연가스",
-          "score": 95
-        },
-        {
-          "keyword": "000660",
-          "score": 94
-        },
-        {
-          "keyword": "mlb",
-          "score": 93
-        },
-        {
-          "keyword": "충전기",
-          "score": 92
-        },
-        {
-          "keyword": "공무원",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-14T10:14:38.794Z",
       "geo": "KR",
       "source": "google",
@@ -3241,6 +3194,53 @@
         },
         {
           "keyword": "일본",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-18T09:38:28.637Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nba playoffs",
+          "score": 100
+        },
+        {
+          "keyword": "wec",
+          "score": 99
+        },
+        {
+          "keyword": "박지선",
+          "score": 98
+        },
+        {
+          "keyword": "엑스포츠뉴스",
+          "score": 97
+        },
+        {
+          "keyword": "대구 대 천안시티",
+          "score": 96
+        },
+        {
+          "keyword": "k리그1",
+          "score": 95
+        },
+        {
+          "keyword": "의정부시",
+          "score": 94
+        },
+        {
+          "keyword": "박상신",
+          "score": 93
+        },
+        {
+          "keyword": "제주 대 김천상무",
+          "score": 92
+        },
+        {
+          "keyword": "두산",
           "score": 91
         }
       ]
