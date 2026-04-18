@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-14T20:04:41.429Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "바르셀로나",
-          "score": 100
-        },
-        {
-          "keyword": "챔스",
-          "score": 99
-        },
-        {
-          "keyword": "아틀레티코 대 바르셀로나",
-          "score": 98
-        },
-        {
-          "keyword": "atlético madrid vs barcelona",
-          "score": 97
-        },
-        {
-          "keyword": "champions league",
-          "score": 96
-        },
-        {
-          "keyword": "계엄",
-          "score": 95
-        },
-        {
-          "keyword": "공매도",
-          "score": 94
-        },
-        {
-          "keyword": "리버풀 대 psg",
-          "score": 93
-        },
-        {
-          "keyword": "축구 감독",
-          "score": 92
-        },
-        {
-          "keyword": "골 때리는 그녀들",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-14T21:11:38.755Z",
       "geo": "KR",
       "source": "google",
@@ -3476,6 +3429,53 @@
         },
         {
           "keyword": "tottenham vs brighton",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-18T20:25:50.238Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "เชลซี พบ แมนยู",
+          "score": 100
+        },
+        {
+          "keyword": "chelsea đấu với man utd",
+          "score": 99
+        },
+        {
+          "keyword": "정은원",
+          "score": 98
+        },
+        {
+          "keyword": "첼시",
+          "score": 97
+        },
+        {
+          "keyword": "노팅엄",
+          "score": 96
+        },
+        {
+          "keyword": "premier league",
+          "score": 95
+        },
+        {
+          "keyword": "클리블랜드 대 토론토",
+          "score": 94
+        },
+        {
+          "keyword": "fotmob",
+          "score": 93
+        },
+        {
+          "keyword": "첼시 대 맨유",
+          "score": 92
+        },
+        {
+          "keyword": "웨스트햄",
           "score": 91
         }
       ]
