@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-14T05:55:02.536Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "엘지트윈스",
-          "score": 100
-        },
-        {
-          "keyword": "민주노동조합총연맹",
-          "score": 99
-        },
-        {
-          "keyword": "윤상현",
-          "score": 98
-        },
-        {
-          "keyword": "공연",
-          "score": 97
-        },
-        {
-          "keyword": "금",
-          "score": 96
-        },
-        {
-          "keyword": "박명수",
-          "score": 95
-        },
-        {
-          "keyword": "엔비디아",
-          "score": 94
-        },
-        {
-          "keyword": "사모펀드",
-          "score": 93
-        },
-        {
-          "keyword": "김재연",
-          "score": 92
-        },
-        {
-          "keyword": "검열",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-14T07:17:50.023Z",
       "geo": "KR",
       "source": "google",
@@ -3194,6 +3147,53 @@
         },
         {
           "keyword": "김다인",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-18T06:45:10.376Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "박나래",
+          "score": 100
+        },
+        {
+          "keyword": "dna",
+          "score": 99
+        },
+        {
+          "keyword": "사우디아라비아",
+          "score": 98
+        },
+        {
+          "keyword": "부산 대 수원fc",
+          "score": 97
+        },
+        {
+          "keyword": "경남 대 수원",
+          "score": 96
+        },
+        {
+          "keyword": "블랙핑크 지수 친오빠",
+          "score": 95
+        },
+        {
+          "keyword": "강원 대 전북",
+          "score": 94
+        },
+        {
+          "keyword": "fc 서울 대 대전",
+          "score": 93
+        },
+        {
+          "keyword": "송은이",
+          "score": 92
+        },
+        {
+          "keyword": "jm 이글 la 챔피언십",
           "score": 91
         }
       ]
