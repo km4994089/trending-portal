@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-14T23:08:00.723Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "fisa",
-          "score": 100
-        },
-        {
-          "keyword": "angels - yankees",
-          "score": 99
-        },
-        {
-          "keyword": "blue jays vs brewers",
-          "score": 98
-        },
-        {
-          "keyword": "devils vs bruins",
-          "score": 97
-        },
-        {
-          "keyword": "rays vs white sox",
-          "score": 96
-        },
-        {
-          "keyword": "canadiens vs flyers",
-          "score": 95
-        },
-        {
-          "keyword": "alex ovechkin",
-          "score": 94
-        },
-        {
-          "keyword": "capitals vs blue jackets",
-          "score": 93
-        },
-        {
-          "keyword": "roman gofman",
-          "score": 92
-        },
-        {
-          "keyword": "game changer",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T00:03:39.745Z",
       "geo": "US",
       "source": "google",
@@ -3570,6 +3523,53 @@
         },
         {
           "keyword": "obama",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-18T23:57:27.043Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "felix reyes phillies",
+          "score": 100
+        },
+        {
+          "keyword": "paul skenes",
+          "score": 99
+        },
+        {
+          "keyword": "thiago moises",
+          "score": 98
+        },
+        {
+          "keyword": "dodgers - rockies",
+          "score": 97
+        },
+        {
+          "keyword": "becky lynch",
+          "score": 96
+        },
+        {
+          "keyword": "cm punk",
+          "score": 95
+        },
+        {
+          "keyword": "cam sanders",
+          "score": 94
+        },
+        {
+          "keyword": "ole miss baseball",
+          "score": 93
+        },
+        {
+          "keyword": "america reads the bible",
+          "score": 92
+        },
+        {
+          "keyword": "aj lee",
           "score": 91
         }
       ]
