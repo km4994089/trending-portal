@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-14T22:08:42.878Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "severe thunderstorm watch",
-          "score": 100
-        },
-        {
-          "keyword": "madison weather",
-          "score": 99
-        },
-        {
-          "keyword": "royals vs tigers",
-          "score": 98
-        },
-        {
-          "keyword": "giants vs reds",
-          "score": 97
-        },
-        {
-          "keyword": "gretchen whitmer",
-          "score": 96
-        },
-        {
-          "keyword": "cerro porteño vs junior",
-          "score": 95
-        },
-        {
-          "keyword": "carjacking",
-          "score": 94
-        },
-        {
-          "keyword": "avgo stock",
-          "score": 93
-        },
-        {
-          "keyword": "is barcelona out of the champions league",
-          "score": 92
-        },
-        {
-          "keyword": "avgo",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-14T23:08:00.723Z",
       "geo": "US",
       "source": "google",
@@ -3523,6 +3476,53 @@
         },
         {
           "keyword": "taylor hall",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-18T22:23:42.054Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "la knight",
+          "score": 100
+        },
+        {
+          "keyword": "jalen johnson",
+          "score": 99
+        },
+        {
+          "keyword": "logan paul",
+          "score": 98
+        },
+        {
+          "keyword": "cj mccollum",
+          "score": 97
+        },
+        {
+          "keyword": "wade barrett",
+          "score": 96
+        },
+        {
+          "keyword": "cruz azul - tijuana",
+          "score": 95
+        },
+        {
+          "keyword": "kacey musgraves",
+          "score": 94
+        },
+        {
+          "keyword": "tv app",
+          "score": 93
+        },
+        {
+          "keyword": "pellegrino matarazzo",
+          "score": 92
+        },
+        {
+          "keyword": "disney+",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-14T22:08:45.976Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ナスダック総合指数",
-          "score": 100
-        },
-        {
-          "keyword": "ルセラフィム",
-          "score": 99
-        },
-        {
-          "keyword": "起訴",
-          "score": 98
-        },
-        {
-          "keyword": "プライベートクレジット",
-          "score": 97
-        },
-        {
-          "keyword": "遅延情報",
-          "score": 96
-        },
-        {
-          "keyword": "高輪ゲートウェイ",
-          "score": 95
-        },
-        {
-          "keyword": "円",
-          "score": 94
-        },
-        {
-          "keyword": "オーケー",
-          "score": 93
-        },
-        {
-          "keyword": "三浦璃来",
-          "score": 92
-        },
-        {
-          "keyword": "ini",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-14T23:08:03.451Z",
       "geo": "JP",
       "source": "google",
@@ -3523,6 +3476,53 @@
         },
         {
           "keyword": "相葉 雅紀",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-18T22:23:46.657Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "オイシックス新潟アルビレックス・ベースボール・クラブ",
+          "score": 100
+        },
+        {
+          "keyword": "ナショナルリーグ西地区",
+          "score": 99
+        },
+        {
+          "keyword": "atlético madrid đấu với real sociedad",
+          "score": 98
+        },
+        {
+          "keyword": "片桐仁",
+          "score": 97
+        },
+        {
+          "keyword": "北朝鮮 ミサイル",
+          "score": 96
+        },
+        {
+          "keyword": "旅客機",
+          "score": 95
+        },
+        {
+          "keyword": "出没!アド街ック天国",
+          "score": 94
+        },
+        {
+          "keyword": "ジャパンディスプレイ",
+          "score": 93
+        },
+        {
+          "keyword": "福岡ソフトバンクホークス",
+          "score": 92
+        },
+        {
+          "keyword": "伊藤匠",
           "score": 91
         }
       ]
