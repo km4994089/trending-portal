@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-14T17:39:04.957Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "고윤정",
-          "score": 100
-        },
-        {
-          "keyword": "10",
-          "score": 99
-        },
-        {
-          "keyword": "특수부대",
-          "score": 98
-        },
-        {
-          "keyword": "조진웅",
-          "score": 97
-        },
-        {
-          "keyword": "최고기",
-          "score": 96
-        },
-        {
-          "keyword": "블러드 본",
-          "score": 95
-        },
-        {
-          "keyword": "정선경",
-          "score": 94
-        },
-        {
-          "keyword": "카를로스 알카라스",
-          "score": 93
-        },
-        {
-          "keyword": "멜로니",
-          "score": 92
-        },
-        {
-          "keyword": "방용철",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-14T18:58:55.701Z",
       "geo": "KR",
       "source": "google",
@@ -3429,6 +3382,53 @@
         },
         {
           "keyword": "전지현",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-18T17:57:45.586Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "쿠팡플레이",
+          "score": 100
+        },
+        {
+          "keyword": "프리미어리그",
+          "score": 99
+        },
+        {
+          "keyword": "토트넘",
+          "score": 98
+        },
+        {
+          "keyword": "tottenham vs brighton",
+          "score": 97
+        },
+        {
+          "keyword": "pl",
+          "score": 96
+        },
+        {
+          "keyword": "보험",
+          "score": 95
+        },
+        {
+          "keyword": "토트넘 대 브라이턴",
+          "score": 94
+        },
+        {
+          "keyword": "이지혜",
+          "score": 93
+        },
+        {
+          "keyword": "뉴캐슬",
+          "score": 92
+        },
+        {
+          "keyword": "미미 로즈",
           "score": 91
         }
       ]
