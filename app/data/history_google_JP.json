@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-14T10:14:40.243Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "中田翔",
-          "score": 100
-        },
-        {
-          "keyword": "小泉孝太郎",
-          "score": 99
-        },
-        {
-          "keyword": "松村 北斗",
-          "score": 98
-        },
-        {
-          "keyword": "糸井嘉男",
-          "score": 97
-        },
-        {
-          "keyword": "ドットアビス",
-          "score": 96
-        },
-        {
-          "keyword": "安達祐実",
-          "score": 95
-        },
-        {
-          "keyword": "音無 美紀子",
-          "score": 94
-        },
-        {
-          "keyword": "sfpホールディングス",
-          "score": 93
-        },
-        {
-          "keyword": "ドミノ・ピザ",
-          "score": 92
-        },
-        {
-          "keyword": "大井競馬",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-14T11:34:08.735Z",
       "geo": "JP",
       "source": "google",
@@ -3241,6 +3194,53 @@
         },
         {
           "keyword": "ミスオージャ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-18T10:31:26.318Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "和田アキ子",
+          "score": 100
+        },
+        {
+          "keyword": "ジミン",
+          "score": 99
+        },
+        {
+          "keyword": "シウミン",
+          "score": 98
+        },
+        {
+          "keyword": "三遠ネオフェニックス",
+          "score": 97
+        },
+        {
+          "keyword": "日本u-20 対 北朝鮮u-20",
+          "score": 96
+        },
+        {
+          "keyword": "黒木華",
+          "score": 95
+        },
+        {
+          "keyword": "モンスト アバウト",
+          "score": 94
+        },
+        {
+          "keyword": "森尾 由美",
+          "score": 93
+        },
+        {
+          "keyword": "東京ヤクルトスワローズ",
+          "score": 92
+        },
+        {
+          "keyword": "ディズニー",
           "score": 91
         }
       ]
