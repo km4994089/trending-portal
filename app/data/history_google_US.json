@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-14T03:46:22.084Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "brooke shields",
-          "score": 100
-        },
-        {
-          "keyword": "wordle hint april 13",
-          "score": 99
-        },
-        {
-          "keyword": "francisco lindor",
-          "score": 98
-        },
-        {
-          "keyword": "jensen ackles",
-          "score": 97
-        },
-        {
-          "keyword": "qatar",
-          "score": 96
-        },
-        {
-          "keyword": "lee cronin's the mummy",
-          "score": 95
-        },
-        {
-          "keyword": "bloodborne",
-          "score": 94
-        },
-        {
-          "keyword": "andy pages",
-          "score": 93
-        },
-        {
-          "keyword": "buffalo sabres",
-          "score": 92
-        },
-        {
-          "keyword": "weather tornado warning",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-14T05:55:01.314Z",
       "geo": "US",
       "source": "google",
@@ -3194,6 +3147,53 @@
         },
         {
           "keyword": "deion sanders",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-18T05:28:28.427Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "xavier becerra",
+          "score": 100
+        },
+        {
+          "keyword": "madonna coachella",
+          "score": 99
+        },
+        {
+          "keyword": "dc",
+          "score": 98
+        },
+        {
+          "keyword": "nba draft lottery",
+          "score": 97
+        },
+        {
+          "keyword": "fetty wap",
+          "score": 96
+        },
+        {
+          "keyword": "liam broady",
+          "score": 95
+        },
+        {
+          "keyword": "joost",
+          "score": 94
+        },
+        {
+          "keyword": "samuel alito",
+          "score": 93
+        },
+        {
+          "keyword": "wsbt news",
+          "score": 92
+        },
+        {
+          "keyword": "okc vs suns",
           "score": 91
         }
       ]
