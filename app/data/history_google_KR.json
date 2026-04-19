@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T10:16:01.108Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "공대지 미사일",
-          "score": 100
-        },
-        {
-          "keyword": "늑구",
-          "score": 99
-        },
-        {
-          "keyword": "한화에어로스페이스",
-          "score": 98
-        },
-        {
-          "keyword": "퇴장",
-          "score": 97
-        },
-        {
-          "keyword": "자산",
-          "score": 96
-        },
-        {
-          "keyword": "poppy",
-          "score": 95
-        },
-        {
-          "keyword": "tokyo",
-          "score": 94
-        },
-        {
-          "keyword": "italy",
-          "score": 93
-        },
-        {
-          "keyword": "london",
-          "score": 92
-        },
-        {
-          "keyword": "madrid",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T11:31:38.967Z",
       "geo": "KR",
       "source": "google",
@@ -3617,6 +3570,53 @@
         },
         {
           "keyword": "홈플러스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T11:03:28.736Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "rr vs kkr",
+          "score": 100
+        },
+        {
+          "keyword": "구속",
+          "score": 99
+        },
+        {
+          "keyword": "투자",
+          "score": 98
+        },
+        {
+          "keyword": "커플",
+          "score": 97
+        },
+        {
+          "keyword": "신세계",
+          "score": 96
+        },
+        {
+          "keyword": "현빈",
+          "score": 95
+        },
+        {
+          "keyword": "이강철",
+          "score": 94
+        },
+        {
+          "keyword": "샘 올 트먼",
+          "score": 93
+        },
+        {
+          "keyword": "에릭",
+          "score": 92
+        },
+        {
+          "keyword": "mbc",
           "score": 91
         }
       ]
