@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T11:31:40.281Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "中村晃",
-          "score": 100
-        },
-        {
-          "keyword": "アンミカ",
-          "score": 99
-        },
-        {
-          "keyword": "楽天 監督",
-          "score": 98
-        },
-        {
-          "keyword": "平祐奈",
-          "score": 97
-        },
-        {
-          "keyword": "豊ノ島",
-          "score": 96
-        },
-        {
-          "keyword": "富永啓悟容疑者",
-          "score": 95
-        },
-        {
-          "keyword": "淡路島",
-          "score": 94
-        },
-        {
-          "keyword": "mma",
-          "score": 93
-        },
-        {
-          "keyword": "千葉ジェッツ",
-          "score": 92
-        },
-        {
-          "keyword": "名古屋ダイヤモンドドルフィンズ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T13:00:00.667Z",
       "geo": "JP",
       "source": "google",
@@ -3617,6 +3570,53 @@
         },
         {
           "keyword": "濱田岳",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T11:55:31.032Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "イコラブ",
+          "score": 100
+        },
+        {
+          "keyword": "佳久創",
+          "score": 99
+        },
+        {
+          "keyword": "小林市長選挙",
+          "score": 98
+        },
+        {
+          "keyword": "手越 祐也",
+          "score": 97
+        },
+        {
+          "keyword": "指原莉乃",
+          "score": 96
+        },
+        {
+          "keyword": "カンザスシティ・ロイヤルズ",
+          "score": 95
+        },
+        {
+          "keyword": "南風原町長選挙",
+          "score": 94
+        },
+        {
+          "keyword": "神宮球場",
+          "score": 93
+        },
+        {
+          "keyword": "ドラクエタクト",
+          "score": 92
+        },
+        {
+          "keyword": "どうする家康",
           "score": 91
         }
       ]
