@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T00:03:41.859Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "アストンマーティン",
-          "score": 100
-        },
-        {
-          "keyword": "西森 洋一",
-          "score": 99
-        },
-        {
-          "keyword": "kb5083769",
-          "score": 98
-        },
-        {
-          "keyword": "booking",
-          "score": 97
-        },
-        {
-          "keyword": "早乙女太一",
-          "score": 96
-        },
-        {
-          "keyword": "マイク・トラウト",
-          "score": 95
-        },
-        {
-          "keyword": "ホーネッツ 対 ヒート",
-          "score": 94
-        },
-        {
-          "keyword": "afc u20女子アジアカップ",
-          "score": 93
-        },
-        {
-          "keyword": "z世代",
-          "score": 92
-        },
-        {
-          "keyword": "東野圭吾",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T03:45:01.272Z",
       "geo": "JP",
       "source": "google",
@@ -3570,6 +3523,53 @@
         },
         {
           "keyword": "キーウ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T02:12:28.658Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "高速鉄道",
+          "score": 100
+        },
+        {
+          "keyword": "ウィル・クライン",
+          "score": 99
+        },
+        {
+          "keyword": "lakers",
+          "score": 98
+        },
+        {
+          "keyword": "nhkオンデマンド",
+          "score": 97
+        },
+        {
+          "keyword": "筧美和子",
+          "score": 96
+        },
+        {
+          "keyword": "鳴海唯",
+          "score": 95
+        },
+        {
+          "keyword": "的場浩司",
+          "score": 94
+        },
+        {
+          "keyword": "nba docomo",
+          "score": 93
+        },
+        {
+          "keyword": "west",
+          "score": 92
+        },
+        {
+          "keyword": "京都競馬場",
           "score": 91
         }
       ]

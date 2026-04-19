@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T00:03:39.745Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "matt damon",
-          "score": 100
-        },
-        {
-          "keyword": "sal stewart",
-          "score": 99
-        },
-        {
-          "keyword": "ducks vs wild",
-          "score": 98
-        },
-        {
-          "keyword": "concachampions",
-          "score": 97
-        },
-        {
-          "keyword": "taylor sheridan",
-          "score": 96
-        },
-        {
-          "keyword": "blake griffin",
-          "score": 95
-        },
-        {
-          "keyword": "tornado radar",
-          "score": 94
-        },
-        {
-          "keyword": "prime video",
-          "score": 93
-        },
-        {
-          "keyword": "oliver bonk",
-          "score": 92
-        },
-        {
-          "keyword": "kendra duggar",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T03:44:58.156Z",
       "geo": "US",
       "source": "google",
@@ -3570,6 +3523,53 @@
         },
         {
           "keyword": "aj lee",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T02:12:26.225Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jt realmuto",
+          "score": 100
+        },
+        {
+          "keyword": "carey mulligan",
+          "score": 99
+        },
+        {
+          "keyword": "roman reigns",
+          "score": 98
+        },
+        {
+          "keyword": "iphone fold",
+          "score": 97
+        },
+        {
+          "keyword": "stanley tucci",
+          "score": 96
+        },
+        {
+          "keyword": "randy orton injury",
+          "score": 95
+        },
+        {
+          "keyword": "moon phase today",
+          "score": 94
+        },
+        {
+          "keyword": "jae'sean tate",
+          "score": 93
+        },
+        {
+          "keyword": "megan fox",
+          "score": 92
+        },
+        {
+          "keyword": "bronny james",
           "score": 91
         }
       ]
