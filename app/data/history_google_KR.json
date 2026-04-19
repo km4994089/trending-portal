@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T19:57:24.281Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "스포티비",
-          "score": 100
-        },
-        {
-          "keyword": "트레이드",
-          "score": 99
-        },
-        {
-          "keyword": "아스널 대 스포르팅",
-          "score": 98
-        },
-        {
-          "keyword": "바이에른 대 레알 마드리드",
-          "score": 97
-        },
-        {
-          "keyword": "손연재",
-          "score": 96
-        },
-        {
-          "keyword": "여자 축구",
-          "score": 95
-        },
-        {
-          "keyword": "김원중",
-          "score": 94
-        },
-        {
-          "keyword": "claude",
-          "score": 93
-        },
-        {
-          "keyword": "올버즈",
-          "score": 92
-        },
-        {
-          "keyword": "박해수",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T20:42:02.871Z",
       "geo": "KR",
       "source": "google",
@@ -3805,6 +3758,53 @@
         },
         {
           "keyword": "케이뱅크",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T20:26:10.808Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "리그 1",
+          "score": 100
+        },
+        {
+          "keyword": "김대희",
+          "score": 99
+        },
+        {
+          "keyword": "양치 승",
+          "score": 98
+        },
+        {
+          "keyword": "프리미어리그",
+          "score": 97
+        },
+        {
+          "keyword": "pl",
+          "score": 96
+        },
+        {
+          "keyword": "맨체스터 시티 fc",
+          "score": 95
+        },
+        {
+          "keyword": "bundesliga",
+          "score": 94
+        },
+        {
+          "keyword": "fotmob",
+          "score": 93
+        },
+        {
+          "keyword": "윤아",
+          "score": 92
+        },
+        {
+          "keyword": "김영인",
           "score": 91
         }
       ]

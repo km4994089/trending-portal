@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T19:57:22.875Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "severe thunderstorm watch",
-          "score": 100
-        },
-        {
-          "keyword": "adrian del castillo",
-          "score": 99
-        },
-        {
-          "keyword": "harry kane",
-          "score": 98
-        },
-        {
-          "keyword": "manuel neuer",
-          "score": 97
-        },
-        {
-          "keyword": "soccer",
-          "score": 96
-        },
-        {
-          "keyword": "欧冠",
-          "score": 95
-        },
-        {
-          "keyword": "paul walter hauser",
-          "score": 94
-        },
-        {
-          "keyword": "bayer",
-          "score": 93
-        },
-        {
-          "keyword": "connelly early",
-          "score": 92
-        },
-        {
-          "keyword": "madrid club",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T20:42:01.417Z",
       "geo": "US",
       "source": "google",
@@ -3805,6 +3758,53 @@
         },
         {
           "keyword": "lyon fc",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T20:26:09.671Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cubs score",
+          "score": 100
+        },
+        {
+          "keyword": "bubba wallace",
+          "score": 99
+        },
+        {
+          "keyword": "thunder score",
+          "score": 98
+        },
+        {
+          "keyword": "grayson allen",
+          "score": 97
+        },
+        {
+          "keyword": "harry, meghan australia trip",
+          "score": 96
+        },
+        {
+          "keyword": "wilber dotel",
+          "score": 95
+        },
+        {
+          "keyword": "st. louis cardinals",
+          "score": 94
+        },
+        {
+          "keyword": "jake mangum",
+          "score": 93
+        },
+        {
+          "keyword": "white sox vs athletics",
+          "score": 92
+        },
+        {
+          "keyword": "kim english",
           "score": 91
         }
       ]
