@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T22:33:40.837Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "노동절",
-          "score": 100
-        },
-        {
-          "keyword": "하트맨",
-          "score": 99
-        },
-        {
-          "keyword": "대한전선",
-          "score": 98
-        },
-        {
-          "keyword": "로리 맥길로이",
-          "score": 97
-        },
-        {
-          "keyword": "nvda",
-          "score": 96
-        },
-        {
-          "keyword": "프로야구 순위",
-          "score": 95
-        },
-        {
-          "keyword": "금양",
-          "score": 94
-        },
-        {
-          "keyword": "허경환",
-          "score": 93
-        },
-        {
-          "keyword": "앤트로픽",
-          "score": 92
-        },
-        {
-          "keyword": "대한민국 해병대",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T23:33:54.047Z",
       "geo": "KR",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "메츠 대 컵스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T23:01:21.476Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "weather",
+          "score": 100
+        },
+        {
+          "keyword": "날씨",
+          "score": 99
+        },
+        {
+          "keyword": "기상청",
+          "score": 98
+        },
+        {
+          "keyword": "홍명보",
+          "score": 97
+        },
+        {
+          "keyword": "뉴스",
+          "score": 96
+        },
+        {
+          "keyword": "天气",
+          "score": 95
+        },
+        {
+          "keyword": "주간조선",
+          "score": 94
+        },
+        {
+          "keyword": "김연경",
+          "score": 93
+        },
+        {
+          "keyword": "아성다이소",
+          "score": 92
+        },
+        {
+          "keyword": "홍해",
           "score": 91
         }
       ]

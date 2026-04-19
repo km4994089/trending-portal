@@ -1,10 +1,18 @@
 {
-  "capturedAt": "2026-04-19T22:24:45.548Z",
+  "capturedAt": "2026-04-19T23:01:21.476Z",
   "geo": "KR",
   "source": "google",
   "items": [
     {
-      "keyword": "뉴스",
+      "keyword": "weather",
+      "articles": []
+    },
+    {
+      "keyword": "날씨",
+      "articles": []
+    },
+    {
+      "keyword": "기상청",
       "articles": []
     },
     {
@@ -12,7 +20,15 @@
       "articles": []
     },
     {
+      "keyword": "뉴스",
+      "articles": []
+    },
+    {
       "keyword": "天气",
+      "articles": []
+    },
+    {
+      "keyword": "주간조선",
       "articles": []
     },
     {
@@ -20,27 +36,11 @@
       "articles": []
     },
     {
+      "keyword": "아성다이소",
+      "articles": []
+    },
+    {
       "keyword": "홍해",
-      "articles": []
-    },
-    {
-      "keyword": "협박",
-      "articles": []
-    },
-    {
-      "keyword": "엔비디아",
-      "articles": []
-    },
-    {
-      "keyword": "쓰레기봉투",
-      "articles": []
-    },
-    {
-      "keyword": "복권",
-      "articles": []
-    },
-    {
-      "keyword": "메츠 대 컵스",
       "articles": []
     }
   ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T22:33:39.432Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sotomayor apology",
-          "score": 100
-        },
-        {
-          "keyword": "nick wright",
-          "score": 99
-        },
-        {
-          "keyword": "franz wagner",
-          "score": 98
-        },
-        {
-          "keyword": "mortgage rates",
-          "score": 97
-        },
-        {
-          "keyword": "mortgage broker",
-          "score": 96
-        },
-        {
-          "keyword": "khloé & lamar",
-          "score": 95
-        },
-        {
-          "keyword": "zoom diallo",
-          "score": 94
-        },
-        {
-          "keyword": "seattle weather",
-          "score": 93
-        },
-        {
-          "keyword": "coinbase",
-          "score": 92
-        },
-        {
-          "keyword": "magic vs 76ers prediction",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T23:33:52.934Z",
       "geo": "US",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "sandra bullock",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T23:01:20.392Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jalen suggs",
+          "score": 100
+        },
+        {
+          "keyword": "angel chivilli",
+          "score": 99
+        },
+        {
+          "keyword": "bulgaria",
+          "score": 98
+        },
+        {
+          "keyword": "jevon evans",
+          "score": 97
+        },
+        {
+          "keyword": "rusev",
+          "score": 96
+        },
+        {
+          "keyword": "dragon lee",
+          "score": 95
+        },
+        {
+          "keyword": "nick shirley",
+          "score": 94
+        },
+        {
+          "keyword": "josh anderson",
+          "score": 93
+        },
+        {
+          "keyword": "cade cunningham injury",
+          "score": 92
+        },
+        {
+          "keyword": "braves vs phillies prediction",
           "score": 91
         }
       ]
