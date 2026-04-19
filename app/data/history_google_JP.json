@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T15:58:48.860Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "豊臣兄弟",
-          "score": 100
-        },
-        {
-          "keyword": "石田ひかり",
-          "score": 99
-        },
-        {
-          "keyword": "claude",
-          "score": 98
-        },
-        {
-          "keyword": "スザンヌ",
-          "score": 97
-        },
-        {
-          "keyword": "エヌビディア",
-          "score": 96
-        },
-        {
-          "keyword": "ionq",
-          "score": 95
-        },
-        {
-          "keyword": "水曜 どうでしょう?",
-          "score": 94
-        },
-        {
-          "keyword": "水野美紀",
-          "score": 93
-        },
-        {
-          "keyword": "ドラクエ",
-          "score": 92
-        },
-        {
-          "keyword": "国債",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T17:03:43.359Z",
       "geo": "JP",
       "source": "google",
@@ -3711,6 +3664,53 @@
         },
         {
           "keyword": "マンc 対 アーセナル",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T16:01:36.885Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "前田敦子",
+          "score": 100
+        },
+        {
+          "keyword": "英超",
+          "score": 99
+        },
+        {
+          "keyword": "伊藤潤二",
+          "score": 98
+        },
+        {
+          "keyword": "モハメド・サラー",
+          "score": 97
+        },
+        {
+          "keyword": "内閣支持率",
+          "score": 96
+        },
+        {
+          "keyword": "尾野真千子",
+          "score": 95
+        },
+        {
+          "keyword": "ドラマ",
+          "score": 94
+        },
+        {
+          "keyword": "三浦知良",
+          "score": 93
+        },
+        {
+          "keyword": "everton đấu với liverpool",
+          "score": 92
+        },
+        {
+          "keyword": "キン肉マン",
           "score": 91
         }
       ]

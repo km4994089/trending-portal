@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T15:58:45.834Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tsla",
-          "score": 100
-        },
-        {
-          "keyword": "mukul choudhary",
-          "score": 99
-        },
-        {
-          "keyword": "fisa",
-          "score": 98
-        },
-        {
-          "keyword": "tax credit",
-          "score": 97
-        },
-        {
-          "keyword": "kevin mcgonigle",
-          "score": 96
-        },
-        {
-          "keyword": "stewart rhodes",
-          "score": 95
-        },
-        {
-          "keyword": "elise stefanik",
-          "score": 94
-        },
-        {
-          "keyword": "bishop boswell",
-          "score": 93
-        },
-        {
-          "keyword": "is claude down",
-          "score": 92
-        },
-        {
-          "keyword": "rishabh pant",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T17:03:40.303Z",
       "geo": "US",
       "source": "google",
@@ -3711,6 +3664,53 @@
         },
         {
           "keyword": "harmeet dhillon",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T16:01:34.751Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cherki",
+          "score": 100
+        },
+        {
+          "keyword": "bayern munich",
+          "score": 99
+        },
+        {
+          "keyword": "rayan cherki",
+          "score": 98
+        },
+        {
+          "keyword": "donnarumma",
+          "score": 97
+        },
+        {
+          "keyword": "brooke hogan",
+          "score": 96
+        },
+        {
+          "keyword": "washington post trump ballroom analysis",
+          "score": 95
+        },
+        {
+          "keyword": "manchester city standings",
+          "score": 94
+        },
+        {
+          "keyword": "bundesliga",
+          "score": 93
+        },
+        {
+          "keyword": "nbc",
+          "score": 92
+        },
+        {
+          "keyword": "zachariah branch",
           "score": 91
         }
       ]
