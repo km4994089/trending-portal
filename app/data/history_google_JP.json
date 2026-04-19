@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T20:42:04.255Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "チャンピオンズリーグ",
-          "score": 100
-        },
-        {
-          "keyword": "ナフサ",
-          "score": 99
-        },
-        {
-          "keyword": "エヌビディア株価",
-          "score": 98
-        },
-        {
-          "keyword": "arsenal đấu với sporting",
-          "score": 97
-        },
-        {
-          "keyword": "liga champions",
-          "score": 96
-        },
-        {
-          "keyword": "鉄道",
-          "score": 95
-        },
-        {
-          "keyword": "井上一樹",
-          "score": 94
-        },
-        {
-          "keyword": "ナスダック",
-          "score": 93
-        },
-        {
-          "keyword": "アマゾン株価",
-          "score": 92
-        },
-        {
-          "keyword": "大原優乃",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T21:42:02.012Z",
       "geo": "JP",
       "source": "google",
@@ -3805,6 +3758,53 @@
         },
         {
           "keyword": "詐欺",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T21:00:51.752Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "伊勢ヶ濱部屋",
+          "score": 100
+        },
+        {
+          "keyword": "運",
+          "score": 99
+        },
+        {
+          "keyword": "佐々木朗希",
+          "score": 98
+        },
+        {
+          "keyword": "オーケー",
+          "score": 97
+        },
+        {
+          "keyword": "吉田結衣",
+          "score": 96
+        },
+        {
+          "keyword": "メジャー",
+          "score": 95
+        },
+        {
+          "keyword": "市議会議員選挙",
+          "score": 94
+        },
+        {
+          "keyword": "トレード",
+          "score": 93
+        },
+        {
+          "keyword": "日本経済新聞",
+          "score": 92
+        },
+        {
+          "keyword": "レッドソックス 対 タイガース",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T20:42:01.417Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "olise",
-          "score": 100
-        },
-        {
-          "keyword": "musiala",
-          "score": 99
-        },
-        {
-          "keyword": "gnabry",
-          "score": 98
-        },
-        {
-          "keyword": "airline",
-          "score": 97
-        },
-        {
-          "keyword": "ketanji brown jackson",
-          "score": 96
-        },
-        {
-          "keyword": "joy harmon",
-          "score": 95
-        },
-        {
-          "keyword": "tijuana river",
-          "score": 94
-        },
-        {
-          "keyword": "katie boulter",
-          "score": 93
-        },
-        {
-          "keyword": "champions league bracket",
-          "score": 92
-        },
-        {
-          "keyword": "uss carl m. levin coyote launcher",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T21:41:59.337Z",
       "geo": "US",
       "source": "google",
@@ -3805,6 +3758,53 @@
         },
         {
           "keyword": "kim english",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T21:00:49.023Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "michael conforto",
+          "score": 100
+        },
+        {
+          "keyword": "lightning game",
+          "score": 99
+        },
+        {
+          "keyword": "devin williams",
+          "score": 98
+        },
+        {
+          "keyword": "devin booker",
+          "score": 97
+        },
+        {
+          "keyword": "ryne nelson",
+          "score": 96
+        },
+        {
+          "keyword": "oso ighodaro",
+          "score": 95
+        },
+        {
+          "keyword": "blue jays - dbacks",
+          "score": 94
+        },
+        {
+          "keyword": "harris english",
+          "score": 93
+        },
+        {
+          "keyword": "dillon brooks",
+          "score": 92
+        },
+        {
+          "keyword": "jaylin williams",
           "score": 91
         }
       ]

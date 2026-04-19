@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T20:42:02.871Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "아스날",
-          "score": 100
-        },
-        {
-          "keyword": "arsenal",
-          "score": 99
-        },
-        {
-          "keyword": "bayern đấu với real madrid",
-          "score": 98
-        },
-        {
-          "keyword": "바이에른 뮌헨",
-          "score": 97
-        },
-        {
-          "keyword": "성심당",
-          "score": 96
-        },
-        {
-          "keyword": "bayern vs real madrid",
-          "score": 95
-        },
-        {
-          "keyword": "real madrid",
-          "score": 94
-        },
-        {
-          "keyword": "해외축구",
-          "score": 93
-        },
-        {
-          "keyword": "스포티비",
-          "score": 92
-        },
-        {
-          "keyword": "트레이드",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T21:42:00.626Z",
       "geo": "KR",
       "source": "google",
@@ -3805,6 +3758,53 @@
         },
         {
           "keyword": "김영인",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T21:00:50.483Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "손예진",
+          "score": 100
+        },
+        {
+          "keyword": "델시 로드리게스",
+          "score": 99
+        },
+        {
+          "keyword": "의정부시",
+          "score": 98
+        },
+        {
+          "keyword": "psg",
+          "score": 97
+        },
+        {
+          "keyword": "리그 1",
+          "score": 96
+        },
+        {
+          "keyword": "김대희",
+          "score": 95
+        },
+        {
+          "keyword": "양치 승",
+          "score": 94
+        },
+        {
+          "keyword": "프리미어리그",
+          "score": 93
+        },
+        {
+          "keyword": "pl",
+          "score": 92
+        },
+        {
+          "keyword": "맨체스터 시티 fc",
           "score": 91
         }
       ]
