@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T18:38:41.008Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "convenience store near me",
-          "score": 100
-        },
-        {
-          "keyword": "carrie underwood",
-          "score": 99
-        },
-        {
-          "keyword": "arsenal vs sporting",
-          "score": 98
-        },
-        {
-          "keyword": "jeremiah jackson",
-          "score": 97
-        },
-        {
-          "keyword": "jake wahlin",
-          "score": 96
-        },
-        {
-          "keyword": "strc",
-          "score": 95
-        },
-        {
-          "keyword": "lisa hochstein",
-          "score": 94
-        },
-        {
-          "keyword": "greenland",
-          "score": 93
-        },
-        {
-          "keyword": "bayern - real madrid",
-          "score": 92
-        },
-        {
-          "keyword": "austin martin",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T19:57:22.875Z",
       "geo": "US",
       "source": "google",
@@ -3758,6 +3711,53 @@
         },
         {
           "keyword": "rickie fowler",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T18:47:08.889Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "santos vs fluminense",
+          "score": 100
+        },
+        {
+          "keyword": "disclosure day",
+          "score": 99
+        },
+        {
+          "keyword": "tobias myers",
+          "score": 98
+        },
+        {
+          "keyword": "vladimir putin",
+          "score": 97
+        },
+        {
+          "keyword": "howard lutnick",
+          "score": 96
+        },
+        {
+          "keyword": "ligue 1",
+          "score": 95
+        },
+        {
+          "keyword": "lawsuit",
+          "score": 94
+        },
+        {
+          "keyword": "josh harris",
+          "score": 93
+        },
+        {
+          "keyword": "juventus vs bologna",
+          "score": 92
+        },
+        {
+          "keyword": "juventus",
           "score": 91
         }
       ]

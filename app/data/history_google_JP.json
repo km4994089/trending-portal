@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T18:38:43.610Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "バイエルン 対 rマドリード",
-          "score": 100
-        },
-        {
-          "keyword": "アーセナル 対 スポルティングcp",
-          "score": 99
-        },
-        {
-          "keyword": "井口裕香",
-          "score": 98
-        },
-        {
-          "keyword": "マイクロソフト株価",
-          "score": 97
-        },
-        {
-          "keyword": "小林豊",
-          "score": 96
-        },
-        {
-          "keyword": "mbs",
-          "score": 95
-        },
-        {
-          "keyword": "天気天気",
-          "score": 94
-        },
-        {
-          "keyword": "川崎桜",
-          "score": 93
-        },
-        {
-          "keyword": "アサヒ",
-          "score": 92
-        },
-        {
-          "keyword": "永瀬廉",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T19:57:25.807Z",
       "geo": "JP",
       "source": "google",
@@ -3758,6 +3711,53 @@
         },
         {
           "keyword": "上田竜也",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T18:47:11.513Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "皇治",
+          "score": 100
+        },
+        {
+          "keyword": "小雪",
+          "score": 99
+        },
+        {
+          "keyword": "にじさんじデビュー",
+          "score": 98
+        },
+        {
+          "keyword": "ちゃんよた",
+          "score": 97
+        },
+        {
+          "keyword": "坂本 花織",
+          "score": 96
+        },
+        {
+          "keyword": "松山 千春",
+          "score": 95
+        },
+        {
+          "keyword": "dior",
+          "score": 94
+        },
+        {
+          "keyword": "リーグアン",
+          "score": 93
+        },
+        {
+          "keyword": "伊勢谷友介",
+          "score": 92
+        },
+        {
+          "keyword": "bayern vs vfb stuttgart",
           "score": 91
         }
       ]

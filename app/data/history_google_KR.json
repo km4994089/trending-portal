@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T18:38:42.215Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "여자 축구",
-          "score": 100
-        },
-        {
-          "keyword": "김원중",
-          "score": 99
-        },
-        {
-          "keyword": "claude",
-          "score": 98
-        },
-        {
-          "keyword": "올버즈",
-          "score": 97
-        },
-        {
-          "keyword": "박해수",
-          "score": 96
-        },
-        {
-          "keyword": "최백호",
-          "score": 95
-        },
-        {
-          "keyword": "도시",
-          "score": 94
-        },
-        {
-          "keyword": "이금희",
-          "score": 93
-        },
-        {
-          "keyword": "아레나",
-          "score": 92
-        },
-        {
-          "keyword": "아이온큐 주가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T19:57:24.281Z",
       "geo": "KR",
       "source": "google",
@@ -3758,6 +3711,53 @@
         },
         {
           "keyword": "홍지윤",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T18:47:10.070Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "프리미어리그",
+          "score": 100
+        },
+        {
+          "keyword": "pl",
+          "score": 99
+        },
+        {
+          "keyword": "맨체스터 시티 fc",
+          "score": 98
+        },
+        {
+          "keyword": "fotmob",
+          "score": 97
+        },
+        {
+          "keyword": "아스널 fc",
+          "score": 96
+        },
+        {
+          "keyword": "윤아",
+          "score": 95
+        },
+        {
+          "keyword": "김영인",
+          "score": 94
+        },
+        {
+          "keyword": "манчестер сити – арсенал",
+          "score": 93
+        },
+        {
+          "keyword": "케이뱅크",
+          "score": 92
+        },
+        {
+          "keyword": "바이에른 뮌헨",
           "score": 91
         }
       ]
