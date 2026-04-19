@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T14:46:42.735Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ユナイテッド航空",
-          "score": 100
-        },
-        {
-          "keyword": "lsg vs rcb",
-          "score": 99
-        },
-        {
-          "keyword": "亀岡市",
-          "score": 98
-        },
-        {
-          "keyword": "acle",
-          "score": 97
-        },
-        {
-          "keyword": "ムーミン",
-          "score": 96
-        },
-        {
-          "keyword": "華原朋美",
-          "score": 95
-        },
-        {
-          "keyword": "東京エレクトロン",
-          "score": 94
-        },
-        {
-          "keyword": "jalアプリ",
-          "score": 93
-        },
-        {
-          "keyword": "ウエストランド",
-          "score": 92
-        },
-        {
-          "keyword": "エドウィン ディアス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T15:58:48.860Z",
       "geo": "JP",
       "source": "google",
@@ -3711,6 +3664,53 @@
         },
         {
           "keyword": "al wasl vs al-nassr",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T15:29:20.777Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ジャンプ",
+          "score": 100
+        },
+        {
+          "keyword": "ムンビン",
+          "score": 99
+        },
+        {
+          "keyword": "セルティック",
+          "score": 98
+        },
+        {
+          "keyword": "木村多江",
+          "score": 97
+        },
+        {
+          "keyword": "マックナゲットソース",
+          "score": 96
+        },
+        {
+          "keyword": "バイエルン 対 シュトゥットガルト",
+          "score": 95
+        },
+        {
+          "keyword": "man city đấu với arsenal",
+          "score": 94
+        },
+        {
+          "keyword": "サンリオピューロランド",
+          "score": 93
+        },
+        {
+          "keyword": "pbks vs lsg",
+          "score": 92
+        },
+        {
+          "keyword": "マンc 対 アーセナル",
           "score": 91
         }
       ]

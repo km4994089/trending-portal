@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T14:46:39.833Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "africa",
-          "score": 100
-        },
-        {
-          "keyword": "spiderman beyond the spider verse",
-          "score": 99
-        },
-        {
-          "keyword": "rafael jodar",
-          "score": 98
-        },
-        {
-          "keyword": "downdetector",
-          "score": 97
-        },
-        {
-          "keyword": "avgo",
-          "score": 96
-        },
-        {
-          "keyword": "trader joe's settlement payout",
-          "score": 95
-        },
-        {
-          "keyword": "now stock",
-          "score": 94
-        },
-        {
-          "keyword": "uber stock",
-          "score": 93
-        },
-        {
-          "keyword": "yahoo down",
-          "score": 92
-        },
-        {
-          "keyword": "smr stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T15:58:45.834Z",
       "geo": "US",
       "source": "google",
@@ -3711,6 +3664,53 @@
         },
         {
           "keyword": "internacional vs mirassol",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T15:29:17.839Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "drew scharnowski",
+          "score": 100
+        },
+        {
+          "keyword": "matt leblanc",
+          "score": 99
+        },
+        {
+          "keyword": "prem",
+          "score": 98
+        },
+        {
+          "keyword": "red dead redemption 3",
+          "score": 97
+        },
+        {
+          "keyword": "virgil van dijk",
+          "score": 96
+        },
+        {
+          "keyword": "monaco",
+          "score": 95
+        },
+        {
+          "keyword": "kristen welker",
+          "score": 94
+        },
+        {
+          "keyword": "manchester city - arsenal",
+          "score": 93
+        },
+        {
+          "keyword": "bayern - stuttgart",
+          "score": 92
+        },
+        {
+          "keyword": "harmeet dhillon",
           "score": 91
         }
       ]
