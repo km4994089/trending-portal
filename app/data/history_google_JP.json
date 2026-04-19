@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T05:54:36.078Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "サイゼリヤ 閉店",
-          "score": 100
-        },
-        {
-          "keyword": "原宿",
-          "score": 99
-        },
-        {
-          "keyword": "出川 哲朗",
-          "score": 98
-        },
-        {
-          "keyword": "鎌倉",
-          "score": 97
-        },
-        {
-          "keyword": "イギリス",
-          "score": 96
-        },
-        {
-          "keyword": "足立 梨花",
-          "score": 95
-        },
-        {
-          "keyword": "ベイカレント",
-          "score": 94
-        },
-        {
-          "keyword": "宮島",
-          "score": 93
-        },
-        {
-          "keyword": "函館",
-          "score": 92
-        },
-        {
-          "keyword": "石井準一",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T07:18:01.670Z",
       "geo": "JP",
       "source": "google",
@@ -3570,6 +3523,53 @@
         },
         {
           "keyword": "タコス",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T06:55:43.550Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "髙木美帆",
+          "score": 100
+        },
+        {
+          "keyword": "松村 北斗",
+          "score": 99
+        },
+        {
+          "keyword": "池松 壮亮",
+          "score": 98
+        },
+        {
+          "keyword": "カターレ富山",
+          "score": 97
+        },
+        {
+          "keyword": "福留孝介",
+          "score": 96
+        },
+        {
+          "keyword": "平沢大河",
+          "score": 95
+        },
+        {
+          "keyword": "アナウンサー",
+          "score": 94
+        },
+        {
+          "keyword": "紺野ぶるま",
+          "score": 93
+        },
+        {
+          "keyword": "アルトラムス",
+          "score": 92
+        },
+        {
+          "keyword": "名古屋グランパス 対 福岡",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T05:54:33.669Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ann arbor",
-          "score": 100
-        },
-        {
-          "keyword": "franz wagner",
-          "score": 99
-        },
-        {
-          "keyword": "flip",
-          "score": 98
-        },
-        {
-          "keyword": "love island",
-          "score": 97
-        },
-        {
-          "keyword": "asml stock",
-          "score": 96
-        },
-        {
-          "keyword": "dirk nowitzki",
-          "score": 95
-        },
-        {
-          "keyword": "rebecca ferguson",
-          "score": 94
-        },
-        {
-          "keyword": "seattle weather",
-          "score": 93
-        },
-        {
-          "keyword": "ca dmv",
-          "score": 92
-        },
-        {
-          "keyword": "actblue",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T07:17:58.837Z",
       "geo": "US",
       "source": "google",
@@ -3570,6 +3523,53 @@
         },
         {
           "keyword": "padres score",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T06:55:41.430Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "justin bieber coachella setlist",
+          "score": 100
+        },
+        {
+          "keyword": "madison beer",
+          "score": 99
+        },
+        {
+          "keyword": "navy federal",
+          "score": 98
+        },
+        {
+          "keyword": "justin bieber coachella merch",
+          "score": 97
+        },
+        {
+          "keyword": "snl episodes",
+          "score": 96
+        },
+        {
+          "keyword": "david byrne",
+          "score": 95
+        },
+        {
+          "keyword": "spider man brand new day",
+          "score": 94
+        },
+        {
+          "keyword": "interpol",
+          "score": 93
+        },
+        {
+          "keyword": "manny pacquiao",
+          "score": 92
+        },
+        {
+          "keyword": "league of legends",
           "score": 91
         }
       ]
