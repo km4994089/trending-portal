@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T23:33:54.047Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "교사",
-          "score": 100
-        },
-        {
-          "keyword": "동아일보",
-          "score": 99
-        },
-        {
-          "keyword": "보험모집인",
-          "score": 98
-        },
-        {
-          "keyword": "afc u-20 여자 아시안컵",
-          "score": 97
-        },
-        {
-          "keyword": "8강전",
-          "score": 96
-        },
-        {
-          "keyword": "첫 번째 남자",
-          "score": 95
-        },
-        {
-          "keyword": "이마이 다쓰야",
-          "score": 94
-        },
-        {
-          "keyword": "손성빈",
-          "score": 93
-        },
-        {
-          "keyword": "신성델타테크",
-          "score": 92
-        },
-        {
-          "keyword": "양조위",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-16T01:44:25.018Z",
       "geo": "KR",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "홍해",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T23:58:34.029Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "도쿄 돔",
+          "score": 100
+        },
+        {
+          "keyword": "일기예보",
+          "score": 99
+        },
+        {
+          "keyword": "오타니 쇼헤이",
+          "score": 98
+        },
+        {
+          "keyword": "seoul weather",
+          "score": 97
+        },
+        {
+          "keyword": "엘에이 fc 대 산호세",
+          "score": 96
+        },
+        {
+          "keyword": "울산매일",
+          "score": 95
+        },
+        {
+          "keyword": "weather",
+          "score": 94
+        },
+        {
+          "keyword": "날씨",
+          "score": 93
+        },
+        {
+          "keyword": "기상청",
+          "score": 92
+        },
+        {
+          "keyword": "뉴스",
           "score": 91
         }
       ]
