@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T21:42:02.012Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "議員",
-          "score": 100
-        },
-        {
-          "keyword": "ios 26",
-          "score": 99
-        },
-        {
-          "keyword": "辺野古",
-          "score": 98
-        },
-        {
-          "keyword": "ナスダック総合指数",
-          "score": 97
-        },
-        {
-          "keyword": "ナスダック100指数",
-          "score": 96
-        },
-        {
-          "keyword": "片山さつき",
-          "score": 95
-        },
-        {
-          "keyword": "伊藤洋輝",
-          "score": 94
-        },
-        {
-          "keyword": "bayern",
-          "score": 93
-        },
-        {
-          "keyword": "cl 結果",
-          "score": 92
-        },
-        {
-          "keyword": "m!lk",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T22:33:42.197Z",
       "geo": "JP",
       "source": "google",
@@ -3805,6 +3758,53 @@
         },
         {
           "keyword": "レッドソックス 対 タイガース",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T21:55:23.032Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "スティーブジョブズ",
+          "score": 100
+        },
+        {
+          "keyword": "タイラー・フリーマン",
+          "score": 99
+        },
+        {
+          "keyword": "bts メンバー",
+          "score": 98
+        },
+        {
+          "keyword": "ホワイトソックス",
+          "score": 97
+        },
+        {
+          "keyword": "メジャーリーグ",
+          "score": 96
+        },
+        {
+          "keyword": "m!lk",
+          "score": 95
+        },
+        {
+          "keyword": "西山実沙",
+          "score": 94
+        },
+        {
+          "keyword": "天気予報 広島",
+          "score": 93
+        },
+        {
+          "keyword": "宮崎市天気",
+          "score": 92
+        },
+        {
+          "keyword": "大統領",
           "score": 91
         }
       ]
