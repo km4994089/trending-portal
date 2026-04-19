@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T17:03:40.303Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "radio personality",
-          "score": 100
-        },
-        {
-          "keyword": "cameron norrie",
-          "score": 99
-        },
-        {
-          "keyword": "rob wright",
-          "score": 98
-        },
-        {
-          "keyword": "iman shumpert",
-          "score": 97
-        },
-        {
-          "keyword": "fisa 702",
-          "score": 96
-        },
-        {
-          "keyword": "xanax recall",
-          "score": 95
-        },
-        {
-          "keyword": "cody rhodes",
-          "score": 94
-        },
-        {
-          "keyword": "assassin creed black flag remake",
-          "score": 93
-        },
-        {
-          "keyword": "mirra andreeva",
-          "score": 92
-        },
-        {
-          "keyword": "el salvador",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T18:38:41.008Z",
       "geo": "US",
       "source": "google",
@@ -3758,6 +3711,53 @@
         },
         {
           "keyword": "nico o'reilly",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T17:58:10.645Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jayson tatum",
+          "score": 100
+        },
+        {
+          "keyword": "yankees game today",
+          "score": 99
+        },
+        {
+          "keyword": "luka garza",
+          "score": 98
+        },
+        {
+          "keyword": "fubo",
+          "score": 97
+        },
+        {
+          "keyword": "vj edgecombe",
+          "score": 96
+        },
+        {
+          "keyword": "nikola vučević",
+          "score": 95
+        },
+        {
+          "keyword": "nebraska baseball",
+          "score": 94
+        },
+        {
+          "keyword": "pl",
+          "score": 93
+        },
+        {
+          "keyword": "payton pritchard",
+          "score": 92
+        },
+        {
+          "keyword": "rickie fowler",
           "score": 91
         }
       ]
