@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T03:44:58.156Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nashville",
-          "score": 100
-        },
-        {
-          "keyword": "nick offerman",
-          "score": 99
-        },
-        {
-          "keyword": "fox 23",
-          "score": 98
-        },
-        {
-          "keyword": "steven yeun",
-          "score": 97
-        },
-        {
-          "keyword": "america",
-          "score": 96
-        },
-        {
-          "keyword": "carson city",
-          "score": 95
-        },
-        {
-          "keyword": "comcast data breach settlement",
-          "score": 94
-        },
-        {
-          "keyword": "fox 23 news",
-          "score": 93
-        },
-        {
-          "keyword": "tiago splitter",
-          "score": 92
-        },
-        {
-          "keyword": "erika kirk",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T05:54:33.669Z",
       "geo": "US",
       "source": "google",
@@ -3570,6 +3523,53 @@
         },
         {
           "keyword": "bronny james",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T05:13:44.376Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "america",
+          "score": 100
+        },
+        {
+          "keyword": "pawan kalyan",
+          "score": 99
+        },
+        {
+          "keyword": "padres standings",
+          "score": 98
+        },
+        {
+          "keyword": "ralf schumacher",
+          "score": 97
+        },
+        {
+          "keyword": "david harbour",
+          "score": 96
+        },
+        {
+          "keyword": "tim curry",
+          "score": 95
+        },
+        {
+          "keyword": "mason miller",
+          "score": 94
+        },
+        {
+          "keyword": "megan thee stallion",
+          "score": 93
+        },
+        {
+          "keyword": "arch",
+          "score": 92
+        },
+        {
+          "keyword": "padres score",
           "score": 91
         }
       ]

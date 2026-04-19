@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-15T03:45:01.272Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "水野真紀",
-          "score": 100
-        },
-        {
-          "keyword": "ドジャース 速報",
-          "score": 99
-        },
-        {
-          "keyword": "ロフト",
-          "score": 98
-        },
-        {
-          "keyword": "ピーチ",
-          "score": 97
-        },
-        {
-          "keyword": "東京タワー",
-          "score": 96
-        },
-        {
-          "keyword": "ボー・ビシェット",
-          "score": 95
-        },
-        {
-          "keyword": "ジェイミー・ドーナン",
-          "score": 94
-        },
-        {
-          "keyword": "伊東美咲",
-          "score": 93
-        },
-        {
-          "keyword": "ホルヘ・ポランコ",
-          "score": 92
-        },
-        {
-          "keyword": "ジョニーソマリ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-15T05:54:36.078Z",
       "geo": "JP",
       "source": "google",
@@ -3570,6 +3523,53 @@
         },
         {
           "keyword": "京都競馬場",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-19T05:13:46.753Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "大東駿介",
+          "score": 100
+        },
+        {
+          "keyword": "イーロン・マスク",
+          "score": 99
+        },
+        {
+          "keyword": "山口もえ",
+          "score": 98
+        },
+        {
+          "keyword": "福島 対 岐阜",
+          "score": 97
+        },
+        {
+          "keyword": "所ジョージ",
+          "score": 96
+        },
+        {
+          "keyword": "映画",
+          "score": 95
+        },
+        {
+          "keyword": "柏レイソル",
+          "score": 94
+        },
+        {
+          "keyword": "ラオス",
+          "score": 93
+        },
+        {
+          "keyword": "楽天グループ",
+          "score": 92
+        },
+        {
+          "keyword": "タコス",
           "score": 91
         }
       ]
