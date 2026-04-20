@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-16T06:28:22.695Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "어머니",
-          "score": 100
-        },
-        {
-          "keyword": "한국도로공사",
-          "score": 99
-        },
-        {
-          "keyword": "박진영",
-          "score": 98
-        },
-        {
-          "keyword": "오타니 쇼헤이",
-          "score": 97
-        },
-        {
-          "keyword": "모니모",
-          "score": 96
-        },
-        {
-          "keyword": "clippers vs warriors",
-          "score": 95
-        },
-        {
-          "keyword": "정은원",
-          "score": 94
-        },
-        {
-          "keyword": "한화시스템",
-          "score": 93
-        },
-        {
-          "keyword": "주차장",
-          "score": 92
-        },
-        {
-          "keyword": "로켓",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-16T08:11:58.280Z",
       "geo": "KR",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "당구",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-20T07:50:40.708Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "박장범",
+          "score": 100
+        },
+        {
+          "keyword": "젠슨 황",
+          "score": 99
+        },
+        {
+          "keyword": "대서양",
+          "score": 98
+        },
+        {
+          "keyword": "씨이랩",
+          "score": 97
+        },
+        {
+          "keyword": "최불암",
+          "score": 96
+        },
+        {
+          "keyword": "2루타",
+          "score": 95
+        },
+        {
+          "keyword": "박준형",
+          "score": 94
+        },
+        {
+          "keyword": "new zealand vs bangladesh",
+          "score": 93
+        },
+        {
+          "keyword": "kbl",
+          "score": 92
+        },
+        {
+          "keyword": "박철우",
           "score": 91
         }
       ]
