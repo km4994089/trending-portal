@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-16T15:10:09.998Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ヒコロヒー",
-          "score": 100
-        },
-        {
-          "keyword": "感染",
-          "score": 99
-        },
-        {
-          "keyword": "マニンガー",
-          "score": 98
-        },
-        {
-          "keyword": "alex manninger",
-          "score": 97
-        },
-        {
-          "keyword": "上戸彩",
-          "score": 96
-        },
-        {
-          "keyword": "歩行者",
-          "score": 95
-        },
-        {
-          "keyword": "ランボルギーニ",
-          "score": 94
-        },
-        {
-          "keyword": "公務",
-          "score": 93
-        },
-        {
-          "keyword": "蓮ノ空",
-          "score": 92
-        },
-        {
-          "keyword": "八木勇征",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-16T16:52:21.523Z",
       "geo": "JP",
       "source": "google",
@@ -3805,6 +3758,53 @@
         },
         {
           "keyword": "川崎重工",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-20T15:51:34.638Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "神戸 対 アル・アハリ・ジッダ",
+          "score": 100
+        },
+        {
+          "keyword": "小雪",
+          "score": 99
+        },
+        {
+          "keyword": "友近",
+          "score": 98
+        },
+        {
+          "keyword": "渡辺真知子",
+          "score": 97
+        },
+        {
+          "keyword": "イワクラ",
+          "score": 96
+        },
+        {
+          "keyword": "スマッシュグロウ",
+          "score": 95
+        },
+        {
+          "keyword": "りく りゅう 引退",
+          "score": 94
+        },
+        {
+          "keyword": "ラジオスター",
+          "score": 93
+        },
+        {
+          "keyword": "klasemen liga 1",
+          "score": 92
+        },
+        {
+          "keyword": "mi vs gt",
           "score": 91
         }
       ]

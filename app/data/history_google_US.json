@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-16T15:10:07.474Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "boeing",
-          "score": 100
-        },
-        {
-          "keyword": "h-1b visa",
-          "score": 99
-        },
-        {
-          "keyword": "suryakumar yadav",
-          "score": 98
-        },
-        {
-          "keyword": "lorenzo musetti",
-          "score": 97
-        },
-        {
-          "keyword": "tiger",
-          "score": 96
-        },
-        {
-          "keyword": "tony goldwyn",
-          "score": 95
-        },
-        {
-          "keyword": "earth day",
-          "score": 94
-        },
-        {
-          "keyword": "bryson tiller",
-          "score": 93
-        },
-        {
-          "keyword": "jey uso",
-          "score": 92
-        },
-        {
-          "keyword": "croton dam michigan",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-16T16:52:18.601Z",
       "geo": "US",
       "source": "google",
@@ -3805,6 +3758,53 @@
         },
         {
           "keyword": "wmt stock",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-20T15:51:31.848Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "steelers",
+          "score": 100
+        },
+        {
+          "keyword": "leinbach park",
+          "score": 99
+        },
+        {
+          "keyword": "dow jones",
+          "score": 98
+        },
+        {
+          "keyword": "tigers - red sox",
+          "score": 97
+        },
+        {
+          "keyword": "trump job approval poll",
+          "score": 96
+        },
+        {
+          "keyword": "intc",
+          "score": 95
+        },
+        {
+          "keyword": "aapl",
+          "score": 94
+        },
+        {
+          "keyword": "baseball",
+          "score": 93
+        },
+        {
+          "keyword": "amd stock",
+          "score": 92
+        },
+        {
+          "keyword": "mark warner",
           "score": 91
         }
       ]
