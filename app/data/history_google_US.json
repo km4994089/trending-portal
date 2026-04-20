@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-16T08:11:56.930Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "avengers doomsday",
-          "score": 100
-        },
-        {
-          "keyword": "gemini mac",
-          "score": 99
-        },
-        {
-          "keyword": "t rowe price",
-          "score": 98
-        },
-        {
-          "keyword": "philippine airlines",
-          "score": 97
-        },
-        {
-          "keyword": "the sopranos",
-          "score": 96
-        },
-        {
-          "keyword": "tsmc stock",
-          "score": 95
-        },
-        {
-          "keyword": "macbook pro",
-          "score": 94
-        },
-        {
-          "keyword": "mel brooks",
-          "score": 93
-        },
-        {
-          "keyword": "earthquake now",
-          "score": 92
-        },
-        {
-          "keyword": "mlb standings",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-16T09:53:33.168Z",
       "geo": "US",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "crimson desert game",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-20T09:47:59.304Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "personal injury attorneys",
+          "score": 100
+        },
+        {
+          "keyword": "david gross physics",
+          "score": 99
+        },
+        {
+          "keyword": "t rowe price",
+          "score": 98
+        },
+        {
+          "keyword": "airline",
+          "score": 97
+        },
+        {
+          "keyword": "child care",
+          "score": 96
+        },
+        {
+          "keyword": "injury lawyer",
+          "score": 95
+        },
+        {
+          "keyword": "anthropic",
+          "score": 94
+        },
+        {
+          "keyword": "freeze warning",
+          "score": 93
+        },
+        {
+          "keyword": "地震",
+          "score": 92
+        },
+        {
+          "keyword": "japan earthquake",
           "score": 91
         }
       ]
