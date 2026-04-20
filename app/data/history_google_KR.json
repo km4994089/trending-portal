@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-16T04:44:10.490Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "강소휘",
-          "score": 100
-        },
-        {
-          "keyword": "서희제",
-          "score": 99
-        },
-        {
-          "keyword": "앤 트로픽",
-          "score": 98
-        },
-        {
-          "keyword": "데이터 센터",
-          "score": 97
-        },
-        {
-          "keyword": "하지원",
-          "score": 96
-        },
-        {
-          "keyword": "파업",
-          "score": 95
-        },
-        {
-          "keyword": "심우정",
-          "score": 94
-        },
-        {
-          "keyword": "테슬라 모델 x",
-          "score": 93
-        },
-        {
-          "keyword": "skc",
-          "score": 92
-        },
-        {
-          "keyword": "문원",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-16T06:28:22.695Z",
       "geo": "KR",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "에어프레미아",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-20T05:31:39.843Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "화웨이",
+          "score": 100
+        },
+        {
+          "keyword": "현대건설",
+          "score": 99
+        },
+        {
+          "keyword": "노란봉투법",
+          "score": 98
+        },
+        {
+          "keyword": "리베로",
+          "score": 97
+        },
+        {
+          "keyword": "별자리",
+          "score": 96
+        },
+        {
+          "keyword": "사우디아라비아",
+          "score": 95
+        },
+        {
+          "keyword": "구사마 야요이",
+          "score": 94
+        },
+        {
+          "keyword": "김병수",
+          "score": 93
+        },
+        {
+          "keyword": "우주산업",
+          "score": 92
+        },
+        {
+          "keyword": "당구",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-16T04:44:12.312Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "成田空港",
-          "score": 100
-        },
-        {
-          "keyword": "パドレス",
-          "score": 99
-        },
-        {
-          "keyword": "安住 紳一郎",
-          "score": 98
-        },
-        {
-          "keyword": "黒柳徹子",
-          "score": 97
-        },
-        {
-          "keyword": "共同通信杯",
-          "score": 96
-        },
-        {
-          "keyword": "カーソン・ベンジ",
-          "score": 95
-        },
-        {
-          "keyword": "遠藤憲一",
-          "score": 94
-        },
-        {
-          "keyword": "将来 戦闘 機",
-          "score": 93
-        },
-        {
-          "keyword": "高橋良明",
-          "score": 92
-        },
-        {
-          "keyword": "確定拠出年金",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-16T06:28:23.719Z",
       "geo": "JP",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "福士蒼汰",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-20T05:31:40.790Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "野口 恭佑",
+          "score": 100
+        },
+        {
+          "keyword": "宇宙開発",
+          "score": 99
+        },
+        {
+          "keyword": "内田春菊",
+          "score": 98
+        },
+        {
+          "keyword": "失点",
+          "score": 97
+        },
+        {
+          "keyword": "アベンジャーズ/ドゥームズデイ",
+          "score": 96
+        },
+        {
+          "keyword": "アル・サッド",
+          "score": 95
+        },
+        {
+          "keyword": "大阪府",
+          "score": 94
+        },
+        {
+          "keyword": "奈良県",
+          "score": 93
+        },
+        {
+          "keyword": "医療制度",
+          "score": 92
+        },
+        {
+          "keyword": "大原かおり",
           "score": 91
         }
       ]
