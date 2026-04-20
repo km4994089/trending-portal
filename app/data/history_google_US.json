@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-16T13:05:09.616Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "french quarter fest 2026",
-          "score": 100
-        },
-        {
-          "keyword": "nayib bukele",
-          "score": 99
-        },
-        {
-          "keyword": "mbta",
-          "score": 98
-        },
-        {
-          "keyword": "bernardo silva",
-          "score": 97
-        },
-        {
-          "keyword": "royal caribbean",
-          "score": 96
-        },
-        {
-          "keyword": "lisa vanderpump",
-          "score": 95
-        },
-        {
-          "keyword": "revenue",
-          "score": 94
-        },
-        {
-          "keyword": "us postal inspector",
-          "score": 93
-        },
-        {
-          "keyword": "keanu dawes",
-          "score": 92
-        },
-        {
-          "keyword": "postal inspector",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-16T15:10:07.474Z",
       "geo": "US",
       "source": "google",
@@ -3805,6 +3758,53 @@
         },
         {
           "keyword": "austin weather",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-20T14:27:18.657Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "schd",
+          "score": 100
+        },
+        {
+          "keyword": "crm stock",
+          "score": 99
+        },
+        {
+          "keyword": "los angeles international airport",
+          "score": 98
+        },
+        {
+          "keyword": "mu",
+          "score": 97
+        },
+        {
+          "keyword": "poet stock",
+          "score": 96
+        },
+        {
+          "keyword": "gme",
+          "score": 95
+        },
+        {
+          "keyword": "microsoft stock price",
+          "score": 94
+        },
+        {
+          "keyword": "current events",
+          "score": 93
+        },
+        {
+          "keyword": "ge stock",
+          "score": 92
+        },
+        {
+          "keyword": "wmt stock",
           "score": 91
         }
       ]
