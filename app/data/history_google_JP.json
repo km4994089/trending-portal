@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-16T22:30:29.530Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "りくりゅう 引退",
-          "score": 100
-        },
-        {
-          "keyword": "りくりゅう",
-          "score": 99
-        },
-        {
-          "keyword": "りくりゅうペア",
-          "score": 98
-        },
-        {
-          "keyword": "畑山隆則",
-          "score": 97
-        },
-        {
-          "keyword": "関西電力",
-          "score": 96
-        },
-        {
-          "keyword": "タイガース 対 ロイヤルズ",
-          "score": 95
-        },
-        {
-          "keyword": "ウルトラマンテオ",
-          "score": 94
-        },
-        {
-          "keyword": "郵政 民営 化",
-          "score": 93
-        },
-        {
-          "keyword": "フィラデルフィア半導体株指数",
-          "score": 92
-        },
-        {
-          "keyword": "渡嘉敷来夢",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-16T23:31:55.930Z",
       "geo": "JP",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "長瀬智也",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-20T22:34:02.759Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ひまわり 朝ドラ",
+          "score": 100
+        },
+        {
+          "keyword": "マーリンズ 対 カージナルス",
+          "score": 99
+        },
+        {
+          "keyword": "真榊",
+          "score": 98
+        },
+        {
+          "keyword": "大鶴義丹",
+          "score": 97
+        },
+        {
+          "keyword": "湖西線",
+          "score": 96
+        },
+        {
+          "keyword": "旅人検視官 道場修作",
+          "score": 95
+        },
+        {
+          "keyword": "島田明",
+          "score": 94
+        },
+        {
+          "keyword": "皆藤愛子",
+          "score": 93
+        },
+        {
+          "keyword": "今日の天気 名古屋",
+          "score": 92
+        },
+        {
+          "keyword": "東京科学大学",
           "score": 91
         }
       ]

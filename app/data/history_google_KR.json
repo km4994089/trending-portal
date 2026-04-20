@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-16T22:30:28.329Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "amd",
-          "score": 100
-        },
-        {
-          "keyword": "빛과전자",
-          "score": 99
-        },
-        {
-          "keyword": "뉴스",
-          "score": 98
-        },
-        {
-          "keyword": "메이저 리그 베이스볼",
-          "score": 97
-        },
-        {
-          "keyword": "손아섭",
-          "score": 96
-        },
-        {
-          "keyword": "schd",
-          "score": 95
-        },
-        {
-          "keyword": "유로파 컨퍼런스리그",
-          "score": 94
-        },
-        {
-          "keyword": "kt",
-          "score": 93
-        },
-        {
-          "keyword": "당구",
-          "score": 92
-        },
-        {
-          "keyword": "현대자동차그룹",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-16T23:31:54.681Z",
       "geo": "KR",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "연금",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-20T22:34:01.286Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "나스닥 100",
+          "score": 100
+        },
+        {
+          "keyword": "심장병",
+          "score": 99
+        },
+        {
+          "keyword": "s&p 500",
+          "score": 98
+        },
+        {
+          "keyword": "tsla",
+          "score": 97
+        },
+        {
+          "keyword": "신현송",
+          "score": 96
+        },
+        {
+          "keyword": "ionq",
+          "score": 95
+        },
+        {
+          "keyword": "คริสตัลพาเลซ พบ เวสต์แฮม",
+          "score": 94
+        },
+        {
+          "keyword": "qqq",
+          "score": 93
+        },
+        {
+          "keyword": "vix",
+          "score": 92
+        },
+        {
+          "keyword": "crystal palace vs west ham",
           "score": 91
         }
       ]
