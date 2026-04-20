@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-16T01:44:26.379Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "熊本地震",
-          "score": 100
-        },
-        {
-          "keyword": "新浪剛史",
-          "score": 99
-        },
-        {
-          "keyword": "生野陽子",
-          "score": 98
-        },
-        {
-          "keyword": "長野県立こども病院",
-          "score": 97
-        },
-        {
-          "keyword": "有吉ゼミ",
-          "score": 96
-        },
-        {
-          "keyword": "日本 選手権 競輪",
-          "score": 95
-        },
-        {
-          "keyword": "原宿",
-          "score": 94
-        },
-        {
-          "keyword": "杏",
-          "score": 93
-        },
-        {
-          "keyword": "ノンストップ",
-          "score": 92
-        },
-        {
-          "keyword": "上下分離方式",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-16T04:44:12.312Z",
       "geo": "JP",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "宇垣美里",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-20T02:36:13.459Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "岡本伊三美",
+          "score": 100
+        },
+        {
+          "keyword": "gu スンスン",
+          "score": 99
+        },
+        {
+          "keyword": "ランサムウェア",
+          "score": 98
+        },
+        {
+          "keyword": "ブラジル",
+          "score": 97
+        },
+        {
+          "keyword": "福山市道三町",
+          "score": 96
+        },
+        {
+          "keyword": "ノースロップ・グラマン",
+          "score": 95
+        },
+        {
+          "keyword": "nba playoffs",
+          "score": 94
+        },
+        {
+          "keyword": "全米女子オープン",
+          "score": 93
+        },
+        {
+          "keyword": "ケイド・カニングハム",
+          "score": 92
+        },
+        {
+          "keyword": "福士蒼汰",
           "score": 91
         }
       ]
