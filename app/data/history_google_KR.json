@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-17T09:51:27.462Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "로베르토 데 제르비",
-          "score": 100
-        },
-        {
-          "keyword": "동서발전",
-          "score": 99
-        },
-        {
-          "keyword": "한화 대 롯데",
-          "score": 98
-        },
-        {
-          "keyword": "kia 대 두산",
-          "score": 97
-        },
-        {
-          "keyword": "이지현",
-          "score": 96
-        },
-        {
-          "keyword": "파나마 운하",
-          "score": 95
-        },
-        {
-          "keyword": "한겨레",
-          "score": 94
-        },
-        {
-          "keyword": "고아라",
-          "score": 93
-        },
-        {
-          "keyword": "로드 fc",
-          "score": 92
-        },
-        {
-          "keyword": "l g 화학",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-17T10:45:50.341Z",
       "geo": "KR",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "아파트",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-21T09:56:14.022Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "투표",
+          "score": 100
+        },
+        {
+          "keyword": "kia 대 kt",
+          "score": 99
+        },
+        {
+          "keyword": "한화 대 lg",
+          "score": 98
+        },
+        {
+          "keyword": "두산 대 롯데",
+          "score": 97
+        },
+        {
+          "keyword": "배기성",
+          "score": 96
+        },
+        {
+          "keyword": "정소민",
+          "score": 95
+        },
+        {
+          "keyword": "모카",
+          "score": 94
+        },
+        {
+          "keyword": "윤하정",
+          "score": 93
+        },
+        {
+          "keyword": "조선",
+          "score": 92
+        },
+        {
+          "keyword": "lg에너지솔루션",
           "score": 91
         }
       ]
