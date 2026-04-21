@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-17T20:35:32.300Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "エルニーニョ",
-          "score": 100
-        },
-        {
-          "keyword": "日経先物",
-          "score": 99
-        },
-        {
-          "keyword": "メッツ",
-          "score": 98
-        },
-        {
-          "keyword": "坂路",
-          "score": 97
-        },
-        {
-          "keyword": "原油価格",
-          "score": 96
-        },
-        {
-          "keyword": "日曜劇場",
-          "score": 95
-        },
-        {
-          "keyword": "アジアチャンピオンズリーグ",
-          "score": 94
-        },
-        {
-          "keyword": "カブス",
-          "score": 93
-        },
-        {
-          "keyword": "ブロードコム 株価",
-          "score": 92
-        },
-        {
-          "keyword": "インテル 対 カリアリ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-17T21:33:08.821Z",
       "geo": "JP",
       "source": "google",
@@ -3805,6 +3758,53 @@
         },
         {
           "keyword": "rマドリード 対 アラベス",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-21T20:57:19.975Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ミッキー モニアック",
+          "score": 100
+        },
+        {
+          "keyword": "コベントリー 対 ポーツマス",
+          "score": 99
+        },
+        {
+          "keyword": "山本美月",
+          "score": 98
+        },
+        {
+          "keyword": "株式",
+          "score": 97
+        },
+        {
+          "keyword": "西野七瀬",
+          "score": 96
+        },
+        {
+          "keyword": "アンハサウェイ",
+          "score": 95
+        },
+        {
+          "keyword": "madrid vs alavés",
+          "score": 94
+        },
+        {
+          "keyword": "イラン",
+          "score": 93
+        },
+        {
+          "keyword": "j-hope",
+          "score": 92
+        },
+        {
+          "keyword": "ラ・リーガ",
           "score": 91
         }
       ]

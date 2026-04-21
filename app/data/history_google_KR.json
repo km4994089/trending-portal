@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-17T20:35:30.697Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "화물연대",
-          "score": 100
-        },
-        {
-          "keyword": "아들",
-          "score": 99
-        },
-        {
-          "keyword": "인구감소지역",
-          "score": 98
-        },
-        {
-          "keyword": "10",
-          "score": 97
-        },
-        {
-          "keyword": "claude design",
-          "score": 96
-        },
-        {
-          "keyword": "박경혜",
-          "score": 95
-        },
-        {
-          "keyword": "시드니 스위니",
-          "score": 94
-        },
-        {
-          "keyword": "김남길",
-          "score": 93
-        },
-        {
-          "keyword": "오픈ai",
-          "score": 92
-        },
-        {
-          "keyword": "kkr vs gt",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-17T21:33:07.369Z",
       "geo": "KR",
       "source": "google",
@@ -3805,6 +3758,53 @@
         },
         {
           "keyword": "카토",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-21T20:57:18.476Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "홈플러스",
+          "score": 100
+        },
+        {
+          "keyword": "brighton vs chelsea",
+          "score": 99
+        },
+        {
+          "keyword": "다이 소",
+          "score": 98
+        },
+        {
+          "keyword": "에코프로",
+          "score": 97
+        },
+        {
+          "keyword": "생계",
+          "score": 96
+        },
+        {
+          "keyword": "첼시",
+          "score": 95
+        },
+        {
+          "keyword": "슈퍼맨이 돌아왔다",
+          "score": 94
+        },
+        {
+          "keyword": "넥슨",
+          "score": 93
+        },
+        {
+          "keyword": "큐리오시티",
+          "score": 92
+        },
+        {
+          "keyword": "버스",
           "score": 91
         }
       ]
