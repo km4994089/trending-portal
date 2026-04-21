@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-17T22:28:36.947Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "flash flood warning",
-          "score": 100
-        },
-        {
-          "keyword": "brewers vs marlins",
-          "score": 99
-        },
-        {
-          "keyword": "tigers vs red sox",
-          "score": 98
-        },
-        {
-          "keyword": "invincible - season 4",
-          "score": 97
-        },
-        {
-          "keyword": "royals vs yankees",
-          "score": 96
-        },
-        {
-          "keyword": "kaitlin olson high potential",
-          "score": 95
-        },
-        {
-          "keyword": "aja wilson contract",
-          "score": 94
-        },
-        {
-          "keyword": "ozark",
-          "score": 93
-        },
-        {
-          "keyword": "suns vs warriors",
-          "score": 92
-        },
-        {
-          "keyword": "bankruptcy",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-17T23:07:38.603Z",
       "geo": "US",
       "source": "google",
@@ -3805,6 +3758,53 @@
         },
         {
           "keyword": "elizabeth smart",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-21T22:30:24.839Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "twins vs mets",
+          "score": 100
+        },
+        {
+          "keyword": "downdetector",
+          "score": 99
+        },
+        {
+          "keyword": "america reads the bible",
+          "score": 98
+        },
+        {
+          "keyword": "meta",
+          "score": 97
+        },
+        {
+          "keyword": "saros",
+          "score": 96
+        },
+        {
+          "keyword": "copa do brasil",
+          "score": 95
+        },
+        {
+          "keyword": "astros - guardians",
+          "score": 94
+        },
+        {
+          "keyword": "yankees vs red sox",
+          "score": 93
+        },
+        {
+          "keyword": "brewers vs tigers",
+          "score": 92
+        },
+        {
+          "keyword": "unchosen netflix",
           "score": 91
         }
       ]
