@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-17T01:27:55.459Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "サンマルクホールディングス",
-          "score": 100
-        },
-        {
-          "keyword": "大東建託",
-          "score": 99
-        },
-        {
-          "keyword": "公式訪問",
-          "score": 98
-        },
-        {
-          "keyword": "強盗",
-          "score": 97
-        },
-        {
-          "keyword": "nhkオンデマンド",
-          "score": 96
-        },
-        {
-          "keyword": "スペイン",
-          "score": 95
-        },
-        {
-          "keyword": "エジプト",
-          "score": 94
-        },
-        {
-          "keyword": "再生可能エネルギー",
-          "score": 93
-        },
-        {
-          "keyword": "日産・スカイラインgt-r",
-          "score": 92
-        },
-        {
-          "keyword": "ユニチカ 株価",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-17T04:28:26.832Z",
       "geo": "JP",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "マイアミグランプリ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-21T01:27:56.158Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ミゲル・ロハス",
+          "score": 100
+        },
+        {
+          "keyword": "今井翼",
+          "score": 99
+        },
+        {
+          "keyword": "滝沢秀明",
+          "score": 98
+        },
+        {
+          "keyword": "和田明日香",
+          "score": 97
+        },
+        {
+          "keyword": "ディズニーストア",
+          "score": 96
+        },
+        {
+          "keyword": "上田竜也",
+          "score": 95
+        },
+        {
+          "keyword": "王座戦",
+          "score": 94
+        },
+        {
+          "keyword": "オリコ",
+          "score": 93
+        },
+        {
+          "keyword": "エンゼルス 対 ブルージェイズ",
+          "score": 92
+        },
+        {
+          "keyword": "ホセ・キンタナ",
           "score": 91
         }
       ]
