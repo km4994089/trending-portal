@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-17T04:28:26.832Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大原麗子",
-          "score": 100
-        },
-        {
-          "keyword": "黒柳徹子",
-          "score": 99
-        },
-        {
-          "keyword": "アベンジャーズ ドゥームズデイ",
-          "score": 98
-        },
-        {
-          "keyword": "中田英寿",
-          "score": 97
-        },
-        {
-          "keyword": "認定こども園",
-          "score": 96
-        },
-        {
-          "keyword": "メローニ首相",
-          "score": 95
-        },
-        {
-          "keyword": "アニサマ",
-          "score": 94
-        },
-        {
-          "keyword": "ゆきくん 母親",
-          "score": 93
-        },
-        {
-          "keyword": "twice",
-          "score": 92
-        },
-        {
-          "keyword": "ヴァル・キルマー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-17T06:19:18.584Z",
       "geo": "JP",
       "source": "google",
@@ -3899,6 +3852,53 @@
         },
         {
           "keyword": "paypayドーム",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-21T06:18:58.223Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "東大寺",
+          "score": 100
+        },
+        {
+          "keyword": "スカイライン 新型",
+          "score": 99
+        },
+        {
+          "keyword": "プレミアムシアター",
+          "score": 98
+        },
+        {
+          "keyword": "ソニック",
+          "score": 97
+        },
+        {
+          "keyword": "牧秀悟",
+          "score": 96
+        },
+        {
+          "keyword": "スカイマーク",
+          "score": 95
+        },
+        {
+          "keyword": "泉口友汰",
+          "score": 94
+        },
+        {
+          "keyword": "プルデンシャル",
+          "score": 93
+        },
+        {
+          "keyword": "パン・シヒョク",
+          "score": 92
+        },
+        {
+          "keyword": "奈良",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-17T04:28:23.947Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ban vs nz",
-          "score": 100
-        },
-        {
-          "keyword": "anderson cooper",
-          "score": 99
-        },
-        {
-          "keyword": "red dead redemption 2",
-          "score": 98
-        },
-        {
-          "keyword": "louis partridge",
-          "score": 97
-        },
-        {
-          "keyword": "iceman drake",
-          "score": 96
-        },
-        {
-          "keyword": "sam bateman",
-          "score": 95
-        },
-        {
-          "keyword": "the rock",
-          "score": 94
-        },
-        {
-          "keyword": "jahmyr gibbs",
-          "score": 93
-        },
-        {
-          "keyword": "denver weather",
-          "score": 92
-        },
-        {
-          "keyword": "kevin goldschmidt",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-17T06:19:15.891Z",
       "geo": "US",
       "source": "google",
@@ -3899,6 +3852,53 @@
         },
         {
           "keyword": "athletics",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-21T06:18:55.532Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "bang si-hyuk",
+          "score": 100
+        },
+        {
+          "keyword": "injury lawyer",
+          "score": 99
+        },
+        {
+          "keyword": "bank",
+          "score": 98
+        },
+        {
+          "keyword": "san francisco weather",
+          "score": 97
+        },
+        {
+          "keyword": "james bond movies",
+          "score": 96
+        },
+        {
+          "keyword": "law and order",
+          "score": 95
+        },
+        {
+          "keyword": "salma hayek",
+          "score": 94
+        },
+        {
+          "keyword": "tony brothers",
+          "score": 93
+        },
+        {
+          "keyword": "seattle seahawks",
+          "score": 92
+        },
+        {
+          "keyword": "michael movie",
           "score": 91
         }
       ]
