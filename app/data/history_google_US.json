@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-17T21:33:05.899Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dow jones industrial average",
-          "score": 100
-        },
-        {
-          "keyword": "championship",
-          "score": 99
-        },
-        {
-          "keyword": "jordan lucas volleyball",
-          "score": 98
-        },
-        {
-          "keyword": "finnian garbutt",
-          "score": 97
-        },
-        {
-          "keyword": "ford recalls f 150",
-          "score": 96
-        },
-        {
-          "keyword": "housing market",
-          "score": 95
-        },
-        {
-          "keyword": "pennsylvania",
-          "score": 94
-        },
-        {
-          "keyword": "cubs standings",
-          "score": 93
-        },
-        {
-          "keyword": "watch vs warning",
-          "score": 92
-        },
-        {
-          "keyword": "twitter down",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-17T22:28:36.947Z",
       "geo": "US",
       "source": "google",
@@ -3805,6 +3758,53 @@
         },
         {
           "keyword": "josh groban engaged",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-21T21:40:14.756Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ted cruz",
+          "score": 100
+        },
+        {
+          "keyword": "robert f. kennedy jr.",
+          "score": 99
+        },
+        {
+          "keyword": "nasa curiosity rover",
+          "score": 98
+        },
+        {
+          "keyword": "coachella 2027 dates announced",
+          "score": 97
+        },
+        {
+          "keyword": "fox",
+          "score": 96
+        },
+        {
+          "keyword": "lewis hamilton",
+          "score": 95
+        },
+        {
+          "keyword": "xbox game pass ultimate",
+          "score": 94
+        },
+        {
+          "keyword": "sydney sweeney gundam movie",
+          "score": 93
+        },
+        {
+          "keyword": "ron desantis",
+          "score": 92
+        },
+        {
+          "keyword": "elizabeth smart",
           "score": 91
         }
       ]
