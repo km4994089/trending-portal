@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-17T11:42:01.858Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lorne michaels",
-          "score": 100
-        },
-        {
-          "keyword": "ps plus extra april 2026",
-          "score": 99
-        },
-        {
-          "keyword": "west virginia university",
-          "score": 98
-        },
-        {
-          "keyword": "belve",
-          "score": 97
-        },
-        {
-          "keyword": "fisa vote",
-          "score": 96
-        },
-        {
-          "keyword": "commanders new logo",
-          "score": 95
-        },
-        {
-          "keyword": "dhs shutdown",
-          "score": 94
-        },
-        {
-          "keyword": "robin montgomery",
-          "score": 93
-        },
-        {
-          "keyword": "linda noskova",
-          "score": 92
-        },
-        {
-          "keyword": "harley davidson dealership thefts",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-17T12:55:49.621Z",
       "geo": "US",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "strands hint",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-21T11:59:54.162Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "shannon bream",
+          "score": 100
+        },
+        {
+          "keyword": "fcc",
+          "score": 99
+        },
+        {
+          "keyword": "uae vs nepal",
+          "score": 98
+        },
+        {
+          "keyword": "austin weather",
+          "score": 97
+        },
+        {
+          "keyword": "connections nyt",
+          "score": 96
+        },
+        {
+          "keyword": "nvidia stock",
+          "score": 95
+        },
+        {
+          "keyword": "rtx stock",
+          "score": 94
+        },
+        {
+          "keyword": "assassin's creed black flag resynced",
+          "score": 93
+        },
+        {
+          "keyword": "karren brady",
+          "score": 92
+        },
+        {
+          "keyword": "alex bores",
           "score": 91
         }
       ]
