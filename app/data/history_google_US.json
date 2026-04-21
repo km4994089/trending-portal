@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-17T14:17:31.692Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "oil prices",
-          "score": 100
-        },
-        {
-          "keyword": "btc",
-          "score": 99
-        },
-        {
-          "keyword": "xrp",
-          "score": 98
-        },
-        {
-          "keyword": "ethereum price",
-          "score": 97
-        },
-        {
-          "keyword": "s&p",
-          "score": 96
-        },
-        {
-          "keyword": "xom stock",
-          "score": 95
-        },
-        {
-          "keyword": "hims stock",
-          "score": 94
-        },
-        {
-          "keyword": "hood stock",
-          "score": 93
-        },
-        {
-          "keyword": "mstr",
-          "score": 92
-        },
-        {
-          "keyword": "apple stock price",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-17T15:34:16.011Z",
       "geo": "US",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "splatoon raiders",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-21T15:03:51.751Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "act",
+          "score": 100
+        },
+        {
+          "keyword": "elizabeth warren",
+          "score": 99
+        },
+        {
+          "keyword": "exo experts warbond",
+          "score": 98
+        },
+        {
+          "keyword": "billy donovan",
+          "score": 97
+        },
+        {
+          "keyword": "nbc abc, cbs news ratings",
+          "score": 96
+        },
+        {
+          "keyword": "tim scott",
+          "score": 95
+        },
+        {
+          "keyword": "gme",
+          "score": 94
+        },
+        {
+          "keyword": "larry fitzgerald",
+          "score": 93
+        },
+        {
+          "keyword": "mike tomlin",
+          "score": 92
+        },
+        {
+          "keyword": "dave mccormick",
           "score": 91
         }
       ]
