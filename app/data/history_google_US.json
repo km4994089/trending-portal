@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-17T12:55:49.621Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "coco gauff",
-          "score": 100
-        },
-        {
-          "keyword": "ciara miller glamour",
-          "score": 99
-        },
-        {
-          "keyword": "hannah berner sports illustrated",
-          "score": 98
-        },
-        {
-          "keyword": "alshon jeffery",
-          "score": 97
-        },
-        {
-          "keyword": "good morning america",
-          "score": 96
-        },
-        {
-          "keyword": "atp barcelona",
-          "score": 95
-        },
-        {
-          "keyword": "gma deals and steals",
-          "score": 94
-        },
-        {
-          "keyword": "prince",
-          "score": 93
-        },
-        {
-          "keyword": "pardon",
-          "score": 92
-        },
-        {
-          "keyword": "don schlitz",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-17T14:17:31.692Z",
       "geo": "US",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "alex bores",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-21T13:46:49.318Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jason ritter",
+          "score": 100
+        },
+        {
+          "keyword": "scott galloway",
+          "score": 99
+        },
+        {
+          "keyword": "hims stock",
+          "score": 98
+        },
+        {
+          "keyword": "rihanna w magazine",
+          "score": 97
+        },
+        {
+          "keyword": "nnamdi madubuike",
+          "score": 96
+        },
+        {
+          "keyword": "lahore qalandars vs quetta gladiators",
+          "score": 95
+        },
+        {
+          "keyword": "srh vs dc",
+          "score": 94
+        },
+        {
+          "keyword": "halftime show",
+          "score": 93
+        },
+        {
+          "keyword": "anthropic stock",
+          "score": 92
+        },
+        {
+          "keyword": "splatoon raiders",
           "score": 91
         }
       ]
