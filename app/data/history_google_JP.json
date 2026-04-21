@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-17T19:51:52.830Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ブロードコム 株価",
-          "score": 100
-        },
-        {
-          "keyword": "インテル 対 カリアリ",
-          "score": 99
-        },
-        {
-          "keyword": "インテル株価",
-          "score": 98
-        },
-        {
-          "keyword": "ウォーカー・ビューラー",
-          "score": 97
-        },
-        {
-          "keyword": "エヌビディア 株価",
-          "score": 96
-        },
-        {
-          "keyword": "アマゾン株価",
-          "score": 95
-        },
-        {
-          "keyword": "ハイウェイ の 堕 天使 興行 収入",
-          "score": 94
-        },
-        {
-          "keyword": "阿部慎之助",
-          "score": 93
-        },
-        {
-          "keyword": "カブス 対 メッツ",
-          "score": 92
-        },
-        {
-          "keyword": "サッスオーロ 対 コモ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-17T20:35:32.300Z",
       "geo": "JP",
       "source": "google",
@@ -3805,6 +3758,53 @@
         },
         {
           "keyword": "dazn",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-21T20:00:20.700Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ダルトン・ラッシング",
+          "score": 100
+        },
+        {
+          "keyword": "父親",
+          "score": 99
+        },
+        {
+          "keyword": "brighton vs chelsea",
+          "score": 98
+        },
+        {
+          "keyword": "佐々木久美",
+          "score": 97
+        },
+        {
+          "keyword": "チェルシー",
+          "score": 96
+        },
+        {
+          "keyword": "関税",
+          "score": 95
+        },
+        {
+          "keyword": "ブライトン",
+          "score": 94
+        },
+        {
+          "keyword": "佳子内親王",
+          "score": 93
+        },
+        {
+          "keyword": "教員",
+          "score": 92
+        },
+        {
+          "keyword": "rマドリード 対 アラベス",
           "score": 91
         }
       ]

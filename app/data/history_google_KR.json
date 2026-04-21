@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-17T19:51:47.047Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "인구감소지역",
-          "score": 100
-        },
-        {
-          "keyword": "10",
-          "score": 99
-        },
-        {
-          "keyword": "claude design",
-          "score": 98
-        },
-        {
-          "keyword": "박경혜",
-          "score": 97
-        },
-        {
-          "keyword": "시드니 스위니",
-          "score": 96
-        },
-        {
-          "keyword": "김남길",
-          "score": 95
-        },
-        {
-          "keyword": "오픈ai",
-          "score": 94
-        },
-        {
-          "keyword": "kkr vs gt",
-          "score": 93
-        },
-        {
-          "keyword": "테니스",
-          "score": 92
-        },
-        {
-          "keyword": "악뮤",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-17T20:35:30.697Z",
       "geo": "KR",
       "source": "google",
@@ -3805,6 +3758,53 @@
         },
         {
           "keyword": "차지연",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-21T20:00:19.153Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "버스",
+          "score": 100
+        },
+        {
+          "keyword": "코번트리 대 포츠머스",
+          "score": 99
+        },
+        {
+          "keyword": "고기",
+          "score": 98
+        },
+        {
+          "keyword": "임정혁",
+          "score": 97
+        },
+        {
+          "keyword": "롤",
+          "score": 96
+        },
+        {
+          "keyword": "cnn",
+          "score": 95
+        },
+        {
+          "keyword": "리그오브레전드",
+          "score": 94
+        },
+        {
+          "keyword": "박환희",
+          "score": 93
+        },
+        {
+          "keyword": "박지현",
+          "score": 92
+        },
+        {
+          "keyword": "카토",
           "score": 91
         }
       ]
