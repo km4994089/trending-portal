@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-18T00:00:35.327Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tybee island",
-          "score": 100
-        },
-        {
-          "keyword": "blake griffin",
-          "score": 99
-        },
-        {
-          "keyword": "dominic smith",
-          "score": 98
-        },
-        {
-          "keyword": "hornets schedule",
-          "score": 97
-        },
-        {
-          "keyword": "husband father killer",
-          "score": 96
-        },
-        {
-          "keyword": "nba game",
-          "score": 95
-        },
-        {
-          "keyword": "justice thomas",
-          "score": 94
-        },
-        {
-          "keyword": "weather storms tornadoes",
-          "score": 93
-        },
-        {
-          "keyword": "jeopardy today",
-          "score": 92
-        },
-        {
-          "keyword": "american airlines group",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-18T03:33:51.506Z",
       "geo": "US",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "jamie ding jeopardy",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-22T02:08:06.428Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nico hoerner",
+          "score": 100
+        },
+        {
+          "keyword": "spurs coach",
+          "score": 99
+        },
+        {
+          "keyword": "tomi lahren",
+          "score": 98
+        },
+        {
+          "keyword": "avs",
+          "score": 97
+        },
+        {
+          "keyword": "chicago cubs",
+          "score": 96
+        },
+        {
+          "keyword": "freddie freeman",
+          "score": 95
+        },
+        {
+          "keyword": "rauw alejandro",
+          "score": 94
+        },
+        {
+          "keyword": "rj decker",
+          "score": 93
+        },
+        {
+          "keyword": "harley davidson",
+          "score": 92
+        },
+        {
+          "keyword": "gpt chat",
           "score": 91
         }
       ]

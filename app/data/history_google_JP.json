@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-18T00:00:37.471Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "アストロズ 対 カージナルス",
-          "score": 100
-        },
-        {
-          "keyword": "井森美幸",
-          "score": 99
-        },
-        {
-          "keyword": "リオネル・メッシ",
-          "score": 98
-        },
-        {
-          "keyword": "ロッキーズ 対 ドジャース",
-          "score": 97
-        },
-        {
-          "keyword": "松井裕樹",
-          "score": 96
-        },
-        {
-          "keyword": "マジック 対 ホーネッツ",
-          "score": 95
-        },
-        {
-          "keyword": "畑芽育 ドラマ",
-          "score": 94
-        },
-        {
-          "keyword": "安野貴博",
-          "score": 93
-        },
-        {
-          "keyword": "ユニバ",
-          "score": 92
-        },
-        {
-          "keyword": "武雄競輪",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-18T03:33:53.887Z",
       "geo": "JP",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "李在明",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-22T02:08:09.275Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "中央線",
+          "score": 100
+        },
+        {
+          "keyword": "ビクター・ウェンバンヤマ",
+          "score": 99
+        },
+        {
+          "keyword": "フランス",
+          "score": 98
+        },
+        {
+          "keyword": "ゲーム",
+          "score": 97
+        },
+        {
+          "keyword": "サンフランシスコ",
+          "score": 96
+        },
+        {
+          "keyword": "永尾まりや",
+          "score": 95
+        },
+        {
+          "keyword": "風、薫る",
+          "score": 94
+        },
+        {
+          "keyword": "高田純次",
+          "score": 93
+        },
+        {
+          "keyword": "タコス",
+          "score": 92
+        },
+        {
+          "keyword": "菊池風磨",
           "score": 91
         }
       ]
