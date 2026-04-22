@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-18T17:57:47.488Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ディエゴ・ゴメス",
-          "score": 100
-        },
-        {
-          "keyword": "ps5",
-          "score": 99
-        },
-        {
-          "keyword": "unext",
-          "score": 98
-        },
-        {
-          "keyword": "警報",
-          "score": 97
-        },
-        {
-          "keyword": "レアルソシエダ",
-          "score": 96
-        },
-        {
-          "keyword": "glay",
-          "score": 95
-        },
-        {
-          "keyword": "エイドリアン・ニューウェイ",
-          "score": 94
-        },
-        {
-          "keyword": "かのかり",
-          "score": 93
-        },
-        {
-          "keyword": "若槻千夏",
-          "score": 92
-        },
-        {
-          "keyword": "坂本花織",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-18T18:43:08.330Z",
       "geo": "JP",
       "source": "google",
@@ -3570,6 +3523,53 @@
         },
         {
           "keyword": "新幹線 予約",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-22T18:39:03.508Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ボーンマス 対 リーズ u",
+          "score": 100
+        },
+        {
+          "keyword": "バーンリー 対 マンc",
+          "score": 99
+        },
+        {
+          "keyword": "elche vs atlético madrid",
+          "score": 98
+        },
+        {
+          "keyword": "レバークーゼン 対 バイエルン",
+          "score": 97
+        },
+        {
+          "keyword": "dior",
+          "score": 96
+        },
+        {
+          "keyword": "ソシエダ 対 ヘタフェ",
+          "score": 95
+        },
+        {
+          "keyword": "錦織圭",
+          "score": 94
+        },
+        {
+          "keyword": "アンハサウェイ",
+          "score": 93
+        },
+        {
+          "keyword": "fc バイエルン ミュンヘン",
+          "score": 92
+        },
+        {
+          "keyword": "エルチェ 対 アトレティコ",
           "score": 91
         }
       ]
