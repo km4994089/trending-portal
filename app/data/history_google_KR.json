@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-18T03:33:52.727Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nba",
-          "score": 100
-        },
-        {
-          "keyword": "선수",
-          "score": 99
-        },
-        {
-          "keyword": "xrp 레저",
-          "score": 98
-        },
-        {
-          "keyword": "김다인",
-          "score": 97
-        },
-        {
-          "keyword": "전유진",
-          "score": 96
-        },
-        {
-          "keyword": "ig",
-          "score": 95
-        },
-        {
-          "keyword": "비행기",
-          "score": 94
-        },
-        {
-          "keyword": "경찰",
-          "score": 93
-        },
-        {
-          "keyword": "장현성",
-          "score": 92
-        },
-        {
-          "keyword": "하키",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-18T05:28:29.990Z",
       "geo": "KR",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "한국사",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-22T05:10:20.610Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김어준",
+          "score": 100
+        },
+        {
+          "keyword": "삼천당제약 주가",
+          "score": 99
+        },
+        {
+          "keyword": "lakers",
+          "score": 98
+        },
+        {
+          "keyword": "대한전선",
+          "score": 97
+        },
+        {
+          "keyword": "고용노동부",
+          "score": 96
+        },
+        {
+          "keyword": "hd현대중공업",
+          "score": 95
+        },
+        {
+          "keyword": "농협",
+          "score": 94
+        },
+        {
+          "keyword": "화성",
+          "score": 93
+        },
+        {
+          "keyword": "박태환",
+          "score": 92
+        },
+        {
+          "keyword": "한국투자증권 채용",
           "score": 91
         }
       ]
