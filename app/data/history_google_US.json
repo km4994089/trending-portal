@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-18T20:25:48.822Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mike conley",
-          "score": 100
-        },
-        {
-          "keyword": "linus ullmark",
-          "score": 99
-        },
-        {
-          "keyword": "minnesota",
-          "score": 98
-        },
-        {
-          "keyword": "weather houston",
-          "score": 97
-        },
-        {
-          "keyword": "logan stankoven",
-          "score": 96
-        },
-        {
-          "keyword": "naz reid",
-          "score": 95
-        },
-        {
-          "keyword": "jamie siraj",
-          "score": 94
-        },
-        {
-          "keyword": "rudy gobert",
-          "score": 93
-        },
-        {
-          "keyword": "ayo dosunmu",
-          "score": 92
-        },
-        {
-          "keyword": "carson kelly",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-18T21:00:40.850Z",
       "geo": "US",
       "source": "google",
@@ -3523,6 +3476,53 @@
         },
         {
           "keyword": "blue jays - angels",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-22T20:57:17.548Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lamine yamal",
+          "score": 100
+        },
+        {
+          "keyword": "laliga",
+          "score": 99
+        },
+        {
+          "keyword": "luis díaz",
+          "score": 98
+        },
+        {
+          "keyword": "lulu stock",
+          "score": 97
+        },
+        {
+          "keyword": "oil company",
+          "score": 96
+        },
+        {
+          "keyword": "lee najjar",
+          "score": 95
+        },
+        {
+          "keyword": "tsla stock price",
+          "score": 94
+        },
+        {
+          "keyword": "crm stock",
+          "score": 93
+        },
+        {
+          "keyword": "lrcx stock",
+          "score": 92
+        },
+        {
+          "keyword": "capital one $425 million settlement",
           "score": 91
         }
       ]
