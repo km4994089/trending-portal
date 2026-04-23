@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-19T21:00:51.752Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "伊勢ヶ濱部屋",
-          "score": 100
-        },
-        {
-          "keyword": "運",
-          "score": 99
-        },
-        {
-          "keyword": "佐々木朗希",
-          "score": 98
-        },
-        {
-          "keyword": "オーケー",
-          "score": 97
-        },
-        {
-          "keyword": "吉田結衣",
-          "score": 96
-        },
-        {
-          "keyword": "メジャー",
-          "score": 95
-        },
-        {
-          "keyword": "市議会議員選挙",
-          "score": 94
-        },
-        {
-          "keyword": "トレード",
-          "score": 93
-        },
-        {
-          "keyword": "日本経済新聞",
-          "score": 92
-        },
-        {
-          "keyword": "レッドソックス 対 タイガース",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-19T21:55:23.032Z",
       "geo": "JP",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "東洋エンジニアリング",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-23T21:37:12.777Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "小関裕太",
+          "score": 100
+        },
+        {
+          "keyword": "大井競馬場",
+          "score": 99
+        },
+        {
+          "keyword": "日比野芽奈",
+          "score": 98
+        },
+        {
+          "keyword": "今日 天気",
+          "score": 97
+        },
+        {
+          "keyword": "ホワイトソックス",
+          "score": 96
+        },
+        {
+          "keyword": "ゴールデンウィーク",
+          "score": 95
+        },
+        {
+          "keyword": "カブス",
+          "score": 94
+        },
+        {
+          "keyword": "中田翔",
+          "score": 93
+        },
+        {
+          "keyword": "schd",
+          "score": 92
+        },
+        {
+          "keyword": "小柳ルミ子",
           "score": 91
         }
       ]
