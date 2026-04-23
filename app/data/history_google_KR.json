@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-19T23:01:21.476Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "weather",
-          "score": 100
-        },
-        {
-          "keyword": "날씨",
-          "score": 99
-        },
-        {
-          "keyword": "기상청",
-          "score": 98
-        },
-        {
-          "keyword": "홍명보",
-          "score": 97
-        },
-        {
-          "keyword": "뉴스",
-          "score": 96
-        },
-        {
-          "keyword": "天气",
-          "score": 95
-        },
-        {
-          "keyword": "주간조선",
-          "score": 94
-        },
-        {
-          "keyword": "김연경",
-          "score": 93
-        },
-        {
-          "keyword": "아성다이소",
-          "score": 92
-        },
-        {
-          "keyword": "홍해",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-19T23:58:34.029Z",
       "geo": "KR",
       "source": "google",
@@ -3053,6 +3006,53 @@
         },
         {
           "keyword": "대한민국 행정안전부",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-23T23:36:21.118Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "반도체",
+          "score": 100
+        },
+        {
+          "keyword": "안선영",
+          "score": 99
+        },
+        {
+          "keyword": "운세",
+          "score": 98
+        },
+        {
+          "keyword": "조갑경",
+          "score": 97
+        },
+        {
+          "keyword": "경찰",
+          "score": 96
+        },
+        {
+          "keyword": "간식",
+          "score": 95
+        },
+        {
+          "keyword": "ipl",
+          "score": 94
+        },
+        {
+          "keyword": "용준형",
+          "score": 93
+        },
+        {
+          "keyword": "김혜성",
+          "score": 92
+        },
+        {
+          "keyword": "초과 근무",
           "score": 91
         }
       ]
