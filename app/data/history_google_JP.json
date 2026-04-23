@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-18T23:57:29.546Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "岡田結実",
-          "score": 100
-        },
-        {
-          "keyword": "kacey musgraves",
-          "score": 99
-        },
-        {
-          "keyword": "草間彌生",
-          "score": 98
-        },
-        {
-          "keyword": "東京競馬場",
-          "score": 97
-        },
-        {
-          "keyword": "ベイシア",
-          "score": 96
-        },
-        {
-          "keyword": "パロマ瑞穂スタジアム",
-          "score": 95
-        },
-        {
-          "keyword": "松本人志",
-          "score": 94
-        },
-        {
-          "keyword": "神奈川県秦野市",
-          "score": 93
-        },
-        {
-          "keyword": "石田千穂",
-          "score": 92
-        },
-        {
-          "keyword": "キーウ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-19T02:12:28.658Z",
       "geo": "JP",
       "source": "google",
@@ -3429,6 +3382,53 @@
         },
         {
           "keyword": "花澤香菜",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-23T01:44:44.706Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ソニック",
+          "score": 100
+        },
+        {
+          "keyword": "sbi新生銀行 株価",
+          "score": 99
+        },
+        {
+          "keyword": "マイクラ",
+          "score": 98
+        },
+        {
+          "keyword": "川口 春奈",
+          "score": 97
+        },
+        {
+          "keyword": "サンダー 対 サンズ",
+          "score": 96
+        },
+        {
+          "keyword": "インフルエンサー",
+          "score": 95
+        },
+        {
+          "keyword": "ソニーfg 株価",
+          "score": 94
+        },
+        {
+          "keyword": "サンケイビル",
+          "score": 93
+        },
+        {
+          "keyword": "岡村隆史",
+          "score": 92
+        },
+        {
+          "keyword": "上田竜也",
           "score": 91
         }
       ]

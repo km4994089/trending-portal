@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-18T23:57:27.043Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "felix reyes phillies",
-          "score": 100
-        },
-        {
-          "keyword": "paul skenes",
-          "score": 99
-        },
-        {
-          "keyword": "thiago moises",
-          "score": 98
-        },
-        {
-          "keyword": "dodgers - rockies",
-          "score": 97
-        },
-        {
-          "keyword": "becky lynch",
-          "score": 96
-        },
-        {
-          "keyword": "cm punk",
-          "score": 95
-        },
-        {
-          "keyword": "cam sanders",
-          "score": 94
-        },
-        {
-          "keyword": "ole miss baseball",
-          "score": 93
-        },
-        {
-          "keyword": "america reads the bible",
-          "score": 92
-        },
-        {
-          "keyword": "aj lee",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-19T02:12:26.225Z",
       "geo": "US",
       "source": "google",
@@ -3429,6 +3382,53 @@
         },
         {
           "keyword": "tim daly",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-23T01:44:41.835Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "atlanta braves",
+          "score": 100
+        },
+        {
+          "keyword": "mlb scores today",
+          "score": 99
+        },
+        {
+          "keyword": "dan vladar",
+          "score": 98
+        },
+        {
+          "keyword": "dodgers - giants",
+          "score": 97
+        },
+        {
+          "keyword": "jon ossoff",
+          "score": 96
+        },
+        {
+          "keyword": "mls standings",
+          "score": 95
+        },
+        {
+          "keyword": "christian hubicki",
+          "score": 94
+        },
+        {
+          "keyword": "braves score",
+          "score": 93
+        },
+        {
+          "keyword": "washington nationals",
+          "score": 92
+        },
+        {
+          "keyword": "alex bregman",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-18T23:57:28.151Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "부동산",
-          "score": 100
-        },
-        {
-          "keyword": "르브론 제임스",
-          "score": 99
-        },
-        {
-          "keyword": "атлетико мадрид – реал сосьедад",
-          "score": 98
-        },
-        {
-          "keyword": "류현진",
-          "score": 97
-        },
-        {
-          "keyword": "군포시",
-          "score": 96
-        },
-        {
-          "keyword": "양자 컴퓨터",
-          "score": 95
-        },
-        {
-          "keyword": "레알 마드리드 cf",
-          "score": 94
-        },
-        {
-          "keyword": "유연석",
-          "score": 93
-        },
-        {
-          "keyword": "광산",
-          "score": 92
-        },
-        {
-          "keyword": "가르나초",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-19T02:12:27.561Z",
       "geo": "KR",
       "source": "google",
@@ -3429,6 +3382,53 @@
         },
         {
           "keyword": "코파 이탈리아",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-23T01:44:43.447Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김성수",
+          "score": 100
+        },
+        {
+          "keyword": "한국사",
+          "score": 99
+        },
+        {
+          "keyword": "삼성전기 주가",
+          "score": 98
+        },
+        {
+          "keyword": "국립중앙박물관",
+          "score": 97
+        },
+        {
+          "keyword": "대우건설 주가",
+          "score": 96
+        },
+        {
+          "keyword": "지방 선거",
+          "score": 95
+        },
+        {
+          "keyword": "서정대학교",
+          "score": 94
+        },
+        {
+          "keyword": "캔바",
+          "score": 93
+        },
+        {
+          "keyword": "한국항공우주산업",
+          "score": 92
+        },
+        {
+          "keyword": "디트로이트 대 올랜도",
           "score": 91
         }
       ]
