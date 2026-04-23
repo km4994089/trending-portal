@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-19T02:12:28.658Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "高速鉄道",
-          "score": 100
-        },
-        {
-          "keyword": "ウィル・クライン",
-          "score": 99
-        },
-        {
-          "keyword": "lakers",
-          "score": 98
-        },
-        {
-          "keyword": "nhkオンデマンド",
-          "score": 97
-        },
-        {
-          "keyword": "筧美和子",
-          "score": 96
-        },
-        {
-          "keyword": "鳴海唯",
-          "score": 95
-        },
-        {
-          "keyword": "的場浩司",
-          "score": 94
-        },
-        {
-          "keyword": "nba docomo",
-          "score": 93
-        },
-        {
-          "keyword": "west",
-          "score": 92
-        },
-        {
-          "keyword": "京都競馬場",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-19T05:13:46.753Z",
       "geo": "JP",
       "source": "google",
@@ -3429,6 +3382,53 @@
         },
         {
           "keyword": "上田竜也",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-23T04:43:28.354Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "村上宗隆",
+          "score": 100
+        },
+        {
+          "keyword": "桜井日奈子",
+          "score": 99
+        },
+        {
+          "keyword": "佐久間宣行",
+          "score": 98
+        },
+        {
+          "keyword": "高橋克典",
+          "score": 97
+        },
+        {
+          "keyword": "新しい地図",
+          "score": 96
+        },
+        {
+          "keyword": "村上春樹",
+          "score": 95
+        },
+        {
+          "keyword": "百貨店",
+          "score": 94
+        },
+        {
+          "keyword": "大谷翔平",
+          "score": 93
+        },
+        {
+          "keyword": "マリオ 映画 ポップコーン",
+          "score": 92
+        },
+        {
+          "keyword": "大谷翔平 成績",
           "score": 91
         }
       ]
