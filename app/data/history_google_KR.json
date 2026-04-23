@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-19T05:13:45.470Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "울산 대 광주",
-          "score": 100
-        },
-        {
-          "keyword": "국가채무",
-          "score": 99
-        },
-        {
-          "keyword": "빅나티 디스전",
-          "score": 98
-        },
-        {
-          "keyword": "카리나",
-          "score": 97
-        },
-        {
-          "keyword": "조수애",
-          "score": 96
-        },
-        {
-          "keyword": "김혜경",
-          "score": 95
-        },
-        {
-          "keyword": "퇴거",
-          "score": 94
-        },
-        {
-          "keyword": "이상해",
-          "score": 93
-        },
-        {
-          "keyword": "영화 산업",
-          "score": 92
-        },
-        {
-          "keyword": "대구 달성",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-19T06:55:42.484Z",
       "geo": "KR",
       "source": "google",
@@ -3429,6 +3382,53 @@
         },
         {
           "keyword": "주민등록등본",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-23T06:55:15.147Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "서울아산병원",
+          "score": 100
+        },
+        {
+          "keyword": "탐나는전",
+          "score": 99
+        },
+        {
+          "keyword": "bangladesh vs new zealand",
+          "score": 98
+        },
+        {
+          "keyword": "골드만삭스",
+          "score": 97
+        },
+        {
+          "keyword": "기업형 슈퍼마켓",
+          "score": 96
+        },
+        {
+          "keyword": "김래원",
+          "score": 95
+        },
+        {
+          "keyword": "김원중",
+          "score": 94
+        },
+        {
+          "keyword": "이명세",
+          "score": 93
+        },
+        {
+          "keyword": "조선소",
+          "score": 92
+        },
+        {
+          "keyword": "엘지트윈스",
           "score": 91
         }
       ]
