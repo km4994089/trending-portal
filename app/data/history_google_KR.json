@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-20T22:34:01.286Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "나스닥 100",
-          "score": 100
-        },
-        {
-          "keyword": "심장병",
-          "score": 99
-        },
-        {
-          "keyword": "s&p 500",
-          "score": 98
-        },
-        {
-          "keyword": "tsla",
-          "score": 97
-        },
-        {
-          "keyword": "신현송",
-          "score": 96
-        },
-        {
-          "keyword": "ionq",
-          "score": 95
-        },
-        {
-          "keyword": "คริสตัลพาเลซ พบ เวสต์แฮม",
-          "score": 94
-        },
-        {
-          "keyword": "qqq",
-          "score": 93
-        },
-        {
-          "keyword": "vix",
-          "score": 92
-        },
-        {
-          "keyword": "crystal palace vs west ham",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-20T23:34:32.545Z",
       "geo": "KR",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "피트 헤그세스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-24T23:32:27.361Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "안지현",
+          "score": 100
+        },
+        {
+          "keyword": "sunderland vs nottm forest",
+          "score": 99
+        },
+        {
+          "keyword": "테슬라 주가",
+          "score": 98
+        },
+        {
+          "keyword": "보험계약",
+          "score": 97
+        },
+        {
+          "keyword": "이창섭",
+          "score": 96
+        },
+        {
+          "keyword": "금융소득종합과세",
+          "score": 95
+        },
+        {
+          "keyword": "김부겸",
+          "score": 94
+        },
+        {
+          "keyword": "เรอัล เบติส พบ เรอัลมาดริด",
+          "score": 93
+        },
+        {
+          "keyword": "첫 번째 남자",
+          "score": 92
+        },
+        {
+          "keyword": "대한민국 과학기술정보통신부",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-20T22:34:02.759Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ひまわり 朝ドラ",
-          "score": 100
-        },
-        {
-          "keyword": "マーリンズ 対 カージナルス",
-          "score": 99
-        },
-        {
-          "keyword": "真榊",
-          "score": 98
-        },
-        {
-          "keyword": "大鶴義丹",
-          "score": 97
-        },
-        {
-          "keyword": "湖西線",
-          "score": 96
-        },
-        {
-          "keyword": "旅人検視官 道場修作",
-          "score": 95
-        },
-        {
-          "keyword": "島田明",
-          "score": 94
-        },
-        {
-          "keyword": "皆藤愛子",
-          "score": 93
-        },
-        {
-          "keyword": "今日の天気 名古屋",
-          "score": 92
-        },
-        {
-          "keyword": "東京科学大学",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-20T23:34:33.872Z",
       "geo": "JP",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "クレーン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-24T23:32:28.726Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "磯山さやか",
+          "score": 100
+        },
+        {
+          "keyword": "ブルワーズ 対 パイレーツ",
+          "score": 99
+        },
+        {
+          "keyword": "ロケッツ 対 レイカーズ",
+          "score": 98
+        },
+        {
+          "keyword": "カルディ セール",
+          "score": 97
+        },
+        {
+          "keyword": "田中雅美",
+          "score": 96
+        },
+        {
+          "keyword": "河北新報",
+          "score": 95
+        },
+        {
+          "keyword": "ミスターマックス",
+          "score": 94
+        },
+        {
+          "keyword": "ブレーブス 対 フィリーズ",
+          "score": 93
+        },
+        {
+          "keyword": "アンバース",
+          "score": 92
+        },
+        {
+          "keyword": "与沢翼",
           "score": 91
         }
       ]
