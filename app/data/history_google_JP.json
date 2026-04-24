@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-20T07:50:41.947Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "日経平均株価",
-          "score": 100
-        },
-        {
-          "keyword": "唐田 えりか",
-          "score": 99
-        },
-        {
-          "keyword": "ヒロミ",
-          "score": 98
-        },
-        {
-          "keyword": "神戸新聞",
-          "score": 97
-        },
-        {
-          "keyword": "ldh japan",
-          "score": 96
-        },
-        {
-          "keyword": "津競艇",
-          "score": 95
-        },
-        {
-          "keyword": "4755",
-          "score": 94
-        },
-        {
-          "keyword": "vaundy イデアが溢れて眠れない",
-          "score": 93
-        },
-        {
-          "keyword": "全米 女子 オープン 予選 会",
-          "score": 92
-        },
-        {
-          "keyword": "丸佳浩",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-20T09:48:02.091Z",
       "geo": "JP",
       "source": "google",
@@ -3053,6 +3006,53 @@
         },
         {
           "keyword": "スペースx",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-24T08:59:52.603Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "甲斐拓也",
+          "score": 100
+        },
+        {
+          "keyword": "同志社",
+          "score": 99
+        },
+        {
+          "keyword": "アダストリア",
+          "score": 98
+        },
+        {
+          "keyword": "名鉄 運転見合わせ",
+          "score": 97
+        },
+        {
+          "keyword": "糸谷哲郎",
+          "score": 96
+        },
+        {
+          "keyword": "小松菜奈",
+          "score": 95
+        },
+        {
+          "keyword": "ストッケ",
+          "score": 94
+        },
+        {
+          "keyword": "グラングリーン大阪",
+          "score": 93
+        },
+        {
+          "keyword": "ミトス",
+          "score": 92
+        },
+        {
+          "keyword": "cio",
           "score": 91
         }
       ]
