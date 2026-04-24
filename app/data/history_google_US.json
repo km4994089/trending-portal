@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-20T17:50:35.184Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "twitter down",
-          "score": 100
-        },
-        {
-          "keyword": "d4vd mugshot",
-          "score": 99
-        },
-        {
-          "keyword": "jordi fernandez",
-          "score": 98
-        },
-        {
-          "keyword": "infowars",
-          "score": 97
-        },
-        {
-          "keyword": "democrats 25th amendment donald trump",
-          "score": 96
-        },
-        {
-          "keyword": "shahrukh khan",
-          "score": 95
-        },
-        {
-          "keyword": "practical magic 2 trailer",
-          "score": 94
-        },
-        {
-          "keyword": "mick abel",
-          "score": 93
-        },
-        {
-          "keyword": "grand theft auto vi",
-          "score": 92
-        },
-        {
-          "keyword": "sunday rose prom look",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-20T18:51:24.337Z",
       "geo": "US",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "andrey rublev",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-24T18:36:45.750Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "moustapha thiam",
+          "score": 100
+        },
+        {
+          "keyword": "sunderland vs nottm forest",
+          "score": 99
+        },
+        {
+          "keyword": "jared kushner",
+          "score": 98
+        },
+        {
+          "keyword": "leicester city vs millwall",
+          "score": 97
+        },
+        {
+          "keyword": "ipl standings",
+          "score": 96
+        },
+        {
+          "keyword": "real betis - real madrid",
+          "score": 95
+        },
+        {
+          "keyword": "real betis vs real madrid",
+          "score": 94
+        },
+        {
+          "keyword": "stacy lewis",
+          "score": 93
+        },
+        {
+          "keyword": "napoli - cremonese",
+          "score": 92
+        },
+        {
+          "keyword": "brest vs lens",
           "score": 91
         }
       ]
