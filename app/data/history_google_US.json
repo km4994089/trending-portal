@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-20T15:51:31.848Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "steelers",
-          "score": 100
-        },
-        {
-          "keyword": "leinbach park",
-          "score": 99
-        },
-        {
-          "keyword": "dow jones",
-          "score": 98
-        },
-        {
-          "keyword": "tigers - red sox",
-          "score": 97
-        },
-        {
-          "keyword": "trump job approval poll",
-          "score": 96
-        },
-        {
-          "keyword": "intc",
-          "score": 95
-        },
-        {
-          "keyword": "aapl",
-          "score": 94
-        },
-        {
-          "keyword": "baseball",
-          "score": 93
-        },
-        {
-          "keyword": "amd stock",
-          "score": 92
-        },
-        {
-          "keyword": "mark warner",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-20T16:54:14.658Z",
       "geo": "US",
       "source": "google",
@@ -3053,6 +3006,53 @@
         },
         {
           "keyword": "gt vs rcb",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-24T15:58:35.045Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nelly korda",
+          "score": 100
+        },
+        {
+          "keyword": "ray hartmann",
+          "score": 99
+        },
+        {
+          "keyword": "jake reiner",
+          "score": 98
+        },
+        {
+          "keyword": "nvidia",
+          "score": 97
+        },
+        {
+          "keyword": "nikki glaser wardrobe mishap",
+          "score": 96
+        },
+        {
+          "keyword": "francis scott key bridge",
+          "score": 95
+        },
+        {
+          "keyword": "nvidia stock",
+          "score": 94
+        },
+        {
+          "keyword": "coco gauff",
+          "score": 93
+        },
+        {
+          "keyword": "jerome powell",
+          "score": 92
+        },
+        {
+          "keyword": "poet stock",
           "score": 91
         }
       ]
