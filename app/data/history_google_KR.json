@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-20T09:48:00.460Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김기태",
-          "score": 100
-        },
-        {
-          "keyword": "엘레나 리바 키나",
-          "score": 99
-        },
-        {
-          "keyword": "오르비텍",
-          "score": 98
-        },
-        {
-          "keyword": "地震",
-          "score": 97
-        },
-        {
-          "keyword": "아이오닉3",
-          "score": 96
-        },
-        {
-          "keyword": "상급종합병원",
-          "score": 95
-        },
-        {
-          "keyword": "시바이누코인",
-          "score": 94
-        },
-        {
-          "keyword": "일본 지진",
-          "score": 93
-        },
-        {
-          "keyword": "배현진",
-          "score": 92
-        },
-        {
-          "keyword": "농협",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-20T11:11:12.211Z",
       "geo": "KR",
       "source": "google",
@@ -3053,6 +3006,53 @@
         },
         {
           "keyword": "국민연금",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-24T10:23:49.162Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "박수홍",
+          "score": 100
+        },
+        {
+          "keyword": "앤트로픽",
+          "score": 99
+        },
+        {
+          "keyword": "노브랜드 버거",
+          "score": 98
+        },
+        {
+          "keyword": "남양주시장",
+          "score": 97
+        },
+        {
+          "keyword": "단종",
+          "score": 96
+        },
+        {
+          "keyword": "이마트",
+          "score": 95
+        },
+        {
+          "keyword": "정연",
+          "score": 94
+        },
+        {
+          "keyword": "현대자동차 채용",
+          "score": 93
+        },
+        {
+          "keyword": "원희",
+          "score": 92
+        },
+        {
+          "keyword": "kt 대 ssg",
           "score": 91
         }
       ]
