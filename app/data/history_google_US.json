@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-20T02:36:11.083Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "alex tuch",
-          "score": 100
-        },
-        {
-          "keyword": "mattias samuelsson",
-          "score": 99
-        },
-        {
-          "keyword": "vgk",
-          "score": 98
-        },
-        {
-          "keyword": "marysville washington",
-          "score": 97
-        },
-        {
-          "keyword": "kris murray",
-          "score": 96
-        },
-        {
-          "keyword": "john tortorella",
-          "score": 95
-        },
-        {
-          "keyword": "eric dane",
-          "score": 94
-        },
-        {
-          "keyword": "fiesta san antonio",
-          "score": 93
-        },
-        {
-          "keyword": "euphoria cast",
-          "score": 92
-        },
-        {
-          "keyword": "toumani camara",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-20T05:31:38.590Z",
       "geo": "US",
       "source": "google",
@@ -3053,6 +3006,53 @@
         },
         {
           "keyword": "tampa bay buccaneers",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-24T04:47:05.337Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "david cross",
+          "score": 100
+        },
+        {
+          "keyword": "iowa city weather",
+          "score": 99
+        },
+        {
+          "keyword": "teotihuacan shooting",
+          "score": 98
+        },
+        {
+          "keyword": "i cant love you anymore morgan wallen",
+          "score": 97
+        },
+        {
+          "keyword": "andre the giant",
+          "score": 96
+        },
+        {
+          "keyword": "kehlani",
+          "score": 95
+        },
+        {
+          "keyword": "noah kahan tour",
+          "score": 94
+        },
+        {
+          "keyword": "noah kahan",
+          "score": 93
+        },
+        {
+          "keyword": "elizabeth warren",
+          "score": 92
+        },
+        {
+          "keyword": "josh manson",
           "score": 91
         }
       ]
