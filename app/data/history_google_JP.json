@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-20T16:54:17.258Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "イルカ",
-          "score": 100
-        },
-        {
-          "keyword": "秋田汐梨",
-          "score": 99
-        },
-        {
-          "keyword": "アルアハリ",
-          "score": 98
-        },
-        {
-          "keyword": "dazn",
-          "score": 97
-        },
-        {
-          "keyword": "斎藤工",
-          "score": 96
-        },
-        {
-          "keyword": "原油",
-          "score": 95
-        },
-        {
-          "keyword": "名古屋ダイヤモンドドルフィンズ",
-          "score": 94
-        },
-        {
-          "keyword": "神戸 対 アル・アハリ・ジッダ",
-          "score": 93
-        },
-        {
-          "keyword": "illit モカ 活動休止",
-          "score": 92
-        },
-        {
-          "keyword": "小雪",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-20T17:50:38.026Z",
       "geo": "JP",
       "source": "google",
@@ -3053,6 +3006,53 @@
         },
         {
           "keyword": "山添拓",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-24T16:55:26.098Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ストレンジャーシングス",
+          "score": 100
+        },
+        {
+          "keyword": "横田真悠",
+          "score": 99
+        },
+        {
+          "keyword": "fc町田ゼルビア",
+          "score": 98
+        },
+        {
+          "keyword": "上伊那ぼたん",
+          "score": 97
+        },
+        {
+          "keyword": "岩田アナ",
+          "score": 96
+        },
+        {
+          "keyword": "プロ野球 巨人",
+          "score": 95
+        },
+        {
+          "keyword": "ヤニック・シナー",
+          "score": 94
+        },
+        {
+          "keyword": "toho",
+          "score": 93
+        },
+        {
+          "keyword": "新宿ピカデリー",
+          "score": 92
+        },
+        {
+          "keyword": "クロノトリガー フィギュア",
           "score": 91
         }
       ]
