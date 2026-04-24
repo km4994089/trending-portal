@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-20T12:43:51.536Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jane fonda",
-          "score": 100
-        },
-        {
-          "keyword": "taraji p henson",
-          "score": 99
-        },
-        {
-          "keyword": "injury attorney",
-          "score": 98
-        },
-        {
-          "keyword": "trump defense budget $1.5 trillion",
-          "score": 97
-        },
-        {
-          "keyword": "meryl streep",
-          "score": 96
-        },
-        {
-          "keyword": "queen elizabeth",
-          "score": 95
-        },
-        {
-          "keyword": "epstein files",
-          "score": 94
-        },
-        {
-          "keyword": "ty simpson",
-          "score": 93
-        },
-        {
-          "keyword": "tate mcrae",
-          "score": 92
-        },
-        {
-          "keyword": "austin weather",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-20T14:27:18.657Z",
       "geo": "US",
       "source": "google",
@@ -3053,6 +3006,53 @@
         },
         {
           "keyword": "ashley padilla",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-24T12:58:46.675Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "pentagon",
+          "score": 100
+        },
+        {
+          "keyword": "ayo edebiri",
+          "score": 99
+        },
+        {
+          "keyword": "connections answers",
+          "score": 98
+        },
+        {
+          "keyword": "oz pearlman",
+          "score": 97
+        },
+        {
+          "keyword": "x energy",
+          "score": 96
+        },
+        {
+          "keyword": "josh allen",
+          "score": 95
+        },
+        {
+          "keyword": "simone biles",
+          "score": 94
+        },
+        {
+          "keyword": "good morning america",
+          "score": 93
+        },
+        {
+          "keyword": "erika kirk",
+          "score": 92
+        },
+        {
+          "keyword": "josh shapiro",
           "score": 91
         }
       ]
