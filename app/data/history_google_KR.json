@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-21T18:57:03.431Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cnn",
-          "score": 100
-        },
-        {
-          "keyword": "롤",
-          "score": 99
-        },
-        {
-          "keyword": "리그오브레전드",
-          "score": 98
-        },
-        {
-          "keyword": "박환희",
-          "score": 97
-        },
-        {
-          "keyword": "박지현",
-          "score": 96
-        },
-        {
-          "keyword": "카토",
-          "score": 95
-        },
-        {
-          "keyword": "와우넷",
-          "score": 94
-        },
-        {
-          "keyword": "지구의 날",
-          "score": 93
-        },
-        {
-          "keyword": "컴프야",
-          "score": 92
-        },
-        {
-          "keyword": "차지연",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-21T20:00:19.153Z",
       "geo": "KR",
       "source": "google",
@@ -3241,6 +3194,53 @@
         },
         {
           "keyword": "안보현",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-25T19:37:33.212Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "선수권 대회",
+          "score": 100
+        },
+        {
+          "keyword": "อาร์เซนอล พบ นิวคาสเซิล",
+          "score": 99
+        },
+        {
+          "keyword": "박세웅",
+          "score": 98
+        },
+        {
+          "keyword": "แมนซิตี พบ เซาแธมป์ตัน",
+          "score": 97
+        },
+        {
+          "keyword": "psg",
+          "score": 96
+        },
+        {
+          "keyword": "리그앙",
+          "score": 95
+        },
+        {
+          "keyword": "화장실",
+          "score": 94
+        },
+        {
+          "keyword": "arsenal đấu với newcastle",
+          "score": 93
+        },
+        {
+          "keyword": "맨시티",
+          "score": 92
+        },
+        {
+          "keyword": "man city đấu với southampton",
           "score": 91
         }
       ]
