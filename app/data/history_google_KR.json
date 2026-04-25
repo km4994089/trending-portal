@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-21T17:52:04.466Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "박환희",
-          "score": 100
-        },
-        {
-          "keyword": "박지현",
-          "score": 99
-        },
-        {
-          "keyword": "와우넷",
-          "score": 98
-        },
-        {
-          "keyword": "지구의 날",
-          "score": 97
-        },
-        {
-          "keyword": "컴프야",
-          "score": 96
-        },
-        {
-          "keyword": "차지연",
-          "score": 95
-        },
-        {
-          "keyword": "삼성 반도체",
-          "score": 94
-        },
-        {
-          "keyword": "asl 시즌 21",
-          "score": 93
-        },
-        {
-          "keyword": "lig 디펜스&에어로스페이스",
-          "score": 92
-        },
-        {
-          "keyword": "황영웅",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-21T18:57:03.431Z",
       "geo": "KR",
       "source": "google",
@@ -3241,6 +3194,53 @@
         },
         {
           "keyword": "getafe đấu với barcelona",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-25T18:36:03.451Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "psg",
+          "score": 100
+        },
+        {
+          "keyword": "리그앙",
+          "score": 99
+        },
+        {
+          "keyword": "arsenal đấu với newcastle",
+          "score": 98
+        },
+        {
+          "keyword": "맨시티",
+          "score": 97
+        },
+        {
+          "keyword": "man city đấu với southampton",
+          "score": 96
+        },
+        {
+          "keyword": "아스널",
+          "score": 95
+        },
+        {
+          "keyword": "arsenal vs newcastle",
+          "score": 94
+        },
+        {
+          "keyword": "아스널 대 뉴캐슬",
+          "score": 93
+        },
+        {
+          "keyword": "man city vs southampton",
+          "score": 92
+        },
+        {
+          "keyword": "안보현",
           "score": 91
         }
       ]
