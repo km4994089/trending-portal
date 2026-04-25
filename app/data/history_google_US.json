@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-21T15:03:51.751Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "act",
-          "score": 100
-        },
-        {
-          "keyword": "elizabeth warren",
-          "score": 99
-        },
-        {
-          "keyword": "exo experts warbond",
-          "score": 98
-        },
-        {
-          "keyword": "billy donovan",
-          "score": 97
-        },
-        {
-          "keyword": "nbc abc, cbs news ratings",
-          "score": 96
-        },
-        {
-          "keyword": "tim scott",
-          "score": 95
-        },
-        {
-          "keyword": "gme",
-          "score": 94
-        },
-        {
-          "keyword": "larry fitzgerald",
-          "score": 93
-        },
-        {
-          "keyword": "mike tomlin",
-          "score": 92
-        },
-        {
-          "keyword": "dave mccormick",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-21T16:35:04.786Z",
       "geo": "US",
       "source": "google",
@@ -3194,6 +3147,53 @@
         },
         {
           "keyword": "six flags great america",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-25T15:31:59.223Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "bologna vs roma",
+          "score": 100
+        },
+        {
+          "keyword": "epl scores",
+          "score": 99
+        },
+        {
+          "keyword": "endrick",
+          "score": 98
+        },
+        {
+          "keyword": "terence atmane",
+          "score": 97
+        },
+        {
+          "keyword": "learner tien",
+          "score": 96
+        },
+        {
+          "keyword": "roony bardghji",
+          "score": 95
+        },
+        {
+          "keyword": "bayern munich",
+          "score": 94
+        },
+        {
+          "keyword": "mike greenberg apology denzel boston",
+          "score": 93
+        },
+        {
+          "keyword": "barry manilow",
+          "score": 92
+        },
+        {
+          "keyword": "stevie nicks",
           "score": 91
         }
       ]
