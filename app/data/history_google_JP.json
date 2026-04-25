@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-21T20:57:19.975Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ミッキー モニアック",
-          "score": 100
-        },
-        {
-          "keyword": "コベントリー 対 ポーツマス",
-          "score": 99
-        },
-        {
-          "keyword": "山本美月",
-          "score": 98
-        },
-        {
-          "keyword": "株式",
-          "score": 97
-        },
-        {
-          "keyword": "西野七瀬",
-          "score": 96
-        },
-        {
-          "keyword": "アンハサウェイ",
-          "score": 95
-        },
-        {
-          "keyword": "madrid vs alavés",
-          "score": 94
-        },
-        {
-          "keyword": "イラン",
-          "score": 93
-        },
-        {
-          "keyword": "j-hope",
-          "score": 92
-        },
-        {
-          "keyword": "ラ・リーガ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-21T21:40:17.593Z",
       "geo": "JP",
       "source": "google",
@@ -3241,6 +3194,53 @@
         },
         {
           "keyword": "マジック 対 ピストンズ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-25T21:03:48.054Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "岡本和真",
+          "score": 100
+        },
+        {
+          "keyword": "イッテq 重大発表",
+          "score": 99
+        },
+        {
+          "keyword": "東海道線",
+          "score": 98
+        },
+        {
+          "keyword": "警察",
+          "score": 97
+        },
+        {
+          "keyword": "三崎優太",
+          "score": 96
+        },
+        {
+          "keyword": "佐々木朗希",
+          "score": 95
+        },
+        {
+          "keyword": "給付",
+          "score": 94
+        },
+        {
+          "keyword": "くら寿司",
+          "score": 93
+        },
+        {
+          "keyword": "大坂なおみ",
+          "score": 92
+        },
+        {
+          "keyword": "トゥールーズ 対 モナコ",
           "score": 91
         }
       ]
