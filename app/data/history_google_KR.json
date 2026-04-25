@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-21T21:40:16.104Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "암",
-          "score": 100
-        },
-        {
-          "keyword": "집",
-          "score": 99
-        },
-        {
-          "keyword": "이정현",
-          "score": 98
-        },
-        {
-          "keyword": "연구",
-          "score": 97
-        },
-        {
-          "keyword": "พยากรณ์อากาศ",
-          "score": 96
-        },
-        {
-          "keyword": "제주특별자치도",
-          "score": 95
-        },
-        {
-          "keyword": "젠슨 황",
-          "score": 94
-        },
-        {
-          "keyword": "홍상수",
-          "score": 93
-        },
-        {
-          "keyword": "경상남도",
-          "score": 92
-        },
-        {
-          "keyword": "real madrid vs alavés",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-21T22:30:26.036Z",
       "geo": "KR",
       "source": "google",
@@ -3241,6 +3194,53 @@
         },
         {
           "keyword": "선수권 대회",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-25T21:57:54.892Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "기아 k8",
+          "score": 100
+        },
+        {
+          "keyword": "아나운서",
+          "score": 99
+        },
+        {
+          "keyword": "현대 싼타페",
+          "score": 98
+        },
+        {
+          "keyword": "피닉스 대 오클라호마시티",
+          "score": 97
+        },
+        {
+          "keyword": "lafc",
+          "score": 96
+        },
+        {
+          "keyword": "한미반도체",
+          "score": 95
+        },
+        {
+          "keyword": "레인보우로보틱스",
+          "score": 94
+        },
+        {
+          "keyword": "지상렬",
+          "score": 93
+        },
+        {
+          "keyword": "양치승",
+          "score": 92
+        },
+        {
+          "keyword": "맨체스터 유나이티드 fc",
           "score": 91
         }
       ]
