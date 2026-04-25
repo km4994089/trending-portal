@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-21T01:27:56.158Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ミゲル・ロハス",
-          "score": 100
-        },
-        {
-          "keyword": "今井翼",
-          "score": 99
-        },
-        {
-          "keyword": "滝沢秀明",
-          "score": 98
-        },
-        {
-          "keyword": "和田明日香",
-          "score": 97
-        },
-        {
-          "keyword": "ディズニーストア",
-          "score": 96
-        },
-        {
-          "keyword": "上田竜也",
-          "score": 95
-        },
-        {
-          "keyword": "王座戦",
-          "score": 94
-        },
-        {
-          "keyword": "オリコ",
-          "score": 93
-        },
-        {
-          "keyword": "エンゼルス 対 ブルージェイズ",
-          "score": 92
-        },
-        {
-          "keyword": "ホセ・キンタナ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-21T04:27:58.335Z",
       "geo": "JP",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "ハーモニーランド",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-25T04:12:43.318Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "交通違反",
+          "score": 100
+        },
+        {
+          "keyword": "小田急線",
+          "score": 99
+        },
+        {
+          "keyword": "産油国",
+          "score": 98
+        },
+        {
+          "keyword": "軽井沢",
+          "score": 97
+        },
+        {
+          "keyword": "ブレグマン",
+          "score": 96
+        },
+        {
+          "keyword": "磐田 対 岐阜",
+          "score": 95
+        },
+        {
+          "keyword": "デンソー ローム",
+          "score": 94
+        },
+        {
+          "keyword": "ピート・クロウ=アームストロング",
+          "score": 93
+        },
+        {
+          "keyword": "アレックス・ブレグマン",
+          "score": 92
+        },
+        {
+          "keyword": "愛子内親王",
           "score": 91
         }
       ]
