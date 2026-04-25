@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-21T08:14:26.019Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "松島聡",
-          "score": 100
-        },
-        {
-          "keyword": "オリエンタルランド",
-          "score": 99
-        },
-        {
-          "keyword": "橋本 愛",
-          "score": 98
-        },
-        {
-          "keyword": "神戸大学",
-          "score": 97
-        },
-        {
-          "keyword": "dena 対 阪神",
-          "score": 96
-        },
-        {
-          "keyword": "高橋英樹",
-          "score": 95
-        },
-        {
-          "keyword": "アクアトピア",
-          "score": 94
-        },
-        {
-          "keyword": "石油タンカー",
-          "score": 93
-        },
-        {
-          "keyword": "サンリオ ゲームズ",
-          "score": 92
-        },
-        {
-          "keyword": "snow man",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-21T09:56:15.101Z",
       "geo": "JP",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "ガチャ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-25T08:40:59.961Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "モンスト",
+          "score": 100
+        },
+        {
+          "keyword": "落雷",
+          "score": 99
+        },
+        {
+          "keyword": "高橋ユウ",
+          "score": 98
+        },
+        {
+          "keyword": "タモリ",
+          "score": 97
+        },
+        {
+          "keyword": "フロンターレ",
+          "score": 96
+        },
+        {
+          "keyword": "日本半導体製造装置協会",
+          "score": 95
+        },
+        {
+          "keyword": "カイリ・セイン",
+          "score": 94
+        },
+        {
+          "keyword": "京都新聞杯",
+          "score": 93
+        },
+        {
+          "keyword": "相模原 対 湘南",
+          "score": 92
+        },
+        {
+          "keyword": "柿澤勇人",
           "score": 91
         }
       ]

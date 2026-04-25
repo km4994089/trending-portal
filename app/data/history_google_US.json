@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-21T08:14:23.067Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "robert lewandowski",
-          "score": 100
-        },
-        {
-          "keyword": "aurora forecast",
-          "score": 99
-        },
-        {
-          "keyword": "nba lakers",
-          "score": 98
-        },
-        {
-          "keyword": "ferguson",
-          "score": 97
-        },
-        {
-          "keyword": "motorcycle accident attorney",
-          "score": 96
-        },
-        {
-          "keyword": "south park",
-          "score": 95
-        },
-        {
-          "keyword": "personal injury attorneys",
-          "score": 94
-        },
-        {
-          "keyword": "mace introduces mills expulsion resolution",
-          "score": 93
-        },
-        {
-          "keyword": "quinta brunson",
-          "score": 92
-        },
-        {
-          "keyword": "truck accident attorney",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-21T09:56:12.862Z",
       "geo": "US",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "jung hoo lee",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-25T08:40:57.626Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "gpt",
+          "score": 100
+        },
+        {
+          "keyword": "wlbt weather",
+          "score": 99
+        },
+        {
+          "keyword": "wlbt",
+          "score": 98
+        },
+        {
+          "keyword": "flights",
+          "score": 97
+        },
+        {
+          "keyword": "the chi",
+          "score": 96
+        },
+        {
+          "keyword": "hotels",
+          "score": 95
+        },
+        {
+          "keyword": "entergy",
+          "score": 94
+        },
+        {
+          "keyword": "asha sharma",
+          "score": 93
+        },
+        {
+          "keyword": "death penalty executions",
+          "score": 92
+        },
+        {
+          "keyword": "emilia clarke",
           "score": 91
         }
       ]
