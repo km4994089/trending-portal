@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-21T04:27:55.565Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "don cheadle",
-          "score": 100
-        },
-        {
-          "keyword": "jason robertson",
-          "score": 99
-        },
-        {
-          "keyword": "hardee's",
-          "score": 98
-        },
-        {
-          "keyword": "carmelo anthony",
-          "score": 97
-        },
-        {
-          "keyword": "amazon.com",
-          "score": 96
-        },
-        {
-          "keyword": "pk subban",
-          "score": 95
-        },
-        {
-          "keyword": "kyle anderson",
-          "score": 94
-        },
-        {
-          "keyword": "alan osmond",
-          "score": 93
-        },
-        {
-          "keyword": "mariners score",
-          "score": 92
-        },
-        {
-          "keyword": "athletics",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-21T06:18:55.532Z",
       "geo": "US",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "kyle brandt",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-25T06:02:52.676Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "george strait",
+          "score": 100
+        },
+        {
+          "keyword": "riot",
+          "score": 99
+        },
+        {
+          "keyword": "harrison barnes",
+          "score": 98
+        },
+        {
+          "keyword": "ron harper jr",
+          "score": 97
+        },
+        {
+          "keyword": "bernie rosow",
+          "score": 96
+        },
+        {
+          "keyword": "nico hoerner",
+          "score": 95
+        },
+        {
+          "keyword": "scoot henderson",
+          "score": 94
+        },
+        {
+          "keyword": "ron harper",
+          "score": 93
+        },
+        {
+          "keyword": "corbin martin",
+          "score": 92
+        },
+        {
+          "keyword": "giants game today",
           "score": 91
         }
       ]
