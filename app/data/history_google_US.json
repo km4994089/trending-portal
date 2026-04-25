@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-21T13:46:49.318Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jason ritter",
-          "score": 100
-        },
-        {
-          "keyword": "scott galloway",
-          "score": 99
-        },
-        {
-          "keyword": "hims stock",
-          "score": 98
-        },
-        {
-          "keyword": "rihanna w magazine",
-          "score": 97
-        },
-        {
-          "keyword": "nnamdi madubuike",
-          "score": 96
-        },
-        {
-          "keyword": "lahore qalandars vs quetta gladiators",
-          "score": 95
-        },
-        {
-          "keyword": "srh vs dc",
-          "score": 94
-        },
-        {
-          "keyword": "halftime show",
-          "score": 93
-        },
-        {
-          "keyword": "anthropic stock",
-          "score": 92
-        },
-        {
-          "keyword": "splatoon raiders",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-21T15:03:51.751Z",
       "geo": "US",
       "source": "google",
@@ -3147,6 +3100,53 @@
         },
         {
           "keyword": "martha odom",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-25T13:57:38.657Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "maha",
+          "score": 100
+        },
+        {
+          "keyword": "rochdale vs york city",
+          "score": 99
+        },
+        {
+          "keyword": "augsburg vs eintracht frankfurt",
+          "score": 98
+        },
+        {
+          "keyword": "six flags great america",
+          "score": 97
+        },
+        {
+          "keyword": "carrie underwood tennessee farm",
+          "score": 96
+        },
+        {
+          "keyword": "getafe - barcelona",
+          "score": 95
+        },
+        {
+          "keyword": "getafe vs barcelona",
+          "score": 94
+        },
+        {
+          "keyword": "bryan adams",
+          "score": 93
+        },
+        {
+          "keyword": "rivian",
+          "score": 92
+        },
+        {
+          "keyword": "cooper connolly",
           "score": 91
         }
       ]
