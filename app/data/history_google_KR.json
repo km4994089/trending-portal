@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-21T10:59:32.829Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "헌법재판소",
-          "score": 100
-        },
-        {
-          "keyword": "박성한",
-          "score": 99
-        },
-        {
-          "keyword": "이데일리",
-          "score": 98
-        },
-        {
-          "keyword": "송승현",
-          "score": 97
-        },
-        {
-          "keyword": "fc 서울 대 부천",
-          "score": 96
-        },
-        {
-          "keyword": "전북 대 인천",
-          "score": 95
-        },
-        {
-          "keyword": "언차일드",
-          "score": 94
-        },
-        {
-          "keyword": "조광한",
-          "score": 93
-        },
-        {
-          "keyword": "명태균",
-          "score": 92
-        },
-        {
-          "keyword": "과속 단속",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-21T11:59:55.509Z",
       "geo": "KR",
       "source": "google",
@@ -3147,6 +3100,53 @@
         },
         {
           "keyword": "천안시티 대 성남",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-25T11:31:41.833Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김민재",
+          "score": 100
+        },
+        {
+          "keyword": "왕종근",
+          "score": 99
+        },
+        {
+          "keyword": "t1",
+          "score": 98
+        },
+        {
+          "keyword": "dc vs pbks",
+          "score": 97
+        },
+        {
+          "keyword": "카를로스 알 카라스",
+          "score": 96
+        },
+        {
+          "keyword": "김용",
+          "score": 95
+        },
+        {
+          "keyword": "이태양",
+          "score": 94
+        },
+        {
+          "keyword": "넬리 코다",
+          "score": 93
+        },
+        {
+          "keyword": "카페",
+          "score": 92
+        },
+        {
+          "keyword": "이다 도시",
           "score": 91
         }
       ]

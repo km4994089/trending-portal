@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-21T10:59:34.156Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "パナマ",
-          "score": 100
-        },
-        {
-          "keyword": "岡田将生 高畑充希",
-          "score": 99
-        },
-        {
-          "keyword": "ロース",
-          "score": 98
-        },
-        {
-          "keyword": "西武ライオンズ",
-          "score": 97
-        },
-        {
-          "keyword": "河合優実",
-          "score": 96
-        },
-        {
-          "keyword": "ららぽーと",
-          "score": 95
-        },
-        {
-          "keyword": "ミスチル",
-          "score": 94
-        },
-        {
-          "keyword": "秋元真夏",
-          "score": 93
-        },
-        {
-          "keyword": "くわ ば たり え",
-          "score": 92
-        },
-        {
-          "keyword": "キューバ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-21T11:59:56.699Z",
       "geo": "JP",
       "source": "google",
@@ -3147,6 +3100,53 @@
         },
         {
           "keyword": "タリーズコーヒー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-25T11:31:43.015Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "小柳ルミ子",
+          "score": 100
+        },
+        {
+          "keyword": "fulham vs aston villa",
+          "score": 99
+        },
+        {
+          "keyword": "ローソン 乱闘",
+          "score": 98
+        },
+        {
+          "keyword": "東京ドーム 座席",
+          "score": 97
+        },
+        {
+          "keyword": "シナモロール",
+          "score": 96
+        },
+        {
+          "keyword": "ケンコバ",
+          "score": 95
+        },
+        {
+          "keyword": "塚田 僚一",
+          "score": 94
+        },
+        {
+          "keyword": "新日本プロレス",
+          "score": 93
+        },
+        {
+          "keyword": "名古屋城",
+          "score": 92
+        },
+        {
+          "keyword": "情報ライブ ミヤネ屋",
           "score": 91
         }
       ]
