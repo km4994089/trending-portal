@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-21T06:18:55.532Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "bang si-hyuk",
-          "score": 100
-        },
-        {
-          "keyword": "injury lawyer",
-          "score": 99
-        },
-        {
-          "keyword": "bank",
-          "score": 98
-        },
-        {
-          "keyword": "san francisco weather",
-          "score": 97
-        },
-        {
-          "keyword": "james bond movies",
-          "score": 96
-        },
-        {
-          "keyword": "law and order",
-          "score": 95
-        },
-        {
-          "keyword": "salma hayek",
-          "score": 94
-        },
-        {
-          "keyword": "tony brothers",
-          "score": 93
-        },
-        {
-          "keyword": "seattle seahawks",
-          "score": 92
-        },
-        {
-          "keyword": "michael movie",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-21T08:14:23.067Z",
       "geo": "US",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "giants game today",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-25T07:50:04.779Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "death penalty executions",
+          "score": 100
+        },
+        {
+          "keyword": "emilia clarke",
+          "score": 99
+        },
+        {
+          "keyword": "sphere las vegas",
+          "score": 98
+        },
+        {
+          "keyword": "tesla cybertruck",
+          "score": 97
+        },
+        {
+          "keyword": "aj dybantsa",
+          "score": 96
+        },
+        {
+          "keyword": "the hunger games",
+          "score": 95
+        },
+        {
+          "keyword": "george strait",
+          "score": 94
+        },
+        {
+          "keyword": "sf giants game today",
+          "score": 93
+        },
+        {
+          "keyword": "harrison barnes",
+          "score": 92
+        },
+        {
+          "keyword": "jung hoo lee",
           "score": 91
         }
       ]

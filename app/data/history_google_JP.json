@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-21T06:18:58.223Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "東大寺",
-          "score": 100
-        },
-        {
-          "keyword": "スカイライン 新型",
-          "score": 99
-        },
-        {
-          "keyword": "プレミアムシアター",
-          "score": 98
-        },
-        {
-          "keyword": "ソニック",
-          "score": 97
-        },
-        {
-          "keyword": "牧秀悟",
-          "score": 96
-        },
-        {
-          "keyword": "スカイマーク",
-          "score": 95
-        },
-        {
-          "keyword": "泉口友汰",
-          "score": 94
-        },
-        {
-          "keyword": "プルデンシャル",
-          "score": 93
-        },
-        {
-          "keyword": "パン・シヒョク",
-          "score": 92
-        },
-        {
-          "keyword": "奈良",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-21T08:14:26.019Z",
       "geo": "JP",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "スペース",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-25T07:50:07.374Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "原田 知世",
+          "score": 100
+        },
+        {
+          "keyword": "臼田 あさ美",
+          "score": 99
+        },
+        {
+          "keyword": "ツエーゲン金沢",
+          "score": 98
+        },
+        {
+          "keyword": "吉田輝星",
+          "score": 97
+        },
+        {
+          "keyword": "エマニュエル・マクロン",
+          "score": 96
+        },
+        {
+          "keyword": "松倉海斗",
+          "score": 95
+        },
+        {
+          "keyword": "マイラーズカップ 2026",
+          "score": 94
+        },
+        {
+          "keyword": "東京六大学",
+          "score": 93
+        },
+        {
+          "keyword": "明石家さんま",
+          "score": 92
+        },
+        {
+          "keyword": "ガチャ",
           "score": 91
         }
       ]
