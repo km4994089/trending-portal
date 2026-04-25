@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-20T23:34:32.545Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "운세",
-          "score": 100
-        },
-        {
-          "keyword": "허수봉",
-          "score": 99
-        },
-        {
-          "keyword": "john ternus",
-          "score": 98
-        },
-        {
-          "keyword": "현대로템",
-          "score": 97
-        },
-        {
-          "keyword": "무엇이든 물어보살",
-          "score": 96
-        },
-        {
-          "keyword": "챗 gpt",
-          "score": 95
-        },
-        {
-          "keyword": "더존ict그룹",
-          "score": 94
-        },
-        {
-          "keyword": "심장병",
-          "score": 93
-        },
-        {
-          "keyword": "나스닥 100",
-          "score": 92
-        },
-        {
-          "keyword": "s&p 500",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-21T01:27:54.597Z",
       "geo": "KR",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "대한민국 과학기술정보통신부",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-25T01:24:22.231Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "조선소",
+          "score": 100
+        },
+        {
+          "keyword": "과학 기술",
+          "score": 99
+        },
+        {
+          "keyword": "kbo 리그",
+          "score": 98
+        },
+        {
+          "keyword": "필라데피아 대 보스턴",
+          "score": 97
+        },
+        {
+          "keyword": "d4vd",
+          "score": 96
+        },
+        {
+          "keyword": "휴스턴 대 la 레이커스",
+          "score": 95
+        },
+        {
+          "keyword": "유승호",
+          "score": 94
+        },
+        {
+          "keyword": "박병호",
+          "score": 93
+        },
+        {
+          "keyword": "강동구",
+          "score": 92
+        },
+        {
+          "keyword": "이효리",
           "score": 91
         }
       ]
