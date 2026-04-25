@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-21T09:56:14.022Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "투표",
-          "score": 100
-        },
-        {
-          "keyword": "kia 대 kt",
-          "score": 99
-        },
-        {
-          "keyword": "한화 대 lg",
-          "score": 98
-        },
-        {
-          "keyword": "두산 대 롯데",
-          "score": 97
-        },
-        {
-          "keyword": "배기성",
-          "score": 96
-        },
-        {
-          "keyword": "정소민",
-          "score": 95
-        },
-        {
-          "keyword": "모카",
-          "score": 94
-        },
-        {
-          "keyword": "윤하정",
-          "score": 93
-        },
-        {
-          "keyword": "조선",
-          "score": 92
-        },
-        {
-          "keyword": "lg에너지솔루션",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-21T10:59:32.829Z",
       "geo": "KR",
       "source": "google",
@@ -3147,6 +3100,53 @@
         },
         {
           "keyword": "kbs",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-25T10:34:45.698Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이다 도시",
+          "score": 100
+        },
+        {
+          "keyword": "브리온",
+          "score": 99
+        },
+        {
+          "keyword": "박보영",
+          "score": 98
+        },
+        {
+          "keyword": "신윤후",
+          "score": 97
+        },
+        {
+          "keyword": "페이커",
+          "score": 96
+        },
+        {
+          "keyword": "말라카 해협",
+          "score": 95
+        },
+        {
+          "keyword": "안현민",
+          "score": 94
+        },
+        {
+          "keyword": "mlb",
+          "score": 93
+        },
+        {
+          "keyword": "코끼리",
+          "score": 92
+        },
+        {
+          "keyword": "천안시티 대 성남",
           "score": 91
         }
       ]
