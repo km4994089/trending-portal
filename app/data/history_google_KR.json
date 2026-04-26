@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-22T11:52:15.744Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "웰스",
-          "score": 100
-        },
-        {
-          "keyword": "최민준",
-          "score": 99
-        },
-        {
-          "keyword": "2026 한일가왕전",
-          "score": 98
-        },
-        {
-          "keyword": "db하이텍",
-          "score": 97
-        },
-        {
-          "keyword": "왕옌청",
-          "score": 96
-        },
-        {
-          "keyword": "주호영",
-          "score": 95
-        },
-        {
-          "keyword": "지진",
-          "score": 94
-        },
-        {
-          "keyword": "경남도민일보",
-          "score": 93
-        },
-        {
-          "keyword": "대전 대 제주",
-          "score": 92
-        },
-        {
-          "keyword": "포항 대 광주",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-22T13:00:41.057Z",
       "geo": "KR",
       "source": "google",
@@ -3335,6 +3288,53 @@
         },
         {
           "keyword": "미국",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-26T12:41:39.973Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김윤식",
+          "score": 100
+        },
+        {
+          "keyword": "김승현",
+          "score": 99
+        },
+        {
+          "keyword": "제시카",
+          "score": 98
+        },
+        {
+          "keyword": "데이터 센터",
+          "score": 97
+        },
+        {
+          "keyword": "백선호",
+          "score": 96
+        },
+        {
+          "keyword": "최정윤",
+          "score": 95
+        },
+        {
+          "keyword": "두산",
+          "score": 94
+        },
+        {
+          "keyword": "기요 무라",
+          "score": 93
+        },
+        {
+          "keyword": "지예은 열애",
+          "score": 92
+        },
+        {
+          "keyword": "하프마라톤",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-22T11:52:17.345Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "オーストラリアドル",
-          "score": 100
-        },
-        {
-          "keyword": "セカオワ",
-          "score": 99
-        },
-        {
-          "keyword": "ラヴィット!",
-          "score": 98
-        },
-        {
-          "keyword": "レイノルズ",
-          "score": 97
-        },
-        {
-          "keyword": "ジャンボ",
-          "score": 96
-        },
-        {
-          "keyword": "プロ野球チップス",
-          "score": 95
-        },
-        {
-          "keyword": "日本航空",
-          "score": 94
-        },
-        {
-          "keyword": "九州地区高等学校野球大会",
-          "score": 93
-        },
-        {
-          "keyword": "保育士",
-          "score": 92
-        },
-        {
-          "keyword": "堂安律",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-22T13:00:42.199Z",
       "geo": "JP",
       "source": "google",
@@ -3335,6 +3288,53 @@
         },
         {
           "keyword": "就職氷河期",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-26T12:41:41.081Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "テニス",
+          "score": 100
+        },
+        {
+          "keyword": "二宮和也",
+          "score": 99
+        },
+        {
+          "keyword": "カリフォルニア工科大学",
+          "score": 98
+        },
+        {
+          "keyword": "情熱大陸",
+          "score": 97
+        },
+        {
+          "keyword": "cdtvライブ!ライブ!",
+          "score": 96
+        },
+        {
+          "keyword": "nhkスペシャル",
+          "score": 95
+        },
+        {
+          "keyword": "利益",
+          "score": 94
+        },
+        {
+          "keyword": "タルトンネ",
+          "score": 93
+        },
+        {
+          "keyword": "大洲市長選挙",
+          "score": 92
+        },
+        {
+          "keyword": "さぬき市長選挙",
           "score": 91
         }
       ]
