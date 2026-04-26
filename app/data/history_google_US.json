@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-21T23:57:27.846Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "josh allen",
-          "score": 100
-        },
-        {
-          "keyword": "padres vs rockies",
-          "score": 99
-        },
-        {
-          "keyword": "aruba",
-          "score": 98
-        },
-        {
-          "keyword": "chad michael murray",
-          "score": 97
-        },
-        {
-          "keyword": "ke'bryan hayes",
-          "score": 96
-        },
-        {
-          "keyword": "new york times",
-          "score": 95
-        },
-        {
-          "keyword": "vj edgecombe",
-          "score": 94
-        },
-        {
-          "keyword": "celtics score",
-          "score": 93
-        },
-        {
-          "keyword": "brandon hagel",
-          "score": 92
-        },
-        {
-          "keyword": "jamie ding jeopardy",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-22T02:08:06.428Z",
       "geo": "US",
       "source": "google",
@@ -3241,6 +3194,53 @@
         },
         {
           "keyword": "louis riddick",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-26T00:02:52.512Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "earthquake",
+          "score": 100
+        },
+        {
+          "keyword": "spike lee",
+          "score": 99
+        },
+        {
+          "keyword": "scooter braun",
+          "score": 98
+        },
+        {
+          "keyword": "jalen brunson injury",
+          "score": 97
+        },
+        {
+          "keyword": "tyren montgomery",
+          "score": 96
+        },
+        {
+          "keyword": "kyron drones",
+          "score": 95
+        },
+        {
+          "keyword": "supercross schedule",
+          "score": 94
+        },
+        {
+          "keyword": "colin rea",
+          "score": 93
+        },
+        {
+          "keyword": "dillon bell",
+          "score": 92
+        },
+        {
+          "keyword": "miller moss",
           "score": 91
         }
       ]

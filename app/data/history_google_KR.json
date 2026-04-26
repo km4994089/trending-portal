@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-21T23:57:29.183Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "현대자동차",
-          "score": 100
-        },
-        {
-          "keyword": "스타뉴스",
-          "score": 99
-        },
-        {
-          "keyword": "이복현",
-          "score": 98
-        },
-        {
-          "keyword": "삼성sdi",
-          "score": 97
-        },
-        {
-          "keyword": "카리나",
-          "score": 96
-        },
-        {
-          "keyword": "국방과학연구소",
-          "score": 95
-        },
-        {
-          "keyword": "채소",
-          "score": 94
-        },
-        {
-          "keyword": "울산 웨일즈",
-          "score": 93
-        },
-        {
-          "keyword": "tsla",
-          "score": 92
-        },
-        {
-          "keyword": "오픈ai",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-22T02:08:07.938Z",
       "geo": "KR",
       "source": "google",
@@ -3241,6 +3194,53 @@
         },
         {
           "keyword": "불펜",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-26T00:02:53.850Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이상순",
+          "score": 100
+        },
+        {
+          "keyword": "울릉도",
+          "score": 99
+        },
+        {
+          "keyword": "항공기",
+          "score": 98
+        },
+        {
+          "keyword": "벌금",
+          "score": 97
+        },
+        {
+          "keyword": "송성문",
+          "score": 96
+        },
+        {
+          "keyword": "변영주",
+          "score": 95
+        },
+        {
+          "keyword": "함소원",
+          "score": 94
+        },
+        {
+          "keyword": "서울하프마라톤",
+          "score": 93
+        },
+        {
+          "keyword": "주성엔지니어링",
+          "score": 92
+        },
+        {
+          "keyword": "화물연대",
           "score": 91
         }
       ]
