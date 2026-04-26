@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-22T17:30:22.663Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "heavy snow warning",
-          "score": 100
-        },
-        {
-          "keyword": "lucas giolito",
-          "score": 99
-        },
-        {
-          "keyword": "kendall jenner",
-          "score": 98
-        },
-        {
-          "keyword": "taylor townsend",
-          "score": 97
-        },
-        {
-          "keyword": "nasa artemis ii heat shield",
-          "score": 96
-        },
-        {
-          "keyword": "melanie martinez",
-          "score": 95
-        },
-        {
-          "keyword": "topps",
-          "score": 94
-        },
-        {
-          "keyword": "espanyol - barcelona",
-          "score": 93
-        },
-        {
-          "keyword": "david scott",
-          "score": 92
-        },
-        {
-          "keyword": "janai norman",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-22T18:39:01.001Z",
       "geo": "US",
       "source": "google",
@@ -3382,6 +3335,53 @@
         },
         {
           "keyword": "nava tennis",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-26T17:30:53.454Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "zurich classic format",
+          "score": 100
+        },
+        {
+          "keyword": "rockies vs mets",
+          "score": 99
+        },
+        {
+          "keyword": "lpga",
+          "score": 98
+        },
+        {
+          "keyword": "alan ritchson reacher season 4",
+          "score": 97
+        },
+        {
+          "keyword": "red dead redemption 2",
+          "score": 96
+        },
+        {
+          "keyword": "thiago agustín tirante",
+          "score": 95
+        },
+        {
+          "keyword": "pirates of the caribbean 6",
+          "score": 94
+        },
+        {
+          "keyword": "severance",
+          "score": 93
+        },
+        {
+          "keyword": "cameron norrie",
+          "score": 92
+        },
+        {
+          "keyword": "collin murray boyles",
           "score": 91
         }
       ]
