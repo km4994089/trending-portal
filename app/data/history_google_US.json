@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-22T18:39:01.001Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "burnley vs man city",
-          "score": 100
-        },
-        {
-          "keyword": "warner bros. discovery",
-          "score": 99
-        },
-        {
-          "keyword": "roronoa zoro",
-          "score": 98
-        },
-        {
-          "keyword": "solar system",
-          "score": 97
-        },
-        {
-          "keyword": "bournemouth vs leeds",
-          "score": 96
-        },
-        {
-          "keyword": "severe weather",
-          "score": 95
-        },
-        {
-          "keyword": "atalanta vs lazio",
-          "score": 94
-        },
-        {
-          "keyword": "paige adams",
-          "score": 93
-        },
-        {
-          "keyword": "jesper de jong",
-          "score": 92
-        },
-        {
-          "keyword": "kevin hart",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-22T19:59:43.844Z",
       "geo": "US",
       "source": "google",
@@ -3429,6 +3382,53 @@
         },
         {
           "keyword": "milan - juventus",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-26T19:38:53.341Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "spurs vs trail blazers",
+          "score": 100
+        },
+        {
+          "keyword": "willson contreras",
+          "score": 99
+        },
+        {
+          "keyword": "jj wetherholt",
+          "score": 98
+        },
+        {
+          "keyword": "anthony volpe",
+          "score": 97
+        },
+        {
+          "keyword": "rj barrett",
+          "score": 96
+        },
+        {
+          "keyword": "bubba wallace",
+          "score": 95
+        },
+        {
+          "keyword": "falcon heavy viasat-3 launch",
+          "score": 94
+        },
+        {
+          "keyword": "lexi thompson",
+          "score": 93
+        },
+        {
+          "keyword": "bruins score",
+          "score": 92
+        },
+        {
+          "keyword": "sabres score",
           "score": 91
         }
       ]

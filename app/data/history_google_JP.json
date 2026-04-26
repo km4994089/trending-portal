@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-22T18:39:03.508Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ボーンマス 対 リーズ u",
-          "score": 100
-        },
-        {
-          "keyword": "バーンリー 対 マンc",
-          "score": 99
-        },
-        {
-          "keyword": "elche vs atlético madrid",
-          "score": 98
-        },
-        {
-          "keyword": "レバークーゼン 対 バイエルン",
-          "score": 97
-        },
-        {
-          "keyword": "dior",
-          "score": 96
-        },
-        {
-          "keyword": "ソシエダ 対 ヘタフェ",
-          "score": 95
-        },
-        {
-          "keyword": "錦織圭",
-          "score": 94
-        },
-        {
-          "keyword": "アンハサウェイ",
-          "score": 93
-        },
-        {
-          "keyword": "fc バイエルン ミュンヘン",
-          "score": 92
-        },
-        {
-          "keyword": "エルチェ 対 アトレティコ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-22T19:59:46.485Z",
       "geo": "JP",
       "source": "google",
@@ -3429,6 +3382,53 @@
         },
         {
           "keyword": "にかほ市",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-26T19:38:55.687Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ミラン 対 ユヴェントス",
+          "score": 100
+        },
+        {
+          "keyword": "宇連ダム 貯水率",
+          "score": 99
+        },
+        {
+          "keyword": "宇宙",
+          "score": 98
+        },
+        {
+          "keyword": "櫻坂46",
+          "score": 97
+        },
+        {
+          "keyword": "与沢翼",
+          "score": 96
+        },
+        {
+          "keyword": "岩手県 大槌町 山林火災",
+          "score": 95
+        },
+        {
+          "keyword": "谷原章介",
+          "score": 94
+        },
+        {
+          "keyword": "端午",
+          "score": 93
+        },
+        {
+          "keyword": "週間天気予報",
+          "score": 92
+        },
+        {
+          "keyword": "トリノ 対 インテル",
           "score": 91
         }
       ]
