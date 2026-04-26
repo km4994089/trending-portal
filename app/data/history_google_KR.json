@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-22T07:09:37.941Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "노홍철",
-          "score": 100
-        },
-        {
-          "keyword": "뇌물",
-          "score": 99
-        },
-        {
-          "keyword": "북구 갑",
-          "score": 98
-        },
-        {
-          "keyword": "이지훈",
-          "score": 97
-        },
-        {
-          "keyword": "전력",
-          "score": 96
-        },
-        {
-          "keyword": "kbl",
-          "score": 95
-        },
-        {
-          "keyword": "황보라",
-          "score": 94
-        },
-        {
-          "keyword": "라이언 긱스",
-          "score": 93
-        },
-        {
-          "keyword": "안호영",
-          "score": 92
-        },
-        {
-          "keyword": "제이비어 브런슨",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-22T09:01:25.821Z",
       "geo": "KR",
       "source": "google",
@@ -3241,6 +3194,53 @@
         },
         {
           "keyword": "아모레퍼시픽홀딩스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-26T07:57:27.881Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "한화오션",
+          "score": 100
+        },
+        {
+          "keyword": "부부",
+          "score": 99
+        },
+        {
+          "keyword": "울산 대 대전",
+          "score": 98
+        },
+        {
+          "keyword": "광주 대 안양",
+          "score": 97
+        },
+        {
+          "keyword": "일론 머스크",
+          "score": 96
+        },
+        {
+          "keyword": "웨스트 햄 유나이티드 fc",
+          "score": 95
+        },
+        {
+          "keyword": "레버리지",
+          "score": 94
+        },
+        {
+          "keyword": "오원석",
+          "score": 93
+        },
+        {
+          "keyword": "mlb",
+          "score": 92
+        },
+        {
+          "keyword": "금융위기",
           "score": 91
         }
       ]

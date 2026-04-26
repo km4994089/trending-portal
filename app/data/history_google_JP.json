@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-22T07:09:39.471Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "愛子内親王",
-          "score": 100
-        },
-        {
-          "keyword": "北大路 欣也",
-          "score": 99
-        },
-        {
-          "keyword": "情報ライブ ミヤネ屋",
-          "score": 98
-        },
-        {
-          "keyword": "モーニング娘。",
-          "score": 97
-        },
-        {
-          "keyword": "マリンメッセ福岡",
-          "score": 96
-        },
-        {
-          "keyword": "剛力 彩芽",
-          "score": 95
-        },
-        {
-          "keyword": "ディスコ",
-          "score": 94
-        },
-        {
-          "keyword": "八木勇征",
-          "score": 93
-        },
-        {
-          "keyword": "パンチくん",
-          "score": 92
-        },
-        {
-          "keyword": "若松競艇",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-22T09:01:27.158Z",
       "geo": "JP",
       "source": "google",
@@ -3241,6 +3194,53 @@
         },
         {
           "keyword": "平野綾",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-26T07:57:28.834Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ドラゴンズ",
+          "score": 100
+        },
+        {
+          "keyword": "ゲーム",
+          "score": 99
+        },
+        {
+          "keyword": "黒田有",
+          "score": 98
+        },
+        {
+          "keyword": "研ナオコ",
+          "score": 97
+        },
+        {
+          "keyword": "久光スプリングス",
+          "score": 96
+        },
+        {
+          "keyword": "ドリス",
+          "score": 95
+        },
+        {
+          "keyword": "たくろう",
+          "score": 94
+        },
+        {
+          "keyword": "今井 美樹",
+          "score": 93
+        },
+        {
+          "keyword": "ダウンタウン",
+          "score": 92
+        },
+        {
+          "keyword": "イーロンマスク",
           "score": 91
         }
       ]
