@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-22T20:57:20.233Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "barcelona vs celta",
-          "score": 100
-        },
-        {
-          "keyword": "山田優",
-          "score": 99
-        },
-        {
-          "keyword": "株式",
-          "score": 98
-        },
-        {
-          "keyword": "premier league",
-          "score": 97
-        },
-        {
-          "keyword": "ベルメゾン",
-          "score": 96
-        },
-        {
-          "keyword": "リーガエスパニョーラ",
-          "score": 95
-        },
-        {
-          "keyword": "ポルト 対 スポルティングcp",
-          "score": 94
-        },
-        {
-          "keyword": "ジーユー",
-          "score": 93
-        },
-        {
-          "keyword": "引退",
-          "score": 92
-        },
-        {
-          "keyword": "張本美和",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-22T22:38:26.267Z",
       "geo": "JP",
       "source": "google",
@@ -3429,6 +3382,53 @@
         },
         {
           "keyword": "ミラン 対 ユヴェントス",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-26T21:03:12.202Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "天気予報",
+          "score": 100
+        },
+        {
+          "keyword": "函館地震",
+          "score": 99
+        },
+        {
+          "keyword": "ブレイザーズ 対 スパーズ",
+          "score": 98
+        },
+        {
+          "keyword": "マツダ・ロードスター",
+          "score": 97
+        },
+        {
+          "keyword": "ホルムズ 海峡 封鎖",
+          "score": 96
+        },
+        {
+          "keyword": "青木瀬令奈",
+          "score": 95
+        },
+        {
+          "keyword": "ミゲル・ロハス",
+          "score": 94
+        },
+        {
+          "keyword": "遠藤 航",
+          "score": 93
+        },
+        {
+          "keyword": "堀越麗禾",
+          "score": 92
+        },
+        {
+          "keyword": "ピート・クロウ=アームストロング",
           "score": 91
         }
       ]
