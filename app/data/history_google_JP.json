@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-22T10:44:57.798Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "江川卓",
-          "score": 100
-        },
-        {
-          "keyword": "宮世琉弥",
-          "score": 99
-        },
-        {
-          "keyword": "ビンクリスチン",
-          "score": 98
-        },
-        {
-          "keyword": "エンティーム",
-          "score": 97
-        },
-        {
-          "keyword": "佐賀 対 名古屋d",
-          "score": 96
-        },
-        {
-          "keyword": "ウクライナ軍",
-          "score": 95
-        },
-        {
-          "keyword": "イスラム革命防衛隊",
-          "score": 94
-        },
-        {
-          "keyword": "山本昌",
-          "score": 93
-        },
-        {
-          "keyword": "シドニー・スウィーニー",
-          "score": 92
-        },
-        {
-          "keyword": "大瀬良大地",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-22T11:52:17.345Z",
       "geo": "JP",
       "source": "google",
@@ -3335,6 +3288,53 @@
         },
         {
           "keyword": "軽井沢",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-26T11:32:28.678Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "スリランカ",
+          "score": 100
+        },
+        {
+          "keyword": "秀吉",
+          "score": 99
+        },
+        {
+          "keyword": "シドニー・スウィーニー",
+          "score": 98
+        },
+        {
+          "keyword": "イモトアヤコ",
+          "score": 97
+        },
+        {
+          "keyword": "佐々木泰",
+          "score": 96
+        },
+        {
+          "keyword": "石岡市議会議員選挙",
+          "score": 95
+        },
+        {
+          "keyword": "山口市議会議員選挙",
+          "score": 94
+        },
+        {
+          "keyword": "マラソン",
+          "score": 93
+        },
+        {
+          "keyword": "伏見城",
+          "score": 92
+        },
+        {
+          "keyword": "就職氷河期",
           "score": 91
         }
       ]

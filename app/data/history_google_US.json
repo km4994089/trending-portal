@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-22T10:44:55.209Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "united states border patrol",
-          "score": 100
-        },
-        {
-          "keyword": "adam liptak",
-          "score": 99
-        },
-        {
-          "keyword": "charlotte weather",
-          "score": 98
-        },
-        {
-          "keyword": "is today earth day",
-          "score": 97
-        },
-        {
-          "keyword": "jesse mccartney nys fair",
-          "score": 96
-        },
-        {
-          "keyword": "wmata",
-          "score": 95
-        },
-        {
-          "keyword": "ice detains military wife",
-          "score": 94
-        },
-        {
-          "keyword": "emilio nava",
-          "score": 93
-        },
-        {
-          "keyword": "poet stock",
-          "score": 92
-        },
-        {
-          "keyword": "nice",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-22T11:52:14.428Z",
       "geo": "US",
       "source": "google",
@@ -3335,6 +3288,53 @@
         },
         {
           "keyword": "london marathon",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-26T11:32:24.887Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "rachel campos-duffy",
+          "score": 100
+        },
+        {
+          "keyword": "rayo vallecano - real sociedad",
+          "score": 99
+        },
+        {
+          "keyword": "powerball winning numbers",
+          "score": 98
+        },
+        {
+          "keyword": "fiorentina - sassuolo",
+          "score": 97
+        },
+        {
+          "keyword": "eileen kelly",
+          "score": 96
+        },
+        {
+          "keyword": "neon union split news",
+          "score": 95
+        },
+        {
+          "keyword": "everton vs chelsea",
+          "score": 94
+        },
+        {
+          "keyword": "glass city marathon",
+          "score": 93
+        },
+        {
+          "keyword": "sean duffy",
+          "score": 92
+        },
+        {
+          "keyword": "detective hole netflix series",
           "score": 91
         }
       ]
