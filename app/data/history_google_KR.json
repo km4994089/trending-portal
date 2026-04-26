@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-22T22:38:25.209Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "국민연금공단",
-          "score": 100
-        },
-        {
-          "keyword": "지리산",
-          "score": 99
-        },
-        {
-          "keyword": "유튜버",
-          "score": 98
-        },
-        {
-          "keyword": "ls electric",
-          "score": 97
-        },
-        {
-          "keyword": "현대자동차",
-          "score": 96
-        },
-        {
-          "keyword": "barcelona đấu với celta",
-          "score": 95
-        },
-        {
-          "keyword": "김도영",
-          "score": 94
-        },
-        {
-          "keyword": "s&p 500",
-          "score": 93
-        },
-        {
-          "keyword": "전투기",
-          "score": 92
-        },
-        {
-          "keyword": "필라델피아 반도체 지수",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-22T23:38:29.027Z",
       "geo": "KR",
       "source": "google",
@@ -3523,6 +3476,53 @@
         },
         {
           "keyword": "포틀랜드 대 샌안토니오",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-26T23:30:00.970Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "주거",
+          "score": 100
+        },
+        {
+          "keyword": "허수아비",
+          "score": 99
+        },
+        {
+          "keyword": "김인문",
+          "score": 98
+        },
+        {
+          "keyword": "아이언 돔",
+          "score": 97
+        },
+        {
+          "keyword": "시드니 스위니",
+          "score": 96
+        },
+        {
+          "keyword": "아모레퍼시픽",
+          "score": 95
+        },
+        {
+          "keyword": "로베르트 레반도프스키",
+          "score": 94
+        },
+        {
+          "keyword": "weather",
+          "score": 93
+        },
+        {
+          "keyword": "효성중공업",
+          "score": 92
+        },
+        {
+          "keyword": "샌프란시스코 자이언츠",
           "score": 91
         }
       ]

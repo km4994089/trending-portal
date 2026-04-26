@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-22T22:38:26.267Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ひまわり 朝ドラ",
-          "score": 100
-        },
-        {
-          "keyword": "松嶋菜々子",
-          "score": 99
-        },
-        {
-          "keyword": "燃油サーチャージ",
-          "score": 98
-        },
-        {
-          "keyword": "玉置 浩二",
-          "score": 97
-        },
-        {
-          "keyword": "富山天気",
-          "score": 96
-        },
-        {
-          "keyword": "新潟市天気",
-          "score": 95
-        },
-        {
-          "keyword": "岡本和真",
-          "score": 94
-        },
-        {
-          "keyword": "中谷潤人",
-          "score": 93
-        },
-        {
-          "keyword": "はしか ワクチン",
-          "score": 92
-        },
-        {
-          "keyword": "b'z",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-22T23:38:30.194Z",
       "geo": "JP",
       "source": "google",
@@ -3523,6 +3476,53 @@
         },
         {
           "keyword": "パドレス",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-26T23:30:02.346Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "はしか ワクチン",
+          "score": 100
+        },
+        {
+          "keyword": "女子学院",
+          "score": 99
+        },
+        {
+          "keyword": "気圧 今日",
+          "score": 98
+        },
+        {
+          "keyword": "石川県",
+          "score": 97
+        },
+        {
+          "keyword": "磯野貴理子",
+          "score": 96
+        },
+        {
+          "keyword": "生田絵梨花",
+          "score": 95
+        },
+        {
+          "keyword": "中央線",
+          "score": 94
+        },
+        {
+          "keyword": "京急線",
+          "score": 93
+        },
+        {
+          "keyword": "日本相撲協会",
+          "score": 92
+        },
+        {
+          "keyword": "吉森みき男",
           "score": 91
         }
       ]
