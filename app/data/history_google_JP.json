@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-23T01:44:44.706Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ソニック",
-          "score": 100
-        },
-        {
-          "keyword": "sbi新生銀行 株価",
-          "score": 99
-        },
-        {
-          "keyword": "マイクラ",
-          "score": 98
-        },
-        {
-          "keyword": "川口 春奈",
-          "score": 97
-        },
-        {
-          "keyword": "サンダー 対 サンズ",
-          "score": 96
-        },
-        {
-          "keyword": "インフルエンサー",
-          "score": 95
-        },
-        {
-          "keyword": "ソニーfg 株価",
-          "score": 94
-        },
-        {
-          "keyword": "サンケイビル",
-          "score": 93
-        },
-        {
-          "keyword": "岡村隆史",
-          "score": 92
-        },
-        {
-          "keyword": "上田竜也",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-23T04:43:28.354Z",
       "geo": "JP",
       "source": "google",
@@ -3523,6 +3476,53 @@
         },
         {
           "keyword": "はしか",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-27T04:04:07.713Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "彦摩呂",
+          "score": 100
+        },
+        {
+          "keyword": "風薫る 相関図",
+          "score": 99
+        },
+        {
+          "keyword": "レディプレイヤー",
+          "score": 98
+        },
+        {
+          "keyword": "abc マート timelesz",
+          "score": 97
+        },
+        {
+          "keyword": "intel",
+          "score": 96
+        },
+        {
+          "keyword": "lakers",
+          "score": 95
+        },
+        {
+          "keyword": "グリマスシェイク",
+          "score": 94
+        },
+        {
+          "keyword": "泉ピン子",
+          "score": 93
+        },
+        {
+          "keyword": "nvidia",
+          "score": 92
+        },
+        {
+          "keyword": "電動バス",
           "score": 91
         }
       ]

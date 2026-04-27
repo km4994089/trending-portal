@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-23T01:44:43.447Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김성수",
-          "score": 100
-        },
-        {
-          "keyword": "한국사",
-          "score": 99
-        },
-        {
-          "keyword": "삼성전기 주가",
-          "score": 98
-        },
-        {
-          "keyword": "국립중앙박물관",
-          "score": 97
-        },
-        {
-          "keyword": "대우건설 주가",
-          "score": 96
-        },
-        {
-          "keyword": "지방 선거",
-          "score": 95
-        },
-        {
-          "keyword": "서정대학교",
-          "score": 94
-        },
-        {
-          "keyword": "캔바",
-          "score": 93
-        },
-        {
-          "keyword": "한국항공우주산업",
-          "score": 92
-        },
-        {
-          "keyword": "디트로이트 대 올랜도",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-23T04:43:27.001Z",
       "geo": "KR",
       "source": "google",
@@ -3523,6 +3476,53 @@
         },
         {
           "keyword": "허수아비",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-27T04:04:06.589Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "윤갑근",
+          "score": 100
+        },
+        {
+          "keyword": "국민의힘",
+          "score": 99
+        },
+        {
+          "keyword": "항공 승무원",
+          "score": 98
+        },
+        {
+          "keyword": "국가유산",
+          "score": 97
+        },
+        {
+          "keyword": "웹툰",
+          "score": 96
+        },
+        {
+          "keyword": "하정우",
+          "score": 95
+        },
+        {
+          "keyword": "중흥건설",
+          "score": 94
+        },
+        {
+          "keyword": "lakers vs rockets",
+          "score": 93
+        },
+        {
+          "keyword": "정이한",
+          "score": 92
+        },
+        {
+          "keyword": "에어로케이",
           "score": 91
         }
       ]
