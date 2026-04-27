@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-23T18:05:29.527Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "spy",
-          "score": 100
-        },
-        {
-          "keyword": "breaking news",
-          "score": 99
-        },
-        {
-          "keyword": "ipl points table",
-          "score": 98
-        },
-        {
-          "keyword": "nationals",
-          "score": 97
-        },
-        {
-          "keyword": "riley greene",
-          "score": 96
-        },
-        {
-          "keyword": "curtis givens",
-          "score": 95
-        },
-        {
-          "keyword": "maryland",
-          "score": 94
-        },
-        {
-          "keyword": "geese tour",
-          "score": 93
-        },
-        {
-          "keyword": "panna udvardy",
-          "score": 92
-        },
-        {
-          "keyword": "denaturalization",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-23T19:47:05.160Z",
       "geo": "US",
       "source": "google",
@@ -3429,6 +3382,53 @@
         },
         {
           "keyword": "cade bennerman",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-27T18:46:26.686Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "silver",
+          "score": 100
+        },
+        {
+          "keyword": "terence atmane",
+          "score": 99
+        },
+        {
+          "keyword": "trabzonspor",
+          "score": 98
+        },
+        {
+          "keyword": "man united vs brentford",
+          "score": 97
+        },
+        {
+          "keyword": "rcd espanyol - levante",
+          "score": 96
+        },
+        {
+          "keyword": "nvda",
+          "score": 95
+        },
+        {
+          "keyword": "enola holmes 3",
+          "score": 94
+        },
+        {
+          "keyword": "dave merritt",
+          "score": 93
+        },
+        {
+          "keyword": "high wind warning",
+          "score": 92
+        },
+        {
+          "keyword": "harry styles",
           "score": 91
         }
       ]
