@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-23T13:00:29.087Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "running point",
-          "score": 100
-        },
-        {
-          "keyword": "justin theroux",
-          "score": 99
-        },
-        {
-          "keyword": "nelly korda",
-          "score": 98
-        },
-        {
-          "keyword": "south america",
-          "score": 97
-        },
-        {
-          "keyword": "greg abel",
-          "score": 96
-        },
-        {
-          "keyword": "gma deals and steals today",
-          "score": 95
-        },
-        {
-          "keyword": "alpine divorce",
-          "score": 94
-        },
-        {
-          "keyword": "noah wyle",
-          "score": 93
-        },
-        {
-          "keyword": "ravinia",
-          "score": 92
-        },
-        {
-          "keyword": "snooki",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-23T15:23:25.884Z",
       "geo": "US",
       "source": "google",
@@ -3476,6 +3429,53 @@
         },
         {
           "keyword": "bus",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-27T15:05:59.500Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "coco gauff",
+          "score": 100
+        },
+        {
+          "keyword": "debbie harry",
+          "score": 99
+        },
+        {
+          "keyword": "pbs",
+          "score": 98
+        },
+        {
+          "keyword": "fema",
+          "score": 97
+        },
+        {
+          "keyword": "ksl news",
+          "score": 96
+        },
+        {
+          "keyword": "bountiful evacuation",
+          "score": 95
+        },
+        {
+          "keyword": "earthquake now",
+          "score": 94
+        },
+        {
+          "keyword": "linda nosková",
+          "score": 93
+        },
+        {
+          "keyword": "lakers nba",
+          "score": 92
+        },
+        {
+          "keyword": "walmart stock",
           "score": 91
         }
       ]
