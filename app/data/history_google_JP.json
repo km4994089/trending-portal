@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-23T20:42:53.741Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "国内線",
-          "score": 100
-        },
-        {
-          "keyword": "緒方恵美",
-          "score": 99
-        },
-        {
-          "keyword": "株式分割",
-          "score": 98
-        },
-        {
-          "keyword": "ダルトン・ラッシング",
-          "score": 97
-        },
-        {
-          "keyword": "皇室",
-          "score": 96
-        },
-        {
-          "keyword": "playstation",
-          "score": 95
-        },
-        {
-          "keyword": "mlb 速報",
-          "score": 94
-        },
-        {
-          "keyword": "フレディ・フリーマン",
-          "score": 93
-        },
-        {
-          "keyword": "中谷潤人",
-          "score": 92
-        },
-        {
-          "keyword": "東洋エンジニアリング",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-23T21:37:12.777Z",
       "geo": "JP",
       "source": "google",
@@ -3429,6 +3382,53 @@
         },
         {
           "keyword": "アーム 株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-27T21:31:48.199Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "otc類似薬",
+          "score": 100
+        },
+        {
+          "keyword": "ラツィオ 対 ウディネーゼ",
+          "score": 99
+        },
+        {
+          "keyword": "キックス 新型",
+          "score": 98
+        },
+        {
+          "keyword": "京阪",
+          "score": 97
+        },
+        {
+          "keyword": "天皇",
+          "score": 96
+        },
+        {
+          "keyword": "京阪電車",
+          "score": 95
+        },
+        {
+          "keyword": "山下 智久",
+          "score": 94
+        },
+        {
+          "keyword": "東京ディズニーシー",
+          "score": 93
+        },
+        {
+          "keyword": "見逃し三振",
+          "score": 92
+        },
+        {
+          "keyword": "vix指数",
           "score": 91
         }
       ]

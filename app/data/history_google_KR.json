@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-23T20:42:52.450Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "삼성sdi",
-          "score": 100
-        },
-        {
-          "keyword": "서장훈",
-          "score": 99
-        },
-        {
-          "keyword": "한동훈",
-          "score": 98
-        },
-        {
-          "keyword": "전북특별자치도지사",
-          "score": 97
-        },
-        {
-          "keyword": "왕다루",
-          "score": 96
-        },
-        {
-          "keyword": "시그널",
-          "score": 95
-        },
-        {
-          "keyword": "모하메드 살라",
-          "score": 94
-        },
-        {
-          "keyword": "공화당",
-          "score": 93
-        },
-        {
-          "keyword": "윤하정",
-          "score": 92
-        },
-        {
-          "keyword": "청남대",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-23T21:37:11.529Z",
       "geo": "KR",
       "source": "google",
@@ -3429,6 +3382,53 @@
         },
         {
           "keyword": "배성재",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-27T21:31:46.782Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "한미반도체",
+          "score": 100
+        },
+        {
+          "keyword": "커피",
+          "score": 99
+        },
+        {
+          "keyword": "정연",
+          "score": 98
+        },
+        {
+          "keyword": "여론 조사",
+          "score": 97
+        },
+        {
+          "keyword": "위조품",
+          "score": 96
+        },
+        {
+          "keyword": "조상현",
+          "score": 95
+        },
+        {
+          "keyword": "브리지트 마크롱",
+          "score": 94
+        },
+        {
+          "keyword": "신문 배달",
+          "score": 93
+        },
+        {
+          "keyword": "man united vs brentford",
+          "score": 92
+        },
+        {
+          "keyword": "셀트리온",
           "score": 91
         }
       ]
