@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-23T23:36:21.118Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "반도체",
-          "score": 100
-        },
-        {
-          "keyword": "안선영",
-          "score": 99
-        },
-        {
-          "keyword": "운세",
-          "score": 98
-        },
-        {
-          "keyword": "조갑경",
-          "score": 97
-        },
-        {
-          "keyword": "경찰",
-          "score": 96
-        },
-        {
-          "keyword": "간식",
-          "score": 95
-        },
-        {
-          "keyword": "ipl",
-          "score": 94
-        },
-        {
-          "keyword": "용준형",
-          "score": 93
-        },
-        {
-          "keyword": "김혜성",
-          "score": 92
-        },
-        {
-          "keyword": "초과 근무",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-24T01:43:52.728Z",
       "geo": "KR",
       "source": "google",
@@ -3382,6 +3335,53 @@
         },
         {
           "keyword": "xsmb",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-27T23:42:40.968Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "오늘 날씨",
+          "score": 100
+        },
+        {
+          "keyword": "고효준",
+          "score": 99
+        },
+        {
+          "keyword": "공공기관",
+          "score": 98
+        },
+        {
+          "keyword": "왕즈이",
+          "score": 97
+        },
+        {
+          "keyword": "스페이스x",
+          "score": 96
+        },
+        {
+          "keyword": "삼성 갤럭시 z 시리즈",
+          "score": 95
+        },
+        {
+          "keyword": "광전자",
+          "score": 94
+        },
+        {
+          "keyword": "황매산",
+          "score": 93
+        },
+        {
+          "keyword": "погода",
+          "score": 92
+        },
+        {
+          "keyword": "오늘의 운세",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-23T23:36:19.925Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kirk cousins",
-          "score": 100
-        },
-        {
-          "keyword": "nicky lopez",
-          "score": 99
-        },
-        {
-          "keyword": "timberwolves schedule",
-          "score": 98
-        },
-        {
-          "keyword": "tnt",
-          "score": 97
-        },
-        {
-          "keyword": "jazz chisholm jr.",
-          "score": 96
-        },
-        {
-          "keyword": "knicks game",
-          "score": 95
-        },
-        {
-          "keyword": "hurricanes vs senators",
-          "score": 94
-        },
-        {
-          "keyword": "cedric the entertainer",
-          "score": 93
-        },
-        {
-          "keyword": "roger goodell",
-          "score": 92
-        },
-        {
-          "keyword": "fort collins fire",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-24T01:43:51.550Z",
       "geo": "US",
       "source": "google",
@@ -3382,6 +3335,53 @@
         },
         {
           "keyword": "dhs funding",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-27T23:42:39.485Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jeopardy",
+          "score": 100
+        },
+        {
+          "keyword": "daniel schneemann",
+          "score": 99
+        },
+        {
+          "keyword": "jamie ding",
+          "score": 98
+        },
+        {
+          "keyword": "jeopardy today",
+          "score": 97
+        },
+        {
+          "keyword": "nba tonight",
+          "score": 96
+        },
+        {
+          "keyword": "scarpetta prime video series",
+          "score": 95
+        },
+        {
+          "keyword": "elmer soderblom",
+          "score": 94
+        },
+        {
+          "keyword": "yankees vs rangers",
+          "score": 93
+        },
+        {
+          "keyword": "rookie of the year nba",
+          "score": 92
+        },
+        {
+          "keyword": "nathan chasing horse",
           "score": 91
         }
       ]
