@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-23T06:55:15.147Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "서울아산병원",
-          "score": 100
-        },
-        {
-          "keyword": "탐나는전",
-          "score": 99
-        },
-        {
-          "keyword": "bangladesh vs new zealand",
-          "score": 98
-        },
-        {
-          "keyword": "골드만삭스",
-          "score": 97
-        },
-        {
-          "keyword": "기업형 슈퍼마켓",
-          "score": 96
-        },
-        {
-          "keyword": "김래원",
-          "score": 95
-        },
-        {
-          "keyword": "김원중",
-          "score": 94
-        },
-        {
-          "keyword": "이명세",
-          "score": 93
-        },
-        {
-          "keyword": "조선소",
-          "score": 92
-        },
-        {
-          "keyword": "엘지트윈스",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-04-23T08:28:42.035Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "대원전선",
-          "score": 100
-        },
-        {
-          "keyword": "모두의창업",
-          "score": 99
-        },
-        {
-          "keyword": "지방은행",
-          "score": 98
-        },
-        {
-          "keyword": "바이올린",
-          "score": 97
-        },
-        {
-          "keyword": "피파",
-          "score": 96
-        },
-        {
-          "keyword": "이건주",
-          "score": 95
-        },
-        {
-          "keyword": "정몽규",
-          "score": 94
-        },
-        {
-          "keyword": "고속철도",
-          "score": 93
-        },
-        {
-          "keyword": "혼다",
-          "score": 92
-        },
-        {
-          "keyword": "원더풀스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-23T10:05:01.259Z",
       "geo": "KR",
       "source": "google",
@@ -3523,6 +3429,53 @@
         },
         {
           "keyword": "한전",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-27T09:12:23.134Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "여론",
+          "score": 100
+        },
+        {
+          "keyword": "머니투데이",
+          "score": 99
+        },
+        {
+          "keyword": "구미시",
+          "score": 98
+        },
+        {
+          "keyword": "현대모비스",
+          "score": 97
+        },
+        {
+          "keyword": "무명전설",
+          "score": 96
+        },
+        {
+          "keyword": "가상자산",
+          "score": 95
+        },
+        {
+          "keyword": "보통 사람들",
+          "score": 94
+        },
+        {
+          "keyword": "전북특별자치도지사",
+          "score": 93
+        },
+        {
+          "keyword": "문재인",
+          "score": 92
+        },
+        {
+          "keyword": "한화시스템",
           "score": 91
         }
       ]
