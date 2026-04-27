@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-23T21:37:12.777Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "小関裕太",
-          "score": 100
-        },
-        {
-          "keyword": "大井競馬場",
-          "score": 99
-        },
-        {
-          "keyword": "日比野芽奈",
-          "score": 98
-        },
-        {
-          "keyword": "今日 天気",
-          "score": 97
-        },
-        {
-          "keyword": "ホワイトソックス",
-          "score": 96
-        },
-        {
-          "keyword": "ゴールデンウィーク",
-          "score": 95
-        },
-        {
-          "keyword": "カブス",
-          "score": 94
-        },
-        {
-          "keyword": "中田翔",
-          "score": 93
-        },
-        {
-          "keyword": "schd",
-          "score": 92
-        },
-        {
-          "keyword": "小柳ルミ子",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-04-23T22:34:28.576Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "クロードミュトス",
-          "score": 100
-        },
-        {
-          "keyword": "飛騨高山",
-          "score": 99
-        },
-        {
-          "keyword": "ひまわり 朝ドラ",
-          "score": 98
-        },
-        {
-          "keyword": "麻疹",
-          "score": 97
-        },
-        {
-          "keyword": "松嶋菜々子",
-          "score": 96
-        },
-        {
-          "keyword": "メキシコ",
-          "score": 95
-        },
-        {
-          "keyword": "白骨化",
-          "score": 94
-        },
-        {
-          "keyword": "はしか",
-          "score": 93
-        },
-        {
-          "keyword": "ロードスターミーティング",
-          "score": 92
-        },
-        {
-          "keyword": "タナー・スコット",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-23T23:36:22.515Z",
       "geo": "JP",
       "source": "google",
@@ -3429,6 +3335,53 @@
         },
         {
           "keyword": "vix指数",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-27T22:39:34.958Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "メリルストリープ",
+          "score": 100
+        },
+        {
+          "keyword": "気象予報士",
+          "score": 99
+        },
+        {
+          "keyword": "jr東海",
+          "score": 98
+        },
+        {
+          "keyword": "ブルージェイズ 対 レッドソックス",
+          "score": 97
+        },
+        {
+          "keyword": "jr中央線",
+          "score": 96
+        },
+        {
+          "keyword": "吉川尚輝",
+          "score": 95
+        },
+        {
+          "keyword": "シント=トロイデンvv",
+          "score": 94
+        },
+        {
+          "keyword": "長崎天気",
+          "score": 93
+        },
+        {
+          "keyword": "悪性",
+          "score": 92
+        },
+        {
+          "keyword": "necレッドロケッツ川崎",
           "score": 91
         }
       ]
