@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-23T04:43:28.354Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "村上宗隆",
-          "score": 100
-        },
-        {
-          "keyword": "桜井日奈子",
-          "score": 99
-        },
-        {
-          "keyword": "佐久間宣行",
-          "score": 98
-        },
-        {
-          "keyword": "高橋克典",
-          "score": 97
-        },
-        {
-          "keyword": "新しい地図",
-          "score": 96
-        },
-        {
-          "keyword": "村上春樹",
-          "score": 95
-        },
-        {
-          "keyword": "百貨店",
-          "score": 94
-        },
-        {
-          "keyword": "大谷翔平",
-          "score": 93
-        },
-        {
-          "keyword": "マリオ 映画 ポップコーン",
-          "score": 92
-        },
-        {
-          "keyword": "大谷翔平 成績",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-23T06:55:16.536Z",
       "geo": "JP",
       "source": "google",
@@ -3523,6 +3476,53 @@
         },
         {
           "keyword": "電動バス",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-27T06:44:30.617Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "イラン ホルムズ 海峡",
+          "score": 100
+        },
+        {
+          "keyword": "レイザーラモンhg",
+          "score": 99
+        },
+        {
+          "keyword": "百貨店",
+          "score": 98
+        },
+        {
+          "keyword": "日立製作所",
+          "score": 97
+        },
+        {
+          "keyword": "塩見泰隆",
+          "score": 96
+        },
+        {
+          "keyword": "藤田ニコル",
+          "score": 95
+        },
+        {
+          "keyword": "野村ホールディングス",
+          "score": 94
+        },
+        {
+          "keyword": "新垣結衣",
+          "score": 93
+        },
+        {
+          "keyword": "丸山 忠久",
+          "score": 92
+        },
+        {
+          "keyword": "tokyo dream park",
           "score": 91
         }
       ]

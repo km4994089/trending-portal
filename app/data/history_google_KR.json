@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-23T04:43:27.001Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "심우정",
-          "score": 100
-        },
-        {
-          "keyword": "양정무",
-          "score": 99
-        },
-        {
-          "keyword": "박준현",
-          "score": 98
-        },
-        {
-          "keyword": "오재원",
-          "score": 97
-        },
-        {
-          "keyword": "듀오",
-          "score": 96
-        },
-        {
-          "keyword": "애견 카페",
-          "score": 95
-        },
-        {
-          "keyword": "asml 홀딩",
-          "score": 94
-        },
-        {
-          "keyword": "도시 재개발",
-          "score": 93
-        },
-        {
-          "keyword": "오타니",
-          "score": 92
-        },
-        {
-          "keyword": "주민등록등본",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-23T06:55:15.147Z",
       "geo": "KR",
       "source": "google",
@@ -3523,6 +3476,53 @@
         },
         {
           "keyword": "에어로케이",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-27T06:44:29.293Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "뉴스파이터",
+          "score": 100
+        },
+        {
+          "keyword": "코인니스",
+          "score": 99
+        },
+        {
+          "keyword": "골든위크",
+          "score": 98
+        },
+        {
+          "keyword": "한국토지주택공사",
+          "score": 97
+        },
+        {
+          "keyword": "손예진",
+          "score": 96
+        },
+        {
+          "keyword": "최진실",
+          "score": 95
+        },
+        {
+          "keyword": "전은비",
+          "score": 94
+        },
+        {
+          "keyword": "세무조사",
+          "score": 93
+        },
+        {
+          "keyword": "엘지트윈스",
+          "score": 92
+        },
+        {
+          "keyword": "한전",
           "score": 91
         }
       ]
