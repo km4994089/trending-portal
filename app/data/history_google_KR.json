@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-22T23:38:29.027Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "프리미어리그",
-          "score": 100
-        },
-        {
-          "keyword": "운세",
-          "score": 99
-        },
-        {
-          "keyword": "청바지",
-          "score": 98
-        },
-        {
-          "keyword": "일등석",
-          "score": 97
-        },
-        {
-          "keyword": "국립세종수목원",
-          "score": 96
-        },
-        {
-          "keyword": "하이닉스 실적",
-          "score": 95
-        },
-        {
-          "keyword": "삼성바이오로직스",
-          "score": 94
-        },
-        {
-          "keyword": "барселона – сельта",
-          "score": 93
-        },
-        {
-          "keyword": "평택시",
-          "score": 92
-        },
-        {
-          "keyword": "코파 이탈리아",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-23T01:44:43.447Z",
       "geo": "KR",
       "source": "google",
@@ -3523,6 +3476,53 @@
         },
         {
           "keyword": "샌프란시스코 자이언츠",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-27T00:05:19.644Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "송언석",
+          "score": 100
+        },
+        {
+          "keyword": "파나마 운하",
+          "score": 99
+        },
+        {
+          "keyword": "kb국민은행",
+          "score": 98
+        },
+        {
+          "keyword": "용인반도체클러스터",
+          "score": 97
+        },
+        {
+          "keyword": "대전광역시",
+          "score": 96
+        },
+        {
+          "keyword": "은행",
+          "score": 95
+        },
+        {
+          "keyword": "오타니 쇼헤이",
+          "score": 94
+        },
+        {
+          "keyword": "신도시",
+          "score": 93
+        },
+        {
+          "keyword": "주거",
+          "score": 92
+        },
+        {
+          "keyword": "허수아비",
           "score": 91
         }
       ]
