@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-23T10:05:02.469Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "star",
-          "score": 100
-        },
-        {
-          "keyword": "佐野 勇 斗",
-          "score": 99
-        },
-        {
-          "keyword": "荒牧慶彦",
-          "score": 98
-        },
-        {
-          "keyword": "大東駿介",
-          "score": 97
-        },
-        {
-          "keyword": "吉田沙保里",
-          "score": 96
-        },
-        {
-          "keyword": "ミャクミャク",
-          "score": 95
-        },
-        {
-          "keyword": "東京モノレール",
-          "score": 94
-        },
-        {
-          "keyword": "ライオンズ",
-          "score": 93
-        },
-        {
-          "keyword": "阪神タイガース 今日の試合",
-          "score": 92
-        },
-        {
-          "keyword": "鳥貴族",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-23T11:36:28.808Z",
       "geo": "JP",
       "source": "google",
@@ -3476,6 +3429,53 @@
         },
         {
           "keyword": "阿部寛",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-27T11:21:11.893Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "深瀬",
+          "score": 100
+        },
+        {
+          "keyword": "高市内閣 支持率",
+          "score": 99
+        },
+        {
+          "keyword": "那須雄登",
+          "score": 98
+        },
+        {
+          "keyword": "張本智和",
+          "score": 97
+        },
+        {
+          "keyword": "スターダスト",
+          "score": 96
+        },
+        {
+          "keyword": "宮川大輔",
+          "score": 95
+        },
+        {
+          "keyword": "杉谷拳士",
+          "score": 94
+        },
+        {
+          "keyword": "エイドリアン ニューウェイ",
+          "score": 93
+        },
+        {
+          "keyword": "埼玉",
+          "score": 92
+        },
+        {
+          "keyword": "league of legends",
           "score": 91
         }
       ]

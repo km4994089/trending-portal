@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-23T10:04:59.952Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "miomir kecmanovic",
-          "score": 100
-        },
-        {
-          "keyword": "elina svitolina",
-          "score": 99
-        },
-        {
-          "keyword": "ndtv",
-          "score": 98
-        },
-        {
-          "keyword": "emily hart",
-          "score": 97
-        },
-        {
-          "keyword": "belinda bencic",
-          "score": 96
-        },
-        {
-          "keyword": "iran us war news",
-          "score": 95
-        },
-        {
-          "keyword": "burmese pythons in florida",
-          "score": 94
-        },
-        {
-          "keyword": "judge blocks virginia redistricting",
-          "score": 93
-        },
-        {
-          "keyword": "pick 4",
-          "score": 92
-        },
-        {
-          "keyword": "disneyland ticket prices",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-23T11:36:26.422Z",
       "geo": "US",
       "source": "google",
@@ -3476,6 +3429,53 @@
         },
         {
           "keyword": "qatar airways",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-27T11:21:09.635Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "el salvador",
+          "score": 100
+        },
+        {
+          "keyword": "nws",
+          "score": 99
+        },
+        {
+          "keyword": "sophie cunningham",
+          "score": 98
+        },
+        {
+          "keyword": "travis kelce",
+          "score": 97
+        },
+        {
+          "keyword": "omny",
+          "score": 96
+        },
+        {
+          "keyword": "amd stock price",
+          "score": 95
+        },
+        {
+          "keyword": "tennis scores",
+          "score": 94
+        },
+        {
+          "keyword": "party city staples partnership",
+          "score": 93
+        },
+        {
+          "keyword": "irán",
+          "score": 92
+        },
+        {
+          "keyword": "louisville weather",
           "score": 91
         }
       ]
