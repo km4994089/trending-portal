@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-24T20:36:14.702Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "코스닥",
-          "score": 100
-        },
-        {
-          "keyword": "이광재",
-          "score": 99
-        },
-        {
-          "keyword": "real betis vs real madrid",
-          "score": 98
-        },
-        {
-          "keyword": "트와이스",
-          "score": 97
-        },
-        {
-          "keyword": "경기장",
-          "score": 96
-        },
-        {
-          "keyword": "s",
-          "score": 95
-        },
-        {
-          "keyword": "엔비디아 주가",
-          "score": 94
-        },
-        {
-          "keyword": "이경실",
-          "score": 93
-        },
-        {
-          "keyword": "신발",
-          "score": 92
-        },
-        {
-          "keyword": "하현상",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-24T21:38:52.940Z",
       "geo": "KR",
       "source": "google",
@@ -3194,6 +3147,53 @@
         },
         {
           "keyword": "김혜수",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-28T21:07:14.179Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "당구",
+          "score": 100
+        },
+        {
+          "keyword": "현대로템",
+          "score": 99
+        },
+        {
+          "keyword": "psg đấu với bayern",
+          "score": 98
+        },
+        {
+          "keyword": "심우면 연리리",
+          "score": 97
+        },
+        {
+          "keyword": "삼성",
+          "score": 96
+        },
+        {
+          "keyword": "김신영",
+          "score": 95
+        },
+        {
+          "keyword": "해외축구",
+          "score": 94
+        },
+        {
+          "keyword": "psg vs bayern",
+          "score": 93
+        },
+        {
+          "keyword": "psg",
+          "score": 92
+        },
+        {
+          "keyword": "claude",
           "score": 91
         }
       ]
