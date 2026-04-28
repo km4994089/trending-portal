@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-24T22:31:59.078Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ディズニーランド",
-          "score": 100
-        },
-        {
-          "keyword": "西山貴浩",
-          "score": 99
-        },
-        {
-          "keyword": "油井亀美也",
-          "score": 98
-        },
-        {
-          "keyword": "四国",
-          "score": 97
-        },
-        {
-          "keyword": "クオーツ心斎橋",
-          "score": 96
-        },
-        {
-          "keyword": "dayday",
-          "score": 95
-        },
-        {
-          "keyword": "レビット報道官",
-          "score": 94
-        },
-        {
-          "keyword": "鈴木奈穂子",
-          "score": 93
-        },
-        {
-          "keyword": "大城卓三",
-          "score": 92
-        },
-        {
-          "keyword": "クレーン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-24T23:32:28.726Z",
       "geo": "JP",
       "source": "google",
@@ -3194,6 +3147,53 @@
         },
         {
           "keyword": "金相場",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-28T23:28:24.729Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "参議院",
+          "score": 100
+        },
+        {
+          "keyword": "三浦 祐太朗",
+          "score": 99
+        },
+        {
+          "keyword": "ニトリ",
+          "score": 98
+        },
+        {
+          "keyword": "不動産バブル",
+          "score": 97
+        },
+        {
+          "keyword": "109シネマズ",
+          "score": 96
+        },
+        {
+          "keyword": "風薫る 相関図",
+          "score": 95
+        },
+        {
+          "keyword": "郡山シティマラソン",
+          "score": 94
+        },
+        {
+          "keyword": "レゴランド",
+          "score": 93
+        },
+        {
+          "keyword": "スター・ウォーズ",
+          "score": 92
+        },
+        {
+          "keyword": "セルティックス 対 シクサーズ",
           "score": 91
         }
       ]
