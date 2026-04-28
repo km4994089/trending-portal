@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-24T06:59:04.078Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ktla",
-          "score": 100
-        },
-        {
-          "keyword": "melissa mccarthy svu",
-          "score": 99
-        },
-        {
-          "keyword": "peter thiel",
-          "score": 98
-        },
-        {
-          "keyword": "gwen stefani",
-          "score": 97
-        },
-        {
-          "keyword": "ana de armas",
-          "score": 96
-        },
-        {
-          "keyword": "rush hour",
-          "score": 95
-        },
-        {
-          "keyword": "jorma taccone",
-          "score": 94
-        },
-        {
-          "keyword": "laura dern",
-          "score": 93
-        },
-        {
-          "keyword": "jason momoa",
-          "score": 92
-        },
-        {
-          "keyword": "reconciliation",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-24T08:59:49.415Z",
       "geo": "US",
       "source": "google",
@@ -3382,6 +3335,53 @@
         },
         {
           "keyword": "max",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-28T07:43:30.469Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "rose byrne",
+          "score": 100
+        },
+        {
+          "keyword": "fha loans",
+          "score": 99
+        },
+        {
+          "keyword": "stanley tucci",
+          "score": 98
+        },
+        {
+          "keyword": "tornado watch vs warning",
+          "score": 97
+        },
+        {
+          "keyword": "personal injury attorneys",
+          "score": 96
+        },
+        {
+          "keyword": "arc raiders update",
+          "score": 95
+        },
+        {
+          "keyword": "league of legends",
+          "score": 94
+        },
+        {
+          "keyword": "singapore",
+          "score": 93
+        },
+        {
+          "keyword": "marc izard",
+          "score": 92
+        },
+        {
+          "keyword": "mpox",
           "score": 91
         }
       ]
