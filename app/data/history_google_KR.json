@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-24T18:36:46.792Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "s",
-          "score": 100
-        },
-        {
-          "keyword": "엔비디아 주가",
-          "score": 99
-        },
-        {
-          "keyword": "이경실",
-          "score": 98
-        },
-        {
-          "keyword": "신발",
-          "score": 97
-        },
-        {
-          "keyword": "하현상",
-          "score": 96
-        },
-        {
-          "keyword": "김수희",
-          "score": 95
-        },
-        {
-          "keyword": "gt vs rcb",
-          "score": 94
-        },
-        {
-          "keyword": "amd 주가",
-          "score": 93
-        },
-        {
-          "keyword": "야닉 시너",
-          "score": 92
-        },
-        {
-          "keyword": "할인",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-04-24T19:43:32.773Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "트와이스",
-          "score": 100
-        },
-        {
-          "keyword": "경기장",
-          "score": 99
-        },
-        {
-          "keyword": "s",
-          "score": 98
-        },
-        {
-          "keyword": "엔비디아 주가",
-          "score": 97
-        },
-        {
-          "keyword": "이경실",
-          "score": 96
-        },
-        {
-          "keyword": "신발",
-          "score": 95
-        },
-        {
-          "keyword": "하현상",
-          "score": 94
-        },
-        {
-          "keyword": "김수희",
-          "score": 93
-        },
-        {
-          "keyword": "gt vs rcb",
-          "score": 92
-        },
-        {
-          "keyword": "amd 주가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-24T20:36:14.702Z",
       "geo": "KR",
       "source": "google",
@@ -3241,6 +3147,53 @@
         },
         {
           "keyword": "무리뉴",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-28T19:59:11.571Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "psg vs bayern",
+          "score": 100
+        },
+        {
+          "keyword": "psg",
+          "score": 99
+        },
+        {
+          "keyword": "claude",
+          "score": 98
+        },
+        {
+          "keyword": "psg 대 바이에른",
+          "score": 97
+        },
+        {
+          "keyword": "범죄",
+          "score": 96
+        },
+        {
+          "keyword": "netflix",
+          "score": 95
+        },
+        {
+          "keyword": "테슬라 모델 y",
+          "score": 94
+        },
+        {
+          "keyword": "아주ib투자",
+          "score": 93
+        },
+        {
+          "keyword": "호종컵",
+          "score": 92
+        },
+        {
+          "keyword": "김혜수",
           "score": 91
         }
       ]
