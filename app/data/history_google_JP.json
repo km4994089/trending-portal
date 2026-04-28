@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-24T08:59:52.603Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "甲斐拓也",
-          "score": 100
-        },
-        {
-          "keyword": "同志社",
-          "score": 99
-        },
-        {
-          "keyword": "アダストリア",
-          "score": 98
-        },
-        {
-          "keyword": "名鉄 運転見合わせ",
-          "score": 97
-        },
-        {
-          "keyword": "糸谷哲郎",
-          "score": 96
-        },
-        {
-          "keyword": "小松菜奈",
-          "score": 95
-        },
-        {
-          "keyword": "ストッケ",
-          "score": 94
-        },
-        {
-          "keyword": "グラングリーン大阪",
-          "score": 93
-        },
-        {
-          "keyword": "ミトス",
-          "score": 92
-        },
-        {
-          "keyword": "cio",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-24T10:23:50.341Z",
       "geo": "JP",
       "source": "google",
@@ -3382,6 +3335,53 @@
         },
         {
           "keyword": "西部 方面 戦車 隊",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-28T10:05:34.555Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "阪急電車",
+          "score": 100
+        },
+        {
+          "keyword": "阪急",
+          "score": 99
+        },
+        {
+          "keyword": "阪急京都線",
+          "score": 98
+        },
+        {
+          "keyword": "国民民主党",
+          "score": 97
+        },
+        {
+          "keyword": "山足達也",
+          "score": 96
+        },
+        {
+          "keyword": "石川祐希",
+          "score": 95
+        },
+        {
+          "keyword": "渡邊渚",
+          "score": 94
+        },
+        {
+          "keyword": "レジオネラ",
+          "score": 93
+        },
+        {
+          "keyword": "未来のレモンサワー",
+          "score": 92
+        },
+        {
+          "keyword": "ew",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-24T08:59:51.069Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "록히드 마틴",
-          "score": 100
-        },
-        {
-          "keyword": "5월 4일",
-          "score": 99
-        },
-        {
-          "keyword": "현도훈",
-          "score": 98
-        },
-        {
-          "keyword": "기름",
-          "score": 97
-        },
-        {
-          "keyword": "김용남",
-          "score": 96
-        },
-        {
-          "keyword": "항공 승무원",
-          "score": 95
-        },
-        {
-          "keyword": "외화예금",
-          "score": 94
-        },
-        {
-          "keyword": "김문수",
-          "score": 93
-        },
-        {
-          "keyword": "마동석",
-          "score": 92
-        },
-        {
-          "keyword": "국민연금",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-24T10:23:49.162Z",
       "geo": "KR",
       "source": "google",
@@ -3382,6 +3335,53 @@
         },
         {
           "keyword": "이예원",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-28T10:05:33.272Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "양정원",
+          "score": 100
+        },
+        {
+          "keyword": "한국 여자프로농구",
+          "score": 99
+        },
+        {
+          "keyword": "이호선",
+          "score": 98
+        },
+        {
+          "keyword": "농협",
+          "score": 97
+        },
+        {
+          "keyword": "ssg 대 한화",
+          "score": 96
+        },
+        {
+          "keyword": "kia 대 nc",
+          "score": 95
+        },
+        {
+          "keyword": "삼성 대 두산",
+          "score": 94
+        },
+        {
+          "keyword": "키움 대 롯데",
+          "score": 93
+        },
+        {
+          "keyword": "lg 대 kt",
+          "score": 92
+        },
+        {
+          "keyword": "최민희",
           "score": 91
         }
       ]
