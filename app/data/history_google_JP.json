@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-24T04:47:08.041Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "fukase",
-          "score": 100
-        },
-        {
-          "keyword": "elst",
-          "score": 99
-        },
-        {
-          "keyword": "中島美嘉",
-          "score": 98
-        },
-        {
-          "keyword": "清水邦広",
-          "score": 97
-        },
-        {
-          "keyword": "nvidia",
-          "score": 96
-        },
-        {
-          "keyword": "sabrina carpenter",
-          "score": 95
-        },
-        {
-          "keyword": "アドバンテスト 株価",
-          "score": 94
-        },
-        {
-          "keyword": "世論調査",
-          "score": 93
-        },
-        {
-          "keyword": "yoasobi e-side 4",
-          "score": 92
-        },
-        {
-          "keyword": "物流ニュース",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-24T06:59:06.700Z",
       "geo": "JP",
       "source": "google",
@@ -3382,6 +3335,53 @@
         },
         {
           "keyword": "スマホ農場",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-28T05:26:47.214Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ストリートファイター",
+          "score": 100
+        },
+        {
+          "keyword": "ピート・フェアバンクス",
+          "score": 99
+        },
+        {
+          "keyword": "東京理科大学",
+          "score": 98
+        },
+        {
+          "keyword": "北洋銀行",
+          "score": 97
+        },
+        {
+          "keyword": "トミー・バストウ",
+          "score": 96
+        },
+        {
+          "keyword": "ルセラフィム",
+          "score": 95
+        },
+        {
+          "keyword": "習近平",
+          "score": 94
+        },
+        {
+          "keyword": "田中達也",
+          "score": 93
+        },
+        {
+          "keyword": "スペンサー・ジョーンズ",
+          "score": 92
+        },
+        {
+          "keyword": "関電工",
           "score": 91
         }
       ]
