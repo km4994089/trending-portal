@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-24T01:43:54.119Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "安田美沙子",
-          "score": 100
-        },
-        {
-          "keyword": "ウルブズ 対 ナゲッツ",
-          "score": 99
-        },
-        {
-          "keyword": "テラドローン 株価",
-          "score": 98
-        },
-        {
-          "keyword": "jcb",
-          "score": 97
-        },
-        {
-          "keyword": "トヨタ 株価",
-          "score": 96
-        },
-        {
-          "keyword": "nfl",
-          "score": 95
-        },
-        {
-          "keyword": "和田明日香",
-          "score": 94
-        },
-        {
-          "keyword": "エホバの証人",
-          "score": 93
-        },
-        {
-          "keyword": "上田竜也",
-          "score": 92
-        },
-        {
-          "keyword": "水崎綾女",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-24T04:47:08.041Z",
       "geo": "JP",
       "source": "google",
@@ -3382,6 +3335,53 @@
         },
         {
           "keyword": "スコットランド",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-28T01:57:12.106Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "pixel 6",
+          "score": 100
+        },
+        {
+          "keyword": "マイケル",
+          "score": 99
+        },
+        {
+          "keyword": "郵便",
+          "score": 98
+        },
+        {
+          "keyword": "甲斐拓也",
+          "score": 97
+        },
+        {
+          "keyword": "箱根",
+          "score": 96
+        },
+        {
+          "keyword": "映画 マイケル",
+          "score": 95
+        },
+        {
+          "keyword": "大阪城",
+          "score": 94
+        },
+        {
+          "keyword": "滝沢カレン",
+          "score": 93
+        },
+        {
+          "keyword": "一軍",
+          "score": 92
+        },
+        {
+          "keyword": "スマホ農場",
           "score": 91
         }
       ]
