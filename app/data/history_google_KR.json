@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-25T23:28:48.462Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "항공기",
-          "score": 100
-        },
-        {
-          "keyword": "벌금",
-          "score": 99
-        },
-        {
-          "keyword": "송성문",
-          "score": 98
-        },
-        {
-          "keyword": "변영주",
-          "score": 97
-        },
-        {
-          "keyword": "함소원",
-          "score": 96
-        },
-        {
-          "keyword": "주성엔지니어링",
-          "score": 95
-        },
-        {
-          "keyword": "서울하프마라톤",
-          "score": 94
-        },
-        {
-          "keyword": "화물연대",
-          "score": 93
-        },
-        {
-          "keyword": "재건축",
-          "score": 92
-        },
-        {
-          "keyword": "불펜",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-26T00:02:53.850Z",
       "geo": "KR",
       "source": "google",
@@ -2771,6 +2724,53 @@
         },
         {
           "keyword": "천안시",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-29T23:43:41.024Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "내 새끼의 연애",
+          "score": 100
+        },
+        {
+          "keyword": "이찬혁",
+          "score": 99
+        },
+        {
+          "keyword": "돈",
+          "score": 98
+        },
+        {
+          "keyword": "박원숙",
+          "score": 97
+        },
+        {
+          "keyword": "2026",
+          "score": 96
+        },
+        {
+          "keyword": "김혜성",
+          "score": 95
+        },
+        {
+          "keyword": "aapl",
+          "score": 94
+        },
+        {
+          "keyword": "네이마르",
+          "score": 93
+        },
+        {
+          "keyword": "충남 아산 fc",
+          "score": 92
+        },
+        {
+          "keyword": "배드민턴",
           "score": 91
         }
       ]
