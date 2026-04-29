@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-25T21:57:56.138Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "youtuber",
-          "score": 100
-        },
-        {
-          "keyword": "羽田美智子",
-          "score": 99
-        },
-        {
-          "keyword": "山本耕史",
-          "score": 98
-        },
-        {
-          "keyword": "天氣",
-          "score": 97
-        },
-        {
-          "keyword": "冨安健洋",
-          "score": 96
-        },
-        {
-          "keyword": "供給ショック",
-          "score": 95
-        },
-        {
-          "keyword": "atlético madrid vs athletic club",
-          "score": 94
-        },
-        {
-          "keyword": "沖縄天気",
-          "score": 93
-        },
-        {
-          "keyword": "jr東日本",
-          "score": 92
-        },
-        {
-          "keyword": "jr",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-04-25T22:33:42.943Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "トカラ列島",
-          "score": 100
-        },
-        {
-          "keyword": "チェルノブイリ",
-          "score": 99
-        },
-        {
-          "keyword": "名人戦",
-          "score": 98
-        },
-        {
-          "keyword": "相撲",
-          "score": 97
-        },
-        {
-          "keyword": "礼真琴",
-          "score": 96
-        },
-        {
-          "keyword": "オートポリス",
-          "score": 95
-        },
-        {
-          "keyword": "岩井明愛",
-          "score": 94
-        },
-        {
-          "keyword": "卓球",
-          "score": 93
-        },
-        {
-          "keyword": "久慈アナ",
-          "score": 92
-        },
-        {
-          "keyword": "西日本新聞",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-25T23:28:49.698Z",
       "geo": "JP",
       "source": "google",
@@ -2818,6 +2724,53 @@
         },
         {
           "keyword": "伊藤洋輝",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-29T22:45:27.857Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "パイレーツ 対 カージナルス",
+          "score": 100
+        },
+        {
+          "keyword": "南北線",
+          "score": 99
+        },
+        {
+          "keyword": "高輪ゲートウェイ",
+          "score": 98
+        },
+        {
+          "keyword": "マイクロソフト 決算",
+          "score": 97
+        },
+        {
+          "keyword": "京都市 天気",
+          "score": 96
+        },
+        {
+          "keyword": "京都 天気",
+          "score": 95
+        },
+        {
+          "keyword": "トワイス",
+          "score": 94
+        },
+        {
+          "keyword": "りそな銀行",
+          "score": 93
+        },
+        {
+          "keyword": "東京ドリームパーク",
+          "score": 92
+        },
+        {
+          "keyword": "反町 隆史",
           "score": 91
         }
       ]
