@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-25T04:12:43.318Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "交通違反",
-          "score": 100
-        },
-        {
-          "keyword": "小田急線",
-          "score": 99
-        },
-        {
-          "keyword": "産油国",
-          "score": 98
-        },
-        {
-          "keyword": "軽井沢",
-          "score": 97
-        },
-        {
-          "keyword": "ブレグマン",
-          "score": 96
-        },
-        {
-          "keyword": "磐田 対 岐阜",
-          "score": 95
-        },
-        {
-          "keyword": "デンソー ローム",
-          "score": 94
-        },
-        {
-          "keyword": "ピート・クロウ=アームストロング",
-          "score": 93
-        },
-        {
-          "keyword": "アレックス・ブレグマン",
-          "score": 92
-        },
-        {
-          "keyword": "愛子内親王",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-04-25T06:02:55.492Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "水沢アキ",
-          "score": 100
-        },
-        {
-          "keyword": "佐々木主浩",
-          "score": 99
-        },
-        {
-          "keyword": "平山功太",
-          "score": 98
-        },
-        {
-          "keyword": "いわきfc",
-          "score": 97
-        },
-        {
-          "keyword": "森下翔太",
-          "score": 96
-        },
-        {
-          "keyword": "長岡柚奈",
-          "score": 95
-        },
-        {
-          "keyword": "テゲバジャーロ宮崎",
-          "score": 94
-        },
-        {
-          "keyword": "ジェン・ブイ",
-          "score": 93
-        },
-        {
-          "keyword": "井浦新",
-          "score": 92
-        },
-        {
-          "keyword": "スペース",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-25T07:50:07.374Z",
       "geo": "JP",
       "source": "google",
@@ -3194,6 +3100,53 @@
         },
         {
           "keyword": "バックカントリー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-29T06:41:57.912Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "柏 対 fc東京",
+          "score": 100
+        },
+        {
+          "keyword": "マクドナルド",
+          "score": 99
+        },
+        {
+          "keyword": "池山隆寛",
+          "score": 98
+        },
+        {
+          "keyword": "相棒",
+          "score": 97
+        },
+        {
+          "keyword": "内藤大樹",
+          "score": 96
+        },
+        {
+          "keyword": "坂崎幸之助",
+          "score": 95
+        },
+        {
+          "keyword": "チャウヌ",
+          "score": 94
+        },
+        {
+          "keyword": "テゲバジャーロ宮崎",
+          "score": 93
+        },
+        {
+          "keyword": "石井大智",
+          "score": 92
+        },
+        {
+          "keyword": "水戸 対 町田",
           "score": 91
         }
       ]
