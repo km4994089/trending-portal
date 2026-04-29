@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-24T23:32:28.726Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "磯山さやか",
-          "score": 100
-        },
-        {
-          "keyword": "ブルワーズ 対 パイレーツ",
-          "score": 99
-        },
-        {
-          "keyword": "ロケッツ 対 レイカーズ",
-          "score": 98
-        },
-        {
-          "keyword": "カルディ セール",
-          "score": 97
-        },
-        {
-          "keyword": "田中雅美",
-          "score": 96
-        },
-        {
-          "keyword": "河北新報",
-          "score": 95
-        },
-        {
-          "keyword": "ミスターマックス",
-          "score": 94
-        },
-        {
-          "keyword": "ブレーブス 対 フィリーズ",
-          "score": 93
-        },
-        {
-          "keyword": "アンバース",
-          "score": 92
-        },
-        {
-          "keyword": "与沢翼",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-25T01:24:23.541Z",
       "geo": "JP",
       "source": "google",
@@ -3194,6 +3147,53 @@
         },
         {
           "keyword": "セルティックス 対 シクサーズ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-29T00:13:36.266Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "かつや",
+          "score": 100
+        },
+        {
+          "keyword": "坂本龍一",
+          "score": 99
+        },
+        {
+          "keyword": "オクニョ",
+          "score": 98
+        },
+        {
+          "keyword": "万代",
+          "score": 97
+        },
+        {
+          "keyword": "ソラマチ",
+          "score": 96
+        },
+        {
+          "keyword": "中之島美術館",
+          "score": 95
+        },
+        {
+          "keyword": "mufgスタジアム(国立競技場)",
+          "score": 94
+        },
+        {
+          "keyword": "時すでにおスシ!?",
+          "score": 93
+        },
+        {
+          "keyword": "オートバックス",
+          "score": 92
+        },
+        {
+          "keyword": "ららぽーと豊洲",
           "score": 91
         }
       ]
