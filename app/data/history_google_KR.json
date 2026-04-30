@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-26T00:02:53.850Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이상순",
-          "score": 100
-        },
-        {
-          "keyword": "울릉도",
-          "score": 99
-        },
-        {
-          "keyword": "항공기",
-          "score": 98
-        },
-        {
-          "keyword": "벌금",
-          "score": 97
-        },
-        {
-          "keyword": "송성문",
-          "score": 96
-        },
-        {
-          "keyword": "변영주",
-          "score": 95
-        },
-        {
-          "keyword": "함소원",
-          "score": 94
-        },
-        {
-          "keyword": "서울하프마라톤",
-          "score": 93
-        },
-        {
-          "keyword": "주성엔지니어링",
-          "score": 92
-        },
-        {
-          "keyword": "화물연대",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-26T03:59:27.764Z",
       "geo": "KR",
       "source": "google",
@@ -2771,6 +2724,53 @@
         },
         {
           "keyword": "배드민턴",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-30T01:59:08.109Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "국민카드",
+          "score": 100
+        },
+        {
+          "keyword": "경남도민생활지원금.kr",
+          "score": 99
+        },
+        {
+          "keyword": "대원전선",
+          "score": 98
+        },
+        {
+          "keyword": "데프콘",
+          "score": 97
+        },
+        {
+          "keyword": "신한은행",
+          "score": 96
+        },
+        {
+          "keyword": "연합뉴스tv",
+          "score": 95
+        },
+        {
+          "keyword": "한국여자프로농구",
+          "score": 94
+        },
+        {
+          "keyword": "국립중앙박물관",
+          "score": 93
+        },
+        {
+          "keyword": "미래에셋증권",
+          "score": 92
+        },
+        {
+          "keyword": "국세청 홈택스",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-26T00:02:52.512Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "earthquake",
-          "score": 100
-        },
-        {
-          "keyword": "spike lee",
-          "score": 99
-        },
-        {
-          "keyword": "scooter braun",
-          "score": 98
-        },
-        {
-          "keyword": "jalen brunson injury",
-          "score": 97
-        },
-        {
-          "keyword": "tyren montgomery",
-          "score": 96
-        },
-        {
-          "keyword": "kyron drones",
-          "score": 95
-        },
-        {
-          "keyword": "supercross schedule",
-          "score": 94
-        },
-        {
-          "keyword": "colin rea",
-          "score": 93
-        },
-        {
-          "keyword": "dillon bell",
-          "score": 92
-        },
-        {
-          "keyword": "miller moss",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-26T03:59:26.999Z",
       "geo": "US",
       "source": "google",
@@ -2771,6 +2724,53 @@
         },
         {
           "keyword": "amber alert",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-30T01:59:06.598Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "paolo banchero",
+          "score": 100
+        },
+        {
+          "keyword": "st louis cardinals",
+          "score": 99
+        },
+        {
+          "keyword": "jarrett allen",
+          "score": 98
+        },
+        {
+          "keyword": "braves game",
+          "score": 97
+        },
+        {
+          "keyword": "dennis schroder",
+          "score": 96
+        },
+        {
+          "keyword": "liga mx femenil",
+          "score": 95
+        },
+        {
+          "keyword": "chicago fire fc",
+          "score": 94
+        },
+        {
+          "keyword": "arturs silovs",
+          "score": 93
+        },
+        {
+          "keyword": "duncan robinson",
+          "score": 92
+        },
+        {
+          "keyword": "sandro mamukelashvili",
           "score": 91
         }
       ]

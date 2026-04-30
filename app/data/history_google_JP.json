@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-26T00:02:55.221Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "鈴木誠也",
-          "score": 100
-        },
-        {
-          "keyword": "ミトス",
-          "score": 99
-        },
-        {
-          "keyword": "ゲオ",
-          "score": 98
-        },
-        {
-          "keyword": "オリエンタルランド",
-          "score": 97
-        },
-        {
-          "keyword": "ロビンフッド 店舗 予定",
-          "score": 96
-        },
-        {
-          "keyword": "abema 将棋",
-          "score": 95
-        },
-        {
-          "keyword": "シカゴ",
-          "score": 94
-        },
-        {
-          "keyword": "松嶋菜々子",
-          "score": 93
-        },
-        {
-          "keyword": "供給 ショック",
-          "score": 92
-        },
-        {
-          "keyword": "ピート・クロウ=アームストロング",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-26T03:59:29.059Z",
       "geo": "JP",
       "source": "google",
@@ -2771,6 +2724,53 @@
         },
         {
           "keyword": "まんじゅうや",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-30T01:59:09.696Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "谷原 柚 希",
+          "score": 100
+        },
+        {
+          "keyword": "菅野智之",
+          "score": 99
+        },
+        {
+          "keyword": "スティンガーグラス",
+          "score": 98
+        },
+        {
+          "keyword": "ソニック",
+          "score": 97
+        },
+        {
+          "keyword": "cve-2026-31431",
+          "score": 96
+        },
+        {
+          "keyword": "アスレチックス 対 ロイヤルズ",
+          "score": 95
+        },
+        {
+          "keyword": "マイクラ",
+          "score": 94
+        },
+        {
+          "keyword": "中国電力",
+          "score": 93
+        },
+        {
+          "keyword": "大阪ガス",
+          "score": 92
+        },
+        {
+          "keyword": "楽天銀行",
           "score": 91
         }
       ]
