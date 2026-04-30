@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-26T23:30:00.970Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "주거",
-          "score": 100
-        },
-        {
-          "keyword": "허수아비",
-          "score": 99
-        },
-        {
-          "keyword": "김인문",
-          "score": 98
-        },
-        {
-          "keyword": "아이언 돔",
-          "score": 97
-        },
-        {
-          "keyword": "시드니 스위니",
-          "score": 96
-        },
-        {
-          "keyword": "아모레퍼시픽",
-          "score": 95
-        },
-        {
-          "keyword": "로베르트 레반도프스키",
-          "score": 94
-        },
-        {
-          "keyword": "weather",
-          "score": 93
-        },
-        {
-          "keyword": "효성중공업",
-          "score": 92
-        },
-        {
-          "keyword": "샌프란시스코 자이언츠",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-27T00:05:19.644Z",
       "geo": "KR",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "어서와~ 한국은 처음이지?",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-30T23:42:03.913Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "한미반도체",
+          "score": 100
+        },
+        {
+          "keyword": "황 유민",
+          "score": 99
+        },
+        {
+          "keyword": "우버 컵",
+          "score": 98
+        },
+        {
+          "keyword": "독일 총리",
+          "score": 97
+        },
+        {
+          "keyword": "주한 미군",
+          "score": 96
+        },
+        {
+          "keyword": "최원태",
+          "score": 95
+        },
+        {
+          "keyword": "aapl",
+          "score": 94
+        },
+        {
+          "keyword": "박지수",
+          "score": 93
+        },
+        {
+          "keyword": "박지훈",
+          "score": 92
+        },
+        {
+          "keyword": "안필립",
           "score": 91
         }
       ]
