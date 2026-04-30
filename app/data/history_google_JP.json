@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-26T21:03:12.202Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "天気予報",
-          "score": 100
-        },
-        {
-          "keyword": "函館地震",
-          "score": 99
-        },
-        {
-          "keyword": "ブレイザーズ 対 スパーズ",
-          "score": 98
-        },
-        {
-          "keyword": "マツダ・ロードスター",
-          "score": 97
-        },
-        {
-          "keyword": "ホルムズ 海峡 封鎖",
-          "score": 96
-        },
-        {
-          "keyword": "青木瀬令奈",
-          "score": 95
-        },
-        {
-          "keyword": "ミゲル・ロハス",
-          "score": 94
-        },
-        {
-          "keyword": "遠藤 航",
-          "score": 93
-        },
-        {
-          "keyword": "堀越麗禾",
-          "score": 92
-        },
-        {
-          "keyword": "ピート・クロウ=アームストロング",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-26T21:58:40.654Z",
       "geo": "JP",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "木村 拓哉",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-30T21:47:37.659Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "錦織圭",
+          "score": 100
+        },
+        {
+          "keyword": "桐山 照史",
+          "score": 99
+        },
+        {
+          "keyword": "nottingham forest vs aston villa",
+          "score": 98
+        },
+        {
+          "keyword": "イオン",
+          "score": 97
+        },
+        {
+          "keyword": "住宅ローン 金利",
+          "score": 96
+        },
+        {
+          "keyword": "森山直太朗",
+          "score": 95
+        },
+        {
+          "keyword": "jr東海",
+          "score": 94
+        },
+        {
+          "keyword": "崎陽軒",
+          "score": 93
+        },
+        {
+          "keyword": "nvda",
+          "score": 92
+        },
+        {
+          "keyword": "井川 遥",
           "score": 91
         }
       ]

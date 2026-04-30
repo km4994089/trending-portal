@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-26T21:03:11.044Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "박지윤",
-          "score": 100
-        },
-        {
-          "keyword": "kt",
-          "score": 99
-        },
-        {
-          "keyword": "제니",
-          "score": 98
-        },
-        {
-          "keyword": "자영업",
-          "score": 97
-        },
-        {
-          "keyword": "ls그룹",
-          "score": 96
-        },
-        {
-          "keyword": "새마을 금고",
-          "score": 95
-        },
-        {
-          "keyword": "경제성장",
-          "score": 94
-        },
-        {
-          "keyword": "adidas",
-          "score": 93
-        },
-        {
-          "keyword": "세리에 a",
-          "score": 92
-        },
-        {
-          "keyword": "암호화폐",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-26T21:58:39.418Z",
       "geo": "KR",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "ps",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-30T21:47:36.432Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "황영웅",
+          "score": 100
+        },
+        {
+          "keyword": "트레이드",
+          "score": 99
+        },
+        {
+          "keyword": "이마트",
+          "score": 98
+        },
+        {
+          "keyword": "민생지원금",
+          "score": 97
+        },
+        {
+          "keyword": "우버컵",
+          "score": 96
+        },
+        {
+          "keyword": "자기주식",
+          "score": 95
+        },
+        {
+          "keyword": "어선",
+          "score": 94
+        },
+        {
+          "keyword": "한화시스템",
+          "score": 93
+        },
+        {
+          "keyword": "추경호",
+          "score": 92
+        },
+        {
+          "keyword": "앙상블",
           "score": 91
         }
       ]
