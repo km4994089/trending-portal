@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-26T20:27:42.245Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "レッドソックス",
-          "score": 100
-        },
-        {
-          "keyword": "ヤンマガ",
-          "score": 99
-        },
-        {
-          "keyword": "cdtv",
-          "score": 98
-        },
-        {
-          "keyword": "野中瑠衣",
-          "score": 97
-        },
-        {
-          "keyword": "ブラディミール・ゲレーロ・ジュニア",
-          "score": 96
-        },
-        {
-          "keyword": "ラプターズ 対 キャバリアーズ",
-          "score": 95
-        },
-        {
-          "keyword": "megumi",
-          "score": 94
-        },
-        {
-          "keyword": "z世代",
-          "score": 93
-        },
-        {
-          "keyword": "シャビ・シモンズ",
-          "score": 92
-        },
-        {
-          "keyword": "ミラン 対 ユヴェントス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-26T21:03:12.202Z",
       "geo": "JP",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "バーンリーfc",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-30T20:50:10.186Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "河出奈都美",
+          "score": 100
+        },
+        {
+          "keyword": "イヌ",
+          "score": 99
+        },
+        {
+          "keyword": "銀河 の 一 票",
+          "score": 98
+        },
+        {
+          "keyword": "サンディスク 決算",
+          "score": 97
+        },
+        {
+          "keyword": "父親",
+          "score": 96
+        },
+        {
+          "keyword": "気象庁 天気予報",
+          "score": 95
+        },
+        {
+          "keyword": "羽生善治",
+          "score": 94
+        },
+        {
+          "keyword": "京都 天気",
+          "score": 93
+        },
+        {
+          "keyword": "クリスタルパレス",
+          "score": 92
+        },
+        {
+          "keyword": "木村 拓哉",
           "score": 91
         }
       ]
