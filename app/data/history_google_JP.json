@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-26T18:36:55.774Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "宇連ダム 貯水率",
-          "score": 100
-        },
-        {
-          "keyword": "櫻坂46",
-          "score": 99
-        },
-        {
-          "keyword": "与沢翼",
-          "score": 98
-        },
-        {
-          "keyword": "岩手県 大槌町 山林火災",
-          "score": 97
-        },
-        {
-          "keyword": "谷原章介",
-          "score": 96
-        },
-        {
-          "keyword": "週間天気予報",
-          "score": 95
-        },
-        {
-          "keyword": "トリノ 対 インテル",
-          "score": 94
-        },
-        {
-          "keyword": "佐野海舟",
-          "score": 93
-        },
-        {
-          "keyword": "チャンミン",
-          "score": 92
-        },
-        {
-          "keyword": "にかほ市",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-04-26T19:38:55.687Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ミラン 対 ユヴェントス",
-          "score": 100
-        },
-        {
-          "keyword": "宇連ダム 貯水率",
-          "score": 99
-        },
-        {
-          "keyword": "宇宙",
-          "score": 98
-        },
-        {
-          "keyword": "櫻坂46",
-          "score": 97
-        },
-        {
-          "keyword": "与沢翼",
-          "score": 96
-        },
-        {
-          "keyword": "岩手県 大槌町 山林火災",
-          "score": 95
-        },
-        {
-          "keyword": "谷原章介",
-          "score": 94
-        },
-        {
-          "keyword": "端午",
-          "score": 93
-        },
-        {
-          "keyword": "週間天気予報",
-          "score": 92
-        },
-        {
-          "keyword": "トリノ 対 インテル",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-26T20:27:42.245Z",
       "geo": "JP",
       "source": "google",
@@ -2536,6 +2442,53 @@
         },
         {
           "keyword": "新日本海フェリー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-30T19:54:25.346Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "雨雲レーダー",
+          "score": 100
+        },
+        {
+          "keyword": "石原宏高",
+          "score": 99
+        },
+        {
+          "keyword": "天気図",
+          "score": 98
+        },
+        {
+          "keyword": "雷",
+          "score": 97
+        },
+        {
+          "keyword": "ノッティンガム・フォレスト 対 アストン・ビラ",
+          "score": 96
+        },
+        {
+          "keyword": "ロト6当選番号速報",
+          "score": 95
+        },
+        {
+          "keyword": "シャフタール・ドネツク 対 クリスタル・パレス",
+          "score": 94
+        },
+        {
+          "keyword": "伊藤 蘭",
+          "score": 93
+        },
+        {
+          "keyword": "火曜ドラマ",
+          "score": 92
+        },
+        {
+          "keyword": "バーンリーfc",
           "score": 91
         }
       ]
