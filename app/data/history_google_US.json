@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-26T12:41:38.824Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "horoscope",
-          "score": 100
-        },
-        {
-          "keyword": "cincinnati weather",
-          "score": 99
-        },
-        {
-          "keyword": "chelsea vs leeds",
-          "score": 98
-        },
-        {
-          "keyword": "jordana brewster",
-          "score": 97
-        },
-        {
-          "keyword": "serie a standings",
-          "score": 96
-        },
-        {
-          "keyword": "championship",
-          "score": 95
-        },
-        {
-          "keyword": "idf",
-          "score": 94
-        },
-        {
-          "keyword": "tax",
-          "score": 93
-        },
-        {
-          "keyword": "law & order: special victims unit",
-          "score": 92
-        },
-        {
-          "keyword": "lorenzo musetti",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-26T13:59:05.031Z",
       "geo": "US",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "rotten tomatoes",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-04-30T13:20:53.345Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "john wall",
+          "score": 100
+        },
+        {
+          "keyword": "janet mills",
+          "score": 99
+        },
+        {
+          "keyword": "zoe hines",
+          "score": 98
+        },
+        {
+          "keyword": "bj novak",
+          "score": 97
+        },
+        {
+          "keyword": "gma deals and steals",
+          "score": 96
+        },
+        {
+          "keyword": "gdp",
+          "score": 95
+        },
+        {
+          "keyword": "dia del niño 2026",
+          "score": 94
+        },
+        {
+          "keyword": "lindsey vonn",
+          "score": 93
+        },
+        {
+          "keyword": "ma stock",
+          "score": 92
+        },
+        {
+          "keyword": "artemis 2 crew",
           "score": 91
         }
       ]
