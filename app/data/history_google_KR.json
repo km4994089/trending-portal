@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-27T00:05:19.644Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "송언석",
-          "score": 100
-        },
-        {
-          "keyword": "파나마 운하",
-          "score": 99
-        },
-        {
-          "keyword": "kb국민은행",
-          "score": 98
-        },
-        {
-          "keyword": "용인반도체클러스터",
-          "score": 97
-        },
-        {
-          "keyword": "대전광역시",
-          "score": 96
-        },
-        {
-          "keyword": "은행",
-          "score": 95
-        },
-        {
-          "keyword": "오타니 쇼헤이",
-          "score": 94
-        },
-        {
-          "keyword": "신도시",
-          "score": 93
-        },
-        {
-          "keyword": "주거",
-          "score": 92
-        },
-        {
-          "keyword": "허수아비",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-27T04:04:06.589Z",
       "geo": "KR",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "안필립",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-01T02:00:47.737Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "수출",
+          "score": 100
+        },
+        {
+          "keyword": "두산베어스",
+          "score": 99
+        },
+        {
+          "keyword": "이상영",
+          "score": 98
+        },
+        {
+          "keyword": "관광객",
+          "score": 97
+        },
+        {
+          "keyword": "유타 레이르담",
+          "score": 96
+        },
+        {
+          "keyword": "롯데홈쇼핑",
+          "score": 95
+        },
+        {
+          "keyword": "필라데피아 대 보스턴",
+          "score": 94
+        },
+        {
+          "keyword": "서울랜드",
+          "score": 93
+        },
+        {
+          "keyword": "테마주",
+          "score": 92
+        },
+        {
+          "keyword": "해고",
           "score": 91
         }
       ]

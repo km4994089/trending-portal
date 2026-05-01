@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-27T00:05:21.860Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "京王線",
-          "score": 100
-        },
-        {
-          "keyword": "山手線",
-          "score": 99
-        },
-        {
-          "keyword": "山形県縦断駅伝 2026",
-          "score": 98
-        },
-        {
-          "keyword": "八十二長野銀行",
-          "score": 97
-        },
-        {
-          "keyword": "pms",
-          "score": 96
-        },
-        {
-          "keyword": "有楽町線",
-          "score": 95
-        },
-        {
-          "keyword": "寺田心",
-          "score": 94
-        },
-        {
-          "keyword": "ぼる塾",
-          "score": 93
-        },
-        {
-          "keyword": "東葉高速鉄道",
-          "score": 92
-        },
-        {
-          "keyword": "はしか",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-27T04:04:07.713Z",
       "geo": "JP",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "菊池亜希子",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-01T02:00:48.896Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "めぐみ",
+          "score": 100
+        },
+        {
+          "keyword": "堀口恭司",
+          "score": 99
+        },
+        {
+          "keyword": "スプラ",
+          "score": 98
+        },
+        {
+          "keyword": "天皇",
+          "score": 97
+        },
+        {
+          "keyword": "ウルブズ 対 ナゲッツ",
+          "score": 96
+        },
+        {
+          "keyword": "たまごっち",
+          "score": 95
+        },
+        {
+          "keyword": "マイクラ",
+          "score": 94
+        },
+        {
+          "keyword": "ソニック",
+          "score": 93
+        },
+        {
+          "keyword": "中村昌也",
+          "score": 92
+        },
+        {
+          "keyword": "さわやか",
           "score": 91
         }
       ]
