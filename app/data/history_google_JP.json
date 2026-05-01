@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-27T21:31:48.199Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "otc類似薬",
-          "score": 100
-        },
-        {
-          "keyword": "ラツィオ 対 ウディネーゼ",
-          "score": 99
-        },
-        {
-          "keyword": "キックス 新型",
-          "score": 98
-        },
-        {
-          "keyword": "京阪",
-          "score": 97
-        },
-        {
-          "keyword": "天皇",
-          "score": 96
-        },
-        {
-          "keyword": "京阪電車",
-          "score": 95
-        },
-        {
-          "keyword": "山下 智久",
-          "score": 94
-        },
-        {
-          "keyword": "東京ディズニーシー",
-          "score": 93
-        },
-        {
-          "keyword": "見逃し三振",
-          "score": 92
-        },
-        {
-          "keyword": "vix指数",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-27T22:39:34.958Z",
       "geo": "JP",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "南野 拓実",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-01T22:09:16.115Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ホンダ 新型",
+          "score": 100
+        },
+        {
+          "keyword": "石田ひかり",
+          "score": 99
+        },
+        {
+          "keyword": "第一ライフグループ",
+          "score": 98
+        },
+        {
+          "keyword": "evモーターズ・ジャパン",
+          "score": 97
+        },
+        {
+          "keyword": "sports",
+          "score": 96
+        },
+        {
+          "keyword": "アドベンチャーワールド",
+          "score": 95
+        },
+        {
+          "keyword": "出雲大社",
+          "score": 94
+        },
+        {
+          "keyword": "常盤貴子",
+          "score": 93
+        },
+        {
+          "keyword": "may 16th",
+          "score": 92
+        },
+        {
+          "keyword": "配当",
           "score": 91
         }
       ]
