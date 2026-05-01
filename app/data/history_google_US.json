@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-27T11:21:09.635Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "el salvador",
-          "score": 100
-        },
-        {
-          "keyword": "nws",
-          "score": 99
-        },
-        {
-          "keyword": "sophie cunningham",
-          "score": 98
-        },
-        {
-          "keyword": "travis kelce",
-          "score": 97
-        },
-        {
-          "keyword": "omny",
-          "score": 96
-        },
-        {
-          "keyword": "amd stock price",
-          "score": 95
-        },
-        {
-          "keyword": "tennis scores",
-          "score": 94
-        },
-        {
-          "keyword": "party city staples partnership",
-          "score": 93
-        },
-        {
-          "keyword": "irán",
-          "score": 92
-        },
-        {
-          "keyword": "louisville weather",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-27T12:58:12.929Z",
       "geo": "US",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "ephrata",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-01T12:10:33.462Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jess hilarious",
+          "score": 100
+        },
+        {
+          "keyword": "mehmet oz",
+          "score": 99
+        },
+        {
+          "keyword": "severance",
+          "score": 98
+        },
+        {
+          "keyword": "georgia power",
+          "score": 97
+        },
+        {
+          "keyword": "hawaiian islands",
+          "score": 96
+        },
+        {
+          "keyword": "dark eagle hypersonic missile",
+          "score": 95
+        },
+        {
+          "keyword": "cvx stock",
+          "score": 94
+        },
+        {
+          "keyword": "james cook",
+          "score": 93
+        },
+        {
+          "keyword": "spencer pratt",
+          "score": 92
+        },
+        {
+          "keyword": "kacey musgraves",
           "score": 91
         }
       ]
