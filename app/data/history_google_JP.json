@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-27T22:39:34.958Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "メリルストリープ",
-          "score": 100
-        },
-        {
-          "keyword": "気象予報士",
-          "score": 99
-        },
-        {
-          "keyword": "jr東海",
-          "score": 98
-        },
-        {
-          "keyword": "ブルージェイズ 対 レッドソックス",
-          "score": 97
-        },
-        {
-          "keyword": "jr中央線",
-          "score": 96
-        },
-        {
-          "keyword": "吉川尚輝",
-          "score": 95
-        },
-        {
-          "keyword": "シント=トロイデンvv",
-          "score": 94
-        },
-        {
-          "keyword": "長崎天気",
-          "score": 93
-        },
-        {
-          "keyword": "悪性",
-          "score": 92
-        },
-        {
-          "keyword": "necレッドロケッツ川崎",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-27T23:42:42.365Z",
       "geo": "JP",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "配当",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-01T23:11:58.233Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "桜井日奈子",
+          "score": 100
+        },
+        {
+          "keyword": "マジック 対 ピストンズ",
+          "score": 99
+        },
+        {
+          "keyword": "大塚愛",
+          "score": 98
+        },
+        {
+          "keyword": "郡司裕也",
+          "score": 97
+        },
+        {
+          "keyword": "競走",
+          "score": 96
+        },
+        {
+          "keyword": "マーリンズ 対 フィリーズ",
+          "score": 95
+        },
+        {
+          "keyword": "松たか子",
+          "score": 94
+        },
+        {
+          "keyword": "ドル",
+          "score": 93
+        },
+        {
+          "keyword": "今井春花",
+          "score": 92
+        },
+        {
+          "keyword": "りくりゅう アイスショー",
           "score": 91
         }
       ]
