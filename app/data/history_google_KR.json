@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-27T09:12:23.134Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "여론",
-          "score": 100
-        },
-        {
-          "keyword": "머니투데이",
-          "score": 99
-        },
-        {
-          "keyword": "구미시",
-          "score": 98
-        },
-        {
-          "keyword": "현대모비스",
-          "score": 97
-        },
-        {
-          "keyword": "무명전설",
-          "score": 96
-        },
-        {
-          "keyword": "가상자산",
-          "score": 95
-        },
-        {
-          "keyword": "보통 사람들",
-          "score": 94
-        },
-        {
-          "keyword": "전북특별자치도지사",
-          "score": 93
-        },
-        {
-          "keyword": "문재인",
-          "score": 92
-        },
-        {
-          "keyword": "한화시스템",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-27T11:21:10.834Z",
       "geo": "KR",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "이미숙",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-01T10:00:15.738Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "전청조",
+          "score": 100
+        },
+        {
+          "keyword": "관광",
+          "score": 99
+        },
+        {
+          "keyword": "구자욱",
+          "score": 98
+        },
+        {
+          "keyword": "박종진",
+          "score": 97
+        },
+        {
+          "keyword": "닛케이 평균주가",
+          "score": 96
+        },
+        {
+          "keyword": "경기도",
+          "score": 95
+        },
+        {
+          "keyword": "룰러",
+          "score": 94
+        },
+        {
+          "keyword": "뮤직뱅크",
+          "score": 93
+        },
+        {
+          "keyword": "한화 대 삼성",
+          "score": 92
+        },
+        {
+          "keyword": "kt 대 kia",
           "score": 91
         }
       ]
