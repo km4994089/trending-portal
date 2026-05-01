@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-27T06:44:29.293Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "뉴스파이터",
-          "score": 100
-        },
-        {
-          "keyword": "코인니스",
-          "score": 99
-        },
-        {
-          "keyword": "골든위크",
-          "score": 98
-        },
-        {
-          "keyword": "한국토지주택공사",
-          "score": 97
-        },
-        {
-          "keyword": "손예진",
-          "score": 96
-        },
-        {
-          "keyword": "최진실",
-          "score": 95
-        },
-        {
-          "keyword": "전은비",
-          "score": 94
-        },
-        {
-          "keyword": "세무조사",
-          "score": 93
-        },
-        {
-          "keyword": "엘지트윈스",
-          "score": 92
-        },
-        {
-          "keyword": "한전",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-27T09:12:23.134Z",
       "geo": "KR",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "아는 형님",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-01T08:01:07.904Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이언주",
+          "score": 100
+        },
+        {
+          "keyword": "암표",
+          "score": 99
+        },
+        {
+          "keyword": "김소영",
+          "score": 98
+        },
+        {
+          "keyword": "김녹완",
+          "score": 97
+        },
+        {
+          "keyword": "공공기관",
+          "score": 96
+        },
+        {
+          "keyword": "위원장",
+          "score": 95
+        },
+        {
+          "keyword": "여론 조사",
+          "score": 94
+        },
+        {
+          "keyword": "혼다",
+          "score": 93
+        },
+        {
+          "keyword": "박미선",
+          "score": 92
+        },
+        {
+          "keyword": "이미숙",
           "score": 91
         }
       ]
