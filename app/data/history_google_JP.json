@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-27T04:04:07.713Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "彦摩呂",
-          "score": 100
-        },
-        {
-          "keyword": "風薫る 相関図",
-          "score": 99
-        },
-        {
-          "keyword": "レディプレイヤー",
-          "score": 98
-        },
-        {
-          "keyword": "abc マート timelesz",
-          "score": 97
-        },
-        {
-          "keyword": "intel",
-          "score": 96
-        },
-        {
-          "keyword": "lakers",
-          "score": 95
-        },
-        {
-          "keyword": "グリマスシェイク",
-          "score": 94
-        },
-        {
-          "keyword": "泉ピン子",
-          "score": 93
-        },
-        {
-          "keyword": "nvidia",
-          "score": 92
-        },
-        {
-          "keyword": "電動バス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-27T06:44:30.617Z",
       "geo": "JP",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "さわやか",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-01T05:51:27.115Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "東京スカイツリー",
+          "score": 100
+        },
+        {
+          "keyword": "常磐線",
+          "score": 99
+        },
+        {
+          "keyword": "みずほ銀行 ゴールデンウィーク",
+          "score": 98
+        },
+        {
+          "keyword": "力士",
+          "score": 97
+        },
+        {
+          "keyword": "三浦 貴大",
+          "score": 96
+        },
+        {
+          "keyword": "東京アプリ",
+          "score": 95
+        },
+        {
+          "keyword": "青山華依",
+          "score": 94
+        },
+        {
+          "keyword": "井上敏樹",
+          "score": 93
+        },
+        {
+          "keyword": "エネルギー 危機",
+          "score": 92
+        },
+        {
+          "keyword": "薬師寺",
           "score": 91
         }
       ]
