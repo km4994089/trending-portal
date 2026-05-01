@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-27T18:46:26.686Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "silver",
-          "score": 100
-        },
-        {
-          "keyword": "terence atmane",
-          "score": 99
-        },
-        {
-          "keyword": "trabzonspor",
-          "score": 98
-        },
-        {
-          "keyword": "man united vs brentford",
-          "score": 97
-        },
-        {
-          "keyword": "rcd espanyol - levante",
-          "score": 96
-        },
-        {
-          "keyword": "nvda",
-          "score": 95
-        },
-        {
-          "keyword": "enola holmes 3",
-          "score": 94
-        },
-        {
-          "keyword": "dave merritt",
-          "score": 93
-        },
-        {
-          "keyword": "high wind warning",
-          "score": 92
-        },
-        {
-          "keyword": "harry styles",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-27T20:02:46.974Z",
       "geo": "US",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "coachella",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-01T18:56:44.108Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "bitcoin atm",
+          "score": 100
+        },
+        {
+          "keyword": "alexander blockx",
+          "score": 99
+        },
+        {
+          "keyword": "kim zolciak",
+          "score": 98
+        },
+        {
+          "keyword": "union flag upside down",
+          "score": 97
+        },
+        {
+          "keyword": "diana, princess of wales",
+          "score": 96
+        },
+        {
+          "keyword": "zverev",
+          "score": 95
+        },
+        {
+          "keyword": "john force",
+          "score": 94
+        },
+        {
+          "keyword": "lucero",
+          "score": 93
+        },
+        {
+          "keyword": "leeds vs burnley",
+          "score": 92
+        },
+        {
+          "keyword": "girona - r.c.d. mallorca",
           "score": 91
         }
       ]
