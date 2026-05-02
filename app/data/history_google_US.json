@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-27T23:42:39.485Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jeopardy",
-          "score": 100
-        },
-        {
-          "keyword": "daniel schneemann",
-          "score": 99
-        },
-        {
-          "keyword": "jamie ding",
-          "score": 98
-        },
-        {
-          "keyword": "jeopardy today",
-          "score": 97
-        },
-        {
-          "keyword": "nba tonight",
-          "score": 96
-        },
-        {
-          "keyword": "scarpetta prime video series",
-          "score": 95
-        },
-        {
-          "keyword": "elmer soderblom",
-          "score": 94
-        },
-        {
-          "keyword": "yankees vs rangers",
-          "score": 93
-        },
-        {
-          "keyword": "rookie of the year nba",
-          "score": 92
-        },
-        {
-          "keyword": "nathan chasing horse",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-28T01:57:09.511Z",
       "geo": "US",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "2026 nascar cup series",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-02T00:09:40.108Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ben rice",
+          "score": 100
+        },
+        {
+          "keyword": "pistons score",
+          "score": 99
+        },
+        {
+          "keyword": "braves vs rockies",
+          "score": 98
+        },
+        {
+          "keyword": "duncan robinson",
+          "score": 97
+        },
+        {
+          "keyword": "jose caballero",
+          "score": 96
+        },
+        {
+          "keyword": "anthony black",
+          "score": 95
+        },
+        {
+          "keyword": "goga bitadze",
+          "score": 94
+        },
+        {
+          "keyword": "cade povich",
+          "score": 93
+        },
+        {
+          "keyword": "bard college",
+          "score": 92
+        },
+        {
+          "keyword": "laura ingraham",
           "score": 91
         }
       ]
