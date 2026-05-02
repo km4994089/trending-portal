@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-28T22:29:17.559Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "オリオールズ 対 アストロズ",
-          "score": 100
-        },
-        {
-          "keyword": "nasdaq amzn",
-          "score": 99
-        },
-        {
-          "keyword": "菊地姫奈",
-          "score": 98
-        },
-        {
-          "keyword": "松平健",
-          "score": 97
-        },
-        {
-          "keyword": "令和ロマン",
-          "score": 96
-        },
-        {
-          "keyword": "meta",
-          "score": 95
-        },
-        {
-          "keyword": "msft",
-          "score": 94
-        },
-        {
-          "keyword": "テイラースウィフト",
-          "score": 93
-        },
-        {
-          "keyword": "赤木 裕",
-          "score": 92
-        },
-        {
-          "keyword": "金相場",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-28T23:28:24.729Z",
       "geo": "JP",
       "source": "google",
@@ -2865,6 +2818,53 @@
         },
         {
           "keyword": "今永昇太",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-02T22:30:04.472Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "小久保 裕紀",
+          "score": 100
+        },
+        {
+          "keyword": "ロピア",
+          "score": 99
+        },
+        {
+          "keyword": "ザ鉄腕dash",
+          "score": 98
+        },
+        {
+          "keyword": "宮崎早織",
+          "score": 97
+        },
+        {
+          "keyword": "庄司浩平",
+          "score": 96
+        },
+        {
+          "keyword": "ベルギーリーグ",
+          "score": 95
+        },
+        {
+          "keyword": "滋賀 天気",
+          "score": 94
+        },
+        {
+          "keyword": "石田嵩人",
+          "score": 93
+        },
+        {
+          "keyword": "岐阜 天気",
+          "score": 92
+        },
+        {
+          "keyword": "鎌田大地",
           "score": 91
         }
       ]
