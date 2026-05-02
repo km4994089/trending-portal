@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-28T05:26:44.705Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dodgers game today",
-          "score": 100
-        },
-        {
-          "keyword": "los angeles dodgers",
-          "score": 99
-        },
-        {
-          "keyword": "munetaka murakami",
-          "score": 98
-        },
-        {
-          "keyword": "joe ingles",
-          "score": 97
-        },
-        {
-          "keyword": "nhl overtime rules",
-          "score": 96
-        },
-        {
-          "keyword": "owensboro weather",
-          "score": 95
-        },
-        {
-          "keyword": "kyle tucker",
-          "score": 94
-        },
-        {
-          "keyword": "pete fairbanks",
-          "score": 93
-        },
-        {
-          "keyword": "bank",
-          "score": 92
-        },
-        {
-          "keyword": "max",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-28T07:43:30.469Z",
       "geo": "US",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "luka doncic",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-02T06:01:49.576Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "conrad murray",
+          "score": 100
+        },
+        {
+          "keyword": "british royal family",
+          "score": 99
+        },
+        {
+          "keyword": "steve carell",
+          "score": 98
+        },
+        {
+          "keyword": "lizzo",
+          "score": 97
+        },
+        {
+          "keyword": "speed",
+          "score": 96
+        },
+        {
+          "keyword": "will anderson jr",
+          "score": 95
+        },
+        {
+          "keyword": "henry winkler",
+          "score": 94
+        },
+        {
+          "keyword": "yoel romero",
+          "score": 93
+        },
+        {
+          "keyword": "alex hoppe",
+          "score": 92
+        },
+        {
+          "keyword": "junior tafa",
           "score": 91
         }
       ]
