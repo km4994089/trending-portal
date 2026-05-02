@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-28T15:00:04.817Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "rob thomson",
-          "score": 100
-        },
-        {
-          "keyword": "kacey musgraves gruene hall",
-          "score": 99
-        },
-        {
-          "keyword": "metlife stadium",
-          "score": 98
-        },
-        {
-          "keyword": "ted lasso season 4",
-          "score": 97
-        },
-        {
-          "keyword": "harry potter",
-          "score": 96
-        },
-        {
-          "keyword": "vit kopriva",
-          "score": 95
-        },
-        {
-          "keyword": "colbert",
-          "score": 94
-        },
-        {
-          "keyword": "rick scott",
-          "score": 93
-        },
-        {
-          "keyword": "tony danza",
-          "score": 92
-        },
-        {
-          "keyword": "shane lowry brooks koepka partnership",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-28T16:53:29.392Z",
       "geo": "US",
       "source": "google",
@@ -2771,6 +2724,53 @@
         },
         {
           "keyword": "berkshire hathaway stock",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-02T15:09:09.852Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "free comic book day",
+          "score": 100
+        },
+        {
+          "keyword": "psg - lorient",
+          "score": 99
+        },
+        {
+          "keyword": "psg vs lorient",
+          "score": 98
+        },
+        {
+          "keyword": "bayern munich",
+          "score": 97
+        },
+        {
+          "keyword": "michael morales",
+          "score": 96
+        },
+        {
+          "keyword": "hubert hurkacz",
+          "score": 95
+        },
+        {
+          "keyword": "valence – atlético madrid",
+          "score": 94
+        },
+        {
+          "keyword": "multnomah athletic club",
+          "score": 93
+        },
+        {
+          "keyword": "mi vs csk",
+          "score": 92
+        },
+        {
+          "keyword": "islam makhachev",
           "score": 91
         }
       ]
