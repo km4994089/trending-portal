@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-28T19:59:11.571Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "psg vs bayern",
-          "score": 100
-        },
-        {
-          "keyword": "psg",
-          "score": 99
-        },
-        {
-          "keyword": "claude",
-          "score": 98
-        },
-        {
-          "keyword": "psg 대 바이에른",
-          "score": 97
-        },
-        {
-          "keyword": "범죄",
-          "score": 96
-        },
-        {
-          "keyword": "netflix",
-          "score": 95
-        },
-        {
-          "keyword": "테슬라 모델 y",
-          "score": 94
-        },
-        {
-          "keyword": "아주ib투자",
-          "score": 93
-        },
-        {
-          "keyword": "호종컵",
-          "score": 92
-        },
-        {
-          "keyword": "김혜수",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-28T21:07:14.179Z",
       "geo": "KR",
       "source": "google",
@@ -2865,6 +2818,53 @@
         },
         {
           "keyword": "psg vs lorient",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-02T20:31:20.623Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "민생지원금",
+          "score": 100
+        },
+        {
+          "keyword": "기리고 시즌 2",
+          "score": 99
+        },
+        {
+          "keyword": "arsenal",
+          "score": 98
+        },
+        {
+          "keyword": "아스날",
+          "score": 97
+        },
+        {
+          "keyword": "아스널 대 풀럼",
+          "score": 96
+        },
+        {
+          "keyword": "그것이 알고 싶다",
+          "score": 95
+        },
+        {
+          "keyword": "김민재",
+          "score": 94
+        },
+        {
+          "keyword": "bundesliga",
+          "score": 93
+        },
+        {
+          "keyword": "김태흠",
+          "score": 92
+        },
+        {
+          "keyword": "최우식",
           "score": 91
         }
       ]

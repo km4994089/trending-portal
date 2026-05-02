@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-28T19:59:12.864Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "岩手日報",
-          "score": 100
-        },
-        {
-          "keyword": "abema",
-          "score": 99
-        },
-        {
-          "keyword": "藤川 球児",
-          "score": 98
-        },
-        {
-          "keyword": "cl",
-          "score": 97
-        },
-        {
-          "keyword": "ニコ生",
-          "score": 96
-        },
-        {
-          "keyword": "wowow",
-          "score": 95
-        },
-        {
-          "keyword": "psg",
-          "score": 94
-        },
-        {
-          "keyword": "豊臣兄弟!",
-          "score": 93
-        },
-        {
-          "keyword": "政府備蓄米",
-          "score": 92
-        },
-        {
-          "keyword": "山岡家",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-28T21:07:15.805Z",
       "geo": "JP",
       "source": "google",
@@ -2865,6 +2818,53 @@
         },
         {
           "keyword": "山手線 渋谷駅 人身事故",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-02T20:31:21.555Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "火星",
+          "score": 100
+        },
+        {
+          "keyword": "伊勢神宮",
+          "score": 99
+        },
+        {
+          "keyword": "池脇 千鶴",
+          "score": 98
+        },
+        {
+          "keyword": "インドネシア",
+          "score": 97
+        },
+        {
+          "keyword": "竹原慎二",
+          "score": 96
+        },
+        {
+          "keyword": "ゴルフ",
+          "score": 95
+        },
+        {
+          "keyword": "橋下 徹",
+          "score": 94
+        },
+        {
+          "keyword": "ドン・キホーテ",
+          "score": 93
+        },
+        {
+          "keyword": "石丸伸二",
+          "score": 92
+        },
+        {
+          "keyword": "田村真子",
           "score": 91
         }
       ]
