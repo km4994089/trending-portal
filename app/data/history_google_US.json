@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-28T10:05:32.074Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "atlanta weather",
-          "score": 100
-        },
-        {
-          "keyword": "fpl",
-          "score": 99
-        },
-        {
-          "keyword": "orcl stock",
-          "score": 98
-        },
-        {
-          "keyword": "bruce springsteen",
-          "score": 97
-        },
-        {
-          "keyword": "ndtv",
-          "score": 96
-        },
-        {
-          "keyword": "kate middleton honored princess diana with a styled commemorative outfit",
-          "score": 95
-        },
-        {
-          "keyword": "michael glantz",
-          "score": 94
-        },
-        {
-          "keyword": "arthur fils",
-          "score": 93
-        },
-        {
-          "keyword": "cameron norrie",
-          "score": 92
-        },
-        {
-          "keyword": "jannik sinner",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-28T12:08:29.835Z",
       "geo": "US",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "allegiant air",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-02T10:41:29.465Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "data privacy regulations",
+          "score": 100
+        },
+        {
+          "keyword": "earthquake now",
+          "score": 99
+        },
+        {
+          "keyword": "earthquake",
+          "score": 98
+        },
+        {
+          "keyword": "american airlines",
+          "score": 97
+        },
+        {
+          "keyword": "breeze airways",
+          "score": 96
+        },
+        {
+          "keyword": "jessika ponchet",
+          "score": 95
+        },
+        {
+          "keyword": "gonzalo higuain",
+          "score": 94
+        },
+        {
+          "keyword": "car accident attorney",
+          "score": 93
+        },
+        {
+          "keyword": "crimson desert patch notes",
+          "score": 92
+        },
+        {
+          "keyword": "allegiant",
           "score": 91
         }
       ]

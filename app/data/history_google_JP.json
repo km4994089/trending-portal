@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-28T10:05:34.555Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "阪急電車",
-          "score": 100
-        },
-        {
-          "keyword": "阪急",
-          "score": 99
-        },
-        {
-          "keyword": "阪急京都線",
-          "score": 98
-        },
-        {
-          "keyword": "国民民主党",
-          "score": 97
-        },
-        {
-          "keyword": "山足達也",
-          "score": 96
-        },
-        {
-          "keyword": "石川祐希",
-          "score": 95
-        },
-        {
-          "keyword": "渡邊渚",
-          "score": 94
-        },
-        {
-          "keyword": "レジオネラ",
-          "score": 93
-        },
-        {
-          "keyword": "未来のレモンサワー",
-          "score": 92
-        },
-        {
-          "keyword": "ew",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-28T12:08:32.756Z",
       "geo": "JP",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "ジョンラックランド",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-02T10:41:32.201Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "中条あやみ",
+          "score": 100
+        },
+        {
+          "keyword": "磯野貴理子",
+          "score": 99
+        },
+        {
+          "keyword": "入江大生",
+          "score": 98
+        },
+        {
+          "keyword": "石手川",
+          "score": 97
+        },
+        {
+          "keyword": "ダイアン",
+          "score": 96
+        },
+        {
+          "keyword": "イギリス",
+          "score": 95
+        },
+        {
+          "keyword": "高木豊",
+          "score": 94
+        },
+        {
+          "keyword": "神戸 花火",
+          "score": 93
+        },
+        {
+          "keyword": "神戸ストークス",
+          "score": 92
+        },
+        {
+          "keyword": "藤枝myfc",
           "score": 91
         }
       ]
