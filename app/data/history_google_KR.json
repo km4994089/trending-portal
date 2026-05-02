@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-28T18:12:06.851Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "호종컵",
-          "score": 100
-        },
-        {
-          "keyword": "김혜수",
-          "score": 99
-        },
-        {
-          "keyword": "아이오닉 5",
-          "score": 98
-        },
-        {
-          "keyword": "라이엇",
-          "score": 97
-        },
-        {
-          "keyword": "롤",
-          "score": 96
-        },
-        {
-          "keyword": "뉴캐슬 유나이티드 fc",
-          "score": 95
-        },
-        {
-          "keyword": "영국 국왕",
-          "score": 94
-        },
-        {
-          "keyword": "김상욱",
-          "score": 93
-        },
-        {
-          "keyword": "아랍에미리트",
-          "score": 92
-        },
-        {
-          "keyword": "무리뉴",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-28T19:59:11.571Z",
       "geo": "KR",
       "source": "google",
@@ -2865,6 +2818,53 @@
         },
         {
           "keyword": "psg 대 로리앙",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-02T19:31:24.910Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "arsenal",
+          "score": 100
+        },
+        {
+          "keyword": "아스날",
+          "score": 99
+        },
+        {
+          "keyword": "노재원",
+          "score": 98
+        },
+        {
+          "keyword": "리그 1",
+          "score": 97
+        },
+        {
+          "keyword": "아스널 대 풀럼",
+          "score": 96
+        },
+        {
+          "keyword": "그것이 알고 싶다",
+          "score": 95
+        },
+        {
+          "keyword": "김민재",
+          "score": 94
+        },
+        {
+          "keyword": "bundesliga",
+          "score": 93
+        },
+        {
+          "keyword": "김태흠",
+          "score": 92
+        },
+        {
+          "keyword": "psg vs lorient",
           "score": 91
         }
       ]

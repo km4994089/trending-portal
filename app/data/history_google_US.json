@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-28T18:12:05.502Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "x down",
-          "score": 100
-        },
-        {
-          "keyword": "downdetector",
-          "score": 99
-        },
-        {
-          "keyword": "james comey",
-          "score": 98
-        },
-        {
-          "keyword": "jauan jennings",
-          "score": 97
-        },
-        {
-          "keyword": "alexander blockx",
-          "score": 96
-        },
-        {
-          "keyword": "francisco cerundolo",
-          "score": 95
-        },
-        {
-          "keyword": "peshawar zalmi vs islamabad united",
-          "score": 94
-        },
-        {
-          "keyword": "gta vi",
-          "score": 93
-        },
-        {
-          "keyword": "al-hilal vs damac",
-          "score": 92
-        },
-        {
-          "keyword": "cruise line",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-28T19:59:10.442Z",
       "geo": "US",
       "source": "google",
@@ -2865,6 +2818,53 @@
         },
         {
           "keyword": "galatasaray",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-02T19:31:23.490Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "osasuna - barcelona",
+          "score": 100
+        },
+        {
+          "keyword": "osasuna vs barcelona",
+          "score": 99
+        },
+        {
+          "keyword": "ian happ",
+          "score": 98
+        },
+        {
+          "keyword": "air force one",
+          "score": 97
+        },
+        {
+          "keyword": "columbus zoo",
+          "score": 96
+        },
+        {
+          "keyword": "tampa weather",
+          "score": 95
+        },
+        {
+          "keyword": "kelly osbourne",
+          "score": 94
+        },
+        {
+          "keyword": "ajax vs psv",
+          "score": 93
+        },
+        {
+          "keyword": "seattle sounders vs sporting kc",
+          "score": 92
+        },
+        {
+          "keyword": "vanessa bryant",
           "score": 91
         }
       ]
