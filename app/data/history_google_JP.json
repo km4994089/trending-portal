@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-28T21:07:15.805Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "北斗 晶",
-          "score": 100
-        },
-        {
-          "keyword": "日曜劇場",
-          "score": 99
-        },
-        {
-          "keyword": "香取慎吾",
-          "score": 98
-        },
-        {
-          "keyword": "ゾゾタウン",
-          "score": 97
-        },
-        {
-          "keyword": "支出",
-          "score": 96
-        },
-        {
-          "keyword": "安住 紳一郎",
-          "score": 95
-        },
-        {
-          "keyword": "バスケットボール",
-          "score": 94
-        },
-        {
-          "keyword": "今日",
-          "score": 93
-        },
-        {
-          "keyword": "チャンピオンシップ",
-          "score": 92
-        },
-        {
-          "keyword": "キャシー中島",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-28T22:29:17.559Z",
       "geo": "JP",
       "source": "google",
@@ -2865,6 +2818,53 @@
         },
         {
           "keyword": "田村真子",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-02T21:30:53.102Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "トヨタ",
+          "score": 100
+        },
+        {
+          "keyword": "山本耕史",
+          "score": 99
+        },
+        {
+          "keyword": "날씨",
+          "score": 98
+        },
+        {
+          "keyword": "jx金属",
+          "score": 97
+        },
+        {
+          "keyword": "山形 天気",
+          "score": 96
+        },
+        {
+          "keyword": "出光 タンカー ホルムズ 海峡",
+          "score": 95
+        },
+        {
+          "keyword": "チャーチルダウンズステークス",
+          "score": 94
+        },
+        {
+          "keyword": "日村 勇紀",
+          "score": 93
+        },
+        {
+          "keyword": "長崎天気",
+          "score": 92
+        },
+        {
+          "keyword": "今永昇太",
           "score": 91
         }
       ]
