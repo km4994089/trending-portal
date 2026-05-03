@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-29T15:31:32.791Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "peru",
-          "score": 100
-        },
-        {
-          "keyword": "ian cole",
-          "score": 99
-        },
-        {
-          "keyword": "mudryk",
-          "score": 98
-        },
-        {
-          "keyword": "todd pletcher",
-          "score": 97
-        },
-        {
-          "keyword": "fda infant formula safety results",
-          "score": 96
-        },
-        {
-          "keyword": "bus",
-          "score": 95
-        },
-        {
-          "keyword": "vra",
-          "score": 94
-        },
-        {
-          "keyword": "jimmy kimmel news",
-          "score": 93
-        },
-        {
-          "keyword": "jannik sinner",
-          "score": 92
-        },
-        {
-          "keyword": "googl stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-29T17:16:38.630Z",
       "geo": "US",
       "source": "google",
@@ -3006,6 +2959,53 @@
         },
         {
           "keyword": "morocco",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-03T15:37:29.737Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "madrid open",
+          "score": 100
+        },
+        {
+          "keyword": "liga de campeones femenina de la uefa",
+          "score": 99
+        },
+        {
+          "keyword": "michael carrick",
+          "score": 98
+        },
+        {
+          "keyword": "uefa women's champions league",
+          "score": 97
+        },
+        {
+          "keyword": "barcelona - bayern de múnich",
+          "score": 96
+        },
+        {
+          "keyword": "sir alex ferguson",
+          "score": 95
+        },
+        {
+          "keyword": "matheus cunha",
+          "score": 94
+        },
+        {
+          "keyword": "bruno fernandes",
+          "score": 93
+        },
+        {
+          "keyword": "benjamin šeško",
+          "score": 92
+        },
+        {
+          "keyword": "freddie woodman",
           "score": 91
         }
       ]
