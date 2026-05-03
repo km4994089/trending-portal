@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-29T22:45:27.857Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "パイレーツ 対 カージナルス",
-          "score": 100
-        },
-        {
-          "keyword": "南北線",
-          "score": 99
-        },
-        {
-          "keyword": "高輪ゲートウェイ",
-          "score": 98
-        },
-        {
-          "keyword": "マイクロソフト 決算",
-          "score": 97
-        },
-        {
-          "keyword": "京都市 天気",
-          "score": 96
-        },
-        {
-          "keyword": "京都 天気",
-          "score": 95
-        },
-        {
-          "keyword": "トワイス",
-          "score": 94
-        },
-        {
-          "keyword": "りそな銀行",
-          "score": 93
-        },
-        {
-          "keyword": "東京ドリームパーク",
-          "score": 92
-        },
-        {
-          "keyword": "反町 隆史",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-29T23:43:42.541Z",
       "geo": "JP",
       "source": "google",
@@ -3147,6 +3100,53 @@
         },
         {
           "keyword": "ジュゼッペ ガリバルディ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-03T23:11:11.031Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ジャパンジャム 中止",
+          "score": 100
+        },
+        {
+          "keyword": "ぼる塾",
+          "score": 99
+        },
+        {
+          "keyword": "ジョイフル本田",
+          "score": 98
+        },
+        {
+          "keyword": "九州自動車道 渋滞",
+          "score": 97
+        },
+        {
+          "keyword": "イケア",
+          "score": 96
+        },
+        {
+          "keyword": "jr運行情報",
+          "score": 95
+        },
+        {
+          "keyword": "岡山",
+          "score": 94
+        },
+        {
+          "keyword": "ディズニーランド",
+          "score": 93
+        },
+        {
+          "keyword": "グアム",
+          "score": 92
+        },
+        {
+          "keyword": "平井大",
           "score": 91
         }
       ]
