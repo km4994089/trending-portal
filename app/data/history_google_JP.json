@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-29T09:04:53.090Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "田中裕子",
-          "score": 100
-        },
-        {
-          "keyword": "天草市",
-          "score": 99
-        },
-        {
-          "keyword": "オリックス・バファローズ",
-          "score": 98
-        },
-        {
-          "keyword": "中山 秀征",
-          "score": 97
-        },
-        {
-          "keyword": "山口馬木也",
-          "score": 96
-        },
-        {
-          "keyword": "北 の 国 から スペシャル コンサート",
-          "score": 95
-        },
-        {
-          "keyword": "松本 対 磐田",
-          "score": 94
-        },
-        {
-          "keyword": "armホールディングス",
-          "score": 93
-        },
-        {
-          "keyword": "松倉海斗",
-          "score": 92
-        },
-        {
-          "keyword": "馬場咲希",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-29T11:12:21.305Z",
       "geo": "JP",
       "source": "google",
@@ -2912,6 +2865,53 @@
         },
         {
           "keyword": "浜名湖競艇",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-03T10:06:38.654Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "伊勢ヶ濱部屋",
+          "score": 100
+        },
+        {
+          "keyword": "麻疹",
+          "score": 99
+        },
+        {
+          "keyword": "桂林",
+          "score": 98
+        },
+        {
+          "keyword": "渡辺えり",
+          "score": 97
+        },
+        {
+          "keyword": "はしか",
+          "score": 96
+        },
+        {
+          "keyword": "亀戸",
+          "score": 95
+        },
+        {
+          "keyword": "古市憲寿",
+          "score": 94
+        },
+        {
+          "keyword": "新日本プロレス",
+          "score": 93
+        },
+        {
+          "keyword": "琉球 対 鹿児島",
+          "score": 92
+        },
+        {
+          "keyword": "お市",
           "score": 91
         }
       ]
