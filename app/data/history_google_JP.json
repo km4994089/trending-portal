@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-29T21:36:43.037Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "vix指数",
-          "score": 100
-        },
-        {
-          "keyword": "meta",
-          "score": 99
-        },
-        {
-          "keyword": "沖縄 天気",
-          "score": 98
-        },
-        {
-          "keyword": "みずほ銀行",
-          "score": 97
-        },
-        {
-          "keyword": "雨雲れレーダー",
-          "score": 96
-        },
-        {
-          "keyword": "ヤオコー",
-          "score": 95
-        },
-        {
-          "keyword": "フィラデルフィア半導体株指数",
-          "score": 94
-        },
-        {
-          "keyword": "渋滞予測",
-          "score": 93
-        },
-        {
-          "keyword": "今井達也",
-          "score": 92
-        },
-        {
-          "keyword": "伊藤洋輝",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-29T22:45:27.857Z",
       "geo": "JP",
       "source": "google",
@@ -3147,6 +3100,53 @@
         },
         {
           "keyword": "アーロン・ジャッジ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-03T22:30:16.657Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "野呂佳代",
+          "score": 100
+        },
+        {
+          "keyword": "pltr",
+          "score": 99
+        },
+        {
+          "keyword": "上野動物園",
+          "score": 98
+        },
+        {
+          "keyword": "ホルムズ海峡冬景色",
+          "score": 97
+        },
+        {
+          "keyword": "ドトール",
+          "score": 96
+        },
+        {
+          "keyword": "東京駅",
+          "score": 95
+        },
+        {
+          "keyword": "東京電力",
+          "score": 94
+        },
+        {
+          "keyword": "マックスバリュ",
+          "score": 93
+        },
+        {
+          "keyword": "鈴木 新 彩",
+          "score": 92
+        },
+        {
+          "keyword": "ジュゼッペ ガリバルディ",
           "score": 91
         }
       ]
