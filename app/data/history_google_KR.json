@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-28T23:28:23.307Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "윤현민",
-          "score": 100
-        },
-        {
-          "keyword": "lg에너지솔루션",
-          "score": 99
-        },
-        {
-          "keyword": "표승주",
-          "score": 98
-        },
-        {
-          "keyword": "msft",
-          "score": 97
-        },
-        {
-          "keyword": "이영애",
-          "score": 96
-        },
-        {
-          "keyword": "케이엔알시스템",
-          "score": 95
-        },
-        {
-          "keyword": "이연",
-          "score": 94
-        },
-        {
-          "keyword": "선불카드",
-          "score": 93
-        },
-        {
-          "keyword": "공격수",
-          "score": 92
-        },
-        {
-          "keyword": "경상남도",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-29T00:13:35.290Z",
       "geo": "KR",
       "source": "google",
@@ -2912,6 +2865,53 @@
         },
         {
           "keyword": "tsmc",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-03T00:04:58.635Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "osasuna vs barcelona",
+          "score": 100
+        },
+        {
+          "keyword": "dl이앤씨",
+          "score": 99
+        },
+        {
+          "keyword": "박소영",
+          "score": 98
+        },
+        {
+          "keyword": "화재",
+          "score": 97
+        },
+        {
+          "keyword": "김해시",
+          "score": 96
+        },
+        {
+          "keyword": "weather",
+          "score": 95
+        },
+        {
+          "keyword": "날씨",
+          "score": 94
+        },
+        {
+          "keyword": "lpga",
+          "score": 93
+        },
+        {
+          "keyword": "염경엽",
+          "score": 92
+        },
+        {
+          "keyword": "이수진",
           "score": 91
         }
       ]
