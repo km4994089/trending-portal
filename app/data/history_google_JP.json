@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-29T20:06:01.121Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "神田愛花",
-          "score": 100
-        },
-        {
-          "keyword": "クマ",
-          "score": 99
-        },
-        {
-          "keyword": "タクシー",
-          "score": 98
-        },
-        {
-          "keyword": "arm 株価",
-          "score": 97
-        },
-        {
-          "keyword": "食中毒",
-          "score": 96
-        },
-        {
-          "keyword": "菊池雄星",
-          "score": 95
-        },
-        {
-          "keyword": "wowow チャンピオンズリーグ",
-          "score": 94
-        },
-        {
-          "keyword": "wowow オンデマンド",
-          "score": 93
-        },
-        {
-          "keyword": "マイク・トラウト",
-          "score": 92
-        },
-        {
-          "keyword": "飯島直子",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-29T21:36:43.037Z",
       "geo": "JP",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "トッテナム",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-03T20:32:19.635Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "東京 天気",
+          "score": 100
+        },
+        {
+          "keyword": "地方競馬",
+          "score": 99
+        },
+        {
+          "keyword": "シカゴ・ホワイトソックス",
+          "score": 98
+        },
+        {
+          "keyword": "今日の天気 東京",
+          "score": 97
+        },
+        {
+          "keyword": "今日 天気",
+          "score": 96
+        },
+        {
+          "keyword": "岡本和真",
+          "score": 95
+        },
+        {
+          "keyword": "自由契約",
+          "score": 94
+        },
+        {
+          "keyword": "死体",
+          "score": 93
+        },
+        {
+          "keyword": "幸楽苑",
+          "score": 92
+        },
+        {
+          "keyword": "世界 卓球 2026 結果 女子",
           "score": 91
         }
       ]
