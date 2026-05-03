@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-29T13:02:08.672Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "投資",
-          "score": 100
-        },
-        {
-          "keyword": "草彅剛",
-          "score": 99
-        },
-        {
-          "keyword": "大久保佳代子",
-          "score": 98
-        },
-        {
-          "keyword": "闘莉王",
-          "score": 97
-        },
-        {
-          "keyword": "星ひとみ",
-          "score": 96
-        },
-        {
-          "keyword": "田宮裕涼",
-          "score": 95
-        },
-        {
-          "keyword": "イケア",
-          "score": 94
-        },
-        {
-          "keyword": "サッカーワールドカップ",
-          "score": 93
-        },
-        {
-          "keyword": "沖縄旅行",
-          "score": 92
-        },
-        {
-          "keyword": "本田圭佑",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-29T15:31:35.818Z",
       "geo": "JP",
       "source": "google",
@@ -2959,6 +2912,53 @@
         },
         {
           "keyword": "ビシエド",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-03T13:52:03.838Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "畑芽育",
+          "score": 100
+        },
+        {
+          "keyword": "炎鵬",
+          "score": 99
+        },
+        {
+          "keyword": "宮澤エマ",
+          "score": 98
+        },
+        {
+          "keyword": "ボーンマス 対 クリスタル・パレス",
+          "score": 97
+        },
+        {
+          "keyword": "松本 伊代",
+          "score": 96
+        },
+        {
+          "keyword": "高橋海人",
+          "score": 95
+        },
+        {
+          "keyword": "マンチェスター・シティwfc 対 リヴァプールfcウィメン 順位",
+          "score": 94
+        },
+        {
+          "keyword": "メイストーム",
+          "score": 93
+        },
+        {
+          "keyword": "フォルトゥナ 対 フェイエノールト",
+          "score": 92
+        },
+        {
+          "keyword": "福士蒼汰",
           "score": 91
         }
       ]
