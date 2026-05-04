@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-30T08:03:06.962Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "stock market today",
-          "score": 100
-        },
-        {
-          "keyword": "non fungible tokens",
-          "score": 99
-        },
-        {
-          "keyword": "fast food",
-          "score": 98
-        },
-        {
-          "keyword": "powerball winner",
-          "score": 97
-        },
-        {
-          "keyword": "personal injury attorneys",
-          "score": 96
-        },
-        {
-          "keyword": "hotel",
-          "score": 95
-        },
-        {
-          "keyword": "hospital",
-          "score": 94
-        },
-        {
-          "keyword": "mortgage lender",
-          "score": 93
-        },
-        {
-          "keyword": "banking",
-          "score": 92
-        },
-        {
-          "keyword": "tennis scores today",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-30T10:21:29.598Z",
       "geo": "US",
       "source": "google",
@@ -3147,6 +3100,53 @@
         },
         {
           "keyword": "putin",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-04T09:36:46.227Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "louisville weather",
+          "score": 100
+        },
+        {
+          "keyword": "rome open",
+          "score": 99
+        },
+        {
+          "keyword": "gary lydon",
+          "score": 98
+        },
+        {
+          "keyword": "election results 2026",
+          "score": 97
+        },
+        {
+          "keyword": "ashlyn krueger",
+          "score": 96
+        },
+        {
+          "keyword": "anastasia potapova",
+          "score": 95
+        },
+        {
+          "keyword": "cristian garin",
+          "score": 94
+        },
+        {
+          "keyword": "latest iphone rumors",
+          "score": 93
+        },
+        {
+          "keyword": "car accident lawyers",
+          "score": 92
+        },
+        {
+          "keyword": "onemain financial",
           "score": 91
         }
       ]
