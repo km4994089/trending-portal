@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-30T01:59:09.696Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "谷原 柚 希",
-          "score": 100
-        },
-        {
-          "keyword": "菅野智之",
-          "score": 99
-        },
-        {
-          "keyword": "スティンガーグラス",
-          "score": 98
-        },
-        {
-          "keyword": "ソニック",
-          "score": 97
-        },
-        {
-          "keyword": "cve-2026-31431",
-          "score": 96
-        },
-        {
-          "keyword": "アスレチックス 対 ロイヤルズ",
-          "score": 95
-        },
-        {
-          "keyword": "マイクラ",
-          "score": 94
-        },
-        {
-          "keyword": "中国電力",
-          "score": 93
-        },
-        {
-          "keyword": "大阪ガス",
-          "score": 92
-        },
-        {
-          "keyword": "楽天銀行",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-30T05:30:45.445Z",
       "geo": "JP",
       "source": "google",
@@ -3147,6 +3100,53 @@
         },
         {
           "keyword": "フェルナンド・アロンソ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-04T04:14:43.876Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "真野響子",
+          "score": 100
+        },
+        {
+          "keyword": "コメンテーター",
+          "score": 99
+        },
+        {
+          "keyword": "矢場とん",
+          "score": 98
+        },
+        {
+          "keyword": "セントレア",
+          "score": 97
+        },
+        {
+          "keyword": "小峠英二",
+          "score": 96
+        },
+        {
+          "keyword": "塚田僚一",
+          "score": 95
+        },
+        {
+          "keyword": "資生堂",
+          "score": 94
+        },
+        {
+          "keyword": "高雄",
+          "score": 93
+        },
+        {
+          "keyword": "バラエティ番組",
+          "score": 92
+        },
+        {
+          "keyword": "正直不動産",
           "score": 91
         }
       ]
