@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-30T05:30:44.137Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "아이유",
-          "score": 100
-        },
-        {
-          "keyword": "중고",
-          "score": 99
-        },
-        {
-          "keyword": "롯데 자이언츠",
-          "score": 98
-        },
-        {
-          "keyword": "강동원",
-          "score": 97
-        },
-        {
-          "keyword": "혁신도시",
-          "score": 96
-        },
-        {
-          "keyword": "제로페이",
-          "score": 95
-        },
-        {
-          "keyword": "체이스 인피니티",
-          "score": 94
-        },
-        {
-          "keyword": "주스 아저씨",
-          "score": 93
-        },
-        {
-          "keyword": "권민규",
-          "score": 92
-        },
-        {
-          "keyword": "변요한",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-30T08:03:08.117Z",
       "geo": "KR",
       "source": "google",
@@ -3147,6 +3100,53 @@
         },
         {
           "keyword": "김시우",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-04T07:30:21.535Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "부동산 투자",
+          "score": 100
+        },
+        {
+          "keyword": "로킷헬스케어",
+          "score": 99
+        },
+        {
+          "keyword": "닌텐도",
+          "score": 98
+        },
+        {
+          "keyword": "이호선",
+          "score": 97
+        },
+        {
+          "keyword": "수성구",
+          "score": 96
+        },
+        {
+          "keyword": "유언",
+          "score": 95
+        },
+        {
+          "keyword": "주식",
+          "score": 94
+        },
+        {
+          "keyword": "교사",
+          "score": 93
+        },
+        {
+          "keyword": "쓸쓸하고 찬란하神 - 도깨비",
+          "score": 92
+        },
+        {
+          "keyword": "기아",
           "score": 91
         }
       ]
