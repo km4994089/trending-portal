@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-30T15:25:48.072Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "현주엽",
-          "score": 100
-        },
-        {
-          "keyword": "rcb vs gt",
-          "score": 99
-        },
-        {
-          "keyword": "f1",
-          "score": 98
-        },
-        {
-          "keyword": "중대범죄 수사청",
-          "score": 97
-        },
-        {
-          "keyword": "이데일리",
-          "score": 96
-        },
-        {
-          "keyword": "성심당",
-          "score": 95
-        },
-        {
-          "keyword": "덱스",
-          "score": 94
-        },
-        {
-          "keyword": "오연수",
-          "score": 93
-        },
-        {
-          "keyword": "박준순",
-          "score": 92
-        },
-        {
-          "keyword": "노현정",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-04-30T16:53:19.560Z",
       "geo": "KR",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "김태년",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-04T15:27:26.684Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김승혜",
+          "score": 100
+        },
+        {
+          "keyword": "ioi",
+          "score": 99
+        },
+        {
+          "keyword": "츠키",
+          "score": 98
+        },
+        {
+          "keyword": "아이오아이",
+          "score": 97
+        },
+        {
+          "keyword": "첼시 대 노팅엄 포레스트",
+          "score": 96
+        },
+        {
+          "keyword": "첼시",
+          "score": 95
+        },
+        {
+          "keyword": "lsg vs mi",
+          "score": 94
+        },
+        {
+          "keyword": "김종대",
+          "score": 93
+        },
+        {
+          "keyword": "결혼식",
+          "score": 92
+        },
+        {
+          "keyword": "lg이노텍",
           "score": 91
         }
       ]
