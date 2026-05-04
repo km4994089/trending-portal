@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-04-30T23:42:05.172Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ジャンポケ太田",
-          "score": 100
-        },
-        {
-          "keyword": "ちいかわ 誕生日",
-          "score": 99
-        },
-        {
-          "keyword": "唐津競艇",
-          "score": 98
-        },
-        {
-          "keyword": "大泉洋",
-          "score": 97
-        },
-        {
-          "keyword": "グリエルモ・ヴィカーリオ",
-          "score": 96
-        },
-        {
-          "keyword": "松岡修造",
-          "score": 95
-        },
-        {
-          "keyword": "ネクスコ中日本",
-          "score": 94
-        },
-        {
-          "keyword": "ヨルダン・アルバレス",
-          "score": 93
-        },
-        {
-          "keyword": "内村光良",
-          "score": 92
-        },
-        {
-          "keyword": "菊池亜希子",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-01T02:00:48.896Z",
       "geo": "JP",
       "source": "google",
@@ -3053,6 +3006,53 @@
         },
         {
           "keyword": "東大寺",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-04T23:43:16.345Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "信号機",
+          "score": 100
+        },
+        {
+          "keyword": "カージナルス 対 ブルワーズ",
+          "score": 99
+        },
+        {
+          "keyword": "嶋本悠大",
+          "score": 98
+        },
+        {
+          "keyword": "圏央道 渋滞",
+          "score": 97
+        },
+        {
+          "keyword": "ミルク",
+          "score": 96
+        },
+        {
+          "keyword": "ロイヤルズ 対 ガーディアンズ",
+          "score": 95
+        },
+        {
+          "keyword": "モナキ",
+          "score": 94
+        },
+        {
+          "keyword": "milk",
+          "score": 93
+        },
+        {
+          "keyword": "m!lk",
+          "score": 92
+        },
+        {
+          "keyword": "小岩井農場",
           "score": 91
         }
       ]
