@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-01T10:00:15.738Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "전청조",
-          "score": 100
-        },
-        {
-          "keyword": "관광",
-          "score": 99
-        },
-        {
-          "keyword": "구자욱",
-          "score": 98
-        },
-        {
-          "keyword": "박종진",
-          "score": 97
-        },
-        {
-          "keyword": "닛케이 평균주가",
-          "score": 96
-        },
-        {
-          "keyword": "경기도",
-          "score": 95
-        },
-        {
-          "keyword": "룰러",
-          "score": 94
-        },
-        {
-          "keyword": "뮤직뱅크",
-          "score": 93
-        },
-        {
-          "keyword": "한화 대 삼성",
-          "score": 92
-        },
-        {
-          "keyword": "kt 대 kia",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-01T11:09:16.252Z",
       "geo": "KR",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "풍력 발전",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-05T10:57:48.695Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "헌법재판소",
+          "score": 100
+        },
+        {
+          "keyword": "스피릿 항공",
+          "score": 99
+        },
+        {
+          "keyword": "k리그1",
+          "score": 98
+        },
+        {
+          "keyword": "임재범",
+          "score": 97
+        },
+        {
+          "keyword": "심형탁",
+          "score": 96
+        },
+        {
+          "keyword": "허웅",
+          "score": 95
+        },
+        {
+          "keyword": "포스코",
+          "score": 94
+        },
+        {
+          "keyword": "ssg",
+          "score": 93
+        },
+        {
+          "keyword": "홍진경",
+          "score": 92
+        },
+        {
+          "keyword": "부산광역시",
           "score": 91
         }
       ]
