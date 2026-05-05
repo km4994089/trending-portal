@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-01T05:51:27.115Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "東京スカイツリー",
-          "score": 100
-        },
-        {
-          "keyword": "常磐線",
-          "score": 99
-        },
-        {
-          "keyword": "みずほ銀行 ゴールデンウィーク",
-          "score": 98
-        },
-        {
-          "keyword": "力士",
-          "score": 97
-        },
-        {
-          "keyword": "三浦 貴大",
-          "score": 96
-        },
-        {
-          "keyword": "東京アプリ",
-          "score": 95
-        },
-        {
-          "keyword": "青山華依",
-          "score": 94
-        },
-        {
-          "keyword": "井上敏樹",
-          "score": 93
-        },
-        {
-          "keyword": "エネルギー 危機",
-          "score": 92
-        },
-        {
-          "keyword": "薬師寺",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-01T08:01:09.412Z",
       "geo": "JP",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "交通情報",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-05T07:11:50.898Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "明石家さんま",
+          "score": 100
+        },
+        {
+          "keyword": "神木隆之介",
+          "score": 99
+        },
+        {
+          "keyword": "堤 真一",
+          "score": 98
+        },
+        {
+          "keyword": "鮫 升 コモリ",
+          "score": 97
+        },
+        {
+          "keyword": "ジャンダルム",
+          "score": 96
+        },
+        {
+          "keyword": "マツコ デラックス",
+          "score": 95
+        },
+        {
+          "keyword": "競艇マクール",
+          "score": 94
+        },
+        {
+          "keyword": "プロ野球速報",
+          "score": 93
+        },
+        {
+          "keyword": "井口資仁",
+          "score": 92
+        },
+        {
+          "keyword": "宮崎友花",
           "score": 91
         }
       ]

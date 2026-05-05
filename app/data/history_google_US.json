@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-01T05:51:24.653Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "hail",
-          "score": 100
-        },
-        {
-          "keyword": "jackson lacombe",
-          "score": 99
-        },
-        {
-          "keyword": "michael jackson movie biopic",
-          "score": 98
-        },
-        {
-          "keyword": "houston weather",
-          "score": 97
-        },
-        {
-          "keyword": "katarzyna kawa",
-          "score": 96
-        },
-        {
-          "keyword": "usd to yen",
-          "score": 95
-        },
-        {
-          "keyword": "terremoto",
-          "score": 94
-        },
-        {
-          "keyword": "bruce hornsby",
-          "score": 93
-        },
-        {
-          "keyword": "mark lajal",
-          "score": 92
-        },
-        {
-          "keyword": "maggie rogers",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-01T08:01:06.910Z",
       "geo": "US",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "robert irwin",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-05T07:11:48.678Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "free",
+          "score": 100
+        },
+        {
+          "keyword": "san diego weather",
+          "score": 99
+        },
+        {
+          "keyword": "seattle weather",
+          "score": 98
+        },
+        {
+          "keyword": "brady ebert",
+          "score": 97
+        },
+        {
+          "keyword": "olivia rodrigo presale",
+          "score": 96
+        },
+        {
+          "keyword": "chris brown",
+          "score": 95
+        },
+        {
+          "keyword": "nathan lane",
+          "score": 94
+        },
+        {
+          "keyword": "jaafar jackson met gala 2026",
+          "score": 93
+        },
+        {
+          "keyword": "rachel zegler",
+          "score": 92
+        },
+        {
+          "keyword": "amanda bynes",
           "score": 91
         }
       ]
