@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-01T11:09:17.394Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ニュージーランドドル",
-          "score": 100
-        },
-        {
-          "keyword": "加藤和樹",
-          "score": 99
-        },
-        {
-          "keyword": "マウイ",
-          "score": 98
-        },
-        {
-          "keyword": "モアナ",
-          "score": 97
-        },
-        {
-          "keyword": "afcチャンピオンズリーグエリート",
-          "score": 96
-        },
-        {
-          "keyword": "東武動物公園",
-          "score": 95
-        },
-        {
-          "keyword": "バーガー キング",
-          "score": 94
-        },
-        {
-          "keyword": "牧歌の里",
-          "score": 93
-        },
-        {
-          "keyword": "コストコ",
-          "score": 92
-        },
-        {
-          "keyword": "南明奈",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-01T12:10:36.238Z",
       "geo": "JP",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "潜水艦",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-05T11:57:38.161Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "大井川鉄道",
+          "score": 100
+        },
+        {
+          "keyword": "北海道テレビ放送",
+          "score": 99
+        },
+        {
+          "keyword": "尾瀬",
+          "score": 98
+        },
+        {
+          "keyword": "北斗晶",
+          "score": 97
+        },
+        {
+          "keyword": "ニジイロクワガタ",
+          "score": 96
+        },
+        {
+          "keyword": "梅毒",
+          "score": 95
+        },
+        {
+          "keyword": "ベガルタ仙台",
+          "score": 94
+        },
+        {
+          "keyword": "宮沢賢治",
+          "score": 93
+        },
+        {
+          "keyword": "川田将雅",
+          "score": 92
+        },
+        {
+          "keyword": "柴咲コウ",
           "score": 91
         }
       ]
