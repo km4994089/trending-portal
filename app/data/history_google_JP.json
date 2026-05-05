@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-01T23:11:58.233Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "桜井日奈子",
-          "score": 100
-        },
-        {
-          "keyword": "マジック 対 ピストンズ",
-          "score": 99
-        },
-        {
-          "keyword": "大塚愛",
-          "score": 98
-        },
-        {
-          "keyword": "郡司裕也",
-          "score": 97
-        },
-        {
-          "keyword": "競走",
-          "score": 96
-        },
-        {
-          "keyword": "マーリンズ 対 フィリーズ",
-          "score": 95
-        },
-        {
-          "keyword": "松たか子",
-          "score": 94
-        },
-        {
-          "keyword": "ドル",
-          "score": 93
-        },
-        {
-          "keyword": "今井春花",
-          "score": 92
-        },
-        {
-          "keyword": "りくりゅう アイスショー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-02T00:09:43.101Z",
       "geo": "JP",
       "source": "google",
@@ -2912,6 +2865,53 @@
         },
         {
           "keyword": "石油タンカー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-05T23:39:41.300Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ロイヤルズ 対 ガーディアンズ",
+          "score": 100
+        },
+        {
+          "keyword": "バークシャー・ハサウェイ",
+          "score": 99
+        },
+        {
+          "keyword": "田中泯",
+          "score": 98
+        },
+        {
+          "keyword": "ニコールキッドマン",
+          "score": 97
+        },
+        {
+          "keyword": "瓜田純士",
+          "score": 96
+        },
+        {
+          "keyword": "ピストンズ 対 キャバリアーズ",
+          "score": 95
+        },
+        {
+          "keyword": "ゴールドマン・サックス",
+          "score": 94
+        },
+        {
+          "keyword": "シム・ヒョンタク",
+          "score": 93
+        },
+        {
+          "keyword": "nhk 番組表",
+          "score": 92
+        },
+        {
+          "keyword": "土屋太鳳",
           "score": 91
         }
       ]
