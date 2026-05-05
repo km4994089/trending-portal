@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-01T20:01:13.086Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "전광훈",
-          "score": 100
-        },
-        {
-          "keyword": "문정희",
-          "score": 99
-        },
-        {
-          "keyword": "검열",
-          "score": 98
-        },
-        {
-          "keyword": "김지원",
-          "score": 97
-        },
-        {
-          "keyword": "기리고 시즌 2",
-          "score": 96
-        },
-        {
-          "keyword": "배나라",
-          "score": 95
-        },
-        {
-          "keyword": "야닉 시너",
-          "score": 94
-        },
-        {
-          "keyword": "이찬원",
-          "score": 93
-        },
-        {
-          "keyword": "꽃보다 청춘",
-          "score": 92
-        },
-        {
-          "keyword": "효성",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-01T21:11:05.006Z",
       "geo": "KR",
       "source": "google",
@@ -2912,6 +2865,53 @@
         },
         {
           "keyword": "스테이 블코 인",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-05T20:56:05.972Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "고소영",
+          "score": 100
+        },
+        {
+          "keyword": "미군",
+          "score": 99
+        },
+        {
+          "keyword": "검사",
+          "score": 98
+        },
+        {
+          "keyword": "아스날",
+          "score": 97
+        },
+        {
+          "keyword": "최유빈",
+          "score": 96
+        },
+        {
+          "keyword": "축구",
+          "score": 95
+        },
+        {
+          "keyword": "장마",
+          "score": 94
+        },
+        {
+          "keyword": "아스널 대 아틀레티코",
+          "score": 93
+        },
+        {
+          "keyword": "arsenal",
+          "score": 92
+        },
+        {
+          "keyword": "수학여행",
           "score": 91
         }
       ]

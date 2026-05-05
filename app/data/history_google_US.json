@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-01T20:01:11.672Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tax",
-          "score": 100
-        },
-        {
-          "keyword": "jessica alba",
-          "score": 99
-        },
-        {
-          "keyword": "kobe bryant",
-          "score": 98
-        },
-        {
-          "keyword": "flooding road closures",
-          "score": 97
-        },
-        {
-          "keyword": "girona fc",
-          "score": 96
-        },
-        {
-          "keyword": "where to watch cleveland cavaliers vs toronto raptors",
-          "score": 95
-        },
-        {
-          "keyword": "hallie batchelder",
-          "score": 94
-        },
-        {
-          "keyword": "padma lakshmi",
-          "score": 93
-        },
-        {
-          "keyword": "the villages florida",
-          "score": 92
-        },
-        {
-          "keyword": "dirk nowitzki",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-01T21:11:03.720Z",
       "geo": "US",
       "source": "google",
@@ -2912,6 +2865,53 @@
         },
         {
           "keyword": "arsenal - atlético madrid",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-05T20:56:04.375Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "amc stock",
+          "score": 100
+        },
+        {
+          "keyword": "david raya",
+          "score": 99
+        },
+        {
+          "keyword": "johnny cardoso",
+          "score": 98
+        },
+        {
+          "keyword": "lowell fire",
+          "score": 97
+        },
+        {
+          "keyword": "budapest",
+          "score": 96
+        },
+        {
+          "keyword": "tyler adams",
+          "score": 95
+        },
+        {
+          "keyword": "cavs vs pistons",
+          "score": 94
+        },
+        {
+          "keyword": "amd stock",
+          "score": 93
+        },
+        {
+          "keyword": "smci",
+          "score": 92
+        },
+        {
+          "keyword": "nick nurse",
           "score": 91
         }
       ]
