@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-01T21:11:05.006Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "음식",
-          "score": 100
-        },
-        {
-          "keyword": "텔레비전",
-          "score": 99
-        },
-        {
-          "keyword": "아시아나항공",
-          "score": 98
-        },
-        {
-          "keyword": "피겨스케이팅",
-          "score": 97
-        },
-        {
-          "keyword": "sports",
-          "score": 96
-        },
-        {
-          "keyword": "한일가왕전",
-          "score": 95
-        },
-        {
-          "keyword": "rajasthan royals vs delhi capitals standings",
-          "score": 94
-        },
-        {
-          "keyword": "전광훈",
-          "score": 93
-        },
-        {
-          "keyword": "문정희",
-          "score": 92
-        },
-        {
-          "keyword": "검열",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-01T22:09:14.764Z",
       "geo": "KR",
       "source": "google",
@@ -2912,6 +2865,53 @@
         },
         {
           "keyword": "수학여행",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-05T21:54:52.605Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "아파트",
+          "score": 100
+        },
+        {
+          "keyword": "송성문",
+          "score": 99
+        },
+        {
+          "keyword": "경상남도",
+          "score": 98
+        },
+        {
+          "keyword": "blackpink",
+          "score": 97
+        },
+        {
+          "keyword": "amd",
+          "score": 96
+        },
+        {
+          "keyword": "크리스티아누 호날두",
+          "score": 95
+        },
+        {
+          "keyword": "(주)금양",
+          "score": 94
+        },
+        {
+          "keyword": "삼성전기",
+          "score": 93
+        },
+        {
+          "keyword": "amd 주가",
+          "score": 92
+        },
+        {
+          "keyword": "검찰",
           "score": 91
         }
       ]
