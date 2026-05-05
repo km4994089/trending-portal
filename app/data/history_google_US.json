@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-01T08:01:06.910Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ev dealership",
-          "score": 100
-        },
-        {
-          "keyword": "fundraiser",
-          "score": 99
-        },
-        {
-          "keyword": "disneyland ticket prices",
-          "score": 98
-        },
-        {
-          "keyword": "junta",
-          "score": 97
-        },
-        {
-          "keyword": "cryptocurrency trading",
-          "score": 96
-        },
-        {
-          "keyword": "olivia rodrigo barcelona jersey",
-          "score": 95
-        },
-        {
-          "keyword": "lottery results today",
-          "score": 94
-        },
-        {
-          "keyword": "what is phishing",
-          "score": 93
-        },
-        {
-          "keyword": "tax filing deadline",
-          "score": 92
-        },
-        {
-          "keyword": "labour day",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-01T10:00:14.757Z",
       "geo": "US",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "amanda bynes",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-05T09:25:36.067Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "anastasia potapova",
+          "score": 100
+        },
+        {
+          "keyword": "cristian garin",
+          "score": 99
+        },
+        {
+          "keyword": "nyt connections hints",
+          "score": 98
+        },
+        {
+          "keyword": "cryptocurrency trading",
+          "score": 97
+        },
+        {
+          "keyword": "golf course",
+          "score": 96
+        },
+        {
+          "keyword": "ok",
+          "score": 95
+        },
+        {
+          "keyword": "sam witwer",
+          "score": 94
+        },
+        {
+          "keyword": "san diego weather",
+          "score": 93
+        },
+        {
+          "keyword": "seattle weather",
+          "score": 92
+        },
+        {
+          "keyword": "brady ebert",
           "score": 91
         }
       ]

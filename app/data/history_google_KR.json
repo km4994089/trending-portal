@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-01T08:01:07.904Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이언주",
-          "score": 100
-        },
-        {
-          "keyword": "암표",
-          "score": 99
-        },
-        {
-          "keyword": "김소영",
-          "score": 98
-        },
-        {
-          "keyword": "김녹완",
-          "score": 97
-        },
-        {
-          "keyword": "공공기관",
-          "score": 96
-        },
-        {
-          "keyword": "위원장",
-          "score": 95
-        },
-        {
-          "keyword": "여론 조사",
-          "score": 94
-        },
-        {
-          "keyword": "혼다",
-          "score": 93
-        },
-        {
-          "keyword": "박미선",
-          "score": 92
-        },
-        {
-          "keyword": "이미숙",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-01T10:00:15.738Z",
       "geo": "KR",
       "source": "google",
@@ -3100,6 +3053,53 @@
         },
         {
           "keyword": "모수 와인 논란",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-05T09:25:37.652Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "국채",
+          "score": 100
+        },
+        {
+          "keyword": "야구",
+          "score": 99
+        },
+        {
+          "keyword": "강원 대 포항",
+          "score": 98
+        },
+        {
+          "keyword": "미세 플라스틱",
+          "score": 97
+        },
+        {
+          "keyword": "김효주",
+          "score": 96
+        },
+        {
+          "keyword": "슈",
+          "score": 95
+        },
+        {
+          "keyword": "김천상무 대 울산",
+          "score": 94
+        },
+        {
+          "keyword": "예금",
+          "score": 93
+        },
+        {
+          "keyword": "박영현",
+          "score": 92
+        },
+        {
+          "keyword": "풍력 발전",
           "score": 91
         }
       ]
