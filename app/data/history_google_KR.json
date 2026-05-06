@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-02T19:31:24.910Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "arsenal",
-          "score": 100
-        },
-        {
-          "keyword": "아스날",
-          "score": 99
-        },
-        {
-          "keyword": "노재원",
-          "score": 98
-        },
-        {
-          "keyword": "리그 1",
-          "score": 97
-        },
-        {
-          "keyword": "아스널 대 풀럼",
-          "score": 96
-        },
-        {
-          "keyword": "그것이 알고 싶다",
-          "score": 95
-        },
-        {
-          "keyword": "김민재",
-          "score": 94
-        },
-        {
-          "keyword": "bundesliga",
-          "score": 93
-        },
-        {
-          "keyword": "김태흠",
-          "score": 92
-        },
-        {
-          "keyword": "psg vs lorient",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-02T20:31:20.623Z",
       "geo": "KR",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "남규리",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-06T20:06:58.293Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "뮌헨 psg",
+          "score": 100
+        },
+        {
+          "keyword": "상속세",
+          "score": 99
+        },
+        {
+          "keyword": "무명전설 - 트롯 사내들의 서열전쟁",
+          "score": 98
+        },
+        {
+          "keyword": "양상문",
+          "score": 97
+        },
+        {
+          "keyword": "31기 옥순",
+          "score": 96
+        },
+        {
+          "keyword": "근로기준법",
+          "score": 95
+        },
+        {
+          "keyword": "전소미",
+          "score": 94
+        },
+        {
+          "keyword": "회사",
+          "score": 93
+        },
+        {
+          "keyword": "윤하",
+          "score": 92
+        },
+        {
+          "keyword": "srh vs pbks",
           "score": 91
         }
       ]
