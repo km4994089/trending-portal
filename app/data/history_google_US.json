@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-02T03:56:29.564Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "anne hathaway",
-          "score": 100
-        },
-        {
-          "keyword": "spike lee",
-          "score": 99
-        },
-        {
-          "keyword": "austin slater",
-          "score": 98
-        },
-        {
-          "keyword": "padres score",
-          "score": 97
-        },
-        {
-          "keyword": "austin reaves",
-          "score": 96
-        },
-        {
-          "keyword": "padres game today",
-          "score": 95
-        },
-        {
-          "keyword": "michael harris ii",
-          "score": 94
-        },
-        {
-          "keyword": "max preps",
-          "score": 93
-        },
-        {
-          "keyword": "shadow docket",
-          "score": 92
-        },
-        {
-          "keyword": "luka doncic",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-02T06:01:49.576Z",
       "geo": "US",
       "source": "google",
@@ -2912,6 +2865,53 @@
         },
         {
           "keyword": "jazz chisholm jr.",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-06T05:21:02.518Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "yosemite national park",
+          "score": 100
+        },
+        {
+          "keyword": "walt frazier",
+          "score": 99
+        },
+        {
+          "keyword": "meg stalter",
+          "score": 98
+        },
+        {
+          "keyword": "samsung stock",
+          "score": 97
+        },
+        {
+          "keyword": "heather watson",
+          "score": 96
+        },
+        {
+          "keyword": "los angeles angels",
+          "score": 95
+        },
+        {
+          "keyword": "mariners game today",
+          "score": 94
+        },
+        {
+          "keyword": "eta aquarid meteor shower",
+          "score": 93
+        },
+        {
+          "keyword": "richard gere",
+          "score": 92
+        },
+        {
+          "keyword": "padres score",
           "score": 91
         }
       ]

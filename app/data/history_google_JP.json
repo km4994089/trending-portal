@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-02T03:56:32.389Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "馬渕磨理子",
-          "score": 100
-        },
-        {
-          "keyword": "フロリダディズニー",
-          "score": 99
-        },
-        {
-          "keyword": "nba プレーオフ",
-          "score": 98
-        },
-        {
-          "keyword": "平本世中",
-          "score": 97
-        },
-        {
-          "keyword": "千葉県高校野球",
-          "score": 96
-        },
-        {
-          "keyword": "大阪城ホール",
-          "score": 95
-        },
-        {
-          "keyword": "江ノ島線",
-          "score": 94
-        },
-        {
-          "keyword": "石油タンカー",
-          "score": 93
-        },
-        {
-          "keyword": "群馬県高校野球",
-          "score": 92
-        },
-        {
-          "keyword": "岡山 対 広島",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-02T06:01:52.051Z",
       "geo": "JP",
       "source": "google",
@@ -2912,6 +2865,53 @@
         },
         {
           "keyword": "トロント・ブルージェイズ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-06T05:21:05.110Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "dazn",
+          "score": 100
+        },
+        {
+          "keyword": "名古屋 対 g大阪",
+          "score": 99
+        },
+        {
+          "keyword": "ジャイアンツtv",
+          "score": 98
+        },
+        {
+          "keyword": "首相",
+          "score": 97
+        },
+        {
+          "keyword": "大関友久",
+          "score": 96
+        },
+        {
+          "keyword": "cisa",
+          "score": 95
+        },
+        {
+          "keyword": "踊る大捜査線new",
+          "score": 94
+        },
+        {
+          "keyword": "香坂みゆき",
+          "score": 93
+        },
+        {
+          "keyword": "サンフレッチェ広島",
+          "score": 92
+        },
+        {
+          "keyword": "前田健太",
           "score": 91
         }
       ]
