@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-02T20:31:21.555Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "火星",
-          "score": 100
-        },
-        {
-          "keyword": "伊勢神宮",
-          "score": 99
-        },
-        {
-          "keyword": "池脇 千鶴",
-          "score": 98
-        },
-        {
-          "keyword": "インドネシア",
-          "score": 97
-        },
-        {
-          "keyword": "竹原慎二",
-          "score": 96
-        },
-        {
-          "keyword": "ゴルフ",
-          "score": 95
-        },
-        {
-          "keyword": "橋下 徹",
-          "score": 94
-        },
-        {
-          "keyword": "ドン・キホーテ",
-          "score": 93
-        },
-        {
-          "keyword": "石丸伸二",
-          "score": 92
-        },
-        {
-          "keyword": "田村真子",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-05-02T21:30:53.102Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "トヨタ",
-          "score": 100
-        },
-        {
-          "keyword": "山本耕史",
-          "score": 99
-        },
-        {
-          "keyword": "날씨",
-          "score": 98
-        },
-        {
-          "keyword": "jx金属",
-          "score": 97
-        },
-        {
-          "keyword": "山形 天気",
-          "score": 96
-        },
-        {
-          "keyword": "出光 タンカー ホルムズ 海峡",
-          "score": 95
-        },
-        {
-          "keyword": "チャーチルダウンズステークス",
-          "score": 94
-        },
-        {
-          "keyword": "日村 勇紀",
-          "score": 93
-        },
-        {
-          "keyword": "長崎天気",
-          "score": 92
-        },
-        {
-          "keyword": "今永昇太",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-02T22:30:04.472Z",
       "geo": "JP",
       "source": "google",
@@ -2677,6 +2583,53 @@
         },
         {
           "keyword": "ヨルダン・アルバレス",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-06T21:36:28.529Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "死体",
+          "score": 100
+        },
+        {
+          "keyword": "nvda",
+          "score": 99
+        },
+        {
+          "keyword": "株式",
+          "score": 98
+        },
+        {
+          "keyword": "tenki",
+          "score": 97
+        },
+        {
+          "keyword": "トロント・ブルージェイズ",
+          "score": 96
+        },
+        {
+          "keyword": "大谷翔平",
+          "score": 95
+        },
+        {
+          "keyword": "マイク・トラウト",
+          "score": 94
+        },
+        {
+          "keyword": "布袋 寅泰",
+          "score": 93
+        },
+        {
+          "keyword": "永野",
+          "score": 92
+        },
+        {
+          "keyword": "小泉今日子 ライブ",
           "score": 91
         }
       ]
