@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-02T23:10:32.645Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "東京ドイツ村",
-          "score": 100
-        },
-        {
-          "keyword": "愛子 内親王",
-          "score": 99
-        },
-        {
-          "keyword": "伊万里",
-          "score": 98
-        },
-        {
-          "keyword": "河出奈都美",
-          "score": 97
-        },
-        {
-          "keyword": "ロケット",
-          "score": 96
-        },
-        {
-          "keyword": "東北道 事故",
-          "score": 95
-        },
-        {
-          "keyword": "観戦 場所 カージナルス 対 ドジャース",
-          "score": 94
-        },
-        {
-          "keyword": "中山優馬",
-          "score": 93
-        },
-        {
-          "keyword": "菊地亜美",
-          "score": 92
-        },
-        {
-          "keyword": "名古屋",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-03T00:05:00.022Z",
       "geo": "JP",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "stranger than heaven",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-06T23:40:37.982Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ロイヤルズ 対 ガーディアンズ",
+          "score": 100
+        },
+        {
+          "keyword": "徳島県",
+          "score": 99
+        },
+        {
+          "keyword": "デルタ",
+          "score": 98
+        },
+        {
+          "keyword": "風間俊介",
+          "score": 97
+        },
+        {
+          "keyword": "マネーフォワード",
+          "score": 96
+        },
+        {
+          "keyword": "リリコ",
+          "score": 95
+        },
+        {
+          "keyword": "郵便局",
+          "score": 94
+        },
+        {
+          "keyword": "ケンタッキー カーネル",
+          "score": 93
+        },
+        {
+          "keyword": "星座占い",
+          "score": 92
+        },
+        {
+          "keyword": "red",
           "score": 91
         }
       ]

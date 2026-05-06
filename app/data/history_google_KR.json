@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-02T23:10:31.320Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "weather",
-          "score": 100
-        },
-        {
-          "keyword": "날씨",
-          "score": 99
-        },
-        {
-          "keyword": "lpga",
-          "score": 98
-        },
-        {
-          "keyword": "염경엽",
-          "score": 97
-        },
-        {
-          "keyword": "이시형",
-          "score": 96
-        },
-        {
-          "keyword": "이수진",
-          "score": 95
-        },
-        {
-          "keyword": "야구",
-          "score": 94
-        },
-        {
-          "keyword": "아크인베스트",
-          "score": 93
-        },
-        {
-          "keyword": "天気",
-          "score": 92
-        },
-        {
-          "keyword": "tsmc",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-03T00:04:58.635Z",
       "geo": "KR",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "오타니 쇼헤이",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-06T23:40:36.559Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "오정태",
+          "score": 100
+        },
+        {
+          "keyword": "마르타 코스튜크",
+          "score": 99
+        },
+        {
+          "keyword": "뉴토끼마나토끼",
+          "score": 98
+        },
+        {
+          "keyword": "tsm",
+          "score": 97
+        },
+        {
+          "keyword": "운세",
+          "score": 96
+        },
+        {
+          "keyword": "테니스",
+          "score": 95
+        },
+        {
+          "keyword": "현대자동차그룹",
+          "score": 94
+        },
+        {
+          "keyword": "weather",
+          "score": 93
+        },
+        {
+          "keyword": "smci",
+          "score": 92
+        },
+        {
+          "keyword": "아침마당",
           "score": 91
         }
       ]
