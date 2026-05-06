@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-02T00:09:40.108Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ben rice",
-          "score": 100
-        },
-        {
-          "keyword": "pistons score",
-          "score": 99
-        },
-        {
-          "keyword": "braves vs rockies",
-          "score": 98
-        },
-        {
-          "keyword": "duncan robinson",
-          "score": 97
-        },
-        {
-          "keyword": "jose caballero",
-          "score": 96
-        },
-        {
-          "keyword": "anthony black",
-          "score": 95
-        },
-        {
-          "keyword": "goga bitadze",
-          "score": 94
-        },
-        {
-          "keyword": "cade povich",
-          "score": 93
-        },
-        {
-          "keyword": "bard college",
-          "score": 92
-        },
-        {
-          "keyword": "laura ingraham",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-02T03:56:29.564Z",
       "geo": "US",
       "source": "google",
@@ -2912,6 +2865,53 @@
         },
         {
           "keyword": "karoline leavitt baby",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-06T01:52:43.152Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tigres",
+          "score": 100
+        },
+        {
+          "keyword": "paul goldschmidt",
+          "score": 99
+        },
+        {
+          "keyword": "megan fox",
+          "score": 98
+        },
+        {
+          "keyword": "byron buxton",
+          "score": 97
+        },
+        {
+          "keyword": "sadie sink",
+          "score": 96
+        },
+        {
+          "keyword": "jalen duren",
+          "score": 95
+        },
+        {
+          "keyword": "jarred vanderbilt",
+          "score": 94
+        },
+        {
+          "keyword": "katie porter",
+          "score": 93
+        },
+        {
+          "keyword": "matt mahan",
+          "score": 92
+        },
+        {
+          "keyword": "jazz chisholm jr.",
           "score": 91
         }
       ]

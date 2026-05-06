@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-02T00:09:43.101Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "村上佳菜子",
-          "score": 100
-        },
-        {
-          "keyword": "ゲオ",
-          "score": 99
-        },
-        {
-          "keyword": "井上拓真",
-          "score": 98
-        },
-        {
-          "keyword": "消費",
-          "score": 97
-        },
-        {
-          "keyword": "菊池亜希子",
-          "score": 96
-        },
-        {
-          "keyword": "シャトレーゼ",
-          "score": 95
-        },
-        {
-          "keyword": "りくりゅうペア",
-          "score": 94
-        },
-        {
-          "keyword": "ラプターズ 対 キャバリアーズ",
-          "score": 93
-        },
-        {
-          "keyword": "河合塾",
-          "score": 92
-        },
-        {
-          "keyword": "弘前",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-02T03:56:32.389Z",
       "geo": "JP",
       "source": "google",
@@ -2912,6 +2865,53 @@
         },
         {
           "keyword": "土屋太鳳",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-06T01:52:45.800Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "高千穂",
+          "score": 100
+        },
+        {
+          "keyword": "キタムラ",
+          "score": 99
+        },
+        {
+          "keyword": "ザ・ノンフィクション",
+          "score": 98
+        },
+        {
+          "keyword": "dバックス 対 パイレーツ",
+          "score": 97
+        },
+        {
+          "keyword": "カナリア諸島",
+          "score": 96
+        },
+        {
+          "keyword": "泉大津",
+          "score": 95
+        },
+        {
+          "keyword": "さとらんど",
+          "score": 94
+        },
+        {
+          "keyword": "蘭丸",
+          "score": 93
+        },
+        {
+          "keyword": "山本リンダ",
+          "score": 92
+        },
+        {
+          "keyword": "トロント・ブルージェイズ",
           "score": 91
         }
       ]
