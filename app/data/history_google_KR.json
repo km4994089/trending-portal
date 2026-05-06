@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-02T22:30:03.063Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "자동차",
-          "score": 100
-        },
-        {
-          "keyword": "음식",
-          "score": 99
-        },
-        {
-          "keyword": "이서진",
-          "score": 98
-        },
-        {
-          "keyword": "기상청",
-          "score": 97
-        },
-        {
-          "keyword": "3기 신도시",
-          "score": 96
-        },
-        {
-          "keyword": "마우리시오 포체티노",
-          "score": 95
-        },
-        {
-          "keyword": "웨스트햄 유나이티드 fc",
-          "score": 94
-        },
-        {
-          "keyword": "박진만",
-          "score": 93
-        },
-        {
-          "keyword": "닥터신",
-          "score": 92
-        },
-        {
-          "keyword": "건강",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-02T23:10:31.320Z",
       "geo": "KR",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "upm",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-06T22:39:33.766Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "joby",
+          "score": 100
+        },
+        {
+          "keyword": "hbf",
+          "score": 99
+        },
+        {
+          "keyword": "지예은",
+          "score": 98
+        },
+        {
+          "keyword": "nintendo",
+          "score": 97
+        },
+        {
+          "keyword": "스트 레티 지",
+          "score": 96
+        },
+        {
+          "keyword": "삼성전자",
+          "score": 95
+        },
+        {
+          "keyword": "기자회견",
+          "score": 94
+        },
+        {
+          "keyword": "앤디 페이지",
+          "score": 93
+        },
+        {
+          "keyword": "nvda",
+          "score": 92
+        },
+        {
+          "keyword": "오타니 쇼헤이",
           "score": 91
         }
       ]

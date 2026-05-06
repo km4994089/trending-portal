@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-02T22:30:04.472Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "小久保 裕紀",
-          "score": 100
-        },
-        {
-          "keyword": "ロピア",
-          "score": 99
-        },
-        {
-          "keyword": "ザ鉄腕dash",
-          "score": 98
-        },
-        {
-          "keyword": "宮崎早織",
-          "score": 97
-        },
-        {
-          "keyword": "庄司浩平",
-          "score": 96
-        },
-        {
-          "keyword": "ベルギーリーグ",
-          "score": 95
-        },
-        {
-          "keyword": "滋賀 天気",
-          "score": 94
-        },
-        {
-          "keyword": "石田嵩人",
-          "score": 93
-        },
-        {
-          "keyword": "岐阜 天気",
-          "score": 92
-        },
-        {
-          "keyword": "鎌田大地",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-02T23:10:32.645Z",
       "geo": "JP",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "小泉今日子 ライブ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-06T22:39:35.369Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "タイガース 対 レッドソックス",
+          "score": 100
+        },
+        {
+          "keyword": "国民民主党",
+          "score": 99
+        },
+        {
+          "keyword": "ナショナルズ 対 ツインズ",
+          "score": 98
+        },
+        {
+          "keyword": "箱根",
+          "score": 97
+        },
+        {
+          "keyword": "石川祐希",
+          "score": 96
+        },
+        {
+          "keyword": "asml",
+          "score": 95
+        },
+        {
+          "keyword": "伊藤沙莉",
+          "score": 94
+        },
+        {
+          "keyword": "山田二千華",
+          "score": 93
+        },
+        {
+          "keyword": "東ソー",
+          "score": 92
+        },
+        {
+          "keyword": "stranger than heaven",
           "score": 91
         }
       ]
