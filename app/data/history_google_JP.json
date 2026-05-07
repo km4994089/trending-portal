@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-03T22:30:16.657Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "野呂佳代",
-          "score": 100
-        },
-        {
-          "keyword": "pltr",
-          "score": 99
-        },
-        {
-          "keyword": "上野動物園",
-          "score": 98
-        },
-        {
-          "keyword": "ホルムズ海峡冬景色",
-          "score": 97
-        },
-        {
-          "keyword": "ドトール",
-          "score": 96
-        },
-        {
-          "keyword": "東京駅",
-          "score": 95
-        },
-        {
-          "keyword": "東京電力",
-          "score": 94
-        },
-        {
-          "keyword": "マックスバリュ",
-          "score": 93
-        },
-        {
-          "keyword": "鈴木 新 彩",
-          "score": 92
-        },
-        {
-          "keyword": "ジュゼッペ ガリバルディ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-03T23:11:11.031Z",
       "geo": "JP",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "赤岳",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-07T22:51:42.368Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "炎鵬",
+          "score": 100
+        },
+        {
+          "keyword": "エアバスa330",
+          "score": 99
+        },
+        {
+          "keyword": "京都天気",
+          "score": 98
+        },
+        {
+          "keyword": "踊る大捜査線",
+          "score": 97
+        },
+        {
+          "keyword": "三越 フォカッチャ",
+          "score": 96
+        },
+        {
+          "keyword": "せいや",
+          "score": 95
+        },
+        {
+          "keyword": "ラファエル",
+          "score": 94
+        },
+        {
+          "keyword": "トライアル",
+          "score": 93
+        },
+        {
+          "keyword": "トマト",
+          "score": 92
+        },
+        {
+          "keyword": "コロプラ",
           "score": 91
         }
       ]

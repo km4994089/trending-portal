@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-03T22:30:15.403Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "가상자산",
-          "score": 100
-        },
-        {
-          "keyword": "롯데 자이언츠",
-          "score": 99
-        },
-        {
-          "keyword": "lg 트윈스",
-          "score": 98
-        },
-        {
-          "keyword": "선박",
-          "score": 97
-        },
-        {
-          "keyword": "김혜성",
-          "score": 96
-        },
-        {
-          "keyword": "포포투",
-          "score": 95
-        },
-        {
-          "keyword": "이란",
-          "score": 94
-        },
-        {
-          "keyword": "문세윤",
-          "score": 93
-        },
-        {
-          "keyword": "헌법",
-          "score": 92
-        },
-        {
-          "keyword": "음식",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-03T23:11:09.685Z",
       "geo": "KR",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "스타뉴스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-07T22:51:41.138Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "반도체",
+          "score": 100
+        },
+        {
+          "keyword": "김태규",
+          "score": 99
+        },
+        {
+          "keyword": "al shabab fc vs al-nassr standings",
+          "score": 98
+        },
+        {
+          "keyword": "tsla",
+          "score": 97
+        },
+        {
+          "keyword": "현대 마이티",
+          "score": 96
+        },
+        {
+          "keyword": "코스피 삼성전자 sk하이닉스",
+          "score": 95
+        },
+        {
+          "keyword": "허인회",
+          "score": 94
+        },
+        {
+          "keyword": "에마뉘엘 마크롱",
+          "score": 93
+        },
+        {
+          "keyword": "s&p 500",
+          "score": 92
+        },
+        {
+          "keyword": "김고은",
           "score": 91
         }
       ]
