@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-03T13:52:02.423Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "고수",
-          "score": 100
-        },
-        {
-          "keyword": "강남",
-          "score": 99
-        },
-        {
-          "keyword": "이선호",
-          "score": 98
-        },
-        {
-          "keyword": "한윤서",
-          "score": 97
-        },
-        {
-          "keyword": "기아 pv5",
-          "score": 96
-        },
-        {
-          "keyword": "우버컵배드민턴결승",
-          "score": 95
-        },
-        {
-          "keyword": "맨유 리버풀",
-          "score": 94
-        },
-        {
-          "keyword": "교통 사고",
-          "score": 93
-        },
-        {
-          "keyword": "김태호",
-          "score": 92
-        },
-        {
-          "keyword": "김요한",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-05-03T14:40:27.416Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "본머스",
-          "score": 100
-        },
-        {
-          "keyword": "jtbc",
-          "score": 99
-        },
-        {
-          "keyword": "김가은",
-          "score": 98
-        },
-        {
-          "keyword": "박준형",
-          "score": 97
-        },
-        {
-          "keyword": "토마호크",
-          "score": 96
-        },
-        {
-          "keyword": "모자무싸",
-          "score": 95
-        },
-        {
-          "keyword": "5월4일",
-          "score": 94
-        },
-        {
-          "keyword": "이종혁",
-          "score": 93
-        },
-        {
-          "keyword": "오준성",
-          "score": 92
-        },
-        {
-          "keyword": "이범수",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-03T15:37:30.964Z",
       "geo": "KR",
       "source": "google",
@@ -2536,6 +2442,53 @@
         },
         {
           "keyword": "스포츠조선",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-07T15:09:05.228Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lsg vs rcb",
+          "score": 100
+        },
+        {
+          "keyword": "추아메니",
+          "score": 99
+        },
+        {
+          "keyword": "김진태",
+          "score": 98
+        },
+        {
+          "keyword": "백윤식",
+          "score": 97
+        },
+        {
+          "keyword": "김서현",
+          "score": 96
+        },
+        {
+          "keyword": "쿠싱",
+          "score": 95
+        },
+        {
+          "keyword": "신현빈",
+          "score": 94
+        },
+        {
+          "keyword": "윤상",
+          "score": 93
+        },
+        {
+          "keyword": "여자친구",
+          "score": 92
+        },
+        {
+          "keyword": "이현우",
           "score": 91
         }
       ]
