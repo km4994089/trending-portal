@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-03T07:03:45.040Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "트레이드",
-          "score": 100
-        },
-        {
-          "keyword": "수도권 광역급행철도",
-          "score": 99
-        },
-        {
-          "keyword": "한국경제신문사",
-          "score": 98
-        },
-        {
-          "keyword": "최형우",
-          "score": 97
-        },
-        {
-          "keyword": "석유",
-          "score": 96
-        },
-        {
-          "keyword": "시장 노점",
-          "score": 95
-        },
-        {
-          "keyword": "경제",
-          "score": 94
-        },
-        {
-          "keyword": "백승건",
-          "score": 93
-        },
-        {
-          "keyword": "조국",
-          "score": 92
-        },
-        {
-          "keyword": "청년내일저축계좌",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-03T08:59:57.306Z",
       "geo": "KR",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "이창호",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-07T08:02:51.339Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "유치원",
+          "score": 100
+        },
+        {
+          "keyword": "멕시코 대통령",
+          "score": 99
+        },
+        {
+          "keyword": "이범호",
+          "score": 98
+        },
+        {
+          "keyword": "수영",
+          "score": 97
+        },
+        {
+          "keyword": "더불어민주당",
+          "score": 96
+        },
+        {
+          "keyword": "전현무계획",
+          "score": 95
+        },
+        {
+          "keyword": "휴게소",
+          "score": 94
+        },
+        {
+          "keyword": "포스코",
+          "score": 93
+        },
+        {
+          "keyword": "빌보드",
+          "score": 92
+        },
+        {
+          "keyword": "대기업",
           "score": 91
         }
       ]
