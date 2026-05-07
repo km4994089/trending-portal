@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-03T08:59:57.306Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "독일",
-          "score": 100
-        },
-        {
-          "keyword": "오승환",
-          "score": 99
-        },
-        {
-          "keyword": "골프",
-          "score": 98
-        },
-        {
-          "keyword": "보험계약",
-          "score": 97
-        },
-        {
-          "keyword": "뉴욕",
-          "score": 96
-        },
-        {
-          "keyword": "현대자동차",
-          "score": 95
-        },
-        {
-          "keyword": "국민성장펀드",
-          "score": 94
-        },
-        {
-          "keyword": "상속세",
-          "score": 93
-        },
-        {
-          "keyword": "양우현",
-          "score": 92
-        },
-        {
-          "keyword": "디지털 자산",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-05-03T10:06:37.509Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "마사회",
-          "score": 100
-        },
-        {
-          "keyword": "위안부",
-          "score": 99
-        },
-        {
-          "keyword": "종교",
-          "score": 98
-        },
-        {
-          "keyword": "에이피알",
-          "score": 97
-        },
-        {
-          "keyword": "스피릿 항공",
-          "score": 96
-        },
-        {
-          "keyword": "강소라",
-          "score": 95
-        },
-        {
-          "keyword": "송성문",
-          "score": 94
-        },
-        {
-          "keyword": "경매",
-          "score": 93
-        },
-        {
-          "keyword": "저축",
-          "score": 92
-        },
-        {
-          "keyword": "삼성 한화",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-03T11:10:48.756Z",
       "geo": "KR",
       "source": "google",
@@ -2630,6 +2536,53 @@
         },
         {
           "keyword": "대기업",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-07T10:38:03.422Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "반도체 메모리",
+          "score": 100
+        },
+        {
+          "keyword": "김단비",
+          "score": 99
+        },
+        {
+          "keyword": "구속",
+          "score": 98
+        },
+        {
+          "keyword": "부동산 투자",
+          "score": 97
+        },
+        {
+          "keyword": "놀이공원",
+          "score": 96
+        },
+        {
+          "keyword": "정시아",
+          "score": 95
+        },
+        {
+          "keyword": "춘천시",
+          "score": 94
+        },
+        {
+          "keyword": "nh투자증권",
+          "score": 93
+        },
+        {
+          "keyword": "tsmc",
+          "score": 92
+        },
+        {
+          "keyword": "다이소",
           "score": 91
         }
       ]
