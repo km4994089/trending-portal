@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-03T23:11:11.031Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ジャパンジャム 中止",
-          "score": 100
-        },
-        {
-          "keyword": "ぼる塾",
-          "score": 99
-        },
-        {
-          "keyword": "ジョイフル本田",
-          "score": 98
-        },
-        {
-          "keyword": "九州自動車道 渋滞",
-          "score": 97
-        },
-        {
-          "keyword": "イケア",
-          "score": 96
-        },
-        {
-          "keyword": "jr運行情報",
-          "score": 95
-        },
-        {
-          "keyword": "岡山",
-          "score": 94
-        },
-        {
-          "keyword": "ディズニーランド",
-          "score": 93
-        },
-        {
-          "keyword": "グアム",
-          "score": 92
-        },
-        {
-          "keyword": "平井大",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-04T00:08:29.143Z",
       "geo": "JP",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "コロプラ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-07T23:43:23.897Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "危険 スイング",
+          "score": 100
+        },
+        {
+          "keyword": "sports",
+          "score": 99
+        },
+        {
+          "keyword": "大森元貴",
+          "score": 98
+        },
+        {
+          "keyword": "風薫る キャスト",
+          "score": 97
+        },
+        {
+          "keyword": "研ナオコ",
+          "score": 96
+        },
+        {
+          "keyword": "あさイチ",
+          "score": 95
+        },
+        {
+          "keyword": "ウォルト・ディズニー・カンパニー",
+          "score": 94
+        },
+        {
+          "keyword": "sq",
+          "score": 93
+        },
+        {
+          "keyword": "アイスクリームの日",
+          "score": 92
+        },
+        {
+          "keyword": "安住淳",
           "score": 91
         }
       ]
