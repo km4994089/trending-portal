@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-03T00:04:57.524Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "leon thomas",
-          "score": 100
-        },
-        {
-          "keyword": "owen tippett",
-          "score": 99
-        },
-        {
-          "keyword": "nick nurse",
-          "score": 98
-        },
-        {
-          "keyword": "sam hauser",
-          "score": 97
-        },
-        {
-          "keyword": "jj wetherholt",
-          "score": 96
-        },
-        {
-          "keyword": "regal movie theater",
-          "score": 95
-        },
-        {
-          "keyword": "lisa ann walter",
-          "score": 94
-        },
-        {
-          "keyword": "bos vs phi",
-          "score": 93
-        },
-        {
-          "keyword": "jaylen brown",
-          "score": 92
-        },
-        {
-          "keyword": "palmeiras vs santos fc standings",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-03T04:25:38.220Z",
       "geo": "US",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "mitchell robinson",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-07T01:57:10.643Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sheep detectives",
+          "score": 100
+        },
+        {
+          "keyword": "john starks",
+          "score": 99
+        },
+        {
+          "keyword": "tejay antone",
+          "score": 98
+        },
+        {
+          "keyword": "spurs game tonight",
+          "score": 97
+        },
+        {
+          "keyword": "toluca",
+          "score": 96
+        },
+        {
+          "keyword": "alex lyon",
+          "score": 95
+        },
+        {
+          "keyword": "newt gingrich",
+          "score": 94
+        },
+        {
+          "keyword": "mississippi tornado",
+          "score": 93
+        },
+        {
+          "keyword": "washington nationals",
+          "score": 92
+        },
+        {
+          "keyword": "knicks",
           "score": 91
         }
       ]

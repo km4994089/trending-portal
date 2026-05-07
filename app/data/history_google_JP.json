@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-03T00:05:00.022Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "三国競艇",
-          "score": 100
-        },
-        {
-          "keyword": "鉄道博物館",
-          "score": 99
-        },
-        {
-          "keyword": "京成電鉄",
-          "score": 98
-        },
-        {
-          "keyword": "小田原",
-          "score": 97
-        },
-        {
-          "keyword": "牧歌の里",
-          "score": 96
-        },
-        {
-          "keyword": "高岡市",
-          "score": 95
-        },
-        {
-          "keyword": "npt",
-          "score": 94
-        },
-        {
-          "keyword": "カーディナルス",
-          "score": 93
-        },
-        {
-          "keyword": "長崎県",
-          "score": 92
-        },
-        {
-          "keyword": "猿島",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-03T04:25:40.822Z",
       "geo": "JP",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "red",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-07T01:57:13.254Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "環境省",
+          "score": 100
+        },
+        {
+          "keyword": "dバックス 対 パイレーツ",
+          "score": 99
+        },
+        {
+          "keyword": "スパーズ 対 ウルブズ",
+          "score": 98
+        },
+        {
+          "keyword": "相鉄本線",
+          "score": 97
+        },
+        {
+          "keyword": "静岡県",
+          "score": 96
+        },
+        {
+          "keyword": "三菱ufj",
+          "score": 95
+        },
+        {
+          "keyword": "ロッキーズ 対 メッツ",
+          "score": 94
+        },
+        {
+          "keyword": "細田佳央太",
+          "score": 93
+        },
+        {
+          "keyword": "吉田鋼太郎",
+          "score": 92
+        },
+        {
+          "keyword": "首相",
           "score": 91
         }
       ]
