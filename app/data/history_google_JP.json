@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-04T11:42:09.097Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "アデル",
-          "score": 100
-        },
-        {
-          "keyword": "ドレイク",
-          "score": 99
-        },
-        {
-          "keyword": "高梨沙羅",
-          "score": 98
-        },
-        {
-          "keyword": "森下翔太",
-          "score": 97
-        },
-        {
-          "keyword": "栗山英樹",
-          "score": 96
-        },
-        {
-          "keyword": "加藤あい",
-          "score": 95
-        },
-        {
-          "keyword": "ロッテ",
-          "score": 94
-        },
-        {
-          "keyword": "新庄剛志",
-          "score": 93
-        },
-        {
-          "keyword": "黒田博樹",
-          "score": 92
-        },
-        {
-          "keyword": "プロ野球 阪神",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-04T13:21:36.137Z",
       "geo": "JP",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "mekpark",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-08T11:49:38.986Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "君のクイズ",
+          "score": 100
+        },
+        {
+          "keyword": "大井町",
+          "score": 99
+        },
+        {
+          "keyword": "詐欺",
+          "score": 98
+        },
+        {
+          "keyword": "ブレイキングダウン",
+          "score": 97
+        },
+        {
+          "keyword": "ニコン",
+          "score": 96
+        },
+        {
+          "keyword": "平野美宇",
+          "score": 95
+        },
+        {
+          "keyword": "草薙",
+          "score": 94
+        },
+        {
+          "keyword": "佐藤健",
+          "score": 93
+        },
+        {
+          "keyword": "卓球 世界ランキング",
+          "score": 92
+        },
+        {
+          "keyword": "桐生市",
           "score": 91
         }
       ]
