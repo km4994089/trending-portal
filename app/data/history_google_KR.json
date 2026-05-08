@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-04T00:08:27.938Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "재보궐선거",
-          "score": 100
-        },
-        {
-          "keyword": "nba 플레이오프",
-          "score": 99
-        },
-        {
-          "keyword": "버크셔 해서웨이",
-          "score": 98
-        },
-        {
-          "keyword": "항공권",
-          "score": 97
-        },
-        {
-          "keyword": "경제",
-          "score": 96
-        },
-        {
-          "keyword": "고윤정",
-          "score": 95
-        },
-        {
-          "keyword": "thứ hạng của espanyol gặp real madrid",
-          "score": 94
-        },
-        {
-          "keyword": "허인회",
-          "score": 93
-        },
-        {
-          "keyword": "담합",
-          "score": 92
-        },
-        {
-          "keyword": "pltr",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-04T04:14:42.425Z",
       "geo": "KR",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "할인",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-08T02:02:57.700Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "전화",
+          "score": 100
+        },
+        {
+          "keyword": "공연",
+          "score": 99
+        },
+        {
+          "keyword": "3기신도시 남양주 왕숙지구",
+          "score": 98
+        },
+        {
+          "keyword": "대한광통신 주가",
+          "score": 97
+        },
+        {
+          "keyword": "롯데자이언츠",
+          "score": 96
+        },
+        {
+          "keyword": "국가유산청",
+          "score": 95
+        },
+        {
+          "keyword": "판결",
+          "score": 94
+        },
+        {
+          "keyword": "국립중앙박물관",
+          "score": 93
+        },
+        {
+          "keyword": "진은정",
+          "score": 92
+        },
+        {
+          "keyword": "음바페",
           "score": 91
         }
       ]
