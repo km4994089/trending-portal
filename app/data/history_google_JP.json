@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-04T20:44:28.036Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "man city",
-          "score": 100
-        },
-        {
-          "keyword": "遠藤 航",
-          "score": 99
-        },
-        {
-          "keyword": "nhk 番組表",
-          "score": 98
-        },
-        {
-          "keyword": "フジャイラ",
-          "score": 97
-        },
-        {
-          "keyword": "ゴルフ",
-          "score": 96
-        },
-        {
-          "keyword": "ナンバーズ当選番号",
-          "score": 95
-        },
-        {
-          "keyword": "キム ヒウォン",
-          "score": 94
-        },
-        {
-          "keyword": "パナマ",
-          "score": 93
-        },
-        {
-          "keyword": "阿部なつき",
-          "score": 92
-        },
-        {
-          "keyword": "丸亀競艇",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-04T21:52:38.340Z",
       "geo": "JP",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "インテル 株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-08T20:45:15.694Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "サンディスク 株価",
+          "score": 100
+        },
+        {
+          "keyword": "ナスダック100",
+          "score": 99
+        },
+        {
+          "keyword": "エムバペ",
+          "score": 98
+        },
+        {
+          "keyword": "ドルトムント 対 フランクフルト",
+          "score": 97
+        },
+        {
+          "keyword": "サンリオ",
+          "score": 96
+        },
+        {
+          "keyword": "フェデリコ・バルベルデ",
+          "score": 95
+        },
+        {
+          "keyword": "テスラ株価",
+          "score": 94
+        },
+        {
+          "keyword": "ノバク・ジョコビッチ",
+          "score": 93
+        },
+        {
+          "keyword": "ロト6",
+          "score": 92
+        },
+        {
+          "keyword": "石川祐希",
           "score": 91
         }
       ]
