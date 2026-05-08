@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-04T13:21:34.729Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "장마",
-          "score": 100
-        },
-        {
-          "keyword": "원자력 잠수함",
-          "score": 99
-        },
-        {
-          "keyword": "양민혁",
-          "score": 98
-        },
-        {
-          "keyword": "자전거",
-          "score": 97
-        },
-        {
-          "keyword": "xsmb",
-          "score": 96
-        },
-        {
-          "keyword": "sk온",
-          "score": 95
-        },
-        {
-          "keyword": "불꽃야구",
-          "score": 94
-        },
-        {
-          "keyword": "주식시장",
-          "score": 93
-        },
-        {
-          "keyword": "one ui 8.5",
-          "score": 92
-        },
-        {
-          "keyword": "김태년",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-04T15:27:26.684Z",
       "geo": "KR",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "한타 바이러스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-08T15:04:34.344Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "로켓랩",
+          "score": 100
+        },
+        {
+          "keyword": "이순재",
+          "score": 99
+        },
+        {
+          "keyword": "한화",
+          "score": 98
+        },
+        {
+          "keyword": "닌텐도",
+          "score": 97
+        },
+        {
+          "keyword": "은중과 상연",
+          "score": 96
+        },
+        {
+          "keyword": "조민아",
+          "score": 95
+        },
+        {
+          "keyword": "한화 야구",
+          "score": 94
+        },
+        {
+          "keyword": "이재명",
+          "score": 93
+        },
+        {
+          "keyword": "상장지수 펀드",
+          "score": 92
+        },
+        {
+          "keyword": "멋진 신세계 드라마",
           "score": 91
         }
       ]
