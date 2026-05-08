@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-04T04:14:42.425Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "한온시스템",
-          "score": 100
-        },
-        {
-          "keyword": "육상 경기",
-          "score": 99
-        },
-        {
-          "keyword": "김준호",
-          "score": 98
-        },
-        {
-          "keyword": "이재현",
-          "score": 97
-        },
-        {
-          "keyword": "세종특별자치시",
-          "score": 96
-        },
-        {
-          "keyword": "산일전기",
-          "score": 95
-        },
-        {
-          "keyword": "하이닉스",
-          "score": 94
-        },
-        {
-          "keyword": "삼성증권",
-          "score": 93
-        },
-        {
-          "keyword": "알렉스 퍼거슨",
-          "score": 92
-        },
-        {
-          "keyword": "김시우",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-04T07:30:21.535Z",
       "geo": "KR",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "음바페",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-08T05:14:41.129Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "최준영",
+          "score": 100
+        },
+        {
+          "keyword": "이영호",
+          "score": 99
+        },
+        {
+          "keyword": "에이피알",
+          "score": 98
+        },
+        {
+          "keyword": "펜타포트",
+          "score": 97
+        },
+        {
+          "keyword": "유조선",
+          "score": 96
+        },
+        {
+          "keyword": "곡사포",
+          "score": 95
+        },
+        {
+          "keyword": "노동조합",
+          "score": 94
+        },
+        {
+          "keyword": "ban vs pak",
+          "score": 93
+        },
+        {
+          "keyword": "canvas",
+          "score": 92
+        },
+        {
+          "keyword": "홈플러스",
           "score": 91
         }
       ]
