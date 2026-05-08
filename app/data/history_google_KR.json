@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-04T21:52:37.057Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "패션",
-          "score": 100
-        },
-        {
-          "keyword": "에버튼",
-          "score": 99
-        },
-        {
-          "keyword": "마크 도스 산토스",
-          "score": 98
-        },
-        {
-          "keyword": "경제",
-          "score": 97
-        },
-        {
-          "keyword": "premier league",
-          "score": 96
-        },
-        {
-          "keyword": "캄보디아",
-          "score": 95
-        },
-        {
-          "keyword": "아는 형님",
-          "score": 94
-        },
-        {
-          "keyword": "김혜수",
-          "score": 93
-        },
-        {
-          "keyword": "삼성중공업",
-          "score": 92
-        },
-        {
-          "keyword": "맨시티",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-04T22:47:34.641Z",
       "geo": "KR",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "김다현",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-08T22:44:49.190Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "필라델피아 반도체 지수",
+          "score": 100
+        },
+        {
+          "keyword": "기부",
+          "score": 99
+        },
+        {
+          "keyword": "나스닥 100",
+          "score": 98
+        },
+        {
+          "keyword": "제주항공",
+          "score": 97
+        },
+        {
+          "keyword": "원자력 발전소",
+          "score": 96
+        },
+        {
+          "keyword": "중랑구",
+          "score": 95
+        },
+        {
+          "keyword": "황인범",
+          "score": 94
+        },
+        {
+          "keyword": "용인시",
+          "score": 93
+        },
+        {
+          "keyword": "레인보우로보틱스",
+          "score": 92
+        },
+        {
+          "keyword": "프로야구 순위",
           "score": 91
         }
       ]
