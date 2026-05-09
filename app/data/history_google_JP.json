@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-05T11:57:38.161Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大井川鉄道",
-          "score": 100
-        },
-        {
-          "keyword": "北海道テレビ放送",
-          "score": 99
-        },
-        {
-          "keyword": "尾瀬",
-          "score": 98
-        },
-        {
-          "keyword": "北斗晶",
-          "score": 97
-        },
-        {
-          "keyword": "ニジイロクワガタ",
-          "score": 96
-        },
-        {
-          "keyword": "梅毒",
-          "score": 95
-        },
-        {
-          "keyword": "ベガルタ仙台",
-          "score": 94
-        },
-        {
-          "keyword": "宮沢賢治",
-          "score": 93
-        },
-        {
-          "keyword": "川田将雅",
-          "score": 92
-        },
-        {
-          "keyword": "柴咲コウ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-05T17:00:29.128Z",
       "geo": "JP",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "佐賀県",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-09T12:06:39.257Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ルーマニア 卓球",
+          "score": 100
+        },
+        {
+          "keyword": "石川佳純",
+          "score": 99
+        },
+        {
+          "keyword": "中村敬斗",
+          "score": 98
+        },
+        {
+          "keyword": "松中みなみ",
+          "score": 97
+        },
+        {
+          "keyword": "中村 剛也",
+          "score": 96
+        },
+        {
+          "keyword": "仙台国際ハーフマラソン",
+          "score": 95
+        },
+        {
+          "keyword": "高市早苗",
+          "score": 94
+        },
+        {
+          "keyword": "ゆうこりん",
+          "score": 93
+        },
+        {
+          "keyword": "北川景子",
+          "score": 92
+        },
+        {
+          "keyword": "獺祭",
           "score": 91
         }
       ]
