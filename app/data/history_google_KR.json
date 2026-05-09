@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-05T22:45:34.489Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tsm",
-          "score": 100
-        },
-        {
-          "keyword": "크래프톤",
-          "score": 99
-        },
-        {
-          "keyword": "qqq",
-          "score": 98
-        },
-        {
-          "keyword": "arsenal vs atlético madrid",
-          "score": 97
-        },
-        {
-          "keyword": "필라델피아 반도체 지수",
-          "score": 96
-        },
-        {
-          "keyword": "투자",
-          "score": 95
-        },
-        {
-          "keyword": "김도영",
-          "score": 94
-        },
-        {
-          "keyword": "hbf",
-          "score": 93
-        },
-        {
-          "keyword": "운세",
-          "score": 92
-        },
-        {
-          "keyword": "mu",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-05T23:39:40.002Z",
       "geo": "KR",
       "source": "google",
@@ -2724,6 +2677,53 @@
         },
         {
           "keyword": "풍력 발전",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-09T23:37:07.974Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "가짜뉴스",
+          "score": 100
+        },
+        {
+          "keyword": "브래드 피트",
+          "score": 99
+        },
+        {
+          "keyword": "이성민",
+          "score": 98
+        },
+        {
+          "keyword": "농구",
+          "score": 97
+        },
+        {
+          "keyword": "브라이슨 디섐보",
+          "score": 96
+        },
+        {
+          "keyword": "정유라",
+          "score": 95
+        },
+        {
+          "keyword": "밀양아리랑대축제",
+          "score": 94
+        },
+        {
+          "keyword": "엄태영",
+          "score": 93
+        },
+        {
+          "keyword": "중국 축구 국가대표팀",
+          "score": 92
+        },
+        {
+          "keyword": "fifa u-17 월드컵",
           "score": 91
         }
       ]
