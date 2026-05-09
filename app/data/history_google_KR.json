@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-05T09:25:37.652Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "국채",
-          "score": 100
-        },
-        {
-          "keyword": "야구",
-          "score": 99
-        },
-        {
-          "keyword": "강원 대 포항",
-          "score": 98
-        },
-        {
-          "keyword": "미세 플라스틱",
-          "score": 97
-        },
-        {
-          "keyword": "김효주",
-          "score": 96
-        },
-        {
-          "keyword": "슈",
-          "score": 95
-        },
-        {
-          "keyword": "김천상무 대 울산",
-          "score": 94
-        },
-        {
-          "keyword": "예금",
-          "score": 93
-        },
-        {
-          "keyword": "박영현",
-          "score": 92
-        },
-        {
-          "keyword": "풍력 발전",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-05T10:57:48.695Z",
       "geo": "KR",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "김천상무 대 인천",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-09T10:01:04.972Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "오세훈",
+          "score": 100
+        },
+        {
+          "keyword": "베트남",
+          "score": 99
+        },
+        {
+          "keyword": "서범준",
+          "score": 98
+        },
+        {
+          "keyword": "뉴 진스",
+          "score": 97
+        },
+        {
+          "keyword": "이용식",
+          "score": 96
+        },
+        {
+          "keyword": "전기 자동차",
+          "score": 95
+        },
+        {
+          "keyword": "변우석",
+          "score": 94
+        },
+        {
+          "keyword": "kick",
+          "score": 93
+        },
+        {
+          "keyword": "유상증자",
+          "score": 92
+        },
+        {
+          "keyword": "게장",
           "score": 91
         }
       ]

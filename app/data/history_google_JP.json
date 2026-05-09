@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-05T09:25:38.851Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "サムスン電子",
-          "score": 100
-        },
-        {
-          "keyword": "福井銀行",
-          "score": 99
-        },
-        {
-          "keyword": "辻 希美",
-          "score": 98
-        },
-        {
-          "keyword": "山口県 地震",
-          "score": 97
-        },
-        {
-          "keyword": "郡司裕也",
-          "score": 96
-        },
-        {
-          "keyword": "黒田慶樹",
-          "score": 95
-        },
-        {
-          "keyword": "イオンシネマ海老名",
-          "score": 94
-        },
-        {
-          "keyword": "ブリトニースピアーズ",
-          "score": 93
-        },
-        {
-          "keyword": "ネイマール",
-          "score": 92
-        },
-        {
-          "keyword": "地震 山口",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-05T10:57:49.925Z",
       "geo": "JP",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "鳥取県",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-09T10:01:06.207Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "三河 対 琉球",
+          "score": 100
+        },
+        {
+          "keyword": "松山自動車道",
+          "score": 99
+        },
+        {
+          "keyword": "ザ鉄腕dash",
+          "score": 98
+        },
+        {
+          "keyword": "井川 意 高",
+          "score": 97
+        },
+        {
+          "keyword": "セレッソ",
+          "score": 96
+        },
+        {
+          "keyword": "ケンコバ",
+          "score": 95
+        },
+        {
+          "keyword": "2026",
+          "score": 94
+        },
+        {
+          "keyword": "jre point",
+          "score": 93
+        },
+        {
+          "keyword": "阪神タイガース 大山",
+          "score": 92
+        },
+        {
+          "keyword": "大河ドラマ 豊臣兄弟",
           "score": 91
         }
       ]

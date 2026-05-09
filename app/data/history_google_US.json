@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-05T09:25:36.067Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "anastasia potapova",
-          "score": 100
-        },
-        {
-          "keyword": "cristian garin",
-          "score": 99
-        },
-        {
-          "keyword": "nyt connections hints",
-          "score": 98
-        },
-        {
-          "keyword": "cryptocurrency trading",
-          "score": 97
-        },
-        {
-          "keyword": "golf course",
-          "score": 96
-        },
-        {
-          "keyword": "ok",
-          "score": 95
-        },
-        {
-          "keyword": "sam witwer",
-          "score": 94
-        },
-        {
-          "keyword": "san diego weather",
-          "score": 93
-        },
-        {
-          "keyword": "seattle weather",
-          "score": 92
-        },
-        {
-          "keyword": "brady ebert",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-05T10:57:47.564Z",
       "geo": "US",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "arnold schwarzenegger",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-09T10:01:03.651Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "personal injury lawyers",
+          "score": 100
+        },
+        {
+          "keyword": "motorcycle accident attorneys",
+          "score": 99
+        },
+        {
+          "keyword": "andrey rublev",
+          "score": 98
+        },
+        {
+          "keyword": "pedestrian accident lawyer",
+          "score": 97
+        },
+        {
+          "keyword": "truck accident lawyer",
+          "score": 96
+        },
+        {
+          "keyword": "sheetz",
+          "score": 95
+        },
+        {
+          "keyword": "auto accident attorneys",
+          "score": 94
+        },
+        {
+          "keyword": "car accident attorneys",
+          "score": 93
+        },
+        {
+          "keyword": "coco gauff",
+          "score": 92
+        },
+        {
+          "keyword": "azan awais",
           "score": 91
         }
       ]
