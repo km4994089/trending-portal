@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-05T10:57:48.695Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "헌법재판소",
-          "score": 100
-        },
-        {
-          "keyword": "스피릿 항공",
-          "score": 99
-        },
-        {
-          "keyword": "k리그1",
-          "score": 98
-        },
-        {
-          "keyword": "임재범",
-          "score": 97
-        },
-        {
-          "keyword": "심형탁",
-          "score": 96
-        },
-        {
-          "keyword": "허웅",
-          "score": 95
-        },
-        {
-          "keyword": "포스코",
-          "score": 94
-        },
-        {
-          "keyword": "ssg",
-          "score": 93
-        },
-        {
-          "keyword": "홍진경",
-          "score": 92
-        },
-        {
-          "keyword": "부산광역시",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-05T11:57:36.584Z",
       "geo": "KR",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "게장",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-09T11:24:36.770Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김준수",
+          "score": 100
+        },
+        {
+          "keyword": "서건창",
+          "score": 99
+        },
+        {
+          "keyword": "나성범",
+          "score": 98
+        },
+        {
+          "keyword": "김종국",
+          "score": 97
+        },
+        {
+          "keyword": "살인",
+          "score": 96
+        },
+        {
+          "keyword": "삼성전자",
+          "score": 95
+        },
+        {
+          "keyword": "채연",
+          "score": 94
+        },
+        {
+          "keyword": "대전 대 포항",
+          "score": 93
+        },
+        {
+          "keyword": "표절",
+          "score": 92
+        },
+        {
+          "keyword": "김진욱",
           "score": 91
         }
       ]
