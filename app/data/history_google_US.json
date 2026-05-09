@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-05T07:11:48.678Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "free",
-          "score": 100
-        },
-        {
-          "keyword": "san diego weather",
-          "score": 99
-        },
-        {
-          "keyword": "seattle weather",
-          "score": 98
-        },
-        {
-          "keyword": "brady ebert",
-          "score": 97
-        },
-        {
-          "keyword": "olivia rodrigo presale",
-          "score": 96
-        },
-        {
-          "keyword": "chris brown",
-          "score": 95
-        },
-        {
-          "keyword": "nathan lane",
-          "score": 94
-        },
-        {
-          "keyword": "jaafar jackson met gala 2026",
-          "score": 93
-        },
-        {
-          "keyword": "rachel zegler",
-          "score": 92
-        },
-        {
-          "keyword": "amanda bynes",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-05T09:25:36.067Z",
       "geo": "US",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "brock stewart",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-09T07:22:31.920Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "san andreas fault",
+          "score": 100
+        },
+        {
+          "keyword": "las vegas",
+          "score": 99
+        },
+        {
+          "keyword": "john mulaney",
+          "score": 98
+        },
+        {
+          "keyword": "suvendu adhikari",
+          "score": 97
+        },
+        {
+          "keyword": "earthquake",
+          "score": 96
+        },
+        {
+          "keyword": "earthquake near me",
+          "score": 95
+        },
+        {
+          "keyword": "tarkov",
+          "score": 94
+        },
+        {
+          "keyword": "new movies streaming",
+          "score": 93
+        },
+        {
+          "keyword": "denver airport",
+          "score": 92
+        },
+        {
+          "keyword": "olivia munn",
           "score": 91
         }
       ]
