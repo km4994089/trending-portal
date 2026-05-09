@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-05T04:53:42.279Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ゴンチャ",
-          "score": 100
-        },
-        {
-          "keyword": "藤波辰爾",
-          "score": 99
-        },
-        {
-          "keyword": "出場停止",
-          "score": 98
-        },
-        {
-          "keyword": "平野 レミ",
-          "score": 97
-        },
-        {
-          "keyword": "櫻井心那",
-          "score": 96
-        },
-        {
-          "keyword": "泉大津",
-          "score": 95
-        },
-        {
-          "keyword": "グランド セフト オートvi",
-          "score": 94
-        },
-        {
-          "keyword": "spurs vs timberwolves",
-          "score": 93
-        },
-        {
-          "keyword": "堤真一",
-          "score": 92
-        },
-        {
-          "keyword": "交通情報",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-05T07:11:50.898Z",
       "geo": "JP",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "サントリーホール",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-09T05:17:01.149Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "桜",
+          "score": 100
+        },
+        {
+          "keyword": "さくら",
+          "score": 99
+        },
+        {
+          "keyword": "ブロック・スチュワート",
+          "score": 98
+        },
+        {
+          "keyword": "大阪城",
+          "score": 97
+        },
+        {
+          "keyword": "スズキ・アヴェニス",
+          "score": 96
+        },
+        {
+          "keyword": "瀬戸朝香",
+          "score": 95
+        },
+        {
+          "keyword": "浅井長政",
+          "score": 94
+        },
+        {
+          "keyword": "いわきfc 対 甲府",
+          "score": 93
+        },
+        {
+          "keyword": "fc大阪 対 今治",
+          "score": 92
+        },
+        {
+          "keyword": "フレディ・フリーマン",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-05T04:53:39.912Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jackson lacombe",
-          "score": 100
-        },
-        {
-          "keyword": "aeromexico",
-          "score": 99
-        },
-        {
-          "keyword": "carlos carrasco",
-          "score": 98
-        },
-        {
-          "keyword": "the comeback",
-          "score": 97
-        },
-        {
-          "keyword": "mariners game today",
-          "score": 96
-        },
-        {
-          "keyword": "nepal vs oman",
-          "score": 95
-        },
-        {
-          "keyword": "ducks score",
-          "score": 94
-        },
-        {
-          "keyword": "sacramento weather",
-          "score": 93
-        },
-        {
-          "keyword": "jelly roll",
-          "score": 92
-        },
-        {
-          "keyword": "robert irwin",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-05T07:11:48.678Z",
       "geo": "US",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "aroldis chapman",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-09T05:16:58.479Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "xinxin yao",
+          "score": 100
+        },
+        {
+          "keyword": "ca lottery",
+          "score": 99
+        },
+        {
+          "keyword": "shootout",
+          "score": 98
+        },
+        {
+          "keyword": "gloria trevi",
+          "score": 97
+        },
+        {
+          "keyword": "luigi mangione",
+          "score": 96
+        },
+        {
+          "keyword": "michael harris ii",
+          "score": 95
+        },
+        {
+          "keyword": "dodger score",
+          "score": 94
+        },
+        {
+          "keyword": "entergy",
+          "score": 93
+        },
+        {
+          "keyword": "braves",
+          "score": 92
+        },
+        {
+          "keyword": "brock stewart",
           "score": 91
         }
       ]
