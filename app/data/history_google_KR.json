@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-05T20:56:05.972Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "고소영",
-          "score": 100
-        },
-        {
-          "keyword": "미군",
-          "score": 99
-        },
-        {
-          "keyword": "검사",
-          "score": 98
-        },
-        {
-          "keyword": "아스날",
-          "score": 97
-        },
-        {
-          "keyword": "최유빈",
-          "score": 96
-        },
-        {
-          "keyword": "축구",
-          "score": 95
-        },
-        {
-          "keyword": "장마",
-          "score": 94
-        },
-        {
-          "keyword": "아스널 대 아틀레티코",
-          "score": 93
-        },
-        {
-          "keyword": "arsenal",
-          "score": 92
-        },
-        {
-          "keyword": "수학여행",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-05T21:54:52.605Z",
       "geo": "KR",
       "source": "google",
@@ -2724,6 +2677,53 @@
         },
         {
           "keyword": "군함",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-09T21:34:09.828Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이상민",
+          "score": 100
+        },
+        {
+          "keyword": "김효주",
+          "score": 99
+        },
+        {
+          "keyword": "영화",
+          "score": 98
+        },
+        {
+          "keyword": "운세",
+          "score": 97
+        },
+        {
+          "keyword": "축구",
+          "score": 96
+        },
+        {
+          "keyword": "이재명",
+          "score": 95
+        },
+        {
+          "keyword": "콩",
+          "score": 94
+        },
+        {
+          "keyword": "박찬호",
+          "score": 93
+        },
+        {
+          "keyword": "정부",
+          "score": 92
+        },
+        {
+          "keyword": "파리 생제르맹 fc",
           "score": 91
         }
       ]
