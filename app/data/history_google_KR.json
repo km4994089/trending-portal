@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-05T21:54:52.605Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "아파트",
-          "score": 100
-        },
-        {
-          "keyword": "송성문",
-          "score": 99
-        },
-        {
-          "keyword": "경상남도",
-          "score": 98
-        },
-        {
-          "keyword": "blackpink",
-          "score": 97
-        },
-        {
-          "keyword": "amd",
-          "score": 96
-        },
-        {
-          "keyword": "크리스티아누 호날두",
-          "score": 95
-        },
-        {
-          "keyword": "(주)금양",
-          "score": 94
-        },
-        {
-          "keyword": "삼성전기",
-          "score": 93
-        },
-        {
-          "keyword": "amd 주가",
-          "score": 92
-        },
-        {
-          "keyword": "검찰",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-05T22:45:34.489Z",
       "geo": "KR",
       "source": "google",
@@ -2724,6 +2677,53 @@
         },
         {
           "keyword": "파리 생제르맹 fc",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-09T22:32:56.449Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "현대자동차",
+          "score": 100
+        },
+        {
+          "keyword": "김지민",
+          "score": 99
+        },
+        {
+          "keyword": "프로야구 순위",
+          "score": 98
+        },
+        {
+          "keyword": "이정효",
+          "score": 97
+        },
+        {
+          "keyword": "클리블랜드 대 디트로이트",
+          "score": 96
+        },
+        {
+          "keyword": "대한민국 축구 국가대표팀",
+          "score": 95
+        },
+        {
+          "keyword": "앤트로픽",
+          "score": 94
+        },
+        {
+          "keyword": "kbo 리그",
+          "score": 93
+        },
+        {
+          "keyword": "야닉 시너",
+          "score": 92
+        },
+        {
+          "keyword": "풍력 발전",
           "score": 91
         }
       ]
