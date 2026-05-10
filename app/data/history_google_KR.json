@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-06T15:06:46.966Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "남규리",
-          "score": 100
-        },
-        {
-          "keyword": "srh vs pbks",
-          "score": 99
-        },
-        {
-          "keyword": "판결",
-          "score": 98
-        },
-        {
-          "keyword": "lg전자",
-          "score": 97
-        },
-        {
-          "keyword": "섬총각 영웅",
-          "score": 96
-        },
-        {
-          "keyword": "구승민",
-          "score": 95
-        },
-        {
-          "keyword": "팔공산",
-          "score": 94
-        },
-        {
-          "keyword": "6세대 전투기",
-          "score": 93
-        },
-        {
-          "keyword": "한국은행 총재",
-          "score": 92
-        },
-        {
-          "keyword": "대한골프협회",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-06T16:57:45.043Z",
       "geo": "KR",
       "source": "google",
@@ -2818,6 +2771,53 @@
         },
         {
           "keyword": "노팅엄 포레스트 대 뉴캐슬",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-10T15:28:59.691Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mi vs rcb",
+          "score": 100
+        },
+        {
+          "keyword": "과천시",
+          "score": 99
+        },
+        {
+          "keyword": "벙커버스터",
+          "score": 98
+        },
+        {
+          "keyword": "풍자",
+          "score": 97
+        },
+        {
+          "keyword": "골프장",
+          "score": 96
+        },
+        {
+          "keyword": "호프",
+          "score": 95
+        },
+        {
+          "keyword": "엘클라시코",
+          "score": 94
+        },
+        {
+          "keyword": "아스날 웨스트햄",
+          "score": 93
+        },
+        {
+          "keyword": "burnley vs aston villa",
+          "score": 92
+        },
+        {
+          "keyword": "공명",
           "score": 91
         }
       ]
