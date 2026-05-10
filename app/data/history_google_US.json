@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-06T05:21:02.518Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "yosemite national park",
-          "score": 100
-        },
-        {
-          "keyword": "walt frazier",
-          "score": 99
-        },
-        {
-          "keyword": "meg stalter",
-          "score": 98
-        },
-        {
-          "keyword": "samsung stock",
-          "score": 97
-        },
-        {
-          "keyword": "heather watson",
-          "score": 96
-        },
-        {
-          "keyword": "los angeles angels",
-          "score": 95
-        },
-        {
-          "keyword": "mariners game today",
-          "score": 94
-        },
-        {
-          "keyword": "eta aquarid meteor shower",
-          "score": 93
-        },
-        {
-          "keyword": "richard gere",
-          "score": 92
-        },
-        {
-          "keyword": "padres score",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-06T07:49:15.188Z",
       "geo": "US",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "sean o'malley",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-10T05:29:56.071Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "terence crawford",
+          "score": 100
+        },
+        {
+          "keyword": "humberto cruz",
+          "score": 99
+        },
+        {
+          "keyword": "neymar",
+          "score": 98
+        },
+        {
+          "keyword": "monaco",
+          "score": 97
+        },
+        {
+          "keyword": "sofia vergara",
+          "score": 96
+        },
+        {
+          "keyword": "aadhav arjuna",
+          "score": 95
+        },
+        {
+          "keyword": "sylvester stallone",
+          "score": 94
+        },
+        {
+          "keyword": "bangladesh vs pakistan",
+          "score": 93
+        },
+        {
+          "keyword": "light heavyweight ufc",
+          "score": 92
+        },
+        {
+          "keyword": "dillon danis",
           "score": 91
         }
       ]

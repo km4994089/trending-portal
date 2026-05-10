@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-06T05:21:05.110Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dazn",
-          "score": 100
-        },
-        {
-          "keyword": "名古屋 対 g大阪",
-          "score": 99
-        },
-        {
-          "keyword": "ジャイアンツtv",
-          "score": 98
-        },
-        {
-          "keyword": "首相",
-          "score": 97
-        },
-        {
-          "keyword": "大関友久",
-          "score": 96
-        },
-        {
-          "keyword": "cisa",
-          "score": 95
-        },
-        {
-          "keyword": "踊る大捜査線new",
-          "score": 94
-        },
-        {
-          "keyword": "香坂みゆき",
-          "score": 93
-        },
-        {
-          "keyword": "サンフレッチェ広島",
-          "score": 92
-        },
-        {
-          "keyword": "前田健太",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-06T07:49:18.028Z",
       "geo": "JP",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "島崎信長",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-10T05:29:58.525Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "グーグル fitbit air",
+          "score": 100
+        },
+        {
+          "keyword": "ディズニープラス",
+          "score": 99
+        },
+        {
+          "keyword": "高橋和夫",
+          "score": 98
+        },
+        {
+          "keyword": "ソラナ・チルステア",
+          "score": 97
+        },
+        {
+          "keyword": "讃岐 対 高知",
+          "score": 96
+        },
+        {
+          "keyword": "エスピノーザ",
+          "score": 95
+        },
+        {
+          "keyword": "ツエーゲン金沢",
+          "score": 94
+        },
+        {
+          "keyword": "アンドゥーリル",
+          "score": 93
+        },
+        {
+          "keyword": "三菱・パジェロ",
+          "score": 92
+        },
+        {
+          "keyword": "石丸伸二",
           "score": 91
         }
       ]
