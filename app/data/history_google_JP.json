@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-05T23:39:41.300Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ロイヤルズ 対 ガーディアンズ",
-          "score": 100
-        },
-        {
-          "keyword": "バークシャー・ハサウェイ",
-          "score": 99
-        },
-        {
-          "keyword": "田中泯",
-          "score": 98
-        },
-        {
-          "keyword": "ニコールキッドマン",
-          "score": 97
-        },
-        {
-          "keyword": "瓜田純士",
-          "score": 96
-        },
-        {
-          "keyword": "ピストンズ 対 キャバリアーズ",
-          "score": 95
-        },
-        {
-          "keyword": "ゴールドマン・サックス",
-          "score": 94
-        },
-        {
-          "keyword": "シム・ヒョンタク",
-          "score": 93
-        },
-        {
-          "keyword": "nhk 番組表",
-          "score": 92
-        },
-        {
-          "keyword": "土屋太鳳",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-05-06T01:52:45.800Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "高千穂",
-          "score": 100
-        },
-        {
-          "keyword": "キタムラ",
-          "score": 99
-        },
-        {
-          "keyword": "ザ・ノンフィクション",
-          "score": 98
-        },
-        {
-          "keyword": "dバックス 対 パイレーツ",
-          "score": 97
-        },
-        {
-          "keyword": "カナリア諸島",
-          "score": 96
-        },
-        {
-          "keyword": "泉大津",
-          "score": 95
-        },
-        {
-          "keyword": "さとらんど",
-          "score": 94
-        },
-        {
-          "keyword": "蘭丸",
-          "score": 93
-        },
-        {
-          "keyword": "山本リンダ",
-          "score": 92
-        },
-        {
-          "keyword": "トロント・ブルージェイズ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-06T05:21:05.110Z",
       "geo": "JP",
       "source": "google",
@@ -2724,6 +2630,53 @@
         },
         {
           "keyword": "ロイヤルズ 対 タイガース",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-10T01:55:41.764Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sports",
+          "score": 100
+        },
+        {
+          "keyword": "ブレーブス",
+          "score": 99
+        },
+        {
+          "keyword": "west",
+          "score": 98
+        },
+        {
+          "keyword": "エヌビディア",
+          "score": 97
+        },
+        {
+          "keyword": "アクーニャjr",
+          "score": 96
+        },
+        {
+          "keyword": "ブレイク・スネル",
+          "score": 95
+        },
+        {
+          "keyword": "スペンサー・ストライダー",
+          "score": 94
+        },
+        {
+          "keyword": "鶴見辰吾",
+          "score": 93
+        },
+        {
+          "keyword": "ベストマザー賞",
+          "score": 92
+        },
+        {
+          "keyword": "島崎信長",
           "score": 91
         }
       ]
