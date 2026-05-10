@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-06T10:07:34.501Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "アクセンチュア",
-          "score": 100
-        },
-        {
-          "keyword": "サムスン電子",
-          "score": 99
-        },
-        {
-          "keyword": "代打",
-          "score": 98
-        },
-        {
-          "keyword": "ルクセンブルク",
-          "score": 97
-        },
-        {
-          "keyword": "モンチッチ",
-          "score": 96
-        },
-        {
-          "keyword": "やす子",
-          "score": 95
-        },
-        {
-          "keyword": "十和田市",
-          "score": 94
-        },
-        {
-          "keyword": "花よりハンバーグ",
-          "score": 93
-        },
-        {
-          "keyword": "大槌 町",
-          "score": 92
-        },
-        {
-          "keyword": "マイクロストラテジー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-06T12:13:30.531Z",
       "geo": "JP",
       "source": "google",
@@ -2724,6 +2677,53 @@
         },
         {
           "keyword": "大城卓三",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-10T10:42:36.614Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "日村勇紀体調不良",
+          "score": 100
+        },
+        {
+          "keyword": "ジョンレノン",
+          "score": 99
+        },
+        {
+          "keyword": "泉口友汰",
+          "score": 98
+        },
+        {
+          "keyword": "桐谷広人",
+          "score": 97
+        },
+        {
+          "keyword": "ラジャブアリ・シェイドゥラエフ",
+          "score": 96
+        },
+        {
+          "keyword": "鬼連チャン",
+          "score": 95
+        },
+        {
+          "keyword": "シャーリーズ・セロン",
+          "score": 94
+        },
+        {
+          "keyword": "張本美和",
+          "score": 93
+        },
+        {
+          "keyword": "lsg vs csk",
+          "score": 92
+        },
+        {
+          "keyword": "bリーグ チャンピオンシップ",
           "score": 91
         }
       ]
