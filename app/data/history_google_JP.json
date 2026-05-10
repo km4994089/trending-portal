@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-06T07:49:18.028Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "鹿島アントラーズ",
-          "score": 100
-        },
-        {
-          "keyword": "中日",
-          "score": 99
-        },
-        {
-          "keyword": "megumi",
-          "score": 98
-        },
-        {
-          "keyword": "渡部遼人",
-          "score": 97
-        },
-        {
-          "keyword": "山野太一",
-          "score": 96
-        },
-        {
-          "keyword": "牧原大成",
-          "score": 95
-        },
-        {
-          "keyword": "カズレーザー",
-          "score": 94
-        },
-        {
-          "keyword": "伏見寅威",
-          "score": 93
-        },
-        {
-          "keyword": "愛媛fc",
-          "score": 92
-        },
-        {
-          "keyword": "自動車 運搬船",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-06T10:07:34.501Z",
       "geo": "JP",
       "source": "google",
@@ -2724,6 +2677,53 @@
         },
         {
           "keyword": "千代丸",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-10T09:21:38.423Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ピザハット",
+          "score": 100
+        },
+        {
+          "keyword": "恋愛 病院",
+          "score": 99
+        },
+        {
+          "keyword": "護衛艦",
+          "score": 98
+        },
+        {
+          "keyword": "クルーズ船",
+          "score": 97
+        },
+        {
+          "keyword": "豊昇龍",
+          "score": 96
+        },
+        {
+          "keyword": "太田忍",
+          "score": 95
+        },
+        {
+          "keyword": "川崎フロンターレ",
+          "score": 94
+        },
+        {
+          "keyword": "グランパス 試合",
+          "score": 93
+        },
+        {
+          "keyword": "藤ノ川",
+          "score": 92
+        },
+        {
+          "keyword": "大城卓三",
           "score": 91
         }
       ]

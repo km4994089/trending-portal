@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-06T07:49:15.188Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "boots",
-          "score": 100
-        },
-        {
-          "keyword": "viva aerobus",
-          "score": 99
-        },
-        {
-          "keyword": "iphone 16 pro",
-          "score": 98
-        },
-        {
-          "keyword": "caro claire burke",
-          "score": 97
-        },
-        {
-          "keyword": "oregon state baseball",
-          "score": 96
-        },
-        {
-          "keyword": "apple siri ai lawsuit settlement",
-          "score": 95
-        },
-        {
-          "keyword": "yosemite national park",
-          "score": 94
-        },
-        {
-          "keyword": "popeyes chicken wraps permanent menu",
-          "score": 93
-        },
-        {
-          "keyword": "meg stalter",
-          "score": 92
-        },
-        {
-          "keyword": "walt frazier",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-06T10:07:31.888Z",
       "geo": "US",
       "source": "google",
@@ -2724,6 +2677,53 @@
         },
         {
           "keyword": "tenerife",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-10T09:21:36.091Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "亚利桑那州",
+          "score": 100
+        },
+        {
+          "keyword": "azzi fudd wnba debut",
+          "score": 99
+        },
+        {
+          "keyword": "free",
+          "score": 98
+        },
+        {
+          "keyword": "car insurance",
+          "score": 97
+        },
+        {
+          "keyword": "sarah ferguson",
+          "score": 96
+        },
+        {
+          "keyword": "pablo escobar",
+          "score": 95
+        },
+        {
+          "keyword": "riot",
+          "score": 94
+        },
+        {
+          "keyword": "san andreas fault",
+          "score": 93
+        },
+        {
+          "keyword": "rick and morty",
+          "score": 92
+        },
+        {
+          "keyword": "hantavirus los angeles",
           "score": 91
         }
       ]
