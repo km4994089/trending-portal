@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-07T08:02:51.339Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "유치원",
-          "score": 100
-        },
-        {
-          "keyword": "멕시코 대통령",
-          "score": 99
-        },
-        {
-          "keyword": "이범호",
-          "score": 98
-        },
-        {
-          "keyword": "수영",
-          "score": 97
-        },
-        {
-          "keyword": "더불어민주당",
-          "score": 96
-        },
-        {
-          "keyword": "전현무계획",
-          "score": 95
-        },
-        {
-          "keyword": "휴게소",
-          "score": 94
-        },
-        {
-          "keyword": "포스코",
-          "score": 93
-        },
-        {
-          "keyword": "빌보드",
-          "score": 92
-        },
-        {
-          "keyword": "대기업",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-07T10:38:03.422Z",
       "geo": "KR",
       "source": "google",
@@ -2912,6 +2865,53 @@
         },
         {
           "keyword": "베냐민 네타냐후",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-11T10:04:10.253Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이찬원",
+          "score": 100
+        },
+        {
+          "keyword": "현대 아이 오닉",
+          "score": 99
+        },
+        {
+          "keyword": "다나카 케이",
+          "score": 98
+        },
+        {
+          "keyword": "김대기",
+          "score": 97
+        },
+        {
+          "keyword": "s-oil",
+          "score": 96
+        },
+        {
+          "keyword": "노무한박수",
+          "score": 95
+        },
+        {
+          "keyword": "이주영",
+          "score": 94
+        },
+        {
+          "keyword": "선거 운동",
+          "score": 93
+        },
+        {
+          "keyword": "두산로보틱스",
+          "score": 92
+        },
+        {
+          "keyword": "남우현",
           "score": 91
         }
       ]
