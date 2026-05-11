@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-07T10:38:02.023Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "matteo berrettini",
-          "score": 100
-        },
-        {
-          "keyword": "basketball penalties",
-          "score": 99
-        },
-        {
-          "keyword": "joe mazzulla",
-          "score": 98
-        },
-        {
-          "keyword": "affordable housing",
-          "score": 97
-        },
-        {
-          "keyword": "tina peters",
-          "score": 96
-        },
-        {
-          "keyword": "qinwen zheng",
-          "score": 95
-        },
-        {
-          "keyword": "zizou bergs",
-          "score": 94
-        },
-        {
-          "keyword": "boston weather",
-          "score": 93
-        },
-        {
-          "keyword": "robert downey jr",
-          "score": 92
-        },
-        {
-          "keyword": "crude oil prices today",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-05-07T12:24:23.460Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lisa kudrow",
-          "score": 100
-        },
-        {
-          "keyword": "allyson felix",
-          "score": 99
-        },
-        {
-          "keyword": "the comeback",
-          "score": 98
-        },
-        {
-          "keyword": "dave yost",
-          "score": 97
-        },
-        {
-          "keyword": "eric kripke",
-          "score": 96
-        },
-        {
-          "keyword": "nicholas braun",
-          "score": 95
-        },
-        {
-          "keyword": "sat",
-          "score": 94
-        },
-        {
-          "keyword": "trump surgeon general pick",
-          "score": 93
-        },
-        {
-          "keyword": "lumentum",
-          "score": 92
-        },
-        {
-          "keyword": "general motors brake fluid recall",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-07T15:09:04.190Z",
       "geo": "US",
       "source": "google",
@@ -2912,6 +2818,53 @@
         },
         {
           "keyword": "rockstar",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-11T13:21:08.688Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lincoln financial",
+          "score": 100
+        },
+        {
+          "keyword": "liberty university",
+          "score": 99
+        },
+        {
+          "keyword": "mram stock",
+          "score": 98
+        },
+        {
+          "keyword": "hawaiian monk seals",
+          "score": 97
+        },
+        {
+          "keyword": "associated press",
+          "score": 96
+        },
+        {
+          "keyword": "wordle game show",
+          "score": 95
+        },
+        {
+          "keyword": "josh groban",
+          "score": 94
+        },
+        {
+          "keyword": "sue bird",
+          "score": 93
+        },
+        {
+          "keyword": "brian wheat",
+          "score": 92
+        },
+        {
+          "keyword": "company funding",
           "score": 91
         }
       ]
