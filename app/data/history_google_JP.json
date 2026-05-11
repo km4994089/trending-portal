@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-07T19:10:27.533Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "セブン",
-          "score": 100
-        },
-        {
-          "keyword": "地震",
-          "score": 99
-        },
-        {
-          "keyword": "地震情報",
-          "score": 98
-        },
-        {
-          "keyword": "地震 今",
-          "score": 97
-        },
-        {
-          "keyword": "リアルタイム",
-          "score": 96
-        },
-        {
-          "keyword": "酒井 法子",
-          "score": 95
-        },
-        {
-          "keyword": "大都技研",
-          "score": 94
-        },
-        {
-          "keyword": "渡部建",
-          "score": 93
-        },
-        {
-          "keyword": "スズキ",
-          "score": 92
-        },
-        {
-          "keyword": "日本ケンタッキー・フライド・チキン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-07T20:45:12.658Z",
       "geo": "JP",
       "source": "google",
@@ -2865,6 +2818,53 @@
         },
         {
           "keyword": "たくろう",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-11T20:11:00.117Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sdガンダム ジージェネレーション エターナル",
+          "score": 100
+        },
+        {
+          "keyword": "リオ・アヴェ 対 スポルティングcp",
+          "score": 99
+        },
+        {
+          "keyword": "ロト6当選番号速報",
+          "score": 98
+        },
+        {
+          "keyword": "tottenham vs leeds",
+          "score": 97
+        },
+        {
+          "keyword": "punjab kings vs delhi capitals standings",
+          "score": 96
+        },
+        {
+          "keyword": "特殊詐欺",
+          "score": 95
+        },
+        {
+          "keyword": "サンリオ",
+          "score": 94
+        },
+        {
+          "keyword": "大坂なおみ",
+          "score": 93
+        },
+        {
+          "keyword": "山田二千華",
+          "score": 92
+        },
+        {
+          "keyword": "鉄道",
           "score": 91
         }
       ]
