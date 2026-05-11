@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-07T01:57:13.254Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "環境省",
-          "score": 100
-        },
-        {
-          "keyword": "dバックス 対 パイレーツ",
-          "score": 99
-        },
-        {
-          "keyword": "スパーズ 対 ウルブズ",
-          "score": 98
-        },
-        {
-          "keyword": "相鉄本線",
-          "score": 97
-        },
-        {
-          "keyword": "静岡県",
-          "score": 96
-        },
-        {
-          "keyword": "三菱ufj",
-          "score": 95
-        },
-        {
-          "keyword": "ロッキーズ 対 メッツ",
-          "score": 94
-        },
-        {
-          "keyword": "細田佳央太",
-          "score": 93
-        },
-        {
-          "keyword": "吉田鋼太郎",
-          "score": 92
-        },
-        {
-          "keyword": "首相",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-07T05:27:56.777Z",
       "geo": "JP",
       "source": "google",
@@ -2912,6 +2865,53 @@
         },
         {
           "keyword": "防空",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-11T02:05:58.623Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "山手線",
+          "score": 100
+        },
+        {
+          "keyword": "アメリカ合衆国財務長官",
+          "score": 99
+        },
+        {
+          "keyword": "埼京線",
+          "score": 98
+        },
+        {
+          "keyword": "大東駿介",
+          "score": 97
+        },
+        {
+          "keyword": "ihi 株価",
+          "score": 96
+        },
+        {
+          "keyword": "群馬県",
+          "score": 95
+        },
+        {
+          "keyword": "三菱重工",
+          "score": 94
+        },
+        {
+          "keyword": "dirty frag",
+          "score": 93
+        },
+        {
+          "keyword": "松山駅",
+          "score": 92
+        },
+        {
+          "keyword": "秋篠宮",
           "score": 91
         }
       ]

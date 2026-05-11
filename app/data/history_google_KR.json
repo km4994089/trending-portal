@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-07T01:57:11.904Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "무엇 이든 물어 보살",
-          "score": 100
-        },
-        {
-          "keyword": "공소취소",
-          "score": 99
-        },
-        {
-          "keyword": "대한광통신 주가",
-          "score": 98
-        },
-        {
-          "keyword": "국립중앙박물관",
-          "score": 97
-        },
-        {
-          "keyword": "김정난",
-          "score": 96
-        },
-        {
-          "keyword": "카카오 주가",
-          "score": 95
-        },
-        {
-          "keyword": "삼성주가",
-          "score": 94
-        },
-        {
-          "keyword": "김정은",
-          "score": 93
-        },
-        {
-          "keyword": "무명 전설 순위",
-          "score": 92
-        },
-        {
-          "keyword": "롯데홈쇼핑",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-07T05:27:55.365Z",
       "geo": "KR",
       "source": "google",
@@ -2912,6 +2865,53 @@
         },
         {
           "keyword": "날씨",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-11T02:05:57.481Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "효성중공업 주가",
+          "score": 100
+        },
+        {
+          "keyword": "삼전 주가",
+          "score": 99
+        },
+        {
+          "keyword": "하이닉스 주가",
+          "score": 98
+        },
+        {
+          "keyword": "kt wiz",
+          "score": 97
+        },
+        {
+          "keyword": "마키나락스",
+          "score": 96
+        },
+        {
+          "keyword": "사이드카",
+          "score": 95
+        },
+        {
+          "keyword": "성균관대학교",
+          "score": 94
+        },
+        {
+          "keyword": "국립중앙박물관",
+          "score": 93
+        },
+        {
+          "keyword": "조정식",
+          "score": 92
+        },
+        {
+          "keyword": "네이마르",
           "score": 91
         }
       ]

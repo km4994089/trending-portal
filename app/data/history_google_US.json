@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-07T01:57:10.643Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sheep detectives",
-          "score": 100
-        },
-        {
-          "keyword": "john starks",
-          "score": 99
-        },
-        {
-          "keyword": "tejay antone",
-          "score": 98
-        },
-        {
-          "keyword": "spurs game tonight",
-          "score": 97
-        },
-        {
-          "keyword": "toluca",
-          "score": 96
-        },
-        {
-          "keyword": "alex lyon",
-          "score": 95
-        },
-        {
-          "keyword": "newt gingrich",
-          "score": 94
-        },
-        {
-          "keyword": "mississippi tornado",
-          "score": 93
-        },
-        {
-          "keyword": "washington nationals",
-          "score": 92
-        },
-        {
-          "keyword": "knicks",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-07T05:27:54.294Z",
       "geo": "US",
       "source": "google",
@@ -2912,6 +2865,53 @@
         },
         {
           "keyword": "william shatner",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-11T02:05:56.207Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mike conley",
+          "score": 100
+        },
+        {
+          "keyword": "keylor navas",
+          "score": 99
+        },
+        {
+          "keyword": "miley cyrus",
+          "score": 98
+        },
+        {
+          "keyword": "neil gorsuch book",
+          "score": 97
+        },
+        {
+          "keyword": "james rodríguez",
+          "score": 96
+        },
+        {
+          "keyword": "disclosure day",
+          "score": 95
+        },
+        {
+          "keyword": "keir starmer",
+          "score": 94
+        },
+        {
+          "keyword": "steven spielberg",
+          "score": 93
+        },
+        {
+          "keyword": "rooster episodes",
+          "score": 92
+        },
+        {
+          "keyword": "dylan o'brien",
           "score": 91
         }
       ]
