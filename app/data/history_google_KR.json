@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-08T16:48:01.375Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이혼",
-          "score": 100
-        },
-        {
-          "keyword": "덱스",
-          "score": 99
-        },
-        {
-          "keyword": "트럼프 연설",
-          "score": 98
-        },
-        {
-          "keyword": "보스턴 다이내믹스",
-          "score": 97
-        },
-        {
-          "keyword": "알렉스 히메네스",
-          "score": 96
-        },
-        {
-          "keyword": "박정민",
-          "score": 95
-        },
-        {
-          "keyword": "김진수",
-          "score": 94
-        },
-        {
-          "keyword": "하주석",
-          "score": 93
-        },
-        {
-          "keyword": "박보영",
-          "score": 92
-        },
-        {
-          "keyword": "dc vs kkr",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-08T18:03:38.817Z",
       "geo": "KR",
       "source": "google",
@@ -2724,6 +2677,53 @@
         },
         {
           "keyword": "rte",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-12T17:52:30.099Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "나스닥",
+          "score": 100
+        },
+        {
+          "keyword": "에어부산",
+          "score": 99
+        },
+        {
+          "keyword": "디렉티브 8020",
+          "score": 98
+        },
+        {
+          "keyword": "김다영",
+          "score": 97
+        },
+        {
+          "keyword": "무리뉴",
+          "score": 96
+        },
+        {
+          "keyword": "gt vs srh",
+          "score": 95
+        },
+        {
+          "keyword": "리플",
+          "score": 94
+        },
+        {
+          "keyword": "도깨비",
+          "score": 93
+        },
+        {
+          "keyword": "ios 26.5",
+          "score": 92
+        },
+        {
+          "keyword": "토지거래허가제",
           "score": 91
         }
       ]
