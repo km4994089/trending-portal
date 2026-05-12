@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-08T11:49:38.986Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "君のクイズ",
-          "score": 100
-        },
-        {
-          "keyword": "大井町",
-          "score": 99
-        },
-        {
-          "keyword": "詐欺",
-          "score": 98
-        },
-        {
-          "keyword": "ブレイキングダウン",
-          "score": 97
-        },
-        {
-          "keyword": "ニコン",
-          "score": 96
-        },
-        {
-          "keyword": "平野美宇",
-          "score": 95
-        },
-        {
-          "keyword": "草薙",
-          "score": 94
-        },
-        {
-          "keyword": "佐藤健",
-          "score": 93
-        },
-        {
-          "keyword": "卓球 世界ランキング",
-          "score": 92
-        },
-        {
-          "keyword": "桐生市",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-08T13:07:28.555Z",
       "geo": "JP",
       "source": "google",
@@ -2771,6 +2724,53 @@
         },
         {
           "keyword": "特急しなの",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-12T13:00:21.447Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "トヨタ・カローラツーリング",
+          "score": 100
+        },
+        {
+          "keyword": "ライオンズ",
+          "score": 99
+        },
+        {
+          "keyword": "銀行",
+          "score": 98
+        },
+        {
+          "keyword": "星野真里",
+          "score": 97
+        },
+        {
+          "keyword": "都電荒川線",
+          "score": 96
+        },
+        {
+          "keyword": "イヴルルド遙華",
+          "score": 95
+        },
+        {
+          "keyword": "経済指標",
+          "score": 94
+        },
+        {
+          "keyword": "熊本 天気",
+          "score": 93
+        },
+        {
+          "keyword": "王座戦 挑戦者決定トーナメント",
+          "score": 92
+        },
+        {
+          "keyword": "月島琉衣",
           "score": 91
         }
       ]
