@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-08T22:44:50.901Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ナイジェル・マンセル",
-          "score": 100
-        },
-        {
-          "keyword": "生見愛瑠",
-          "score": 99
-        },
-        {
-          "keyword": "足利 義昭",
-          "score": 98
-        },
-        {
-          "keyword": "バロー",
-          "score": 97
-        },
-        {
-          "keyword": "アンジェラアキ",
-          "score": 96
-        },
-        {
-          "keyword": "paypay",
-          "score": 95
-        },
-        {
-          "keyword": "高輪ゲートウェイ",
-          "score": 94
-        },
-        {
-          "keyword": "ソニー生命保険",
-          "score": 93
-        },
-        {
-          "keyword": "ルネサンス",
-          "score": 92
-        },
-        {
-          "keyword": "佐々木朗希 マイナー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-08T23:45:15.513Z",
       "geo": "JP",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "イヴルルド 遙 華",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-12T23:33:33.315Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ブルワーズ 対 パドレス",
+          "score": 100
+        },
+        {
+          "keyword": "ツインズ 対 マーリンズ",
+          "score": 99
+        },
+        {
+          "keyword": "山崎製パン",
+          "score": 98
+        },
+        {
+          "keyword": "木南晴夏",
+          "score": 97
+        },
+        {
+          "keyword": "東海道線 遅延",
+          "score": 96
+        },
+        {
+          "keyword": "大久保佳代子",
+          "score": 95
+        },
+        {
+          "keyword": "日経電子版",
+          "score": 94
+        },
+        {
+          "keyword": "kb5089549",
+          "score": 93
+        },
+        {
+          "keyword": "与田祐希",
+          "score": 92
+        },
+        {
+          "keyword": "ihi",
           "score": 91
         }
       ]

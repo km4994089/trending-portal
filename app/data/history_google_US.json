@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-08T22:44:47.888Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "zach dezenzo",
-          "score": 100
-        },
-        {
-          "keyword": "okc weather",
-          "score": 99
-        },
-        {
-          "keyword": "news on 6",
-          "score": 98
-        },
-        {
-          "keyword": "twins vs guardians",
-          "score": 97
-        },
-        {
-          "keyword": "julio foolio",
-          "score": 96
-        },
-        {
-          "keyword": "nationals vs marlins",
-          "score": 95
-        },
-        {
-          "keyword": "hudson westbrook",
-          "score": 94
-        },
-        {
-          "keyword": "tom homan",
-          "score": 93
-        },
-        {
-          "keyword": "warren buffett stock market warning",
-          "score": 92
-        },
-        {
-          "keyword": "karl urban",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-08T23:45:12.600Z",
       "geo": "US",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "ap news",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-12T23:33:30.483Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "max schuemann",
+          "score": 100
+        },
+        {
+          "keyword": "trent grisham",
+          "score": 99
+        },
+        {
+          "keyword": "trevor rogers",
+          "score": 98
+        },
+        {
+          "keyword": "dream vs wings",
+          "score": 97
+        },
+        {
+          "keyword": "klm",
+          "score": 96
+        },
+        {
+          "keyword": "charlie mcavoy",
+          "score": 95
+        },
+        {
+          "keyword": "dfw airport faa ground stop",
+          "score": 94
+        },
+        {
+          "keyword": "ukko pekka luukkonen",
+          "score": 93
+        },
+        {
+          "keyword": "byd",
+          "score": 92
+        },
+        {
+          "keyword": "padres vs brewers",
           "score": 91
         }
       ]
