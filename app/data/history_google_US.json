@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-08T23:45:12.600Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "paul george",
-          "score": 100
-        },
-        {
-          "keyword": "kelly oubre",
-          "score": 99
-        },
-        {
-          "keyword": "josh hart",
-          "score": 98
-        },
-        {
-          "keyword": "cc sabathia",
-          "score": 97
-        },
-        {
-          "keyword": "legends netflix",
-          "score": 96
-        },
-        {
-          "keyword": "pedro martinez",
-          "score": 95
-        },
-        {
-          "keyword": "north carolina courage vs orlando pride",
-          "score": 94
-        },
-        {
-          "keyword": "guam",
-          "score": 93
-        },
-        {
-          "keyword": "insperity invitational",
-          "score": 92
-        },
-        {
-          "keyword": "sally field new movie",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-05-09T01:56:36.797Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jeremy sochan",
-          "score": 100
-        },
-        {
-          "keyword": "andrew mccutchen",
-          "score": 99
-        },
-        {
-          "keyword": "mike brown",
-          "score": 98
-        },
-        {
-          "keyword": "mickey moniak",
-          "score": 97
-        },
-        {
-          "keyword": "earthquake now moreno valley",
-          "score": 96
-        },
-        {
-          "keyword": "kat",
-          "score": 95
-        },
-        {
-          "keyword": "knicks coach",
-          "score": 94
-        },
-        {
-          "keyword": "spurs game tonight",
-          "score": 93
-        },
-        {
-          "keyword": "gwinnett county",
-          "score": 92
-        },
-        {
-          "keyword": "aroldis chapman",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-09T05:16:58.479Z",
       "geo": "US",
       "source": "google",
@@ -2630,6 +2536,53 @@
         },
         {
           "keyword": "padres vs brewers",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-13T02:07:29.682Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "arike ogunbowale",
+          "score": 100
+        },
+        {
+          "keyword": "rays",
+          "score": 99
+        },
+        {
+          "keyword": "giants - dodgers",
+          "score": 98
+        },
+        {
+          "keyword": "gina hinojosa",
+          "score": 97
+        },
+        {
+          "keyword": "rudy gobert",
+          "score": 96
+        },
+        {
+          "keyword": "odyssey sims",
+          "score": 95
+        },
+        {
+          "keyword": "a.j. ewing",
+          "score": 94
+        },
+        {
+          "keyword": "jack eichel",
+          "score": 93
+        },
+        {
+          "keyword": "worst ex ever",
+          "score": 92
+        },
+        {
+          "keyword": "tatsuya imai",
           "score": 91
         }
       ]

@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-08T23:45:13.743Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "레이 달리오",
-          "score": 100
-        },
-        {
-          "keyword": "www",
-          "score": 99
-        },
-        {
-          "keyword": "탈영",
-          "score": 98
-        },
-        {
-          "keyword": "문채원",
-          "score": 97
-        },
-        {
-          "keyword": "mu",
-          "score": 96
-        },
-        {
-          "keyword": "나는 solo",
-          "score": 95
-        },
-        {
-          "keyword": "joby",
-          "score": 94
-        },
-        {
-          "keyword": "hbf",
-          "score": 93
-        },
-        {
-          "keyword": "필라델피아 반도체 지수",
-          "score": 92
-        },
-        {
-          "keyword": "기부",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-05-09T01:56:38.059Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김다예",
-          "score": 100
-        },
-        {
-          "keyword": "보편적 기본소득",
-          "score": 99
-        },
-        {
-          "keyword": "롯데홈쇼핑",
-          "score": 98
-        },
-        {
-          "keyword": "휴전",
-          "score": 97
-        },
-        {
-          "keyword": "함은정",
-          "score": 96
-        },
-        {
-          "keyword": "김영재",
-          "score": 95
-        },
-        {
-          "keyword": "원자력",
-          "score": 94
-        },
-        {
-          "keyword": "해상 풍력 발전",
-          "score": 93
-        },
-        {
-          "keyword": "선거관리위원회",
-          "score": 92
-        },
-        {
-          "keyword": "비야디",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-09T05:16:59.936Z",
       "geo": "KR",
       "source": "google",
@@ -2630,6 +2536,53 @@
         },
         {
           "keyword": "운세",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-13T02:07:31.176Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "롯데시네마",
+          "score": 100
+        },
+        {
+          "keyword": "고유가 피해지원금 대상",
+          "score": 99
+        },
+        {
+          "keyword": "cgv",
+          "score": 98
+        },
+        {
+          "keyword": "국가유산",
+          "score": 97
+        },
+        {
+          "keyword": "두산베어스",
+          "score": 96
+        },
+        {
+          "keyword": "래미안 라그란데",
+          "score": 95
+        },
+        {
+          "keyword": "파라타항공",
+          "score": 94
+        },
+        {
+          "keyword": "코스모로보틱스",
+          "score": 93
+        },
+        {
+          "keyword": "국립중앙박물관",
+          "score": 92
+        },
+        {
+          "keyword": "샌안토니오 대 미네소타",
           "score": 91
         }
       ]
