@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-09T23:37:07.974Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "가짜뉴스",
-          "score": 100
-        },
-        {
-          "keyword": "브래드 피트",
-          "score": 99
-        },
-        {
-          "keyword": "이성민",
-          "score": 98
-        },
-        {
-          "keyword": "농구",
-          "score": 97
-        },
-        {
-          "keyword": "브라이슨 디섐보",
-          "score": 96
-        },
-        {
-          "keyword": "정유라",
-          "score": 95
-        },
-        {
-          "keyword": "밀양아리랑대축제",
-          "score": 94
-        },
-        {
-          "keyword": "엄태영",
-          "score": 93
-        },
-        {
-          "keyword": "중국 축구 국가대표팀",
-          "score": 92
-        },
-        {
-          "keyword": "fifa u-17 월드컵",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-10T01:55:40.694Z",
       "geo": "KR",
       "source": "google",
@@ -2254,6 +2207,53 @@
         },
         {
           "keyword": "나는 solo",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-13T23:51:05.456Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "제주시",
+          "score": 100
+        },
+        {
+          "keyword": "진양곤",
+          "score": 99
+        },
+        {
+          "keyword": "미중 정상회담",
+          "score": 98
+        },
+        {
+          "keyword": "고우석",
+          "score": 97
+        },
+        {
+          "keyword": "deportivo alavés vs fc barcelona standings",
+          "score": 96
+        },
+        {
+          "keyword": "afc u-17 아시안컵",
+          "score": 95
+        },
+        {
+          "keyword": "joby",
+          "score": 94
+        },
+        {
+          "keyword": "개리",
+          "score": 93
+        },
+        {
+          "keyword": "qqq",
+          "score": 92
+        },
+        {
+          "keyword": "스위프트",
           "score": 91
         }
       ]

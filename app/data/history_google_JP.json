@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-09T23:37:09.204Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "サッカー朝鮮民主主義人民共和国代表",
-          "score": 100
-        },
-        {
-          "keyword": "世界 卓球 2026 中国 フランス",
-          "score": 99
-        },
-        {
-          "keyword": "滋賀県",
-          "score": 98
-        },
-        {
-          "keyword": "happy mothers day",
-          "score": 97
-        },
-        {
-          "keyword": "火星の女王",
-          "score": 96
-        },
-        {
-          "keyword": "サントリーホール",
-          "score": 95
-        },
-        {
-          "keyword": "木南記念",
-          "score": 94
-        },
-        {
-          "keyword": "ワールドカップ 2026",
-          "score": 93
-        },
-        {
-          "keyword": "紀平梨花",
-          "score": 92
-        },
-        {
-          "keyword": "ロイヤルズ 対 タイガース",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-10T01:55:41.764Z",
       "geo": "JP",
       "source": "google",
@@ -2254,6 +2207,53 @@
         },
         {
           "keyword": "ウィル・スミス",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-13T23:51:06.648Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "習近平",
+          "score": 100
+        },
+        {
+          "keyword": "ドウェインジョンソン",
+          "score": 99
+        },
+        {
+          "keyword": "李在明",
+          "score": 98
+        },
+        {
+          "keyword": "ランサムウェア",
+          "score": 97
+        },
+        {
+          "keyword": "ジョゼ・モウリーニョ",
+          "score": 96
+        },
+        {
+          "keyword": "大和ハウス",
+          "score": 95
+        },
+        {
+          "keyword": "モノレール",
+          "score": 94
+        },
+        {
+          "keyword": "ジャンボ鶴田",
+          "score": 93
+        },
+        {
+          "keyword": "宮市 亮",
+          "score": 92
+        },
+        {
+          "keyword": "京王線",
           "score": 91
         }
       ]
