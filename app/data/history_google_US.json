@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-09T07:22:31.920Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "san andreas fault",
-          "score": 100
-        },
-        {
-          "keyword": "las vegas",
-          "score": 99
-        },
-        {
-          "keyword": "john mulaney",
-          "score": 98
-        },
-        {
-          "keyword": "suvendu adhikari",
-          "score": 97
-        },
-        {
-          "keyword": "earthquake",
-          "score": 96
-        },
-        {
-          "keyword": "earthquake near me",
-          "score": 95
-        },
-        {
-          "keyword": "tarkov",
-          "score": 94
-        },
-        {
-          "keyword": "new movies streaming",
-          "score": 93
-        },
-        {
-          "keyword": "denver airport",
-          "score": 92
-        },
-        {
-          "keyword": "olivia munn",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-09T08:56:09.754Z",
       "geo": "US",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "drew gilbert",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-13T08:47:07.510Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "shannon elizabeth",
+          "score": 100
+        },
+        {
+          "keyword": "yulia putintseva",
+          "score": 99
+        },
+        {
+          "keyword": "landman",
+          "score": 98
+        },
+        {
+          "keyword": "good omens season 3",
+          "score": 97
+        },
+        {
+          "keyword": "2fa",
+          "score": 96
+        },
+        {
+          "keyword": "cbse class 12 result 2026 expected date",
+          "score": 95
+        },
+        {
+          "keyword": "samsung oled 4k s90f smart tv",
+          "score": 94
+        },
+        {
+          "keyword": "nebraska primary elections",
+          "score": 93
+        },
+        {
+          "keyword": "gen v",
+          "score": 92
+        },
+        {
+          "keyword": "housing prices",
           "score": 91
         }
       ]
