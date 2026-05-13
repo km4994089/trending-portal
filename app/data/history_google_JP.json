@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-09T05:17:01.149Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "桜",
-          "score": 100
-        },
-        {
-          "keyword": "さくら",
-          "score": 99
-        },
-        {
-          "keyword": "ブロック・スチュワート",
-          "score": 98
-        },
-        {
-          "keyword": "大阪城",
-          "score": 97
-        },
-        {
-          "keyword": "スズキ・アヴェニス",
-          "score": 96
-        },
-        {
-          "keyword": "瀬戸朝香",
-          "score": 95
-        },
-        {
-          "keyword": "浅井長政",
-          "score": 94
-        },
-        {
-          "keyword": "いわきfc 対 甲府",
-          "score": 93
-        },
-        {
-          "keyword": "fc大阪 対 今治",
-          "score": 92
-        },
-        {
-          "keyword": "フレディ・フリーマン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-09T07:22:34.267Z",
       "geo": "JP",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "三菱商事 株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-13T06:00:02.824Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ミレービスケット",
+          "score": 100
+        },
+        {
+          "keyword": "天羽希純",
+          "score": 99
+        },
+        {
+          "keyword": "三浦孝太",
+          "score": 98
+        },
+        {
+          "keyword": "山本由伸",
+          "score": 97
+        },
+        {
+          "keyword": "幸平一家",
+          "score": 96
+        },
+        {
+          "keyword": "佐賀アリーナ",
+          "score": 95
+        },
+        {
+          "keyword": "マツダ・ロードスター",
+          "score": 94
+        },
+        {
+          "keyword": "ライオン",
+          "score": 93
+        },
+        {
+          "keyword": "フジクラ 決算",
+          "score": 92
+        },
+        {
+          "keyword": "東レ",
           "score": 91
         }
       ]
