@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-09T22:32:55.490Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "chris pratt",
-          "score": 100
-        },
-        {
-          "keyword": "bahamas alcohol ban",
-          "score": 99
-        },
-        {
-          "keyword": "nfl quarterback taylor heinicke retires",
-          "score": 98
-        },
-        {
-          "keyword": "ufc",
-          "score": 97
-        },
-        {
-          "keyword": "dean wade",
-          "score": 96
-        },
-        {
-          "keyword": "bron breakker",
-          "score": 95
-        },
-        {
-          "keyword": "cameron young",
-          "score": 94
-        },
-        {
-          "keyword": "seth rollins",
-          "score": 93
-        },
-        {
-          "keyword": "ifc",
-          "score": 92
-        },
-        {
-          "keyword": "espn unlimited",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-09T23:37:06.685Z",
       "geo": "US",
       "source": "google",
@@ -2254,6 +2207,53 @@
         },
         {
           "keyword": "scarlett johansson",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-13T22:56:32.827Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "inter miami vs cincinnati",
+          "score": 100
+        },
+        {
+          "keyword": "nashville vs new england",
+          "score": 99
+        },
+        {
+          "keyword": "seahawks",
+          "score": 98
+        },
+        {
+          "keyword": "copa do brasil",
+          "score": 97
+        },
+        {
+          "keyword": "pasto - tolima",
+          "score": 96
+        },
+        {
+          "keyword": "new york city vs charlotte",
+          "score": 95
+        },
+        {
+          "keyword": "phillies - red sox",
+          "score": 94
+        },
+        {
+          "keyword": "coritiba vs santos",
+          "score": 93
+        },
+        {
+          "keyword": "taiwan",
+          "score": 92
+        },
+        {
+          "keyword": "andor",
           "score": 91
         }
       ]

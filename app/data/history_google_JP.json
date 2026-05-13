@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-09T22:32:57.816Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "滋賀銀行",
-          "score": 100
-        },
-        {
-          "keyword": "u-17 サッカー日本代表",
-          "score": 99
-        },
-        {
-          "keyword": "葵祭",
-          "score": 98
-        },
-        {
-          "keyword": "宮澤エマ",
-          "score": 97
-        },
-        {
-          "keyword": "今井春花",
-          "score": 96
-        },
-        {
-          "keyword": "セブン パン 100円",
-          "score": 95
-        },
-        {
-          "keyword": "福山 雅治",
-          "score": 94
-        },
-        {
-          "keyword": "タイフェスティバル",
-          "score": 93
-        },
-        {
-          "keyword": "鎌倉涼",
-          "score": 92
-        },
-        {
-          "keyword": "志田未来",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-09T23:37:09.204Z",
       "geo": "JP",
       "source": "google",
@@ -2254,6 +2207,53 @@
         },
         {
           "keyword": "パジェロ 新型",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-13T22:56:35.244Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "百田 尚樹",
+          "score": 100
+        },
+        {
+          "keyword": "トヨタ・ヤリス",
+          "score": 99
+        },
+        {
+          "keyword": "tdk",
+          "score": 98
+        },
+        {
+          "keyword": "奥田民生",
+          "score": 97
+        },
+        {
+          "keyword": "三山凌輝",
+          "score": 96
+        },
+        {
+          "keyword": "オリエンタルランド",
+          "score": 95
+        },
+        {
+          "keyword": "吉田輝星",
+          "score": 94
+        },
+        {
+          "keyword": "オスカー・ピアストリ",
+          "score": 93
+        },
+        {
+          "keyword": "サッカー日本代表メンバー発表",
+          "score": 92
+        },
+        {
+          "keyword": "ウィル・スミス",
           "score": 91
         }
       ]
