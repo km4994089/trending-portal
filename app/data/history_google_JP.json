@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-10T23:40:55.535Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "京浜東北線",
-          "score": 100
-        },
-        {
-          "keyword": "富永愛",
-          "score": 99
-        },
-        {
-          "keyword": "朝日奈央",
-          "score": 98
-        },
-        {
-          "keyword": "山形新聞",
-          "score": 97
-        },
-        {
-          "keyword": "ウーバー",
-          "score": 96
-        },
-        {
-          "keyword": "ウルブズ 対 スパーズ",
-          "score": 95
-        },
-        {
-          "keyword": "優勝",
-          "score": 94
-        },
-        {
-          "keyword": "キヤノン",
-          "score": 93
-        },
-        {
-          "keyword": "ロイヤルズ 対 タイガース",
-          "score": 92
-        },
-        {
-          "keyword": "防空",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-11T02:05:58.623Z",
       "geo": "JP",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "フットサル",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-14T23:58:58.924Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "leo",
+          "score": 100
+        },
+        {
+          "keyword": "遅延",
+          "score": 99
+        },
+        {
+          "keyword": "ジェイソン・ヘイワード",
+          "score": 98
+        },
+        {
+          "keyword": "ipo",
+          "score": 97
+        },
+        {
+          "keyword": "スティーブンキング",
+          "score": 96
+        },
+        {
+          "keyword": "美ヶ原",
+          "score": 95
+        },
+        {
+          "keyword": "芳根京子",
+          "score": 94
+        },
+        {
+          "keyword": "ヤマトホールディングス",
+          "score": 93
+        },
+        {
+          "keyword": "ジャングルポケット",
+          "score": 92
+        },
+        {
+          "keyword": "笠井 信輔",
           "score": 91
         }
       ]
