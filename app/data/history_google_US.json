@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-10T18:13:19.775Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jim clyburn",
-          "score": 100
-        },
-        {
-          "keyword": "kyle schwarber",
-          "score": 99
-        },
-        {
-          "keyword": "xrp price",
-          "score": 98
-        },
-        {
-          "keyword": "flau'jae johnson",
-          "score": 97
-        },
-        {
-          "keyword": "matt shakman",
-          "score": 96
-        },
-        {
-          "keyword": "angels - blue jays",
-          "score": 95
-        },
-        {
-          "keyword": "milan vs atalanta",
-          "score": 94
-        },
-        {
-          "keyword": "milan - atalanta",
-          "score": 93
-        },
-        {
-          "keyword": "premier league schedule",
-          "score": 92
-        },
-        {
-          "keyword": "mickey gasper",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-10T19:38:27.900Z",
       "geo": "US",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "noel rodriguez alvarez",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-14T19:18:21.782Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "xrp news",
+          "score": 100
+        },
+        {
+          "keyword": "law firm",
+          "score": 99
+        },
+        {
+          "keyword": "nyt connections answers",
+          "score": 98
+        },
+        {
+          "keyword": "chloe cole",
+          "score": 97
+        },
+        {
+          "keyword": "gauff tennis",
+          "score": 96
+        },
+        {
+          "keyword": "girona fc",
+          "score": 95
+        },
+        {
+          "keyword": "luke donald",
+          "score": 94
+        },
+        {
+          "keyword": "real madrid - real oviedo",
+          "score": 93
+        },
+        {
+          "keyword": "fbi",
+          "score": 92
+        },
+        {
+          "keyword": "jj bleday",
           "score": 91
         }
       ]
