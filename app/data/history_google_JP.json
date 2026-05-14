@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-10T01:55:41.764Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sports",
-          "score": 100
-        },
-        {
-          "keyword": "ブレーブス",
-          "score": 99
-        },
-        {
-          "keyword": "west",
-          "score": 98
-        },
-        {
-          "keyword": "エヌビディア",
-          "score": 97
-        },
-        {
-          "keyword": "アクーニャjr",
-          "score": 96
-        },
-        {
-          "keyword": "ブレイク・スネル",
-          "score": 95
-        },
-        {
-          "keyword": "スペンサー・ストライダー",
-          "score": 94
-        },
-        {
-          "keyword": "鶴見辰吾",
-          "score": 93
-        },
-        {
-          "keyword": "ベストマザー賞",
-          "score": 92
-        },
-        {
-          "keyword": "島崎信長",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-10T05:29:58.525Z",
       "geo": "JP",
       "source": "google",
@@ -2254,6 +2207,53 @@
         },
         {
           "keyword": "京王線",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-14T02:09:51.457Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sports",
+          "score": 100
+        },
+        {
+          "keyword": "ユニチカ",
+          "score": 99
+        },
+        {
+          "keyword": "石崎琴美",
+          "score": 98
+        },
+        {
+          "keyword": "リオネル・メッシ",
+          "score": 97
+        },
+        {
+          "keyword": "ク・ギョファン",
+          "score": 96
+        },
+        {
+          "keyword": "スプラトゥーン",
+          "score": 95
+        },
+        {
+          "keyword": "ワンキャリア",
+          "score": 94
+        },
+        {
+          "keyword": "西口 文也",
+          "score": 93
+        },
+        {
+          "keyword": "デクセリアルズ",
+          "score": 92
+        },
+        {
+          "keyword": "ルカ・ドンチッチ",
           "score": 91
         }
       ]
