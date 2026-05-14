@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-10T22:36:30.391Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "롯데 자이언츠",
-          "score": 100
-        },
-        {
-          "keyword": "강원특별자치도",
-          "score": 99
-        },
-        {
-          "keyword": "혈압",
-          "score": 98
-        },
-        {
-          "keyword": "기상청",
-          "score": 97
-        },
-        {
-          "keyword": "이민정",
-          "score": 96
-        },
-        {
-          "keyword": "트럼프",
-          "score": 95
-        },
-        {
-          "keyword": "psg vs brest",
-          "score": 94
-        },
-        {
-          "keyword": "나는 solo",
-          "score": 93
-        },
-        {
-          "keyword": "필라데피아 대 뉴욕",
-          "score": 92
-        },
-        {
-          "keyword": "전국삼성전자노동조합",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-10T23:40:53.942Z",
       "geo": "KR",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "다니엘",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-14T22:59:49.741Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "최저임금",
+          "score": 100
+        },
+        {
+          "keyword": "킬리안 음바페",
+          "score": 99
+        },
+        {
+          "keyword": "vix",
+          "score": 98
+        },
+        {
+          "keyword": "lg전자 주가",
+          "score": 97
+        },
+        {
+          "keyword": "걸 그룹",
+          "score": 96
+        },
+        {
+          "keyword": "로마오픈",
+          "score": 95
+        },
+        {
+          "keyword": "avgo",
+          "score": 94
+        },
+        {
+          "keyword": "s&p 500",
+          "score": 93
+        },
+        {
+          "keyword": "궁",
+          "score": 92
+        },
+        {
+          "keyword": "엘리나 스비톨리나",
           "score": 91
         }
       ]
