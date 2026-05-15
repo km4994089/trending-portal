@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-11T18:13:41.321Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "인도의 총리",
-          "score": 100
-        },
-        {
-          "keyword": "정치",
-          "score": 99
-        },
-        {
-          "keyword": "류혜린",
-          "score": 98
-        },
-        {
-          "keyword": "가비",
-          "score": 97
-        },
-        {
-          "keyword": "대부도",
-          "score": 96
-        },
-        {
-          "keyword": "byd",
-          "score": 95
-        },
-        {
-          "keyword": "이효리",
-          "score": 94
-        },
-        {
-          "keyword": "프로젝트 프리덤",
-          "score": 93
-        },
-        {
-          "keyword": "아이온큐",
-          "score": 92
-        },
-        {
-          "keyword": "pbks vs dc",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-11T20:10:58.275Z",
       "geo": "KR",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "ebay",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-15T19:01:50.402Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "grok",
+          "score": 100
+        },
+        {
+          "keyword": "fa컵",
+          "score": 99
+        },
+        {
+          "keyword": "함은정",
+          "score": 98
+        },
+        {
+          "keyword": "용인 반도체 클러스터",
+          "score": 97
+        },
+        {
+          "keyword": "이채연",
+          "score": 96
+        },
+        {
+          "keyword": "전현무계획",
+          "score": 95
+        },
+        {
+          "keyword": "조이",
+          "score": 94
+        },
+        {
+          "keyword": "중동",
+          "score": 93
+        },
+        {
+          "keyword": "마크롱",
+          "score": 92
+        },
+        {
+          "keyword": "김신영",
           "score": 91
         }
       ]
