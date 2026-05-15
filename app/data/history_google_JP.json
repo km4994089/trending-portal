@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-11T10:04:11.394Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "千葉 対 群馬",
-          "score": 100
-        },
-        {
-          "keyword": "柳川るい",
-          "score": 99
-        },
-        {
-          "keyword": "カルビー",
-          "score": 98
-        },
-        {
-          "keyword": "ウェールズ 公 妃 キャサリン",
-          "score": 97
-        },
-        {
-          "keyword": "老齢 年金 生活 者 支援 給付 金",
-          "score": 96
-        },
-        {
-          "keyword": "百年 構想 リーグ プレーオフ",
-          "score": 95
-        },
-        {
-          "keyword": "タイミー",
-          "score": 94
-        },
-        {
-          "keyword": "矢吹健太朗",
-          "score": 93
-        },
-        {
-          "keyword": "山口組",
-          "score": 92
-        },
-        {
-          "keyword": "百年構想リーグ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-11T13:21:11.738Z",
       "geo": "JP",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "阪急電鉄",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-15T11:47:24.514Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "東北新幹線",
+          "score": 100
+        },
+        {
+          "keyword": "ベトナム戦争",
+          "score": 99
+        },
+        {
+          "keyword": "実物大ユニコーンガンダム立像",
+          "score": 98
+        },
+        {
+          "keyword": "earthquakes japan",
+          "score": 97
+        },
+        {
+          "keyword": "津波注意報",
+          "score": 96
+        },
+        {
+          "keyword": "石巻市",
+          "score": 95
+        },
+        {
+          "keyword": "宮崎",
+          "score": 94
+        },
+        {
+          "keyword": "ハーゲンダッツ 新作",
+          "score": 93
+        },
+        {
+          "keyword": "最大震度5弱の地震",
+          "score": 92
+        },
+        {
+          "keyword": "地震 今",
           "score": 91
         }
       ]
