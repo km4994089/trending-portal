@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-11T13:21:08.688Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lincoln financial",
-          "score": 100
-        },
-        {
-          "keyword": "liberty university",
-          "score": 99
-        },
-        {
-          "keyword": "mram stock",
-          "score": 98
-        },
-        {
-          "keyword": "hawaiian monk seals",
-          "score": 97
-        },
-        {
-          "keyword": "associated press",
-          "score": 96
-        },
-        {
-          "keyword": "wordle game show",
-          "score": 95
-        },
-        {
-          "keyword": "josh groban",
-          "score": 94
-        },
-        {
-          "keyword": "sue bird",
-          "score": 93
-        },
-        {
-          "keyword": "brian wheat",
-          "score": 92
-        },
-        {
-          "keyword": "company funding",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-11T16:13:25.250Z",
       "geo": "US",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "pga tee times today",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-15T13:29:12.697Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cbc kids",
+          "score": 100
+        },
+        {
+          "keyword": "alyssa paige atlanta",
+          "score": 99
+        },
+        {
+          "keyword": "10 year treasury",
+          "score": 98
+        },
+        {
+          "keyword": "why are flags at half mast today",
+          "score": 97
+        },
+        {
+          "keyword": "us foreclosure rates q1 2026",
+          "score": 96
+        },
+        {
+          "keyword": "newrez",
+          "score": 95
+        },
+        {
+          "keyword": "africa",
+          "score": 94
+        },
+        {
+          "keyword": "red sox baseball",
+          "score": 93
+        },
+        {
+          "keyword": "oman",
+          "score": 92
+        },
+        {
+          "keyword": "roger daltrey",
           "score": 91
         }
       ]
