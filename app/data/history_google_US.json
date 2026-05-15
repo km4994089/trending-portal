@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-11T21:46:43.580Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "eminem",
-          "score": 100
-        },
-        {
-          "keyword": "cameron hamilton",
-          "score": 99
-        },
-        {
-          "keyword": "eileen wang",
-          "score": 98
-        },
-        {
-          "keyword": "pakistan",
-          "score": 97
-        },
-        {
-          "keyword": "wickenburg fire",
-          "score": 96
-        },
-        {
-          "keyword": "jose soriano",
-          "score": 95
-        },
-        {
-          "keyword": "angels vs guardians",
-          "score": 94
-        },
-        {
-          "keyword": "west ham fixtures",
-          "score": 93
-        },
-        {
-          "keyword": "alvin kamara",
-          "score": 92
-        },
-        {
-          "keyword": "sienna miller",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-11T22:44:48.139Z",
       "geo": "US",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "reese witherspoon son graduation",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-15T21:49:20.306Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "wagner university",
+          "score": 100
+        },
+        {
+          "keyword": "paris jackson legal win",
+          "score": 99
+        },
+        {
+          "keyword": "cboe volatility index",
+          "score": 98
+        },
+        {
+          "keyword": "texas tech softball",
+          "score": 97
+        },
+        {
+          "keyword": "grand canyon university",
+          "score": 96
+        },
+        {
+          "keyword": "nate bargatze",
+          "score": 95
+        },
+        {
+          "keyword": "arne slot",
+          "score": 94
+        },
+        {
+          "keyword": "samuel alito",
+          "score": 93
+        },
+        {
+          "keyword": "john tortorella",
+          "score": 92
+        },
+        {
+          "keyword": "eric schmidt",
           "score": 91
         }
       ]
