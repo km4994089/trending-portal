@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-11T06:11:05.234Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "united flight 579 diversion",
-          "score": 100
-        },
-        {
-          "keyword": "homicide",
-          "score": 99
-        },
-        {
-          "keyword": "frontier airlines hits person",
-          "score": 98
-        },
-        {
-          "keyword": "weather forecast texas",
-          "score": 97
-        },
-        {
-          "keyword": "tim burton",
-          "score": 96
-        },
-        {
-          "keyword": "alfredo adame",
-          "score": 95
-        },
-        {
-          "keyword": "seven",
-          "score": 94
-        },
-        {
-          "keyword": "priyanka chopra",
-          "score": 93
-        },
-        {
-          "keyword": "karen bass",
-          "score": 92
-        },
-        {
-          "keyword": "ponzi",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-11T10:04:08.860Z",
       "geo": "US",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "is angelina from jersey shore having a baby",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-15T06:45:03.946Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "黄仁勋",
+          "score": 100
+        },
+        {
+          "keyword": "andrew left",
+          "score": 99
+        },
+        {
+          "keyword": "kospi",
+          "score": 98
+        },
+        {
+          "keyword": "idris elba",
+          "score": 97
+        },
+        {
+          "keyword": "famous basketball players",
+          "score": 96
+        },
+        {
+          "keyword": "outlander finale",
+          "score": 95
+        },
+        {
+          "keyword": "lorde",
+          "score": 94
+        },
+        {
+          "keyword": "billboard top 100",
+          "score": 93
+        },
+        {
+          "keyword": "usc baseball",
+          "score": 92
+        },
+        {
+          "keyword": "tanner scott",
           "score": 91
         }
       ]
