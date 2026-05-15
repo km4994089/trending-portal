@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-11T22:44:50.551Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mmr ワクチン",
-          "score": 100
-        },
-        {
-          "keyword": "東京ymca",
-          "score": 99
-        },
-        {
-          "keyword": "ヤオコー",
-          "score": 98
-        },
-        {
-          "keyword": "アルナスル",
-          "score": 97
-        },
-        {
-          "keyword": "掛川市",
-          "score": 96
-        },
-        {
-          "keyword": "新垣結衣",
-          "score": 95
-        },
-        {
-          "keyword": "こめお 蟹ラーメン",
-          "score": 94
-        },
-        {
-          "keyword": "毎日新聞",
-          "score": 93
-        },
-        {
-          "keyword": "めざましライブ 2026",
-          "score": 92
-        },
-        {
-          "keyword": "半導体",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-11T23:46:56.226Z",
       "geo": "JP",
       "source": "google",
@@ -2160,6 +2113,53 @@
         },
         {
           "keyword": "神戸まつり 2026",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-15T23:44:51.369Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "木村多江",
+          "score": 100
+        },
+        {
+          "keyword": "京成電鉄",
+          "score": 99
+        },
+        {
+          "keyword": "箱根",
+          "score": 98
+        },
+        {
+          "keyword": "ホワイトソックス 対 カブス",
+          "score": 97
+        },
+        {
+          "keyword": "槙野智章",
+          "score": 96
+        },
+        {
+          "keyword": "水戸市",
+          "score": 95
+        },
+        {
+          "keyword": "ispace",
+          "score": 94
+        },
+        {
+          "keyword": "福井県",
+          "score": 93
+        },
+        {
+          "keyword": "風薫る キャスト",
+          "score": 92
+        },
+        {
+          "keyword": "イトーヨーカ堂",
           "score": 91
         }
       ]

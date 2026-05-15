@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-11T22:44:49.174Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "날씨",
-          "score": 100
-        },
-        {
-          "keyword": "한가인",
-          "score": 99
-        },
-        {
-          "keyword": "다우 존스 산업평균지수",
-          "score": 98
-        },
-        {
-          "keyword": "nvda",
-          "score": 97
-        },
-        {
-          "keyword": "보스턴다이내믹스",
-          "score": 96
-        },
-        {
-          "keyword": "오대환",
-          "score": 95
-        },
-        {
-          "keyword": "weather",
-          "score": 94
-        },
-        {
-          "keyword": "3기신도시 남양주 왕숙지구",
-          "score": 93
-        },
-        {
-          "keyword": "한윤서",
-          "score": 92
-        },
-        {
-          "keyword": "나스닥 100",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-11T23:46:55.150Z",
       "geo": "KR",
       "source": "google",
@@ -2160,6 +2113,53 @@
         },
         {
           "keyword": "경제",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-15T23:44:50.133Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "일진전기",
+          "score": 100
+        },
+        {
+          "keyword": "황보라",
+          "score": 99
+        },
+        {
+          "keyword": "장원영",
+          "score": 98
+        },
+        {
+          "keyword": "마이크론 테크놀로지",
+          "score": 97
+        },
+        {
+          "keyword": "토트넘 홋스퍼 fc",
+          "score": 96
+        },
+        {
+          "keyword": "메이저 리그 베이스볼",
+          "score": 95
+        },
+        {
+          "keyword": "이정후",
+          "score": 94
+        },
+        {
+          "keyword": "셀트리온",
+          "score": 93
+        },
+        {
+          "keyword": "nvda",
+          "score": 92
+        },
+        {
+          "keyword": "시스코 시스템즈",
           "score": 91
         }
       ]
