@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-11T16:13:27.993Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "神田沙也加",
-          "score": 100
-        },
-        {
-          "keyword": "中京大学 水泳部",
-          "score": 99
-        },
-        {
-          "keyword": "たくろう",
-          "score": 98
-        },
-        {
-          "keyword": "東出昌大",
-          "score": 97
-        },
-        {
-          "keyword": "宮崎あおい",
-          "score": 96
-        },
-        {
-          "keyword": "貞子",
-          "score": 95
-        },
-        {
-          "keyword": "ハンタ ウイルス 致死率",
-          "score": 94
-        },
-        {
-          "keyword": "alsok 銀行 atm",
-          "score": 93
-        },
-        {
-          "keyword": "ひろゆき",
-          "score": 92
-        },
-        {
-          "keyword": "マイク トラウト",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-11T18:13:42.569Z",
       "geo": "JP",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "チョルノービリ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-15T17:24:38.611Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "浅尾美和",
+          "score": 100
+        },
+        {
+          "keyword": "堀北真希",
+          "score": 99
+        },
+        {
+          "keyword": "こっちのけんと",
+          "score": 98
+        },
+        {
+          "keyword": "齋藤飛鳥",
+          "score": 97
+        },
+        {
+          "keyword": "岐阜新聞",
+          "score": 96
+        },
+        {
+          "keyword": "深川麻衣",
+          "score": 95
+        },
+        {
+          "keyword": "上白石萌歌",
+          "score": 94
+        },
+        {
+          "keyword": "subnautica 2",
+          "score": 93
+        },
+        {
+          "keyword": "ザボーイズ",
+          "score": 92
+        },
+        {
+          "keyword": "ワクチン接種",
           "score": 91
         }
       ]

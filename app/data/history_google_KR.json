@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-11T16:13:26.765Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "가비",
-          "score": 100
-        },
-        {
-          "keyword": "이효리",
-          "score": 99
-        },
-        {
-          "keyword": "프로젝트 프리덤",
-          "score": 98
-        },
-        {
-          "keyword": "아이온큐",
-          "score": 97
-        },
-        {
-          "keyword": "회사",
-          "score": 96
-        },
-        {
-          "keyword": "pbks vs dc",
-          "score": 95
-        },
-        {
-          "keyword": "데브시스터즈",
-          "score": 94
-        },
-        {
-          "keyword": "박민영",
-          "score": 93
-        },
-        {
-          "keyword": "강미나",
-          "score": 92
-        },
-        {
-          "keyword": "로켓랩 주가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-11T18:13:41.321Z",
       "geo": "KR",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "ssg",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-15T17:24:37.028Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "함은정",
+          "score": 100
+        },
+        {
+          "keyword": "용인 반도체 클러스터",
+          "score": 99
+        },
+        {
+          "keyword": "이채연",
+          "score": 98
+        },
+        {
+          "keyword": "전현무계획",
+          "score": 97
+        },
+        {
+          "keyword": "조이",
+          "score": 96
+        },
+        {
+          "keyword": "중동",
+          "score": 95
+        },
+        {
+          "keyword": "마크롱",
+          "score": 94
+        },
+        {
+          "keyword": "김신영",
+          "score": 93
+        },
+        {
+          "keyword": "연기금",
+          "score": 92
+        },
+        {
+          "keyword": "ebay",
           "score": 91
         }
       ]
