@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-11T20:10:56.864Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "solar flare",
-          "score": 100
-        },
-        {
-          "keyword": "karolína plíšková",
-          "score": 99
-        },
-        {
-          "keyword": "chase matthew",
-          "score": 98
-        },
-        {
-          "keyword": "josh allen hailee steinfeld family",
-          "score": 97
-        },
-        {
-          "keyword": "robert kirkman",
-          "score": 96
-        },
-        {
-          "keyword": "john sarcone misconduct committee",
-          "score": 95
-        },
-        {
-          "keyword": "cambridge",
-          "score": 94
-        },
-        {
-          "keyword": "mcbee dynasty season 3 bravo",
-          "score": 93
-        },
-        {
-          "keyword": "china debt-to-gdp ratio",
-          "score": 92
-        },
-        {
-          "keyword": "elena rybakina",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-11T21:46:43.580Z",
       "geo": "US",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "keyshawn davis",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-15T20:38:17.001Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "golden state warriors",
+          "score": 100
+        },
+        {
+          "keyword": "trump national mall prayer event",
+          "score": 99
+        },
+        {
+          "keyword": "ncaa softball regionals",
+          "score": 98
+        },
+        {
+          "keyword": "tiger woods",
+          "score": 97
+        },
+        {
+          "keyword": "maverick mcnealy",
+          "score": 96
+        },
+        {
+          "keyword": "tennis scores",
+          "score": 95
+        },
+        {
+          "keyword": "atp rome",
+          "score": 94
+        },
+        {
+          "keyword": "italian open tennis 2026",
+          "score": 93
+        },
+        {
+          "keyword": "ship",
+          "score": 92
+        },
+        {
+          "keyword": "reese witherspoon son graduation",
           "score": 91
         }
       ]
