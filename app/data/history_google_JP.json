@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-12T05:49:35.488Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "奈々未",
-          "score": 100
-        },
-        {
-          "keyword": "マツダ 決算",
-          "score": 99
-        },
-        {
-          "keyword": "防衛省",
-          "score": 98
-        },
-        {
-          "keyword": "nba",
-          "score": 97
-        },
-        {
-          "keyword": "グーグル",
-          "score": 96
-        },
-        {
-          "keyword": "jr 東日本",
-          "score": 95
-        },
-        {
-          "keyword": "downdetector",
-          "score": 94
-        },
-        {
-          "keyword": "レブロン・ジェームズ",
-          "score": 93
-        },
-        {
-          "keyword": "フジクラ 決算",
-          "score": 92
-        },
-        {
-          "keyword": "住友電工",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-12T08:25:09.463Z",
       "geo": "JP",
       "source": "google",
@@ -2160,6 +2113,53 @@
         },
         {
           "keyword": "湘南 対 仙台",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-16T07:30:37.427Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "寺島進",
+          "score": 100
+        },
+        {
+          "keyword": "台湾",
+          "score": 99
+        },
+        {
+          "keyword": "千代翔馬",
+          "score": 98
+        },
+        {
+          "keyword": "副業",
+          "score": 97
+        },
+        {
+          "keyword": "コンサドーレ",
+          "score": 96
+        },
+        {
+          "keyword": "エンブロイダリー",
+          "score": 95
+        },
+        {
+          "keyword": "海上保安庁",
+          "score": 94
+        },
+        {
+          "keyword": "甲府 対 岐阜",
+          "score": 93
+        },
+        {
+          "keyword": "前立腺癌",
+          "score": 92
+        },
+        {
+          "keyword": "石川 さゆり",
           "score": 91
         }
       ]
