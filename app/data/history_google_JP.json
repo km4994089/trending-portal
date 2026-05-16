@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-12T15:40:33.459Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "吉田栄作",
-          "score": 100
-        },
-        {
-          "keyword": "中川安奈",
-          "score": 99
-        },
-        {
-          "keyword": "森香澄",
-          "score": 98
-        },
-        {
-          "keyword": "名越スタジオ",
-          "score": 97
-        },
-        {
-          "keyword": "前田公輝",
-          "score": 96
-        },
-        {
-          "keyword": "宮本恒靖",
-          "score": 95
-        },
-        {
-          "keyword": "三苫",
-          "score": 94
-        },
-        {
-          "keyword": "ana",
-          "score": 93
-        },
-        {
-          "keyword": "行司",
-          "score": 92
-        },
-        {
-          "keyword": "日本代表",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-12T17:52:31.492Z",
       "geo": "JP",
       "source": "google",
@@ -2301,6 +2254,53 @@
         },
         {
           "keyword": "三軒茶屋",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-16T16:45:03.299Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "沢尻エリカ",
+          "score": 100
+        },
+        {
+          "keyword": "指原莉乃",
+          "score": 99
+        },
+        {
+          "keyword": "炎上",
+          "score": 98
+        },
+        {
+          "keyword": "小林美駒",
+          "score": 97
+        },
+        {
+          "keyword": "メダリスト",
+          "score": 96
+        },
+        {
+          "keyword": "岩清水梓",
+          "score": 95
+        },
+        {
+          "keyword": "風間俊介",
+          "score": 94
+        },
+        {
+          "keyword": "bundesliga",
+          "score": 93
+        },
+        {
+          "keyword": "アルファロメオ",
+          "score": 92
+        },
+        {
+          "keyword": "井桁弘恵",
           "score": 91
         }
       ]
