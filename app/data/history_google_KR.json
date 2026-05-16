@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-12T17:52:30.099Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "나스닥",
-          "score": 100
-        },
-        {
-          "keyword": "에어부산",
-          "score": 99
-        },
-        {
-          "keyword": "디렉티브 8020",
-          "score": 98
-        },
-        {
-          "keyword": "김다영",
-          "score": 97
-        },
-        {
-          "keyword": "무리뉴",
-          "score": 96
-        },
-        {
-          "keyword": "gt vs srh",
-          "score": 95
-        },
-        {
-          "keyword": "리플",
-          "score": 94
-        },
-        {
-          "keyword": "도깨비",
-          "score": 93
-        },
-        {
-          "keyword": "ios 26.5",
-          "score": 92
-        },
-        {
-          "keyword": "토지거래허가제",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-12T20:57:50.657Z",
       "geo": "KR",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "kkr vs gt",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-16T18:49:17.932Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "알론소",
+          "score": 100
+        },
+        {
+          "keyword": "알나스르",
+          "score": 99
+        },
+        {
+          "keyword": "새마을 금고",
+          "score": 98
+        },
+        {
+          "keyword": "국민은행",
+          "score": 97
+        },
+        {
+          "keyword": "해리 케인",
+          "score": 96
+        },
+        {
+          "keyword": "농심 레드포스",
+          "score": 95
+        },
+        {
+          "keyword": "감사의 정원",
+          "score": 94
+        },
+        {
+          "keyword": "비비",
+          "score": 93
+        },
+        {
+          "keyword": "문상훈",
+          "score": 92
+        },
+        {
+          "keyword": "21세기 대군부인",
           "score": 91
         }
       ]
