@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-12T10:45:00.998Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "松阪競輪",
-          "score": 100
-        },
-        {
-          "keyword": "富士通",
-          "score": 99
-        },
-        {
-          "keyword": "日本年金機構 詐欺メール",
-          "score": 98
-        },
-        {
-          "keyword": "フジテレビ",
-          "score": 97
-        },
-        {
-          "keyword": "デジタルガレージ",
-          "score": 96
-        },
-        {
-          "keyword": "世田谷区",
-          "score": 95
-        },
-        {
-          "keyword": "フリーアナウンサー",
-          "score": 94
-        },
-        {
-          "keyword": "山﨑賢人",
-          "score": 93
-        },
-        {
-          "keyword": "ピラミッド",
-          "score": 92
-        },
-        {
-          "keyword": "特急しなの",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-12T13:00:21.447Z",
       "geo": "JP",
       "source": "google",
@@ -2207,6 +2160,53 @@
         },
         {
           "keyword": "南明奈",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-16T11:42:58.130Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "水戸岡鋭治",
+          "score": 100
+        },
+        {
+          "keyword": "松陰寺太勇",
+          "score": 99
+        },
+        {
+          "keyword": "アンタッチャブル",
+          "score": 98
+        },
+        {
+          "keyword": "亜希",
+          "score": 97
+        },
+        {
+          "keyword": "消費税",
+          "score": 96
+        },
+        {
+          "keyword": "明治大学",
+          "score": 95
+        },
+        {
+          "keyword": "渡哲也",
+          "score": 94
+        },
+        {
+          "keyword": "セルティック 対 ハーツ",
+          "score": 93
+        },
+        {
+          "keyword": "リニア",
+          "score": 92
+        },
+        {
+          "keyword": "ガクテンソク",
           "score": 91
         }
       ]
