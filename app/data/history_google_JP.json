@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-12T22:09:22.738Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "稲葉浩志",
-          "score": 100
-        },
-        {
-          "keyword": "西 勇輝",
-          "score": 99
-        },
-        {
-          "keyword": "f-16",
-          "score": 98
-        },
-        {
-          "keyword": "パナソニックホールディングス",
-          "score": 97
-        },
-        {
-          "keyword": "モナキ",
-          "score": 96
-        },
-        {
-          "keyword": "アイリスオーヤマ",
-          "score": 95
-        },
-        {
-          "keyword": "サウジ・プロフェッショナルリーグ",
-          "score": 94
-        },
-        {
-          "keyword": "マラソン",
-          "score": 93
-        },
-        {
-          "keyword": "ボブスレー 不適切発言",
-          "score": 92
-        },
-        {
-          "keyword": "イヴルルド 遙 華",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-12T23:33:33.315Z",
       "geo": "JP",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "のぶみ 絵本",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-16T22:35:46.450Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "菅野智之",
+          "score": 100
+        },
+        {
+          "keyword": "eurovision 2026",
+          "score": 99
+        },
+        {
+          "keyword": "宮根誠司",
+          "score": 98
+        },
+        {
+          "keyword": "ナフサショック",
+          "score": 97
+        },
+        {
+          "keyword": "百想芸術大賞",
+          "score": 96
+        },
+        {
+          "keyword": "亀田興毅",
+          "score": 95
+        },
+        {
+          "keyword": "にじさんじフェス2026",
+          "score": 94
+        },
+        {
+          "keyword": "エバース",
+          "score": 93
+        },
+        {
+          "keyword": "岡山県",
+          "score": 92
+        },
+        {
+          "keyword": "xperia",
           "score": 91
         }
       ]

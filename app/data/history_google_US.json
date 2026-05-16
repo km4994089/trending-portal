@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-12T22:09:20.021Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "phillies vs red sox",
-          "score": 100
-        },
-        {
-          "keyword": "nationals vs reds",
-          "score": 99
-        },
-        {
-          "keyword": "rockies vs pirates",
-          "score": 98
-        },
-        {
-          "keyword": "israel",
-          "score": 97
-        },
-        {
-          "keyword": "tucson weather",
-          "score": 96
-        },
-        {
-          "keyword": "osasuna vs atlético madrid standings",
-          "score": 95
-        },
-        {
-          "keyword": "trump",
-          "score": 94
-        },
-        {
-          "keyword": "brock rechsteiner",
-          "score": 93
-        },
-        {
-          "keyword": "wind advisory",
-          "score": 92
-        },
-        {
-          "keyword": "ap news",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-12T23:33:30.483Z",
       "geo": "US",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "atlético-mg x mirassol",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-16T22:35:44.184Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tolima - atlético nacional",
+          "score": 100
+        },
+        {
+          "keyword": "chris paddack",
+          "score": 99
+        },
+        {
+          "keyword": "israel",
+          "score": 98
+        },
+        {
+          "keyword": "chris avila",
+          "score": 97
+        },
+        {
+          "keyword": "corey day",
+          "score": 96
+        },
+        {
+          "keyword": "ivan erslan",
+          "score": 95
+        },
+        {
+          "keyword": "bulgaria eurovision 2026",
+          "score": 94
+        },
+        {
+          "keyword": "cienciano - alianza lima",
+          "score": 93
+        },
+        {
+          "keyword": "alison victoria",
+          "score": 92
+        },
+        {
+          "keyword": "chicago stars vs north carolina courage",
           "score": 91
         }
       ]
