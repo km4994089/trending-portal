@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-12T08:25:09.463Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ソフトバンク 対 西武",
-          "score": 100
-        },
-        {
-          "keyword": "dena 対 中日",
-          "score": 99
-        },
-        {
-          "keyword": "ロッテ 対 日本ハム",
-          "score": 98
-        },
-        {
-          "keyword": "琴風",
-          "score": 97
-        },
-        {
-          "keyword": "矢口真里",
-          "score": 96
-        },
-        {
-          "keyword": "jリーグオールスター",
-          "score": 95
-        },
-        {
-          "keyword": "イ・ジュンギ",
-          "score": 94
-        },
-        {
-          "keyword": "6315",
-          "score": 93
-        },
-        {
-          "keyword": "京浜東北線",
-          "score": 92
-        },
-        {
-          "keyword": "エルニーニョ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-12T10:45:00.998Z",
       "geo": "JP",
       "source": "google",
@@ -2160,6 +2113,53 @@
         },
         {
           "keyword": "石川 さゆり",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-16T09:20:52.393Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "文春",
+          "score": 100
+        },
+        {
+          "keyword": "備前市",
+          "score": 99
+        },
+        {
+          "keyword": "吉野北人",
+          "score": 98
+        },
+        {
+          "keyword": "飯塚浩司",
+          "score": 97
+        },
+        {
+          "keyword": "並木秀尊",
+          "score": 96
+        },
+        {
+          "keyword": "モウリーニョ",
+          "score": 95
+        },
+        {
+          "keyword": "鳥貴族",
+          "score": 94
+        },
+        {
+          "keyword": "ตรวจหวย",
+          "score": 93
+        },
+        {
+          "keyword": "asea",
+          "score": 92
+        },
+        {
+          "keyword": "中央線",
           "score": 91
         }
       ]
