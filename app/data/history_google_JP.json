@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-12T02:01:53.791Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "中井 哲之",
-          "score": 100
-        },
-        {
-          "keyword": "電動バス",
-          "score": 99
-        },
-        {
-          "keyword": "有働由美子",
-          "score": 98
-        },
-        {
-          "keyword": "山本祐大",
-          "score": 97
-        },
-        {
-          "keyword": "石井ふく子",
-          "score": 96
-        },
-        {
-          "keyword": "マンチェスター・シティfc",
-          "score": 95
-        },
-        {
-          "keyword": "ドジャース 対 ジャイアンツ",
-          "score": 94
-        },
-        {
-          "keyword": "ゲーマー",
-          "score": 93
-        },
-        {
-          "keyword": "カリス・レヴァート",
-          "score": 92
-        },
-        {
-          "keyword": "イビデン 株価",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-12T05:49:35.488Z",
       "geo": "JP",
       "source": "google",
@@ -2160,6 +2113,53 @@
         },
         {
           "keyword": "日本ペイント",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-16T05:29:19.504Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "女子バスケ日本代表",
+          "score": 100
+        },
+        {
+          "keyword": "藤井風 チケット",
+          "score": 99
+        },
+        {
+          "keyword": "上坂樹里",
+          "score": 98
+        },
+        {
+          "keyword": "栃木c 対 山形",
+          "score": 97
+        },
+        {
+          "keyword": "ピカチュウ",
+          "score": 96
+        },
+        {
+          "keyword": "美奈子",
+          "score": 95
+        },
+        {
+          "keyword": "weリーグ",
+          "score": 94
+        },
+        {
+          "keyword": "領土",
+          "score": 93
+        },
+        {
+          "keyword": "令和ロマン 単独ライブ",
+          "score": 92
+        },
+        {
+          "keyword": "湘南 対 仙台",
           "score": 91
         }
       ]
