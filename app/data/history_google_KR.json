@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-12T20:57:50.657Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "기부",
-          "score": 100
-        },
-        {
-          "keyword": "농축 우라늄",
-          "score": 99
-        },
-        {
-          "keyword": "정부",
-          "score": 98
-        },
-        {
-          "keyword": "전원주",
-          "score": 97
-        },
-        {
-          "keyword": "주식시장",
-          "score": 96
-        },
-        {
-          "keyword": "프로당구 협회",
-          "score": 95
-        },
-        {
-          "keyword": "al-nassr vs al-hilal",
-          "score": 94
-        },
-        {
-          "keyword": "음료",
-          "score": 93
-        },
-        {
-          "keyword": "오민석",
-          "score": 92
-        },
-        {
-          "keyword": "알나스르 대 알힐랄",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-12T22:09:21.143Z",
       "geo": "KR",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "감사의 정원",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-16T21:39:16.346Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "오세훈",
+          "score": 100
+        },
+        {
+          "keyword": "쓰레기 봉투",
+          "score": 99
+        },
+        {
+          "keyword": "한화 이글스",
+          "score": 98
+        },
+        {
+          "keyword": "최저임금",
+          "score": 97
+        },
+        {
+          "keyword": "항공사",
+          "score": 96
+        },
+        {
+          "keyword": "축구",
+          "score": 95
+        },
+        {
+          "keyword": "오염",
+          "score": 94
+        },
+        {
+          "keyword": "코디 폰세",
+          "score": 93
+        },
+        {
+          "keyword": "주식 분할",
+          "score": 92
+        },
+        {
+          "keyword": "호날두",
           "score": 91
         }
       ]
