@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-13T06:00:02.824Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ミレービスケット",
-          "score": 100
-        },
-        {
-          "keyword": "天羽希純",
-          "score": 99
-        },
-        {
-          "keyword": "三浦孝太",
-          "score": 98
-        },
-        {
-          "keyword": "山本由伸",
-          "score": 97
-        },
-        {
-          "keyword": "幸平一家",
-          "score": 96
-        },
-        {
-          "keyword": "佐賀アリーナ",
-          "score": 95
-        },
-        {
-          "keyword": "マツダ・ロードスター",
-          "score": 94
-        },
-        {
-          "keyword": "ライオン",
-          "score": 93
-        },
-        {
-          "keyword": "フジクラ 決算",
-          "score": 92
-        },
-        {
-          "keyword": "東レ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-13T08:47:10.102Z",
       "geo": "JP",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "フランシス・ガヌー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-17T08:19:40.504Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ゾロアストロ",
+          "score": 100
+        },
+        {
+          "keyword": "朝白龍",
+          "score": 99
+        },
+        {
+          "keyword": "葬送のフリーレン",
+          "score": 98
+        },
+        {
+          "keyword": "平山功太",
+          "score": 97
+        },
+        {
+          "keyword": "平安ステークス",
+          "score": 96
+        },
+        {
+          "keyword": "藤井聡太 速報",
+          "score": 95
+        },
+        {
+          "keyword": "鈴木愛理",
+          "score": 94
+        },
+        {
+          "keyword": "大統領",
+          "score": 93
+        },
+        {
+          "keyword": "サンフレ",
+          "score": 92
+        },
+        {
+          "keyword": "北斗 晶",
           "score": 91
         }
       ]
