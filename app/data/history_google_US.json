@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-13T18:21:03.272Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "elena rybakina",
-          "score": 100
-        },
-        {
-          "keyword": "rybakina",
-          "score": 99
-        },
-        {
-          "keyword": "lisa murkowski",
-          "score": 98
-        },
-        {
-          "keyword": "may 15",
-          "score": 97
-        },
-        {
-          "keyword": "tate reeves",
-          "score": 96
-        },
-        {
-          "keyword": "diablo 4 patch notes",
-          "score": 95
-        },
-        {
-          "keyword": "gta 6 release date",
-          "score": 94
-        },
-        {
-          "keyword": "matthew schaefer",
-          "score": 93
-        },
-        {
-          "keyword": "lebron lakers",
-          "score": 92
-        },
-        {
-          "keyword": "alex batty",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-13T20:15:42.478Z",
       "geo": "US",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "spurs vs thunder game 1",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-17T18:53:27.473Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "paul skenes",
+          "score": 100
+        },
+        {
+          "keyword": "robert gasser",
+          "score": 99
+        },
+        {
+          "keyword": "becky hammon",
+          "score": 98
+        },
+        {
+          "keyword": "barcelona vs real betis",
+          "score": 97
+        },
+        {
+          "keyword": "paris fc vs psg",
+          "score": 96
+        },
+        {
+          "keyword": "botafogo x corinthians",
+          "score": 95
+        },
+        {
+          "keyword": "strasbourg vs monaco",
+          "score": 94
+        },
+        {
+          "keyword": "marseille vs rennes",
+          "score": 93
+        },
+        {
+          "keyword": "lyon - lens",
+          "score": 92
+        },
+        {
+          "keyword": "kieran trippier",
           "score": 91
         }
       ]

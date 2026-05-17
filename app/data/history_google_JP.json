@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-13T18:21:05.801Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "マンc 対 クリスタル・パレス",
-          "score": 100
-        },
-        {
-          "keyword": "サンフランシスコ・ジャイアンツ",
-          "score": 99
-        },
-        {
-          "keyword": "マンチェスター・ユナイテッドfc",
-          "score": 98
-        },
-        {
-          "keyword": "ドラマランキング",
-          "score": 97
-        },
-        {
-          "keyword": "川栄李奈",
-          "score": 96
-        },
-        {
-          "keyword": "消費",
-          "score": 95
-        },
-        {
-          "keyword": "曙太郎",
-          "score": 94
-        },
-        {
-          "keyword": "マツダ・mazda2",
-          "score": 93
-        },
-        {
-          "keyword": "堀北真希",
-          "score": 92
-        },
-        {
-          "keyword": "テレ東biz",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-13T20:15:44.934Z",
       "geo": "JP",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "シナー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-17T18:53:29.477Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "パリfc 対 パリsg",
+          "score": 100
+        },
+        {
+          "keyword": "バルセロナ 対 ベティス",
+          "score": 99
+        },
+        {
+          "keyword": "母親",
+          "score": 98
+        },
+        {
+          "keyword": "ヤニック・シナー",
+          "score": 97
+        },
+        {
+          "keyword": "ソシエダ",
+          "score": 96
+        },
+        {
+          "keyword": "バレンシアガ",
+          "score": 95
+        },
+        {
+          "keyword": "ジャパンディスプレイ 株価",
+          "score": 94
+        },
+        {
+          "keyword": "サマー・スタイル・アワード",
+          "score": 93
+        },
+        {
+          "keyword": "ネイマール",
+          "score": 92
+        },
+        {
+          "keyword": "sevilla vs real madrid",
           "score": 91
         }
       ]
