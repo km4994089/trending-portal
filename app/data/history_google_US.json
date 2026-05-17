@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-13T20:15:42.478Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "csco",
-          "score": 100
-        },
-        {
-          "keyword": "redistricting",
-          "score": 99
-        },
-        {
-          "keyword": "severe thunderstorm warning",
-          "score": 98
-        },
-        {
-          "keyword": "premier league schedule",
-          "score": 97
-        },
-        {
-          "keyword": "big brother 2026",
-          "score": 96
-        },
-        {
-          "keyword": "mckenna grace",
-          "score": 95
-        },
-        {
-          "keyword": "james uthmeier nfl subpoena",
-          "score": 94
-        },
-        {
-          "keyword": "hearts fc",
-          "score": 93
-        },
-        {
-          "keyword": "fa cup final",
-          "score": 92
-        },
-        {
-          "keyword": "blaze alexander",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-13T21:49:52.564Z",
       "geo": "US",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "pirates game",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-17T20:56:52.951Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "colt emerson",
+          "score": 100
+        },
+        {
+          "keyword": "rai golfer",
+          "score": 99
+        },
+        {
+          "keyword": "austin wells",
+          "score": 98
+        },
+        {
+          "keyword": "austin pd alert",
+          "score": 97
+        },
+        {
+          "keyword": "tyrone taylor",
+          "score": 96
+        },
+        {
+          "keyword": "david bednar",
+          "score": 95
+        },
+        {
+          "keyword": "white sox game",
+          "score": 94
+        },
+        {
+          "keyword": "austin police",
+          "score": 93
+        },
+        {
+          "keyword": "wnba games today",
+          "score": 92
+        },
+        {
+          "keyword": "keloland weather",
           "score": 91
         }
       ]

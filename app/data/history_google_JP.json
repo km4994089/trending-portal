@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-13T20:15:44.934Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "木原龍一",
-          "score": 100
-        },
-        {
-          "keyword": "ナスダック100",
-          "score": 99
-        },
-        {
-          "keyword": "小田和正",
-          "score": 98
-        },
-        {
-          "keyword": "平野紫耀",
-          "score": 97
-        },
-        {
-          "keyword": "プレミアリーグ",
-          "score": 96
-        },
-        {
-          "keyword": "乗務員",
-          "score": 95
-        },
-        {
-          "keyword": "ラツィオ 対 インテル",
-          "score": 94
-        },
-        {
-          "keyword": "サイ・ヤング",
-          "score": 93
-        },
-        {
-          "keyword": "の",
-          "score": 92
-        },
-        {
-          "keyword": "パランティア 株価",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-13T21:49:55.436Z",
       "geo": "JP",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "母親",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-17T20:56:55.903Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ストラスブール 対 モナコ",
+          "score": 100
+        },
+        {
+          "keyword": "羽生結弦",
+          "score": 99
+        },
+        {
+          "keyword": "大吾",
+          "score": 98
+        },
+        {
+          "keyword": "大法寺",
+          "score": 97
+        },
+        {
+          "keyword": "グレイソン・ロドリゲス",
+          "score": 96
+        },
+        {
+          "keyword": "ポール・スキーンズ",
+          "score": 95
+        },
+        {
+          "keyword": "nvidia",
+          "score": 94
+        },
+        {
+          "keyword": "映画 マイケル",
+          "score": 93
+        },
+        {
+          "keyword": "自衛隊",
+          "score": 92
+        },
+        {
+          "keyword": "膳場 貴子",
           "score": 91
         }
       ]

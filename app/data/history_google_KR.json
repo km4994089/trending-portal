@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-13T20:15:43.570Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이이경",
-          "score": 100
-        },
-        {
-          "keyword": "랑스 대 psg",
-          "score": 99
-        },
-        {
-          "keyword": "하지원",
-          "score": 98
-        },
-        {
-          "keyword": "재판 거래",
-          "score": 97
-        },
-        {
-          "keyword": "시체",
-          "score": 96
-        },
-        {
-          "keyword": "5월 14일",
-          "score": 95
-        },
-        {
-          "keyword": "강미나",
-          "score": 94
-        },
-        {
-          "keyword": "kkr vs rcb",
-          "score": 93
-        },
-        {
-          "keyword": "이지현",
-          "score": 92
-        },
-        {
-          "keyword": "황보라",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-13T21:49:54.064Z",
       "geo": "KR",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "wordle",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-17T20:56:54.399Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "삼성",
+          "score": 100
+        },
+        {
+          "keyword": "유정 향",
+          "score": 99
+        },
+        {
+          "keyword": "레드삭스 대 브레이브스",
+          "score": 98
+        },
+        {
+          "keyword": "김영옥",
+          "score": 97
+        },
+        {
+          "keyword": "박남정",
+          "score": 96
+        },
+        {
+          "keyword": "파리 대 psg",
+          "score": 95
+        },
+        {
+          "keyword": "미운 우리 새끼",
+          "score": 94
+        },
+        {
+          "keyword": "sevilla vs real madrid",
+          "score": 93
+        },
+        {
+          "keyword": "중소기업",
+          "score": 92
+        },
+        {
+          "keyword": "폭싹 속았수다",
           "score": 91
         }
       ]
