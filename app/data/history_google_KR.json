@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-13T16:13:41.909Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "장원영",
-          "score": 100
-        },
-        {
-          "keyword": "lg",
-          "score": 99
-        },
-        {
-          "keyword": "용인 식중독",
-          "score": 98
-        },
-        {
-          "keyword": "송중기",
-          "score": 97
-        },
-        {
-          "keyword": "나는 솔로",
-          "score": 96
-        },
-        {
-          "keyword": "황혜영",
-          "score": 95
-        },
-        {
-          "keyword": "클래리티 법안",
-          "score": 94
-        },
-        {
-          "keyword": "여당",
-          "score": 93
-        },
-        {
-          "keyword": "식중독",
-          "score": 92
-        },
-        {
-          "keyword": "michael jackson",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-13T18:21:04.442Z",
       "geo": "KR",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "루마니아",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-17T16:44:37.929Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "뉴캐슬",
+          "score": 100
+        },
+        {
+          "keyword": "서울경제",
+          "score": 99
+        },
+        {
+          "keyword": "wordle",
+          "score": 98
+        },
+        {
+          "keyword": "초 가공 식품",
+          "score": 97
+        },
+        {
+          "keyword": "카리나",
+          "score": 96
+        },
+        {
+          "keyword": "호일룬",
+          "score": 95
+        },
+        {
+          "keyword": "우상혁",
+          "score": 94
+        },
+        {
+          "keyword": "rr vs dc",
+          "score": 93
+        },
+        {
+          "keyword": "인하대",
+          "score": 92
+        },
+        {
+          "keyword": "jtbc",
           "score": 91
         }
       ]
