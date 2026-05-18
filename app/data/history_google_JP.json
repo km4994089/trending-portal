@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-14T08:40:37.782Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "藤ノ川",
-          "score": 100
-        },
-        {
-          "keyword": "川口 春奈",
-          "score": 99
-        },
-        {
-          "keyword": "熱海富士",
-          "score": 98
-        },
-        {
-          "keyword": "pts",
-          "score": 97
-        },
-        {
-          "keyword": "シロノワール",
-          "score": 96
-        },
-        {
-          "keyword": "若隆景",
-          "score": 95
-        },
-        {
-          "keyword": "共和党",
-          "score": 94
-        },
-        {
-          "keyword": "日本相撲協会",
-          "score": 93
-        },
-        {
-          "keyword": "tリーグ",
-          "score": 92
-        },
-        {
-          "keyword": "朝青龍",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-14T11:08:25.612Z",
       "geo": "JP",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "佐藤 琢磨 インディ 500",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-18T10:57:25.961Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "チュニジア",
+          "score": 100
+        },
+        {
+          "keyword": "モナコ",
+          "score": 99
+        },
+        {
+          "keyword": "菊川怜",
+          "score": 98
+        },
+        {
+          "keyword": "月",
+          "score": 97
+        },
+        {
+          "keyword": "ロバート",
+          "score": 96
+        },
+        {
+          "keyword": "フローレンス・ピュー",
+          "score": 95
+        },
+        {
+          "keyword": "たくろう",
+          "score": 94
+        },
+        {
+          "keyword": "よしもと粗品劇場",
+          "score": 93
+        },
+        {
+          "keyword": "新しい学校のリーダーズ",
+          "score": 92
+        },
+        {
+          "keyword": "project rabbit",
           "score": 91
         }
       ]

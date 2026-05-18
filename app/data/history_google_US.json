@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-14T08:40:34.985Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "chevy",
-          "score": 100
-        },
-        {
-          "keyword": "ascension day",
-          "score": 99
-        },
-        {
-          "keyword": "laptop",
-          "score": 98
-        },
-        {
-          "keyword": "overwatch",
-          "score": 97
-        },
-        {
-          "keyword": "housing prices",
-          "score": 96
-        },
-        {
-          "keyword": "samsung oled 4k s90f smart tv",
-          "score": 95
-        },
-        {
-          "keyword": "real estate market",
-          "score": 94
-        },
-        {
-          "keyword": "ubisoft",
-          "score": 93
-        },
-        {
-          "keyword": "hans zimmer",
-          "score": 92
-        },
-        {
-          "keyword": "特朗普",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-14T11:08:22.878Z",
       "geo": "US",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "charlie evans",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-18T10:57:23.301Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nokia stock",
+          "score": 100
+        },
+        {
+          "keyword": "ed gallrein",
+          "score": 99
+        },
+        {
+          "keyword": "brooks koepka",
+          "score": 98
+        },
+        {
+          "keyword": "jason biggs",
+          "score": 97
+        },
+        {
+          "keyword": "10 year treasury yield",
+          "score": 96
+        },
+        {
+          "keyword": "unh stock",
+          "score": 95
+        },
+        {
+          "keyword": "sarah jane ramos",
+          "score": 94
+        },
+        {
+          "keyword": "royal",
+          "score": 93
+        },
+        {
+          "keyword": "whtm-tv",
+          "score": 92
+        },
+        {
+          "keyword": "roland garros 2026",
           "score": 91
         }
       ]
