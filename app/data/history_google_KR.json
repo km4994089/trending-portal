@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-14T17:30:20.600Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "잭 쿠싱",
-          "score": 100
-        },
-        {
-          "keyword": "재판",
-          "score": 99
-        },
-        {
-          "keyword": "코인니스",
-          "score": 98
-        },
-        {
-          "keyword": "clarity act",
-          "score": 97
-        },
-        {
-          "keyword": "이지훈",
-          "score": 96
-        },
-        {
-          "keyword": "pbks vs mi",
-          "score": 95
-        },
-        {
-          "keyword": "상장지수펀드",
-          "score": 94
-        },
-        {
-          "keyword": "클래리티",
-          "score": 93
-        },
-        {
-          "keyword": "장준하",
-          "score": 92
-        },
-        {
-          "keyword": "포르자 호라이즌 6",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-14T19:18:23.319Z",
       "geo": "KR",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "채무",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-18T19:10:48.520Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "쓰레기 봉투",
+          "score": 100
+        },
+        {
+          "keyword": "김정원",
+          "score": 99
+        },
+        {
+          "keyword": "제헌절",
+          "score": 98
+        },
+        {
+          "keyword": "집단 소송",
+          "score": 97
+        },
+        {
+          "keyword": "포스코퓨처엠",
+          "score": 96
+        },
+        {
+          "keyword": "무소속",
+          "score": 95
+        },
+        {
+          "keyword": "한국배구연맹",
+          "score": 94
+        },
+        {
+          "keyword": "프로골퍼",
+          "score": 93
+        },
+        {
+          "keyword": "경계 현",
+          "score": 92
+        },
+        {
+          "keyword": "라면",
           "score": 91
         }
       ]
