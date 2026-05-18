@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-14T22:00:31.620Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "松本若菜",
-          "score": 100
-        },
-        {
-          "keyword": "自転車 青切符",
-          "score": 99
-        },
-        {
-          "keyword": "ライブドア",
-          "score": 98
-        },
-        {
-          "keyword": "大島優子 旦那",
-          "score": 97
-        },
-        {
-          "keyword": "フランス人",
-          "score": 96
-        },
-        {
-          "keyword": "土屋太鳳",
-          "score": 95
-        },
-        {
-          "keyword": "若田光一",
-          "score": 94
-        },
-        {
-          "keyword": "キリアン・エムバペ",
-          "score": 93
-        },
-        {
-          "keyword": "ntt",
-          "score": 92
-        },
-        {
-          "keyword": "アンソロピック",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-14T22:59:51.136Z",
       "geo": "JP",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "nvda",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-18T22:58:34.992Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "絢香",
+          "score": 100
+        },
+        {
+          "keyword": "niki",
+          "score": 99
+        },
+        {
+          "keyword": "アルネ・スロット",
+          "score": 98
+        },
+        {
+          "keyword": "村田",
+          "score": 97
+        },
+        {
+          "keyword": "ブルームバーグ 今朝の5本",
+          "score": 96
+        },
+        {
+          "keyword": "めざましテレビ",
+          "score": 95
+        },
+        {
+          "keyword": "住友林業",
+          "score": 94
+        },
+        {
+          "keyword": "波瑠",
+          "score": 93
+        },
+        {
+          "keyword": "マーリンズ 対 ブレーブス",
+          "score": 92
+        },
+        {
+          "keyword": "木南晴夏",
           "score": 91
         }
       ]

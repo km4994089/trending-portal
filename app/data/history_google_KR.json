@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-14T22:00:30.338Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "영장",
-          "score": 100
-        },
-        {
-          "keyword": "voo",
-          "score": 99
-        },
-        {
-          "keyword": "미스트롯3",
-          "score": 98
-        },
-        {
-          "keyword": "당구",
-          "score": 97
-        },
-        {
-          "keyword": "전원주",
-          "score": 96
-        },
-        {
-          "keyword": "안성재",
-          "score": 95
-        },
-        {
-          "keyword": "군수산업",
-          "score": 94
-        },
-        {
-          "keyword": "테슬라 주가",
-          "score": 93
-        },
-        {
-          "keyword": "소양호",
-          "score": 92
-        },
-        {
-          "keyword": "다니엘",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-14T22:59:49.741Z",
       "geo": "KR",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "อาร์เซนอล พบ เบิร์นลีย์",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-18T22:58:33.772Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "날씨",
+          "score": 100
+        },
+        {
+          "keyword": "테슬라 모델 y",
+          "score": 99
+        },
+        {
+          "keyword": "대형주",
+          "score": 98
+        },
+        {
+          "keyword": "고윤정",
+          "score": 97
+        },
+        {
+          "keyword": "afc u-17 아시안컵",
+          "score": 96
+        },
+        {
+          "keyword": "네이마르",
+          "score": 95
+        },
+        {
+          "keyword": "tsla",
+          "score": 94
+        },
+        {
+          "keyword": "ipl",
+          "score": 93
+        },
+        {
+          "keyword": "반도체",
+          "score": 92
+        },
+        {
+          "keyword": "김예진",
           "score": 91
         }
       ]
