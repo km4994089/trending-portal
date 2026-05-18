@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-14T15:38:59.144Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "千葉雄大",
-          "score": 100
-        },
-        {
-          "keyword": "コードギアス",
-          "score": 99
-        },
-        {
-          "keyword": "forza horizon 6",
-          "score": 98
-        },
-        {
-          "keyword": "和田まんじゅう",
-          "score": 97
-        },
-        {
-          "keyword": "澤部佑",
-          "score": 96
-        },
-        {
-          "keyword": "日プ新世界 順位",
-          "score": 95
-        },
-        {
-          "keyword": "かまいたち",
-          "score": 94
-        },
-        {
-          "keyword": "カンブリア宮殿",
-          "score": 93
-        },
-        {
-          "keyword": "櫻坂",
-          "score": 92
-        },
-        {
-          "keyword": "byd",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-14T17:30:21.866Z",
       "geo": "JP",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "dh",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-18T17:15:52.144Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cien",
+          "score": 100
+        },
+        {
+          "keyword": "住吉会",
+          "score": 99
+        },
+        {
+          "keyword": "ナオキマン",
+          "score": 98
+        },
+        {
+          "keyword": "スルメイカ",
+          "score": 97
+        },
+        {
+          "keyword": "ゴダイゴ",
+          "score": 96
+        },
+        {
+          "keyword": "あのちゃん",
+          "score": 95
+        },
+        {
+          "keyword": "lonesome rabbit",
+          "score": 94
+        },
+        {
+          "keyword": "ハリルホジッチ",
+          "score": 93
+        },
+        {
+          "keyword": "スペースx 上場",
+          "score": 92
+        },
+        {
+          "keyword": "藤澤涼架",
           "score": 91
         }
       ]
