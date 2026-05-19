@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-15T03:29:11.426Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "윌 스미스",
-          "score": 100
-        },
-        {
-          "keyword": "탁명환",
-          "score": 99
-        },
-        {
-          "keyword": "한화솔루션 주가",
-          "score": 98
-        },
-        {
-          "keyword": "도박",
-          "score": 97
-        },
-        {
-          "keyword": "현대건설 주가",
-          "score": 96
-        },
-        {
-          "keyword": "kospi",
-          "score": 95
-        },
-        {
-          "keyword": "두산로보틱스 주가",
-          "score": 94
-        },
-        {
-          "keyword": "컵스 대 브레이브스",
-          "score": 93
-        },
-        {
-          "keyword": "아우디",
-          "score": 92
-        },
-        {
-          "keyword": "삼성 갤럭시 s26",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-15T06:45:05.197Z",
       "geo": "KR",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "포스코 퓨처 엠",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-19T04:38:21.643Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "실책",
+          "score": 100
+        },
+        {
+          "keyword": "다카이치",
+          "score": 99
+        },
+        {
+          "keyword": "어린이날",
+          "score": 98
+        },
+        {
+          "keyword": "김서현",
+          "score": 97
+        },
+        {
+          "keyword": "진태현",
+          "score": 96
+        },
+        {
+          "keyword": "국민연금",
+          "score": 95
+        },
+        {
+          "keyword": "스포티파이",
+          "score": 94
+        },
+        {
+          "keyword": "spotify",
+          "score": 93
+        },
+        {
+          "keyword": "프레드릭 쿠 드롱",
+          "score": 92
+        },
+        {
+          "keyword": "금융 거래",
           "score": 91
         }
       ]
