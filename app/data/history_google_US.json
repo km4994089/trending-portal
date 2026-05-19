@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-15T06:45:03.946Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "黄仁勋",
-          "score": 100
-        },
-        {
-          "keyword": "andrew left",
-          "score": 99
-        },
-        {
-          "keyword": "kospi",
-          "score": 98
-        },
-        {
-          "keyword": "idris elba",
-          "score": 97
-        },
-        {
-          "keyword": "famous basketball players",
-          "score": 96
-        },
-        {
-          "keyword": "outlander finale",
-          "score": 95
-        },
-        {
-          "keyword": "lorde",
-          "score": 94
-        },
-        {
-          "keyword": "billboard top 100",
-          "score": 93
-        },
-        {
-          "keyword": "usc baseball",
-          "score": 92
-        },
-        {
-          "keyword": "tanner scott",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-15T09:38:11.070Z",
       "geo": "US",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "angels baseball",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-19T08:20:07.630Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "god of war",
+          "score": 100
+        },
+        {
+          "keyword": "twisha sharma",
+          "score": 99
+        },
+        {
+          "keyword": "pak vs ban",
+          "score": 98
+        },
+        {
+          "keyword": "ameren",
+          "score": 97
+        },
+        {
+          "keyword": "power outage near me",
+          "score": 96
+        },
+        {
+          "keyword": "usc",
+          "score": 95
+        },
+        {
+          "keyword": "mikey williams",
+          "score": 94
+        },
+        {
+          "keyword": "pitchfork",
+          "score": 93
+        },
+        {
+          "keyword": "boeing 737",
+          "score": 92
+        },
+        {
+          "keyword": "catalina island",
           "score": 91
         }
       ]

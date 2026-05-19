@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-15T06:45:05.197Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이정후",
-          "score": 100
-        },
-        {
-          "keyword": "오세훈",
-          "score": 99
-        },
-        {
-          "keyword": "키옥시아",
-          "score": 98
-        },
-        {
-          "keyword": "전국노래자랑",
-          "score": 97
-        },
-        {
-          "keyword": "무주산골영화제",
-          "score": 96
-        },
-        {
-          "keyword": "김민하",
-          "score": 95
-        },
-        {
-          "keyword": "채무",
-          "score": 94
-        },
-        {
-          "keyword": "빅뱅",
-          "score": 93
-        },
-        {
-          "keyword": "사이드카",
-          "score": 92
-        },
-        {
-          "keyword": "수원 fc 위민",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-15T09:38:12.470Z",
       "geo": "KR",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "금융 거래",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-19T08:20:08.960Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "베트남",
+          "score": 100
+        },
+        {
+          "keyword": "에볼라 출혈열",
+          "score": 99
+        },
+        {
+          "keyword": "서울특별시",
+          "score": 98
+        },
+        {
+          "keyword": "화성",
+          "score": 97
+        },
+        {
+          "keyword": "sh공사",
+          "score": 96
+        },
+        {
+          "keyword": "장애인",
+          "score": 95
+        },
+        {
+          "keyword": "라이엇 게임즈",
+          "score": 94
+        },
+        {
+          "keyword": "한선화",
+          "score": 93
+        },
+        {
+          "keyword": "이동경",
+          "score": 92
+        },
+        {
+          "keyword": "김연주",
           "score": 91
         }
       ]

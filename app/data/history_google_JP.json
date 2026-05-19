@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-15T06:45:06.742Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "キオクシア",
-          "score": 100
-        },
-        {
-          "keyword": "キオクシア 株価",
-          "score": 99
-        },
-        {
-          "keyword": "キオクシア決算",
-          "score": 98
-        },
-        {
-          "keyword": "適時開示",
-          "score": 97
-        },
-        {
-          "keyword": "285a",
-          "score": 96
-        },
-        {
-          "keyword": "日立製作所",
-          "score": 95
-        },
-        {
-          "keyword": "グランド・セフト・オートvi",
-          "score": 94
-        },
-        {
-          "keyword": "kf-21",
-          "score": 93
-        },
-        {
-          "keyword": "金田朋子",
-          "score": 92
-        },
-        {
-          "keyword": "ジャン・レノ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-15T09:38:13.853Z",
       "geo": "JP",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "メイソン・ミラー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-19T08:20:10.321Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ヤクルト 対 巨人",
+          "score": 100
+        },
+        {
+          "keyword": "オリックス 対 ソフトバンク",
+          "score": 99
+        },
+        {
+          "keyword": "広島 対 dena",
+          "score": 98
+        },
+        {
+          "keyword": "北朝鮮",
+          "score": 97
+        },
+        {
+          "keyword": "日本ハム 対 楽天",
+          "score": 96
+        },
+        {
+          "keyword": "西武 対 ロッテ",
+          "score": 95
+        },
+        {
+          "keyword": "プレミアムシネマ",
+          "score": 94
+        },
+        {
+          "keyword": "姫子 旅立ち",
+          "score": 93
+        },
+        {
+          "keyword": "韓国総合株価指数",
+          "score": 92
+        },
+        {
+          "keyword": "uq mobile",
           "score": 91
         }
       ]
