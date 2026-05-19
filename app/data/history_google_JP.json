@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-15T09:38:13.853Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "田村智子",
-          "score": 100
-        },
-        {
-          "keyword": "tobe",
-          "score": 99
-        },
-        {
-          "keyword": "琉球 対 名古屋d",
-          "score": 98
-        },
-        {
-          "keyword": "スシロー コラボ",
-          "score": 97
-        },
-        {
-          "keyword": "長崎 対 千葉",
-          "score": 96
-        },
-        {
-          "keyword": "ウー・ジンイエン",
-          "score": 95
-        },
-        {
-          "keyword": "セブン銀行",
-          "score": 94
-        },
-        {
-          "keyword": "現代自動車",
-          "score": 93
-        },
-        {
-          "keyword": "ボビー・コックス",
-          "score": 92
-        },
-        {
-          "keyword": "阪急電鉄",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-15T11:47:24.514Z",
       "geo": "JP",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "uq mobile",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-19T11:36:59.166Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "松崎ナオ",
+          "score": 100
+        },
+        {
+          "keyword": "thời tiết ngày mai",
+          "score": 99
+        },
+        {
+          "keyword": "cuaca besok",
+          "score": 98
+        },
+        {
+          "keyword": "磯山さやか",
+          "score": 97
+        },
+        {
+          "keyword": "櫻井翔",
+          "score": 96
+        },
+        {
+          "keyword": "日村",
+          "score": 95
+        },
+        {
+          "keyword": "伊藤大海",
+          "score": 94
+        },
+        {
+          "keyword": "上野公園",
+          "score": 93
+        },
+        {
+          "keyword": "カンヌ国際映画祭",
+          "score": 92
+        },
+        {
+          "keyword": "エバース",
           "score": 91
         }
       ]
