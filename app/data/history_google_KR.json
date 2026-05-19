@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-15T21:49:21.740Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "일본",
-          "score": 100
-        },
-        {
-          "keyword": "ah-64 아파치",
-          "score": 99
-        },
-        {
-          "keyword": "김건희",
-          "score": 98
-        },
-        {
-          "keyword": "무명전설 - 트롯 사내들의 서열전쟁",
-          "score": 97
-        },
-        {
-          "keyword": "프로야구순위",
-          "score": 96
-        },
-        {
-          "keyword": "코스닥",
-          "score": 95
-        },
-        {
-          "keyword": "제주특별자치도",
-          "score": 94
-        },
-        {
-          "keyword": "정소영",
-          "score": 93
-        },
-        {
-          "keyword": "aston villa đấu với liverpool",
-          "score": 92
-        },
-        {
-          "keyword": "희토류 원소",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-15T22:43:52.576Z",
       "geo": "KR",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "pl",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-19T22:42:01.011Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "날씨",
+          "score": 100
+        },
+        {
+          "keyword": "중사",
+          "score": 99
+        },
+        {
+          "keyword": "체험학습",
+          "score": 98
+        },
+        {
+          "keyword": "天気",
+          "score": 97
+        },
+        {
+          "keyword": "weather",
+          "score": 96
+        },
+        {
+          "keyword": "борнмут – манчестер сити",
+          "score": 95
+        },
+        {
+          "keyword": "liga inggris",
+          "score": 94
+        },
+        {
+          "keyword": "폴리 아나 비아나",
+          "score": 93
+        },
+        {
+          "keyword": "엔비디아 실적",
+          "score": 92
+        },
+        {
+          "keyword": "기상청",
           "score": 91
         }
       ]
