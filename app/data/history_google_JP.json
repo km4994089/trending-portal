@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-16T10:43:11.930Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "マリウス葉",
-          "score": 100
-        },
-        {
-          "keyword": "ダイソー",
-          "score": 99
-        },
-        {
-          "keyword": "ディズニー",
-          "score": 98
-        },
-        {
-          "keyword": "ディズニーランド",
-          "score": 97
-        },
-        {
-          "keyword": "村瀬心椛",
-          "score": 96
-        },
-        {
-          "keyword": "川﨑春花",
-          "score": 95
-        },
-        {
-          "keyword": "ディズニーシー",
-          "score": 94
-        },
-        {
-          "keyword": "スザンヌ",
-          "score": 93
-        },
-        {
-          "keyword": "ノジェス",
-          "score": 92
-        },
-        {
-          "keyword": "南明奈",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-05-16T11:42:58.130Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "水戸岡鋭治",
-          "score": 100
-        },
-        {
-          "keyword": "松陰寺太勇",
-          "score": 99
-        },
-        {
-          "keyword": "アンタッチャブル",
-          "score": 98
-        },
-        {
-          "keyword": "亜希",
-          "score": 97
-        },
-        {
-          "keyword": "消費税",
-          "score": 96
-        },
-        {
-          "keyword": "明治大学",
-          "score": 95
-        },
-        {
-          "keyword": "渡哲也",
-          "score": 94
-        },
-        {
-          "keyword": "セルティック 対 ハーツ",
-          "score": 93
-        },
-        {
-          "keyword": "リニア",
-          "score": 92
-        },
-        {
-          "keyword": "ガクテンソク",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-16T12:57:53.546Z",
       "geo": "JP",
       "source": "google",
@@ -2395,6 +2301,53 @@
         },
         {
           "keyword": "mango",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-20T12:40:49.167Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "阪神タイガース",
+          "score": 100
+        },
+        {
+          "keyword": "野球速報",
+          "score": 99
+        },
+        {
+          "keyword": "持丸泰輝",
+          "score": 98
+        },
+        {
+          "keyword": "柴咲コウ",
+          "score": 97
+        },
+        {
+          "keyword": "鳥居みゆき",
+          "score": 96
+        },
+        {
+          "keyword": "若槻千夏",
+          "score": 95
+        },
+        {
+          "keyword": "ロッテ",
+          "score": 94
+        },
+        {
+          "keyword": "土屋太鳳",
+          "score": 93
+        },
+        {
+          "keyword": "ドリス",
+          "score": 92
+        },
+        {
+          "keyword": "もんじゃ焼きの店 福わ家",
           "score": 91
         }
       ]
