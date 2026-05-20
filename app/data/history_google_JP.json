@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-16T02:00:19.554Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ウィル・クライン",
-          "score": 100
-        },
-        {
-          "keyword": "玉置 浩二",
-          "score": 99
-        },
-        {
-          "keyword": "オリエンタルランド",
-          "score": 98
-        },
-        {
-          "keyword": "朝比奈彩",
-          "score": 97
-        },
-        {
-          "keyword": "エボラ出血熱",
-          "score": 96
-        },
-        {
-          "keyword": "ウルブズ 対 スパーズ",
-          "score": 95
-        },
-        {
-          "keyword": "にじさんじ",
-          "score": 94
-        },
-        {
-          "keyword": "playstation 5",
-          "score": 93
-        },
-        {
-          "keyword": "北海道高校野球",
-          "score": 92
-        },
-        {
-          "keyword": "日本ペイント",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-16T05:29:19.504Z",
       "geo": "JP",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "官僚",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-20T02:12:45.766Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "田久保眞紀",
+          "score": 100
+        },
+        {
+          "keyword": "株式会社",
+          "score": 99
+        },
+        {
+          "keyword": "ジェームズ・ハーデン",
+          "score": 98
+        },
+        {
+          "keyword": "浜松市",
+          "score": 97
+        },
+        {
+          "keyword": "ドノバン・ミッチェル",
+          "score": 96
+        },
+        {
+          "keyword": "ディーン・ウェイド",
+          "score": 95
+        },
+        {
+          "keyword": "グラフィック",
+          "score": 94
+        },
+        {
+          "keyword": "バロンドール",
+          "score": 93
+        },
+        {
+          "keyword": "ソニック",
+          "score": 92
+        },
+        {
+          "keyword": "積水化学 株価",
           "score": 91
         }
       ]
