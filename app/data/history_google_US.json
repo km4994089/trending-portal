@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-16T05:29:16.822Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tornado warning",
-          "score": 100
-        },
-        {
-          "keyword": "nathan lane",
-          "score": 99
-        },
-        {
-          "keyword": "lorde",
-          "score": 98
-        },
-        {
-          "keyword": "arnold allen",
-          "score": 97
-        },
-        {
-          "keyword": "strong acid subnautica 2",
-          "score": 96
-        },
-        {
-          "keyword": "lluvia",
-          "score": 95
-        },
-        {
-          "keyword": "bitcoin",
-          "score": 94
-        },
-        {
-          "keyword": "charlie sheen",
-          "score": 93
-        },
-        {
-          "keyword": "car",
-          "score": 92
-        },
-        {
-          "keyword": "airport",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-16T07:30:35.099Z",
       "geo": "US",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "whitney fransway",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-20T06:30:44.981Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jungkook",
+          "score": 100
+        },
+        {
+          "keyword": "trump bank citizenship executive order",
+          "score": 99
+        },
+        {
+          "keyword": "salman khan",
+          "score": 98
+        },
+        {
+          "keyword": "sơn ngọc minh",
+          "score": 97
+        },
+        {
+          "keyword": "tom selleck",
+          "score": 96
+        },
+        {
+          "keyword": "cps outage map",
+          "score": 95
+        },
+        {
+          "keyword": "air quality",
+          "score": 94
+        },
+        {
+          "keyword": "lauren betts",
+          "score": 93
+        },
+        {
+          "keyword": "eiza gonzález",
+          "score": 92
+        },
+        {
+          "keyword": "cps energy",
           "score": 91
         }
       ]
