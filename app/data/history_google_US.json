@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-17T18:53:27.473Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "paul skenes",
-          "score": 100
-        },
-        {
-          "keyword": "robert gasser",
-          "score": 99
-        },
-        {
-          "keyword": "becky hammon",
-          "score": 98
-        },
-        {
-          "keyword": "barcelona vs real betis",
-          "score": 97
-        },
-        {
-          "keyword": "paris fc vs psg",
-          "score": 96
-        },
-        {
-          "keyword": "botafogo x corinthians",
-          "score": 95
-        },
-        {
-          "keyword": "strasbourg vs monaco",
-          "score": 94
-        },
-        {
-          "keyword": "marseille vs rennes",
-          "score": 93
-        },
-        {
-          "keyword": "lyon - lens",
-          "score": 92
-        },
-        {
-          "keyword": "kieran trippier",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-05-17T20:00:10.444Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "severe weather",
-          "score": 100
-        },
-        {
-          "keyword": "lyon fc",
-          "score": 99
-        },
-        {
-          "keyword": "todd blanche",
-          "score": 98
-        },
-        {
-          "keyword": "padraig harrington",
-          "score": 97
-        },
-        {
-          "keyword": "atlanta weather",
-          "score": 96
-        },
-        {
-          "keyword": "eric lauer",
-          "score": 95
-        },
-        {
-          "keyword": "rockies game",
-          "score": 94
-        },
-        {
-          "keyword": "duke lacrosse",
-          "score": 93
-        },
-        {
-          "keyword": "amanda balionis",
-          "score": 92
-        },
-        {
-          "keyword": "pirates game",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-17T20:56:52.951Z",
       "geo": "US",
       "source": "google",
@@ -1878,6 +1784,53 @@
         },
         {
           "keyword": "marathon",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-21T20:30:11.979Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "playstation network",
+          "score": 100
+        },
+        {
+          "keyword": "wday stock",
+          "score": 99
+        },
+        {
+          "keyword": "colorectal cancer",
+          "score": 98
+        },
+        {
+          "keyword": "take two earnings call",
+          "score": 97
+        },
+        {
+          "keyword": "william, prince of wales",
+          "score": 96
+        },
+        {
+          "keyword": "mets - nationals",
+          "score": 95
+        },
+        {
+          "keyword": "byron nelson leaderboard",
+          "score": 94
+        },
+        {
+          "keyword": "julián quiñones",
+          "score": 93
+        },
+        {
+          "keyword": "doj vs state license plates",
+          "score": 92
+        },
+        {
+          "keyword": "al nasr",
           "score": 91
         }
       ]
