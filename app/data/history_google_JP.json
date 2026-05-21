@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-17T05:58:31.096Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ヒロド歩美",
-          "score": 100
-        },
-        {
-          "keyword": "緊急着陸",
-          "score": 99
-        },
-        {
-          "keyword": "岡本駿",
-          "score": 98
-        },
-        {
-          "keyword": "桜井マッハ速人",
-          "score": 97
-        },
-        {
-          "keyword": "シント=トロイデンvv",
-          "score": 96
-        },
-        {
-          "keyword": "高井幸大",
-          "score": 95
-        },
-        {
-          "keyword": "浜田雅功",
-          "score": 94
-        },
-        {
-          "keyword": "桑木志帆",
-          "score": 93
-        },
-        {
-          "keyword": "アルビオン",
-          "score": 92
-        },
-        {
-          "keyword": "フランシス・ガヌー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-17T08:19:40.504Z",
       "geo": "JP",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "マイクラ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-21T06:32:47.136Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "今日、好きになりました。",
+          "score": 100
+        },
+        {
+          "keyword": "石川遼",
+          "score": 99
+        },
+        {
+          "keyword": "小枝淳子",
+          "score": 98
+        },
+        {
+          "keyword": "jr九州",
+          "score": 97
+        },
+        {
+          "keyword": "第一生命",
+          "score": 96
+        },
+        {
+          "keyword": "九州大学",
+          "score": 95
+        },
+        {
+          "keyword": "警察",
+          "score": 94
+        },
+        {
+          "keyword": "マイク・タイソン",
+          "score": 93
+        },
+        {
+          "keyword": "サイ・ヤング賞",
+          "score": 92
+        },
+        {
+          "keyword": "熊沢重文",
           "score": 91
         }
       ]

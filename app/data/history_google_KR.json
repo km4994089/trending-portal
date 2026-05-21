@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-17T05:58:29.766Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "오타니 쇼헤이",
-          "score": 100
-        },
-        {
-          "keyword": "김진성",
-          "score": 99
-        },
-        {
-          "keyword": "이마트",
-          "score": 98
-        },
-        {
-          "keyword": "bangladesh vs pakistan",
-          "score": 97
-        },
-        {
-          "keyword": "김동현",
-          "score": 96
-        },
-        {
-          "keyword": "살림하는 남자들",
-          "score": 95
-        },
-        {
-          "keyword": "케빈 워시",
-          "score": 94
-        },
-        {
-          "keyword": "lg이노텍",
-          "score": 93
-        },
-        {
-          "keyword": "맥그리거",
-          "score": 92
-        },
-        {
-          "keyword": "스와치 오데마피게",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-17T08:19:38.879Z",
       "geo": "KR",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "농협카드",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-21T06:32:46.015Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "여론",
+          "score": 100
+        },
+        {
+          "keyword": "lg전자 주가",
+          "score": 99
+        },
+        {
+          "keyword": "같이 삽시다",
+          "score": 98
+        },
+        {
+          "keyword": "엘지전자",
+          "score": 97
+        },
+        {
+          "keyword": "엔씨",
+          "score": 96
+        },
+        {
+          "keyword": "공무원",
+          "score": 95
+        },
+        {
+          "keyword": "동행",
+          "score": 94
+        },
+        {
+          "keyword": "엘지트윈스",
+          "score": 93
+        },
+        {
+          "keyword": "국가장학금",
+          "score": 92
+        },
+        {
+          "keyword": "신지",
           "score": 91
         }
       ]
