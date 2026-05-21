@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-17T02:01:56.146Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "luke weaver",
-          "score": 100
-        },
-        {
-          "keyword": "brewers score",
-          "score": 99
-        },
-        {
-          "keyword": "zach benson",
-          "score": 98
-        },
-        {
-          "keyword": "mandalorian",
-          "score": 97
-        },
-        {
-          "keyword": "red sox",
-          "score": 96
-        },
-        {
-          "keyword": "jack quinn",
-          "score": 95
-        },
-        {
-          "keyword": "karate combat",
-          "score": 94
-        },
-        {
-          "keyword": "dominican republic",
-          "score": 93
-        },
-        {
-          "keyword": "holly holm",
-          "score": 92
-        },
-        {
-          "keyword": "brock lesnar",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-17T05:58:28.353Z",
       "geo": "US",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "y combinator",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-21T02:12:16.678Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "brewers schedule",
+          "score": 100
+        },
+        {
+          "keyword": "natasha cloud",
+          "score": 99
+        },
+        {
+          "keyword": "san jose vs colorado",
+          "score": 98
+        },
+        {
+          "keyword": "carter bryant",
+          "score": 97
+        },
+        {
+          "keyword": "kc current vs angel city fc",
+          "score": 96
+        },
+        {
+          "keyword": "tracy mcgrady",
+          "score": 95
+        },
+        {
+          "keyword": "brewers score",
+          "score": 94
+        },
+        {
+          "keyword": "palmeiras",
+          "score": 93
+        },
+        {
+          "keyword": "duke university",
+          "score": 92
+        },
+        {
+          "keyword": "concacaf w champions cup",
           "score": 91
         }
       ]

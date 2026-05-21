@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-17T02:01:58.850Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ミュトス",
-          "score": 100
-        },
-        {
-          "keyword": "映画 マイケル",
-          "score": 99
-        },
-        {
-          "keyword": "ホセ・ソリアーノ",
-          "score": 98
-        },
-        {
-          "keyword": "自由が丘",
-          "score": 97
-        },
-        {
-          "keyword": "うめきた公園",
-          "score": 96
-        },
-        {
-          "keyword": "小野リサ",
-          "score": 95
-        },
-        {
-          "keyword": "ヒコロヒー",
-          "score": 94
-        },
-        {
-          "keyword": "北海道高校野球",
-          "score": 93
-        },
-        {
-          "keyword": "神戸祭り",
-          "score": 92
-        },
-        {
-          "keyword": "村上宗隆",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-17T05:58:31.096Z",
       "geo": "JP",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "村上宗隆",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-21T02:12:18.950Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "マニー・マチャド",
+          "score": 100
+        },
+        {
+          "keyword": "リクルート",
+          "score": 99
+        },
+        {
+          "keyword": "朝 乃山",
+          "score": 98
+        },
+        {
+          "keyword": "吉田達磨",
+          "score": 97
+        },
+        {
+          "keyword": "ギャビン・シーツ",
+          "score": 96
+        },
+        {
+          "keyword": "生活保護",
+          "score": 95
+        },
+        {
+          "keyword": "高速鉄道",
+          "score": 94
+        },
+        {
+          "keyword": "フェルナンド・タティス・ジュニア",
+          "score": 93
+        },
+        {
+          "keyword": "stv",
+          "score": 92
+        },
+        {
+          "keyword": "マイクラ",
           "score": 91
         }
       ]
