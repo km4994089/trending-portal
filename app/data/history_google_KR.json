@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-18T21:58:08.491Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "대전일보",
-          "score": 100
-        },
-        {
-          "keyword": "오타니 쇼헤이",
-          "score": 99
-        },
-        {
-          "keyword": "공매도",
-          "score": 98
-        },
-        {
-          "keyword": "skc",
-          "score": 97
-        },
-        {
-          "keyword": "정원오",
-          "score": 96
-        },
-        {
-          "keyword": "토트넘 홋스퍼 fc",
-          "score": 95
-        },
-        {
-          "keyword": "버스",
-          "score": 94
-        },
-        {
-          "keyword": "lg화학",
-          "score": 93
-        },
-        {
-          "keyword": "한동훈",
-          "score": 92
-        },
-        {
-          "keyword": "อาร์เซนอล พบ เบิร์นลีย์",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-18T22:58:33.772Z",
       "geo": "KR",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "이범호",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-22T22:50:07.368Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "날씨",
+          "score": 100
+        },
+        {
+          "keyword": "테슬라 모델 y",
+          "score": 99
+        },
+        {
+          "keyword": "안양시",
+          "score": 98
+        },
+        {
+          "keyword": "asts",
+          "score": 97
+        },
+        {
+          "keyword": "제니",
+          "score": 96
+        },
+        {
+          "keyword": "권순우",
+          "score": 95
+        },
+        {
+          "keyword": "팔란티어 테크놀로지",
+          "score": 94
+        },
+        {
+          "keyword": "ionq",
+          "score": 93
+        },
+        {
+          "keyword": "나솔사계",
+          "score": 92
+        },
+        {
+          "keyword": "天气",
           "score": 91
         }
       ]
