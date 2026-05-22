@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-18T20:54:02.234Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "綾瀬はるか",
-          "score": 100
-        },
-        {
-          "keyword": "キヤノン",
-          "score": 99
-        },
-        {
-          "keyword": "ドジャース 日程",
-          "score": 98
-        },
-        {
-          "keyword": "嵐",
-          "score": 97
-        },
-        {
-          "keyword": "モバイルバッテリー",
-          "score": 96
-        },
-        {
-          "keyword": "半導体",
-          "score": 95
-        },
-        {
-          "keyword": "かっぱ寿司",
-          "score": 94
-        },
-        {
-          "keyword": "ガソリン",
-          "score": 93
-        },
-        {
-          "keyword": "鈴木俊一",
-          "score": 92
-        },
-        {
-          "keyword": "齋藤飛鳥",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-18T21:58:09.745Z",
       "geo": "JP",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "内田理央",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-22T21:39:55.170Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cbn",
+          "score": 100
+        },
+        {
+          "keyword": "小室 哲哉",
+          "score": 99
+        },
+        {
+          "keyword": "ダウ平均株価",
+          "score": 98
+        },
+        {
+          "keyword": "佐野海舟",
+          "score": 97
+        },
+        {
+          "keyword": "土屋太鳳",
+          "score": 96
+        },
+        {
+          "keyword": "税法違反",
+          "score": 95
+        },
+        {
+          "keyword": "サントリーホール",
+          "score": 94
+        },
+        {
+          "keyword": "岡山 天気",
+          "score": 93
+        },
+        {
+          "keyword": "池松壮亮",
+          "score": 92
+        },
+        {
+          "keyword": "極楽湯",
           "score": 91
         }
       ]
