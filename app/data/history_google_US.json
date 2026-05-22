@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-17T23:48:20.127Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "polymarket",
-          "score": 100
-        },
-        {
-          "keyword": "kelsey mitchell",
-          "score": 99
-        },
-        {
-          "keyword": "minnesota lynx",
-          "score": 98
-        },
-        {
-          "keyword": "john wayne",
-          "score": 97
-        },
-        {
-          "keyword": "gavin sheets",
-          "score": 96
-        },
-        {
-          "keyword": "anthony rizzo",
-          "score": 95
-        },
-        {
-          "keyword": "disclosure day",
-          "score": 94
-        },
-        {
-          "keyword": "billy bob thornton",
-          "score": 93
-        },
-        {
-          "keyword": "messi",
-          "score": 92
-        },
-        {
-          "keyword": "best movies to stream right now",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-18T02:14:07.300Z",
       "geo": "US",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "richard petty",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-22T00:03:59.280Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lee cronin's the mummy",
+          "score": 100
+        },
+        {
+          "keyword": "braydon fisher",
+          "score": 99
+        },
+        {
+          "keyword": "ku baseball",
+          "score": 98
+        },
+        {
+          "keyword": "knicks schedule",
+          "score": 97
+        },
+        {
+          "keyword": "wvu baseball",
+          "score": 96
+        },
+        {
+          "keyword": "tennessee softball",
+          "score": 95
+        },
+        {
+          "keyword": "matthew stafford",
+          "score": 94
+        },
+        {
+          "keyword": "nicki minaj",
+          "score": 93
+        },
+        {
+          "keyword": "the chi",
+          "score": 92
+        },
+        {
+          "keyword": "jim ross",
           "score": 91
         }
       ]
