@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-18T02:14:08.378Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "무투표 당선",
-          "score": 100
-        },
-        {
-          "keyword": "엘지전자주가",
-          "score": 99
-        },
-        {
-          "keyword": "로스앤젤레스 다저스",
-          "score": 98
-        },
-        {
-          "keyword": "주성엔지니어링",
-          "score": 97
-        },
-        {
-          "keyword": "군인",
-          "score": 96
-        },
-        {
-          "keyword": "토스 행운퀴즈 정답",
-          "score": 95
-        },
-        {
-          "keyword": "kospi",
-          "score": 94
-        },
-        {
-          "keyword": "유해란",
-          "score": 93
-        },
-        {
-          "keyword": "박보영",
-          "score": 92
-        },
-        {
-          "keyword": "lg전자 주가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-18T06:36:03.239Z",
       "geo": "KR",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "고유가지원금 사용처",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-22T04:41:51.178Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nep vs usa",
+          "score": 100
+        },
+        {
+          "keyword": "손연재",
+          "score": 99
+        },
+        {
+          "keyword": "데스티니 2",
+          "score": 98
+        },
+        {
+          "keyword": "제주반도체 주가",
+          "score": 97
+        },
+        {
+          "keyword": "관악산",
+          "score": 96
+        },
+        {
+          "keyword": "빅터 레이예스",
+          "score": 95
+        },
+        {
+          "keyword": "이호준",
+          "score": 94
+        },
+        {
+          "keyword": "티켓링크",
+          "score": 93
+        },
+        {
+          "keyword": "knicks vs cavaliers",
+          "score": 92
+        },
+        {
+          "keyword": "소니 인터랙티브 엔터테인먼트",
           "score": 91
         }
       ]

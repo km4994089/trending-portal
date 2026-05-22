@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-18T02:14:07.300Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lauren alaina",
-          "score": 100
-        },
-        {
-          "keyword": "dan and shay",
-          "score": 99
-        },
-        {
-          "keyword": "keith urban",
-          "score": 98
-        },
-        {
-          "keyword": "kane brown",
-          "score": 97
-        },
-        {
-          "keyword": "leon thomas",
-          "score": 96
-        },
-        {
-          "keyword": "denise richards",
-          "score": 95
-        },
-        {
-          "keyword": "samuel l jackson",
-          "score": 94
-        },
-        {
-          "keyword": "san diego padres",
-          "score": 93
-        },
-        {
-          "keyword": "pete crow armstrong",
-          "score": 92
-        },
-        {
-          "keyword": "mississippi state softball",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-18T06:36:01.972Z",
       "geo": "US",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "jim ross",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-22T04:41:49.810Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "paul mescal",
+          "score": 100
+        },
+        {
+          "keyword": "john lennon",
+          "score": 99
+        },
+        {
+          "keyword": "paul mccartney",
+          "score": 98
+        },
+        {
+          "keyword": "ringo starr",
+          "score": 97
+        },
+        {
+          "keyword": "winona ryder",
+          "score": 96
+        },
+        {
+          "keyword": "snowfall",
+          "score": 95
+        },
+        {
+          "keyword": "aubrey plaza pregnant",
+          "score": 94
+        },
+        {
+          "keyword": "angels",
+          "score": 93
+        },
+        {
+          "keyword": "ryan reynolds",
+          "score": 92
+        },
+        {
+          "keyword": "sigourney weaver",
           "score": 91
         }
       ]
