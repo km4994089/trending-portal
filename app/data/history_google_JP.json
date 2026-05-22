@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-18T10:57:25.961Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "チュニジア",
-          "score": 100
-        },
-        {
-          "keyword": "モナコ",
-          "score": 99
-        },
-        {
-          "keyword": "菊川怜",
-          "score": 98
-        },
-        {
-          "keyword": "月",
-          "score": 97
-        },
-        {
-          "keyword": "ロバート",
-          "score": 96
-        },
-        {
-          "keyword": "フローレンス・ピュー",
-          "score": 95
-        },
-        {
-          "keyword": "たくろう",
-          "score": 94
-        },
-        {
-          "keyword": "よしもと粗品劇場",
-          "score": 93
-        },
-        {
-          "keyword": "新しい学校のリーダーズ",
-          "score": 92
-        },
-        {
-          "keyword": "project rabbit",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-18T14:27:33.056Z",
       "geo": "JP",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "坂崎千春",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-22T11:22:21.590Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "東京農業大学",
+          "score": 100
+        },
+        {
+          "keyword": "ぺこ",
+          "score": 99
+        },
+        {
+          "keyword": "ユニバーサルスタジオジャパン",
+          "score": 98
+        },
+        {
+          "keyword": "うだい",
+          "score": 97
+        },
+        {
+          "keyword": "菊池桃子",
+          "score": 96
+        },
+        {
+          "keyword": "湖池屋",
+          "score": 95
+        },
+        {
+          "keyword": "興行収入",
+          "score": 94
+        },
+        {
+          "keyword": "神戸ストークス",
+          "score": 93
+        },
+        {
+          "keyword": "哲夫",
+          "score": 92
+        },
+        {
+          "keyword": "う大",
           "score": 91
         }
       ]

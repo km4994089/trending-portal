@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-18T10:57:23.301Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nokia stock",
-          "score": 100
-        },
-        {
-          "keyword": "ed gallrein",
-          "score": 99
-        },
-        {
-          "keyword": "brooks koepka",
-          "score": 98
-        },
-        {
-          "keyword": "jason biggs",
-          "score": 97
-        },
-        {
-          "keyword": "10 year treasury yield",
-          "score": 96
-        },
-        {
-          "keyword": "unh stock",
-          "score": 95
-        },
-        {
-          "keyword": "sarah jane ramos",
-          "score": 94
-        },
-        {
-          "keyword": "royal",
-          "score": 93
-        },
-        {
-          "keyword": "whtm-tv",
-          "score": 92
-        },
-        {
-          "keyword": "roland garros 2026",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-18T14:27:30.509Z",
       "geo": "US",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "catalina island",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-22T11:22:19.103Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "emergency landing",
+          "score": 100
+        },
+        {
+          "keyword": "injury attorney",
+          "score": 99
+        },
+        {
+          "keyword": "brian fitzpatrick",
+          "score": 98
+        },
+        {
+          "keyword": "harmony tan",
+          "score": 97
+        },
+        {
+          "keyword": "elliot anderson",
+          "score": 96
+        },
+        {
+          "keyword": "weather atlanta",
+          "score": 95
+        },
+        {
+          "keyword": "cate blanchett",
+          "score": 94
+        },
+        {
+          "keyword": "gaesa",
+          "score": 93
+        },
+        {
+          "keyword": "medicaid",
+          "score": 92
+        },
+        {
+          "keyword": "blackpink",
           "score": 91
         }
       ]
