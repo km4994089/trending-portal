@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-18T22:58:33.772Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "날씨",
-          "score": 100
-        },
-        {
-          "keyword": "테슬라 모델 y",
-          "score": 99
-        },
-        {
-          "keyword": "대형주",
-          "score": 98
-        },
-        {
-          "keyword": "고윤정",
-          "score": 97
-        },
-        {
-          "keyword": "afc u-17 아시안컵",
-          "score": 96
-        },
-        {
-          "keyword": "네이마르",
-          "score": 95
-        },
-        {
-          "keyword": "tsla",
-          "score": 94
-        },
-        {
-          "keyword": "ipl",
-          "score": 93
-        },
-        {
-          "keyword": "반도체",
-          "score": 92
-        },
-        {
-          "keyword": "김예진",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-19T00:04:21.556Z",
       "geo": "KR",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "天气",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-22T23:58:07.965Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "임성재",
+          "score": 100
+        },
+        {
+          "keyword": "보디빌딩",
+          "score": 99
+        },
+        {
+          "keyword": "최준희",
+          "score": 98
+        },
+        {
+          "keyword": "이규섭",
+          "score": 97
+        },
+        {
+          "keyword": "스타쉽",
+          "score": 96
+        },
+        {
+          "keyword": "김대기",
+          "score": 95
+        },
+        {
+          "keyword": "한국전력기술",
+          "score": 94
+        },
+        {
+          "keyword": "경주시",
+          "score": 93
+        },
+        {
+          "keyword": "케빈 워시",
+          "score": 92
+        },
+        {
+          "keyword": "경상남도지사",
           "score": 91
         }
       ]

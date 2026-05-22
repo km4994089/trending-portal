@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-18T22:58:32.684Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "monica seles",
-          "score": 100
-        },
-        {
-          "keyword": "punch the monkey",
-          "score": 99
-        },
-        {
-          "keyword": "red sox vs royals",
-          "score": 98
-        },
-        {
-          "keyword": "millennium force",
-          "score": 97
-        },
-        {
-          "keyword": "detroit weather",
-          "score": 96
-        },
-        {
-          "keyword": "blue jays vs yankees",
-          "score": 95
-        },
-        {
-          "keyword": "flash flood warning",
-          "score": 94
-        },
-        {
-          "keyword": "robby hoffman",
-          "score": 93
-        },
-        {
-          "keyword": "jason varitek",
-          "score": 92
-        },
-        {
-          "keyword": "thom tillis",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-19T00:04:20.142Z",
       "geo": "US",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "pirates vs blue jays",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-22T23:58:06.647Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "golden knights vs avalanche",
+          "score": 100
+        },
+        {
+          "keyword": "michael kelly",
+          "score": 99
+        },
+        {
+          "keyword": "chaka khan",
+          "score": 98
+        },
+        {
+          "keyword": "fire country",
+          "score": 97
+        },
+        {
+          "keyword": "mission impossible",
+          "score": 96
+        },
+        {
+          "keyword": "kevin mcgonigle",
+          "score": 95
+        },
+        {
+          "keyword": "alabama softball",
+          "score": 94
+        },
+        {
+          "keyword": "tom steyer",
+          "score": 93
+        },
+        {
+          "keyword": "kourtney kardashian",
+          "score": 92
+        },
+        {
+          "keyword": "travis pastrana",
           "score": 91
         }
       ]
