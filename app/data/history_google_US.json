@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-18T14:27:30.509Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tsmc stock",
-          "score": 100
-        },
-        {
-          "keyword": "walmart stock",
-          "score": 99
-        },
-        {
-          "keyword": "nasdaq index",
-          "score": 98
-        },
-        {
-          "keyword": "broadcom stock",
-          "score": 97
-        },
-        {
-          "keyword": "xom stock",
-          "score": 96
-        },
-        {
-          "keyword": "ge stock",
-          "score": 95
-        },
-        {
-          "keyword": "vgt",
-          "score": 94
-        },
-        {
-          "keyword": "donald trump irs lawsuit dismissed",
-          "score": 93
-        },
-        {
-          "keyword": "costco stock",
-          "score": 92
-        },
-        {
-          "keyword": "kisd",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-18T17:15:49.603Z",
       "geo": "US",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "good morning america",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-22T16:14:36.116Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kevin warsh",
+          "score": 100
+        },
+        {
+          "keyword": "grace vanslooten",
+          "score": 99
+        },
+        {
+          "keyword": "cbs evening news ratings increase",
+          "score": 98
+        },
+        {
+          "keyword": "alex de minaur",
+          "score": 97
+        },
+        {
+          "keyword": "candace owens",
+          "score": 96
+        },
+        {
+          "keyword": "lainey wilson engagement ring details",
+          "score": 95
+        },
+        {
+          "keyword": "love bugs florida",
+          "score": 94
+        },
+        {
+          "keyword": "zion national park",
+          "score": 93
+        },
+        {
+          "keyword": "supreme",
+          "score": 92
+        },
+        {
+          "keyword": "olympiacos vs fenerbahçe",
           "score": 91
         }
       ]
