@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-18T06:36:03.239Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mc몽",
-          "score": 100
-        },
-        {
-          "keyword": "롤 국대",
-          "score": 99
-        },
-        {
-          "keyword": "로리 맥길로이",
-          "score": 98
-        },
-        {
-          "keyword": "최태성",
-          "score": 97
-        },
-        {
-          "keyword": "이탁수",
-          "score": 96
-        },
-        {
-          "keyword": "계산동",
-          "score": 95
-        },
-        {
-          "keyword": "교수",
-          "score": 94
-        },
-        {
-          "keyword": "셰프",
-          "score": 93
-        },
-        {
-          "keyword": "에어부산",
-          "score": 92
-        },
-        {
-          "keyword": "키보토스 런",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-18T10:57:24.757Z",
       "geo": "KR",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "소니 인터랙티브 엔터테인먼트",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-22T08:16:50.491Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "백종원",
+          "score": 100
+        },
+        {
+          "keyword": "에테르노 청담",
+          "score": 99
+        },
+        {
+          "keyword": "쓸쓸 하고 찬란 하神 도깨비",
+          "score": 98
+        },
+        {
+          "keyword": "김민전",
+          "score": 97
+        },
+        {
+          "keyword": "pga 챔피언십",
+          "score": 96
+        },
+        {
+          "keyword": "여름",
+          "score": 95
+        },
+        {
+          "keyword": "호남고속도로",
+          "score": 94
+        },
+        {
+          "keyword": "환율",
+          "score": 93
+        },
+        {
+          "keyword": "김승현",
+          "score": 92
+        },
+        {
+          "keyword": "송교 창",
           "score": 91
         }
       ]

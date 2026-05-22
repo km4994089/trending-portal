@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-18T06:36:01.972Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "houses",
-          "score": 100
-        },
-        {
-          "keyword": "the boys finale",
-          "score": 99
-        },
-        {
-          "keyword": "iu",
-          "score": 98
-        },
-        {
-          "keyword": "jungkook",
-          "score": 97
-        },
-        {
-          "keyword": "catalina island",
-          "score": 96
-        },
-        {
-          "keyword": "lorde",
-          "score": 95
-        },
-        {
-          "keyword": "hawaiian monk seal",
-          "score": 94
-        },
-        {
-          "keyword": "michael jordan",
-          "score": 93
-        },
-        {
-          "keyword": "nifty 50",
-          "score": 92
-        },
-        {
-          "keyword": "charlie evans",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-18T10:57:23.301Z",
       "geo": "US",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "sigourney weaver",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-22T08:16:49.381Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "djed spence",
+          "score": 100
+        },
+        {
+          "keyword": "tom clancy's jack ryan: ghost war",
+          "score": 99
+        },
+        {
+          "keyword": "the last of us",
+          "score": 98
+        },
+        {
+          "keyword": "accident attorney",
+          "score": 97
+        },
+        {
+          "keyword": "search",
+          "score": 96
+        },
+        {
+          "keyword": "jpegmafia",
+          "score": 95
+        },
+        {
+          "keyword": "andor",
+          "score": 94
+        },
+        {
+          "keyword": "jack quaid",
+          "score": 93
+        },
+        {
+          "keyword": "chud the builder bond",
+          "score": 92
+        },
+        {
+          "keyword": "catalina island",
           "score": 91
         }
       ]
