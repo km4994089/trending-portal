@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-19T21:11:00.213Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "戸田市",
-          "score": 100
-        },
-        {
-          "keyword": "木村 拓哉",
-          "score": 99
-        },
-        {
-          "keyword": "高知 天気",
-          "score": 98
-        },
-        {
-          "keyword": "スターバックス",
-          "score": 97
-        },
-        {
-          "keyword": "j x 金属",
-          "score": 96
-        },
-        {
-          "keyword": "週間天気予報",
-          "score": 95
-        },
-        {
-          "keyword": "デロイトトーマツ",
-          "score": 94
-        },
-        {
-          "keyword": "パンチ",
-          "score": 93
-        },
-        {
-          "keyword": "広島 天気",
-          "score": 92
-        },
-        {
-          "keyword": "京都 天気",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-19T22:42:02.278Z",
       "geo": "JP",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "ソシエダ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-23T21:11:53.419Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ビシエド",
+          "score": 100
+        },
+        {
+          "keyword": "趣里",
+          "score": 99
+        },
+        {
+          "keyword": "長寿",
+          "score": 98
+        },
+        {
+          "keyword": "la liga",
+          "score": 97
+        },
+        {
+          "keyword": "磯村勇斗",
+          "score": 96
+        },
+        {
+          "keyword": "レッドブル・レーシング",
+          "score": 95
+        },
+        {
+          "keyword": "un",
+          "score": 94
+        },
+        {
+          "keyword": "鄧愷威",
+          "score": 93
+        },
+        {
+          "keyword": "トランプ",
+          "score": 92
+        },
+        {
+          "keyword": "野口衣織",
           "score": 91
         }
       ]

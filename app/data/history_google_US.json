@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-19T21:10:57.543Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "richarlison",
-          "score": 100
-        },
-        {
-          "keyword": "mikel arteta",
-          "score": 99
-        },
-        {
-          "keyword": "gerrit cole",
-          "score": 98
-        },
-        {
-          "keyword": "maureen galindo",
-          "score": 97
-        },
-        {
-          "keyword": "donna kelce",
-          "score": 96
-        },
-        {
-          "keyword": "magic johnson",
-          "score": 95
-        },
-        {
-          "keyword": "arsenal vs psg",
-          "score": 94
-        },
-        {
-          "keyword": "andrew weissmann",
-          "score": 93
-        },
-        {
-          "keyword": "xavier edwards",
-          "score": 92
-        },
-        {
-          "keyword": "natalie decker",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-19T22:41:59.876Z",
       "geo": "US",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "wyndham clark",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-23T21:11:51.252Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kylian mbappé",
+          "score": 100
+        },
+        {
+          "keyword": "chris brown",
+          "score": 99
+        },
+        {
+          "keyword": "cubs",
+          "score": 98
+        },
+        {
+          "keyword": "dani carvajal",
+          "score": 97
+        },
+        {
+          "keyword": "alabama softball",
+          "score": 96
+        },
+        {
+          "keyword": "hamzah sheeraz",
+          "score": 95
+        },
+        {
+          "keyword": "david alaba",
+          "score": 94
+        },
+        {
+          "keyword": "pizza hut classic locations",
+          "score": 93
+        },
+        {
+          "keyword": "patrick corbin",
+          "score": 92
+        },
+        {
+          "keyword": "retirement",
           "score": 91
         }
       ]

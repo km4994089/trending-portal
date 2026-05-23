@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-19T21:10:58.991Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "첫 번째 남자",
-          "score": 100
-        },
-        {
-          "keyword": "부산날씨",
-          "score": 99
-        },
-        {
-          "keyword": "chelsea vs spurs",
-          "score": 98
-        },
-        {
-          "keyword": "이봉원",
-          "score": 97
-        },
-        {
-          "keyword": "날씨예보",
-          "score": 96
-        },
-        {
-          "keyword": "미국 국방부",
-          "score": 95
-        },
-        {
-          "keyword": "epl",
-          "score": 94
-        },
-        {
-          "keyword": "bournemouth đấu với man city",
-          "score": 93
-        },
-        {
-          "keyword": "첼시",
-          "score": 92
-        },
-        {
-          "keyword": "pl",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-19T22:42:01.011Z",
       "geo": "KR",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "이준호",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-23T21:11:52.318Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "홍명보",
+          "score": 100
+        },
+        {
+          "keyword": "투수",
+          "score": 99
+        },
+        {
+          "keyword": "꽃사슴",
+          "score": 98
+        },
+        {
+          "keyword": "부부 국민연금 수급액",
+          "score": 97
+        },
+        {
+          "keyword": "dfb-포칼",
+          "score": 96
+        },
+        {
+          "keyword": "bayern vs vfb stuttgart",
+          "score": 95
+        },
+        {
+          "keyword": "유조선",
+          "score": 94
+        },
+        {
+          "keyword": "real madrid vs athletic club",
+          "score": 93
+        },
+        {
+          "keyword": "바이에른 뮌헨",
+          "score": 92
+        },
+        {
+          "keyword": "valencia vs barcelona",
           "score": 91
         }
       ]
