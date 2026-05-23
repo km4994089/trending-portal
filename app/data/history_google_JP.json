@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-19T00:04:22.749Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "常磐道",
-          "score": 100
-        },
-        {
-          "keyword": "栗原陵矢",
-          "score": 99
-        },
-        {
-          "keyword": "タナー・スコット",
-          "score": 98
-        },
-        {
-          "keyword": "最近のニュース",
-          "score": 97
-        },
-        {
-          "keyword": "暑さ指数",
-          "score": 96
-        },
-        {
-          "keyword": "日韓関係",
-          "score": 95
-        },
-        {
-          "keyword": "松岡 昌宏",
-          "score": 94
-        },
-        {
-          "keyword": "橋本愛",
-          "score": 93
-        },
-        {
-          "keyword": "柳楽優弥",
-          "score": 92
-        },
-        {
-          "keyword": "カルバンクライン ジョングク",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-19T04:38:22.646Z",
       "geo": "JP",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "松下由樹",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-23T02:45:03.891Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "叡王戦",
+          "score": 100
+        },
+        {
+          "keyword": "鈴木 奈穂子",
+          "score": 99
+        },
+        {
+          "keyword": "佐々木蔵之介",
+          "score": 98
+        },
+        {
+          "keyword": "名無し ネタバレ",
+          "score": 97
+        },
+        {
+          "keyword": "ジャイアンツ 対 ホワイトソックス",
+          "score": 96
+        },
+        {
+          "keyword": "幕張メッセ イベント",
+          "score": 95
+        },
+        {
+          "keyword": "u17アジアカップ",
+          "score": 94
+        },
+        {
+          "keyword": "igアリーナ",
+          "score": 93
+        },
+        {
+          "keyword": "関東大会 高校野球",
+          "score": 92
+        },
+        {
+          "keyword": "楽天ブックス",
           "score": 91
         }
       ]
