@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-19T04:38:21.643Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "실책",
-          "score": 100
-        },
-        {
-          "keyword": "다카이치",
-          "score": 99
-        },
-        {
-          "keyword": "어린이날",
-          "score": 98
-        },
-        {
-          "keyword": "김서현",
-          "score": 97
-        },
-        {
-          "keyword": "진태현",
-          "score": 96
-        },
-        {
-          "keyword": "국민연금",
-          "score": 95
-        },
-        {
-          "keyword": "스포티파이",
-          "score": 94
-        },
-        {
-          "keyword": "spotify",
-          "score": 93
-        },
-        {
-          "keyword": "프레드릭 쿠 드롱",
-          "score": 92
-        },
-        {
-          "keyword": "금융 거래",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-19T08:20:08.960Z",
       "geo": "KR",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "신하균",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-23T05:58:38.133Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이수정",
+          "score": 100
+        },
+        {
+          "keyword": "유승목",
+          "score": 99
+        },
+        {
+          "keyword": "전현무,기안84",
+          "score": 98
+        },
+        {
+          "keyword": "여자 축구",
+          "score": 97
+        },
+        {
+          "keyword": "한소희",
+          "score": 96
+        },
+        {
+          "keyword": "박완수",
+          "score": 95
+        },
+        {
+          "keyword": "황혼이혼",
+          "score": 94
+        },
+        {
+          "keyword": "화장실",
+          "score": 93
+        },
+        {
+          "keyword": "이승민",
+          "score": 92
+        },
+        {
+          "keyword": "제이쓴",
           "score": 91
         }
       ]
