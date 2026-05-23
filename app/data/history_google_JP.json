@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-19T17:33:20.526Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "マイナンバーカード",
-          "score": 100
-        },
-        {
-          "keyword": "爆弾 映画",
-          "score": 99
-        },
-        {
-          "keyword": "倉科カナ",
-          "score": 98
-        },
-        {
-          "keyword": "中道改革連合",
-          "score": 97
-        },
-        {
-          "keyword": "病院",
-          "score": 96
-        },
-        {
-          "keyword": "ゲッターズ飯田",
-          "score": 95
-        },
-        {
-          "keyword": "starbucks",
-          "score": 94
-        },
-        {
-          "keyword": "日向坂",
-          "score": 93
-        },
-        {
-          "keyword": "ちゃんみな",
-          "score": 92
-        },
-        {
-          "keyword": "トライアルホールディングス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-19T19:42:50.838Z",
       "geo": "JP",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "瀬戸康史",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-23T17:53:50.916Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "dead by daylight",
+          "score": 100
+        },
+        {
+          "keyword": "バイエルン 対 シュトゥットガルト",
+          "score": 99
+        },
+        {
+          "keyword": "レッズ 対 カージナルス",
+          "score": 98
+        },
+        {
+          "keyword": "ダーウィンが来た",
+          "score": 97
+        },
+        {
+          "keyword": "秋葉原",
+          "score": 96
+        },
+        {
+          "keyword": "井上直樹",
+          "score": 95
+        },
+        {
+          "keyword": "ドンデコルテ",
+          "score": 94
+        },
+        {
+          "keyword": "小泉孝太郎",
+          "score": 93
+        },
+        {
+          "keyword": "クリスティアーノ ロナウド",
+          "score": 92
+        },
+        {
+          "keyword": "台風",
           "score": 91
         }
       ]

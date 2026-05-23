@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-19T17:33:19.204Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "부산 날씨",
-          "score": 100
-        },
-        {
-          "keyword": "고유가 피해지원금 지급일",
-          "score": 99
-        },
-        {
-          "keyword": "박지성",
-          "score": 98
-        },
-        {
-          "keyword": "곽튜브",
-          "score": 97
-        },
-        {
-          "keyword": "아이온2",
-          "score": 96
-        },
-        {
-          "keyword": "정연",
-          "score": 95
-        },
-        {
-          "keyword": "박준일",
-          "score": 94
-        },
-        {
-          "keyword": "세계일보",
-          "score": 93
-        },
-        {
-          "keyword": "두산 로보틱스",
-          "score": 92
-        },
-        {
-          "keyword": "김채원",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-19T19:42:49.494Z",
       "geo": "KR",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "로베르토 데 제르비",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-23T17:53:49.581Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "챔피언십",
+          "score": 100
+        },
+        {
+          "keyword": "원자력",
+          "score": 99
+        },
+        {
+          "keyword": "이준호",
+          "score": 98
+        },
+        {
+          "keyword": "전국소년체육대회",
+          "score": 97
+        },
+        {
+          "keyword": "efl",
+          "score": 96
+        },
+        {
+          "keyword": "석삼플레이",
+          "score": 95
+        },
+        {
+          "keyword": "이주연",
+          "score": 94
+        },
+        {
+          "keyword": "이현이",
+          "score": 93
+        },
+        {
+          "keyword": "조말례",
+          "score": 92
+        },
+        {
+          "keyword": "연상호",
           "score": 91
         }
       ]
