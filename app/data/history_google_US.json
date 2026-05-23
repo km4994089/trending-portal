@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-19T08:20:07.630Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "god of war",
-          "score": 100
-        },
-        {
-          "keyword": "twisha sharma",
-          "score": 99
-        },
-        {
-          "keyword": "pak vs ban",
-          "score": 98
-        },
-        {
-          "keyword": "ameren",
-          "score": 97
-        },
-        {
-          "keyword": "power outage near me",
-          "score": 96
-        },
-        {
-          "keyword": "usc",
-          "score": 95
-        },
-        {
-          "keyword": "mikey williams",
-          "score": 94
-        },
-        {
-          "keyword": "pitchfork",
-          "score": 93
-        },
-        {
-          "keyword": "boeing 737",
-          "score": 92
-        },
-        {
-          "keyword": "catalina island",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-19T11:36:56.624Z",
       "geo": "US",
       "source": "google",
@@ -1878,6 +1831,53 @@
         },
         {
           "keyword": "hawaii news now",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-23T10:10:24.644Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "erika girardi lawsuit settlement",
+          "score": 100
+        },
+        {
+          "keyword": "amber alert",
+          "score": 99
+        },
+        {
+          "keyword": "car accident lawyer",
+          "score": 98
+        },
+        {
+          "keyword": "best noise cancelling earbuds",
+          "score": 97
+        },
+        {
+          "keyword": "severe thunderstorm warning",
+          "score": 96
+        },
+        {
+          "keyword": "tsunami warning",
+          "score": 95
+        },
+        {
+          "keyword": "accident lawyer",
+          "score": 94
+        },
+        {
+          "keyword": "car chase",
+          "score": 93
+        },
+        {
+          "keyword": "earthquake scale",
+          "score": 92
+        },
+        {
+          "keyword": "noaa",
           "score": 91
         }
       ]
