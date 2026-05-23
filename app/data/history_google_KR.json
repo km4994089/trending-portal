@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-19T11:36:57.964Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "상장",
-          "score": 100
-        },
-        {
-          "keyword": "엔비디아 실적발표",
-          "score": 99
-        },
-        {
-          "keyword": "삼성중공업",
-          "score": 98
-        },
-        {
-          "keyword": "중국",
-          "score": 97
-        },
-        {
-          "keyword": "박찬대",
-          "score": 96
-        },
-        {
-          "keyword": "박성광",
-          "score": 95
-        },
-        {
-          "keyword": "조세 무리뉴",
-          "score": 94
-        },
-        {
-          "keyword": "박시은",
-          "score": 93
-        },
-        {
-          "keyword": "유한양행",
-          "score": 92
-        },
-        {
-          "keyword": "플레이스테이션",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-19T14:35:06.603Z",
       "geo": "KR",
       "source": "google",
@@ -1878,6 +1831,53 @@
         },
         {
           "keyword": "진주시",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-23T11:39:20.582Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "션",
+          "score": 100
+        },
+        {
+          "keyword": "조갑제",
+          "score": 99
+        },
+        {
+          "keyword": "폭발",
+          "score": 98
+        },
+        {
+          "keyword": "칸 영화제",
+          "score": 97
+        },
+        {
+          "keyword": "xsmn",
+          "score": 96
+        },
+        {
+          "keyword": "게임",
+          "score": 95
+        },
+        {
+          "keyword": "리벨리온",
+          "score": 94
+        },
+        {
+          "keyword": "이란",
+          "score": 93
+        },
+        {
+          "keyword": "이수빈",
+          "score": 92
+        },
+        {
+          "keyword": "전국삼성전자노동조합",
           "score": 91
         }
       ]

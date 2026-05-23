@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-19T11:36:56.624Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "now stock",
-          "score": 100
-        },
-        {
-          "keyword": "georgia elections 2026",
-          "score": 99
-        },
-        {
-          "keyword": "rick fox bahamas senator",
-          "score": 98
-        },
-        {
-          "keyword": "gabon",
-          "score": 97
-        },
-        {
-          "keyword": "st louis weather",
-          "score": 96
-        },
-        {
-          "keyword": "kacey musgraves",
-          "score": 95
-        },
-        {
-          "keyword": "supreme court of georgia",
-          "score": 94
-        },
-        {
-          "keyword": "news on 6",
-          "score": 93
-        },
-        {
-          "keyword": "angel reese",
-          "score": 92
-        },
-        {
-          "keyword": "houston weather",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-19T14:35:05.277Z",
       "geo": "US",
       "source": "google",
@@ -1878,6 +1831,53 @@
         },
         {
           "keyword": "noaa",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-23T11:39:19.141Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "gen z years",
+          "score": 100
+        },
+        {
+          "keyword": "rhule",
+          "score": 99
+        },
+        {
+          "keyword": "cincinnati weather",
+          "score": 98
+        },
+        {
+          "keyword": "fickell",
+          "score": 97
+        },
+        {
+          "keyword": "interstate 64",
+          "score": 96
+        },
+        {
+          "keyword": "hull city",
+          "score": 95
+        },
+        {
+          "keyword": "bayshore marathon",
+          "score": 94
+        },
+        {
+          "keyword": "doppler radar",
+          "score": 93
+        },
+        {
+          "keyword": "gen z",
+          "score": 92
+        },
+        {
+          "keyword": "atlanta weather",
           "score": 91
         }
       ]
