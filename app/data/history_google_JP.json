@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-20T18:37:54.418Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "フライブルク 対 アストン・ビラ",
-          "score": 100
-        },
-        {
-          "keyword": "nvidia",
-          "score": 99
-        },
-        {
-          "keyword": "フィリーズ 対 レッズ",
-          "score": 98
-        },
-        {
-          "keyword": "ドンキ",
-          "score": 97
-        },
-        {
-          "keyword": "サルダル・アズムン",
-          "score": 96
-        },
-        {
-          "keyword": "dアニメ",
-          "score": 95
-        },
-        {
-          "keyword": "水崎綾女",
-          "score": 94
-        },
-        {
-          "keyword": "畑",
-          "score": 93
-        },
-        {
-          "keyword": "vジャンプ",
-          "score": 92
-        },
-        {
-          "keyword": "鬼女の棲む家",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-20T20:56:34.696Z",
       "geo": "JP",
       "source": "google",
@@ -2301,6 +2254,53 @@
         },
         {
           "keyword": "イオン銀行",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-24T19:00:31.929Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ビジャレアル 対 アトレティコ",
+          "score": 100
+        },
+        {
+          "keyword": "観戦 場所 ブルワーズ 対 ドジャース",
+          "score": 99
+        },
+        {
+          "keyword": "シカゴ・ホワイトソックス",
+          "score": 98
+        },
+        {
+          "keyword": "小野花梨",
+          "score": 97
+        },
+        {
+          "keyword": "セリエa",
+          "score": 96
+        },
+        {
+          "keyword": "スポーツ振興くじ",
+          "score": 95
+        },
+        {
+          "keyword": "ngoại hạng anh",
+          "score": 94
+        },
+        {
+          "keyword": "with",
+          "score": 93
+        },
+        {
+          "keyword": "塩 﨑 太 智 イッテ q",
+          "score": 92
+        },
+        {
+          "keyword": "combo breaker",
           "score": 91
         }
       ]
