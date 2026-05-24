@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-20T22:20:16.366Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "product recall",
-          "score": 100
-        },
-        {
-          "keyword": "weather nyc",
-          "score": 99
-        },
-        {
-          "keyword": "fever schedule",
-          "score": 98
-        },
-        {
-          "keyword": "olimpia - vasco da gama",
-          "score": 97
-        },
-        {
-          "keyword": "olimpia vs vasco",
-          "score": 96
-        },
-        {
-          "keyword": "flash flood warning",
-          "score": 95
-        },
-        {
-          "keyword": "amber alert washington",
-          "score": 94
-        },
-        {
-          "keyword": "leroy mcgill",
-          "score": 93
-        },
-        {
-          "keyword": "colorado",
-          "score": 92
-        },
-        {
-          "keyword": "severe thunderstorm warning",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-20T23:45:13.645Z",
       "geo": "US",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "waste management",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-24T22:28:23.267Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "philadelphia vs inter miami",
+          "score": 100
+        },
+        {
+          "keyword": "rafael devers",
+          "score": 99
+        },
+        {
+          "keyword": "byron donalds",
+          "score": 98
+        },
+        {
+          "keyword": "flash flood warning",
+          "score": 97
+        },
+        {
+          "keyword": "south gate fire",
+          "score": 96
+        },
+        {
+          "keyword": "tekken 8",
+          "score": 95
+        },
+        {
+          "keyword": "dodgers tarik skubal trade rumors",
+          "score": 94
+        },
+        {
+          "keyword": "jessica shepard",
+          "score": 93
+        },
+        {
+          "keyword": "lorenzo sonego",
+          "score": 92
+        },
+        {
+          "keyword": "franco colapinto",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-20T22:20:18.749Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ウォール街",
-          "score": 100
-        },
-        {
-          "keyword": "中国新聞",
-          "score": 99
-        },
-        {
-          "keyword": "熊本市天気",
-          "score": 98
-        },
-        {
-          "keyword": "宮崎 天気",
-          "score": 97
-        },
-        {
-          "keyword": "くら寿司usa",
-          "score": 96
-        },
-        {
-          "keyword": "カストロ",
-          "score": 95
-        },
-        {
-          "keyword": "篠塚大輝",
-          "score": 94
-        },
-        {
-          "keyword": "ステーションワゴン",
-          "score": 93
-        },
-        {
-          "keyword": "humax シネマズ",
-          "score": 92
-        },
-        {
-          "keyword": "ipo",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-20T23:45:16.274Z",
       "geo": "JP",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "タナー・スコット",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-24T22:28:25.928Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ナフサショック",
+          "score": 100
+        },
+        {
+          "keyword": "川村葉音",
+          "score": 99
+        },
+        {
+          "keyword": "村竹ラシッド",
+          "score": 98
+        },
+        {
+          "keyword": "ナフサ",
+          "score": 97
+        },
+        {
+          "keyword": "jr北海道",
+          "score": 96
+        },
+        {
+          "keyword": "ノジマ",
+          "score": 95
+        },
+        {
+          "keyword": "中山 秀征",
+          "score": 94
+        },
+        {
+          "keyword": "大関",
+          "score": 93
+        },
+        {
+          "keyword": "保険",
+          "score": 92
+        },
+        {
+          "keyword": "軍師官兵衛",
           "score": 91
         }
       ]
