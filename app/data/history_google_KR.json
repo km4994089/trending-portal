@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-20T06:30:46.201Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "서건창",
-          "score": 100
-        },
-        {
-          "keyword": "김정우",
-          "score": 99
-        },
-        {
-          "keyword": "박군",
-          "score": 98
-        },
-        {
-          "keyword": "카카오 파업",
-          "score": 97
-        },
-        {
-          "keyword": "sk텔레콤",
-          "score": 96
-        },
-        {
-          "keyword": "던파",
-          "score": 95
-        },
-        {
-          "keyword": "리테일",
-          "score": 94
-        },
-        {
-          "keyword": "ive lucid dream",
-          "score": 93
-        },
-        {
-          "keyword": "scotland vs usa",
-          "score": 92
-        },
-        {
-          "keyword": "시리아",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-20T10:18:23.247Z",
       "geo": "KR",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "미래에셋",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-24T08:16:13.403Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "수출",
+          "score": 100
+        },
+        {
+          "keyword": "짜라위 분짠",
+          "score": 99
+        },
+        {
+          "keyword": "팔공산",
+          "score": 98
+        },
+        {
+          "keyword": "마이클 캐릭",
+          "score": 97
+        },
+        {
+          "keyword": "집중호우",
+          "score": 96
+        },
+        {
+          "keyword": "군산시",
+          "score": 95
+        },
+        {
+          "keyword": "양창섭",
+          "score": 94
+        },
+        {
+          "keyword": "cj enm 스튜디오 센터",
+          "score": 93
+        },
+        {
+          "keyword": "스타 벅스 사이렌",
+          "score": 92
+        },
+        {
+          "keyword": "이투데이",
           "score": 91
         }
       ]
