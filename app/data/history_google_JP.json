@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-20T12:40:49.167Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "阪神タイガース",
-          "score": 100
-        },
-        {
-          "keyword": "野球速報",
-          "score": 99
-        },
-        {
-          "keyword": "持丸泰輝",
-          "score": 98
-        },
-        {
-          "keyword": "柴咲コウ",
-          "score": 97
-        },
-        {
-          "keyword": "鳥居みゆき",
-          "score": 96
-        },
-        {
-          "keyword": "若槻千夏",
-          "score": 95
-        },
-        {
-          "keyword": "ロッテ",
-          "score": 94
-        },
-        {
-          "keyword": "土屋太鳳",
-          "score": 93
-        },
-        {
-          "keyword": "ドリス",
-          "score": 92
-        },
-        {
-          "keyword": "もんじゃ焼きの店 福わ家",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-20T16:25:15.983Z",
       "geo": "JP",
       "source": "google",
@@ -2160,6 +2113,53 @@
         },
         {
           "keyword": "小沢一郎",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-24T12:59:31.217Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "マダニ",
+          "score": 100
+        },
+        {
+          "keyword": "m&a",
+          "score": 99
+        },
+        {
+          "keyword": "ホラン千秋",
+          "score": 98
+        },
+        {
+          "keyword": "nhkスペシャル",
+          "score": 97
+        },
+        {
+          "keyword": "オープンワールド",
+          "score": 96
+        },
+        {
+          "keyword": "石巻市議会議員選挙",
+          "score": 95
+        },
+        {
+          "keyword": "細田善彦",
+          "score": 94
+        },
+        {
+          "keyword": "パルマ 対 サッスオーロ",
+          "score": 93
+        },
+        {
+          "keyword": "nttドコモ",
+          "score": 92
+        },
+        {
+          "keyword": "オレシニク",
           "score": 91
         }
       ]
