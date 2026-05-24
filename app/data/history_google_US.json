@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-19T23:54:20.250Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "election results",
-          "score": 100
-        },
-        {
-          "keyword": "boca vs cruzeiro",
-          "score": 99
-        },
-        {
-          "keyword": "boca juniors - cruzeiro",
-          "score": 98
-        },
-        {
-          "keyword": "vanna white",
-          "score": 97
-        },
-        {
-          "keyword": "são paulo vs millonarios",
-          "score": 96
-        },
-        {
-          "keyword": "santa fe - platense",
-          "score": 95
-        },
-        {
-          "keyword": "astros - twins",
-          "score": 94
-        },
-        {
-          "keyword": "fever schedule",
-          "score": 93
-        },
-        {
-          "keyword": "wsbtv",
-          "score": 92
-        },
-        {
-          "keyword": "trea turner",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-20T02:12:43.147Z",
       "geo": "US",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "iphone 20",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-24T01:27:15.703Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "james harden",
+          "score": 100
+        },
+        {
+          "keyword": "kick",
+          "score": 99
+        },
+        {
+          "keyword": "zoe saldana",
+          "score": 98
+        },
+        {
+          "keyword": "lash legend",
+          "score": 97
+        },
+        {
+          "keyword": "brie bella",
+          "score": 96
+        },
+        {
+          "keyword": "brunson",
+          "score": 95
+        },
+        {
+          "keyword": "paige wwe",
+          "score": 94
+        },
+        {
+          "keyword": "george washington",
+          "score": 93
+        },
+        {
+          "keyword": "san francisco 49ers",
+          "score": 92
+        },
+        {
+          "keyword": "junior - santa fe",
           "score": 91
         }
       ]

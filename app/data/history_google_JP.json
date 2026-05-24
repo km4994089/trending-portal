@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-19T23:54:23.435Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "奥会津",
-          "score": 100
-        },
-        {
-          "keyword": "ニックス 対 キャバリアーズ",
-          "score": 99
-        },
-        {
-          "keyword": "イチロー",
-          "score": 98
-        },
-        {
-          "keyword": "マラヤンブラッドパイソン",
-          "score": 97
-        },
-        {
-          "keyword": "0",
-          "score": 96
-        },
-        {
-          "keyword": "ドミトリー・ムセルスキー",
-          "score": 95
-        },
-        {
-          "keyword": "カージナルス 対 パイレーツ",
-          "score": 94
-        },
-        {
-          "keyword": "日経新聞",
-          "score": 93
-        },
-        {
-          "keyword": "whatsapp",
-          "score": 92
-        },
-        {
-          "keyword": "官僚",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-20T02:12:45.766Z",
       "geo": "JP",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "習近平",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-24T01:27:18.122Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tobe",
+          "score": 100
+        },
+        {
+          "keyword": "新千歳空港",
+          "score": 99
+        },
+        {
+          "keyword": "南田洋子",
+          "score": 98
+        },
+        {
+          "keyword": "和希そら",
+          "score": 97
+        },
+        {
+          "keyword": "ヘンリー王子",
+          "score": 96
+        },
+        {
+          "keyword": "イケア",
+          "score": 95
+        },
+        {
+          "keyword": "佐々木蔵之介",
+          "score": 94
+        },
+        {
+          "keyword": "豊田エリー",
+          "score": 93
+        },
+        {
+          "keyword": "テオスカー・ヘルナンデス",
+          "score": 92
+        },
+        {
+          "keyword": "山添拓",
           "score": 91
         }
       ]
