@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-20T20:56:34.696Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "衝突",
-          "score": 100
-        },
-        {
-          "keyword": "イヴルルド 遙 華",
-          "score": 99
-        },
-        {
-          "keyword": "京都 天気",
-          "score": 98
-        },
-        {
-          "keyword": "火災",
-          "score": 97
-        },
-        {
-          "keyword": "ソフトテニス",
-          "score": 96
-        },
-        {
-          "keyword": "伊藤忠",
-          "score": 95
-        },
-        {
-          "keyword": "日本郵便",
-          "score": 94
-        },
-        {
-          "keyword": "コスモス",
-          "score": 93
-        },
-        {
-          "keyword": "防衛大臣",
-          "score": 92
-        },
-        {
-          "keyword": "天気図",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-20T22:20:18.749Z",
       "geo": "JP",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "ミラン 対 カリアリ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-24T21:26:43.958Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "今日のドジャース",
+          "score": 100
+        },
+        {
+          "keyword": "今永昇太",
+          "score": 99
+        },
+        {
+          "keyword": "ドジャース 順位",
+          "score": 98
+        },
+        {
+          "keyword": "パドレス",
+          "score": 97
+        },
+        {
+          "keyword": "楽天銀行",
+          "score": 96
+        },
+        {
+          "keyword": "ポケモンgo",
+          "score": 95
+        },
+        {
+          "keyword": "man city vs aston villa standings",
+          "score": 94
+        },
+        {
+          "keyword": "磯村勇斗",
+          "score": 93
+        },
+        {
+          "keyword": "有吉弘行",
+          "score": 92
+        },
+        {
+          "keyword": "タナー・スコット",
           "score": 91
         }
       ]
