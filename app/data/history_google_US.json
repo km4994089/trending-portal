@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-21T13:54:16.434Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kisd",
-          "score": 100
-        },
-        {
-          "keyword": "james franco",
-          "score": 99
-        },
-        {
-          "keyword": "arm stock",
-          "score": 98
-        },
-        {
-          "keyword": "tommy paul",
-          "score": 97
-        },
-        {
-          "keyword": "omega first light",
-          "score": 96
-        },
-        {
-          "keyword": "christopher abbott",
-          "score": 95
-        },
-        {
-          "keyword": "gt vs csk",
-          "score": 94
-        },
-        {
-          "keyword": "banksy",
-          "score": 93
-        },
-        {
-          "keyword": "disney plus",
-          "score": 92
-        },
-        {
-          "keyword": "eli lilly stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-21T16:34:12.065Z",
       "geo": "US",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "magnifica humanitas",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-25T14:19:24.956Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "hyundai vehicle safety recall",
+          "score": 100
+        },
+        {
+          "keyword": "saikat chakrabarti",
+          "score": 99
+        },
+        {
+          "keyword": "ipl schedule",
+          "score": 98
+        },
+        {
+          "keyword": "rockstar games",
+          "score": 97
+        },
+        {
+          "keyword": "nyc world cup tickets",
+          "score": 96
+        },
+        {
+          "keyword": "social security administration may payments",
+          "score": 95
+        },
+        {
+          "keyword": "portugal",
+          "score": 94
+        },
+        {
+          "keyword": "rockstar",
+          "score": 93
+        },
+        {
+          "keyword": "jonas brothers",
+          "score": 92
+        },
+        {
+          "keyword": "kings island",
           "score": 91
         }
       ]
