@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-21T21:57:42.467Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kurt busch",
-          "score": 100
-        },
-        {
-          "keyword": "robert harward",
-          "score": 99
-        },
-        {
-          "keyword": "hunter biden",
-          "score": 98
-        },
-        {
-          "keyword": "self-driving car",
-          "score": 97
-        },
-        {
-          "keyword": "chromazz",
-          "score": 96
-        },
-        {
-          "keyword": "dow jones industrial average",
-          "score": 95
-        },
-        {
-          "keyword": "atlético mineiro vs cienciano",
-          "score": 94
-        },
-        {
-          "keyword": "jeep wrangler scrambler srt",
-          "score": 93
-        },
-        {
-          "keyword": "michael caputo",
-          "score": 92
-        },
-        {
-          "keyword": "russian hackers",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-21T22:59:46.167Z",
       "geo": "US",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "monfils vs gaston",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-25T22:51:36.596Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "marlins vs blue jays",
+          "score": 100
+        },
+        {
+          "keyword": "denise richards",
+          "score": 99
+        },
+        {
+          "keyword": "astros vs rangers",
+          "score": 98
+        },
+        {
+          "keyword": "anthony volpe",
+          "score": 97
+        },
+        {
+          "keyword": "stock futures",
+          "score": 96
+        },
+        {
+          "keyword": "jazz chisholm jr",
+          "score": 95
+        },
+        {
+          "keyword": "colton cowser",
+          "score": 94
+        },
+        {
+          "keyword": "united airlines houston flight cancellations",
+          "score": 93
+        },
+        {
+          "keyword": "yosemite national park visitor congestion",
+          "score": 92
+        },
+        {
+          "keyword": "jfk jr",
           "score": 91
         }
       ]
