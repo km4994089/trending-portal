@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-20T23:45:13.645Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "yankees",
-          "score": 100
-        },
-        {
-          "keyword": "jon favreau",
-          "score": 99
-        },
-        {
-          "keyword": "bridget carleton",
-          "score": 98
-        },
-        {
-          "keyword": "dixie chicks",
-          "score": 97
-        },
-        {
-          "keyword": "san diego wave vs houston dash",
-          "score": 96
-        },
-        {
-          "keyword": "cj abrams",
-          "score": 95
-        },
-        {
-          "keyword": "drew anderson",
-          "score": 94
-        },
-        {
-          "keyword": "tim hortons",
-          "score": 93
-        },
-        {
-          "keyword": "austin riley",
-          "score": 92
-        },
-        {
-          "keyword": "y combinator",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-05-21T02:12:16.678Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "brewers schedule",
-          "score": 100
-        },
-        {
-          "keyword": "natasha cloud",
-          "score": 99
-        },
-        {
-          "keyword": "san jose vs colorado",
-          "score": 98
-        },
-        {
-          "keyword": "carter bryant",
-          "score": 97
-        },
-        {
-          "keyword": "kc current vs angel city fc",
-          "score": 96
-        },
-        {
-          "keyword": "tracy mcgrady",
-          "score": 95
-        },
-        {
-          "keyword": "brewers score",
-          "score": 94
-        },
-        {
-          "keyword": "palmeiras",
-          "score": 93
-        },
-        {
-          "keyword": "duke university",
-          "score": 92
-        },
-        {
-          "keyword": "concacaf w champions cup",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-21T06:32:44.465Z",
       "geo": "US",
       "source": "google",
@@ -2395,6 +2301,53 @@
         },
         {
           "keyword": "vasco vs bragantino",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-25T02:30:08.150Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "okc",
+          "score": 100
+        },
+        {
+          "keyword": "aaron wiggins",
+          "score": 99
+        },
+        {
+          "keyword": "mission impossible",
+          "score": 98
+        },
+        {
+          "keyword": "magic johnson",
+          "score": 97
+        },
+        {
+          "keyword": "dubai",
+          "score": 96
+        },
+        {
+          "keyword": "carter bryant",
+          "score": 95
+        },
+        {
+          "keyword": "nathan mackinnon",
+          "score": 94
+        },
+        {
+          "keyword": "vgk",
+          "score": 93
+        },
+        {
+          "keyword": "gregg popovich",
+          "score": 92
+        },
+        {
+          "keyword": "timmy hill",
           "score": 91
         }
       ]
