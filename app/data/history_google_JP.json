@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-21T20:30:14.508Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ロサンゼルス・ドジャース",
-          "score": 100
-        },
-        {
-          "keyword": "土屋太鳳",
-          "score": 99
-        },
-        {
-          "keyword": "詐欺",
-          "score": 98
-        },
-        {
-          "keyword": "メタプラネット",
-          "score": 97
-        },
-        {
-          "keyword": "全日本空輸",
-          "score": 96
-        },
-        {
-          "keyword": "成長株",
-          "score": 95
-        },
-        {
-          "keyword": "大越健介",
-          "score": 94
-        },
-        {
-          "keyword": "窃盗",
-          "score": 93
-        },
-        {
-          "keyword": "ムーキー・ベッツ",
-          "score": 92
-        },
-        {
-          "keyword": "カルディ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-21T21:57:45.110Z",
       "geo": "JP",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "rikaco",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-25T21:39:57.673Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "エイドリアン・ニューウェイ",
+          "score": 100
+        },
+        {
+          "keyword": "bts",
+          "score": 99
+        },
+        {
+          "keyword": "有村 架純",
+          "score": 98
+        },
+        {
+          "keyword": "鳴海唯",
+          "score": 97
+        },
+        {
+          "keyword": "タンカー",
+          "score": 96
+        },
+        {
+          "keyword": "横田真悠",
+          "score": 95
+        },
+        {
+          "keyword": "大林組",
+          "score": 94
+        },
+        {
+          "keyword": "桐谷広人",
+          "score": 93
+        },
+        {
+          "keyword": "草川 拓弥",
+          "score": 92
+        },
+        {
+          "keyword": "東京モノレール",
           "score": 91
         }
       ]
