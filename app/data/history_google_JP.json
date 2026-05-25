@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-21T06:32:47.136Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "今日、好きになりました。",
-          "score": 100
-        },
-        {
-          "keyword": "石川遼",
-          "score": 99
-        },
-        {
-          "keyword": "小枝淳子",
-          "score": 98
-        },
-        {
-          "keyword": "jr九州",
-          "score": 97
-        },
-        {
-          "keyword": "第一生命",
-          "score": 96
-        },
-        {
-          "keyword": "九州大学",
-          "score": 95
-        },
-        {
-          "keyword": "警察",
-          "score": 94
-        },
-        {
-          "keyword": "マイク・タイソン",
-          "score": 93
-        },
-        {
-          "keyword": "サイ・ヤング賞",
-          "score": 92
-        },
-        {
-          "keyword": "熊沢重文",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-21T10:30:41.580Z",
       "geo": "JP",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "ジュンスカ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-25T06:52:12.930Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "東北大学",
+          "score": 100
+        },
+        {
+          "keyword": "ジウォン",
+          "score": 99
+        },
+        {
+          "keyword": "皆藤愛子",
+          "score": 98
+        },
+        {
+          "keyword": "にゃんこ大戦争 コラボ",
+          "score": 97
+        },
+        {
+          "keyword": "ファーウェイ",
+          "score": 96
+        },
+        {
+          "keyword": "ntt西日本",
+          "score": 95
+        },
+        {
+          "keyword": "前川右京",
+          "score": 94
+        },
+        {
+          "keyword": "モナキ",
+          "score": 93
+        },
+        {
+          "keyword": "井上一樹",
+          "score": 92
+        },
+        {
+          "keyword": "ドトール",
           "score": 91
         }
       ]
