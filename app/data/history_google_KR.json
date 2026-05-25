@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-21T22:59:47.355Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "코스피",
-          "score": 100
-        },
-        {
-          "keyword": "스페이스x",
-          "score": 99
-        },
-        {
-          "keyword": "쉐보레",
-          "score": 98
-        },
-        {
-          "keyword": "농협카드",
-          "score": 97
-        },
-        {
-          "keyword": "국민성장펀드",
-          "score": 96
-        },
-        {
-          "keyword": "25 기 영자",
-          "score": 95
-        },
-        {
-          "keyword": "테슬라 사이버트럭",
-          "score": 94
-        },
-        {
-          "keyword": "조세 무리뉴",
-          "score": 93
-        },
-        {
-          "keyword": "rgti",
-          "score": 92
-        },
-        {
-          "keyword": "박지선",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-22T00:04:00.579Z",
       "geo": "KR",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "天气",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-25T23:56:04.320Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "미국 항공 우주국",
+          "score": 100
+        },
+        {
+          "keyword": "투수",
+          "score": 99
+        },
+        {
+          "keyword": "복싱",
+          "score": 98
+        },
+        {
+          "keyword": "이승엽",
+          "score": 97
+        },
+        {
+          "keyword": "신호등",
+          "score": 96
+        },
+        {
+          "keyword": "차승원",
+          "score": 95
+        },
+        {
+          "keyword": "노수산나",
+          "score": 94
+        },
+        {
+          "keyword": "맨체스터 시티 fc",
+          "score": 93
+        },
+        {
+          "keyword": "어머니",
+          "score": 92
+        },
+        {
+          "keyword": "모두가 자신의 무가치함과 싸우고 있다",
           "score": 91
         }
       ]

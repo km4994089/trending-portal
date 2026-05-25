@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-21T22:59:46.167Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "joey logano",
-          "score": 100
-        },
-        {
-          "keyword": "knicks game tonight",
-          "score": 99
-        },
-        {
-          "keyword": "braves - marlins",
-          "score": 98
-        },
-        {
-          "keyword": "indy 500",
-          "score": 97
-        },
-        {
-          "keyword": "patrick ewing",
-          "score": 96
-        },
-        {
-          "keyword": "low-cost carrier",
-          "score": 95
-        },
-        {
-          "keyword": "who died today",
-          "score": 94
-        },
-        {
-          "keyword": "dolphins sign carlos washington jr",
-          "score": 93
-        },
-        {
-          "keyword": "denny hamlin",
-          "score": 92
-        },
-        {
-          "keyword": "richard petty",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-22T00:03:59.280Z",
       "geo": "US",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "jfk jr",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-25T23:56:02.608Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "hurricanes vs canadiens",
+          "score": 100
+        },
+        {
+          "keyword": "la casa de los famosos",
+          "score": 99
+        },
+        {
+          "keyword": "spike lee",
+          "score": 98
+        },
+        {
+          "keyword": "robert redford",
+          "score": 97
+        },
+        {
+          "keyword": "bobby flay",
+          "score": 96
+        },
+        {
+          "keyword": "new movies to stream",
+          "score": 95
+        },
+        {
+          "keyword": "boroughs cast",
+          "score": 94
+        },
+        {
+          "keyword": "history channel",
+          "score": 93
+        },
+        {
+          "keyword": "giants game today",
+          "score": 92
+        },
+        {
+          "keyword": "fernando tatis jr",
           "score": 91
         }
       ]
