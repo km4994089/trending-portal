@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-21T18:52:06.132Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dirk nowitzki",
-          "score": 100
-        },
-        {
-          "keyword": "2026 baseball regional seeding",
-          "score": 99
-        },
-        {
-          "keyword": "kam mercer",
-          "score": 98
-        },
-        {
-          "keyword": "flood watch",
-          "score": 97
-        },
-        {
-          "keyword": "u.s. assets seized by cuba",
-          "score": 96
-        },
-        {
-          "keyword": "ebola news",
-          "score": 95
-        },
-        {
-          "keyword": "jeff bezos tax proposal",
-          "score": 94
-        },
-        {
-          "keyword": "primera división de arabia saudita",
-          "score": 93
-        },
-        {
-          "keyword": "al-ittihad vs al qadsiah",
-          "score": 92
-        },
-        {
-          "keyword": "marathon",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-21T20:30:11.979Z",
       "geo": "US",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "notre dame lacrosse",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-25T20:06:46.050Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cody bellinger",
+          "score": 100
+        },
+        {
+          "keyword": "ksl news",
+          "score": 99
+        },
+        {
+          "keyword": "ksl",
+          "score": 98
+        },
+        {
+          "keyword": "fire salt lake city",
+          "score": 97
+        },
+        {
+          "keyword": "henry davis",
+          "score": 96
+        },
+        {
+          "keyword": "brewers score",
+          "score": 95
+        },
+        {
+          "keyword": "myrtle beach",
+          "score": 94
+        },
+        {
+          "keyword": "lindsie chrisley",
+          "score": 93
+        },
+        {
+          "keyword": "arthur gea",
+          "score": 92
+        },
+        {
+          "keyword": "reds vs mets",
           "score": 91
         }
       ]

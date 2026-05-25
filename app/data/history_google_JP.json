@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-21T18:52:08.663Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "税額控除",
-          "score": 100
-        },
-        {
-          "keyword": "バレーボール",
-          "score": 99
-        },
-        {
-          "keyword": "al-nassr vs damac",
-          "score": 98
-        },
-        {
-          "keyword": "アル・ナスル 対 ダマク",
-          "score": 97
-        },
-        {
-          "keyword": "かっぱ寿司",
-          "score": 96
-        },
-        {
-          "keyword": "地震速報 今",
-          "score": 95
-        },
-        {
-          "keyword": "イングランド代表",
-          "score": 94
-        },
-        {
-          "keyword": "今井達也",
-          "score": 93
-        },
-        {
-          "keyword": "アヤックス 対 フローニンゲン",
-          "score": 92
-        },
-        {
-          "keyword": "渡邊渚",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-21T20:30:14.508Z",
       "geo": "JP",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "映画",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-25T20:06:49.002Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "にじさんじ",
+          "score": 100
+        },
+        {
+          "keyword": "鈴木彩艶",
+          "score": 99
+        },
+        {
+          "keyword": "七尾市",
+          "score": 98
+        },
+        {
+          "keyword": "宝塚駅",
+          "score": 97
+        },
+        {
+          "keyword": "中島歩",
+          "score": 96
+        },
+        {
+          "keyword": "長濱ねる",
+          "score": 95
+        },
+        {
+          "keyword": "パダーボルン 対 ヴォルフスブルク",
+          "score": 94
+        },
+        {
+          "keyword": "ブルワーズ 対 カージナルス",
+          "score": 93
+        },
+        {
+          "keyword": "ホワイトソックス 対 ツインズ",
+          "score": 92
+        },
+        {
+          "keyword": "rikaco",
           "score": 91
         }
       ]
