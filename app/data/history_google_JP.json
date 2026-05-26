@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-22T08:16:51.924Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "長岡市",
-          "score": 100
-        },
-        {
-          "keyword": "韓国総合株価指数",
-          "score": 99
-        },
-        {
-          "keyword": "田中真紀子",
-          "score": 98
-        },
-        {
-          "keyword": "asuka",
-          "score": 97
-        },
-        {
-          "keyword": "国立競技場",
-          "score": 96
-        },
-        {
-          "keyword": "日本プロゴルフ選手権",
-          "score": 95
-        },
-        {
-          "keyword": "クエンティン タランティーノ",
-          "score": 94
-        },
-        {
-          "keyword": "藤凌駕",
-          "score": 93
-        },
-        {
-          "keyword": "太田椋",
-          "score": 92
-        },
-        {
-          "keyword": "坂崎千春",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-22T11:22:21.590Z",
       "geo": "JP",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "武田真一",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-26T10:33:33.104Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "齊藤なぎさ",
+          "score": 100
+        },
+        {
+          "keyword": "西武ライオンズ",
+          "score": 99
+        },
+        {
+          "keyword": "財政",
+          "score": 98
+        },
+        {
+          "keyword": "西武",
+          "score": 97
+        },
+        {
+          "keyword": "佐藤琢磨",
+          "score": 96
+        },
+        {
+          "keyword": "北窓 絢音",
+          "score": 95
+        },
+        {
+          "keyword": "ディープモンスター",
+          "score": 94
+        },
+        {
+          "keyword": "西勇輝",
+          "score": 93
+        },
+        {
+          "keyword": "katseye",
+          "score": 92
+        },
+        {
+          "keyword": "bリーグ",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-22T08:16:50.491Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "백종원",
-          "score": 100
-        },
-        {
-          "keyword": "에테르노 청담",
-          "score": 99
-        },
-        {
-          "keyword": "쓸쓸 하고 찬란 하神 도깨비",
-          "score": 98
-        },
-        {
-          "keyword": "김민전",
-          "score": 97
-        },
-        {
-          "keyword": "pga 챔피언십",
-          "score": 96
-        },
-        {
-          "keyword": "여름",
-          "score": 95
-        },
-        {
-          "keyword": "호남고속도로",
-          "score": 94
-        },
-        {
-          "keyword": "환율",
-          "score": 93
-        },
-        {
-          "keyword": "김승현",
-          "score": 92
-        },
-        {
-          "keyword": "송교 창",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-22T11:22:20.258Z",
       "geo": "KR",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "밀워키 브루어스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-26T10:33:31.845Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "전청조",
+          "score": 100
+        },
+        {
+          "keyword": "마이크로소프트",
+          "score": 99
+        },
+        {
+          "keyword": "바이아웃",
+          "score": 98
+        },
+        {
+          "keyword": "최소라",
+          "score": 97
+        },
+        {
+          "keyword": "fc 바르셀로나",
+          "score": 96
+        },
+        {
+          "keyword": "공공기관",
+          "score": 95
+        },
+        {
+          "keyword": "유재석 캠프",
+          "score": 94
+        },
+        {
+          "keyword": "심유진",
+          "score": 93
+        },
+        {
+          "keyword": "부동산",
+          "score": 92
+        },
+        {
+          "keyword": "한화에어로스페이스",
           "score": 91
         }
       ]
