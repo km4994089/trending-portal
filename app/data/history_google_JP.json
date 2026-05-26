@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-22T21:39:55.170Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cbn",
-          "score": 100
-        },
-        {
-          "keyword": "小室 哲哉",
-          "score": 99
-        },
-        {
-          "keyword": "ダウ平均株価",
-          "score": 98
-        },
-        {
-          "keyword": "佐野海舟",
-          "score": 97
-        },
-        {
-          "keyword": "土屋太鳳",
-          "score": 96
-        },
-        {
-          "keyword": "税法違反",
-          "score": 95
-        },
-        {
-          "keyword": "サントリーホール",
-          "score": 94
-        },
-        {
-          "keyword": "岡山 天気",
-          "score": 93
-        },
-        {
-          "keyword": "池松壮亮",
-          "score": 92
-        },
-        {
-          "keyword": "極楽湯",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-22T22:50:09.068Z",
       "geo": "JP",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "しなこ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-26T22:47:17.251Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "パイレーツ 対 カブス",
+          "score": 100
+        },
+        {
+          "keyword": "オリオールズ 対 レイズ",
+          "score": 99
+        },
+        {
+          "keyword": "中条 あやみ",
+          "score": 98
+        },
+        {
+          "keyword": "京都天気",
+          "score": 97
+        },
+        {
+          "keyword": "b.league award show",
+          "score": 96
+        },
+        {
+          "keyword": "バナナマン日村が歩く! ウォーキングのひむ太郎",
+          "score": 95
+        },
+        {
+          "keyword": "子ども・子育て支援金",
+          "score": 94
+        },
+        {
+          "keyword": "ジョゼ・モウリーニョ",
+          "score": 93
+        },
+        {
+          "keyword": "ボブ・ホーナー",
+          "score": 92
+        },
+        {
+          "keyword": "jr西日本",
           "score": 91
         }
       ]

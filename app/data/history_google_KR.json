@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-22T21:39:53.867Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "설악산",
-          "score": 100
-        },
-        {
-          "keyword": "사우디아라비아",
-          "score": 99
-        },
-        {
-          "keyword": "토트넘 홋스퍼 fc",
-          "score": 98
-        },
-        {
-          "keyword": "김지민",
-          "score": 97
-        },
-        {
-          "keyword": "장미",
-          "score": 96
-        },
-        {
-          "keyword": "김관영",
-          "score": 95
-        },
-        {
-          "keyword": "탄도 미사일",
-          "score": 94
-        },
-        {
-          "keyword": "최태성",
-          "score": 93
-        },
-        {
-          "keyword": "김지선",
-          "score": 92
-        },
-        {
-          "keyword": "이범호",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-22T22:50:07.368Z",
       "geo": "KR",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "유영찬",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-26T22:47:15.984Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "날씨",
+          "score": 100
+        },
+        {
+          "keyword": "weather",
+          "score": 99
+        },
+        {
+          "keyword": "hlb생명과학",
+          "score": 98
+        },
+        {
+          "keyword": "자동차",
+          "score": 97
+        },
+        {
+          "keyword": "강일 리버 파크 장기 전세",
+          "score": 96
+        },
+        {
+          "keyword": "문가영",
+          "score": 95
+        },
+        {
+          "keyword": "天气",
+          "score": 94
+        },
+        {
+          "keyword": "대한 광통신",
+          "score": 93
+        },
+        {
+          "keyword": "행정수도",
+          "score": 92
+        },
+        {
+          "keyword": "나주시",
           "score": 91
         }
       ]
