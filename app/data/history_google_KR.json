@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-22T16:14:37.607Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "화물선",
-          "score": 100
-        },
-        {
-          "keyword": "노무현",
-          "score": 99
-        },
-        {
-          "keyword": "이선민",
-          "score": 98
-        },
-        {
-          "keyword": "항공모함",
-          "score": 97
-        },
-        {
-          "keyword": "지포스",
-          "score": 96
-        },
-        {
-          "keyword": "스페이스x 상장일",
-          "score": 95
-        },
-        {
-          "keyword": "규제",
-          "score": 94
-        },
-        {
-          "keyword": "리게티 컴퓨팅",
-          "score": 93
-        },
-        {
-          "keyword": "이은하",
-          "score": 92
-        },
-        {
-          "keyword": "srh vs rcb",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-22T18:12:12.785Z",
       "geo": "KR",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "hanwha vs nc",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-26T17:19:49.348Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "심형탁",
+          "score": 100
+        },
+        {
+          "keyword": "제니",
+          "score": 99
+        },
+        {
+          "keyword": "원룸 주택",
+          "score": 98
+        },
+        {
+          "keyword": "이창용",
+          "score": 97
+        },
+        {
+          "keyword": "유정복",
+          "score": 96
+        },
+        {
+          "keyword": "이승헌",
+          "score": 95
+        },
+        {
+          "keyword": "mu stock",
+          "score": 94
+        },
+        {
+          "keyword": "임진왜란",
+          "score": 93
+        },
+        {
+          "keyword": "한영",
+          "score": 92
+        },
+        {
+          "keyword": "007",
           "score": 91
         }
       ]
