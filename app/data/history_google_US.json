@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-22T22:50:06.279Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mexico",
-          "score": 100
-        },
-        {
-          "keyword": "dutton ranch episode 3",
-          "score": 99
-        },
-        {
-          "keyword": "staten island",
-          "score": 98
-        },
-        {
-          "keyword": "twins vs red sox",
-          "score": 97
-        },
-        {
-          "keyword": "tigers vs orioles",
-          "score": 96
-        },
-        {
-          "keyword": "nationals vs braves",
-          "score": 95
-        },
-        {
-          "keyword": "mets vs marlins",
-          "score": 94
-        },
-        {
-          "keyword": "rays vs yankees",
-          "score": 93
-        },
-        {
-          "keyword": "spacex launch today",
-          "score": 92
-        },
-        {
-          "keyword": "pirates vs blue jays",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-22T23:58:06.647Z",
       "geo": "US",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "angels vs tigers",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-26T23:56:43.842Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "joe mazzulla",
+          "score": 100
+        },
+        {
+          "keyword": "rom reddy",
+          "score": 99
+        },
+        {
+          "keyword": "bad thoughts",
+          "score": 98
+        },
+        {
+          "keyword": "medal",
+          "score": 97
+        },
+        {
+          "keyword": "talarico",
+          "score": 96
+        },
+        {
+          "keyword": "la casa de los famosos",
+          "score": 95
+        },
+        {
+          "keyword": "telemundo",
+          "score": 94
+        },
+        {
+          "keyword": "jarren duran",
+          "score": 93
+        },
+        {
+          "keyword": "twins vs white sox",
+          "score": 92
+        },
+        {
+          "keyword": "yankees - royals",
           "score": 91
         }
       ]

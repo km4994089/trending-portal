@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-22T22:50:09.068Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "タブネオス",
-          "score": 100
-        },
-        {
-          "keyword": "磐越自動車道",
-          "score": 99
-        },
-        {
-          "keyword": "王林 顔変わった",
-          "score": 98
-        },
-        {
-          "keyword": "めぐみ",
-          "score": 97
-        },
-        {
-          "keyword": "道路",
-          "score": 96
-        },
-        {
-          "keyword": "電気自動車",
-          "score": 95
-        },
-        {
-          "keyword": "函館市",
-          "score": 94
-        },
-        {
-          "keyword": "ピクミン",
-          "score": 93
-        },
-        {
-          "keyword": "栃木 強盗 高校生 特定",
-          "score": 92
-        },
-        {
-          "keyword": "フィリーズ 対 ガーディアンズ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-22T23:58:09.198Z",
       "geo": "JP",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "jr西日本",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-26T23:56:46.135Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ヒャダイン",
+          "score": 100
+        },
+        {
+          "keyword": "コシノヒロコ",
+          "score": 99
+        },
+        {
+          "keyword": "松井証券",
+          "score": 98
+        },
+        {
+          "keyword": "堀内敬子",
+          "score": 97
+        },
+        {
+          "keyword": "川越",
+          "score": 96
+        },
+        {
+          "keyword": "移民",
+          "score": 95
+        },
+        {
+          "keyword": "classi",
+          "score": 94
+        },
+        {
+          "keyword": "兵庫県知事",
+          "score": 93
+        },
+        {
+          "keyword": "今日のニュース",
+          "score": 92
+        },
+        {
+          "keyword": "中畑清",
           "score": 91
         }
       ]
