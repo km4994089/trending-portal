@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-22T04:41:49.810Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "paul mescal",
-          "score": 100
-        },
-        {
-          "keyword": "john lennon",
-          "score": 99
-        },
-        {
-          "keyword": "paul mccartney",
-          "score": 98
-        },
-        {
-          "keyword": "ringo starr",
-          "score": 97
-        },
-        {
-          "keyword": "winona ryder",
-          "score": 96
-        },
-        {
-          "keyword": "snowfall",
-          "score": 95
-        },
-        {
-          "keyword": "aubrey plaza pregnant",
-          "score": 94
-        },
-        {
-          "keyword": "angels",
-          "score": 93
-        },
-        {
-          "keyword": "ryan reynolds",
-          "score": 92
-        },
-        {
-          "keyword": "sigourney weaver",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-22T08:16:49.381Z",
       "geo": "US",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "jaylon tyson",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-26T06:30:10.881Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kirk cousins",
+          "score": 100
+        },
+        {
+          "keyword": "chet hanks",
+          "score": 99
+        },
+        {
+          "keyword": "aubrey plaza",
+          "score": 98
+        },
+        {
+          "keyword": "mariners standings",
+          "score": 97
+        },
+        {
+          "keyword": "son",
+          "score": 96
+        },
+        {
+          "keyword": "miley cyrus",
+          "score": 95
+        },
+        {
+          "keyword": "christian bale",
+          "score": 94
+        },
+        {
+          "keyword": "efrain juarez",
+          "score": 93
+        },
+        {
+          "keyword": "paul w downs",
+          "score": 92
+        },
+        {
+          "keyword": "did maddy sleep with alamo",
           "score": 91
         }
       ]
