@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-23T05:58:38.133Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이수정",
-          "score": 100
-        },
-        {
-          "keyword": "유승목",
-          "score": 99
-        },
-        {
-          "keyword": "전현무,기안84",
-          "score": 98
-        },
-        {
-          "keyword": "여자 축구",
-          "score": 97
-        },
-        {
-          "keyword": "한소희",
-          "score": 96
-        },
-        {
-          "keyword": "박완수",
-          "score": 95
-        },
-        {
-          "keyword": "황혼이혼",
-          "score": 94
-        },
-        {
-          "keyword": "화장실",
-          "score": 93
-        },
-        {
-          "keyword": "이승민",
-          "score": 92
-        },
-        {
-          "keyword": "제이쓴",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-23T08:17:16.861Z",
       "geo": "KR",
       "source": "google",
@@ -2301,6 +2254,53 @@
         },
         {
           "keyword": "한국외대",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-27T06:54:09.412Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lg",
+          "score": 100
+        },
+        {
+          "keyword": "연합뉴스",
+          "score": 99
+        },
+        {
+          "keyword": "모델",
+          "score": 98
+        },
+        {
+          "keyword": "지진",
+          "score": 97
+        },
+        {
+          "keyword": "김종인",
+          "score": 96
+        },
+        {
+          "keyword": "박해수",
+          "score": 95
+        },
+        {
+          "keyword": "순천대학교",
+          "score": 94
+        },
+        {
+          "keyword": "마곡",
+          "score": 93
+        },
+        {
+          "keyword": "tiger 미국우주테크",
+          "score": 92
+        },
+        {
+          "keyword": "마동석",
           "score": 91
         }
       ]

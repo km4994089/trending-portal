@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-23T05:58:39.377Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "カンブリア宮殿",
-          "score": 100
-        },
-        {
-          "keyword": "ホラン千秋",
-          "score": 99
-        },
-        {
-          "keyword": "カプコン",
-          "score": 98
-        },
-        {
-          "keyword": "バスケ",
-          "score": 97
-        },
-        {
-          "keyword": "ロケット",
-          "score": 96
-        },
-        {
-          "keyword": "佐藤駿",
-          "score": 95
-        },
-        {
-          "keyword": "仙台空港",
-          "score": 94
-        },
-        {
-          "keyword": "ハリーポッター 舞台",
-          "score": 93
-        },
-        {
-          "keyword": "吉岡 美穂",
-          "score": 92
-        },
-        {
-          "keyword": "ひょうろく",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-23T08:17:17.864Z",
       "geo": "JP",
       "source": "google",
@@ -2301,6 +2254,53 @@
         },
         {
           "keyword": "スタバ 韓国",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-27T06:54:10.697Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "名探偵津田",
+          "score": 100
+        },
+        {
+          "keyword": "近鉄百貨店",
+          "score": 99
+        },
+        {
+          "keyword": "ドラクエウォーク ガチャ",
+          "score": 98
+        },
+        {
+          "keyword": "茶島雄介",
+          "score": 97
+        },
+        {
+          "keyword": "フェルメール 展",
+          "score": 96
+        },
+        {
+          "keyword": "ジョリーパスタ",
+          "score": 95
+        },
+        {
+          "keyword": "九里亜蓮",
+          "score": 94
+        },
+        {
+          "keyword": "大谷 途中 交代",
+          "score": 93
+        },
+        {
+          "keyword": "東北楽天ゴールデンイーグルス",
+          "score": 92
+        },
+        {
+          "keyword": "wwe・nxt",
           "score": 91
         }
       ]
