@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-24T08:16:13.403Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "수출",
-          "score": 100
-        },
-        {
-          "keyword": "짜라위 분짠",
-          "score": 99
-        },
-        {
-          "keyword": "팔공산",
-          "score": 98
-        },
-        {
-          "keyword": "마이클 캐릭",
-          "score": 97
-        },
-        {
-          "keyword": "집중호우",
-          "score": 96
-        },
-        {
-          "keyword": "군산시",
-          "score": 95
-        },
-        {
-          "keyword": "양창섭",
-          "score": 94
-        },
-        {
-          "keyword": "cj enm 스튜디오 센터",
-          "score": 93
-        },
-        {
-          "keyword": "스타 벅스 사이렌",
-          "score": 92
-        },
-        {
-          "keyword": "이투데이",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-24T10:15:34.503Z",
       "geo": "KR",
       "source": "google",
@@ -1972,6 +1925,53 @@
         },
         {
           "keyword": "국제유가",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-28T09:43:55.230Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "우쿠두 복합화력 발전소",
+          "score": 100
+        },
+        {
+          "keyword": "금융통화위원회",
+          "score": 99
+        },
+        {
+          "keyword": "sk그룹",
+          "score": 98
+        },
+        {
+          "keyword": "이효정",
+          "score": 97
+        },
+        {
+          "keyword": "평창대관령음악제",
+          "score": 96
+        },
+        {
+          "keyword": "이의리",
+          "score": 95
+        },
+        {
+          "keyword": "이호준",
+          "score": 94
+        },
+        {
+          "keyword": "김정수",
+          "score": 93
+        },
+        {
+          "keyword": "데이 식스 도운",
+          "score": 92
+        },
+        {
+          "keyword": "태풍 장미 경로",
           "score": 91
         }
       ]
