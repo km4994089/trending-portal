@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-25T06:52:11.552Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "배지현",
-          "score": 100
-        },
-        {
-          "keyword": "유로파이터",
-          "score": 99
-        },
-        {
-          "keyword": "마이클 캐릭",
-          "score": 98
-        },
-        {
-          "keyword": "김소영",
-          "score": 97
-        },
-        {
-          "keyword": "야마모토 요시노부",
-          "score": 96
-        },
-        {
-          "keyword": "농구",
-          "score": 95
-        },
-        {
-          "keyword": "memorial day 2026",
-          "score": 94
-        },
-        {
-          "keyword": "하지원",
-          "score": 93
-        },
-        {
-          "keyword": "배종옥",
-          "score": 92
-        },
-        {
-          "keyword": "레버리지",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-25T11:03:50.865Z",
       "geo": "KR",
       "source": "google",
@@ -1643,6 +1596,53 @@
         },
         {
           "keyword": "패트릭 위즈덤",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-29T10:37:34.519Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "박완수",
+          "score": 100
+        },
+        {
+          "keyword": "국가채무",
+          "score": 99
+        },
+        {
+          "keyword": "kt 대 키움",
+          "score": 98
+        },
+        {
+          "keyword": "삼성sds(주)",
+          "score": 97
+        },
+        {
+          "keyword": "오세훈",
+          "score": 96
+        },
+        {
+          "keyword": "현대자동차그룹",
+          "score": 95
+        },
+        {
+          "keyword": "전소미",
+          "score": 94
+        },
+        {
+          "keyword": "sat",
+          "score": 93
+        },
+        {
+          "keyword": "초자연 작전팀",
+          "score": 92
+        },
+        {
+          "keyword": "의료",
           "score": 91
         }
       ]
