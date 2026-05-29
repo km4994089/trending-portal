@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-25T11:03:50.865Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "저비용 항공사",
-          "score": 100
-        },
-        {
-          "keyword": "모자 무싸",
-          "score": 99
-        },
-        {
-          "keyword": "경기도",
-          "score": 98
-        },
-        {
-          "keyword": "왕옌청",
-          "score": 97
-        },
-        {
-          "keyword": "박항서",
-          "score": 96
-        },
-        {
-          "keyword": "방탄소년단",
-          "score": 95
-        },
-        {
-          "keyword": "내일날씨",
-          "score": 94
-        },
-        {
-          "keyword": "김동준",
-          "score": 93
-        },
-        {
-          "keyword": "대한광통신",
-          "score": 92
-        },
-        {
-          "keyword": "고우석",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-25T14:19:26.165Z",
       "geo": "KR",
       "source": "google",
@@ -1643,6 +1596,53 @@
         },
         {
           "keyword": "의료",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-29T13:51:51.711Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "드라마",
+          "score": 100
+        },
+        {
+          "keyword": "주한 미군",
+          "score": 99
+        },
+        {
+          "keyword": "의정부 싱크홀",
+          "score": 98
+        },
+        {
+          "keyword": "백룸 쿠키",
+          "score": 97
+        },
+        {
+          "keyword": "sk이노베이션",
+          "score": 96
+        },
+        {
+          "keyword": "예스 티",
+          "score": 95
+        },
+        {
+          "keyword": "자원 병",
+          "score": 94
+        },
+        {
+          "keyword": "루시",
+          "score": 93
+        },
+        {
+          "keyword": "문원",
+          "score": 92
+        },
+        {
+          "keyword": "스파이에어 내한",
           "score": 91
         }
       ]
