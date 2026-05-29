@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-25T02:30:08.150Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "okc",
-          "score": 100
-        },
-        {
-          "keyword": "aaron wiggins",
-          "score": 99
-        },
-        {
-          "keyword": "mission impossible",
-          "score": 98
-        },
-        {
-          "keyword": "magic johnson",
-          "score": 97
-        },
-        {
-          "keyword": "dubai",
-          "score": 96
-        },
-        {
-          "keyword": "carter bryant",
-          "score": 95
-        },
-        {
-          "keyword": "nathan mackinnon",
-          "score": 94
-        },
-        {
-          "keyword": "vgk",
-          "score": 93
-        },
-        {
-          "keyword": "gregg popovich",
-          "score": 92
-        },
-        {
-          "keyword": "timmy hill",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-25T06:52:10.282Z",
       "geo": "US",
       "source": "google",
@@ -1643,6 +1596,53 @@
         },
         {
           "keyword": "ron harper",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-29T06:35:42.815Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "xbox series x",
+          "score": 100
+        },
+        {
+          "keyword": "nuno borges",
+          "score": 99
+        },
+        {
+          "keyword": "obsession box office",
+          "score": 98
+        },
+        {
+          "keyword": "millie bobby brown",
+          "score": 97
+        },
+        {
+          "keyword": "mark duplass",
+          "score": 96
+        },
+        {
+          "keyword": "pennsylvania",
+          "score": 95
+        },
+        {
+          "keyword": "xbox down",
+          "score": 94
+        },
+        {
+          "keyword": "downdetector",
+          "score": 93
+        },
+        {
+          "keyword": "seattle weather",
+          "score": 92
+        },
+        {
+          "keyword": "rose byrne",
           "score": 91
         }
       ]
