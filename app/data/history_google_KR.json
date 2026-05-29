@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-25T22:51:37.593Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "샤이니",
-          "score": 100
-        },
-        {
-          "keyword": "체험학습",
-          "score": 99
-        },
-        {
-          "keyword": "날씨",
-          "score": 98
-        },
-        {
-          "keyword": "weather",
-          "score": 97
-        },
-        {
-          "keyword": "운세",
-          "score": 96
-        },
-        {
-          "keyword": "김하성",
-          "score": 95
-        },
-        {
-          "keyword": "삼성 갤럭시",
-          "score": 94
-        },
-        {
-          "keyword": "허태정",
-          "score": 93
-        },
-        {
-          "keyword": "금융감독원",
-          "score": 92
-        },
-        {
-          "keyword": "天气",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-25T23:56:04.320Z",
       "geo": "KR",
       "source": "google",
@@ -1549,6 +1502,53 @@
         },
         {
           "keyword": "당구",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-29T23:03:15.275Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "운세",
+          "score": 100
+        },
+        {
+          "keyword": "schd",
+          "score": 99
+        },
+        {
+          "keyword": "첫 번째 남자",
+          "score": 98
+        },
+        {
+          "keyword": "시가총액",
+          "score": 97
+        },
+        {
+          "keyword": "낙선운동",
+          "score": 96
+        },
+        {
+          "keyword": "다우 존스 산업평균지수",
+          "score": 95
+        },
+        {
+          "keyword": "지예은",
+          "score": 94
+        },
+        {
+          "keyword": "나는 solo, 그 후 사랑은 계속된다",
+          "score": 93
+        },
+        {
+          "keyword": "광주시장",
+          "score": 92
+        },
+        {
+          "keyword": "이승환",
           "score": 91
         }
       ]
