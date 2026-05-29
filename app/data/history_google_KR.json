@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-25T20:06:47.471Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "무엇이든 물어보살",
-          "score": 100
-        },
-        {
-          "keyword": "신세계그룹",
-          "score": 99
-        },
-        {
-          "keyword": "아베 신노스케",
-          "score": 98
-        },
-        {
-          "keyword": "어선",
-          "score": 97
-        },
-        {
-          "keyword": "라도 윤보미",
-          "score": 96
-        },
-        {
-          "keyword": "엘니뇨",
-          "score": 95
-        },
-        {
-          "keyword": "미장",
-          "score": 94
-        },
-        {
-          "keyword": "알 테오 젠",
-          "score": 93
-        },
-        {
-          "keyword": "위버스",
-          "score": 92
-        },
-        {
-          "keyword": "시바이누코인",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-05-25T21:39:56.151Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "금",
-          "score": 100
-        },
-        {
-          "keyword": "이란",
-          "score": 99
-        },
-        {
-          "keyword": "이순실",
-          "score": 98
-        },
-        {
-          "keyword": "암호화폐",
-          "score": 97
-        },
-        {
-          "keyword": "데클런 라이스",
-          "score": 96
-        },
-        {
-          "keyword": "부산날씨",
-          "score": 95
-        },
-        {
-          "keyword": "대한전선",
-          "score": 94
-        },
-        {
-          "keyword": "셀트리온",
-          "score": 93
-        },
-        {
-          "keyword": "수출",
-          "score": 92
-        },
-        {
-          "keyword": "기상청",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-25T22:51:37.593Z",
       "geo": "KR",
       "source": "google",
@@ -1596,6 +1502,53 @@
         },
         {
           "keyword": "뉴질랜드",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-29T21:43:50.464Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김태형",
+          "score": 100
+        },
+        {
+          "keyword": "박미선",
+          "score": 99
+        },
+        {
+          "keyword": "서울특별시",
+          "score": 98
+        },
+        {
+          "keyword": "복권",
+          "score": 97
+        },
+        {
+          "keyword": "현대자동차",
+          "score": 96
+        },
+        {
+          "keyword": "대한광통신",
+          "score": 95
+        },
+        {
+          "keyword": "알렉산더 즈베레프",
+          "score": 94
+        },
+        {
+          "keyword": "헤럴드",
+          "score": 93
+        },
+        {
+          "keyword": "이강인",
+          "score": 92
+        },
+        {
+          "keyword": "당구",
           "score": 91
         }
       ]
