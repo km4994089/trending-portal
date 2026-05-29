@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-25T18:21:27.800Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ブルワーズ 対 カージナルス",
-          "score": 100
-        },
-        {
-          "keyword": "ホワイトソックス 対 ツインズ",
-          "score": 99
-        },
-        {
-          "keyword": "オリオールズ 対 レイズ",
-          "score": 98
-        },
-        {
-          "keyword": "niat puasa arafah",
-          "score": 97
-        },
-        {
-          "keyword": "日高屋",
-          "score": 96
-        },
-        {
-          "keyword": "ミイヒ",
-          "score": 95
-        },
-        {
-          "keyword": "西野七瀬",
-          "score": 94
-        },
-        {
-          "keyword": "佐藤琢磨",
-          "score": 93
-        },
-        {
-          "keyword": "ファイアーエムブレム",
-          "score": 92
-        },
-        {
-          "keyword": "映画",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-25T20:06:49.002Z",
       "geo": "JP",
       "source": "google",
@@ -1596,6 +1549,53 @@
         },
         {
           "keyword": "運転",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-29T19:44:57.358Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "渋野日向子",
+          "score": 100
+        },
+        {
+          "keyword": "パランティア株価",
+          "score": 99
+        },
+        {
+          "keyword": "サラリーキャップ",
+          "score": 98
+        },
+        {
+          "keyword": "栗原はるみ",
+          "score": 97
+        },
+        {
+          "keyword": "岩田康誠",
+          "score": 96
+        },
+        {
+          "keyword": "三浦璃来",
+          "score": 95
+        },
+        {
+          "keyword": "細江純子",
+          "score": 94
+        },
+        {
+          "keyword": "令和の虎",
+          "score": 93
+        },
+        {
+          "keyword": "三浦翔平",
+          "score": 92
+        },
+        {
+          "keyword": "フォートナイト",
           "score": 91
         }
       ]
