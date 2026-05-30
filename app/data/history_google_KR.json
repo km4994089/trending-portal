@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-26T06:30:12.178Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "앤드류 로버트슨",
-          "score": 100
-        },
-        {
-          "keyword": "슈퍼카",
-          "score": 99
-        },
-        {
-          "keyword": "코너 맥그리거",
-          "score": 98
-        },
-        {
-          "keyword": "홍수",
-          "score": 97
-        },
-        {
-          "keyword": "불",
-          "score": 96
-        },
-        {
-          "keyword": "중앙선거관리위원회",
-          "score": 95
-        },
-        {
-          "keyword": "재정",
-          "score": 94
-        },
-        {
-          "keyword": "고성국",
-          "score": 93
-        },
-        {
-          "keyword": "채무",
-          "score": 92
-        },
-        {
-          "keyword": "밀워키 브루어스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-26T10:33:31.845Z",
       "geo": "KR",
       "source": "google",
@@ -1549,6 +1502,53 @@
         },
         {
           "keyword": "백악관",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-30T08:00:22.709Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "알테오젠",
+          "score": 100
+        },
+        {
+          "keyword": "공중화장실",
+          "score": 99
+        },
+        {
+          "keyword": "농협",
+          "score": 98
+        },
+        {
+          "keyword": "석유",
+          "score": 97
+        },
+        {
+          "keyword": "의료",
+          "score": 96
+        },
+        {
+          "keyword": "이원택",
+          "score": 95
+        },
+        {
+          "keyword": "늑구",
+          "score": 94
+        },
+        {
+          "keyword": "며느리",
+          "score": 93
+        },
+        {
+          "keyword": "t 우주",
+          "score": 92
+        },
+        {
+          "keyword": "박해영",
           "score": 91
         }
       ]
