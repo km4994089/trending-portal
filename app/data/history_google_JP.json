@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-26T02:27:24.910Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "安愚楽牧場",
-          "score": 100
-        },
-        {
-          "keyword": "リクルート",
-          "score": 99
-        },
-        {
-          "keyword": "狩野 英孝",
-          "score": 98
-        },
-        {
-          "keyword": "エメット・シーハン",
-          "score": 97
-        },
-        {
-          "keyword": "神奈川県",
-          "score": 96
-        },
-        {
-          "keyword": "ジェイソン・ステイサム",
-          "score": 95
-        },
-        {
-          "keyword": "日本政策金融公庫",
-          "score": 94
-        },
-        {
-          "keyword": "人とくるまのテクノロジー展",
-          "score": 93
-        },
-        {
-          "keyword": "味の素",
-          "score": 92
-        },
-        {
-          "keyword": "小池徹平",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-26T06:30:13.274Z",
       "geo": "JP",
       "source": "google",
@@ -1549,6 +1502,53 @@
         },
         {
           "keyword": "窃盗罪",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-30T05:03:48.007Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "古川琴音",
+          "score": 100
+        },
+        {
+          "keyword": "徳島 対 鳥栖",
+          "score": 99
+        },
+        {
+          "keyword": "湘南 対 いわきfc",
+          "score": 98
+        },
+        {
+          "keyword": "河野純喜",
+          "score": 97
+        },
+        {
+          "keyword": "トヨタ・ランドクルーザー",
+          "score": 96
+        },
+        {
+          "keyword": "仙台 対 甲府",
+          "score": 95
+        },
+        {
+          "keyword": "平野綾",
+          "score": 94
+        },
+        {
+          "keyword": "中村敬斗",
+          "score": 93
+        },
+        {
+          "keyword": "竹中直人",
+          "score": 92
+        },
+        {
+          "keyword": "池乃めだか",
           "score": 91
         }
       ]
