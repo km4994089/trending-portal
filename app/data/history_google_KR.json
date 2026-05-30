@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-26T13:46:50.989Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김연경",
-          "score": 100
-        },
-        {
-          "keyword": "슈퍼맨이 돌아왔다",
-          "score": 99
-        },
-        {
-          "keyword": "정인",
-          "score": 98
-        },
-        {
-          "keyword": "이주빈",
-          "score": 97
-        },
-        {
-          "keyword": "이현중",
-          "score": 96
-        },
-        {
-          "keyword": "훈련",
-          "score": 95
-        },
-        {
-          "keyword": "샘 올 트먼",
-          "score": 94
-        },
-        {
-          "keyword": "신민아",
-          "score": 93
-        },
-        {
-          "keyword": "마이크론",
-          "score": 92
-        },
-        {
-          "keyword": "hanwha vs nc",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-26T17:19:49.348Z",
       "geo": "KR",
       "source": "google",
@@ -1643,6 +1596,53 @@
         },
         {
           "keyword": "정인",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-30T14:49:47.431Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "신입사원 강회장",
+          "score": 100
+        },
+        {
+          "keyword": "lpl",
+          "score": 99
+        },
+        {
+          "keyword": "부산행",
+          "score": 98
+        },
+        {
+          "keyword": "신혜선",
+          "score": 97
+        },
+        {
+          "keyword": "만달로리안",
+          "score": 96
+        },
+        {
+          "keyword": "sbs",
+          "score": 95
+        },
+        {
+          "keyword": "하지원",
+          "score": 94
+        },
+        {
+          "keyword": "영화 백룸",
+          "score": 93
+        },
+        {
+          "keyword": "페이즈",
+          "score": 92
+        },
+        {
+          "keyword": "마카오",
           "score": 91
         }
       ]
