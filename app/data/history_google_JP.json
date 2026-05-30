@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-26T22:47:17.251Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "パイレーツ 対 カブス",
-          "score": 100
-        },
-        {
-          "keyword": "オリオールズ 対 レイズ",
-          "score": 99
-        },
-        {
-          "keyword": "中条 あやみ",
-          "score": 98
-        },
-        {
-          "keyword": "京都天気",
-          "score": 97
-        },
-        {
-          "keyword": "b.league award show",
-          "score": 96
-        },
-        {
-          "keyword": "バナナマン日村が歩く! ウォーキングのひむ太郎",
-          "score": 95
-        },
-        {
-          "keyword": "子ども・子育て支援金",
-          "score": 94
-        },
-        {
-          "keyword": "ジョゼ・モウリーニョ",
-          "score": 93
-        },
-        {
-          "keyword": "ボブ・ホーナー",
-          "score": 92
-        },
-        {
-          "keyword": "jr西日本",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-26T23:56:46.135Z",
       "geo": "JP",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "フェルナンド・タティス・ジュニア",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-30T23:52:15.157Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "青野原駐屯地",
+          "score": 100
+        },
+        {
+          "keyword": "瓜田純士",
+          "score": 99
+        },
+        {
+          "keyword": "宮崎 天気",
+          "score": 98
+        },
+        {
+          "keyword": "横野すみれ",
+          "score": 97
+        },
+        {
+          "keyword": "typhoon japan",
+          "score": 96
+        },
+        {
+          "keyword": "愛媛新聞online",
+          "score": 95
+        },
+        {
+          "keyword": "ジェフ・ホフマン",
+          "score": 94
+        },
+        {
+          "keyword": "豊臣兄弟!",
+          "score": 93
+        },
+        {
+          "keyword": "高橋ひかる",
+          "score": 92
+        },
+        {
+          "keyword": "タイムレス",
           "score": 91
         }
       ]
