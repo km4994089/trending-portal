@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-26T21:28:12.573Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "スポーツ振興くじ",
-          "score": 100
-        },
-        {
-          "keyword": "大阪天気",
-          "score": 99
-        },
-        {
-          "keyword": "ダイハツ工業",
-          "score": 98
-        },
-        {
-          "keyword": "広島 天気",
-          "score": 97
-        },
-        {
-          "keyword": "成宮唯",
-          "score": 96
-        },
-        {
-          "keyword": "給付付き税額控除",
-          "score": 95
-        },
-        {
-          "keyword": "カワチ薬品",
-          "score": 94
-        },
-        {
-          "keyword": "宮本慎也",
-          "score": 93
-        },
-        {
-          "keyword": "ive",
-          "score": 92
-        },
-        {
-          "keyword": "しなこ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-26T22:47:17.251Z",
       "geo": "JP",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "ハ・ジウォン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-30T21:30:01.914Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "西武鉄道",
+          "score": 100
+        },
+        {
+          "keyword": "スズキ・エブリイ",
+          "score": 99
+        },
+        {
+          "keyword": "バナナマン日村",
+          "score": 98
+        },
+        {
+          "keyword": "麻布台ヒルズ",
+          "score": 97
+        },
+        {
+          "keyword": "周東佑京",
+          "score": 96
+        },
+        {
+          "keyword": "君島 十和子",
+          "score": 95
+        },
+        {
+          "keyword": "松田聖子",
+          "score": 94
+        },
+        {
+          "keyword": "ターミネーターと恋しちゃったら",
+          "score": 93
+        },
+        {
+          "keyword": "紀平 梨花 早稲田",
+          "score": 92
+        },
+        {
+          "keyword": "木戸大聖",
           "score": 91
         }
       ]
