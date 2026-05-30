@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-26T10:33:31.845Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "전청조",
-          "score": 100
-        },
-        {
-          "keyword": "마이크로소프트",
-          "score": 99
-        },
-        {
-          "keyword": "바이아웃",
-          "score": 98
-        },
-        {
-          "keyword": "최소라",
-          "score": 97
-        },
-        {
-          "keyword": "fc 바르셀로나",
-          "score": 96
-        },
-        {
-          "keyword": "공공기관",
-          "score": 95
-        },
-        {
-          "keyword": "유재석 캠프",
-          "score": 94
-        },
-        {
-          "keyword": "심유진",
-          "score": 93
-        },
-        {
-          "keyword": "부동산",
-          "score": 92
-        },
-        {
-          "keyword": "한화에어로스페이스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-26T13:46:50.989Z",
       "geo": "KR",
       "source": "google",
@@ -1596,6 +1549,53 @@
         },
         {
           "keyword": "보조금",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-30T11:49:19.284Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "머니투데이",
+          "score": 100
+        },
+        {
+          "keyword": "치지직",
+          "score": 99
+        },
+        {
+          "keyword": "이승기",
+          "score": 98
+        },
+        {
+          "keyword": "팔란티어 테크놀로지",
+          "score": 97
+        },
+        {
+          "keyword": "하지원 홈런",
+          "score": 96
+        },
+        {
+          "keyword": "인플레이션",
+          "score": 95
+        },
+        {
+          "keyword": "델",
+          "score": 94
+        },
+        {
+          "keyword": "이준석",
+          "score": 93
+        },
+        {
+          "keyword": "채무",
+          "score": 92
+        },
+        {
+          "keyword": "k리그2",
           "score": 91
         }
       ]
