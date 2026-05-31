@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-27T10:46:58.929Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "하남시",
-          "score": 100
-        },
-        {
-          "keyword": "노태문",
-          "score": 99
-        },
-        {
-          "keyword": "전라도",
-          "score": 98
-        },
-        {
-          "keyword": "정국",
-          "score": 97
-        },
-        {
-          "keyword": "tgv",
-          "score": 96
-        },
-        {
-          "keyword": "로젠",
-          "score": 95
-        },
-        {
-          "keyword": "우승",
-          "score": 94
-        },
-        {
-          "keyword": "지민",
-          "score": 93
-        },
-        {
-          "keyword": "플레이스테이션",
-          "score": 92
-        },
-        {
-          "keyword": "심우정",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-27T14:18:48.423Z",
       "geo": "KR",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "대학 입시",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-31T11:27:01.450Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이기택",
+          "score": 100
+        },
+        {
+          "keyword": "삼성sdi",
+          "score": 99
+        },
+        {
+          "keyword": "한국프로농구",
+          "score": 98
+        },
+        {
+          "keyword": "백룸 쿠키영상",
+          "score": 97
+        },
+        {
+          "keyword": "김지민",
+          "score": 96
+        },
+        {
+          "keyword": "안산 그리너스 대 천안시티",
+          "score": 95
+        },
+        {
+          "keyword": "디스클로저 데이",
+          "score": 94
+        },
+        {
+          "keyword": "일본 대 아이슬란드",
+          "score": 93
+        },
+        {
+          "keyword": "박해수",
+          "score": 92
+        },
+        {
+          "keyword": "이가 시비옹테크",
           "score": 91
         }
       ]
