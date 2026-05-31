@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-27T06:54:09.412Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lg",
-          "score": 100
-        },
-        {
-          "keyword": "연합뉴스",
-          "score": 99
-        },
-        {
-          "keyword": "모델",
-          "score": 98
-        },
-        {
-          "keyword": "지진",
-          "score": 97
-        },
-        {
-          "keyword": "김종인",
-          "score": 96
-        },
-        {
-          "keyword": "박해수",
-          "score": 95
-        },
-        {
-          "keyword": "순천대학교",
-          "score": 94
-        },
-        {
-          "keyword": "마곡",
-          "score": 93
-        },
-        {
-          "keyword": "tiger 미국우주테크",
-          "score": 92
-        },
-        {
-          "keyword": "마동석",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-27T10:46:58.929Z",
       "geo": "KR",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "잠수함",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-31T09:41:55.424Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이재명",
+          "score": 100
+        },
+        {
+          "keyword": "한화그룹",
+          "score": 99
+        },
+        {
+          "keyword": "황성빈",
+          "score": 98
+        },
+        {
+          "keyword": "구축함",
+          "score": 97
+        },
+        {
+          "keyword": "장재인",
+          "score": 96
+        },
+        {
+          "keyword": "ssg",
+          "score": 95
+        },
+        {
+          "keyword": "이상규",
+          "score": 94
+        },
+        {
+          "keyword": "한국경제신문사",
+          "score": 93
+        },
+        {
+          "keyword": "백하나",
+          "score": 92
+        },
+        {
+          "keyword": "대학 입시",
           "score": 91
         }
       ]
