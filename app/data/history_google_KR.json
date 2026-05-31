@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-27T02:45:46.748Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "가결",
-          "score": 100
-        },
-        {
-          "keyword": "삼전 닉스 레버리지",
-          "score": 99
-        },
-        {
-          "keyword": "s-300 미사일 시스템",
-          "score": 98
-        },
-        {
-          "keyword": "한국투자증권",
-          "score": 97
-        },
-        {
-          "keyword": "디앤디파마텍",
-          "score": 96
-        },
-        {
-          "keyword": "삼성전기 주가",
-          "score": 95
-        },
-        {
-          "keyword": "thunder vs spurs",
-          "score": 94
-        },
-        {
-          "keyword": "국민 총소득",
-          "score": 93
-        },
-        {
-          "keyword": "오클라호마시티 대 샌안토니오",
-          "score": 92
-        },
-        {
-          "keyword": "한국외대",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-27T06:54:09.412Z",
       "geo": "KR",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "한국 대 트리니다드 토바고",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-31T06:48:44.688Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이주명",
+          "score": 100
+        },
+        {
+          "keyword": "울산 웨일즈",
+          "score": 99
+        },
+        {
+          "keyword": "회의",
+          "score": 98
+        },
+        {
+          "keyword": "폭발",
+          "score": 97
+        },
+        {
+          "keyword": "원자력",
+          "score": 96
+        },
+        {
+          "keyword": "대구광역시",
+          "score": 95
+        },
+        {
+          "keyword": "이정",
+          "score": 94
+        },
+        {
+          "keyword": "추신수",
+          "score": 93
+        },
+        {
+          "keyword": "이정후",
+          "score": 92
+        },
+        {
+          "keyword": "잠수함",
           "score": 91
         }
       ]

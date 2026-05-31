@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-27T02:45:48.280Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "日本代表 背番号",
-          "score": 100
-        },
-        {
-          "keyword": "ホワイトソックス",
-          "score": 99
-        },
-        {
-          "keyword": "カイル・フリーランド",
-          "score": 98
-        },
-        {
-          "keyword": "コトブキヤ",
-          "score": 97
-        },
-        {
-          "keyword": "東レ",
-          "score": 96
-        },
-        {
-          "keyword": "エリック・ラウアー",
-          "score": 95
-        },
-        {
-          "keyword": "ほしのあき",
-          "score": 94
-        },
-        {
-          "keyword": "ドジャース ラウアー",
-          "score": 93
-        },
-        {
-          "keyword": "高野 貴裕",
-          "score": 92
-        },
-        {
-          "keyword": "スタバ 韓国",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-27T06:54:10.697Z",
       "geo": "JP",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "サンドウィッチマン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-31T06:48:45.794Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "氷川きよし",
+          "score": 100
+        },
+        {
+          "keyword": "千葉県",
+          "score": 99
+        },
+        {
+          "keyword": "甲斐みのり",
+          "score": 98
+        },
+        {
+          "keyword": "ダイス",
+          "score": 97
+        },
+        {
+          "keyword": "truth",
+          "score": 96
+        },
+        {
+          "keyword": "国立競技場",
+          "score": 95
+        },
+        {
+          "keyword": "野々村友紀子",
+          "score": 94
+        },
+        {
+          "keyword": "安土城ステークス",
+          "score": 93
+        },
+        {
+          "keyword": "むらさき賞",
+          "score": 92
+        },
+        {
+          "keyword": "前田敦子",
           "score": 91
         }
       ]
