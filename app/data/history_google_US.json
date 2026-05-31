@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-26T23:56:43.842Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "joe mazzulla",
-          "score": 100
-        },
-        {
-          "keyword": "rom reddy",
-          "score": 99
-        },
-        {
-          "keyword": "bad thoughts",
-          "score": 98
-        },
-        {
-          "keyword": "medal",
-          "score": 97
-        },
-        {
-          "keyword": "talarico",
-          "score": 96
-        },
-        {
-          "keyword": "la casa de los famosos",
-          "score": 95
-        },
-        {
-          "keyword": "telemundo",
-          "score": 94
-        },
-        {
-          "keyword": "jarren duran",
-          "score": 93
-        },
-        {
-          "keyword": "twins vs white sox",
-          "score": 92
-        },
-        {
-          "keyword": "yankees - royals",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-27T02:45:45.502Z",
       "geo": "US",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "roch cholowsky",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-31T02:30:34.063Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "paige bueckers",
+          "score": 100
+        },
+        {
+          "keyword": "zepbound",
+          "score": 99
+        },
+        {
+          "keyword": "widow's bay",
+          "score": 98
+        },
+        {
+          "keyword": "cubs standings",
+          "score": 97
+        },
+        {
+          "keyword": "álvaro fidalgo",
+          "score": 96
+        },
+        {
+          "keyword": "steven adams",
+          "score": 95
+        },
+        {
+          "keyword": "friendlies",
+          "score": 94
+        },
+        {
+          "keyword": "alex caruso",
+          "score": 93
+        },
+        {
+          "keyword": "phillies - dodgers",
+          "score": 92
+        },
+        {
+          "keyword": "jay z",
           "score": 91
         }
       ]
