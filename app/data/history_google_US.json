@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-27T21:53:47.926Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "madison beer",
-          "score": 100
-        },
-        {
-          "keyword": "judge",
-          "score": 99
-        },
-        {
-          "keyword": "atlético mineiro vs puerto cabello",
-          "score": 98
-        },
-        {
-          "keyword": "arch",
-          "score": 97
-        },
-        {
-          "keyword": "missouri",
-          "score": 96
-        },
-        {
-          "keyword": "christopher sanchez",
-          "score": 95
-        },
-        {
-          "keyword": "oliver glasner",
-          "score": 94
-        },
-        {
-          "keyword": "timothee chalamet knicks game",
-          "score": 93
-        },
-        {
-          "keyword": "politico",
-          "score": 92
-        },
-        {
-          "keyword": "parris campbell",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-27T23:09:01.108Z",
       "geo": "US",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "palmeiras",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-31T22:49:32.818Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "joe negri",
+          "score": 100
+        },
+        {
+          "keyword": "wvu baseball score",
+          "score": 99
+        },
+        {
+          "keyword": "nashville weather",
+          "score": 98
+        },
+        {
+          "keyword": "texas baseball",
+          "score": 97
+        },
+        {
+          "keyword": "bryce eldridge",
+          "score": 96
+        },
+        {
+          "keyword": "jonah cox",
+          "score": 95
+        },
+        {
+          "keyword": "nashville superspeedway",
+          "score": 94
+        },
+        {
+          "keyword": "uga baseball score",
+          "score": 93
+        },
+        {
+          "keyword": "russell henley",
+          "score": 92
+        },
+        {
+          "keyword": "peabo bryson",
           "score": 91
         }
       ]

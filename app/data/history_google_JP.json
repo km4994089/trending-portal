@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-27T21:53:50.535Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "上戸彩",
-          "score": 100
-        },
-        {
-          "keyword": "岡田将生",
-          "score": 99
-        },
-        {
-          "keyword": "松屋",
-          "score": 98
-        },
-        {
-          "keyword": "せいや",
-          "score": 97
-        },
-        {
-          "keyword": "bリーグ 移籍",
-          "score": 96
-        },
-        {
-          "keyword": "野沢直子",
-          "score": 95
-        },
-        {
-          "keyword": "長期金利",
-          "score": 94
-        },
-        {
-          "keyword": "長崎天気",
-          "score": 93
-        },
-        {
-          "keyword": "錦戸 亮",
-          "score": 92
-        },
-        {
-          "keyword": "読売新聞",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-27T23:09:04.312Z",
       "geo": "JP",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "古畑任三郎",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-31T22:49:35.733Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "全仏オープン 2026",
+          "score": 100
+        },
+        {
+          "keyword": "メジャー",
+          "score": 99
+        },
+        {
+          "keyword": "tenki",
+          "score": 98
+        },
+        {
+          "keyword": "ブラジル代表",
+          "score": 97
+        },
+        {
+          "keyword": "カラフルピーチ",
+          "score": 96
+        },
+        {
+          "keyword": "スノーマン",
+          "score": 95
+        },
+        {
+          "keyword": "阿部亮平",
+          "score": 94
+        },
+        {
+          "keyword": "ライアン・ウォード",
+          "score": 93
+        },
+        {
+          "keyword": "土屋太鳳",
+          "score": 92
+        },
+        {
+          "keyword": "宮崎 天気",
           "score": 91
         }
       ]

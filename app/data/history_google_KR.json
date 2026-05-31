@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-27T21:53:49.401Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김성수",
-          "score": 100
-        },
-        {
-          "keyword": "면허",
-          "score": 99
-        },
-        {
-          "keyword": "김경문",
-          "score": 98
-        },
-        {
-          "keyword": "서희건설",
-          "score": 97
-        },
-        {
-          "keyword": "박승규",
-          "score": 96
-        },
-        {
-          "keyword": "한화 이글스",
-          "score": 95
-        },
-        {
-          "keyword": "문원",
-          "score": 94
-        },
-        {
-          "keyword": "뷰익",
-          "score": 93
-        },
-        {
-          "keyword": "운세",
-          "score": 92
-        },
-        {
-          "keyword": "คริสตัลพาเลซ พบ ราโย",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-27T23:09:02.127Z",
       "geo": "KR",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "삼성sdi",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-31T22:49:34.370Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "프로야구순위",
+          "score": 100
+        },
+        {
+          "keyword": "박준금",
+          "score": 99
+        },
+        {
+          "keyword": "이준영",
+          "score": 98
+        },
+        {
+          "keyword": "xsmb",
+          "score": 97
+        },
+        {
+          "keyword": "싱가포르 오픈",
+          "score": 96
+        },
+        {
+          "keyword": "농작물",
+          "score": 95
+        },
+        {
+          "keyword": "1박2일",
+          "score": 94
+        },
+        {
+          "keyword": "김민석",
+          "score": 93
+        },
+        {
+          "keyword": "고용",
+          "score": 92
+        },
+        {
+          "keyword": "베스킨라빈스",
           "score": 91
         }
       ]
