@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-27T14:18:47.057Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "novak djokovic",
-          "score": 100
-        },
-        {
-          "keyword": "paris jackson",
-          "score": 99
-        },
-        {
-          "keyword": "qcom stock",
-          "score": 98
-        },
-        {
-          "keyword": "regnyctix",
-          "score": 97
-        },
-        {
-          "keyword": "elena rybakina",
-          "score": 96
-        },
-        {
-          "keyword": "nokia stock",
-          "score": 95
-        },
-        {
-          "keyword": "ford stock",
-          "score": 94
-        },
-        {
-          "keyword": "smh stock",
-          "score": 93
-        },
-        {
-          "keyword": "mina the hollower release date",
-          "score": 92
-        },
-        {
-          "keyword": "bsx stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-27T17:38:38.203Z",
       "geo": "US",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "beaufort castle",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-05-31T14:25:24.362Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ipl",
+          "score": 100
+        },
+        {
+          "keyword": "joe biden",
+          "score": 99
+        },
+        {
+          "keyword": "maria bartiromo",
+          "score": 98
+        },
+        {
+          "keyword": "jodar tennis",
+          "score": 97
+        },
+        {
+          "keyword": "de jong tennis",
+          "score": 96
+        },
+        {
+          "keyword": "las vegas horse stabbing",
+          "score": 95
+        },
+        {
+          "keyword": "jesper de jong",
+          "score": 94
+        },
+        {
+          "keyword": "usmnt",
+          "score": 93
+        },
+        {
+          "keyword": "paula hurd",
+          "score": 92
+        },
+        {
+          "keyword": "clash in italy start time",
           "score": 91
         }
       ]
