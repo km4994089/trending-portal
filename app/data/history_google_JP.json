@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-28T01:21:11.652Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "由美 かおる",
-          "score": 100
-        },
-        {
-          "keyword": "エレコム",
-          "score": 99
-        },
-        {
-          "keyword": "山口 一郎",
-          "score": 98
-        },
-        {
-          "keyword": "四海重明〜恋が光となる、その時まで〜",
-          "score": 97
-        },
-        {
-          "keyword": "松濤",
-          "score": 96
-        },
-        {
-          "keyword": "太陽誘電 株価",
-          "score": 95
-        },
-        {
-          "keyword": "クリスティアーノ・ロナウド",
-          "score": 94
-        },
-        {
-          "keyword": "qdレーザ 株価",
-          "score": 93
-        },
-        {
-          "keyword": "楽天銀行",
-          "score": 92
-        },
-        {
-          "keyword": "ドイツ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-28T05:40:32.241Z",
       "geo": "JP",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "jr九州",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-01T03:30:10.645Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "bmi",
+          "score": 100
+        },
+        {
+          "keyword": "チケットぴあ",
+          "score": 99
+        },
+        {
+          "keyword": "時価総額",
+          "score": 98
+        },
+        {
+          "keyword": "芥川龍之介",
+          "score": 97
+        },
+        {
+          "keyword": "イスラム教",
+          "score": 96
+        },
+        {
+          "keyword": "橋本淳",
+          "score": 95
+        },
+        {
+          "keyword": "北方領土",
+          "score": 94
+        },
+        {
+          "keyword": "人権",
+          "score": 93
+        },
+        {
+          "keyword": "海津市",
+          "score": 92
+        },
+        {
+          "keyword": "国会議事堂",
           "score": 91
         }
       ]

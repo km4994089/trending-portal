@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-28T01:21:10.447Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "노타",
-          "score": 100
-        },
-        {
-          "keyword": "다비드 라야",
-          "score": 99
-        },
-        {
-          "keyword": "우크라이나",
-          "score": 98
-        },
-        {
-          "keyword": "컵스 대 파이리츠",
-          "score": 97
-        },
-        {
-          "keyword": "고승민",
-          "score": 96
-        },
-        {
-          "keyword": "화재",
-          "score": 95
-        },
-        {
-          "keyword": "브레이브스 대 레드삭스",
-          "score": 94
-        },
-        {
-          "keyword": "사전투표",
-          "score": 93
-        },
-        {
-          "keyword": "이대서울병원",
-          "score": 92
-        },
-        {
-          "keyword": "신지",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-28T05:40:31.015Z",
       "geo": "KR",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "김민석",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-01T03:30:09.569Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "한화에어로스페이스",
+          "score": 100
+        },
+        {
+          "keyword": "classroom",
+          "score": 99
+        },
+        {
+          "keyword": "경복궁",
+          "score": 98
+        },
+        {
+          "keyword": "게임",
+          "score": 97
+        },
+        {
+          "keyword": "국가유산",
+          "score": 96
+        },
+        {
+          "keyword": "국립중앙박물관",
+          "score": 95
+        },
+        {
+          "keyword": "기상청 날씨누리",
+          "score": 94
+        },
+        {
+          "keyword": "크리스티나",
+          "score": 93
+        },
+        {
+          "keyword": "lg전자 주가",
+          "score": 92
+        },
+        {
+          "keyword": "대구은행",
           "score": 91
         }
       ]
