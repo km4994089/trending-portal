@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-28T05:40:31.015Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "정유라",
-          "score": 100
-        },
-        {
-          "keyword": "일본항공",
-          "score": 99
-        },
-        {
-          "keyword": "경비원",
-          "score": 98
-        },
-        {
-          "keyword": "휴머노이드",
-          "score": 97
-        },
-        {
-          "keyword": "동탄신도시",
-          "score": 96
-        },
-        {
-          "keyword": "wti",
-          "score": 95
-        },
-        {
-          "keyword": "위증",
-          "score": 94
-        },
-        {
-          "keyword": "이지아",
-          "score": 93
-        },
-        {
-          "keyword": "cnn",
-          "score": 92
-        },
-        {
-          "keyword": "국제유가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-28T09:43:55.230Z",
       "geo": "KR",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "대구은행",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-01T09:00:28.887Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kbo",
+          "score": 100
+        },
+        {
+          "keyword": "경제총조사",
+          "score": 99
+        },
+        {
+          "keyword": "하이닉스 화재",
+          "score": 98
+        },
+        {
+          "keyword": "네이버 주가",
+          "score": 97
+        },
+        {
+          "keyword": "한화에어로스페이스",
+          "score": 96
+        },
+        {
+          "keyword": "classroom",
+          "score": 95
+        },
+        {
+          "keyword": "경복궁",
+          "score": 94
+        },
+        {
+          "keyword": "게임",
+          "score": 93
+        },
+        {
+          "keyword": "국가유산",
+          "score": 92
+        },
+        {
+          "keyword": "국립중앙박물관",
           "score": 91
         }
       ]

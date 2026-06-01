@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-28T05:40:32.241Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "佳子内親王",
-          "score": 100
-        },
-        {
-          "keyword": "大飯原発",
-          "score": 99
-        },
-        {
-          "keyword": "イ・ビョンホン",
-          "score": 98
-        },
-        {
-          "keyword": "在韓米軍",
-          "score": 97
-        },
-        {
-          "keyword": "ドジャース 順位",
-          "score": 96
-        },
-        {
-          "keyword": "日本サッカー協会",
-          "score": 95
-        },
-        {
-          "keyword": "大谷翔平",
-          "score": 94
-        },
-        {
-          "keyword": "iij",
-          "score": 93
-        },
-        {
-          "keyword": "d・j・ホグ",
-          "score": 92
-        },
-        {
-          "keyword": "旭川女子高生突き落とし事件",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-28T09:43:56.757Z",
       "geo": "JP",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "国会議事堂",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-01T09:00:29.932Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "上脇結友",
+          "score": 100
+        },
+        {
+          "keyword": "tohoシネマズ",
+          "score": 99
+        },
+        {
+          "keyword": "宮沢博行",
+          "score": 98
+        },
+        {
+          "keyword": "鹿児島市交通局",
+          "score": 97
+        },
+        {
+          "keyword": "デフテック",
+          "score": 96
+        },
+        {
+          "keyword": "スターバックス",
+          "score": 95
+        },
+        {
+          "keyword": "文化祭",
+          "score": 94
+        },
+        {
+          "keyword": "京浜東北線",
+          "score": 93
+        },
+        {
+          "keyword": "bão nhiệt đới jangmi",
+          "score": 92
+        },
+        {
+          "keyword": "役所広司",
           "score": 91
         }
       ]
