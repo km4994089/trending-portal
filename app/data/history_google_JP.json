@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-29T13:51:52.711Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ハンセン病",
-          "score": 100
-        },
-        {
-          "keyword": "浦和 レッドダイヤモンズ",
-          "score": 99
-        },
-        {
-          "keyword": "スバル",
-          "score": 98
-        },
-        {
-          "keyword": "丸の内",
-          "score": 97
-        },
-        {
-          "keyword": "西瀬戸自動車道",
-          "score": 96
-        },
-        {
-          "keyword": "wowow",
-          "score": 95
-        },
-        {
-          "keyword": "ハイキュー!!",
-          "score": 94
-        },
-        {
-          "keyword": "アメリカン ピット ブルテリア",
-          "score": 93
-        },
-        {
-          "keyword": "給付",
-          "score": 92
-        },
-        {
-          "keyword": "ディズニーオンアイス",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-05-29T17:26:23.252Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "与田祐希",
-          "score": 100
-        },
-        {
-          "keyword": "桐谷美玲",
-          "score": 99
-        },
-        {
-          "keyword": "中西アルノ",
-          "score": 98
-        },
-        {
-          "keyword": "bloodborne",
-          "score": 97
-        },
-        {
-          "keyword": "グリーンエナジー",
-          "score": 96
-        },
-        {
-          "keyword": "自動車税",
-          "score": 95
-        },
-        {
-          "keyword": "甲山事件",
-          "score": 94
-        },
-        {
-          "keyword": "リベラル",
-          "score": 93
-        },
-        {
-          "keyword": "華原 朋美",
-          "score": 92
-        },
-        {
-          "keyword": "運転",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-29T19:44:57.358Z",
       "geo": "JP",
       "source": "google",
@@ -1972,6 +1878,53 @@
         },
         {
           "keyword": "休校",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-02T17:58:51.576Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "食中毒",
+          "score": 100
+        },
+        {
+          "keyword": "市村正親",
+          "score": 99
+        },
+        {
+          "keyword": "raid",
+          "score": 98
+        },
+        {
+          "keyword": "給付金",
+          "score": 97
+        },
+        {
+          "keyword": "本田 真凜",
+          "score": 96
+        },
+        {
+          "keyword": "宮地雅子",
+          "score": 95
+        },
+        {
+          "keyword": "岡山 警報",
+          "score": 94
+        },
+        {
+          "keyword": "イタリアダービー 競馬",
+          "score": 93
+        },
+        {
+          "keyword": "畑芽育",
+          "score": 92
+        },
+        {
+          "keyword": "停電情報",
           "score": 91
         }
       ]
