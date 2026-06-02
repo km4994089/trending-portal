@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-28T23:47:03.193Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "안선영",
-          "score": 100
-        },
-        {
-          "keyword": "경기도 교육감 후보",
-          "score": 99
-        },
-        {
-          "keyword": "정근식",
-          "score": 98
-        },
-        {
-          "keyword": "클로봇",
-          "score": 97
-        },
-        {
-          "keyword": "미세먼지",
-          "score": 96
-        },
-        {
-          "keyword": "홍대입 구역",
-          "score": 95
-        },
-        {
-          "keyword": "로베르트 레반도프스키",
-          "score": 94
-        },
-        {
-          "keyword": "광주광역시",
-          "score": 93
-        },
-        {
-          "keyword": "대한 불교 조계종",
-          "score": 92
-        },
-        {
-          "keyword": "서귀포해양경찰서",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-29T02:08:05.937Z",
       "geo": "KR",
       "source": "google",
@@ -1972,6 +1925,53 @@
         },
         {
           "keyword": "한화에어로스페이스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-02T00:06:00.654Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "모스탄",
+          "score": 100
+        },
+        {
+          "keyword": "캐시워크 정답",
+          "score": 99
+        },
+        {
+          "keyword": "sxmb",
+          "score": 98
+        },
+        {
+          "keyword": "kbo 올스타 투표",
+          "score": 97
+        },
+        {
+          "keyword": "ตรวจหวย",
+          "score": 96
+        },
+        {
+          "keyword": "kbo",
+          "score": 95
+        },
+        {
+          "keyword": "경제총조사",
+          "score": 94
+        },
+        {
+          "keyword": "하이닉스 화재",
+          "score": 93
+        },
+        {
+          "keyword": "네이버 주가",
+          "score": 92
+        },
+        {
+          "keyword": "서대문형무소",
           "score": 91
         }
       ]
