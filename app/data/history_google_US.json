@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-29T06:35:42.815Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "xbox series x",
-          "score": 100
-        },
-        {
-          "keyword": "nuno borges",
-          "score": 99
-        },
-        {
-          "keyword": "obsession box office",
-          "score": 98
-        },
-        {
-          "keyword": "millie bobby brown",
-          "score": 97
-        },
-        {
-          "keyword": "mark duplass",
-          "score": 96
-        },
-        {
-          "keyword": "pennsylvania",
-          "score": 95
-        },
-        {
-          "keyword": "xbox down",
-          "score": 94
-        },
-        {
-          "keyword": "downdetector",
-          "score": 93
-        },
-        {
-          "keyword": "seattle weather",
-          "score": 92
-        },
-        {
-          "keyword": "rose byrne",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-29T10:37:33.261Z",
       "geo": "US",
       "source": "google",
@@ -1972,6 +1925,53 @@
         },
         {
           "keyword": "mrvl",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-02T09:44:52.045Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "general hospital",
+          "score": 100
+        },
+        {
+          "keyword": "sorana cîrstea",
+          "score": 99
+        },
+        {
+          "keyword": "mirra andreeva",
+          "score": 98
+        },
+        {
+          "keyword": "israel parade",
+          "score": 97
+        },
+        {
+          "keyword": "trump ocean monitoring dismantling",
+          "score": 96
+        },
+        {
+          "keyword": "jay silva",
+          "score": 95
+        },
+        {
+          "keyword": "avgo stock",
+          "score": 94
+        },
+        {
+          "keyword": "tradingview",
+          "score": 93
+        },
+        {
+          "keyword": "is claude down",
+          "score": 92
+        },
+        {
+          "keyword": "btc",
           "score": 91
         }
       ]
