@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-29T10:37:34.519Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "박완수",
-          "score": 100
-        },
-        {
-          "keyword": "국가채무",
-          "score": 99
-        },
-        {
-          "keyword": "kt 대 키움",
-          "score": 98
-        },
-        {
-          "keyword": "삼성sds(주)",
-          "score": 97
-        },
-        {
-          "keyword": "오세훈",
-          "score": 96
-        },
-        {
-          "keyword": "현대자동차그룹",
-          "score": 95
-        },
-        {
-          "keyword": "전소미",
-          "score": 94
-        },
-        {
-          "keyword": "sat",
-          "score": 93
-        },
-        {
-          "keyword": "초자연 작전팀",
-          "score": 92
-        },
-        {
-          "keyword": "의료",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-29T13:51:51.711Z",
       "geo": "KR",
       "source": "google",
@@ -1972,6 +1925,53 @@
         },
         {
           "keyword": "마벨",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-02T13:50:19.227Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kbo",
+          "score": 100
+        },
+        {
+          "keyword": "이승기",
+          "score": 99
+        },
+        {
+          "keyword": "쇼핑 호스트",
+          "score": 98
+        },
+        {
+          "keyword": "롯데마트",
+          "score": 97
+        },
+        {
+          "keyword": "australia vs pakistan",
+          "score": 96
+        },
+        {
+          "keyword": "이브라히마 코나테",
+          "score": 95
+        },
+        {
+          "keyword": "인도네시아 오픈",
+          "score": 94
+        },
+        {
+          "keyword": "은현장",
+          "score": 93
+        },
+        {
+          "keyword": "재판",
+          "score": 92
+        },
+        {
+          "keyword": "한국은행 기준금리",
           "score": 91
         }
       ]
