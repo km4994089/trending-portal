@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-29T23:03:16.965Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "メッツ 対 マーリンズ",
-          "score": 100
-        },
-        {
-          "keyword": "サンリオ",
-          "score": 99
-        },
-        {
-          "keyword": "サタプラ",
-          "score": 98
-        },
-        {
-          "keyword": "関取",
-          "score": 97
-        },
-        {
-          "keyword": "宮沢りえ",
-          "score": 96
-        },
-        {
-          "keyword": "幕張メッセ イベント",
-          "score": 95
-        },
-        {
-          "keyword": "阪急交通社",
-          "score": 94
-        },
-        {
-          "keyword": "足立区",
-          "score": 93
-        },
-        {
-          "keyword": "日本対アイスランド",
-          "score": 92
-        },
-        {
-          "keyword": "熱中症",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-30T01:24:34.657Z",
       "geo": "JP",
       "source": "google",
@@ -1925,6 +1878,53 @@
         },
         {
           "keyword": "台風 ゴミ回収",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-03T00:22:48.810Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "江東区",
+          "score": 100
+        },
+        {
+          "keyword": "円井わん",
+          "score": 99
+        },
+        {
+          "keyword": "カブス 対 アスレチックス",
+          "score": 98
+        },
+        {
+          "keyword": "アストロズ 対 パイレーツ",
+          "score": 97
+        },
+        {
+          "keyword": "ユリア リプニツカヤ",
+          "score": 96
+        },
+        {
+          "keyword": "ラジコ",
+          "score": 95
+        },
+        {
+          "keyword": "明治大学",
+          "score": 94
+        },
+        {
+          "keyword": "船橋競馬",
+          "score": 93
+        },
+        {
+          "keyword": "山口もえ",
+          "score": 92
+        },
+        {
+          "keyword": "隅田川",
           "score": 91
         }
       ]
