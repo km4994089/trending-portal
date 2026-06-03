@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-30T20:02:03.268Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "재보궐선거",
-          "score": 100
-        },
-        {
-          "keyword": "마두에케",
-          "score": 99
-        },
-        {
-          "keyword": "하무스",
-          "score": 98
-        },
-        {
-          "keyword": "스켈리",
-          "score": 97
-        },
-        {
-          "keyword": "요케레스",
-          "score": 96
-        },
-        {
-          "keyword": "라야",
-          "score": 95
-        },
-        {
-          "keyword": "메시",
-          "score": 94
-        },
-        {
-          "keyword": "감스트",
-          "score": 93
-        },
-        {
-          "keyword": "欧冠",
-          "score": 92
-        },
-        {
-          "keyword": "음바페",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-05-30T21:30:00.667Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이특",
-          "score": 100
-        },
-        {
-          "keyword": "국민연금공단",
-          "score": 99
-        },
-        {
-          "keyword": "오이",
-          "score": 98
-        },
-        {
-          "keyword": "심정지",
-          "score": 97
-        },
-        {
-          "keyword": "재보궐선거",
-          "score": 96
-        },
-        {
-          "keyword": "하무스",
-          "score": 95
-        },
-        {
-          "keyword": "요케레스",
-          "score": 94
-        },
-        {
-          "keyword": "라야",
-          "score": 93
-        },
-        {
-          "keyword": "메시",
-          "score": 92
-        },
-        {
-          "keyword": "마일스 루이스스켈리",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-30T22:30:57.003Z",
       "geo": "KR",
       "source": "google",
@@ -1643,6 +1549,53 @@
         },
         {
           "keyword": "bbc",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-03T22:08:23.430Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sk하이닉스",
+          "score": 100
+        },
+        {
+          "keyword": "한동희",
+          "score": 99
+        },
+        {
+          "keyword": "당선자",
+          "score": 98
+        },
+        {
+          "keyword": "포항시장",
+          "score": 97
+        },
+        {
+          "keyword": "손태진",
+          "score": 96
+        },
+        {
+          "keyword": "강릉시장",
+          "score": 95
+        },
+        {
+          "keyword": "사우디 아람코",
+          "score": 94
+        },
+        {
+          "keyword": "avgo",
+          "score": 93
+        },
+        {
+          "keyword": "브로드컴",
+          "score": 92
+        },
+        {
+          "keyword": "대한민국 축구 국가대표팀",
           "score": 91
         }
       ]
