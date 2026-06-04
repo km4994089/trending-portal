@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-31T06:48:45.794Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "氷川きよし",
-          "score": 100
-        },
-        {
-          "keyword": "千葉県",
-          "score": 99
-        },
-        {
-          "keyword": "甲斐みのり",
-          "score": 98
-        },
-        {
-          "keyword": "ダイス",
-          "score": 97
-        },
-        {
-          "keyword": "truth",
-          "score": 96
-        },
-        {
-          "keyword": "国立競技場",
-          "score": 95
-        },
-        {
-          "keyword": "野々村友紀子",
-          "score": 94
-        },
-        {
-          "keyword": "安土城ステークス",
-          "score": 93
-        },
-        {
-          "keyword": "むらさき賞",
-          "score": 92
-        },
-        {
-          "keyword": "前田敦子",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-31T09:41:57.102Z",
       "geo": "JP",
       "source": "google",
@@ -1549,6 +1502,53 @@
         },
         {
           "keyword": "内田梨瑚",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-04T09:07:15.770Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ストリートファイター6",
+          "score": 100
+        },
+        {
+          "keyword": "松潤 井上真央",
+          "score": 99
+        },
+        {
+          "keyword": "九州カリーナ",
+          "score": 98
+        },
+        {
+          "keyword": "プリンセス天功",
+          "score": 97
+        },
+        {
+          "keyword": "多摩川競艇",
+          "score": 96
+        },
+        {
+          "keyword": "減給",
+          "score": 95
+        },
+        {
+          "keyword": "横浜流星",
+          "score": 94
+        },
+        {
+          "keyword": "セブンイレブン",
+          "score": 93
+        },
+        {
+          "keyword": "グッドスマイルカンパニー",
+          "score": 92
+        },
+        {
+          "keyword": "シンガー ソング ライター",
           "score": 91
         }
       ]
