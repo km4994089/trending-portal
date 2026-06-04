@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-31T22:49:34.370Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "프로야구순위",
-          "score": 100
-        },
-        {
-          "keyword": "박준금",
-          "score": 99
-        },
-        {
-          "keyword": "이준영",
-          "score": 98
-        },
-        {
-          "keyword": "xsmb",
-          "score": 97
-        },
-        {
-          "keyword": "싱가포르 오픈",
-          "score": 96
-        },
-        {
-          "keyword": "농작물",
-          "score": 95
-        },
-        {
-          "keyword": "1박2일",
-          "score": 94
-        },
-        {
-          "keyword": "김민석",
-          "score": 93
-        },
-        {
-          "keyword": "고용",
-          "score": 92
-        },
-        {
-          "keyword": "베스킨라빈스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-31T23:57:11.582Z",
       "geo": "KR",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "노동조합",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-04T23:42:38.184Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "암",
+          "score": 100
+        },
+        {
+          "keyword": "신발",
+          "score": 99
+        },
+        {
+          "keyword": "기은세",
+          "score": 98
+        },
+        {
+          "keyword": "이재갑",
+          "score": 97
+        },
+        {
+          "keyword": "이탁수",
+          "score": 96
+        },
+        {
+          "keyword": "테라파워",
+          "score": 95
+        },
+        {
+          "keyword": "정성호",
+          "score": 94
+        },
+        {
+          "keyword": "중앙은행",
+          "score": 93
+        },
+        {
+          "keyword": "메이저 리그 베이스볼",
+          "score": 92
+        },
+        {
+          "keyword": "신라면세점",
           "score": 91
         }
       ]

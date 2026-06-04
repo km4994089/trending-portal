@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-31T22:49:32.818Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "joe negri",
-          "score": 100
-        },
-        {
-          "keyword": "wvu baseball score",
-          "score": 99
-        },
-        {
-          "keyword": "nashville weather",
-          "score": 98
-        },
-        {
-          "keyword": "texas baseball",
-          "score": 97
-        },
-        {
-          "keyword": "bryce eldridge",
-          "score": 96
-        },
-        {
-          "keyword": "jonah cox",
-          "score": 95
-        },
-        {
-          "keyword": "nashville superspeedway",
-          "score": 94
-        },
-        {
-          "keyword": "uga baseball score",
-          "score": 93
-        },
-        {
-          "keyword": "russell henley",
-          "score": 92
-        },
-        {
-          "keyword": "peabo bryson",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-31T23:57:10.551Z",
       "geo": "US",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "promenade",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-04T23:42:36.717Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ellen pompeo next tv role",
+          "score": 100
+        },
+        {
+          "keyword": "soap opera digest",
+          "score": 99
+        },
+        {
+          "keyword": "chequia - guatemala",
+          "score": 98
+        },
+        {
+          "keyword": "jason statham",
+          "score": 97
+        },
+        {
+          "keyword": "stella lefty",
+          "score": 96
+        },
+        {
+          "keyword": "macarthur park",
+          "score": 95
+        },
+        {
+          "keyword": "blue jays - braves",
+          "score": 94
+        },
+        {
+          "keyword": "japan",
+          "score": 93
+        },
+        {
+          "keyword": "john denver",
+          "score": 92
+        },
+        {
+          "keyword": "miguel díaz-canel",
           "score": 91
         }
       ]
