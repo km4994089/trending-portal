@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-31T02:30:34.063Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "paige bueckers",
-          "score": 100
-        },
-        {
-          "keyword": "zepbound",
-          "score": 99
-        },
-        {
-          "keyword": "widow's bay",
-          "score": 98
-        },
-        {
-          "keyword": "cubs standings",
-          "score": 97
-        },
-        {
-          "keyword": "álvaro fidalgo",
-          "score": 96
-        },
-        {
-          "keyword": "steven adams",
-          "score": 95
-        },
-        {
-          "keyword": "friendlies",
-          "score": 94
-        },
-        {
-          "keyword": "alex caruso",
-          "score": 93
-        },
-        {
-          "keyword": "phillies - dodgers",
-          "score": 92
-        },
-        {
-          "keyword": "jay z",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-31T06:48:41.476Z",
       "geo": "US",
       "source": "google",
@@ -1549,6 +1502,53 @@
         },
         {
           "keyword": "scott bessent",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-04T05:17:27.746Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "shohei ohtani",
+          "score": 100
+        },
+        {
+          "keyword": "will forte",
+          "score": 99
+        },
+        {
+          "keyword": "regal theaters",
+          "score": 98
+        },
+        {
+          "keyword": "kevin hart",
+          "score": 97
+        },
+        {
+          "keyword": "josh hader",
+          "score": 96
+        },
+        {
+          "keyword": "jeremy lin",
+          "score": 95
+        },
+        {
+          "keyword": "dbacks",
+          "score": 94
+        },
+        {
+          "keyword": "jonathan hernández",
+          "score": 93
+        },
+        {
+          "keyword": "brittney griner angel reese",
+          "score": 92
+        },
+        {
+          "keyword": "alex freeland",
           "score": 91
         }
       ]

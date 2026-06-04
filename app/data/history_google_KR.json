@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-31T02:30:35.306Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "맞벌이",
-          "score": 100
-        },
-        {
-          "keyword": "목포시",
-          "score": 99
-        },
-        {
-          "keyword": "tvn",
-          "score": 98
-        },
-        {
-          "keyword": "피파랭킹",
-          "score": 97
-        },
-        {
-          "keyword": "이채영",
-          "score": 96
-        },
-        {
-          "keyword": "gs건설",
-          "score": 95
-        },
-        {
-          "keyword": "엄태웅",
-          "score": 94
-        },
-        {
-          "keyword": "nba",
-          "score": 93
-        },
-        {
-          "keyword": "제시카",
-          "score": 92
-        },
-        {
-          "keyword": "한국 대 트리니다드 토바고",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-05-31T06:48:44.688Z",
       "geo": "KR",
       "source": "google",
@@ -1549,6 +1502,53 @@
         },
         {
           "keyword": "오석진",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-04T05:17:28.817Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "외환보유고",
+          "score": 100
+        },
+        {
+          "keyword": "모스 탄",
+          "score": 99
+        },
+        {
+          "keyword": "석암생소금구이",
+          "score": 98
+        },
+        {
+          "keyword": "알리바바 그룹",
+          "score": 97
+        },
+        {
+          "keyword": "임국희",
+          "score": 96
+        },
+        {
+          "keyword": "송민준",
+          "score": 95
+        },
+        {
+          "keyword": "fc온라인",
+          "score": 94
+        },
+        {
+          "keyword": "샌안토니오 스퍼스",
+          "score": 93
+        },
+        {
+          "keyword": "치매",
+          "score": 92
+        },
+        {
+          "keyword": "기업공개",
           "score": 91
         }
       ]
