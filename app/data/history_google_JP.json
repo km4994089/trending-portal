@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-05-31T23:57:12.904Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "yahoo 天気",
-          "score": 100
-        },
-        {
-          "keyword": "マリオ",
-          "score": 99
-        },
-        {
-          "keyword": "おみくじ",
-          "score": 98
-        },
-        {
-          "keyword": "スポナビ",
-          "score": 97
-        },
-        {
-          "keyword": "マイクラ",
-          "score": 96
-        },
-        {
-          "keyword": "news",
-          "score": 95
-        },
-        {
-          "keyword": "ルーレット",
-          "score": 94
-        },
-        {
-          "keyword": "三浦孝太",
-          "score": 93
-        },
-        {
-          "keyword": "日経新聞",
-          "score": 92
-        },
-        {
-          "keyword": "jr九州",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-01T03:30:10.645Z",
       "geo": "JP",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "スペシャルウィーク",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-05T02:28:24.616Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ライアン・ウォード",
+          "score": 100
+        },
+        {
+          "keyword": "宮島競艇",
+          "score": 99
+        },
+        {
+          "keyword": "穂志もえか",
+          "score": 98
+        },
+        {
+          "keyword": "アドマイヤ ズーム",
+          "score": 97
+        },
+        {
+          "keyword": "山本幸治",
+          "score": 96
+        },
+        {
+          "keyword": "フェルナンド アロンソ",
+          "score": 95
+        },
+        {
+          "keyword": "村田製作所 株価",
+          "score": 94
+        },
+        {
+          "keyword": "防御率",
+          "score": 93
+        },
+        {
+          "keyword": "日本",
+          "score": 92
+        },
+        {
+          "keyword": "maga",
           "score": 91
         }
       ]
