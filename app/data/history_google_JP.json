@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-01T03:30:10.645Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "bmi",
-          "score": 100
-        },
-        {
-          "keyword": "チケットぴあ",
-          "score": 99
-        },
-        {
-          "keyword": "時価総額",
-          "score": 98
-        },
-        {
-          "keyword": "芥川龍之介",
-          "score": 97
-        },
-        {
-          "keyword": "イスラム教",
-          "score": 96
-        },
-        {
-          "keyword": "橋本淳",
-          "score": 95
-        },
-        {
-          "keyword": "北方領土",
-          "score": 94
-        },
-        {
-          "keyword": "人権",
-          "score": 93
-        },
-        {
-          "keyword": "海津市",
-          "score": 92
-        },
-        {
-          "keyword": "国会議事堂",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-01T09:00:29.932Z",
       "geo": "JP",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "maga",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-05T06:48:15.037Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "斉藤慎二",
+          "score": 100
+        },
+        {
+          "keyword": "ルイス・ネリ",
+          "score": 99
+        },
+        {
+          "keyword": "宇佐美 パトリック",
+          "score": 98
+        },
+        {
+          "keyword": "孫",
+          "score": 97
+        },
+        {
+          "keyword": "オールスター ゲーム",
+          "score": 96
+        },
+        {
+          "keyword": "女性天皇",
+          "score": 95
+        },
+        {
+          "keyword": "下村海翔",
+          "score": 94
+        },
+        {
+          "keyword": "高知中央高校",
+          "score": 93
+        },
+        {
+          "keyword": "城島 茂",
+          "score": 92
+        },
+        {
+          "keyword": "川村葉音",
           "score": 91
         }
       ]
