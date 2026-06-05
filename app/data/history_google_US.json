@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-01T15:24:05.382Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "taylor swift",
-          "score": 100
-        },
-        {
-          "keyword": "matteo berrettini",
-          "score": 99
-        },
-        {
-          "keyword": "nyt",
-          "score": 98
-        },
-        {
-          "keyword": "baseball",
-          "score": 97
-        },
-        {
-          "keyword": "tina peters",
-          "score": 96
-        },
-        {
-          "keyword": "dow jones",
-          "score": 95
-        },
-        {
-          "keyword": "bitcoin price",
-          "score": 94
-        },
-        {
-          "keyword": "chwalinska",
-          "score": 93
-        },
-        {
-          "keyword": "nbis",
-          "score": 92
-        },
-        {
-          "keyword": "amc stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-01T19:59:41.387Z",
       "geo": "US",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "alzo slade",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-05T16:24:41.727Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "chicago bears",
+          "score": 100
+        },
+        {
+          "keyword": "hammond indiana",
+          "score": 99
+        },
+        {
+          "keyword": "flavio cobolli",
+          "score": 98
+        },
+        {
+          "keyword": "bears",
+          "score": 97
+        },
+        {
+          "keyword": "andre agassi",
+          "score": 96
+        },
+        {
+          "keyword": "colorado",
+          "score": 95
+        },
+        {
+          "keyword": "405 closure",
+          "score": 94
+        },
+        {
+          "keyword": "brendan banfield",
+          "score": 93
+        },
+        {
+          "keyword": "matthew prince",
+          "score": 92
+        },
+        {
+          "keyword": "new zealand vs haiti",
           "score": 91
         }
       ]

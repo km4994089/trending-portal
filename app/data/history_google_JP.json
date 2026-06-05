@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-01T15:24:08.243Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "中森明菜",
-          "score": 100
-        },
-        {
-          "keyword": "三条大橋",
-          "score": 99
-        },
-        {
-          "keyword": "ムーミン",
-          "score": 98
-        },
-        {
-          "keyword": "田中かえ",
-          "score": 97
-        },
-        {
-          "keyword": "星野源",
-          "score": 96
-        },
-        {
-          "keyword": "犬山紙子",
-          "score": 95
-        },
-        {
-          "keyword": "佐藤健",
-          "score": 94
-        },
-        {
-          "keyword": "与田祐希",
-          "score": 93
-        },
-        {
-          "keyword": "杉咲花",
-          "score": 92
-        },
-        {
-          "keyword": "ポケカ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-01T19:59:43.829Z",
       "geo": "JP",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "アレクサンダー・ズベレフ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-05T16:24:44.594Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "齋藤飛鳥",
+          "score": 100
+        },
+        {
+          "keyword": "恒松祐里",
+          "score": 99
+        },
+        {
+          "keyword": "宇宙飛行士",
+          "score": 98
+        },
+        {
+          "keyword": "阿部亮平",
+          "score": 97
+        },
+        {
+          "keyword": "misia",
+          "score": 96
+        },
+        {
+          "keyword": "ミッドナイトタクシー",
+          "score": 95
+        },
+        {
+          "keyword": "鈴木淳之介",
+          "score": 94
+        },
+        {
+          "keyword": "孤独のグルメ",
+          "score": 93
+        },
+        {
+          "keyword": "高橋光臣",
+          "score": 92
+        },
+        {
+          "keyword": "庄司浩平",
           "score": 91
         }
       ]
