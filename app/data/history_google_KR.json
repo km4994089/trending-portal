@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-01T19:59:42.568Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "모스탄",
-          "score": 100
-        },
-        {
-          "keyword": "캐시워크 정답",
-          "score": 99
-        },
-        {
-          "keyword": "sxmb",
-          "score": 98
-        },
-        {
-          "keyword": "kbo 올스타 투표",
-          "score": 97
-        },
-        {
-          "keyword": "ตรวจหวย",
-          "score": 96
-        },
-        {
-          "keyword": "kbo",
-          "score": 95
-        },
-        {
-          "keyword": "경제총조사",
-          "score": 94
-        },
-        {
-          "keyword": "하이닉스 화재",
-          "score": 93
-        },
-        {
-          "keyword": "서대문형무소",
-          "score": 92
-        },
-        {
-          "keyword": "한화에어로스페이스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-01T22:33:17.463Z",
       "geo": "KR",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "효민",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-05T20:20:46.624Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "비트코인 시세",
+          "score": 100
+        },
+        {
+          "keyword": "하원",
+          "score": 99
+        },
+        {
+          "keyword": "마카오 축구 국가대표팀",
+          "score": 98
+        },
+        {
+          "keyword": "레알 마드리드 cf",
+          "score": 97
+        },
+        {
+          "keyword": "트렌드",
+          "score": 96
+        },
+        {
+          "keyword": "고재영",
+          "score": 95
+        },
+        {
+          "keyword": "현충일 대체공휴일",
+          "score": 94
+        },
+        {
+          "keyword": "6월 6일",
+          "score": 93
+        },
+        {
+          "keyword": "마커스 래시퍼드",
+          "score": 92
+        },
+        {
+          "keyword": "ioi",
           "score": 91
         }
       ]

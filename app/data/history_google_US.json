@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-01T19:59:41.387Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "florida state baseball",
-          "score": 100
-        },
-        {
-          "keyword": "nbc news",
-          "score": 99
-        },
-        {
-          "keyword": "wcws schedule today",
-          "score": 98
-        },
-        {
-          "keyword": "denver weather",
-          "score": 97
-        },
-        {
-          "keyword": "austria vs tunisia",
-          "score": 96
-        },
-        {
-          "keyword": "fortnite",
-          "score": 95
-        },
-        {
-          "keyword": "sabalenka",
-          "score": 94
-        },
-        {
-          "keyword": "gas",
-          "score": 93
-        },
-        {
-          "keyword": "r",
-          "score": 92
-        },
-        {
-          "keyword": "dallas cowboys",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-01T22:33:16.073Z",
       "geo": "US",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "ned jarrett",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-05T20:20:45.634Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "dan lin",
+          "score": 100
+        },
+        {
+          "keyword": "buc-ee's future opening list",
+          "score": 99
+        },
+        {
+          "keyword": "mercado cambiario",
+          "score": 98
+        },
+        {
+          "keyword": "wild waves theme park closure",
+          "score": 97
+        },
+        {
+          "keyword": "nick bilton lesley stahl meeting",
+          "score": 96
+        },
+        {
+          "keyword": "miniseries",
+          "score": 95
+        },
+        {
+          "keyword": "brent crude benchmark june 2026",
+          "score": 94
+        },
+        {
+          "keyword": "bitcoin price usd",
+          "score": 93
+        },
+        {
+          "keyword": "vti",
+          "score": 92
+        },
+        {
+          "keyword": "voo",
           "score": 91
         }
       ]
