@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-01T09:00:27.707Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "amber alert",
-          "score": 100
-        },
-        {
-          "keyword": "fundraiser",
-          "score": 99
-        },
-        {
-          "keyword": "verizon",
-          "score": 98
-        },
-        {
-          "keyword": "mortgage broker",
-          "score": 97
-        },
-        {
-          "keyword": "5g",
-          "score": 96
-        },
-        {
-          "keyword": "crypto atm",
-          "score": 95
-        },
-        {
-          "keyword": "bitcoin atm",
-          "score": 94
-        },
-        {
-          "keyword": "chevy",
-          "score": 93
-        },
-        {
-          "keyword": "john deere",
-          "score": 92
-        },
-        {
-          "keyword": "tornado kansas city",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-01T15:24:05.382Z",
       "geo": "US",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "paul rudd",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-05T10:39:59.619Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "wordle hint",
+          "score": 100
+        },
+        {
+          "keyword": "royal lodge",
+          "score": 99
+        },
+        {
+          "keyword": "fisa",
+          "score": 98
+        },
+        {
+          "keyword": "ashlyn krueger",
+          "score": 97
+        },
+        {
+          "keyword": "fifa water ban",
+          "score": 96
+        },
+        {
+          "keyword": "scottie scheffler memorial tournament meltdown",
+          "score": 95
+        },
+        {
+          "keyword": "social security funding shortfall",
+          "score": 94
+        },
+        {
+          "keyword": "fidelity etf",
+          "score": 93
+        },
+        {
+          "keyword": "beef",
+          "score": 92
+        },
+        {
+          "keyword": "zcash",
           "score": 91
         }
       ]

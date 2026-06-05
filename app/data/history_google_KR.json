@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-01T09:00:28.887Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kbo",
-          "score": 100
-        },
-        {
-          "keyword": "경제총조사",
-          "score": 99
-        },
-        {
-          "keyword": "하이닉스 화재",
-          "score": 98
-        },
-        {
-          "keyword": "네이버 주가",
-          "score": 97
-        },
-        {
-          "keyword": "한화에어로스페이스",
-          "score": 96
-        },
-        {
-          "keyword": "classroom",
-          "score": 95
-        },
-        {
-          "keyword": "경복궁",
-          "score": 94
-        },
-        {
-          "keyword": "게임",
-          "score": 93
-        },
-        {
-          "keyword": "국가유산",
-          "score": 92
-        },
-        {
-          "keyword": "국립중앙박물관",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-01T15:24:06.761Z",
       "geo": "KR",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "앞산",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-05T10:40:00.808Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "혜은이",
+          "score": 100
+        },
+        {
+          "keyword": "최화정",
+          "score": 99
+        },
+        {
+          "keyword": "참교육 드라마",
+          "score": 98
+        },
+        {
+          "keyword": "lg",
+          "score": 97
+        },
+        {
+          "keyword": "갈소원",
+          "score": 96
+        },
+        {
+          "keyword": "키움 대 두산",
+          "score": 95
+        },
+        {
+          "keyword": "kt 대 ssg",
+          "score": 94
+        },
+        {
+          "keyword": "주한 미국 대사",
+          "score": 93
+        },
+        {
+          "keyword": "삼성 대 kia",
+          "score": 92
+        },
+        {
+          "keyword": "한화 대 롯데",
           "score": 91
         }
       ]
