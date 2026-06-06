@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-02T09:44:53.497Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "한화 대 두산",
-          "score": 100
-        },
-        {
-          "keyword": "롯데 대 kia",
-          "score": 99
-        },
-        {
-          "keyword": "nc 대 삼성",
-          "score": 98
-        },
-        {
-          "keyword": "이영표",
-          "score": 97
-        },
-        {
-          "keyword": "연차",
-          "score": 96
-        },
-        {
-          "keyword": "라파엘 나달",
-          "score": 95
-        },
-        {
-          "keyword": "전투기",
-          "score": 94
-        },
-        {
-          "keyword": "정유시설",
-          "score": 93
-        },
-        {
-          "keyword": "송가인",
-          "score": 92
-        },
-        {
-          "keyword": "마벨",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-02T13:50:19.227Z",
       "geo": "KR",
       "source": "google",
@@ -1455,6 +1408,53 @@
         },
         {
           "keyword": "박준현",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-06T09:53:33.948Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "안철수",
+          "score": 100
+        },
+        {
+          "keyword": "서동주",
+          "score": 99
+        },
+        {
+          "keyword": "바르샤 리버풀 레전드 매치",
+          "score": 98
+        },
+        {
+          "keyword": "양현종",
+          "score": 97
+        },
+        {
+          "keyword": "hong kong vs nepal",
+          "score": 96
+        },
+        {
+          "keyword": "amd",
+          "score": 95
+        },
+        {
+          "keyword": "군함",
+          "score": 94
+        },
+        {
+          "keyword": "포스트 말론",
+          "score": 93
+        },
+        {
+          "keyword": "rtm",
+          "score": 92
+        },
+        {
+          "keyword": "조현",
           "score": 91
         }
       ]

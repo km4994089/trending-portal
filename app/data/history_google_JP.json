@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-02T09:44:54.603Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "九里亜蓮",
-          "score": 100
-        },
-        {
-          "keyword": "平塚市",
-          "score": 99
-        },
-        {
-          "keyword": "トヨタ 稼働停止",
-          "score": 98
-        },
-        {
-          "keyword": "jリーグオールスター",
-          "score": 97
-        },
-        {
-          "keyword": "ベストイレブン",
-          "score": 96
-        },
-        {
-          "keyword": "愛知県 警報",
-          "score": 95
-        },
-        {
-          "keyword": "海上自衛隊",
-          "score": 94
-        },
-        {
-          "keyword": "山川穂高",
-          "score": 93
-        },
-        {
-          "keyword": "東西線",
-          "score": 92
-        },
-        {
-          "keyword": "演技",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-02T13:50:22.582Z",
       "geo": "JP",
       "source": "google",
@@ -1455,6 +1408,53 @@
         },
         {
           "keyword": "大東駿介",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-06T09:53:35.137Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "亜希",
+          "score": 100
+        },
+        {
+          "keyword": "川崎f 対 広島",
+          "score": 99
+        },
+        {
+          "keyword": "半導体",
+          "score": 98
+        },
+        {
+          "keyword": "糸島市",
+          "score": 97
+        },
+        {
+          "keyword": "プリキュア",
+          "score": 96
+        },
+        {
+          "keyword": "上白石萌歌",
+          "score": 95
+        },
+        {
+          "keyword": "秋元強真",
+          "score": 94
+        },
+        {
+          "keyword": "相川七瀬",
+          "score": 93
+        },
+        {
+          "keyword": "矢吹正道",
+          "score": 92
+        },
+        {
+          "keyword": "ダルベック",
           "score": 91
         }
       ]
