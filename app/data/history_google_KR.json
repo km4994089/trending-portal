@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-02T00:06:00.654Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "모스탄",
-          "score": 100
-        },
-        {
-          "keyword": "캐시워크 정답",
-          "score": 99
-        },
-        {
-          "keyword": "sxmb",
-          "score": 98
-        },
-        {
-          "keyword": "kbo 올스타 투표",
-          "score": 97
-        },
-        {
-          "keyword": "ตรวจหวย",
-          "score": 96
-        },
-        {
-          "keyword": "kbo",
-          "score": 95
-        },
-        {
-          "keyword": "경제총조사",
-          "score": 94
-        },
-        {
-          "keyword": "하이닉스 화재",
-          "score": 93
-        },
-        {
-          "keyword": "네이버 주가",
-          "score": 92
-        },
-        {
-          "keyword": "서대문형무소",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-02T05:06:42.653Z",
       "geo": "KR",
       "source": "google",
@@ -1455,6 +1408,53 @@
         },
         {
           "keyword": "백은혜",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-06T04:33:02.271Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "실업급여",
+          "score": 100
+        },
+        {
+          "keyword": "제일런 브런슨",
+          "score": 99
+        },
+        {
+          "keyword": "이혼",
+          "score": 98
+        },
+        {
+          "keyword": "수출",
+          "score": 97
+        },
+        {
+          "keyword": "슈퍼 태풍",
+          "score": 96
+        },
+        {
+          "keyword": "북구",
+          "score": 95
+        },
+        {
+          "keyword": "토마스 해치",
+          "score": 94
+        },
+        {
+          "keyword": "내셔널스 대 다이아몬드백스",
+          "score": 93
+        },
+        {
+          "keyword": "연합인포맥스",
+          "score": 92
+        },
+        {
+          "keyword": "1박 2일",
           "score": 91
         }
       ]
