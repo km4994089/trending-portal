@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-02T13:50:19.227Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kbo",
-          "score": 100
-        },
-        {
-          "keyword": "이승기",
-          "score": 99
-        },
-        {
-          "keyword": "쇼핑 호스트",
-          "score": 98
-        },
-        {
-          "keyword": "롯데마트",
-          "score": 97
-        },
-        {
-          "keyword": "australia vs pakistan",
-          "score": 96
-        },
-        {
-          "keyword": "이브라히마 코나테",
-          "score": 95
-        },
-        {
-          "keyword": "인도네시아 오픈",
-          "score": 94
-        },
-        {
-          "keyword": "은현장",
-          "score": 93
-        },
-        {
-          "keyword": "재판",
-          "score": 92
-        },
-        {
-          "keyword": "한국은행 기준금리",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-02T17:58:50.515Z",
       "geo": "KR",
       "source": "google",
@@ -1549,6 +1502,53 @@
         },
         {
           "keyword": "쯔양",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-06T14:23:43.501Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "두코바니",
+          "score": 100
+        },
+        {
+          "keyword": "상장지수펀드",
+          "score": 99
+        },
+        {
+          "keyword": "마야 흐발린스카",
+          "score": 98
+        },
+        {
+          "keyword": "lpl",
+          "score": 97
+        },
+        {
+          "keyword": "양민혁",
+          "score": 96
+        },
+        {
+          "keyword": "결혼식",
+          "score": 95
+        },
+        {
+          "keyword": "로또 1227 회 당첨 번호",
+          "score": 94
+        },
+        {
+          "keyword": "권상우",
+          "score": 93
+        },
+        {
+          "keyword": "내일 날씨",
+          "score": 92
+        },
+        {
+          "keyword": "thời tiết ngày mai",
           "score": 91
         }
       ]
