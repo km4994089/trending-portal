@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-02T22:54:18.638Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "휴머노이드",
-          "score": 100
-        },
-        {
-          "keyword": "오늘의 운세",
-          "score": 99
-        },
-        {
-          "keyword": "tsla",
-          "score": 98
-        },
-        {
-          "keyword": "만평",
-          "score": 97
-        },
-        {
-          "keyword": "조전혁",
-          "score": 96
-        },
-        {
-          "keyword": "캐나다",
-          "score": 95
-        },
-        {
-          "keyword": "필라델피아 반도체 지수",
-          "score": 94
-        },
-        {
-          "keyword": "lg 유플러스",
-          "score": 93
-        },
-        {
-          "keyword": "나스닥 100",
-          "score": 92
-        },
-        {
-          "keyword": "축구 선수",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-03T00:22:47.557Z",
       "geo": "KR",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "서울신문",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-06T22:56:27.365Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "육군",
+          "score": 100
+        },
+        {
+          "keyword": "이정후",
+          "score": 99
+        },
+        {
+          "keyword": "sk하이닉스",
+          "score": 98
+        },
+        {
+          "keyword": "차상현",
+          "score": 97
+        },
+        {
+          "keyword": "기성용",
+          "score": 96
+        },
+        {
+          "keyword": "광주광역시",
+          "score": 95
+        },
+        {
+          "keyword": "경제성장",
+          "score": 94
+        },
+        {
+          "keyword": "암호화폐",
+          "score": 93
+        },
+        {
+          "keyword": "박서진",
+          "score": 92
+        },
+        {
+          "keyword": "유 퀴즈 온 더 블럭",
           "score": 91
         }
       ]
