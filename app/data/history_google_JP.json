@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-02T05:06:43.797Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "桐谷広人",
-          "score": 100
-        },
-        {
-          "keyword": "福島 製鋼 熊",
-          "score": 99
-        },
-        {
-          "keyword": "松浦亜弥",
-          "score": 98
-        },
-        {
-          "keyword": "つくばエクスプレス",
-          "score": 97
-        },
-        {
-          "keyword": "ミスド もっ ちゅ りん",
-          "score": 96
-        },
-        {
-          "keyword": "パソナ",
-          "score": 95
-        },
-        {
-          "keyword": "アレックス・フリーランド",
-          "score": 94
-        },
-        {
-          "keyword": "藤嶌果歩",
-          "score": 93
-        },
-        {
-          "keyword": "ipo",
-          "score": 92
-        },
-        {
-          "keyword": "nintendo music",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-02T09:44:54.603Z",
       "geo": "JP",
       "source": "google",
@@ -1455,6 +1408,53 @@
         },
         {
           "keyword": "内藤大助",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-06T07:40:13.820Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "山陽特殊製鋼",
+          "score": 100
+        },
+        {
+          "keyword": "江川 卓",
+          "score": 99
+        },
+        {
+          "keyword": "セブン 揚げ物セール",
+          "score": 98
+        },
+        {
+          "keyword": "有働由美子",
+          "score": 97
+        },
+        {
+          "keyword": "磐田 対 fc大阪",
+          "score": 96
+        },
+        {
+          "keyword": "ジェフ千葉",
+          "score": 95
+        },
+        {
+          "keyword": "ブレイキングダウン 20",
+          "score": 94
+        },
+        {
+          "keyword": "ウォール 街",
+          "score": 93
+        },
+        {
+          "keyword": "ほんこん",
+          "score": 92
+        },
+        {
+          "keyword": "大東駿介",
           "score": 91
         }
       ]
