@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-02T20:47:03.614Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "지방선거 투표시간",
-          "score": 100
-        },
-        {
-          "keyword": "왕즈이",
-          "score": 99
-        },
-        {
-          "keyword": "메가커피",
-          "score": 98
-        },
-        {
-          "keyword": "중국",
-          "score": 97
-        },
-        {
-          "keyword": "멋진 신세계",
-          "score": 96
-        },
-        {
-          "keyword": "양민혁",
-          "score": 95
-        },
-        {
-          "keyword": "카카오엔터테인먼트",
-          "score": 94
-        },
-        {
-          "keyword": "netflix",
-          "score": 93
-        },
-        {
-          "keyword": "록히드 마틴 f-35 라이트닝 ii",
-          "score": 92
-        },
-        {
-          "keyword": "돌싱n모솔",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-02T22:54:18.638Z",
       "geo": "KR",
       "source": "google",
@@ -1690,6 +1643,53 @@
         },
         {
           "keyword": "서울지하철",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-06T20:53:46.965Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "크리스티아누 호날두",
+          "score": 100
+        },
+        {
+          "keyword": "가격",
+          "score": 99
+        },
+        {
+          "keyword": "서울신문",
+          "score": 98
+        },
+        {
+          "keyword": "유재석",
+          "score": 97
+        },
+        {
+          "keyword": "두코 바니",
+          "score": 96
+        },
+        {
+          "keyword": "portugal vs chile",
+          "score": 95
+        },
+        {
+          "keyword": "김동현",
+          "score": 94
+        },
+        {
+          "keyword": "포르투갈",
+          "score": 93
+        },
+        {
+          "keyword": "하비에르 아기레",
+          "score": 92
+        },
+        {
+          "keyword": "하트시그널5",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-02T20:47:04.875Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "東武東上線",
-          "score": 100
-        },
-        {
-          "keyword": "国道11号",
-          "score": 99
-        },
-        {
-          "keyword": "横尾敬介",
-          "score": 98
-        },
-        {
-          "keyword": "川崎市",
-          "score": 97
-        },
-        {
-          "keyword": "ダッフィー",
-          "score": 96
-        },
-        {
-          "keyword": "鉄道",
-          "score": 95
-        },
-        {
-          "keyword": "首都高",
-          "score": 94
-        },
-        {
-          "keyword": "香取慎吾",
-          "score": 93
-        },
-        {
-          "keyword": "大和路線",
-          "score": 92
-        },
-        {
-          "keyword": "都営地下鉄",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-02T22:54:20.032Z",
       "geo": "JP",
       "source": "google",
@@ -1690,6 +1643,53 @@
         },
         {
           "keyword": "京都 行方不明",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-06T20:53:48.036Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ムーミン",
+          "score": 100
+        },
+        {
+          "keyword": "梅雨",
+          "score": 99
+        },
+        {
+          "keyword": "掛川市",
+          "score": 98
+        },
+        {
+          "keyword": "サッカー 朝鮮 民主 主義 人民 共和国 女子 代表",
+          "score": 97
+        },
+        {
+          "keyword": "クリスティアーノ・ロナウド",
+          "score": 96
+        },
+        {
+          "keyword": "ヘンリー王子",
+          "score": 95
+        },
+        {
+          "keyword": "京阪 自動車 転落",
+          "score": 94
+        },
+        {
+          "keyword": "イングランド代表",
+          "score": 93
+        },
+        {
+          "keyword": "もっ ちゃん 田鎖 ブラザーズ",
+          "score": 92
+        },
+        {
+          "keyword": "ブレーブス 対 パイレーツ",
           "score": 91
         }
       ]
