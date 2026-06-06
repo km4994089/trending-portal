@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-02T17:58:50.515Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "양민혁",
-          "score": 100
-        },
-        {
-          "keyword": "카카오엔터테인먼트",
-          "score": 99
-        },
-        {
-          "keyword": "netflix",
-          "score": 98
-        },
-        {
-          "keyword": "돌싱n모솔",
-          "score": 97
-        },
-        {
-          "keyword": "록히드 마틴 f-35 라이트닝 ii",
-          "score": 96
-        },
-        {
-          "keyword": "크로아티아 대 벨기에",
-          "score": 95
-        },
-        {
-          "keyword": "참이슬",
-          "score": 94
-        },
-        {
-          "keyword": "시어머니",
-          "score": 93
-        },
-        {
-          "keyword": "kbo 올스타",
-          "score": 92
-        },
-        {
-          "keyword": "코인판",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-02T20:47:03.614Z",
       "geo": "KR",
       "source": "google",
@@ -1643,6 +1596,53 @@
         },
         {
           "keyword": "국립 발레단 단장",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-06T18:05:26.336Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "하트시그널5",
+          "score": 100
+        },
+        {
+          "keyword": "우크라이나 대통령",
+          "score": 99
+        },
+        {
+          "keyword": "모스 탄",
+          "score": 98
+        },
+        {
+          "keyword": "f1",
+          "score": 97
+        },
+        {
+          "keyword": "모나코 그랑프리",
+          "score": 96
+        },
+        {
+          "keyword": "김지원",
+          "score": 95
+        },
+        {
+          "keyword": "서울지하철",
+          "score": 94
+        },
+        {
+          "keyword": "케빈 더 브라위너",
+          "score": 93
+        },
+        {
+          "keyword": "김광진",
+          "score": 92
+        },
+        {
+          "keyword": "시가총액",
           "score": 91
         }
       ]

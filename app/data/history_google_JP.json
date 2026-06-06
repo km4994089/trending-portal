@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-02T17:58:51.576Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "食中毒",
-          "score": 100
-        },
-        {
-          "keyword": "市村正親",
-          "score": 99
-        },
-        {
-          "keyword": "raid",
-          "score": 98
-        },
-        {
-          "keyword": "給付金",
-          "score": 97
-        },
-        {
-          "keyword": "本田 真凜",
-          "score": 96
-        },
-        {
-          "keyword": "宮地雅子",
-          "score": 95
-        },
-        {
-          "keyword": "岡山 警報",
-          "score": 94
-        },
-        {
-          "keyword": "イタリアダービー 競馬",
-          "score": 93
-        },
-        {
-          "keyword": "畑芽育",
-          "score": 92
-        },
-        {
-          "keyword": "停電情報",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-02T20:47:04.875Z",
       "geo": "JP",
       "source": "google",
@@ -1643,6 +1596,53 @@
         },
         {
           "keyword": "藤井風",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-06T18:05:27.579Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "アメリカ 対 ドイツ",
+          "score": 100
+        },
+        {
+          "keyword": "天羽希純",
+          "score": 99
+        },
+        {
+          "keyword": "三田悠貴",
+          "score": 98
+        },
+        {
+          "keyword": "portugal vs chile",
+          "score": 97
+        },
+        {
+          "keyword": "ポルトガル 対 チリ",
+          "score": 96
+        },
+        {
+          "keyword": "ガソリンスタンド",
+          "score": 95
+        },
+        {
+          "keyword": "水原希子",
+          "score": 94
+        },
+        {
+          "keyword": "矢沢永吉",
+          "score": 93
+        },
+        {
+          "keyword": "afc チャンピオンズ リーグ エリート",
+          "score": 92
+        },
+        {
+          "keyword": "宇多田ヒカル",
           "score": 91
         }
       ]
