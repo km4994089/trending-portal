@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-03T15:10:46.808Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "house republican conference",
-          "score": 100
-        },
-        {
-          "keyword": "oracle",
-          "score": 99
-        },
-        {
-          "keyword": "argentina vs",
-          "score": 98
-        },
-        {
-          "keyword": "sam forstag",
-          "score": 97
-        },
-        {
-          "keyword": "argentina",
-          "score": 96
-        },
-        {
-          "keyword": "fighter pilot",
-          "score": 95
-        },
-        {
-          "keyword": "robin quivers",
-          "score": 94
-        },
-        {
-          "keyword": "florida lottery",
-          "score": 93
-        },
-        {
-          "keyword": "xbox game pass june updates",
-          "score": 92
-        },
-        {
-          "keyword": "kevin magnussen",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-03T19:03:35.647Z",
       "geo": "US",
       "source": "google",
@@ -1878,6 +1831,53 @@
         },
         {
           "keyword": "roland garros",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-07T15:48:32.607Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "earthquake",
+          "score": 100
+        },
+        {
+          "keyword": "earthquake near me",
+          "score": 99
+        },
+        {
+          "keyword": "hadjar",
+          "score": 98
+        },
+        {
+          "keyword": "ryan hampton",
+          "score": 97
+        },
+        {
+          "keyword": "kim alexis",
+          "score": 96
+        },
+        {
+          "keyword": "tennis scores",
+          "score": 95
+        },
+        {
+          "keyword": "colombia vs jordan",
+          "score": 94
+        },
+        {
+          "keyword": "fernando alonso",
+          "score": 93
+        },
+        {
+          "keyword": "rami malek",
+          "score": 92
+        },
+        {
+          "keyword": "lance stroll",
           "score": 91
         }
       ]
