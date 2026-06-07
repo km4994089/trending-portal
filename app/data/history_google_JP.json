@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-03T10:15:28.403Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "石原伸晃",
-          "score": 100
-        },
-        {
-          "keyword": "選挙",
-          "score": 99
-        },
-        {
-          "keyword": "島津亜矢",
-          "score": 98
-        },
-        {
-          "keyword": "最優秀選手賞",
-          "score": 97
-        },
-        {
-          "keyword": "古謝樹",
-          "score": 96
-        },
-        {
-          "keyword": "河合郁人",
-          "score": 95
-        },
-        {
-          "keyword": "ピンキーミスト",
-          "score": 94
-        },
-        {
-          "keyword": "戸郷",
-          "score": 93
-        },
-        {
-          "keyword": "しまむら 競馬",
-          "score": 92
-        },
-        {
-          "keyword": "プリンセス天功",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-03T15:10:49.511Z",
       "geo": "JP",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "大関",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-07T10:21:02.773Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "上白石萌歌",
+          "score": 100
+        },
+        {
+          "keyword": "日村勇紀",
+          "score": 99
+        },
+        {
+          "keyword": "上白石萌音",
+          "score": 98
+        },
+        {
+          "keyword": "せっかくグルメ",
+          "score": 97
+        },
+        {
+          "keyword": "竹内涼真",
+          "score": 96
+        },
+        {
+          "keyword": "高橋成美",
+          "score": 95
+        },
+        {
+          "keyword": "下田",
+          "score": 94
+        },
+        {
+          "keyword": "渥美清",
+          "score": 93
+        },
+        {
+          "keyword": "岸谷蘭丸",
+          "score": 92
+        },
+        {
+          "keyword": "岸谷五朗",
           "score": 91
         }
       ]

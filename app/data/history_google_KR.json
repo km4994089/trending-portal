@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-03T10:15:27.242Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김부겸",
-          "score": 100
-        },
-        {
-          "keyword": "유의동",
-          "score": 99
-        },
-        {
-          "keyword": "이원택",
-          "score": 98
-        },
-        {
-          "keyword": "수학자",
-          "score": 97
-        },
-        {
-          "keyword": "하정우 후보",
-          "score": 96
-        },
-        {
-          "keyword": "민형배",
-          "score": 95
-        },
-        {
-          "keyword": "김경수",
-          "score": 94
-        },
-        {
-          "keyword": "강은희",
-          "score": 93
-        },
-        {
-          "keyword": "mbc",
-          "score": 92
-        },
-        {
-          "keyword": "kbs",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-03T15:10:48.084Z",
       "geo": "KR",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "한명숙",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-07T10:21:01.503Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이기택",
+          "score": 100
+        },
+        {
+          "keyword": "avc컵 여자 배구 대회",
+          "score": 99
+        },
+        {
+          "keyword": "김원준",
+          "score": 98
+        },
+        {
+          "keyword": "황준서",
+          "score": 97
+        },
+        {
+          "keyword": "택시",
+          "score": 96
+        },
+        {
+          "keyword": "식중독",
+          "score": 95
+        },
+        {
+          "keyword": "rtm",
+          "score": 94
+        },
+        {
+          "keyword": "관세",
+          "score": 93
+        },
+        {
+          "keyword": "이스라엘",
+          "score": 92
+        },
+        {
+          "keyword": "로드투msi",
           "score": 91
         }
       ]
