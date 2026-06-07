@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-03T05:22:48.325Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ソニーフィナンシャルグループ",
-          "score": 100
-        },
-        {
-          "keyword": "kx327",
-          "score": 99
-        },
-        {
-          "keyword": "ヒカル",
-          "score": 98
-        },
-        {
-          "keyword": "シックスペンス",
-          "score": 97
-        },
-        {
-          "keyword": "菅野智之",
-          "score": 96
-        },
-        {
-          "keyword": "大島 秀夫",
-          "score": 95
-        },
-        {
-          "keyword": "由紀さおり",
-          "score": 94
-        },
-        {
-          "keyword": "全米 女子 オープン",
-          "score": 93
-        },
-        {
-          "keyword": "市川由紀乃",
-          "score": 92
-        },
-        {
-          "keyword": "三木肇",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-03T10:15:28.403Z",
       "geo": "JP",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "梅宮 アンナ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-07T07:41:42.515Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "東京ダービー",
+          "score": 100
+        },
+        {
+          "keyword": "再放送",
+          "score": 99
+        },
+        {
+          "keyword": "金田賢一",
+          "score": 98
+        },
+        {
+          "keyword": "山田邦子",
+          "score": 97
+        },
+        {
+          "keyword": "小金井特別",
+          "score": 96
+        },
+        {
+          "keyword": "美唄市",
+          "score": 95
+        },
+        {
+          "keyword": "ミッツマングローブ",
+          "score": 94
+        },
+        {
+          "keyword": "アドマイヤズーム",
+          "score": 93
+        },
+        {
+          "keyword": "磯谷 祐 維",
+          "score": 92
+        },
+        {
+          "keyword": "大関",
           "score": 91
         }
       ]
