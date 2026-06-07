@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-03T19:03:36.845Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "천영미",
-          "score": 100
-        },
-        {
-          "keyword": "동작구",
-          "score": 99
-        },
-        {
-          "keyword": "안귀령",
-          "score": 98
-        },
-        {
-          "keyword": "진은정",
-          "score": 97
-        },
-        {
-          "keyword": "조국",
-          "score": 96
-        },
-        {
-          "keyword": "cnn",
-          "score": 95
-        },
-        {
-          "keyword": "korea election",
-          "score": 94
-        },
-        {
-          "keyword": "좌파",
-          "score": 93
-        },
-        {
-          "keyword": "최은경",
-          "score": 92
-        },
-        {
-          "keyword": "bbc",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-03T22:08:23.430Z",
       "geo": "KR",
       "source": "google",
@@ -1972,6 +1925,53 @@
         },
         {
           "keyword": "강예원",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-07T20:05:46.308Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "소이현",
+          "score": 100
+        },
+        {
+          "keyword": "손예진",
+          "score": 99
+        },
+        {
+          "keyword": "상장지수펀드",
+          "score": 98
+        },
+        {
+          "keyword": "에릭센",
+          "score": 97
+        },
+        {
+          "keyword": "비닐하우스",
+          "score": 96
+        },
+        {
+          "keyword": "차준환",
+          "score": 95
+        },
+        {
+          "keyword": "cbdc",
+          "score": 94
+        },
+        {
+          "keyword": "roland garros",
+          "score": 93
+        },
+        {
+          "keyword": "이주명",
+          "score": 92
+        },
+        {
+          "keyword": "cpi",
           "score": 91
         }
       ]

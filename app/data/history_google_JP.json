@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-03T19:03:38.490Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "オランダ 対 アルジェリア",
-          "score": 100
-        },
-        {
-          "keyword": "ツイッチ",
-          "score": 99
-        },
-        {
-          "keyword": "ルクセンブルク 対 イタリア",
-          "score": 98
-        },
-        {
-          "keyword": "東京電力 停電",
-          "score": 97
-        },
-        {
-          "keyword": "片岡鶴太郎",
-          "score": 96
-        },
-        {
-          "keyword": "ワールドトリガー",
-          "score": 95
-        },
-        {
-          "keyword": "松田翔太",
-          "score": 94
-        },
-        {
-          "keyword": "全般台風情報、台風第6号",
-          "score": 93
-        },
-        {
-          "keyword": "日本三国",
-          "score": 92
-        },
-        {
-          "keyword": "溝口勇児",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-03T22:08:24.713Z",
       "geo": "JP",
       "source": "google",
@@ -1972,6 +1925,53 @@
         },
         {
           "keyword": "財務大臣",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-07T20:05:47.545Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "デーブ・ロバーツ",
+          "score": 100
+        },
+        {
+          "keyword": "成長株",
+          "score": 99
+        },
+        {
+          "keyword": "移籍",
+          "score": 98
+        },
+        {
+          "keyword": "フェイエノールト",
+          "score": 97
+        },
+        {
+          "keyword": "the music day",
+          "score": 96
+        },
+        {
+          "keyword": "池山隆寛",
+          "score": 95
+        },
+        {
+          "keyword": "はいだしょうこ",
+          "score": 94
+        },
+        {
+          "keyword": "エリクセン",
+          "score": 93
+        },
+        {
+          "keyword": "橋本環奈",
+          "score": 92
+        },
+        {
+          "keyword": "ツインズ 対 ロイヤルズ",
           "score": 91
         }
       ]
