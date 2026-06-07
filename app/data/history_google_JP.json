@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-03T00:22:48.810Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "江東区",
-          "score": 100
-        },
-        {
-          "keyword": "円井わん",
-          "score": 99
-        },
-        {
-          "keyword": "カブス 対 アスレチックス",
-          "score": 98
-        },
-        {
-          "keyword": "アストロズ 対 パイレーツ",
-          "score": 97
-        },
-        {
-          "keyword": "ユリア リプニツカヤ",
-          "score": 96
-        },
-        {
-          "keyword": "ラジコ",
-          "score": 95
-        },
-        {
-          "keyword": "明治大学",
-          "score": 94
-        },
-        {
-          "keyword": "船橋競馬",
-          "score": 93
-        },
-        {
-          "keyword": "山口もえ",
-          "score": 92
-        },
-        {
-          "keyword": "隅田川",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-03T05:22:48.325Z",
       "geo": "JP",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "しなこ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-07T03:30:17.392Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "石川遼",
+          "score": 100
+        },
+        {
+          "keyword": "田中圭",
+          "score": 99
+        },
+        {
+          "keyword": "中川安奈",
+          "score": 98
+        },
+        {
+          "keyword": "めるる",
+          "score": 97
+        },
+        {
+          "keyword": "準 学士",
+          "score": 96
+        },
+        {
+          "keyword": "今井アンジェリカ",
+          "score": 95
+        },
+        {
+          "keyword": "アレックス・フリーランド",
+          "score": 94
+        },
+        {
+          "keyword": "ジョドレルバンク",
+          "score": 93
+        },
+        {
+          "keyword": "マイク・トラウト",
+          "score": 92
+        },
+        {
+          "keyword": "梅宮 アンナ",
           "score": 91
         }
       ]
