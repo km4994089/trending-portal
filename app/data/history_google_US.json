@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-04T00:10:41.894Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "youtube tv",
-          "score": 100
-        },
-        {
-          "keyword": "jennifer aniston",
-          "score": 99
-        },
-        {
-          "keyword": "kane brown",
-          "score": 98
-        },
-        {
-          "keyword": "sean strickland",
-          "score": 97
-        },
-        {
-          "keyword": "wilyer abreu",
-          "score": 96
-        },
-        {
-          "keyword": "rebecca grossman",
-          "score": 95
-        },
-        {
-          "keyword": "panama vs dominican republic",
-          "score": 94
-        },
-        {
-          "keyword": "kyle manzardo",
-          "score": 93
-        },
-        {
-          "keyword": "dan and shay",
-          "score": 92
-        },
-        {
-          "keyword": "scott bessent",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-04T05:17:27.746Z",
       "geo": "US",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "pocono raceway",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-08T03:45:42.386Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cubs",
+          "score": 100
+        },
+        {
+          "keyword": "cubs game",
+          "score": 99
+        },
+        {
+          "keyword": "alex bregman",
+          "score": 98
+        },
+        {
+          "keyword": "rick and morty season 9 episode 3",
+          "score": 97
+        },
+        {
+          "keyword": "mexico jersey",
+          "score": 96
+        },
+        {
+          "keyword": "mexico vs south africa",
+          "score": 95
+        },
+        {
+          "keyword": "costco kirkland product price drops",
+          "score": 94
+        },
+        {
+          "keyword": "jason paige",
+          "score": 93
+        },
+        {
+          "keyword": "lorne michaels",
+          "score": 92
+        },
+        {
+          "keyword": "guillermo almada",
           "score": 91
         }
       ]
