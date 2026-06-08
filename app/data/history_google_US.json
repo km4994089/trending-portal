@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-04T05:17:27.746Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "shohei ohtani",
-          "score": 100
-        },
-        {
-          "keyword": "will forte",
-          "score": 99
-        },
-        {
-          "keyword": "regal theaters",
-          "score": 98
-        },
-        {
-          "keyword": "kevin hart",
-          "score": 97
-        },
-        {
-          "keyword": "josh hader",
-          "score": 96
-        },
-        {
-          "keyword": "jeremy lin",
-          "score": 95
-        },
-        {
-          "keyword": "dbacks",
-          "score": 94
-        },
-        {
-          "keyword": "jonathan hernández",
-          "score": 93
-        },
-        {
-          "keyword": "brittney griner angel reese",
-          "score": 92
-        },
-        {
-          "keyword": "alex freeland",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-04T09:07:13.514Z",
       "geo": "US",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "guillermo almada",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-08T08:44:34.301Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "杭州天气",
+          "score": 100
+        },
+        {
+          "keyword": "heat advisory",
+          "score": 99
+        },
+        {
+          "keyword": "real estate",
+          "score": 98
+        },
+        {
+          "keyword": "mandalorian and grogu box office",
+          "score": 97
+        },
+        {
+          "keyword": "financial company",
+          "score": 96
+        },
+        {
+          "keyword": "stephen wilson jr",
+          "score": 95
+        },
+        {
+          "keyword": "sam cozart",
+          "score": 94
+        },
+        {
+          "keyword": "hardy",
+          "score": 93
+        },
+        {
+          "keyword": "nifty 50",
+          "score": 92
+        },
+        {
+          "keyword": "cardi b",
           "score": 91
         }
       ]
