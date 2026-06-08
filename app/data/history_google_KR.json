@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-04T20:29:30.440Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "탄핵",
-          "score": 100
-        },
-        {
-          "keyword": "노란봉투법",
-          "score": 99
-        },
-        {
-          "keyword": "조 승아",
-          "score": 98
-        },
-        {
-          "keyword": "커피",
-          "score": 97
-        },
-        {
-          "keyword": "영화",
-          "score": 96
-        },
-        {
-          "keyword": "퀀티넘",
-          "score": 95
-        },
-        {
-          "keyword": "마야 흐발린스카",
-          "score": 94
-        },
-        {
-          "keyword": "한수민",
-          "score": 93
-        },
-        {
-          "keyword": "디아나 슈나이더",
-          "score": 92
-        },
-        {
-          "keyword": "이상민",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-04T22:03:45.958Z",
       "geo": "KR",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "포천시",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-08T21:20:11.245Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이창수",
+          "score": 100
+        },
+        {
+          "keyword": "식물",
+          "score": 99
+        },
+        {
+          "keyword": "육군",
+          "score": 98
+        },
+        {
+          "keyword": "로베르토 데 제르비",
+          "score": 97
+        },
+        {
+          "keyword": "스테이블코인",
+          "score": 96
+        },
+        {
+          "keyword": "미국증시",
+          "score": 95
+        },
+        {
+          "keyword": "기상",
+          "score": 94
+        },
+        {
+          "keyword": "공매도",
+          "score": 93
+        },
+        {
+          "keyword": "오십프로",
+          "score": 92
+        },
+        {
+          "keyword": "가요무대",
           "score": 91
         }
       ]
