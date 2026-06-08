@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-04T23:42:38.184Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "암",
-          "score": 100
-        },
-        {
-          "keyword": "신발",
-          "score": 99
-        },
-        {
-          "keyword": "기은세",
-          "score": 98
-        },
-        {
-          "keyword": "이재갑",
-          "score": 97
-        },
-        {
-          "keyword": "이탁수",
-          "score": 96
-        },
-        {
-          "keyword": "테라파워",
-          "score": 95
-        },
-        {
-          "keyword": "정성호",
-          "score": 94
-        },
-        {
-          "keyword": "중앙은행",
-          "score": 93
-        },
-        {
-          "keyword": "메이저 리그 베이스볼",
-          "score": 92
-        },
-        {
-          "keyword": "신라면세점",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-05T02:28:23.428Z",
       "geo": "KR",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "김현욱",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-08T23:56:56.048Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "오십 프로",
+          "score": 100
+        },
+        {
+          "keyword": "브래드 피트",
+          "score": 99
+        },
+        {
+          "keyword": "cpi",
+          "score": 98
+        },
+        {
+          "keyword": "올리세",
+          "score": 97
+        },
+        {
+          "keyword": "intc",
+          "score": 96
+        },
+        {
+          "keyword": "추가경정예산",
+          "score": 95
+        },
+        {
+          "keyword": "밀양시",
+          "score": 94
+        },
+        {
+          "keyword": "발전",
+          "score": 93
+        },
+        {
+          "keyword": "mrvl",
+          "score": 92
+        },
+        {
+          "keyword": "대전광역시",
           "score": 91
         }
       ]

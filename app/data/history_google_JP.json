@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-04T23:42:39.605Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "賀来賢人",
-          "score": 100
-        },
-        {
-          "keyword": "ツインズ 対 ロイヤルズ",
-          "score": 99
-        },
-        {
-          "keyword": "舘ひろし",
-          "score": 98
-        },
-        {
-          "keyword": "トヨタ自動車",
-          "score": 97
-        },
-        {
-          "keyword": "ブレーブス 対 ブルージェイズ",
-          "score": 96
-        },
-        {
-          "keyword": "佐野晶哉",
-          "score": 95
-        },
-        {
-          "keyword": "ラセンウジバエ",
-          "score": 94
-        },
-        {
-          "keyword": "大洗",
-          "score": 93
-        },
-        {
-          "keyword": "傷害罪",
-          "score": 92
-        },
-        {
-          "keyword": "スペシャルウィーク",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-05T02:28:24.616Z",
       "geo": "JP",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "気温",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-08T23:56:57.553Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "畑岡奈紗",
+          "score": 100
+        },
+        {
+          "keyword": "tbsラジオ",
+          "score": 99
+        },
+        {
+          "keyword": "暑熱順化",
+          "score": 98
+        },
+        {
+          "keyword": "日産スタジアム",
+          "score": 97
+        },
+        {
+          "keyword": "ファーストサマーウイカ",
+          "score": 96
+        },
+        {
+          "keyword": "パンサー向井",
+          "score": 95
+        },
+        {
+          "keyword": "村上穂乃佳",
+          "score": 94
+        },
+        {
+          "keyword": "全日本空輸",
+          "score": 93
+        },
+        {
+          "keyword": "ヒロイン",
+          "score": 92
+        },
+        {
+          "keyword": "ブルージェイズ 対 フィリーズ",
           "score": 91
         }
       ]
