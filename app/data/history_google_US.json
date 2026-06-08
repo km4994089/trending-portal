@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-04T15:53:36.110Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "donald trump jr.",
-          "score": 100
-        },
-        {
-          "keyword": "nikola bartunkova",
-          "score": 99
-        },
-        {
-          "keyword": "christian watson",
-          "score": 98
-        },
-        {
-          "keyword": "chwalinska",
-          "score": 97
-        },
-        {
-          "keyword": "shnaider tennis",
-          "score": 96
-        },
-        {
-          "keyword": "chris pratt",
-          "score": 95
-        },
-        {
-          "keyword": "lufthansa",
-          "score": 94
-        },
-        {
-          "keyword": "maja chwalińska",
-          "score": 93
-        },
-        {
-          "keyword": "rob gronkowski",
-          "score": 92
-        },
-        {
-          "keyword": "kendrick law",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-04T20:29:29.430Z",
       "geo": "US",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "alice and steve",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-08T16:45:15.676Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "customs and border protection funding",
+          "score": 100
+        },
+        {
+          "keyword": "ugo humbert",
+          "score": 99
+        },
+        {
+          "keyword": "bts oreos",
+          "score": 98
+        },
+        {
+          "keyword": "giannis antetokounmpo",
+          "score": 97
+        },
+        {
+          "keyword": "bryant park knicks watch party",
+          "score": 96
+        },
+        {
+          "keyword": "d4vd",
+          "score": 95
+        },
+        {
+          "keyword": "phoebe bridgers presale",
+          "score": 94
+        },
+        {
+          "keyword": "bubba wallace",
+          "score": 93
+        },
+        {
+          "keyword": "today",
+          "score": 92
+        },
+        {
+          "keyword": "gordon wood",
           "score": 91
         }
       ]
