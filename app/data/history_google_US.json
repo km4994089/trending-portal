@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-04T09:07:13.514Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "airline",
-          "score": 100
-        },
-        {
-          "keyword": "verizon",
-          "score": 99
-        },
-        {
-          "keyword": "jennifer lawrence",
-          "score": 98
-        },
-        {
-          "keyword": "joe rogan",
-          "score": 97
-        },
-        {
-          "keyword": "gauche",
-          "score": 96
-        },
-        {
-          "keyword": "saint kitts",
-          "score": 95
-        },
-        {
-          "keyword": "michael jackson billboard hot 100",
-          "score": 94
-        },
-        {
-          "keyword": "jake gyllenhaal",
-          "score": 93
-        },
-        {
-          "keyword": "president of mexico",
-          "score": 92
-        },
-        {
-          "keyword": "social security administration staff cuts",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-06-04T12:24:47.695Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "rickie fowler",
-          "score": 100
-        },
-        {
-          "keyword": "matt fitzpatrick",
-          "score": 99
-        },
-        {
-          "keyword": "princess lilibet fifth birthday",
-          "score": 98
-        },
-        {
-          "keyword": "criminal defense lawyer",
-          "score": 97
-        },
-        {
-          "keyword": "sri lanka",
-          "score": 96
-        },
-        {
-          "keyword": "henry nowak uk",
-          "score": 95
-        },
-        {
-          "keyword": "fan runs on court nba finals",
-          "score": 94
-        },
-        {
-          "keyword": "rory mcilroy",
-          "score": 93
-        },
-        {
-          "keyword": "sara errani",
-          "score": 92
-        },
-        {
-          "keyword": "crypto news",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-04T15:53:36.110Z",
       "geo": "US",
       "source": "google",
@@ -2066,6 +1972,53 @@
         },
         {
           "keyword": "cardi b",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-08T12:57:25.280Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "eve hewson",
+          "score": 100
+        },
+        {
+          "keyword": "amy adams",
+          "score": 99
+        },
+        {
+          "keyword": "detroit",
+          "score": 98
+        },
+        {
+          "keyword": "big rock tournament",
+          "score": 97
+        },
+        {
+          "keyword": "jessica tisch",
+          "score": 96
+        },
+        {
+          "keyword": "rush",
+          "score": 95
+        },
+        {
+          "keyword": "flight attendant",
+          "score": 94
+        },
+        {
+          "keyword": "martin landaluce",
+          "score": 93
+        },
+        {
+          "keyword": "hsbc championships",
+          "score": 92
+        },
+        {
+          "keyword": "alice and steve",
           "score": 91
         }
       ]
