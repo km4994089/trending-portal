@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-05T10:40:00.808Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "혜은이",
-          "score": 100
-        },
-        {
-          "keyword": "최화정",
-          "score": 99
-        },
-        {
-          "keyword": "참교육 드라마",
-          "score": 98
-        },
-        {
-          "keyword": "lg",
-          "score": 97
-        },
-        {
-          "keyword": "갈소원",
-          "score": 96
-        },
-        {
-          "keyword": "키움 대 두산",
-          "score": 95
-        },
-        {
-          "keyword": "kt 대 ssg",
-          "score": 94
-        },
-        {
-          "keyword": "주한 미국 대사",
-          "score": 93
-        },
-        {
-          "keyword": "삼성 대 kia",
-          "score": 92
-        },
-        {
-          "keyword": "한화 대 롯데",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-05T13:46:48.021Z",
       "geo": "KR",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "대한체육회",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-09T13:22:16.204Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "박현주",
+          "score": 100
+        },
+        {
+          "keyword": "신용보증재단중앙회",
+          "score": 99
+        },
+        {
+          "keyword": "양도",
+          "score": 98
+        },
+        {
+          "keyword": "f-35a",
+          "score": 97
+        },
+        {
+          "keyword": "จีน พบ ไทย",
+          "score": 96
+        },
+        {
+          "keyword": "서울 날씨",
+          "score": 95
+        },
+        {
+          "keyword": "곽튜브",
+          "score": 94
+        },
+        {
+          "keyword": "fifa 월드컵 2026",
+          "score": 93
+        },
+        {
+          "keyword": "아워홈",
+          "score": 92
+        },
+        {
+          "keyword": "당구",
           "score": 91
         }
       ]
