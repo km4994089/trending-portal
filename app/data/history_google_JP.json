@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-05T06:48:15.037Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "斉藤慎二",
-          "score": 100
-        },
-        {
-          "keyword": "ルイス・ネリ",
-          "score": 99
-        },
-        {
-          "keyword": "宇佐美 パトリック",
-          "score": 98
-        },
-        {
-          "keyword": "孫",
-          "score": 97
-        },
-        {
-          "keyword": "オールスター ゲーム",
-          "score": 96
-        },
-        {
-          "keyword": "女性天皇",
-          "score": 95
-        },
-        {
-          "keyword": "下村海翔",
-          "score": 94
-        },
-        {
-          "keyword": "高知中央高校",
-          "score": 93
-        },
-        {
-          "keyword": "城島 茂",
-          "score": 92
-        },
-        {
-          "keyword": "川村葉音",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-05T10:40:02.046Z",
       "geo": "JP",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "ヤマトホールディングス",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-09T10:27:24.709Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ディズニーオンアイス",
+          "score": 100
+        },
+        {
+          "keyword": "ミイラ 化",
+          "score": 99
+        },
+        {
+          "keyword": "小田ときと",
+          "score": 98
+        },
+        {
+          "keyword": "チュニジア",
+          "score": 97
+        },
+        {
+          "keyword": "jリーグ オールスター",
+          "score": 96
+        },
+        {
+          "keyword": "栗原陵矢",
+          "score": 95
+        },
+        {
+          "keyword": "世耕弘成",
+          "score": 94
+        },
+        {
+          "keyword": "キャンペーン",
+          "score": 93
+        },
+        {
+          "keyword": "ビョン・ウソク",
+          "score": 92
+        },
+        {
+          "keyword": "定員割れ",
           "score": 91
         }
       ]
