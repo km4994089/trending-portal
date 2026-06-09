@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-05T16:24:41.727Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "chicago bears",
-          "score": 100
-        },
-        {
-          "keyword": "hammond indiana",
-          "score": 99
-        },
-        {
-          "keyword": "flavio cobolli",
-          "score": 98
-        },
-        {
-          "keyword": "bears",
-          "score": 97
-        },
-        {
-          "keyword": "andre agassi",
-          "score": 96
-        },
-        {
-          "keyword": "colorado",
-          "score": 95
-        },
-        {
-          "keyword": "405 closure",
-          "score": 94
-        },
-        {
-          "keyword": "brendan banfield",
-          "score": 93
-        },
-        {
-          "keyword": "matthew prince",
-          "score": 92
-        },
-        {
-          "keyword": "new zealand vs haiti",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-06-05T18:19:19.808Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "accident lawyer",
-          "score": 100
-        },
-        {
-          "keyword": "accident attorney",
-          "score": 99
-        },
-        {
-          "keyword": "red flag (fire weather) warning",
-          "score": 98
-        },
-        {
-          "keyword": "storm",
-          "score": 97
-        },
-        {
-          "keyword": "supreme leader of iran",
-          "score": 96
-        },
-        {
-          "keyword": "ciara miller",
-          "score": 95
-        },
-        {
-          "keyword": "statue of liberty",
-          "score": 94
-        },
-        {
-          "keyword": "giants vs cubs",
-          "score": 93
-        },
-        {
-          "keyword": "economy",
-          "score": 92
-        },
-        {
-          "keyword": "ned jarrett",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-05T20:20:45.634Z",
       "geo": "US",
       "source": "google",
@@ -2066,6 +1972,53 @@
         },
         {
           "keyword": "slovenia vs germany",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-09T18:27:17.640Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nba the run",
+          "score": 100
+        },
+        {
+          "keyword": "carmelo anthony",
+          "score": 99
+        },
+        {
+          "keyword": "julian alvarez",
+          "score": 98
+        },
+        {
+          "keyword": "rock the south",
+          "score": 97
+        },
+        {
+          "keyword": "salesforce layoffs",
+          "score": 96
+        },
+        {
+          "keyword": "armenia vs moldova",
+          "score": 95
+        },
+        {
+          "keyword": "mgk",
+          "score": 94
+        },
+        {
+          "keyword": "dr congo vs chile",
+          "score": 93
+        },
+        {
+          "keyword": "new sunscreen ingredient bemt",
+          "score": 92
+        },
+        {
+          "keyword": "argentina vs france",
           "score": 91
         }
       ]
