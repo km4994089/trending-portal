@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-05T22:57:54.326Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "홍현희",
-          "score": 100
-        },
-        {
-          "keyword": "은행",
-          "score": 99
-        },
-        {
-          "keyword": "mc몽",
-          "score": 98
-        },
-        {
-          "keyword": "영어",
-          "score": 97
-        },
-        {
-          "keyword": "백은혜",
-          "score": 96
-        },
-        {
-          "keyword": "lg유플러스",
-          "score": 95
-        },
-        {
-          "keyword": "태양광 발전",
-          "score": 94
-        },
-        {
-          "keyword": "나스닥 100",
-          "score": 93
-        },
-        {
-          "keyword": "주식",
-          "score": 92
-        },
-        {
-          "keyword": "소방",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-06T00:03:36.821Z",
       "geo": "KR",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "삼천당제약",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-09T23:47:49.616Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "윙어",
+          "score": 100
+        },
+        {
+          "keyword": "미토스",
+          "score": 99
+        },
+        {
+          "keyword": "현대모비스",
+          "score": 98
+        },
+        {
+          "keyword": "다저스 대 파이리츠",
+          "score": 97
+        },
+        {
+          "keyword": "미국 항공 우주국",
+          "score": 96
+        },
+        {
+          "keyword": "변호사 시험",
+          "score": 95
+        },
+        {
+          "keyword": "tsla",
+          "score": 94
+        },
+        {
+          "keyword": "영양소",
+          "score": 93
+        },
+        {
+          "keyword": "소비",
+          "score": 92
+        },
+        {
+          "keyword": "schd",
           "score": 91
         }
       ]
