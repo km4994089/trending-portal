@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-05T20:20:47.923Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "女子ゴルフ",
-          "score": 100
-        },
-        {
-          "keyword": "lpga",
-          "score": 99
-        },
-        {
-          "keyword": "菅野智之",
-          "score": 98
-        },
-        {
-          "keyword": "あぶくま型護衛艦",
-          "score": 97
-        },
-        {
-          "keyword": "sp500",
-          "score": 96
-        },
-        {
-          "keyword": "ナスダック100",
-          "score": 95
-        },
-        {
-          "keyword": "ナスダック",
-          "score": 94
-        },
-        {
-          "keyword": "fivbバレーボール・ネイションズリーグ 女子",
-          "score": 93
-        },
-        {
-          "keyword": "日経先物",
-          "score": 92
-        },
-        {
-          "keyword": "岡林勇希",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-05T21:53:25.008Z",
       "geo": "JP",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "岡田結実",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-09T20:24:32.367Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "バレーボール",
+          "score": 100
+        },
+        {
+          "keyword": "吉野家 メニュー",
+          "score": 99
+        },
+        {
+          "keyword": "藤澤五月",
+          "score": 98
+        },
+        {
+          "keyword": "松本 潤",
+          "score": 97
+        },
+        {
+          "keyword": "星座",
+          "score": 96
+        },
+        {
+          "keyword": "高市",
+          "score": 95
+        },
+        {
+          "keyword": "ナスダック100",
+          "score": 94
+        },
+        {
+          "keyword": "オーロラ",
+          "score": 93
+        },
+        {
+          "keyword": "井上一樹",
+          "score": 92
+        },
+        {
+          "keyword": "デーブ・ロバーツ",
           "score": 91
         }
       ]
