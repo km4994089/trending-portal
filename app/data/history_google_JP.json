@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-06T04:33:03.471Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "鹿島 対 神戸",
-          "score": 100
-        },
-        {
-          "keyword": "fc東京 対 c大阪",
-          "score": 99
-        },
-        {
-          "keyword": "イープラス",
-          "score": 98
-        },
-        {
-          "keyword": "101",
-          "score": 97
-        },
-        {
-          "keyword": "武蔵小杉",
-          "score": 96
-        },
-        {
-          "keyword": "スターバックス",
-          "score": 95
-        },
-        {
-          "keyword": "日本女子プロゴルフ協会",
-          "score": 94
-        },
-        {
-          "keyword": "丸山礼",
-          "score": 93
-        },
-        {
-          "keyword": "ビクター・ウェンバンヤマ",
-          "score": 92
-        },
-        {
-          "keyword": "内藤大助",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-06T07:40:13.820Z",
       "geo": "JP",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "公立学校",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-10T06:48:35.432Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "笹本玲奈",
+          "score": 100
+        },
+        {
+          "keyword": "日曜ドラマ",
+          "score": 99
+        },
+        {
+          "keyword": "山崎武司",
+          "score": 98
+        },
+        {
+          "keyword": "エルニーニョ現象",
+          "score": 97
+        },
+        {
+          "keyword": "ルイス・ネリ",
+          "score": 96
+        },
+        {
+          "keyword": "スタバ 売却",
+          "score": 95
+        },
+        {
+          "keyword": "官邸",
+          "score": 94
+        },
+        {
+          "keyword": "ジブリパーク",
+          "score": 93
+        },
+        {
+          "keyword": "グループ リーグ",
+          "score": 92
+        },
+        {
+          "keyword": "北斗晶",
           "score": 91
         }
       ]

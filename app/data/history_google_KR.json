@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-06T04:33:02.271Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "실업급여",
-          "score": 100
-        },
-        {
-          "keyword": "제일런 브런슨",
-          "score": 99
-        },
-        {
-          "keyword": "이혼",
-          "score": 98
-        },
-        {
-          "keyword": "수출",
-          "score": 97
-        },
-        {
-          "keyword": "슈퍼 태풍",
-          "score": 96
-        },
-        {
-          "keyword": "북구",
-          "score": 95
-        },
-        {
-          "keyword": "토마스 해치",
-          "score": 94
-        },
-        {
-          "keyword": "내셔널스 대 다이아몬드백스",
-          "score": 93
-        },
-        {
-          "keyword": "연합인포맥스",
-          "score": 92
-        },
-        {
-          "keyword": "1박 2일",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-06T07:40:12.386Z",
       "geo": "KR",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "뇌물",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-10T06:48:33.608Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "고발",
+          "score": 100
+        },
+        {
+          "keyword": "수학여행",
+          "score": 99
+        },
+        {
+          "keyword": "송성문",
+          "score": 98
+        },
+        {
+          "keyword": "고령화",
+          "score": 97
+        },
+        {
+          "keyword": "문현빈",
+          "score": 96
+        },
+        {
+          "keyword": "이정후",
+          "score": 95
+        },
+        {
+          "keyword": "여론 조사",
+          "score": 94
+        },
+        {
+          "keyword": "국회의원회관",
+          "score": 93
+        },
+        {
+          "keyword": "하트시그널",
+          "score": 92
+        },
+        {
+          "keyword": "원내대표",
           "score": 91
         }
       ]
