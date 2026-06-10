@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-06T18:05:26.336Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "하트시그널5",
-          "score": 100
-        },
-        {
-          "keyword": "우크라이나 대통령",
-          "score": 99
-        },
-        {
-          "keyword": "모스 탄",
-          "score": 98
-        },
-        {
-          "keyword": "f1",
-          "score": 97
-        },
-        {
-          "keyword": "모나코 그랑프리",
-          "score": 96
-        },
-        {
-          "keyword": "김지원",
-          "score": 95
-        },
-        {
-          "keyword": "서울지하철",
-          "score": 94
-        },
-        {
-          "keyword": "케빈 더 브라위너",
-          "score": 93
-        },
-        {
-          "keyword": "김광진",
-          "score": 92
-        },
-        {
-          "keyword": "시가총액",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-06-06T19:51:13.937Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "portugal vs chile",
-          "score": 100
-        },
-        {
-          "keyword": "김동현",
-          "score": 99
-        },
-        {
-          "keyword": "포르투갈",
-          "score": 98
-        },
-        {
-          "keyword": "하트시그널5",
-          "score": 97
-        },
-        {
-          "keyword": "우크라이나 대통령",
-          "score": 96
-        },
-        {
-          "keyword": "모스 탄",
-          "score": 95
-        },
-        {
-          "keyword": "f1",
-          "score": 94
-        },
-        {
-          "keyword": "모나코 그랑프리",
-          "score": 93
-        },
-        {
-          "keyword": "김지원",
-          "score": 92
-        },
-        {
-          "keyword": "서울지하철",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-06T20:53:46.965Z",
       "geo": "KR",
       "source": "google",
@@ -1831,6 +1737,53 @@
         },
         {
           "keyword": "다영",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-10T20:10:52.154Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "모스 탄",
+          "score": 100
+        },
+        {
+          "keyword": "대통령",
+          "score": 99
+        },
+        {
+          "keyword": "한국 대 체코",
+          "score": 98
+        },
+        {
+          "keyword": "디카페인",
+          "score": 97
+        },
+        {
+          "keyword": "송파구선거관리위원회",
+          "score": 96
+        },
+        {
+          "keyword": "노키아",
+          "score": 95
+        },
+        {
+          "keyword": "미래에셋",
+          "score": 94
+        },
+        {
+          "keyword": "우크라이나",
+          "score": 93
+        },
+        {
+          "keyword": "헤지펀드",
+          "score": 92
+        },
+        {
+          "keyword": "김원훈",
           "score": 91
         }
       ]
