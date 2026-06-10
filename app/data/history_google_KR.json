@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-06T00:03:36.821Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "스페이스x 상장",
-          "score": 100
-        },
-        {
-          "keyword": "장원영",
-          "score": 99
-        },
-        {
-          "keyword": "한국개발연구원",
-          "score": 98
-        },
-        {
-          "keyword": "교사",
-          "score": 97
-        },
-        {
-          "keyword": "양정원",
-          "score": 96
-        },
-        {
-          "keyword": "홍현희",
-          "score": 95
-        },
-        {
-          "keyword": "은행",
-          "score": 94
-        },
-        {
-          "keyword": "mc몽",
-          "score": 93
-        },
-        {
-          "keyword": "영어",
-          "score": 92
-        },
-        {
-          "keyword": "백은혜",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-06T04:33:02.271Z",
       "geo": "KR",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "schd",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-10T02:28:52.528Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "진양곤",
+          "score": 100
+        },
+        {
+          "keyword": "디지털배움터",
+          "score": 99
+        },
+        {
+          "keyword": "서울국제도서전",
+          "score": 98
+        },
+        {
+          "keyword": "국가유산청",
+          "score": 97
+        },
+        {
+          "keyword": "세미티에스",
+          "score": 96
+        },
+        {
+          "keyword": "통계청",
+          "score": 95
+        },
+        {
+          "keyword": "mythos",
+          "score": 94
+        },
+        {
+          "keyword": "argentina vs iceland",
+          "score": 93
+        },
+        {
+          "keyword": "클로드 fable 5",
+          "score": 92
+        },
+        {
+          "keyword": "뇌물",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-06T00:03:38.139Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "final fantasy vii revelation",
-          "score": 100
-        },
-        {
-          "keyword": "進撃の巨人3",
-          "score": 99
-        },
-        {
-          "keyword": "stellar blade",
-          "score": 98
-        },
-        {
-          "keyword": "日プ新世界 ファイナル",
-          "score": 97
-        },
-        {
-          "keyword": "熱海",
-          "score": 96
-        },
-        {
-          "keyword": "藤井隆",
-          "score": 95
-        },
-        {
-          "keyword": "カプコン",
-          "score": 94
-        },
-        {
-          "keyword": "工藤 静香",
-          "score": 93
-        },
-        {
-          "keyword": "ガンダム ローグ オービット",
-          "score": 92
-        },
-        {
-          "keyword": "イケア",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-06T04:33:03.471Z",
       "geo": "JP",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "労働災害",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-10T02:28:53.757Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "トキ",
+          "score": 100
+        },
+        {
+          "keyword": "中島翔哉",
+          "score": 99
+        },
+        {
+          "keyword": "ジャイアンツ 対 ナショナルズ",
+          "score": 98
+        },
+        {
+          "keyword": "中山美穂",
+          "score": 97
+        },
+        {
+          "keyword": "mythos",
+          "score": 96
+        },
+        {
+          "keyword": "アルゼンチン 対 アイスランド",
+          "score": 95
+        },
+        {
+          "keyword": "argentina vs iceland",
+          "score": 94
+        },
+        {
+          "keyword": "マックス・マンシー",
+          "score": 93
+        },
+        {
+          "keyword": "サッカーダイジェスト",
+          "score": 92
+        },
+        {
+          "keyword": "公立学校",
           "score": 91
         }
       ]
