@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-06T23:57:49.761Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ディズニーオンアイス",
-          "score": 100
-        },
-        {
-          "keyword": "ファミリーマート",
-          "score": 99
-        },
-        {
-          "keyword": "純烈",
-          "score": 98
-        },
-        {
-          "keyword": "モナキ",
-          "score": 97
-        },
-        {
-          "keyword": "アルゼンチン 対 ホンジュラス",
-          "score": 96
-        },
-        {
-          "keyword": "ネパール",
-          "score": 95
-        },
-        {
-          "keyword": "argentina vs honduras",
-          "score": 94
-        },
-        {
-          "keyword": "大野雄二",
-          "score": 93
-        },
-        {
-          "keyword": "レンジャーズ 対 ガーディアンズ",
-          "score": 92
-        },
-        {
-          "keyword": "しなこ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-07T03:30:17.392Z",
       "geo": "JP",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "三菱重工業",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-11T02:38:36.737Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ベルギー",
+          "score": 100
+        },
+        {
+          "keyword": "大谷翔平",
+          "score": 99
+        },
+        {
+          "keyword": "nba",
+          "score": 98
+        },
+        {
+          "keyword": "アスレチックス 対 ブルワーズ",
+          "score": 97
+        },
+        {
+          "keyword": "佐田真由美",
+          "score": 96
+        },
+        {
+          "keyword": "box",
+          "score": 95
+        },
+        {
+          "keyword": "ライアン・ウォード",
+          "score": 94
+        },
+        {
+          "keyword": "ニックス 対 スパーズ",
+          "score": 93
+        },
+        {
+          "keyword": "池谷のぶえ",
+          "score": 92
+        },
+        {
+          "keyword": "ジブリ作品",
           "score": 91
         }
       ]
