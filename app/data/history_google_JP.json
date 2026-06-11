@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-07T21:41:48.633Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "weather",
-          "score": 100
-        },
-        {
-          "keyword": "永井大",
-          "score": 99
-        },
-        {
-          "keyword": "ブルームバーグ",
-          "score": 98
-        },
-        {
-          "keyword": "池田小学校事件",
-          "score": 97
-        },
-        {
-          "keyword": "キムチェウォン",
-          "score": 96
-        },
-        {
-          "keyword": "ドジャース 対 エンゼルス 試合 選手データ",
-          "score": 95
-        },
-        {
-          "keyword": "中田英寿",
-          "score": 94
-        },
-        {
-          "keyword": "田口真彩",
-          "score": 93
-        },
-        {
-          "keyword": "岡田 克也",
-          "score": 92
-        },
-        {
-          "keyword": "中間淳太",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-06-07T22:54:05.907Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "鈴木ザイオン",
-          "score": 100
-        },
-        {
-          "keyword": "モロッコ代表",
-          "score": 99
-        },
-        {
-          "keyword": "gmo",
-          "score": 98
-        },
-        {
-          "keyword": "甲斐拓也",
-          "score": 97
-        },
-        {
-          "keyword": "ラオス洞窟",
-          "score": 96
-        },
-        {
-          "keyword": "大井川鐵道井川線",
-          "score": 95
-        },
-        {
-          "keyword": "10 回 切っ て 倒れ ない 木 は ない",
-          "score": 94
-        },
-        {
-          "keyword": "ピエール ガスリー",
-          "score": 93
-        },
-        {
-          "keyword": "ホルヘ・マルティン",
-          "score": 92
-        },
-        {
-          "keyword": "坂井真紀",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-07T23:58:21.013Z",
       "geo": "JP",
       "source": "google",
@@ -1549,6 +1455,53 @@
         },
         {
           "keyword": "フアン・ソト",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-11T23:01:15.686Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "オリオールズ 対 マリナーズ",
+          "score": 100
+        },
+        {
+          "keyword": "新橋 火事",
+          "score": 99
+        },
+        {
+          "keyword": "赤沢亮正",
+          "score": 98
+        },
+        {
+          "keyword": "税額控除",
+          "score": 97
+        },
+        {
+          "keyword": "日本選手権陸上",
+          "score": 96
+        },
+        {
+          "keyword": "ゴッホ",
+          "score": 95
+        },
+        {
+          "keyword": "安住 紳一郎",
+          "score": 94
+        },
+        {
+          "keyword": "ラピダス",
+          "score": 93
+        },
+        {
+          "keyword": "名探偵プリキュア!",
+          "score": 92
+        },
+        {
+          "keyword": "原田葵",
           "score": 91
         }
       ]
