@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-07T03:30:17.392Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "石川遼",
-          "score": 100
-        },
-        {
-          "keyword": "田中圭",
-          "score": 99
-        },
-        {
-          "keyword": "中川安奈",
-          "score": 98
-        },
-        {
-          "keyword": "めるる",
-          "score": 97
-        },
-        {
-          "keyword": "準 学士",
-          "score": 96
-        },
-        {
-          "keyword": "今井アンジェリカ",
-          "score": 95
-        },
-        {
-          "keyword": "アレックス・フリーランド",
-          "score": 94
-        },
-        {
-          "keyword": "ジョドレルバンク",
-          "score": 93
-        },
-        {
-          "keyword": "マイク・トラウト",
-          "score": 92
-        },
-        {
-          "keyword": "梅宮 アンナ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-07T07:41:42.515Z",
       "geo": "JP",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "ジブリ作品",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-11T07:21:52.879Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "クマ",
+          "score": 100
+        },
+        {
+          "keyword": "モンストニュース",
+          "score": 99
+        },
+        {
+          "keyword": "肺炎",
+          "score": 98
+        },
+        {
+          "keyword": "プロ野球監督",
+          "score": 97
+        },
+        {
+          "keyword": "愛媛新聞",
+          "score": 96
+        },
+        {
+          "keyword": "天皇",
+          "score": 95
+        },
+        {
+          "keyword": "具志堅用高",
+          "score": 94
+        },
+        {
+          "keyword": "常磐線",
+          "score": 93
+        },
+        {
+          "keyword": "輪島功一",
+          "score": 92
+        },
+        {
+          "keyword": "国際線",
           "score": 91
         }
       ]
