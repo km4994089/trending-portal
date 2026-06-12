@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-07T23:58:21.013Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ジョー・アデル",
-          "score": 100
-        },
-        {
-          "keyword": "経済",
-          "score": 99
-        },
-        {
-          "keyword": "中央線",
-          "score": 98
-        },
-        {
-          "keyword": "ダルトン・ラッシング",
-          "score": 97
-        },
-        {
-          "keyword": "保育士",
-          "score": 96
-        },
-        {
-          "keyword": "カーソン・ベンジ",
-          "score": 95
-        },
-        {
-          "keyword": "シカゴ・カブス",
-          "score": 94
-        },
-        {
-          "keyword": "ドジャース",
-          "score": 93
-        },
-        {
-          "keyword": "大野雄二",
-          "score": 92
-        },
-        {
-          "keyword": "小堺一機",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-08T03:45:44.873Z",
       "geo": "JP",
       "source": "google",
@@ -1502,6 +1455,53 @@
         },
         {
           "keyword": "原田葵",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-12T01:41:57.118Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ミゲル・ロハス",
+          "score": 100
+        },
+        {
+          "keyword": "李在成",
+          "score": 99
+        },
+        {
+          "keyword": "韓国",
+          "score": 98
+        },
+        {
+          "keyword": "楽天証券 スペースx ipo",
+          "score": 97
+        },
+        {
+          "keyword": "大谷ホームラン",
+          "score": 96
+        },
+        {
+          "keyword": "ロケットニュース",
+          "score": 95
+        },
+        {
+          "keyword": "時価総額ランキング",
+          "score": 94
+        },
+        {
+          "keyword": "ウィル・クライン",
+          "score": 93
+        },
+        {
+          "keyword": "ピッツバーグ",
+          "score": 92
+        },
+        {
+          "keyword": "マジカルシークレットツアー",
           "score": 91
         }
       ]
