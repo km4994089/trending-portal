@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-08T16:45:16.678Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "네타냐후",
-          "score": 100
-        },
-        {
-          "keyword": "netherlands vs usa",
-          "score": 99
-        },
-        {
-          "keyword": "오마이 뉴스",
-          "score": 98
-        },
-        {
-          "keyword": "골드만삭스",
-          "score": 97
-        },
-        {
-          "keyword": "유학생",
-          "score": 96
-        },
-        {
-          "keyword": "렉서스",
-          "score": 95
-        },
-        {
-          "keyword": "광화문광장",
-          "score": 94
-        },
-        {
-          "keyword": "신태용",
-          "score": 93
-        },
-        {
-          "keyword": "강기정",
-          "score": 92
-        },
-        {
-          "keyword": "송이",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-08T19:14:33.674Z",
       "geo": "KR",
       "source": "google",
@@ -1549,6 +1502,53 @@
         },
         {
           "keyword": "박남정",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-12T18:57:45.225Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "보스니아",
+          "score": 100
+        },
+        {
+          "keyword": "샌디스크 주가",
+          "score": 99
+        },
+        {
+          "keyword": "테슬라 주가",
+          "score": 98
+        },
+        {
+          "keyword": "대한민국 교육부",
+          "score": 97
+        },
+        {
+          "keyword": "문채원",
+          "score": 96
+        },
+        {
+          "keyword": "주한 미군",
+          "score": 95
+        },
+        {
+          "keyword": "한진만",
+          "score": 94
+        },
+        {
+          "keyword": "육아",
+          "score": 93
+        },
+        {
+          "keyword": "성동일",
+          "score": 92
+        },
+        {
+          "keyword": "한학자",
           "score": 91
         }
       ]
