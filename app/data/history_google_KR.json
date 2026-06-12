@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-08T12:57:26.364Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "통화",
-          "score": 100
-        },
-        {
-          "keyword": "중대범죄수사청",
-          "score": 99
-        },
-        {
-          "keyword": "야간선물",
-          "score": 98
-        },
-        {
-          "keyword": "세종사이버대학교",
-          "score": 97
-        },
-        {
-          "keyword": "민주노동조합총연맹",
-          "score": 96
-        },
-        {
-          "keyword": "유병재",
-          "score": 95
-        },
-        {
-          "keyword": "참교육",
-          "score": 94
-        },
-        {
-          "keyword": "급발진",
-          "score": 93
-        },
-        {
-          "keyword": "나경원",
-          "score": 92
-        },
-        {
-          "keyword": "황승언",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-08T16:45:16.678Z",
       "geo": "KR",
       "source": "google",
@@ -1502,6 +1455,53 @@
         },
         {
           "keyword": "ssg 대 삼성",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-12T13:57:18.888Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "bts come over",
+          "score": 100
+        },
+        {
+          "keyword": "조민아",
+          "score": 99
+        },
+        {
+          "keyword": "식중독",
+          "score": 98
+        },
+        {
+          "keyword": "서울 경전철 강북횡단선",
+          "score": 97
+        },
+        {
+          "keyword": "lck",
+          "score": 96
+        },
+        {
+          "keyword": "서울사이버대학교",
+          "score": 95
+        },
+        {
+          "keyword": "천궁",
+          "score": 94
+        },
+        {
+          "keyword": "투표용지",
+          "score": 93
+        },
+        {
+          "keyword": "병사",
+          "score": 92
+        },
+        {
+          "keyword": "선거위원회",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-08T12:57:25.280Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "eve hewson",
-          "score": 100
-        },
-        {
-          "keyword": "amy adams",
-          "score": 99
-        },
-        {
-          "keyword": "detroit",
-          "score": 98
-        },
-        {
-          "keyword": "big rock tournament",
-          "score": 97
-        },
-        {
-          "keyword": "jessica tisch",
-          "score": 96
-        },
-        {
-          "keyword": "rush",
-          "score": 95
-        },
-        {
-          "keyword": "flight attendant",
-          "score": 94
-        },
-        {
-          "keyword": "martin landaluce",
-          "score": 93
-        },
-        {
-          "keyword": "hsbc championships",
-          "score": 92
-        },
-        {
-          "keyword": "alice and steve",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-08T16:45:15.676Z",
       "geo": "US",
       "source": "google",
@@ -1502,6 +1455,53 @@
         },
         {
           "keyword": "karley swindel",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-12T13:57:17.835Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "downdetector",
+          "score": 100
+        },
+        {
+          "keyword": "tsla",
+          "score": 99
+        },
+        {
+          "keyword": "spce stock",
+          "score": 98
+        },
+        {
+          "keyword": "nauru",
+          "score": 97
+        },
+        {
+          "keyword": "nyse",
+          "score": 96
+        },
+        {
+          "keyword": "nasa stock",
+          "score": 95
+        },
+        {
+          "keyword": "charles schwab",
+          "score": 94
+        },
+        {
+          "keyword": "cnbc",
+          "score": 93
+        },
+        {
+          "keyword": "rebecca hall",
+          "score": 92
+        },
+        {
+          "keyword": "spx stock",
           "score": 91
         }
       ]
