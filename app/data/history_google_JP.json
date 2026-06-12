@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-08T21:20:12.691Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "スペースx",
-          "score": 100
-        },
-        {
-          "keyword": "埼玉パナソニックワイルドナイツ",
-          "score": 99
-        },
-        {
-          "keyword": "フリーレン",
-          "score": 98
-        },
-        {
-          "keyword": "ウクライナ軍",
-          "score": 97
-        },
-        {
-          "keyword": "日本マクドナルドホールディングス",
-          "score": 96
-        },
-        {
-          "keyword": "岩崎良美",
-          "score": 95
-        },
-        {
-          "keyword": "立命館大学",
-          "score": 94
-        },
-        {
-          "keyword": "今日の天気",
-          "score": 93
-        },
-        {
-          "keyword": "s&p 500",
-          "score": 92
-        },
-        {
-          "keyword": "フィラデルフィア半導体株指数",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-08T22:53:51.647Z",
       "geo": "JP",
       "source": "google",
@@ -1549,6 +1502,53 @@
         },
         {
           "keyword": "円相場",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-12T22:26:27.157Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "yena",
+          "score": 100
+        },
+        {
+          "keyword": "パイレーツ 対 マーリンズ",
+          "score": 99
+        },
+        {
+          "keyword": "日本 ホテル 協会",
+          "score": 98
+        },
+        {
+          "keyword": "schd",
+          "score": 97
+        },
+        {
+          "keyword": "ベルナルド シウバ",
+          "score": 96
+        },
+        {
+          "keyword": "開戦 前夜",
+          "score": 95
+        },
+        {
+          "keyword": "ラピダス",
+          "score": 94
+        },
+        {
+          "keyword": "後藤久美子",
+          "score": 93
+        },
+        {
+          "keyword": "手越祐也",
+          "score": 92
+        },
+        {
+          "keyword": "鈴木 誠也 ドジャース",
           "score": 91
         }
       ]
