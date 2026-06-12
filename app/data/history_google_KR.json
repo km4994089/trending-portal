@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-08T08:44:35.601Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "신봉선",
-          "score": 100
-        },
-        {
-          "keyword": "삼성자산운용",
-          "score": 99
-        },
-        {
-          "keyword": "박지연",
-          "score": 98
-        },
-        {
-          "keyword": "최혁진",
-          "score": 97
-        },
-        {
-          "keyword": "현정화",
-          "score": 96
-        },
-        {
-          "keyword": "푸조",
-          "score": 95
-        },
-        {
-          "keyword": "국민연금공단",
-          "score": 94
-        },
-        {
-          "keyword": "이하늘",
-          "score": 93
-        },
-        {
-          "keyword": "그랜드 테프트 오토 vi",
-          "score": 92
-        },
-        {
-          "keyword": "대한민국 경찰청",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-08T12:57:26.364Z",
       "geo": "KR",
       "source": "google",
@@ -1502,6 +1455,53 @@
         },
         {
           "keyword": "fifa world cup standings",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-12T10:45:23.292Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "파업",
+          "score": 100
+        },
+        {
+          "keyword": "엘앤에프",
+          "score": 99
+        },
+        {
+          "keyword": "홈플러스 익스프레스",
+          "score": 98
+        },
+        {
+          "keyword": "장윤정",
+          "score": 97
+        },
+        {
+          "keyword": "부산 북항야구장",
+          "score": 96
+        },
+        {
+          "keyword": "세종특별자치시",
+          "score": 95
+        },
+        {
+          "keyword": "이필립",
+          "score": 94
+        },
+        {
+          "keyword": "두산 대 kia",
+          "score": 93
+        },
+        {
+          "keyword": "한화 대 키움",
+          "score": 92
+        },
+        {
+          "keyword": "ssg 대 삼성",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-08T08:44:34.301Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "杭州天气",
-          "score": 100
-        },
-        {
-          "keyword": "heat advisory",
-          "score": 99
-        },
-        {
-          "keyword": "real estate",
-          "score": 98
-        },
-        {
-          "keyword": "mandalorian and grogu box office",
-          "score": 97
-        },
-        {
-          "keyword": "financial company",
-          "score": 96
-        },
-        {
-          "keyword": "stephen wilson jr",
-          "score": 95
-        },
-        {
-          "keyword": "sam cozart",
-          "score": 94
-        },
-        {
-          "keyword": "hardy",
-          "score": 93
-        },
-        {
-          "keyword": "nifty 50",
-          "score": 92
-        },
-        {
-          "keyword": "cardi b",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-08T12:57:25.280Z",
       "geo": "US",
       "source": "google",
@@ -1502,6 +1455,53 @@
         },
         {
           "keyword": "conor mcgregor",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-12T10:45:21.785Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "estados unidos",
+          "score": 100
+        },
+        {
+          "keyword": "foster care",
+          "score": 99
+        },
+        {
+          "keyword": "xbox status",
+          "score": 98
+        },
+        {
+          "keyword": "elena rybakina",
+          "score": 97
+        },
+        {
+          "keyword": "katie boulter",
+          "score": 96
+        },
+        {
+          "keyword": "delta airlines",
+          "score": 95
+        },
+        {
+          "keyword": "mormons",
+          "score": 94
+        },
+        {
+          "keyword": "gwynne shotwell",
+          "score": 93
+        },
+        {
+          "keyword": "aviso de calor",
+          "score": 92
+        },
+        {
+          "keyword": "karley swindel",
           "score": 91
         }
       ]
