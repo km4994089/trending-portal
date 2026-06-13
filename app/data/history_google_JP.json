@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-09T06:39:46.963Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "熊",
-          "score": 100
-        },
-        {
-          "keyword": "フィラデルフィア・フィリーズ",
-          "score": 99
-        },
-        {
-          "keyword": "あいりん総合センター",
-          "score": 98
-        },
-        {
-          "keyword": "インド",
-          "score": 97
-        },
-        {
-          "keyword": "nvidia rtx",
-          "score": 96
-        },
-        {
-          "keyword": "利上げ",
-          "score": 95
-        },
-        {
-          "keyword": "エルニーニョ",
-          "score": 94
-        },
-        {
-          "keyword": "イーサン スレイター",
-          "score": 93
-        },
-        {
-          "keyword": "リオネル・メッシ",
-          "score": 92
-        },
-        {
-          "keyword": "ヤマトホールディングス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-09T10:27:24.709Z",
       "geo": "JP",
       "source": "google",
@@ -1549,6 +1502,53 @@
         },
         {
           "keyword": "杉浦 太陽",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-13T07:09:29.354Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "小林幸子",
+          "score": 100
+        },
+        {
+          "keyword": "愛知県高校野球",
+          "score": 99
+        },
+        {
+          "keyword": "デコピン",
+          "score": 98
+        },
+        {
+          "keyword": "bs10",
+          "score": 97
+        },
+        {
+          "keyword": "槙野智章",
+          "score": 96
+        },
+        {
+          "keyword": "ヤマル",
+          "score": 95
+        },
+        {
+          "keyword": "anthropic",
+          "score": 94
+        },
+        {
+          "keyword": "永井花奈",
+          "score": 93
+        },
+        {
+          "keyword": "経済政策",
+          "score": 92
+        },
+        {
+          "keyword": "塩見泰隆",
           "score": 91
         }
       ]
