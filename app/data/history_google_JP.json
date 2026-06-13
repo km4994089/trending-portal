@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-09T23:47:51.086Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "中越典子",
-          "score": 100
-        },
-        {
-          "keyword": "ロイヤルズ 対 レンジャーズ",
-          "score": 99
-        },
-        {
-          "keyword": "ルパン三世",
-          "score": 98
-        },
-        {
-          "keyword": "風薫る キャスト",
-          "score": 97
-        },
-        {
-          "keyword": "ブライアン・レイノルズ",
-          "score": 96
-        },
-        {
-          "keyword": "メッツ 対 カージナルス",
-          "score": 95
-        },
-        {
-          "keyword": "エリック・ラウアー",
-          "score": 94
-        },
-        {
-          "keyword": "赤ちゃん ケーキ",
-          "score": 93
-        },
-        {
-          "keyword": "村上穂乃佳",
-          "score": 92
-        },
-        {
-          "keyword": "労働災害",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-10T02:28:53.757Z",
       "geo": "JP",
       "source": "google",
@@ -1690,6 +1643,53 @@
         },
         {
           "keyword": "スポーツナビ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-13T23:58:19.235Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ロイヤルズ 対 アストロズ",
+          "score": 100
+        },
+        {
+          "keyword": "中村俊輔",
+          "score": 99
+        },
+        {
+          "keyword": "北澤豪",
+          "score": 98
+        },
+        {
+          "keyword": "ハイドレーションブレイク",
+          "score": 97
+        },
+        {
+          "keyword": "大谷翔平 成績",
+          "score": 96
+        },
+        {
+          "keyword": "ブルワーズ 対 フィリーズ",
+          "score": 95
+        },
+        {
+          "keyword": "中山秀征",
+          "score": 94
+        },
+        {
+          "keyword": "大谷翔平",
+          "score": 93
+        },
+        {
+          "keyword": "鄭大世",
+          "score": 92
+        },
+        {
+          "keyword": "本田太郎",
           "score": 91
         }
       ]
