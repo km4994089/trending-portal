@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-09T20:24:32.367Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "バレーボール",
-          "score": 100
-        },
-        {
-          "keyword": "吉野家 メニュー",
-          "score": 99
-        },
-        {
-          "keyword": "藤澤五月",
-          "score": 98
-        },
-        {
-          "keyword": "松本 潤",
-          "score": 97
-        },
-        {
-          "keyword": "星座",
-          "score": 96
-        },
-        {
-          "keyword": "高市",
-          "score": 95
-        },
-        {
-          "keyword": "ナスダック100",
-          "score": 94
-        },
-        {
-          "keyword": "オーロラ",
-          "score": 93
-        },
-        {
-          "keyword": "井上一樹",
-          "score": 92
-        },
-        {
-          "keyword": "デーブ・ロバーツ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-09T22:01:29.628Z",
       "geo": "JP",
       "source": "google",
@@ -1643,6 +1596,53 @@
         },
         {
           "keyword": "you",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-13T20:44:28.855Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ムーキー・ベッツ",
+          "score": 100
+        },
+        {
+          "keyword": "qatar vs switzerland",
+          "score": 99
+        },
+        {
+          "keyword": "日韓関係",
+          "score": 98
+        },
+        {
+          "keyword": "三幸製菓",
+          "score": 97
+        },
+        {
+          "keyword": "野村謙二郎",
+          "score": 96
+        },
+        {
+          "keyword": "日本対オランダ",
+          "score": 95
+        },
+        {
+          "keyword": "ガーディアンズ 対 タイガース",
+          "score": 94
+        },
+        {
+          "keyword": "レジェンズツアー",
+          "score": 93
+        },
+        {
+          "keyword": "番組表",
+          "score": 92
+        },
+        {
+          "keyword": "渡邊渚",
           "score": 91
         }
       ]
