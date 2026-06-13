@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-09T18:27:17.640Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nba the run",
-          "score": 100
-        },
-        {
-          "keyword": "carmelo anthony",
-          "score": 99
-        },
-        {
-          "keyword": "julian alvarez",
-          "score": 98
-        },
-        {
-          "keyword": "rock the south",
-          "score": 97
-        },
-        {
-          "keyword": "salesforce layoffs",
-          "score": 96
-        },
-        {
-          "keyword": "armenia vs moldova",
-          "score": 95
-        },
-        {
-          "keyword": "mgk",
-          "score": 94
-        },
-        {
-          "keyword": "dr congo vs chile",
-          "score": 93
-        },
-        {
-          "keyword": "new sunscreen ingredient bemt",
-          "score": 92
-        },
-        {
-          "keyword": "argentina vs france",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-09T20:24:30.043Z",
       "geo": "US",
       "source": "google",
@@ -1643,6 +1596,53 @@
         },
         {
           "keyword": "sheetz",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-13T19:07:15.837Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "yankees - blue jays",
+          "score": 100
+        },
+        {
+          "keyword": "levi stadium",
+          "score": 99
+        },
+        {
+          "keyword": "san francisco weather",
+          "score": 98
+        },
+        {
+          "keyword": "gregor kobel",
+          "score": 97
+        },
+        {
+          "keyword": "ivan herrera",
+          "score": 96
+        },
+        {
+          "keyword": "rubén vargas",
+          "score": 95
+        },
+        {
+          "keyword": "ricardo rodriguez",
+          "score": 94
+        },
+        {
+          "keyword": "ot7 football",
+          "score": 93
+        },
+        {
+          "keyword": "qatar vs suiza",
+          "score": 92
+        },
+        {
+          "keyword": "xbox spin off potential",
           "score": 91
         }
       ]
