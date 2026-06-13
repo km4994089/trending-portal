@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-09T16:15:00.690Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "조훈",
-          "score": 100
-        },
-        {
-          "keyword": "gta6",
-          "score": 99
-        },
-        {
-          "keyword": "롯데백화점 인천점",
-          "score": 98
-        },
-        {
-          "keyword": "한국경제tv",
-          "score": 97
-        },
-        {
-          "keyword": "소상공인연합회",
-          "score": 96
-        },
-        {
-          "keyword": "관악구",
-          "score": 95
-        },
-        {
-          "keyword": "성유리",
-          "score": 94
-        },
-        {
-          "keyword": "덴비",
-          "score": 93
-        },
-        {
-          "keyword": "시국선언",
-          "score": 92
-        },
-        {
-          "keyword": "행복주택",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-09T18:27:18.811Z",
       "geo": "KR",
       "source": "google",
@@ -1643,6 +1596,53 @@
         },
         {
           "keyword": "이안",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-13T17:50:23.308Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "발롱도르",
+          "score": 100
+        },
+        {
+          "keyword": "열차",
+          "score": 99
+        },
+        {
+          "keyword": "f1",
+          "score": 98
+        },
+        {
+          "keyword": "정채연",
+          "score": 97
+        },
+        {
+          "keyword": "ioi",
+          "score": 96
+        },
+        {
+          "keyword": "그릴즈",
+          "score": 95
+        },
+        {
+          "keyword": "초안산",
+          "score": 94
+        },
+        {
+          "keyword": "기생충",
+          "score": 93
+        },
+        {
+          "keyword": "불꽃놀이",
+          "score": 92
+        },
+        {
+          "keyword": "한국 영화",
           "score": 91
         }
       ]
