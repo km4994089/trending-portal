@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-09T13:22:14.637Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "taylor sheridan",
-          "score": 100
-        },
-        {
-          "keyword": "joel bitonio",
-          "score": 99
-        },
-        {
-          "keyword": "patrick wilson",
-          "score": 98
-        },
-        {
-          "keyword": "reiner family trust dispute",
-          "score": 97
-        },
-        {
-          "keyword": "josh o'connor",
-          "score": 96
-        },
-        {
-          "keyword": "jodie turner-smith",
-          "score": 95
-        },
-        {
-          "keyword": "hugh jackman",
-          "score": 94
-        },
-        {
-          "keyword": "nintendo direct time",
-          "score": 93
-        },
-        {
-          "keyword": "jenson brooksby",
-          "score": 92
-        },
-        {
-          "keyword": "flood damage restoration",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-09T16:14:59.409Z",
       "geo": "US",
       "source": "google",
@@ -1596,6 +1549,53 @@
         },
         {
           "keyword": "scotland vs haiti",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-13T14:34:11.420Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "pocono raceway",
+          "score": 100
+        },
+        {
+          "keyword": "jiri lehecka",
+          "score": 99
+        },
+        {
+          "keyword": "lluvia",
+          "score": 98
+        },
+        {
+          "keyword": "apple tv",
+          "score": 97
+        },
+        {
+          "keyword": "alain delon",
+          "score": 96
+        },
+        {
+          "keyword": "lamelo ball",
+          "score": 95
+        },
+        {
+          "keyword": "ketv weather",
+          "score": 94
+        },
+        {
+          "keyword": "knicks watch party",
+          "score": 93
+        },
+        {
+          "keyword": "robin montgomery",
+          "score": 92
+        },
+        {
+          "keyword": "knicks watch party game 5",
           "score": 91
         }
       ]

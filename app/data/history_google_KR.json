@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-09T13:22:16.204Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "박현주",
-          "score": 100
-        },
-        {
-          "keyword": "신용보증재단중앙회",
-          "score": 99
-        },
-        {
-          "keyword": "양도",
-          "score": 98
-        },
-        {
-          "keyword": "f-35a",
-          "score": 97
-        },
-        {
-          "keyword": "จีน พบ ไทย",
-          "score": 96
-        },
-        {
-          "keyword": "서울 날씨",
-          "score": 95
-        },
-        {
-          "keyword": "곽튜브",
-          "score": 94
-        },
-        {
-          "keyword": "fifa 월드컵 2026",
-          "score": 93
-        },
-        {
-          "keyword": "아워홈",
-          "score": 92
-        },
-        {
-          "keyword": "당구",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-09T16:15:00.690Z",
       "geo": "KR",
       "source": "google",
@@ -1596,6 +1549,53 @@
         },
         {
           "keyword": "기성용",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-13T14:34:12.744Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "한국 영화",
+          "score": 100
+        },
+        {
+          "keyword": "르망24",
+          "score": 99
+        },
+        {
+          "keyword": "신입사원 강회장",
+          "score": 98
+        },
+        {
+          "keyword": "wec",
+          "score": 97
+        },
+        {
+          "keyword": "afg vs ind",
+          "score": 96
+        },
+        {
+          "keyword": "이안",
+          "score": 95
+        },
+        {
+          "keyword": "김용임",
+          "score": 94
+        },
+        {
+          "keyword": "홀란드",
+          "score": 93
+        },
+        {
+          "keyword": "최저임금위원회",
+          "score": 92
+        },
+        {
+          "keyword": "용인반도체클러스터",
           "score": 91
         }
       ]
