@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-10T02:28:53.757Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "トキ",
-          "score": 100
-        },
-        {
-          "keyword": "中島翔哉",
-          "score": 99
-        },
-        {
-          "keyword": "ジャイアンツ 対 ナショナルズ",
-          "score": 98
-        },
-        {
-          "keyword": "中山美穂",
-          "score": 97
-        },
-        {
-          "keyword": "mythos",
-          "score": 96
-        },
-        {
-          "keyword": "アルゼンチン 対 アイスランド",
-          "score": 95
-        },
-        {
-          "keyword": "argentina vs iceland",
-          "score": 94
-        },
-        {
-          "keyword": "マックス・マンシー",
-          "score": 93
-        },
-        {
-          "keyword": "サッカーダイジェスト",
-          "score": 92
-        },
-        {
-          "keyword": "公立学校",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-10T06:48:35.432Z",
       "geo": "JP",
       "source": "google",
@@ -1690,6 +1643,53 @@
         },
         {
           "keyword": "本田太郎",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-14T03:45:30.024Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ジェイレン・ブランソン",
+          "score": 100
+        },
+        {
+          "keyword": "エフフォーリア",
+          "score": 99
+        },
+        {
+          "keyword": "山本里菜",
+          "score": 98
+        },
+        {
+          "keyword": "东京 商工リサーチ",
+          "score": 97
+        },
+        {
+          "keyword": "琉球ゴールデンキングス",
+          "score": 96
+        },
+        {
+          "keyword": "マリウス ボルグ ホイビー",
+          "score": 95
+        },
+        {
+          "keyword": "ボビーオロゴン",
+          "score": 94
+        },
+        {
+          "keyword": "工藤静香",
+          "score": 93
+        },
+        {
+          "keyword": "オーストラリア 対 トルコ",
+          "score": 92
+        },
+        {
+          "keyword": "ダイナマイク",
           "score": 91
         }
       ]
