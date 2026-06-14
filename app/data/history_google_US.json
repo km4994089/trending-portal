@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-10T20:10:50.774Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "smci stock",
-          "score": 100
-        },
-        {
-          "keyword": "chicago weather",
-          "score": 99
-        },
-        {
-          "keyword": "orcl stock",
-          "score": 98
-        },
-        {
-          "keyword": "milwaukee weather",
-          "score": 97
-        },
-        {
-          "keyword": "portugal fc",
-          "score": 96
-        },
-        {
-          "keyword": "fox sports",
-          "score": 95
-        },
-        {
-          "keyword": "grand jury",
-          "score": 94
-        },
-        {
-          "keyword": "caleb durbin",
-          "score": 93
-        },
-        {
-          "keyword": "is there love island tonight",
-          "score": 92
-        },
-        {
-          "keyword": "tornado watch",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-10T22:23:15.069Z",
       "geo": "US",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "mundial 2026 partidos",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-14T21:48:13.291Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jurrien timber",
+          "score": 100
+        },
+        {
+          "keyword": "sam williams-dixon",
+          "score": 99
+        },
+        {
+          "keyword": "suriname",
+          "score": 98
+        },
+        {
+          "keyword": "ifc",
+          "score": 97
+        },
+        {
+          "keyword": "wyndham clark",
+          "score": 96
+        },
+        {
+          "keyword": "trump approval",
+          "score": 95
+        },
+        {
+          "keyword": "nara organics formula",
+          "score": 94
+        },
+        {
+          "keyword": "jose caballero",
+          "score": 93
+        },
+        {
+          "keyword": "ben rice",
+          "score": 92
+        },
+        {
+          "keyword": "nascar standings",
           "score": 91
         }
       ]
