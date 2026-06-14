@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-10T22:23:15.069Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "airport",
-          "score": 100
-        },
-        {
-          "keyword": "southern baptists vote to advance a formal ban on churches with women pastors",
-          "score": 99
-        },
-        {
-          "keyword": "gwyneth paltrow",
-          "score": 98
-        },
-        {
-          "keyword": "catherine, princess of wales",
-          "score": 97
-        },
-        {
-          "keyword": "aaron brewer",
-          "score": 96
-        },
-        {
-          "keyword": "federal bureau of investigation",
-          "score": 95
-        },
-        {
-          "keyword": "aj epenesa",
-          "score": 94
-        },
-        {
-          "keyword": "louisiana v. callais",
-          "score": 93
-        },
-        {
-          "keyword": "spotify outage",
-          "score": 92
-        },
-        {
-          "keyword": "high meadow student emergency",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-10T23:53:28.352Z",
       "geo": "US",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "nascar standings",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-14T22:58:50.121Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "bruno mars",
+          "score": 100
+        },
+        {
+          "keyword": "ireland",
+          "score": 99
+        },
+        {
+          "keyword": "wawa",
+          "score": 98
+        },
+        {
+          "keyword": "house of the dragon",
+          "score": 97
+        },
+        {
+          "keyword": "alan franco",
+          "score": 96
+        },
+        {
+          "keyword": "philadelphia",
+          "score": 95
+        },
+        {
+          "keyword": "duquesne light",
+          "score": 94
+        },
+        {
+          "keyword": "joel ordóñez",
+          "score": 93
+        },
+        {
+          "keyword": "piero hincapié",
+          "score": 92
+        },
+        {
+          "keyword": "antonio valencia",
           "score": 91
         }
       ]
