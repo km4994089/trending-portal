@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-10T14:17:41.957Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "fisa",
-          "score": 100
-        },
-        {
-          "keyword": "colorado",
-          "score": 99
-        },
-        {
-          "keyword": "john starks",
-          "score": 98
-        },
-        {
-          "keyword": "ticketmaster",
-          "score": 97
-        },
-        {
-          "keyword": "astronaut",
-          "score": 96
-        },
-        {
-          "keyword": "world cup bracket",
-          "score": 95
-        },
-        {
-          "keyword": "the social reckoning",
-          "score": 94
-        },
-        {
-          "keyword": "upgraded ukraine drone capabilities",
-          "score": 93
-        },
-        {
-          "keyword": "data center",
-          "score": 92
-        },
-        {
-          "keyword": "secure america act",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-10T17:40:18.386Z",
       "geo": "US",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "formula 1",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-14T15:22:50.212Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "brooks koepka",
+          "score": 100
+        },
+        {
+          "keyword": "ufc card tonight",
+          "score": 99
+        },
+        {
+          "keyword": "kim kardashian",
+          "score": 98
+        },
+        {
+          "keyword": "netherlands world cup",
+          "score": 97
+        },
+        {
+          "keyword": "nico rosberg",
+          "score": 96
+        },
+        {
+          "keyword": "f1 driver standings",
+          "score": 95
+        },
+        {
+          "keyword": "lando norris",
+          "score": 94
+        },
+        {
+          "keyword": "fernando alonso",
+          "score": 93
+        },
+        {
+          "keyword": "alemania vs curazao",
+          "score": 92
+        },
+        {
+          "keyword": "when is prime day",
           "score": 91
         }
       ]

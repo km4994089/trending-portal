@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-10T14:17:43.379Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "fomc",
-          "score": 100
-        },
-        {
-          "keyword": "hd현대일렉트릭",
-          "score": 99
-        },
-        {
-          "keyword": "gemini 1076 error",
-          "score": 98
-        },
-        {
-          "keyword": "오라클 실적발표",
-          "score": 97
-        },
-        {
-          "keyword": "문가영",
-          "score": 96
-        },
-        {
-          "keyword": "investing",
-          "score": 95
-        },
-        {
-          "keyword": "전유성",
-          "score": 94
-        },
-        {
-          "keyword": "미국 cpi 발표",
-          "score": 93
-        },
-        {
-          "keyword": "유퀴즈",
-          "score": 92
-        },
-        {
-          "keyword": "weather tomorrow",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-10T17:40:19.459Z",
       "geo": "KR",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "채정안",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-14T15:22:51.478Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "현대로템",
+          "score": 100
+        },
+        {
+          "keyword": "제네시스 마그마 레이싱",
+          "score": 99
+        },
+        {
+          "keyword": "미군",
+          "score": 98
+        },
+        {
+          "keyword": "손태영",
+          "score": 97
+        },
+        {
+          "keyword": "jtbc 실시간",
+          "score": 96
+        },
+        {
+          "keyword": "f1",
+          "score": 95
+        },
+        {
+          "keyword": "강회장",
+          "score": 94
+        },
+        {
+          "keyword": "혜리",
+          "score": 93
+        },
+        {
+          "keyword": "한채아",
+          "score": 92
+        },
+        {
+          "keyword": "테일러 프리츠",
           "score": 91
         }
       ]

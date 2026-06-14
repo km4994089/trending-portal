@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-10T14:17:44.836Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "あさイチ",
-          "score": 100
-        },
-        {
-          "keyword": "猪瀬 直樹",
-          "score": 99
-        },
-        {
-          "keyword": "ジャングリア",
-          "score": 98
-        },
-        {
-          "keyword": "毒",
-          "score": 97
-        },
-        {
-          "keyword": "川床明日香",
-          "score": 96
-        },
-        {
-          "keyword": "比江島慎",
-          "score": 95
-        },
-        {
-          "keyword": "マリウポリ港",
-          "score": 94
-        },
-        {
-          "keyword": "スタバ新作",
-          "score": 93
-        },
-        {
-          "keyword": "ファーストサマーウイカ",
-          "score": 92
-        },
-        {
-          "keyword": "田中みな実",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-10T17:40:21.023Z",
       "geo": "JP",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "メグミ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-14T15:22:52.897Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "hulu",
+          "score": 100
+        },
+        {
+          "keyword": "天羽希純",
+          "score": 99
+        },
+        {
+          "keyword": "usa vs netherlands",
+          "score": 98
+        },
+        {
+          "keyword": "ルイスハミルトン",
+          "score": 97
+        },
+        {
+          "keyword": "f1",
+          "score": 96
+        },
+        {
+          "keyword": "ロメウ",
+          "score": 95
+        },
+        {
+          "keyword": "坂東龍汰",
+          "score": 94
+        },
+        {
+          "keyword": "小林可夢偉",
+          "score": 93
+        },
+        {
+          "keyword": "ネイションズバレーボール男子",
+          "score": 92
+        },
+        {
+          "keyword": "森脇梨々夏",
           "score": 91
         }
       ]
