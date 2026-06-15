@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-11T18:39:57.767Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "brian gutiérrez",
-          "score": 100
-        },
-        {
-          "keyword": "raúl jiménez",
-          "score": 99
-        },
-        {
-          "keyword": "世界杯直播",
-          "score": 98
-        },
-        {
-          "keyword": "book",
-          "score": 97
-        },
-        {
-          "keyword": "jay clayton",
-          "score": 96
-        },
-        {
-          "keyword": "ochoa",
-          "score": 95
-        },
-        {
-          "keyword": "lyle foster",
-          "score": 94
-        },
-        {
-          "keyword": "roberto alvarado",
-          "score": 93
-        },
-        {
-          "keyword": "landon donovan",
-          "score": 92
-        },
-        {
-          "keyword": "raúl rangel",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-11T21:11:44.099Z",
       "geo": "US",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "telemundo world cup",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-15T20:21:06.849Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "b2 bomber",
+          "score": 100
+        },
+        {
+          "keyword": "belgium goalkeeper",
+          "score": 99
+        },
+        {
+          "keyword": "مصر و بلجيكا",
+          "score": 98
+        },
+        {
+          "keyword": "elliott abramson",
+          "score": 97
+        },
+        {
+          "keyword": "emma heming willis",
+          "score": 96
+        },
+        {
+          "keyword": "b52 bomber",
+          "score": 95
+        },
+        {
+          "keyword": "love island in theaters",
+          "score": 94
+        },
+        {
+          "keyword": "hamza abdelkarim",
+          "score": 93
+        },
+        {
+          "keyword": "eden hazard",
+          "score": 92
+        },
+        {
+          "keyword": "google earth flight simulator",
           "score": 91
         }
       ]
