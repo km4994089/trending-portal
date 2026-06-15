@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-11T07:21:52.879Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "クマ",
-          "score": 100
-        },
-        {
-          "keyword": "モンストニュース",
-          "score": 99
-        },
-        {
-          "keyword": "肺炎",
-          "score": 98
-        },
-        {
-          "keyword": "プロ野球監督",
-          "score": 97
-        },
-        {
-          "keyword": "愛媛新聞",
-          "score": 96
-        },
-        {
-          "keyword": "天皇",
-          "score": 95
-        },
-        {
-          "keyword": "具志堅用高",
-          "score": 94
-        },
-        {
-          "keyword": "常磐線",
-          "score": 93
-        },
-        {
-          "keyword": "輪島功一",
-          "score": 92
-        },
-        {
-          "keyword": "国際線",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-11T11:52:18.568Z",
       "geo": "JP",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "黒柳徹子",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-15T11:44:35.400Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ソダシ",
+          "score": 100
+        },
+        {
+          "keyword": "東武動物公園",
+          "score": 99
+        },
+        {
+          "keyword": "貫地谷しほり",
+          "score": 98
+        },
+        {
+          "keyword": "モドリッチ",
+          "score": 97
+        },
+        {
+          "keyword": "愛子さま",
+          "score": 96
+        },
+        {
+          "keyword": "あのちゃん",
+          "score": 95
+        },
+        {
+          "keyword": "屋久島",
+          "score": 94
+        },
+        {
+          "keyword": "全日本プロレス",
+          "score": 93
+        },
+        {
+          "keyword": "広島",
+          "score": 92
+        },
+        {
+          "keyword": "川澄 奈穂美",
           "score": 91
         }
       ]
