@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-11T02:38:35.483Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "매일노동뉴스",
-          "score": 100
-        },
-        {
-          "keyword": "aim-120 암람",
-          "score": 99
-        },
-        {
-          "keyword": "서울국제도서전",
-          "score": 98
-        },
-        {
-          "keyword": "박수련",
-          "score": 97
-        },
-        {
-          "keyword": "최성안",
-          "score": 96
-        },
-        {
-          "keyword": "손승원",
-          "score": 95
-        },
-        {
-          "keyword": "knicks vs spurs",
-          "score": 94
-        },
-        {
-          "keyword": "뉴욕 대 샌안토니오",
-          "score": 93
-        },
-        {
-          "keyword": "원혁",
-          "score": 92
-        },
-        {
-          "keyword": "7호선",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-11T07:21:51.541Z",
       "geo": "KR",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "시청률",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-15T05:33:10.960Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "아이유",
+          "score": 100
+        },
+        {
+          "keyword": "영일대 해수욕장",
+          "score": 99
+        },
+        {
+          "keyword": "통영시",
+          "score": 98
+        },
+        {
+          "keyword": "허경민",
+          "score": 97
+        },
+        {
+          "keyword": "아스피날",
+          "score": 96
+        },
+        {
+          "keyword": "kt&g",
+          "score": 95
+        },
+        {
+          "keyword": "함소원",
+          "score": 94
+        },
+        {
+          "keyword": "임현식",
+          "score": 93
+        },
+        {
+          "keyword": "노숙인",
+          "score": 92
+        },
+        {
+          "keyword": "양양",
           "score": 91
         }
       ]
