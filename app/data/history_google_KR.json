@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-10T23:53:29.744Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이정후",
-          "score": 100
-        },
-        {
-          "keyword": "cristiano ronaldo",
-          "score": 99
-        },
-        {
-          "keyword": "2026 월드컵",
-          "score": 98
-        },
-        {
-          "keyword": "민희진",
-          "score": 97
-        },
-        {
-          "keyword": "셀트리온",
-          "score": 96
-        },
-        {
-          "keyword": "netherlands vs canada",
-          "score": 95
-        },
-        {
-          "keyword": "england vs costa rica",
-          "score": 94
-        },
-        {
-          "keyword": "weather",
-          "score": 93
-        },
-        {
-          "keyword": "주차",
-          "score": 92
-        },
-        {
-          "keyword": "수국",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-11T02:38:35.483Z",
       "geo": "KR",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "유가",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-15T00:07:38.027Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ufc freedom 250",
+          "score": 100
+        },
+        {
+          "keyword": "fomc",
+          "score": 99
+        },
+        {
+          "keyword": "mou",
+          "score": 98
+        },
+        {
+          "keyword": "ufc 250",
+          "score": 97
+        },
+        {
+          "keyword": "금시세",
+          "score": 96
+        },
+        {
+          "keyword": "장근석",
+          "score": 95
+        },
+        {
+          "keyword": "wti",
+          "score": 94
+        },
+        {
+          "keyword": "인베스팅닷컴",
+          "score": 93
+        },
+        {
+          "keyword": "코트디부아르 대 에콰도르",
+          "score": 92
+        },
+        {
+          "keyword": "시청률",
           "score": 91
         }
       ]
