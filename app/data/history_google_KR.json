@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-11T23:01:14.047Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "아틀레티코 마드리드",
-          "score": 100
-        },
-        {
-          "keyword": "최화정",
-          "score": 99
-        },
-        {
-          "keyword": "기아",
-          "score": 98
-        },
-        {
-          "keyword": "박해영",
-          "score": 97
-        },
-        {
-          "keyword": "성리",
-          "score": 96
-        },
-        {
-          "keyword": "분산에너지",
-          "score": 95
-        },
-        {
-          "keyword": "염경엽",
-          "score": 94
-        },
-        {
-          "keyword": "야닉 시너",
-          "score": 93
-        },
-        {
-          "keyword": "바둑",
-          "score": 92
-        },
-        {
-          "keyword": "나스닥 100",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-12T01:41:55.939Z",
       "geo": "KR",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "핵융합 발전",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-16T00:22:56.273Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "사우디",
+          "score": 100
+        },
+        {
+          "keyword": "박군",
+          "score": 99
+        },
+        {
+          "keyword": "일본 금리 인상",
+          "score": 98
+        },
+        {
+          "keyword": "페이블 5",
+          "score": 97
+        },
+        {
+          "keyword": "hl만도",
+          "score": 96
+        },
+        {
+          "keyword": "사우디 우루과이",
+          "score": 95
+        },
+        {
+          "keyword": "saudi arabia vs uruguay",
+          "score": 94
+        },
+        {
+          "keyword": "경마",
+          "score": 93
+        },
+        {
+          "keyword": "말자쇼",
+          "score": 92
+        },
+        {
+          "keyword": "광주공항",
           "score": 91
         }
       ]
