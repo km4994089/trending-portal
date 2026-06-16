@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-12T06:24:32.657Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "정몽준",
-          "score": 100
-        },
-        {
-          "keyword": "성심당",
-          "score": 99
-        },
-        {
-          "keyword": "윈터",
-          "score": 98
-        },
-        {
-          "keyword": "축구 순위",
-          "score": 97
-        },
-        {
-          "keyword": "롯데자이언츠",
-          "score": 96
-        },
-        {
-          "keyword": "스페인",
-          "score": 95
-        },
-        {
-          "keyword": "브라질",
-          "score": 94
-        },
-        {
-          "keyword": "퀴라소",
-          "score": 93
-        },
-        {
-          "keyword": "광 통신",
-          "score": 92
-        },
-        {
-          "keyword": "fifa world cup standings",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-06-12T10:45:23.292Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "파업",
-          "score": 100
-        },
-        {
-          "keyword": "엘앤에프",
-          "score": 99
-        },
-        {
-          "keyword": "홈플러스 익스프레스",
-          "score": 98
-        },
-        {
-          "keyword": "장윤정",
-          "score": 97
-        },
-        {
-          "keyword": "부산 북항야구장",
-          "score": 96
-        },
-        {
-          "keyword": "세종특별자치시",
-          "score": 95
-        },
-        {
-          "keyword": "이필립",
-          "score": 94
-        },
-        {
-          "keyword": "두산 대 kia",
-          "score": 93
-        },
-        {
-          "keyword": "한화 대 키움",
-          "score": 92
-        },
-        {
-          "keyword": "ssg 대 삼성",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-12T13:57:18.888Z",
       "geo": "KR",
       "source": "google",
@@ -1784,6 +1690,53 @@
         },
         {
           "keyword": "초복",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-16T10:52:49.115Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "버스",
+          "score": 100
+        },
+        {
+          "keyword": "대중교통",
+          "score": 99
+        },
+        {
+          "keyword": "가온전선",
+          "score": 98
+        },
+        {
+          "keyword": "가요무대",
+          "score": 97
+        },
+        {
+          "keyword": "르나르",
+          "score": 96
+        },
+        {
+          "keyword": "k9 자주포",
+          "score": 95
+        },
+        {
+          "keyword": "광주기아챔피언스필드",
+          "score": 94
+        },
+        {
+          "keyword": "kt 대 두산",
+          "score": 93
+        },
+        {
+          "keyword": "lg 대 kia",
+          "score": 92
+        },
+        {
+          "keyword": "한화 대 nc",
           "score": 91
         }
       ]

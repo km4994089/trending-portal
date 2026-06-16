@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-12T06:24:33.891Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "文部科学省",
-          "score": 100
-        },
-        {
-          "keyword": "ウリ信用組合",
-          "score": 99
-        },
-        {
-          "keyword": "王将",
-          "score": 98
-        },
-        {
-          "keyword": "いちご新聞",
-          "score": 97
-        },
-        {
-          "keyword": "母親",
-          "score": 96
-        },
-        {
-          "keyword": "飯能市",
-          "score": 95
-        },
-        {
-          "keyword": "蔵内勇夫",
-          "score": 94
-        },
-        {
-          "keyword": "シャープ",
-          "score": 93
-        },
-        {
-          "keyword": "福原愛",
-          "score": 92
-        },
-        {
-          "keyword": "ワークマン 着る 冷凍庫",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-06-12T10:45:24.282Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "宮中 晩餐 会",
-          "score": 100
-        },
-        {
-          "keyword": "daigo",
-          "score": 99
-        },
-        {
-          "keyword": "アマンテビアンコ",
-          "score": 98
-        },
-        {
-          "keyword": "劉学義",
-          "score": 97
-        },
-        {
-          "keyword": "丘みどり",
-          "score": 96
-        },
-        {
-          "keyword": "新浜レオン",
-          "score": 95
-        },
-        {
-          "keyword": "マイケル",
-          "score": 94
-        },
-        {
-          "keyword": "松岡充",
-          "score": 93
-        },
-        {
-          "keyword": "ハマダ歌謡祭",
-          "score": 92
-        },
-        {
-          "keyword": "秋元強真",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-12T13:57:20.069Z",
       "geo": "JP",
       "source": "google",
@@ -1784,6 +1690,53 @@
         },
         {
           "keyword": "旭川 市 旭山 動物園",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-16T10:52:50.178Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "地震",
+          "score": 100
+        },
+        {
+          "keyword": "地震速報",
+          "score": 99
+        },
+        {
+          "keyword": "緊急地震速報",
+          "score": 98
+        },
+        {
+          "keyword": "茨城",
+          "score": 97
+        },
+        {
+          "keyword": "東京 地震",
+          "score": 96
+        },
+        {
+          "keyword": "地震情報",
+          "score": 95
+        },
+        {
+          "keyword": "earthquake",
+          "score": 94
+        },
+        {
+          "keyword": "高橋成美",
+          "score": 93
+        },
+        {
+          "keyword": "tokyo earthquake",
+          "score": 92
+        },
+        {
+          "keyword": "震源",
           "score": 91
         }
       ]
