@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-13T19:07:16.875Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "발롱도르",
-          "score": 100
-        },
-        {
-          "keyword": "열차",
-          "score": 99
-        },
-        {
-          "keyword": "f1",
-          "score": 98
-        },
-        {
-          "keyword": "정채연",
-          "score": 97
-        },
-        {
-          "keyword": "ioi",
-          "score": 96
-        },
-        {
-          "keyword": "그릴즈",
-          "score": 95
-        },
-        {
-          "keyword": "초안산",
-          "score": 94
-        },
-        {
-          "keyword": "기생충",
-          "score": 93
-        },
-        {
-          "keyword": "불꽃놀이",
-          "score": 92
-        },
-        {
-          "keyword": "한국 영화",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-13T20:44:27.677Z",
       "geo": "KR",
       "source": "google",
@@ -1549,6 +1502,53 @@
         },
         {
           "keyword": "레드카드",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-17T20:33:46.276Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "뱀",
+          "score": 100
+        },
+        {
+          "keyword": "배윤정",
+          "score": 99
+        },
+        {
+          "keyword": "수익률",
+          "score": 98
+        },
+        {
+          "keyword": "잉글랜드 대 크로아티아",
+          "score": 97
+        },
+        {
+          "keyword": "포르투갈 감독",
+          "score": 96
+        },
+        {
+          "keyword": "portugal vs congo",
+          "score": 95
+        },
+        {
+          "keyword": "조타",
+          "score": 94
+        },
+        {
+          "keyword": "축구중계",
+          "score": 93
+        },
+        {
+          "keyword": "페페",
+          "score": 92
+        },
+        {
+          "keyword": "世界杯",
           "score": 91
         }
       ]
