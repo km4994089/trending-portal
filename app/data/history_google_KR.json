@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-13T07:09:27.697Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "공대공 미사일",
-          "score": 100
-        },
-        {
-          "keyword": "클라라",
-          "score": 99
-        },
-        {
-          "keyword": "조성환",
-          "score": 98
-        },
-        {
-          "keyword": "밀워키 브루어스",
-          "score": 97
-        },
-        {
-          "keyword": "arirang",
-          "score": 96
-        },
-        {
-          "keyword": "최불암",
-          "score": 95
-        },
-        {
-          "keyword": "이정후",
-          "score": 94
-        },
-        {
-          "keyword": "이한 범",
-          "score": 93
-        },
-        {
-          "keyword": "원자력 잠수함",
-          "score": 92
-        },
-        {
-          "keyword": "외국인",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-06-13T10:10:41.770Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "카타르",
-          "score": 100
-        },
-        {
-          "keyword": "g7",
-          "score": 99
-        },
-        {
-          "keyword": "김부겸",
-          "score": 98
-        },
-        {
-          "keyword": "황대인",
-          "score": 97
-        },
-        {
-          "keyword": "이준석",
-          "score": 96
-        },
-        {
-          "keyword": "기상",
-          "score": 95
-        },
-        {
-          "keyword": "롯데그룹",
-          "score": 94
-        },
-        {
-          "keyword": "무명전설",
-          "score": 93
-        },
-        {
-          "keyword": "삼성전기",
-          "score": 92
-        },
-        {
-          "keyword": "강재준",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-13T12:07:20.325Z",
       "geo": "KR",
       "source": "google",
@@ -1690,6 +1596,53 @@
         },
         {
           "keyword": "담배",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-17T12:00:17.341Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "거점국립대학교",
+          "score": 100
+        },
+        {
+          "keyword": "예금",
+          "score": 99
+        },
+        {
+          "keyword": "테일러 프리츠",
+          "score": 98
+        },
+        {
+          "keyword": "삼성중공업",
+          "score": 97
+        },
+        {
+          "keyword": "미스트롯 포유",
+          "score": 96
+        },
+        {
+          "keyword": "코스닥",
+          "score": 95
+        },
+        {
+          "keyword": "동해",
+          "score": 94
+        },
+        {
+          "keyword": "등반",
+          "score": 93
+        },
+        {
+          "keyword": "인도",
+          "score": 92
+        },
+        {
+          "keyword": "장현식",
           "score": 91
         }
       ]
