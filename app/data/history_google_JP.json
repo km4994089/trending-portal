@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-14T03:45:30.024Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ジェイレン・ブランソン",
-          "score": 100
-        },
-        {
-          "keyword": "エフフォーリア",
-          "score": 99
-        },
-        {
-          "keyword": "山本里菜",
-          "score": 98
-        },
-        {
-          "keyword": "东京 商工リサーチ",
-          "score": 97
-        },
-        {
-          "keyword": "琉球ゴールデンキングス",
-          "score": 96
-        },
-        {
-          "keyword": "マリウス ボルグ ホイビー",
-          "score": 95
-        },
-        {
-          "keyword": "ボビーオロゴン",
-          "score": 94
-        },
-        {
-          "keyword": "工藤静香",
-          "score": 93
-        },
-        {
-          "keyword": "オーストラリア 対 トルコ",
-          "score": 92
-        },
-        {
-          "keyword": "ダイナマイク",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-14T08:07:54.998Z",
       "geo": "JP",
       "source": "google",
@@ -1502,6 +1455,53 @@
         },
         {
           "keyword": "7",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-18T07:27:08.151Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "クロード",
+          "score": 100
+        },
+        {
+          "keyword": "テレビ離れ",
+          "score": 99
+        },
+        {
+          "keyword": "かたせ梨乃",
+          "score": 98
+        },
+        {
+          "keyword": "マイケル バーリ",
+          "score": 97
+        },
+        {
+          "keyword": "タクシー運転手",
+          "score": 96
+        },
+        {
+          "keyword": "povo",
+          "score": 95
+        },
+        {
+          "keyword": "鈴木 奈穂子",
+          "score": 94
+        },
+        {
+          "keyword": "カグラバチ",
+          "score": 93
+        },
+        {
+          "keyword": "ホンダ シティ",
+          "score": 92
+        },
+        {
+          "keyword": "乙武洋匡",
           "score": 91
         }
       ]
