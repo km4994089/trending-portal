@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-15T22:32:26.519Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "corte suprema",
-          "score": 100
-        },
-        {
-          "keyword": "valverde",
-          "score": 99
-        },
-        {
-          "keyword": "monopoly a court of thorns and roses",
-          "score": 98
-        },
-        {
-          "keyword": "miami weather",
-          "score": 97
-        },
-        {
-          "keyword": "diego forlan",
-          "score": 96
-        },
-        {
-          "keyword": "marcelo bielsa",
-          "score": 95
-        },
-        {
-          "keyword": "matías viña",
-          "score": 94
-        },
-        {
-          "keyword": "ronald araújo",
-          "score": 93
-        },
-        {
-          "keyword": "doug burgum",
-          "score": 92
-        },
-        {
-          "keyword": "james carville",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-16T00:22:54.974Z",
       "geo": "US",
       "source": "google",
@@ -1455,6 +1408,53 @@
         },
         {
           "keyword": "john denver",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-19T22:43:10.786Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ayyoub bouaddi",
+          "score": 100
+        },
+        {
+          "keyword": "sam stevens golf",
+          "score": 99
+        },
+        {
+          "keyword": "dominican republic",
+          "score": 98
+        },
+        {
+          "keyword": "neil el aynaoui",
+          "score": 97
+        },
+        {
+          "keyword": "andrew robertson",
+          "score": 96
+        },
+        {
+          "keyword": "brewers vs braves",
+          "score": 95
+        },
+        {
+          "keyword": "giants vs marlins",
+          "score": 94
+        },
+        {
+          "keyword": "nationals vs rays",
+          "score": 93
+        },
+        {
+          "keyword": "pep guardiola",
+          "score": 92
+        },
+        {
+          "keyword": "reds vs yankees",
           "score": 91
         }
       ]
