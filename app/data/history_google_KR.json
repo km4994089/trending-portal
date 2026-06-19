@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-15T05:33:10.960Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "아이유",
-          "score": 100
-        },
-        {
-          "keyword": "영일대 해수욕장",
-          "score": 99
-        },
-        {
-          "keyword": "통영시",
-          "score": 98
-        },
-        {
-          "keyword": "허경민",
-          "score": 97
-        },
-        {
-          "keyword": "아스피날",
-          "score": 96
-        },
-        {
-          "keyword": "kt&g",
-          "score": 95
-        },
-        {
-          "keyword": "함소원",
-          "score": 94
-        },
-        {
-          "keyword": "임현식",
-          "score": 93
-        },
-        {
-          "keyword": "노숙인",
-          "score": 92
-        },
-        {
-          "keyword": "양양",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-15T11:44:34.078Z",
       "geo": "KR",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "황 유민",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-19T10:11:21.646Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "박지훈",
+          "score": 100
+        },
+        {
+          "keyword": "국민신문고",
+          "score": 99
+        },
+        {
+          "keyword": "나는 solo, 그 후 사랑은 계속된다",
+          "score": 98
+        },
+        {
+          "keyword": "ssg 대 nc",
+          "score": 97
+        },
+        {
+          "keyword": "kia 대 kt",
+          "score": 96
+        },
+        {
+          "keyword": "삼성 대 한화",
+          "score": 95
+        },
+        {
+          "keyword": "두산 대 lg",
+          "score": 94
+        },
+        {
+          "keyword": "장동혁",
+          "score": 93
+        },
+        {
+          "keyword": "롯데 대 키움",
+          "score": 92
+        },
+        {
+          "keyword": "부사관",
           "score": 91
         }
       ]
