@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-15T20:21:09.174Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "住吉会",
-          "score": 100
-        },
-        {
-          "keyword": "mトーナメント",
-          "score": 99
-        },
-        {
-          "keyword": "厚木駅",
-          "score": 98
-        },
-        {
-          "keyword": "西 勇輝",
-          "score": 97
-        },
-        {
-          "keyword": "トロサール",
-          "score": 96
-        },
-        {
-          "keyword": "belgium vs egypt",
-          "score": 95
-        },
-        {
-          "keyword": "tây ban nha",
-          "score": 94
-        },
-        {
-          "keyword": "openai",
-          "score": 93
-        },
-        {
-          "keyword": "タングステン",
-          "score": 92
-        },
-        {
-          "keyword": "ジェレミー・ドク",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-15T22:32:28.696Z",
       "geo": "JP",
       "source": "google",
@@ -1455,6 +1408,53 @@
         },
         {
           "keyword": "usa vs australia",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-19T21:40:50.412Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "モロッコ",
+          "score": 100
+        },
+        {
+          "keyword": "小野伸二",
+          "score": 99
+        },
+        {
+          "keyword": "菅楓華",
+          "score": 98
+        },
+        {
+          "keyword": "亀梨和也",
+          "score": 97
+        },
+        {
+          "keyword": "天氣",
+          "score": 96
+        },
+        {
+          "keyword": "scotland vs morocco",
+          "score": 95
+        },
+        {
+          "keyword": "ピート・クロウ=アームストロング",
+          "score": 94
+        },
+        {
+          "keyword": "旗手怜央",
+          "score": 93
+        },
+        {
+          "keyword": "イギリス",
+          "score": 92
+        },
+        {
+          "keyword": "モンテレイ",
           "score": 91
         }
       ]

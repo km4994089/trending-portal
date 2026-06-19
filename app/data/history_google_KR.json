@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-15T20:21:07.922Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "벨기에 대 이집트",
-          "score": 100
-        },
-        {
-          "keyword": "해협",
-          "score": 99
-        },
-        {
-          "keyword": "tây ban nha",
-          "score": 98
-        },
-        {
-          "keyword": "g7",
-          "score": 97
-        },
-        {
-          "keyword": "페란 토레스",
-          "score": 96
-        },
-        {
-          "keyword": "스페인 국대",
-          "score": 95
-        },
-        {
-          "keyword": "이엘리야",
-          "score": 94
-        },
-        {
-          "keyword": "김부장",
-          "score": 93
-        },
-        {
-          "keyword": "spain vs cabo verde",
-          "score": 92
-        },
-        {
-          "keyword": "아모림",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-15T22:32:27.433Z",
       "geo": "KR",
       "source": "google",
@@ -1455,6 +1408,53 @@
         },
         {
           "keyword": "안정환",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-19T21:40:49.027Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "부모",
+          "score": 100
+        },
+        {
+          "keyword": "주가조작",
+          "score": 99
+        },
+        {
+          "keyword": "단발",
+          "score": 98
+        },
+        {
+          "keyword": "trip",
+          "score": 97
+        },
+        {
+          "keyword": "연합뉴스",
+          "score": 96
+        },
+        {
+          "keyword": "usa vs australia",
+          "score": 95
+        },
+        {
+          "keyword": "블루제이스 대 컵스",
+          "score": 94
+        },
+        {
+          "keyword": "동궁",
+          "score": 93
+        },
+        {
+          "keyword": "미국 대 호주",
+          "score": 92
+        },
+        {
+          "keyword": "드론 스트라이크",
           "score": 91
         }
       ]
