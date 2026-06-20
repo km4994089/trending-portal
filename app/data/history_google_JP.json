@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-16T15:48:12.597Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "asローマ",
-          "score": 100
-        },
-        {
-          "keyword": "dbd",
-          "score": 99
-        },
-        {
-          "keyword": "イエメン",
-          "score": 98
-        },
-        {
-          "keyword": "杉浦友紀",
-          "score": 97
-        },
-        {
-          "keyword": "マヌエル・ノイアー",
-          "score": 96
-        },
-        {
-          "keyword": "エコーズオブアインクラッド",
-          "score": 95
-        },
-        {
-          "keyword": "tsmc 株価",
-          "score": 94
-        },
-        {
-          "keyword": "国旗損壊罪",
-          "score": 93
-        },
-        {
-          "keyword": "レジェンズ",
-          "score": 92
-        },
-        {
-          "keyword": "志田千陽",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-16T19:27:32.767Z",
       "geo": "JP",
       "source": "google",
@@ -1596,6 +1549,53 @@
         },
         {
           "keyword": "福田正博",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-20T16:11:25.331Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "大泉洋",
+          "score": 100
+        },
+        {
+          "keyword": "ive",
+          "score": 99
+        },
+        {
+          "keyword": "snowman",
+          "score": 98
+        },
+        {
+          "keyword": "矢野顕子",
+          "score": 97
+        },
+        {
+          "keyword": "lara",
+          "score": 96
+        },
+        {
+          "keyword": "向井康二",
+          "score": 95
+        },
+        {
+          "keyword": "なえなの",
+          "score": 94
+        },
+        {
+          "keyword": "マイケルジャクソン",
+          "score": 93
+        },
+        {
+          "keyword": "名良橋晃",
+          "score": 92
+        },
+        {
+          "keyword": "加藤浩次",
           "score": 91
         }
       ]
