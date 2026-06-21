@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-17T22:29:22.007Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "나스닥 지수",
-          "score": 100
-        },
-        {
-          "keyword": "vix",
-          "score": 99
-        },
-        {
-          "keyword": "schd",
-          "score": 98
-        },
-        {
-          "keyword": "김혜성",
-          "score": 97
-        },
-        {
-          "keyword": "골드 바",
-          "score": 96
-        },
-        {
-          "keyword": "박정은",
-          "score": 95
-        },
-        {
-          "keyword": "올리세",
-          "score": 94
-        },
-        {
-          "keyword": "젠슨 황",
-          "score": 93
-        },
-        {
-          "keyword": "아이온큐",
-          "score": 92
-        },
-        {
-          "keyword": "lpga",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-17T23:56:45.735Z",
       "geo": "KR",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "베트남",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-21T22:39:42.373Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "수영",
+          "score": 100
+        },
+        {
+          "keyword": "박진만",
+          "score": 99
+        },
+        {
+          "keyword": "조세",
+          "score": 98
+        },
+        {
+          "keyword": "우루과이 대 카보베르데",
+          "score": 97
+        },
+        {
+          "keyword": "부산날씨",
+          "score": 96
+        },
+        {
+          "keyword": "이민영",
+          "score": 95
+        },
+        {
+          "keyword": "복권",
+          "score": 94
+        },
+        {
+          "keyword": "ket qua bong da",
+          "score": 93
+        },
+        {
+          "keyword": "삼성",
+          "score": 92
+        },
+        {
+          "keyword": "이정후",
           "score": 91
         }
       ]
