@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-17T12:00:17.341Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "거점국립대학교",
-          "score": 100
-        },
-        {
-          "keyword": "예금",
-          "score": 99
-        },
-        {
-          "keyword": "테일러 프리츠",
-          "score": 98
-        },
-        {
-          "keyword": "삼성중공업",
-          "score": 97
-        },
-        {
-          "keyword": "미스트롯 포유",
-          "score": 96
-        },
-        {
-          "keyword": "코스닥",
-          "score": 95
-        },
-        {
-          "keyword": "동해",
-          "score": 94
-        },
-        {
-          "keyword": "등반",
-          "score": 93
-        },
-        {
-          "keyword": "인도",
-          "score": 92
-        },
-        {
-          "keyword": "장현식",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-17T15:38:22.448Z",
       "geo": "KR",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "장기 기증",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-21T12:23:17.963Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "마이크론 테크놀로지",
+          "score": 100
+        },
+        {
+          "keyword": "kbo 리그",
+          "score": 99
+        },
+        {
+          "keyword": "대한민국 우주항공청",
+          "score": 98
+        },
+        {
+          "keyword": "위르겐 클린스만",
+          "score": 97
+        },
+        {
+          "keyword": "송영길",
+          "score": 96
+        },
+        {
+          "keyword": "일본 엔",
+          "score": 95
+        },
+        {
+          "keyword": "신천지",
+          "score": 94
+        },
+        {
+          "keyword": "보행자",
+          "score": 93
+        },
+        {
+          "keyword": "김양",
+          "score": 92
+        },
+        {
+          "keyword": "신장식",
           "score": 91
         }
       ]

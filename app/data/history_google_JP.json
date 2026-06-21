@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-17T12:00:18.741Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "さだまさし",
-          "score": 100
-        },
-        {
-          "keyword": "榊原郁恵",
-          "score": 99
-        },
-        {
-          "keyword": "下平さやかアナウンサー",
-          "score": 98
-        },
-        {
-          "keyword": "福島中央テレビ",
-          "score": 97
-        },
-        {
-          "keyword": "銀行強盗 映画",
-          "score": 96
-        },
-        {
-          "keyword": "福島圭音",
-          "score": 95
-        },
-        {
-          "keyword": "火事",
-          "score": 94
-        },
-        {
-          "keyword": "コメダ カレー",
-          "score": 93
-        },
-        {
-          "keyword": "みちょぱ",
-          "score": 92
-        },
-        {
-          "keyword": "ハリーケイン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-17T15:38:23.787Z",
       "geo": "JP",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "福島民報",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-21T12:23:19.177Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "阪神タイガース",
+          "score": 100
+        },
+        {
+          "keyword": "阪神",
+          "score": 99
+        },
+        {
+          "keyword": "鈴木保奈美",
+          "score": 98
+        },
+        {
+          "keyword": "髙橋遥人",
+          "score": 97
+        },
+        {
+          "keyword": "伊良部島",
+          "score": 96
+        },
+        {
+          "keyword": "若松競艇",
+          "score": 95
+        },
+        {
+          "keyword": "斉藤壮馬",
+          "score": 94
+        },
+        {
+          "keyword": "宮古島",
+          "score": 93
+        },
+        {
+          "keyword": "汶汶",
+          "score": 92
+        },
+        {
+          "keyword": "鈴木幹事長",
           "score": 91
         }
       ]

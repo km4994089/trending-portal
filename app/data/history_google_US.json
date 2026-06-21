@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-17T12:00:15.718Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "flights",
-          "score": 100
-        },
-        {
-          "keyword": "trump cancels dni hearings",
-          "score": 99
-        },
-        {
-          "keyword": "kcrg weather",
-          "score": 98
-        },
-        {
-          "keyword": "brandon nakashima",
-          "score": 97
-        },
-        {
-          "keyword": "rex heuermann",
-          "score": 96
-        },
-        {
-          "keyword": "music",
-          "score": 95
-        },
-        {
-          "keyword": "fitness",
-          "score": 94
-        },
-        {
-          "keyword": "schools",
-          "score": 93
-        },
-        {
-          "keyword": "travel",
-          "score": 92
-        },
-        {
-          "keyword": "obama presidential library",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-17T15:38:21.191Z",
       "geo": "US",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "japan vs sweden",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-21T12:23:16.597Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "leylah fernandez",
+          "score": 100
+        },
+        {
+          "keyword": "nottingham open",
+          "score": 99
+        },
+        {
+          "keyword": "prime day 2026",
+          "score": 98
+        },
+        {
+          "keyword": "guam",
+          "score": 97
+        },
+        {
+          "keyword": "is fathers day today",
+          "score": 96
+        },
+        {
+          "keyword": "wordle help",
+          "score": 95
+        },
+        {
+          "keyword": "2026 u.s. open",
+          "score": 94
+        },
+        {
+          "keyword": "epstein files",
+          "score": 93
+        },
+        {
+          "keyword": "community show",
+          "score": 92
+        },
+        {
+          "keyword": "us open tee times",
           "score": 91
         }
       ]
