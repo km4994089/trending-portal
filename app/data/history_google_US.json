@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-17T07:07:56.498Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "computer",
-          "score": 100
-        },
-        {
-          "keyword": "santy sharma news",
-          "score": 99
-        },
-        {
-          "keyword": "uwe boll",
-          "score": 98
-        },
-        {
-          "keyword": "snap ar glasses",
-          "score": 97
-        },
-        {
-          "keyword": "extreme heat warning",
-          "score": 96
-        },
-        {
-          "keyword": "congo ebola outbreak",
-          "score": 95
-        },
-        {
-          "keyword": "reno power outage",
-          "score": 94
-        },
-        {
-          "keyword": "nv energy",
-          "score": 93
-        },
-        {
-          "keyword": "san andreas fault",
-          "score": 92
-        },
-        {
-          "keyword": "trader joes tote bag",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-17T12:00:15.718Z",
       "geo": "US",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "mariners game today",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-21T10:24:28.328Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "diane parry",
+          "score": 100
+        },
+        {
+          "keyword": "community",
+          "score": 99
+        },
+        {
+          "keyword": "caitlin clark and angel reese exchanged words during intense matchup",
+          "score": 98
+        },
+        {
+          "keyword": "ban vs aus",
+          "score": 97
+        },
+        {
+          "keyword": "pixar toy story 5",
+          "score": 96
+        },
+        {
+          "keyword": "netflix voicemails for isabelle",
+          "score": 95
+        },
+        {
+          "keyword": "posiciones de selección de fútbol de túnez contra selección de fútbol de japón",
+          "score": 94
+        },
+        {
+          "keyword": "financial company",
+          "score": 93
+        },
+        {
+          "keyword": "investments",
+          "score": 92
+        },
+        {
+          "keyword": "japan vs sweden",
           "score": 91
         }
       ]
