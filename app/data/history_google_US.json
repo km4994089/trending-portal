@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-17T18:08:21.637Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "andrew painter",
-          "score": 100
-        },
-        {
-          "keyword": "pepe portugal",
-          "score": 99
-        },
-        {
-          "keyword": "eric roy",
-          "score": 98
-        },
-        {
-          "keyword": "fox one",
-          "score": 97
-        },
-        {
-          "keyword": "republic of congo",
-          "score": 96
-        },
-        {
-          "keyword": "fox world cup",
-          "score": 95
-        },
-        {
-          "keyword": "devin booker",
-          "score": 94
-        },
-        {
-          "keyword": "cristiano ronaldo jr",
-          "score": 93
-        },
-        {
-          "keyword": "fox sports",
-          "score": 92
-        },
-        {
-          "keyword": "pepe",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-17T20:33:44.923Z",
       "geo": "US",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "nationals vs rays",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-21T19:47:09.108Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "joe gibbs",
+          "score": 100
+        },
+        {
+          "keyword": "millie bobby brown",
+          "score": 99
+        },
+        {
+          "keyword": "lottie woad",
+          "score": 98
+        },
+        {
+          "keyword": "savannah bananas",
+          "score": 97
+        },
+        {
+          "keyword": "nathan ngoy",
+          "score": 96
+        },
+        {
+          "keyword": "warriors hornets trade rumors",
+          "score": 95
+        },
+        {
+          "keyword": "tyler stephenson",
+          "score": 94
+        },
+        {
+          "keyword": "keith mitchell",
+          "score": 93
+        },
+        {
+          "keyword": "courtois",
+          "score": 92
+        },
+        {
+          "keyword": "trossard",
           "score": 91
         }
       ]
