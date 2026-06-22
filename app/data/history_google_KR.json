@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-18T22:28:43.624Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "현대 아반떼",
-          "score": 100
-        },
-        {
-          "keyword": "캐나다 대 카타르",
-          "score": 99
-        },
-        {
-          "keyword": "south korea",
-          "score": 98
-        },
-        {
-          "keyword": "적금",
-          "score": 97
-        },
-        {
-          "keyword": "알테오젠",
-          "score": 96
-        },
-        {
-          "keyword": "switzerland vs bosnia and herzegovina",
-          "score": 95
-        },
-        {
-          "keyword": "월드컵 순위",
-          "score": 94
-        },
-        {
-          "keyword": "롯데 자이언츠",
-          "score": 93
-        },
-        {
-          "keyword": "농지",
-          "score": 92
-        },
-        {
-          "keyword": "종합병원",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-19T00:08:52.398Z",
       "geo": "KR",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "대구광역시",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-22T23:11:06.250Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "2026",
+          "score": 100
+        },
+        {
+          "keyword": "테슬라",
+          "score": 99
+        },
+        {
+          "keyword": "pháp vs",
+          "score": 98
+        },
+        {
+          "keyword": "pltr",
+          "score": 97
+        },
+        {
+          "keyword": "김구라",
+          "score": 96
+        },
+        {
+          "keyword": "조세",
+          "score": 95
+        },
+        {
+          "keyword": "김포시",
+          "score": 94
+        },
+        {
+          "keyword": "s&p 500",
+          "score": 93
+        },
+        {
+          "keyword": "런닝맨",
+          "score": 92
+        },
+        {
+          "keyword": "롯데 자이언츠",
           "score": 91
         }
       ]
