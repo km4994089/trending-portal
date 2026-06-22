@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-18T07:27:05.892Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "gas",
-          "score": 100
-        },
-        {
-          "keyword": "moscow",
-          "score": 99
-        },
-        {
-          "keyword": "is claude down",
-          "score": 98
-        },
-        {
-          "keyword": "venus moon eclipse",
-          "score": 97
-        },
-        {
-          "keyword": "justin gaethje suspension ufc 250",
-          "score": 96
-        },
-        {
-          "keyword": "colton underwood",
-          "score": 95
-        },
-        {
-          "keyword": "high wind warning",
-          "score": 94
-        },
-        {
-          "keyword": "kerry washington",
-          "score": 93
-        },
-        {
-          "keyword": "duke energy power outage",
-          "score": 92
-        },
-        {
-          "keyword": "fifa games tomorrow",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-18T11:34:42.501Z",
       "geo": "US",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "nba trades",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-22T11:33:28.874Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "stock market news today",
+          "score": 100
+        },
+        {
+          "keyword": "tennis scores today",
+          "score": 99
+        },
+        {
+          "keyword": "cryptocurrency trading",
+          "score": 98
+        },
+        {
+          "keyword": "alan greenspan",
+          "score": 97
+        },
+        {
+          "keyword": "latest iphone rumors",
+          "score": 96
+        },
+        {
+          "keyword": "best shows on hbo max",
+          "score": 95
+        },
+        {
+          "keyword": "influencer marketing",
+          "score": 94
+        },
+        {
+          "keyword": "soccer world rankings",
+          "score": 93
+        },
+        {
+          "keyword": "decentralized finance",
+          "score": 92
+        },
+        {
+          "keyword": "what is a heat dome",
           "score": 91
         }
       ]
