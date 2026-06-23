@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-19T05:31:24.354Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "iphone",
-          "score": 100
-        },
-        {
-          "keyword": "cod bo2 ps5",
-          "score": 99
-        },
-        {
-          "keyword": "ラファエル ファン デル ファールト",
-          "score": 98
-        },
-        {
-          "keyword": "株式",
-          "score": 97
-        },
-        {
-          "keyword": "岡田 奈々",
-          "score": 96
-        },
-        {
-          "keyword": "皇后",
-          "score": 95
-        },
-        {
-          "keyword": "狩野 英孝",
-          "score": 94
-        },
-        {
-          "keyword": "東北大学",
-          "score": 93
-        },
-        {
-          "keyword": "セリア こびと づか ん",
-          "score": 92
-        },
-        {
-          "keyword": "リバン・モイネロ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-19T10:11:22.746Z",
       "geo": "JP",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "オリンピック",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-23T05:37:50.505Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "投資",
+          "score": 100
+        },
+        {
+          "keyword": "thomann",
+          "score": 99
+        },
+        {
+          "keyword": "ウィンブルドン選手権",
+          "score": 98
+        },
+        {
+          "keyword": "マダニ",
+          "score": 97
+        },
+        {
+          "keyword": "nbaトレード",
+          "score": 96
+        },
+        {
+          "keyword": "日本政策金融公庫",
+          "score": 95
+        },
+        {
+          "keyword": "ユニクロ ちいかわ",
+          "score": 94
+        },
+        {
+          "keyword": "デヴィ夫人",
+          "score": 93
+        },
+        {
+          "keyword": "sealds",
+          "score": 92
+        },
+        {
+          "keyword": "小野田紀美",
           "score": 91
         }
       ]
