@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-19T10:11:22.746Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "トヨタ シエンタ",
-          "score": 100
-        },
-        {
-          "keyword": "にじさんじ",
-          "score": 99
-        },
-        {
-          "keyword": "フィリップ・トルシエ",
-          "score": 98
-        },
-        {
-          "keyword": "モイネロ",
-          "score": 97
-        },
-        {
-          "keyword": "明日 天気",
-          "score": 96
-        },
-        {
-          "keyword": "南野 陽子",
-          "score": 95
-        },
-        {
-          "keyword": "hs2",
-          "score": 94
-        },
-        {
-          "keyword": "目黒蓮",
-          "score": 93
-        },
-        {
-          "keyword": "河原みのり",
-          "score": 92
-        },
-        {
-          "keyword": "佐藤大樹",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-19T13:53:04.821Z",
       "geo": "JP",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "広島 対 巨人",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-23T11:56:31.193Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ナンバーズ3",
+          "score": 100
+        },
+        {
+          "keyword": "日村",
+          "score": 99
+        },
+        {
+          "keyword": "近本光司",
+          "score": 98
+        },
+        {
+          "keyword": "福本莉子 サッカー",
+          "score": 97
+        },
+        {
+          "keyword": "ミニロト 当選番号",
+          "score": 96
+        },
+        {
+          "keyword": "ウォール 街",
+          "score": 95
+        },
+        {
+          "keyword": "門別競馬",
+          "score": 94
+        },
+        {
+          "keyword": "シャハブ・ザヘディ",
+          "score": 93
+        },
+        {
+          "keyword": "前園真聖",
+          "score": 92
+        },
+        {
+          "keyword": "新 馬",
           "score": 91
         }
       ]

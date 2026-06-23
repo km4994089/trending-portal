@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-19T10:11:21.646Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "박지훈",
-          "score": 100
-        },
-        {
-          "keyword": "국민신문고",
-          "score": 99
-        },
-        {
-          "keyword": "나는 solo, 그 후 사랑은 계속된다",
-          "score": 98
-        },
-        {
-          "keyword": "ssg 대 nc",
-          "score": 97
-        },
-        {
-          "keyword": "kia 대 kt",
-          "score": 96
-        },
-        {
-          "keyword": "삼성 대 한화",
-          "score": 95
-        },
-        {
-          "keyword": "두산 대 lg",
-          "score": 94
-        },
-        {
-          "keyword": "장동혁",
-          "score": 93
-        },
-        {
-          "keyword": "롯데 대 키움",
-          "score": 92
-        },
-        {
-          "keyword": "부사관",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-19T13:53:03.532Z",
       "geo": "KR",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "미실현 수익 과세",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-23T11:56:29.735Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김오랑",
+          "score": 100
+        },
+        {
+          "keyword": "젠슨 황",
+          "score": 99
+        },
+        {
+          "keyword": "장현식",
+          "score": 98
+        },
+        {
+          "keyword": "협박",
+          "score": 97
+        },
+        {
+          "keyword": "무기",
+          "score": 96
+        },
+        {
+          "keyword": "청년",
+          "score": 95
+        },
+        {
+          "keyword": "신동",
+          "score": 94
+        },
+        {
+          "keyword": "과잉 공급",
+          "score": 93
+        },
+        {
+          "keyword": "용인 반도체 클러스터",
+          "score": 92
+        },
+        {
+          "keyword": "메르세데스-벤츠 s클래스",
           "score": 91
         }
       ]
