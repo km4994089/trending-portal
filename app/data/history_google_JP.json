@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-19T20:10:57.592Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "廣瀬智美",
-          "score": 100
-        },
-        {
-          "keyword": "リカルド・ペピ",
-          "score": 99
-        },
-        {
-          "keyword": "フェイエノールト",
-          "score": 98
-        },
-        {
-          "keyword": "タイラー・アダムス",
-          "score": 97
-        },
-        {
-          "keyword": "検察審査会",
-          "score": 96
-        },
-        {
-          "keyword": "給付",
-          "score": 95
-        },
-        {
-          "keyword": "フォラリン・バログン",
-          "score": 94
-        },
-        {
-          "keyword": "木下グループ",
-          "score": 93
-        },
-        {
-          "keyword": "なか卯",
-          "score": 92
-        },
-        {
-          "keyword": "usa vs australia",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-19T21:40:50.412Z",
       "geo": "JP",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "ポルトガル 対 ウズベキスタン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-23T21:10:34.618Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "佐伯 三貴",
+          "score": 100
+        },
+        {
+          "keyword": "気象庁",
+          "score": 99
+        },
+        {
+          "keyword": "エヌビディア 株価",
+          "score": 98
+        },
+        {
+          "keyword": "京都 天気",
+          "score": 97
+        },
+        {
+          "keyword": "インテル株価",
+          "score": 96
+        },
+        {
+          "keyword": "ソックス指数",
+          "score": 95
+        },
+        {
+          "keyword": "mu",
+          "score": 94
+        },
+        {
+          "keyword": "レベル4大雨危険警報",
+          "score": 93
+        },
+        {
+          "keyword": "株式",
+          "score": 92
+        },
+        {
+          "keyword": "イングランド",
           "score": 91
         }
       ]
