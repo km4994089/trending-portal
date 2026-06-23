@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-19T21:40:49.027Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "부모",
-          "score": 100
-        },
-        {
-          "keyword": "주가조작",
-          "score": 99
-        },
-        {
-          "keyword": "단발",
-          "score": 98
-        },
-        {
-          "keyword": "trip",
-          "score": 97
-        },
-        {
-          "keyword": "연합뉴스",
-          "score": 96
-        },
-        {
-          "keyword": "usa vs australia",
-          "score": 95
-        },
-        {
-          "keyword": "블루제이스 대 컵스",
-          "score": 94
-        },
-        {
-          "keyword": "동궁",
-          "score": 93
-        },
-        {
-          "keyword": "미국 대 호주",
-          "score": 92
-        },
-        {
-          "keyword": "드론 스트라이크",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-06-19T22:43:12.242Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "weather",
-          "score": 100
-        },
-        {
-          "keyword": "아이폰",
-          "score": 99
-        },
-        {
-          "keyword": "scotland vs morocco",
-          "score": 98
-        },
-        {
-          "keyword": "lịch thi đấu world cup 2026",
-          "score": 97
-        },
-        {
-          "keyword": "스코틀랜드 대 모로코",
-          "score": 96
-        },
-        {
-          "keyword": "임신",
-          "score": 95
-        },
-        {
-          "keyword": "최저임금",
-          "score": 94
-        },
-        {
-          "keyword": "노태악",
-          "score": 93
-        },
-        {
-          "keyword": "박현경",
-          "score": 92
-        },
-        {
-          "keyword": "한국기행",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-19T23:59:55.322Z",
       "geo": "KR",
       "source": "google",
@@ -1831,6 +1737,53 @@
         },
         {
           "keyword": "t1 스킨",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-23T22:43:31.448Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이상윤",
+          "score": 100
+        },
+        {
+          "keyword": "england vs ghana",
+          "score": 99
+        },
+        {
+          "keyword": "패션",
+          "score": 98
+        },
+        {
+          "keyword": "나스닥 100",
+          "score": 97
+        },
+        {
+          "keyword": "mu",
+          "score": 96
+        },
+        {
+          "keyword": "항공권",
+          "score": 95
+        },
+        {
+          "keyword": "vix",
+          "score": 94
+        },
+        {
+          "keyword": "필라델피아 반도체 지수",
+          "score": 93
+        },
+        {
+          "keyword": "박수홍",
+          "score": 92
+        },
+        {
+          "keyword": "tsla",
           "score": 91
         }
       ]
