@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-20T21:59:39.961Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "고윤정",
-          "score": 100
-        },
-        {
-          "keyword": "경상남도",
-          "score": 99
-        },
-        {
-          "keyword": "건강보험",
-          "score": 98
-        },
-        {
-          "keyword": "셀트리온",
-          "score": 97
-        },
-        {
-          "keyword": "germany vs ivory coast",
-          "score": 96
-        },
-        {
-          "keyword": "구속영장",
-          "score": 95
-        },
-        {
-          "keyword": "디오망데",
-          "score": 94
-        },
-        {
-          "keyword": "독일 대 코트디부아르",
-          "score": 93
-        },
-        {
-          "keyword": "이요원",
-          "score": 92
-        },
-        {
-          "keyword": "강미나",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-20T23:09:55.375Z",
       "geo": "KR",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "책",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-24T22:43:50.516Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "날씨",
+          "score": 100
+        },
+        {
+          "keyword": "weather",
+          "score": 99
+        },
+        {
+          "keyword": "morocco vs haiti",
+          "score": 98
+        },
+        {
+          "keyword": "погода",
+          "score": 97
+        },
+        {
+          "keyword": "임지연",
+          "score": 96
+        },
+        {
+          "keyword": "세계 청년 대회",
+          "score": 95
+        },
+        {
+          "keyword": "switzerland vs canada",
+          "score": 94
+        },
+        {
+          "keyword": "알테오젠",
+          "score": 93
+        },
+        {
+          "keyword": "scotland vs brazil",
+          "score": 92
+        },
+        {
+          "keyword": "ionq",
           "score": 91
         }
       ]

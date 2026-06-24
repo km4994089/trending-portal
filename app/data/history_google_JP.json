@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-20T21:59:41.516Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "中越典子",
-          "score": 100
-        },
-        {
-          "keyword": "矢部太郎",
-          "score": 99
-        },
-        {
-          "keyword": "ワールドカップ グループe",
-          "score": 98
-        },
-        {
-          "keyword": "広島東洋カープ",
-          "score": 97
-        },
-        {
-          "keyword": "庄司浩平",
-          "score": 96
-        },
-        {
-          "keyword": "岡本和真",
-          "score": 95
-        },
-        {
-          "keyword": "木村 文乃",
-          "score": 94
-        },
-        {
-          "keyword": "キム・ゴウン",
-          "score": 93
-        },
-        {
-          "keyword": "テレビ番組",
-          "score": 92
-        },
-        {
-          "keyword": "ブラディミール・ゲレーロ・ジュニア",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-20T23:09:56.781Z",
       "geo": "JP",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "マイクロン株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-24T22:43:51.872Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "地震",
+          "score": 100
+        },
+        {
+          "keyword": "最大震度6強の地震",
+          "score": 99
+        },
+        {
+          "keyword": "地震速報",
+          "score": 98
+        },
+        {
+          "keyword": "ブラジル",
+          "score": 97
+        },
+        {
+          "keyword": "福岡市長",
+          "score": 96
+        },
+        {
+          "keyword": "グループc",
+          "score": 95
+        },
+        {
+          "keyword": "喜多ゆかり",
+          "score": 94
+        },
+        {
+          "keyword": "ヴィニシウス・ジュニオール",
+          "score": 93
+        },
+        {
+          "keyword": "brazil vs scotland",
+          "score": 92
+        },
+        {
+          "keyword": "降水量",
           "score": 91
         }
       ]
