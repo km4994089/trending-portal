@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-20T10:26:10.572Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "항공",
-          "score": 100
-        },
-        {
-          "keyword": "트와이스",
-          "score": 99
-        },
-        {
-          "keyword": "연금",
-          "score": 98
-        },
-        {
-          "keyword": "강성연",
-          "score": 97
-        },
-        {
-          "keyword": "mlb",
-          "score": 96
-        },
-        {
-          "keyword": "러브버그",
-          "score": 95
-        },
-        {
-          "keyword": "박미선",
-          "score": 94
-        },
-        {
-          "keyword": "대전 날씨",
-          "score": 93
-        },
-        {
-          "keyword": "afghanistan vs india",
-          "score": 92
-        },
-        {
-          "keyword": "이대형",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-06-20T12:13:31.781Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "자염",
-          "score": 100
-        },
-        {
-          "keyword": "fifa 월드컵 2026",
-          "score": 99
-        },
-        {
-          "keyword": "서가대",
-          "score": 98
-        },
-        {
-          "keyword": "김원훈",
-          "score": 97
-        },
-        {
-          "keyword": "김재환",
-          "score": 96
-        },
-        {
-          "keyword": "익산시",
-          "score": 95
-        },
-        {
-          "keyword": "아는형님",
-          "score": 94
-        },
-        {
-          "keyword": "류승민",
-          "score": 93
-        },
-        {
-          "keyword": "폭염",
-          "score": 92
-        },
-        {
-          "keyword": "32 기 상철",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-20T14:37:50.913Z",
       "geo": "KR",
       "source": "google",
@@ -1831,6 +1737,53 @@
         },
         {
           "keyword": "노무라 증권",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-24T12:14:02.138Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이현이",
+          "score": 100
+        },
+        {
+          "keyword": "최민석",
+          "score": 99
+        },
+        {
+          "keyword": "우크라이나",
+          "score": 98
+        },
+        {
+          "keyword": "트레이드",
+          "score": 97
+        },
+        {
+          "keyword": "올스타 투표",
+          "score": 96
+        },
+        {
+          "keyword": "fiba 농구 월드컵",
+          "score": 95
+        },
+        {
+          "keyword": "태영호",
+          "score": 94
+        },
+        {
+          "keyword": "로스앤젤레스 다저스",
+          "score": 93
+        },
+        {
+          "keyword": "익사",
+          "score": 92
+        },
+        {
+          "keyword": "금융시장",
           "score": 91
         }
       ]
