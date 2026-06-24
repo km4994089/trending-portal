@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-20T23:09:56.781Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "フィリーズ 対 メッツ",
-          "score": 100
-        },
-        {
-          "keyword": "サイ・ヤング",
-          "score": 99
-        },
-        {
-          "keyword": "マルコ・ベッツェッキ",
-          "score": 98
-        },
-        {
-          "keyword": "コン・ユ",
-          "score": 97
-        },
-        {
-          "keyword": "ヨークベニマル",
-          "score": 96
-        },
-        {
-          "keyword": "父の日",
-          "score": 95
-        },
-        {
-          "keyword": "豊臣兄弟! 軍師官兵衛!",
-          "score": 94
-        },
-        {
-          "keyword": "ロート製薬",
-          "score": 93
-        },
-        {
-          "keyword": "避難",
-          "score": 92
-        },
-        {
-          "keyword": "鄭大世",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-21T01:44:35.089Z",
       "geo": "JP",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "降水量",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-24T23:58:16.178Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ルー大柴",
+          "score": 100
+        },
+        {
+          "keyword": "朝ドラ",
+          "score": 99
+        },
+        {
+          "keyword": "内閣",
+          "score": 98
+        },
+        {
+          "keyword": "小室眞子",
+          "score": 97
+        },
+        {
+          "keyword": "ベネズエラ",
+          "score": 96
+        },
+        {
+          "keyword": "日本地図",
+          "score": 95
+        },
+        {
+          "keyword": "タイガース 対 ヤンキース",
+          "score": 94
+        },
+        {
+          "keyword": "遅延",
+          "score": 93
+        },
+        {
+          "keyword": "南海トラフ",
+          "score": 92
+        },
+        {
+          "keyword": "レイズ 対 ロイヤルズ",
           "score": 91
         }
       ]
