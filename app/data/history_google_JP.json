@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-20T07:42:37.548Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "桜井日奈子",
-          "score": 100
-        },
-        {
-          "keyword": "岸和田競輪",
-          "score": 99
-        },
-        {
-          "keyword": "吉村紗也香",
-          "score": 98
-        },
-        {
-          "keyword": "シャドバ",
-          "score": 97
-        },
-        {
-          "keyword": "大谷映美里",
-          "score": 96
-        },
-        {
-          "keyword": "吉田賢吾",
-          "score": 95
-        },
-        {
-          "keyword": "モーサテ",
-          "score": 94
-        },
-        {
-          "keyword": "石塚裕惺",
-          "score": 93
-        },
-        {
-          "keyword": "グーニーズ ワン",
-          "score": 92
-        },
-        {
-          "keyword": "天保山ステークス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-20T10:26:11.832Z",
       "geo": "JP",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "ぽかぽか",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-24T09:55:56.599Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "岡崎体育",
+          "score": 100
+        },
+        {
+          "keyword": "自責点",
+          "score": 99
+        },
+        {
+          "keyword": "line",
+          "score": 98
+        },
+        {
+          "keyword": "マクロスδ",
+          "score": 97
+        },
+        {
+          "keyword": "ディディエ デシャン",
+          "score": 96
+        },
+        {
+          "keyword": "スポーツ振興くじ",
+          "score": 95
+        },
+        {
+          "keyword": "外債",
+          "score": 94
+        },
+        {
+          "keyword": "ワールド カップ 順位",
+          "score": 93
+        },
+        {
+          "keyword": "谷岡慎一",
+          "score": 92
+        },
+        {
+          "keyword": "ジャパンディスプレイ",
           "score": 91
         }
       ]
