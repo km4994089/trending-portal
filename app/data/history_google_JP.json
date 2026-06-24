@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-19T23:59:56.724Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "アストロズ 対 ガーディアンズ",
-          "score": 100
-        },
-        {
-          "keyword": "西武鉄道",
-          "score": 99
-        },
-        {
-          "keyword": "ブラジル 対 ハイチ",
-          "score": 98
-        },
-        {
-          "keyword": "brazil vs haiti",
-          "score": 97
-        },
-        {
-          "keyword": "らんまん",
-          "score": 96
-        },
-        {
-          "keyword": "徳山競艇",
-          "score": 95
-        },
-        {
-          "keyword": "らんまん 朝ドラ",
-          "score": 94
-        },
-        {
-          "keyword": "清水麻椰",
-          "score": 93
-        },
-        {
-          "keyword": "伊藤百花",
-          "score": 92
-        },
-        {
-          "keyword": "青木崇高",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-20T03:53:27.480Z",
       "geo": "JP",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "panama vs croatia",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-24T02:12:59.962Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "道路標識",
+          "score": 100
+        },
+        {
+          "keyword": "チャッキー・ロビンソン",
+          "score": 99
+        },
+        {
+          "keyword": "colombia vs dr congo",
+          "score": 98
+        },
+        {
+          "keyword": "水卜 麻美",
+          "score": 97
+        },
+        {
+          "keyword": "コロンビア",
+          "score": 96
+        },
+        {
+          "keyword": "バレーボール ネーションズ リーグ",
+          "score": 95
+        },
+        {
+          "keyword": "四街道 火事",
+          "score": 94
+        },
+        {
+          "keyword": "コロンビア 対 コンゴ",
+          "score": 93
+        },
+        {
+          "keyword": "坂上忍",
+          "score": 92
+        },
+        {
+          "keyword": "井芹川",
           "score": 91
         }
       ]

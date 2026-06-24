@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-19T23:59:55.322Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "보건복지부",
-          "score": 100
-        },
-        {
-          "keyword": "마카오 오픈",
-          "score": 99
-        },
-        {
-          "keyword": "모로코",
-          "score": 98
-        },
-        {
-          "keyword": "성빈",
-          "score": 97
-        },
-        {
-          "keyword": "영국",
-          "score": 96
-        },
-        {
-          "keyword": "天氣",
-          "score": 95
-        },
-        {
-          "keyword": "날씨",
-          "score": 94
-        },
-        {
-          "keyword": "스포티비뉴스",
-          "score": 93
-        },
-        {
-          "keyword": "weather",
-          "score": 92
-        },
-        {
-          "keyword": "농협은행",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-20T03:53:26.272Z",
       "geo": "KR",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "애덤 올러",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-24T02:12:58.535Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "국회예산정책처",
+          "score": 100
+        },
+        {
+          "keyword": "nba draft",
+          "score": 99
+        },
+        {
+          "keyword": "권익현",
+          "score": 98
+        },
+        {
+          "keyword": "대한민국 남아공",
+          "score": 97
+        },
+        {
+          "keyword": "피의 게임",
+          "score": 96
+        },
+        {
+          "keyword": "연비",
+          "score": 95
+        },
+        {
+          "keyword": "박지성",
+          "score": 94
+        },
+        {
+          "keyword": "panama vs croatia",
+          "score": 93
+        },
+        {
+          "keyword": "정유공장",
+          "score": 92
+        },
+        {
+          "keyword": "현대백화점 울산점",
           "score": 91
         }
       ]
