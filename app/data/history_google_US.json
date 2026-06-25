@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-21T01:44:32.433Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "miami heat",
-          "score": 100
-        },
-        {
-          "keyword": "mark vientos",
-          "score": 99
-        },
-        {
-          "keyword": "fireworks near me",
-          "score": 98
-        },
-        {
-          "keyword": "carson kvapil",
-          "score": 97
-        },
-        {
-          "keyword": "phillies schedule",
-          "score": 96
-        },
-        {
-          "keyword": "special education",
-          "score": 95
-        },
-        {
-          "keyword": "phillies",
-          "score": 94
-        },
-        {
-          "keyword": "kamaru usman",
-          "score": 93
-        },
-        {
-          "keyword": "salvador perez",
-          "score": 92
-        },
-        {
-          "keyword": "kyrgyzstan",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-21T06:42:18.713Z",
       "geo": "US",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "japan earthquake",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-25T02:56:28.433Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "terrion arnold",
+          "score": 100
+        },
+        {
+          "keyword": "swimming",
+          "score": 99
+        },
+        {
+          "keyword": "vsevolod ishchenko",
+          "score": 98
+        },
+        {
+          "keyword": "events",
+          "score": 97
+        },
+        {
+          "keyword": "lajae jones",
+          "score": 96
+        },
+        {
+          "keyword": "nick martinelli",
+          "score": 95
+        },
+        {
+          "keyword": "bryce hopkins",
+          "score": 94
+        },
+        {
+          "keyword": "bryce james",
+          "score": 93
+        },
+        {
+          "keyword": "izaiyah nelson",
+          "score": 92
+        },
+        {
+          "keyword": "ugonna onyenso",
           "score": 91
         }
       ]
