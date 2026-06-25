@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-21T14:37:58.278Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "pegula",
-          "score": 100
-        },
-        {
-          "keyword": "ree drummond",
-          "score": 99
-        },
-        {
-          "keyword": "taylor fritz",
-          "score": 98
-        },
-        {
-          "keyword": "mothers day",
-          "score": 97
-        },
-        {
-          "keyword": "tim scott",
-          "score": 96
-        },
-        {
-          "keyword": "shooter jennings",
-          "score": 95
-        },
-        {
-          "keyword": "india vs south africa",
-          "score": 94
-        },
-        {
-          "keyword": "matteo arnaldi",
-          "score": 93
-        },
-        {
-          "keyword": "uruguay vs cabo verde",
-          "score": 92
-        },
-        {
-          "keyword": "france pierron",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-21T16:24:52.468Z",
       "geo": "US",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "cheese recall",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-25T15:36:26.760Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "playstation studios bungie update",
+          "score": 100
+        },
+        {
+          "keyword": "emma navarro",
+          "score": 99
+        },
+        {
+          "keyword": "david clayton thomas",
+          "score": 98
+        },
+        {
+          "keyword": "msft",
+          "score": 97
+        },
+        {
+          "keyword": "supreme court decisions today",
+          "score": 96
+        },
+        {
+          "keyword": "sl vs wi",
+          "score": 95
+        },
+        {
+          "keyword": "kawhi leonard",
+          "score": 94
+        },
+        {
+          "keyword": "miomir kecmanovic",
+          "score": 93
+        },
+        {
+          "keyword": "scotus",
+          "score": 92
+        },
+        {
+          "keyword": "scotusblog",
           "score": 91
         }
       ]
