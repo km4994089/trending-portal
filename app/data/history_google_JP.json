@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-21T22:39:44.163Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "部長",
-          "score": 100
-        },
-        {
-          "keyword": "郵政 民営 化",
-          "score": 99
-        },
-        {
-          "keyword": "京成電鉄",
-          "score": 98
-        },
-        {
-          "keyword": "佐々木彩夏",
-          "score": 97
-        },
-        {
-          "keyword": "シントトロイデン",
-          "score": 96
-        },
-        {
-          "keyword": "フィジカルai",
-          "score": 95
-        },
-        {
-          "keyword": "ウルグアイ",
-          "score": 94
-        },
-        {
-          "keyword": "ファナック",
-          "score": 93
-        },
-        {
-          "keyword": "北斗晶",
-          "score": 92
-        },
-        {
-          "keyword": "台風",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-22T00:03:26.133Z",
       "geo": "JP",
       "source": "google",
@@ -1690,6 +1643,53 @@
         },
         {
           "keyword": "南海",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-25T23:19:20.004Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "abema",
+          "score": 100
+        },
+        {
+          "keyword": "fifa",
+          "score": 99
+        },
+        {
+          "keyword": "エリス・スキリ",
+          "score": 98
+        },
+        {
+          "keyword": "ダゾーン",
+          "score": 97
+        },
+        {
+          "keyword": "ワールドカップ 中継",
+          "score": 96
+        },
+        {
+          "keyword": "ダゾーン サッカー",
+          "score": 95
+        },
+        {
+          "keyword": "リンデロフ",
+          "score": 94
+        },
+        {
+          "keyword": "文化放送",
+          "score": 93
+        },
+        {
+          "keyword": "daz",
+          "score": 92
+        },
+        {
+          "keyword": "dazn",
           "score": 91
         }
       ]

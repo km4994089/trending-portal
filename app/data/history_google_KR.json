@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-21T22:39:42.373Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "수영",
-          "score": 100
-        },
-        {
-          "keyword": "박진만",
-          "score": 99
-        },
-        {
-          "keyword": "조세",
-          "score": 98
-        },
-        {
-          "keyword": "우루과이 대 카보베르데",
-          "score": 97
-        },
-        {
-          "keyword": "부산날씨",
-          "score": 96
-        },
-        {
-          "keyword": "이민영",
-          "score": 95
-        },
-        {
-          "keyword": "복권",
-          "score": 94
-        },
-        {
-          "keyword": "ket qua bong da",
-          "score": 93
-        },
-        {
-          "keyword": "삼성",
-          "score": 92
-        },
-        {
-          "keyword": "이정후",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-22T00:03:24.854Z",
       "geo": "KR",
       "source": "google",
@@ -1690,6 +1643,53 @@
         },
         {
           "keyword": "채무",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-25T23:19:18.715Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "일본 대 스웨덴",
+          "score": 100
+        },
+        {
+          "keyword": "튀니지 대 네덜란드",
+          "score": 99
+        },
+        {
+          "keyword": "한학자",
+          "score": 98
+        },
+        {
+          "keyword": "스타필드 수원",
+          "score": 97
+        },
+        {
+          "keyword": "조국",
+          "score": 96
+        },
+        {
+          "keyword": "호주 파라과이",
+          "score": 95
+        },
+        {
+          "keyword": "송은이",
+          "score": 94
+        },
+        {
+          "keyword": "เอกวาดอร์ พบ เยอรมนี",
+          "score": 93
+        },
+        {
+          "keyword": "담보 대출",
+          "score": 92
+        },
+        {
+          "keyword": "대한민국 우주항공청",
           "score": 91
         }
       ]
