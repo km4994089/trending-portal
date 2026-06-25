@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-21T06:42:18.713Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "india a vs sri lanka a",
-          "score": 100
-        },
-        {
-          "keyword": "bronny james",
-          "score": 99
-        },
-        {
-          "keyword": "belgium vs iran",
-          "score": 98
-        },
-        {
-          "keyword": "zelensky",
-          "score": 97
-        },
-        {
-          "keyword": "kyle tucker",
-          "score": 96
-        },
-        {
-          "keyword": "mariners game",
-          "score": 95
-        },
-        {
-          "keyword": "rui hachimura",
-          "score": 94
-        },
-        {
-          "keyword": "tommy edman",
-          "score": 93
-        },
-        {
-          "keyword": "zion suzuki",
-          "score": 92
-        },
-        {
-          "keyword": "mariners game today",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-21T10:24:28.328Z",
       "geo": "US",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "playstation",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-25T10:11:16.285Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "allentown fire",
+          "score": 100
+        },
+        {
+          "keyword": "ariana grande",
+          "score": 99
+        },
+        {
+          "keyword": "postmaster general mail in ballots",
+          "score": 98
+        },
+        {
+          "keyword": "news",
+          "score": 97
+        },
+        {
+          "keyword": "eng vs nz",
+          "score": 96
+        },
+        {
+          "keyword": "workday lawsuit",
+          "score": 95
+        },
+        {
+          "keyword": "new york times",
+          "score": 94
+        },
+        {
+          "keyword": "seismic wave",
+          "score": 93
+        },
+        {
+          "keyword": "whistleblower lawsuit osf saint anthony",
+          "score": 92
+        },
+        {
+          "keyword": "fortnite server status",
           "score": 91
         }
       ]
