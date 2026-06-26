@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-22T23:11:06.250Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "2026",
-          "score": 100
-        },
-        {
-          "keyword": "테슬라",
-          "score": 99
-        },
-        {
-          "keyword": "pháp vs",
-          "score": 98
-        },
-        {
-          "keyword": "pltr",
-          "score": 97
-        },
-        {
-          "keyword": "김구라",
-          "score": 96
-        },
-        {
-          "keyword": "조세",
-          "score": 95
-        },
-        {
-          "keyword": "김포시",
-          "score": 94
-        },
-        {
-          "keyword": "s&p 500",
-          "score": 93
-        },
-        {
-          "keyword": "런닝맨",
-          "score": 92
-        },
-        {
-          "keyword": "롯데 자이언츠",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-23T01:27:49.826Z",
       "geo": "KR",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "대한민국 국회 상임위원회",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-26T23:54:31.033Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "윤가이",
+          "score": 100
+        },
+        {
+          "keyword": "경제",
+          "score": 99
+        },
+        {
+          "keyword": "닷컴 버블",
+          "score": 98
+        },
+        {
+          "keyword": "금융위기",
+          "score": 97
+        },
+        {
+          "keyword": "기쁜 우리 좋은 날",
+          "score": 96
+        },
+        {
+          "keyword": "세네갈 축구 국가대표팀",
+          "score": 95
+        },
+        {
+          "keyword": "르윈 디아즈",
+          "score": 94
+        },
+        {
+          "keyword": "기부",
+          "score": 93
+        },
+        {
+          "keyword": "손예진",
+          "score": 92
+        },
+        {
+          "keyword": "송하윤",
           "score": 91
         }
       ]

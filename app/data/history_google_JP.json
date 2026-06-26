@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-22T23:11:07.265Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "自社株買い",
-          "score": 100
-        },
-        {
-          "keyword": "生田絵梨花",
-          "score": 99
-        },
-        {
-          "keyword": "マオリ・オールブラックス",
-          "score": 98
-        },
-        {
-          "keyword": "メッツ 対 カブス",
-          "score": 97
-        },
-        {
-          "keyword": "ツインズ 対 ドジャース",
-          "score": 96
-        },
-        {
-          "keyword": "レッズ 対 ブルワーズ",
-          "score": 95
-        },
-        {
-          "keyword": "速水 もこみち",
-          "score": 94
-        },
-        {
-          "keyword": "フォーミュラ1",
-          "score": 93
-        },
-        {
-          "keyword": "フィジカルai",
-          "score": 92
-        },
-        {
-          "keyword": "宮古島 地震",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-23T01:27:50.932Z",
       "geo": "JP",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "韓国ドラマ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-26T23:54:32.630Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "サッカーワールドカップ 決勝トーナメント",
+          "score": 100
+        },
+        {
+          "keyword": "清水麻椰",
+          "score": 99
+        },
+        {
+          "keyword": "ウルグアイ 対 スペイン",
+          "score": 98
+        },
+        {
+          "keyword": "uruguay vs spain",
+          "score": 97
+        },
+        {
+          "keyword": "レッドソックス 対 ヤンキース",
+          "score": 96
+        },
+        {
+          "keyword": "レイズ 対 dバックス",
+          "score": 95
+        },
+        {
+          "keyword": "ガーディアンズ 対 マリナーズ",
+          "score": 94
+        },
+        {
+          "keyword": "メッツ 対 フィリーズ",
+          "score": 93
+        },
+        {
+          "keyword": "タイガース 対 アストロズ",
+          "score": 92
+        },
+        {
+          "keyword": "村上虹郎 父",
           "score": 91
         }
       ]
