@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-22T16:27:26.243Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "アルゼンチン 対 オーストリア",
-          "score": 100
-        },
-        {
-          "keyword": "渡辺美里",
-          "score": 99
-        },
-        {
-          "keyword": "森カンナ",
-          "score": 98
-        },
-        {
-          "keyword": "三崎優太",
-          "score": 97
-        },
-        {
-          "keyword": "田鎖ブラザーズ 最後どうなった",
-          "score": 96
-        },
-        {
-          "keyword": "京セラドーム",
-          "score": 95
-        },
-        {
-          "keyword": "ラニーノーズ",
-          "score": 94
-        },
-        {
-          "keyword": "豊臣兄弟!",
-          "score": 93
-        },
-        {
-          "keyword": "宝くじ当選番号",
-          "score": 92
-        },
-        {
-          "keyword": "内田理央",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-22T19:53:11.538Z",
       "geo": "JP",
       "source": "google",
@@ -1784,6 +1737,53 @@
         },
         {
           "keyword": "静岡",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-26T17:12:45.315Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ireland vs india",
+          "score": 100
+        },
+        {
+          "keyword": "杉原愛子",
+          "score": 99
+        },
+        {
+          "keyword": "セルゲイ・イワノフ",
+          "score": 98
+        },
+        {
+          "keyword": "チャンス大城",
+          "score": 97
+        },
+        {
+          "keyword": "東名高速 通行止め",
+          "score": 96
+        },
+        {
+          "keyword": "terremoto",
+          "score": 95
+        },
+        {
+          "keyword": "能登半島地震",
+          "score": 94
+        },
+        {
+          "keyword": "南海トラフ巨大地震",
+          "score": 93
+        },
+        {
+          "keyword": "首都直下地震",
+          "score": 92
+        },
+        {
+          "keyword": "余震",
           "score": 91
         }
       ]
