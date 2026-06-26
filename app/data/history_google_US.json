@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-22T00:03:23.895Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "brian rodríguez",
-          "score": 100
-        },
-        {
-          "keyword": "chipotle app",
-          "score": 99
-        },
-        {
-          "keyword": "sugar apple tv",
-          "score": 98
-        },
-        {
-          "keyword": "delta air lines",
-          "score": 97
-        },
-        {
-          "keyword": "dune 3",
-          "score": 96
-        },
-        {
-          "keyword": "brandon marsh",
-          "score": 95
-        },
-        {
-          "keyword": "david peterson",
-          "score": 94
-        },
-        {
-          "keyword": "john kruk",
-          "score": 93
-        },
-        {
-          "keyword": "meteor shower",
-          "score": 92
-        },
-        {
-          "keyword": "m araujo",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-22T05:38:06.011Z",
       "geo": "US",
       "source": "google",
@@ -1690,6 +1643,53 @@
         },
         {
           "keyword": "chris evert",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-26T01:34:42.483Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "antonio freeman",
+          "score": 100
+        },
+        {
+          "keyword": "wings vs aces",
+          "score": 99
+        },
+        {
+          "keyword": "clint dempsey",
+          "score": 98
+        },
+        {
+          "keyword": "gad saad",
+          "score": 97
+        },
+        {
+          "keyword": "miles robinson",
+          "score": 96
+        },
+        {
+          "keyword": "brenden aaronson",
+          "score": 95
+        },
+        {
+          "keyword": "mark mckenzie",
+          "score": 94
+        },
+        {
+          "keyword": "payton pritchard",
+          "score": 93
+        },
+        {
+          "keyword": "usa soccer schedule",
+          "score": 92
+        },
+        {
+          "keyword": "carli lloyd",
           "score": 91
         }
       ]
