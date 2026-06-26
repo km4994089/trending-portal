@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-22T11:33:28.874Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "stock market news today",
-          "score": 100
-        },
-        {
-          "keyword": "tennis scores today",
-          "score": 99
-        },
-        {
-          "keyword": "cryptocurrency trading",
-          "score": 98
-        },
-        {
-          "keyword": "alan greenspan",
-          "score": 97
-        },
-        {
-          "keyword": "latest iphone rumors",
-          "score": 96
-        },
-        {
-          "keyword": "best shows on hbo max",
-          "score": 95
-        },
-        {
-          "keyword": "influencer marketing",
-          "score": 94
-        },
-        {
-          "keyword": "soccer world rankings",
-          "score": 93
-        },
-        {
-          "keyword": "decentralized finance",
-          "score": 92
-        },
-        {
-          "keyword": "what is a heat dome",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-22T16:27:23.920Z",
       "geo": "US",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "cloud",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-26T12:06:58.981Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jamal morton",
+          "score": 100
+        },
+        {
+          "keyword": "ire vs ind",
+          "score": 99
+        },
+        {
+          "keyword": "naomi osaka",
+          "score": 98
+        },
+        {
+          "keyword": "wimbledon",
+          "score": 97
+        },
+        {
+          "keyword": "maggie haberman",
+          "score": 96
+        },
+        {
+          "keyword": "liberty vote mike lindell dispute",
+          "score": 95
+        },
+        {
+          "keyword": "acute",
+          "score": 94
+        },
+        {
+          "keyword": "john bolton",
+          "score": 93
+        },
+        {
+          "keyword": "ostapenko",
+          "score": 92
+        },
+        {
+          "keyword": "david vander meer",
           "score": 91
         }
       ]

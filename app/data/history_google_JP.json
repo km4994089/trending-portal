@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-22T11:33:31.050Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "カボベルデ",
-          "score": 100
-        },
-        {
-          "keyword": "鈴木保奈美",
-          "score": 99
-        },
-        {
-          "keyword": "牛角",
-          "score": 98
-        },
-        {
-          "keyword": "北村匠海",
-          "score": 97
-        },
-        {
-          "keyword": "糸井嘉男",
-          "score": 96
-        },
-        {
-          "keyword": "東京マラソン",
-          "score": 95
-        },
-        {
-          "keyword": "河村勇輝",
-          "score": 94
-        },
-        {
-          "keyword": "ゴディバ",
-          "score": 93
-        },
-        {
-          "keyword": "護衛艦",
-          "score": 92
-        },
-        {
-          "keyword": "var",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-22T16:27:26.243Z",
       "geo": "JP",
       "source": "google",
@@ -1737,6 +1690,53 @@
         },
         {
           "keyword": "東野絢香",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-26T12:07:01.682Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ヒカキン",
+          "score": 100
+        },
+        {
+          "keyword": "sanada",
+          "score": 99
+        },
+        {
+          "keyword": "ゴン中山",
+          "score": 98
+        },
+        {
+          "keyword": "バレーボール男子日本代表",
+          "score": 97
+        },
+        {
+          "keyword": "ラヴィット!",
+          "score": 96
+        },
+        {
+          "keyword": "鈴木福",
+          "score": 95
+        },
+        {
+          "keyword": "キュラソー",
+          "score": 94
+        },
+        {
+          "keyword": "チャンギ空港",
+          "score": 93
+        },
+        {
+          "keyword": "吉田賢吾",
+          "score": 92
+        },
+        {
+          "keyword": "峯岸みなみ",
           "score": 91
         }
       ]
