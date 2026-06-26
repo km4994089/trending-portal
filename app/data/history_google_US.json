@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-22T19:53:09.114Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "keith tkachuk",
-          "score": 100
-        },
-        {
-          "keyword": "anthony davis",
-          "score": 99
-        },
-        {
-          "keyword": "france world cup",
-          "score": 98
-        },
-        {
-          "keyword": "little caesars spider-man pizza",
-          "score": 97
-        },
-        {
-          "keyword": "golden boot world cup",
-          "score": 96
-        },
-        {
-          "keyword": "allegiant",
-          "score": 95
-        },
-        {
-          "keyword": "utah fires",
-          "score": 94
-        },
-        {
-          "keyword": "amd",
-          "score": 93
-        },
-        {
-          "keyword": "tucker carlson",
-          "score": 92
-        },
-        {
-          "keyword": "group j standings",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-22T21:54:52.970Z",
       "geo": "US",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "great american state fair opening",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-26T21:02:12.970Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "pete buttigieg",
+          "score": 100
+        },
+        {
+          "keyword": "patton oswalt",
+          "score": 99
+        },
+        {
+          "keyword": "haunted chocolatier",
+          "score": 98
+        },
+        {
+          "keyword": "student loan save plan update",
+          "score": 97
+        },
+        {
+          "keyword": "canada gcap fighter interest",
+          "score": 96
+        },
+        {
+          "keyword": "michael olise",
+          "score": 95
+        },
+        {
+          "keyword": "olise",
+          "score": 94
+        },
+        {
+          "keyword": "theo hernandez",
+          "score": 93
+        },
+        {
+          "keyword": "senegal fc",
+          "score": 92
+        },
+        {
+          "keyword": "los angeles lakers",
           "score": 91
         }
       ]
