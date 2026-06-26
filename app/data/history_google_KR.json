@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-22T05:38:07.193Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "배용준",
-          "score": 100
-        },
-        {
-          "keyword": "하이닉스",
-          "score": 99
-        },
-        {
-          "keyword": "김고은",
-          "score": 98
-        },
-        {
-          "keyword": "캐나다 잠수함",
-          "score": 97
-        },
-        {
-          "keyword": "장윤기",
-          "score": 96
-        },
-        {
-          "keyword": "리얼미터",
-          "score": 95
-        },
-        {
-          "keyword": "손석희",
-          "score": 94
-        },
-        {
-          "keyword": "북한",
-          "score": 93
-        },
-        {
-          "keyword": "관세청",
-          "score": 92
-        },
-        {
-          "keyword": "모하메드 살라",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-22T11:33:29.946Z",
       "geo": "KR",
       "source": "google",
@@ -1690,6 +1643,53 @@
         },
         {
           "keyword": "윤이나",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-26T06:01:17.041Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "엘지트윈스",
+          "score": 100
+        },
+        {
+          "keyword": "김민형",
+          "score": 99
+        },
+        {
+          "keyword": "스페인 우루과이",
+          "score": 98
+        },
+        {
+          "keyword": "옌스 카스트로 프",
+          "score": 97
+        },
+        {
+          "keyword": "압수수색",
+          "score": 96
+        },
+        {
+          "keyword": "일본 태풍",
+          "score": 95
+        },
+        {
+          "keyword": "기쁜 우리 좋은 날",
+          "score": 94
+        },
+        {
+          "keyword": "일본 지진",
+          "score": 93
+        },
+        {
+          "keyword": "박서진",
+          "score": 92
+        },
+        {
+          "keyword": "수애",
           "score": 91
         }
       ]
