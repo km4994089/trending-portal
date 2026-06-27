@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-23T01:27:48.781Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ariana madix",
-          "score": 100
-        },
-        {
-          "keyword": "ismaïla sarr",
-          "score": 99
-        },
-        {
-          "keyword": "vikings",
-          "score": 98
-        },
-        {
-          "keyword": "jalen hurts",
-          "score": 97
-        },
-        {
-          "keyword": "norway soccer players",
-          "score": 96
-        },
-        {
-          "keyword": "group i standings",
-          "score": 95
-        },
-        {
-          "keyword": "edouard mendy",
-          "score": 94
-        },
-        {
-          "keyword": "braut haaland",
-          "score": 93
-        },
-        {
-          "keyword": "halland",
-          "score": 92
-        },
-        {
-          "keyword": "lj mercurius",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-23T05:37:48.108Z",
       "geo": "US",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "uruguay - españa",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-27T02:09:54.322Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ferran torres",
+          "score": 100
+        },
+        {
+          "keyword": "ryan lin",
+          "score": 99
+        },
+        {
+          "keyword": "liam ruck",
+          "score": 98
+        },
+        {
+          "keyword": "flyers",
+          "score": 97
+        },
+        {
+          "keyword": "sydney taylor",
+          "score": 96
+        },
+        {
+          "keyword": "new zealand vs belgium",
+          "score": 95
+        },
+        {
+          "keyword": "gal love island",
+          "score": 94
+        },
+        {
+          "keyword": "mitch spence",
+          "score": 93
+        },
+        {
+          "keyword": "parmida love island",
+          "score": 92
+        },
+        {
+          "keyword": "kellyanne conway",
           "score": 91
         }
       ]
