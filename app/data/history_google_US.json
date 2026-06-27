@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-23T19:22:28.692Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ballon d'or",
-          "score": 100
-        },
-        {
-          "keyword": "wendell pierce",
-          "score": 99
-        },
-        {
-          "keyword": "mass lottery",
-          "score": 98
-        },
-        {
-          "keyword": "tiger woods",
-          "score": 97
-        },
-        {
-          "keyword": "united states presidential approval rating",
-          "score": 96
-        },
-        {
-          "keyword": "red dead redemption 3",
-          "score": 95
-        },
-        {
-          "keyword": "hannah brown",
-          "score": 94
-        },
-        {
-          "keyword": "fifa schedule",
-          "score": 93
-        },
-        {
-          "keyword": "fire weather watch",
-          "score": 92
-        },
-        {
-          "keyword": "ben malgeri",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-23T21:10:32.357Z",
       "geo": "US",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "max schuemann",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-27T20:35:40.565Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "panamá - inglaterra",
+          "score": 100
+        },
+        {
+          "keyword": "croacia - ghana",
+          "score": 99
+        },
+        {
+          "keyword": "john carlson",
+          "score": 98
+        },
+        {
+          "keyword": "ivan ivan",
+          "score": 97
+        },
+        {
+          "keyword": "alexander karmanov",
+          "score": 96
+        },
+        {
+          "keyword": "harry styles",
+          "score": 95
+        },
+        {
+          "keyword": "aroldis chapman",
+          "score": 94
+        },
+        {
+          "keyword": "tiffany stratton",
+          "score": 93
+        },
+        {
+          "keyword": "wyatt langford",
+          "score": 92
+        },
+        {
+          "keyword": "red sox",
           "score": 91
         }
       ]
