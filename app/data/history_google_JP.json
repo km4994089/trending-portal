@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-23T21:10:34.618Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "佐伯 三貴",
-          "score": 100
-        },
-        {
-          "keyword": "気象庁",
-          "score": 99
-        },
-        {
-          "keyword": "エヌビディア 株価",
-          "score": 98
-        },
-        {
-          "keyword": "京都 天気",
-          "score": 97
-        },
-        {
-          "keyword": "インテル株価",
-          "score": 96
-        },
-        {
-          "keyword": "ソックス指数",
-          "score": 95
-        },
-        {
-          "keyword": "mu",
-          "score": 94
-        },
-        {
-          "keyword": "レベル4大雨危険警報",
-          "score": 93
-        },
-        {
-          "keyword": "株式",
-          "score": 92
-        },
-        {
-          "keyword": "イングランド",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-23T22:43:32.622Z",
       "geo": "JP",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "音楽教師",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-27T21:53:52.656Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "バナナマン日村",
+          "score": 100
+        },
+        {
+          "keyword": "今井春花",
+          "score": 99
+        },
+        {
+          "keyword": "キアナ・ジェームス",
+          "score": 98
+        },
+        {
+          "keyword": "ザ鉄腕dash",
+          "score": 97
+        },
+        {
+          "keyword": "新しい地図",
+          "score": 96
+        },
+        {
+          "keyword": "満田誠",
+          "score": 95
+        },
+        {
+          "keyword": "国債",
+          "score": 94
+        },
+        {
+          "keyword": "panama vs england",
+          "score": 93
+        },
+        {
+          "keyword": "croatia vs ghana",
+          "score": 92
+        },
+        {
+          "keyword": "本田 圭佑",
           "score": 91
         }
       ]
