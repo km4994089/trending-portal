@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-23T14:32:00.711Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ヒコロヒー",
-          "score": 100
-        },
-        {
-          "keyword": "sndk 株価",
-          "score": 99
-        },
-        {
-          "keyword": "インテル 株価",
-          "score": 98
-        },
-        {
-          "keyword": "千鳥",
-          "score": 97
-        },
-        {
-          "keyword": "有田哲平",
-          "score": 96
-        },
-        {
-          "keyword": "望月亜紀容疑者",
-          "score": 95
-        },
-        {
-          "keyword": "大坂なおみ",
-          "score": 94
-        },
-        {
-          "keyword": "骨太の方針",
-          "score": 93
-        },
-        {
-          "keyword": "sox",
-          "score": 92
-        },
-        {
-          "keyword": "yoshi-hashi",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-23T17:10:02.614Z",
       "geo": "JP",
       "source": "google",
@@ -1925,6 +1878,53 @@
         },
         {
           "keyword": "ハンセン病",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-27T15:45:41.365Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "千原ジュニア",
+          "score": 100
+        },
+        {
+          "keyword": "コナーマクレガー",
+          "score": 99
+        },
+        {
+          "keyword": "サガン鳥栖",
+          "score": 98
+        },
+        {
+          "keyword": "テレ東音楽祭",
+          "score": 97
+        },
+        {
+          "keyword": "enc valorant",
+          "score": 96
+        },
+        {
+          "keyword": "twitch",
+          "score": 95
+        },
+        {
+          "keyword": "民族団結進歩促進法",
+          "score": 94
+        },
+        {
+          "keyword": "村上虹郎父",
+          "score": 93
+        },
+        {
+          "keyword": "ゴン中山",
+          "score": 92
+        },
+        {
+          "keyword": "前園真聖",
           "score": 91
         }
       ]
