@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-24T21:07:32.174Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ウクライナ軍",
-          "score": 100
-        },
-        {
-          "keyword": "サッカー日本代表 ワールドカップ",
-          "score": 99
-        },
-        {
-          "keyword": "iphone17 値上げ",
-          "score": 98
-        },
-        {
-          "keyword": "山陽本線",
-          "score": 97
-        },
-        {
-          "keyword": "キオクシア adr",
-          "score": 96
-        },
-        {
-          "keyword": "佳子さま",
-          "score": 95
-        },
-        {
-          "keyword": "道路交通情報",
-          "score": 94
-        },
-        {
-          "keyword": "河本準一",
-          "score": 93
-        },
-        {
-          "keyword": "みなみかわ",
-          "score": 92
-        },
-        {
-          "keyword": "マイクロン株価",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-24T22:43:51.872Z",
       "geo": "JP",
       "source": "google",
@@ -2160,6 +2113,53 @@
         },
         {
           "keyword": "大勢",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-28T21:53:46.811Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "近鉄",
+          "score": 100
+        },
+        {
+          "keyword": "ビットコイン",
+          "score": 99
+        },
+        {
+          "keyword": "カイル・シュワーバー",
+          "score": 98
+        },
+        {
+          "keyword": "松島輝空",
+          "score": 97
+        },
+        {
+          "keyword": "踊る大捜査線",
+          "score": 96
+        },
+        {
+          "keyword": "マニー・マチャド",
+          "score": 95
+        },
+        {
+          "keyword": "大相撲",
+          "score": 94
+        },
+        {
+          "keyword": "ガーディアンズ 対 マリナーズ",
+          "score": 93
+        },
+        {
+          "keyword": "旗手 怜 央",
+          "score": 92
+        },
+        {
+          "keyword": "無期 刑",
           "score": 91
         }
       ]
