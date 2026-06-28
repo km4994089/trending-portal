@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-24T23:58:13.671Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "hulu",
-          "score": 100
-        },
-        {
-          "keyword": "gerard butler",
-          "score": 99
-        },
-        {
-          "keyword": "paul goldschmidt",
-          "score": 98
-        },
-        {
-          "keyword": "usps proposed mail ballot rule",
-          "score": 97
-        },
-        {
-          "keyword": "wilson isidor",
-          "score": 96
-        },
-        {
-          "keyword": "ecuador vs germany",
-          "score": 95
-        },
-        {
-          "keyword": "mercury vs fever",
-          "score": 94
-        },
-        {
-          "keyword": "lynx vs mystics",
-          "score": 93
-        },
-        {
-          "keyword": "turkiye vs turkey",
-          "score": 92
-        },
-        {
-          "keyword": "japan earthquake",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-25T02:56:28.433Z",
       "geo": "US",
       "source": "google",
@@ -2160,6 +2113,53 @@
         },
         {
           "keyword": "bill cassidy donald trump congress",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-28T23:59:53.632Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "gabby williams",
+          "score": 100
+        },
+        {
+          "keyword": "kawhi leonard",
+          "score": 99
+        },
+        {
+          "keyword": "dave ramsey",
+          "score": 98
+        },
+        {
+          "keyword": "golf",
+          "score": 97
+        },
+        {
+          "keyword": "yankees vs red sox",
+          "score": 96
+        },
+        {
+          "keyword": "is doordash down",
+          "score": 95
+        },
+        {
+          "keyword": "u.s. department of homeland security",
+          "score": 94
+        },
+        {
+          "keyword": "nxt great american bash 2026",
+          "score": 93
+        },
+        {
+          "keyword": "nascar standings",
+          "score": 92
+        },
+        {
+          "keyword": "ty gibbs",
           "score": 91
         }
       ]
