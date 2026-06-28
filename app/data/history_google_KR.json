@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-24T22:43:50.516Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "날씨",
-          "score": 100
-        },
-        {
-          "keyword": "weather",
-          "score": 99
-        },
-        {
-          "keyword": "morocco vs haiti",
-          "score": 98
-        },
-        {
-          "keyword": "погода",
-          "score": 97
-        },
-        {
-          "keyword": "임지연",
-          "score": 96
-        },
-        {
-          "keyword": "세계 청년 대회",
-          "score": 95
-        },
-        {
-          "keyword": "switzerland vs canada",
-          "score": 94
-        },
-        {
-          "keyword": "알테오젠",
-          "score": 93
-        },
-        {
-          "keyword": "scotland vs brazil",
-          "score": 92
-        },
-        {
-          "keyword": "ionq",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-24T23:58:14.795Z",
       "geo": "KR",
       "source": "google",
@@ -2160,6 +2113,53 @@
         },
         {
           "keyword": "일본 축구 국가대표팀",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-28T22:54:06.495Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "안정환",
+          "score": 100
+        },
+        {
+          "keyword": "오타니 쇼헤이",
+          "score": 99
+        },
+        {
+          "keyword": "이재명 지지율",
+          "score": 98
+        },
+        {
+          "keyword": "파리 생제르맹 fc",
+          "score": 97
+        },
+        {
+          "keyword": "컵스 대 브루어스",
+          "score": 96
+        },
+        {
+          "keyword": "사건",
+          "score": 95
+        },
+        {
+          "keyword": "잠수함",
+          "score": 94
+        },
+        {
+          "keyword": "미국 해군",
+          "score": 93
+        },
+        {
+          "keyword": "김병현",
+          "score": 92
+        },
+        {
+          "keyword": "복권",
           "score": 91
         }
       ]

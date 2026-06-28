@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-24T22:43:51.872Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "地震",
-          "score": 100
-        },
-        {
-          "keyword": "最大震度6強の地震",
-          "score": 99
-        },
-        {
-          "keyword": "地震速報",
-          "score": 98
-        },
-        {
-          "keyword": "ブラジル",
-          "score": 97
-        },
-        {
-          "keyword": "福岡市長",
-          "score": 96
-        },
-        {
-          "keyword": "グループc",
-          "score": 95
-        },
-        {
-          "keyword": "喜多ゆかり",
-          "score": 94
-        },
-        {
-          "keyword": "ヴィニシウス・ジュニオール",
-          "score": 93
-        },
-        {
-          "keyword": "brazil vs scotland",
-          "score": 92
-        },
-        {
-          "keyword": "降水量",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-24T23:58:16.178Z",
       "geo": "JP",
       "source": "google",
@@ -2160,6 +2113,53 @@
         },
         {
           "keyword": "無期 刑",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-28T22:54:07.707Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "フェルナンド・タティス・ジュニア",
+          "score": 100
+        },
+        {
+          "keyword": "ワールドカップ 日本 ブラジル",
+          "score": 99
+        },
+        {
+          "keyword": "ジャイアンツ 対 ブレーブス",
+          "score": 98
+        },
+        {
+          "keyword": "松井裕樹",
+          "score": 97
+        },
+        {
+          "keyword": "松嶋菜々子",
+          "score": 96
+        },
+        {
+          "keyword": "村上虹郎 親",
+          "score": 95
+        },
+        {
+          "keyword": "近鉄",
+          "score": 94
+        },
+        {
+          "keyword": "ビットコイン",
+          "score": 93
+        },
+        {
+          "keyword": "松島輝空",
+          "score": 92
+        },
+        {
+          "keyword": "カイル・シュワーバー",
           "score": 91
         }
       ]
