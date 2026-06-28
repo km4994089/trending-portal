@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-24T12:14:03.267Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "水曜どうでしょう",
-          "score": 100
-        },
-        {
-          "keyword": "weather tomorrow",
-          "score": 99
-        },
-        {
-          "keyword": "中野駅",
-          "score": 98
-        },
-        {
-          "keyword": "gta6",
-          "score": 97
-        },
-        {
-          "keyword": "cuaca besok",
-          "score": 96
-        },
-        {
-          "keyword": "会長",
-          "score": 95
-        },
-        {
-          "keyword": "フランス 気温",
-          "score": 94
-        },
-        {
-          "keyword": "gジェネエターナル",
-          "score": 93
-        },
-        {
-          "keyword": "女子サッカー",
-          "score": 92
-        },
-        {
-          "keyword": "ペルソナ ローソン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-24T15:15:35.285Z",
       "geo": "JP",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "シャドバ ビヨンド",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-28T13:15:20.622Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "fod",
+          "score": 100
+        },
+        {
+          "keyword": "ゴールデンストーンズ",
+          "score": 99
+        },
+        {
+          "keyword": "住道 人身事故",
+          "score": 98
+        },
+        {
+          "keyword": "小椋藍",
+          "score": 97
+        },
+        {
+          "keyword": "天気図 気象庁",
+          "score": 96
+        },
+        {
+          "keyword": "冨安 健洋",
+          "score": 95
+        },
+        {
+          "keyword": "小籔千豊",
+          "score": 94
+        },
+        {
+          "keyword": "有働由美子",
+          "score": 93
+        },
+        {
+          "keyword": "バルセロナ",
+          "score": 92
+        },
+        {
+          "keyword": "洪明甫",
           "score": 91
         }
       ]
