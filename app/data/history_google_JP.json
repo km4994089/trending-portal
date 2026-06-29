@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-25T20:27:49.554Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jr 西日本 運行状況",
-          "score": 100
-        },
-        {
-          "keyword": "boa",
-          "score": 99
-        },
-        {
-          "keyword": "停電",
-          "score": 98
-        },
-        {
-          "keyword": "停電情報",
-          "score": 97
-        },
-        {
-          "keyword": "大阪市 天気",
-          "score": 96
-        },
-        {
-          "keyword": "レベル3大雨警報",
-          "score": 95
-        },
-        {
-          "keyword": "jr",
-          "score": 94
-        },
-        {
-          "keyword": "ジャイアンツ 対 アスレチックス",
-          "score": 93
-        },
-        {
-          "keyword": "雨",
-          "score": 92
-        },
-        {
-          "keyword": "ecuador vs germany",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-25T21:59:41.003Z",
       "geo": "JP",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "ノルウェー fifa ランキング",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-29T20:48:35.878Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "全国知事会",
+          "score": 100
+        },
+        {
+          "keyword": "守田",
+          "score": 99
+        },
+        {
+          "keyword": "ドイツ 対 パラグアイ",
+          "score": 98
+        },
+        {
+          "keyword": "外来アユ",
+          "score": 97
+        },
+        {
+          "keyword": "田中碧 クーニャ",
+          "score": 96
+        },
+        {
+          "keyword": "ドイツ",
+          "score": 95
+        },
+        {
+          "keyword": "パラグアイ",
+          "score": 94
+        },
+        {
+          "keyword": "長谷部誠",
+          "score": 93
+        },
+        {
+          "keyword": "jfa",
+          "score": 92
+        },
+        {
+          "keyword": "ワールドカップ 優勝国",
           "score": 91
         }
       ]
