@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-25T21:59:41.003Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "櫻井翔",
-          "score": 100
-        },
-        {
-          "keyword": "エクアドル代表",
-          "score": 99
-        },
-        {
-          "keyword": "福岡市 休校",
-          "score": 98
-        },
-        {
-          "keyword": "ダゾーン ワールドカップ",
-          "score": 97
-        },
-        {
-          "keyword": "stray kids run it",
-          "score": 96
-        },
-        {
-          "keyword": "解体",
-          "score": 95
-        },
-        {
-          "keyword": "天気",
-          "score": 94
-        },
-        {
-          "keyword": "名鉄",
-          "score": 93
-        },
-        {
-          "keyword": "雨 警報",
-          "score": 92
-        },
-        {
-          "keyword": "南海",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-25T23:19:20.004Z",
       "geo": "JP",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "ワールドカップ 優勝国",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-29T22:04:01.561Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "金",
+          "score": 100
+        },
+        {
+          "keyword": "自社株買い",
+          "score": 99
+        },
+        {
+          "keyword": "đức vs",
+          "score": 98
+        },
+        {
+          "keyword": "所得税",
+          "score": 97
+        },
+        {
+          "keyword": "ミスコン",
+          "score": 96
+        },
+        {
+          "keyword": "kết quả bóng đá",
+          "score": 95
+        },
+        {
+          "keyword": "近鉄",
+          "score": 94
+        },
+        {
+          "keyword": "裁判",
+          "score": 93
+        },
+        {
+          "keyword": "バレーボール",
+          "score": 92
+        },
+        {
+          "keyword": "死体",
           "score": 91
         }
       ]

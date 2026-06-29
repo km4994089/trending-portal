@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-25T21:59:38.292Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "world cup standing",
-          "score": 100
-        },
-        {
-          "keyword": "gilmore girls netflix",
-          "score": 99
-        },
-        {
-          "keyword": "sebastián beccacece",
-          "score": 98
-        },
-        {
-          "keyword": "haiti national football team",
-          "score": 97
-        },
-        {
-          "keyword": "valeri nichushkin",
-          "score": 96
-        },
-        {
-          "keyword": "nicolas pépé",
-          "score": 95
-        },
-        {
-          "keyword": "netherlands vs tunisia",
-          "score": 94
-        },
-        {
-          "keyword": "partidos de mundial",
-          "score": 93
-        },
-        {
-          "keyword": "south africa vs netherlands",
-          "score": 92
-        },
-        {
-          "keyword": "norway vs france",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-25T23:19:17.605Z",
       "geo": "US",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "copa do mundo",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-29T22:03:58.984Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "pirates vs phillies",
+          "score": 100
+        },
+        {
+          "keyword": "morocco vs netherlands",
+          "score": 99
+        },
+        {
+          "keyword": "white sox vs orioles",
+          "score": 98
+        },
+        {
+          "keyword": "kalshi",
+          "score": 97
+        },
+        {
+          "keyword": "kenrich williams",
+          "score": 96
+        },
+        {
+          "keyword": "david gustafsson",
+          "score": 95
+        },
+        {
+          "keyword": "nc jail inmate takeover",
+          "score": 94
+        },
+        {
+          "keyword": "alemanha x paraguai",
+          "score": 93
+        },
+        {
+          "keyword": "jonathan kuminga",
+          "score": 92
+        },
+        {
+          "keyword": "monaco",
           "score": 91
         }
       ]
