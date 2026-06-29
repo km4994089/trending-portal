@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-25T18:02:48.291Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tom dundon",
-          "score": 100
-        },
-        {
-          "keyword": "hendrix lapierre",
-          "score": 99
-        },
-        {
-          "keyword": "surgery",
-          "score": 98
-        },
-        {
-          "keyword": "allure katseye",
-          "score": 97
-        },
-        {
-          "keyword": "supreme court hawaii",
-          "score": 96
-        },
-        {
-          "keyword": "bangladesh vs india",
-          "score": 95
-        },
-        {
-          "keyword": "bond",
-          "score": 94
-        },
-        {
-          "keyword": "trump mail ballot order ruling",
-          "score": 93
-        },
-        {
-          "keyword": "garnet hathaway",
-          "score": 92
-        },
-        {
-          "keyword": "world cup best teams 2026",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-25T20:27:46.975Z",
       "geo": "US",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "freedom of the press",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-29T18:58:32.132Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "aj greer",
+          "score": 100
+        },
+        {
+          "keyword": "coco gauff",
+          "score": 99
+        },
+        {
+          "keyword": "novak djokovic",
+          "score": 98
+        },
+        {
+          "keyword": "endrick",
+          "score": 97
+        },
+        {
+          "keyword": "mirra andreeva",
+          "score": 96
+        },
+        {
+          "keyword": "james gunn",
+          "score": 95
+        },
+        {
+          "keyword": "mtg banned restricted announcement",
+          "score": 94
+        },
+        {
+          "keyword": "roy moore",
+          "score": 93
+        },
+        {
+          "keyword": "coach",
+          "score": 92
+        },
+        {
+          "keyword": "japan game",
           "score": 91
         }
       ]
