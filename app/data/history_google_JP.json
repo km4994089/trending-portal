@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-25T02:56:31.051Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "グーグル",
-          "score": 100
-        },
-        {
-          "keyword": "失点",
-          "score": 99
-        },
-        {
-          "keyword": "タイピング",
-          "score": 98
-        },
-        {
-          "keyword": "出場 停止",
-          "score": 97
-        },
-        {
-          "keyword": "グループa",
-          "score": 96
-        },
-        {
-          "keyword": "高嶋政伸",
-          "score": 95
-        },
-        {
-          "keyword": "風、薫る",
-          "score": 94
-        },
-        {
-          "keyword": "south africa vs south korea",
-          "score": 93
-        },
-        {
-          "keyword": "カーネーション",
-          "score": 92
-        },
-        {
-          "keyword": "czechia vs mexico",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-25T06:42:00.316Z",
       "geo": "JP",
       "source": "google",
@@ -2160,6 +2113,53 @@
         },
         {
           "keyword": "松嶋菜々子",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-29T04:06:24.297Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "中国 輸出規制",
+          "score": 100
+        },
+        {
+          "keyword": "塩貝",
+          "score": 99
+        },
+        {
+          "keyword": "池上彰",
+          "score": 98
+        },
+        {
+          "keyword": "坂倉将吾",
+          "score": 97
+        },
+        {
+          "keyword": "軍国主義",
+          "score": 96
+        },
+        {
+          "keyword": "打者",
+          "score": 95
+        },
+        {
+          "keyword": "kospi",
+          "score": 94
+        },
+        {
+          "keyword": "fivbバレーボール・ネイションズリーグ 男子",
+          "score": 93
+        },
+        {
+          "keyword": "skハイニックス 株価",
+          "score": 92
+        },
+        {
+          "keyword": "facebook",
           "score": 91
         }
       ]
