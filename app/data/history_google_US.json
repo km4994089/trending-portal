@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-25T23:19:17.605Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "doug martin",
-          "score": 100
-        },
-        {
-          "keyword": "cma fest 2026",
-          "score": 99
-        },
-        {
-          "keyword": "clarence house london",
-          "score": 98
-        },
-        {
-          "keyword": "日本 対 スウェーデン",
-          "score": 97
-        },
-        {
-          "keyword": "giants",
-          "score": 96
-        },
-        {
-          "keyword": "nhl draft 2026",
-          "score": 95
-        },
-        {
-          "keyword": "tom sandoval",
-          "score": 94
-        },
-        {
-          "keyword": "ecuador next game",
-          "score": 93
-        },
-        {
-          "keyword": "july 4",
-          "score": 92
-        },
-        {
-          "keyword": "chris evert",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-26T01:34:42.483Z",
       "geo": "US",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "monaco",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-29T23:31:46.465Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "neuer",
+          "score": 100
+        },
+        {
+          "keyword": "padres vs cubs",
+          "score": 99
+        },
+        {
+          "keyword": "kristaps porzingis",
+          "score": 98
+        },
+        {
+          "keyword": "neuer germany",
+          "score": 97
+        },
+        {
+          "keyword": "walker kessler",
+          "score": 96
+        },
+        {
+          "keyword": "pima county sheriff's department",
+          "score": 95
+        },
+        {
+          "keyword": "carl rinsch",
+          "score": 94
+        },
+        {
+          "keyword": "matias galarza",
+          "score": 93
+        },
+        {
+          "keyword": "bovada",
+          "score": 92
+        },
+        {
+          "keyword": "reds vs brewers",
           "score": 91
         }
       ]

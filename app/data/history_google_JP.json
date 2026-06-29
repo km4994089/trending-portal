@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-25T23:19:20.004Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "abema",
-          "score": 100
-        },
-        {
-          "keyword": "fifa",
-          "score": 99
-        },
-        {
-          "keyword": "エリス・スキリ",
-          "score": 98
-        },
-        {
-          "keyword": "ダゾーン",
-          "score": 97
-        },
-        {
-          "keyword": "ワールドカップ 中継",
-          "score": 96
-        },
-        {
-          "keyword": "ダゾーン サッカー",
-          "score": 95
-        },
-        {
-          "keyword": "リンデロフ",
-          "score": 94
-        },
-        {
-          "keyword": "文化放送",
-          "score": 93
-        },
-        {
-          "keyword": "daz",
-          "score": 92
-        },
-        {
-          "keyword": "dazn",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-26T01:34:45.554Z",
       "geo": "JP",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "死体",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-29T23:31:48.999Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "風薫る ツヤ",
+          "score": 100
+        },
+        {
+          "keyword": "サマージャンボ",
+          "score": 99
+        },
+        {
+          "keyword": "ブルージェイズ 対 メッツ",
+          "score": 98
+        },
+        {
+          "keyword": "ガーディアンズ 対 レンジャーズ",
+          "score": 97
+        },
+        {
+          "keyword": "テオスカー・ヘルナンデス",
+          "score": 96
+        },
+        {
+          "keyword": "フィリーズ 対 パイレーツ",
+          "score": 95
+        },
+        {
+          "keyword": "今井春花",
+          "score": 94
+        },
+        {
+          "keyword": "金",
+          "score": 93
+        },
+        {
+          "keyword": "自社株買い",
+          "score": 92
+        },
+        {
+          "keyword": "đức vs",
           "score": 91
         }
       ]

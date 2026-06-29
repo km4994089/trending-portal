@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-25T23:19:18.715Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "일본 대 스웨덴",
-          "score": 100
-        },
-        {
-          "keyword": "튀니지 대 네덜란드",
-          "score": 99
-        },
-        {
-          "keyword": "한학자",
-          "score": 98
-        },
-        {
-          "keyword": "스타필드 수원",
-          "score": 97
-        },
-        {
-          "keyword": "조국",
-          "score": 96
-        },
-        {
-          "keyword": "호주 파라과이",
-          "score": 95
-        },
-        {
-          "keyword": "송은이",
-          "score": 94
-        },
-        {
-          "keyword": "เอกวาดอร์ พบ เยอรมนี",
-          "score": 93
-        },
-        {
-          "keyword": "담보 대출",
-          "score": 92
-        },
-        {
-          "keyword": "대한민국 우주항공청",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-26T01:34:43.841Z",
       "geo": "KR",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "기아 쏘렌토",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-29T23:31:47.792Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "박재현",
+          "score": 100
+        },
+        {
+          "keyword": "rklb",
+          "score": 99
+        },
+        {
+          "keyword": "이찬원",
+          "score": 98
+        },
+        {
+          "keyword": "strc",
+          "score": 97
+        },
+        {
+          "keyword": "이천수",
+          "score": 96
+        },
+        {
+          "keyword": "스타얼라이언스",
+          "score": 95
+        },
+        {
+          "keyword": "운전",
+          "score": 94
+        },
+        {
+          "keyword": "spcx",
+          "score": 93
+        },
+        {
+          "keyword": "tsla",
+          "score": 92
+        },
+        {
+          "keyword": "오십 프로",
           "score": 91
         }
       ]
