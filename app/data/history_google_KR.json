@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-25T06:41:59.098Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "지진",
-          "score": 100
-        },
-        {
-          "keyword": "cj그룹",
-          "score": 99
-        },
-        {
-          "keyword": "bifan",
-          "score": 98
-        },
-        {
-          "keyword": "엘지트윈스",
-          "score": 97
-        },
-        {
-          "keyword": "레이디 제인",
-          "score": 96
-        },
-        {
-          "keyword": "앤트로픽",
-          "score": 95
-        },
-        {
-          "keyword": "뉴데일리",
-          "score": 94
-        },
-        {
-          "keyword": "나성범",
-          "score": 93
-        },
-        {
-          "keyword": "부천국제판타스틱영화제",
-          "score": 92
-        },
-        {
-          "keyword": "아리아나 그란데",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-25T10:11:17.562Z",
       "geo": "KR",
       "source": "google",
@@ -2160,6 +2113,53 @@
         },
         {
           "keyword": "더 글로리",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-29T09:13:46.783Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "축구",
+          "score": 100
+        },
+        {
+          "keyword": "최성국",
+          "score": 99
+        },
+        {
+          "keyword": "상주시",
+          "score": 98
+        },
+        {
+          "keyword": "005930",
+          "score": 97
+        },
+        {
+          "keyword": "국가유공자",
+          "score": 96
+        },
+        {
+          "keyword": "추미애",
+          "score": 95
+        },
+        {
+          "keyword": "캐나다 잠수함",
+          "score": 94
+        },
+        {
+          "keyword": "임은정",
+          "score": 93
+        },
+        {
+          "keyword": "비행기",
+          "score": 92
+        },
+        {
+          "keyword": "페이즈",
           "score": 91
         }
       ]
