@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-26T09:56:34.857Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ゴディバ",
-          "score": 100
-        },
-        {
-          "keyword": "dena 対 巨人",
-          "score": 99
-        },
-        {
-          "keyword": "アンデルソンロペス",
-          "score": 98
-        },
-        {
-          "keyword": "西武 対 日本ハム",
-          "score": 97
-        },
-        {
-          "keyword": "広島 対 阪神",
-          "score": 96
-        },
-        {
-          "keyword": "ヤクルト 対 中日",
-          "score": 95
-        },
-        {
-          "keyword": "木下 優樹 菜",
-          "score": 94
-        },
-        {
-          "keyword": "鳴門得点率",
-          "score": 93
-        },
-        {
-          "keyword": "フジロック・フェスティバル",
-          "score": 92
-        },
-        {
-          "keyword": "東野絢香",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-26T12:07:01.682Z",
       "geo": "JP",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "今永昇太",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-30T10:24:48.974Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "松本シェーナ",
+          "score": 100
+        },
+        {
+          "keyword": "フェルメール展",
+          "score": 99
+        },
+        {
+          "keyword": "からあげクン 謎味",
+          "score": 98
+        },
+        {
+          "keyword": "梅雨",
+          "score": 97
+        },
+        {
+          "keyword": "値幅制限",
+          "score": 96
+        },
+        {
+          "keyword": "皇室典範改正案",
+          "score": 95
+        },
+        {
+          "keyword": "楽天 対 ロッテ",
+          "score": 94
+        },
+        {
+          "keyword": "aera digital",
+          "score": 93
+        },
+        {
+          "keyword": "岩屋毅",
+          "score": 92
+        },
+        {
+          "keyword": "寺田 伸也",
           "score": 91
         }
       ]

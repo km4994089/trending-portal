@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-26T09:56:32.464Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ariana grande wardrobe malfunction",
-          "score": 100
-        },
-        {
-          "keyword": "at&t",
-          "score": 99
-        },
-        {
-          "keyword": "professional degree",
-          "score": 98
-        },
-        {
-          "keyword": "sports",
-          "score": 97
-        },
-        {
-          "keyword": "chlorthalidone recall",
-          "score": 96
-        },
-        {
-          "keyword": "ncis",
-          "score": 95
-        },
-        {
-          "keyword": "new york times",
-          "score": 94
-        },
-        {
-          "keyword": "google play",
-          "score": 93
-        },
-        {
-          "keyword": "tomodachi life update",
-          "score": 92
-        },
-        {
-          "keyword": "cloud",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-26T12:06:58.981Z",
       "geo": "US",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "morocco vs canada",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-30T10:24:46.726Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "severe thunderstorm watch",
+          "score": 100
+        },
+        {
+          "keyword": "corte suprema",
+          "score": 99
+        },
+        {
+          "keyword": "melat kiros",
+          "score": 98
+        },
+        {
+          "keyword": "suspect",
+          "score": 97
+        },
+        {
+          "keyword": "kate gosselin",
+          "score": 96
+        },
+        {
+          "keyword": "lizzo",
+          "score": 95
+        },
+        {
+          "keyword": "swimming facility",
+          "score": 94
+        },
+        {
+          "keyword": "swimming competition",
+          "score": 93
+        },
+        {
+          "keyword": "housing authority",
+          "score": 92
+        },
+        {
+          "keyword": "kickboxing",
           "score": 91
         }
       ]
