@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-26T06:01:18.245Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "鳴尾 武庫川 女子大 前 駅",
-          "score": 100
-        },
-        {
-          "keyword": "堂 安",
-          "score": 99
-        },
-        {
-          "keyword": "内田篤人",
-          "score": 98
-        },
-        {
-          "keyword": "セルジオ越後",
-          "score": 97
-        },
-        {
-          "keyword": "中居 正広",
-          "score": 96
-        },
-        {
-          "keyword": "薛 英佑",
-          "score": 95
-        },
-        {
-          "keyword": "孫正義",
-          "score": 94
-        },
-        {
-          "keyword": "メーガン",
-          "score": 93
-        },
-        {
-          "keyword": "ヒューマングルメンタリー オモウマい店",
-          "score": 92
-        },
-        {
-          "keyword": "earthquake",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-26T09:56:34.857Z",
       "geo": "JP",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "ブルージェイズ 対 メッツ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-30T06:36:26.916Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "大阪都構想",
+          "score": 100
+        },
+        {
+          "keyword": "目黒線",
+          "score": 99
+        },
+        {
+          "keyword": "陸上自衛隊",
+          "score": 98
+        },
+        {
+          "keyword": "長 友佑 都",
+          "score": 97
+        },
+        {
+          "keyword": "アフラック 情報漏洩",
+          "score": 96
+        },
+        {
+          "keyword": "ハロー キティ スリー コインズ",
+          "score": 95
+        },
+        {
+          "keyword": "新車",
+          "score": 94
+        },
+        {
+          "keyword": "伊藤浩子編み物",
+          "score": 93
+        },
+        {
+          "keyword": "ray-ban meta",
+          "score": 92
+        },
+        {
+          "keyword": "今永昇太",
           "score": 91
         }
       ]
