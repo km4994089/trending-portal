@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-26T17:12:43.816Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "강선우",
-          "score": 100
-        },
-        {
-          "keyword": "노르웨이 프랑스",
-          "score": 99
-        },
-        {
-          "keyword": "박지현",
-          "score": 98
-        },
-        {
-          "keyword": "김연아",
-          "score": 97
-        },
-        {
-          "keyword": "백화점",
-          "score": 96
-        },
-        {
-          "keyword": "고준희",
-          "score": 95
-        },
-        {
-          "keyword": "도쿄 지진",
-          "score": 94
-        },
-        {
-          "keyword": "사우디 아람코",
-          "score": 93
-        },
-        {
-          "keyword": "오십프로",
-          "score": 92
-        },
-        {
-          "keyword": "hyundai avante",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-26T19:13:52.006Z",
       "geo": "KR",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "카라 델레바인",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-30T17:21:18.770Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "코트디부아르 대 노르웨이",
+          "score": 100
+        },
+        {
+          "keyword": "중앙그룹",
+          "score": 99
+        },
+        {
+          "keyword": "대한민국 과학기술정보통신부",
+          "score": 98
+        },
+        {
+          "keyword": "kt vs hanwha",
+          "score": 97
+        },
+        {
+          "keyword": "테일러 프리츠",
+          "score": 96
+        },
+        {
+          "keyword": "문원",
+          "score": 95
+        },
+        {
+          "keyword": "이민정",
+          "score": 94
+        },
+        {
+          "keyword": "동남아시아",
+          "score": 93
+        },
+        {
+          "keyword": "기성용",
+          "score": 92
+        },
+        {
+          "keyword": "중소기업은행",
           "score": 91
         }
       ]

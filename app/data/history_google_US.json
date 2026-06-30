@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-26T17:12:42.558Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "the new york times",
-          "score": 100
-        },
-        {
-          "keyword": "strait of hormuz news",
-          "score": 99
-        },
-        {
-          "keyword": "netflix the boroughs cancellation",
-          "score": 98
-        },
-        {
-          "keyword": "ugo humbert",
-          "score": 97
-        },
-        {
-          "keyword": "iran vs egypt",
-          "score": 96
-        },
-        {
-          "keyword": "joe doering",
-          "score": 95
-        },
-        {
-          "keyword": "strawberry moon 2026",
-          "score": 94
-        },
-        {
-          "keyword": "adam lambert",
-          "score": 93
-        },
-        {
-          "keyword": "isaiah joe",
-          "score": 92
-        },
-        {
-          "keyword": "william trudeau",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-26T19:13:50.843Z",
       "geo": "US",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "kathie lee gifford",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-30T17:21:17.482Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "yan diomandé",
+          "score": 100
+        },
+        {
+          "keyword": "elina svitolina",
+          "score": 99
+        },
+        {
+          "keyword": "emma navarro",
+          "score": 98
+        },
+        {
+          "keyword": "samsung",
+          "score": 97
+        },
+        {
+          "keyword": "michael jordan",
+          "score": 96
+        },
+        {
+          "keyword": "crunchyroll",
+          "score": 95
+        },
+        {
+          "keyword": "jcpenney stores closing",
+          "score": 94
+        },
+        {
+          "keyword": "west indies vs australia",
+          "score": 93
+        },
+        {
+          "keyword": "kristaps porzingis",
+          "score": 92
+        },
+        {
+          "keyword": "walker kessler",
           "score": 91
         }
       ]
