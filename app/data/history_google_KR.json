@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-26T23:54:31.033Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "윤가이",
-          "score": 100
-        },
-        {
-          "keyword": "경제",
-          "score": 99
-        },
-        {
-          "keyword": "닷컴 버블",
-          "score": 98
-        },
-        {
-          "keyword": "금융위기",
-          "score": 97
-        },
-        {
-          "keyword": "기쁜 우리 좋은 날",
-          "score": 96
-        },
-        {
-          "keyword": "세네갈 축구 국가대표팀",
-          "score": 95
-        },
-        {
-          "keyword": "르윈 디아즈",
-          "score": 94
-        },
-        {
-          "keyword": "기부",
-          "score": 93
-        },
-        {
-          "keyword": "손예진",
-          "score": 92
-        },
-        {
-          "keyword": "송하윤",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-27T02:09:55.534Z",
       "geo": "KR",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "잠수함",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-30T23:58:15.927Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "오늘의 운세",
+          "score": 100
+        },
+        {
+          "keyword": "기흥구",
+          "score": 99
+        },
+        {
+          "keyword": "날씨",
+          "score": 98
+        },
+        {
+          "keyword": "간호사",
+          "score": 97
+        },
+        {
+          "keyword": "sonnet 5",
+          "score": 96
+        },
+        {
+          "keyword": "ฝรั่งเศส พบ สวีเดน",
+          "score": 95
+        },
+        {
+          "keyword": "франция – швеция",
+          "score": 94
+        },
+        {
+          "keyword": "감전",
+          "score": 93
+        },
+        {
+          "keyword": "로보스타",
+          "score": 92
+        },
+        {
+          "keyword": "스타뉴스",
           "score": 91
         }
       ]
