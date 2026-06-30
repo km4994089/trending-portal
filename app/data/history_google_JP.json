@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-26T15:07:36.825Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "チャンス大城",
-          "score": 100
-        },
-        {
-          "keyword": "yahooニュース",
-          "score": 99
-        },
-        {
-          "keyword": "terremoto",
-          "score": 98
-        },
-        {
-          "keyword": "能登半島地震",
-          "score": 97
-        },
-        {
-          "keyword": "首都直下地震",
-          "score": 96
-        },
-        {
-          "keyword": "余震",
-          "score": 95
-        },
-        {
-          "keyword": "停電情報",
-          "score": 94
-        },
-        {
-          "keyword": "東日本大震災",
-          "score": 93
-        },
-        {
-          "keyword": "武蔵野線",
-          "score": 92
-        },
-        {
-          "keyword": "静岡",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-26T17:12:45.315Z",
       "geo": "JP",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "ドンヘ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-30T15:07:45.589Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ヒカル",
+          "score": 100
+        },
+        {
+          "keyword": "レイダース",
+          "score": 99
+        },
+        {
+          "keyword": "パスポート申請",
+          "score": 98
+        },
+        {
+          "keyword": "逮捕",
+          "score": 97
+        },
+        {
+          "keyword": "スプラトゥーン レイダース",
+          "score": 96
+        },
+        {
+          "keyword": "国旗損壊罪",
+          "score": 95
+        },
+        {
+          "keyword": "サンド屋台",
+          "score": 94
+        },
+        {
+          "keyword": "ヒロド歩美",
+          "score": 93
+        },
+        {
+          "keyword": "朝日小学生新聞",
+          "score": 92
+        },
+        {
+          "keyword": "佐藤綾野",
           "score": 91
         }
       ]
