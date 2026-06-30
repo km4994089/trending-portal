@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-26T12:07:01.682Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ヒカキン",
-          "score": 100
-        },
-        {
-          "keyword": "sanada",
-          "score": 99
-        },
-        {
-          "keyword": "ゴン中山",
-          "score": 98
-        },
-        {
-          "keyword": "バレーボール男子日本代表",
-          "score": 97
-        },
-        {
-          "keyword": "ラヴィット!",
-          "score": 96
-        },
-        {
-          "keyword": "鈴木福",
-          "score": 95
-        },
-        {
-          "keyword": "キュラソー",
-          "score": 94
-        },
-        {
-          "keyword": "チャンギ空港",
-          "score": 93
-        },
-        {
-          "keyword": "吉田賢吾",
-          "score": 92
-        },
-        {
-          "keyword": "峯岸みなみ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-26T15:07:36.825Z",
       "geo": "JP",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "寺田 伸也",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-30T12:27:31.660Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "高橋陽一",
+          "score": 100
+        },
+        {
+          "keyword": "帝王賞",
+          "score": 99
+        },
+        {
+          "keyword": "高橋藍",
+          "score": 98
+        },
+        {
+          "keyword": "ベッカム",
+          "score": 97
+        },
+        {
+          "keyword": "踊るさんま御殿",
+          "score": 96
+        },
+        {
+          "keyword": "林家正蔵",
+          "score": 95
+        },
+        {
+          "keyword": "喜多壱也",
+          "score": 94
+        },
+        {
+          "keyword": "ユニバーサル・スタジオ・ジャパン",
+          "score": 93
+        },
+        {
+          "keyword": "fns歌謡祭",
+          "score": 92
+        },
+        {
+          "keyword": "ドンヘ",
           "score": 91
         }
       ]

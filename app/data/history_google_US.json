@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-26T12:06:58.981Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jamal morton",
-          "score": 100
-        },
-        {
-          "keyword": "ire vs ind",
-          "score": 99
-        },
-        {
-          "keyword": "naomi osaka",
-          "score": 98
-        },
-        {
-          "keyword": "wimbledon",
-          "score": 97
-        },
-        {
-          "keyword": "maggie haberman",
-          "score": 96
-        },
-        {
-          "keyword": "liberty vote mike lindell dispute",
-          "score": 95
-        },
-        {
-          "keyword": "acute",
-          "score": 94
-        },
-        {
-          "keyword": "john bolton",
-          "score": 93
-        },
-        {
-          "keyword": "ostapenko",
-          "score": 92
-        },
-        {
-          "keyword": "david vander meer",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-26T15:07:34.393Z",
       "geo": "US",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "kickboxing",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-30T12:27:29.293Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "otto virtanen",
+          "score": 100
+        },
+        {
+          "keyword": "martina navratilova",
+          "score": 99
+        },
+        {
+          "keyword": "jeanine pirro",
+          "score": 98
+        },
+        {
+          "keyword": "ben shelton",
+          "score": 97
+        },
+        {
+          "keyword": "vladimir putin",
+          "score": 96
+        },
+        {
+          "keyword": "cara delevingne",
+          "score": 95
+        },
+        {
+          "keyword": "east wing ballroom executive residence contract",
+          "score": 94
+        },
+        {
+          "keyword": "kash patel ufc plot disclosure",
+          "score": 93
+        },
+        {
+          "keyword": "state of decay 3",
+          "score": 92
+        },
+        {
+          "keyword": "kamil majchrzak",
           "score": 91
         }
       ]
