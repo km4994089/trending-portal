@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-26T19:13:53.207Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ハーランド",
-          "score": 100
-        },
-        {
-          "keyword": "ノルウェー 対 フランス",
-          "score": 99
-        },
-        {
-          "keyword": "norway vs france",
-          "score": 98
-        },
-        {
-          "keyword": "フィリピン",
-          "score": 97
-        },
-        {
-          "keyword": "nhkサッカー",
-          "score": 96
-        },
-        {
-          "keyword": "ireland vs india",
-          "score": 95
-        },
-        {
-          "keyword": "杉原愛子",
-          "score": 94
-        },
-        {
-          "keyword": "セルゲイ・イワノフ",
-          "score": 93
-        },
-        {
-          "keyword": "東名高速道路",
-          "score": 92
-        },
-        {
-          "keyword": "チャンス大城",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-26T21:02:15.521Z",
       "geo": "JP",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "逮捕",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-06-30T19:14:02.106Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "フアン・ソト",
+          "score": 100
+        },
+        {
+          "keyword": "松井大輔",
+          "score": 99
+        },
+        {
+          "keyword": "ノルウェー",
+          "score": 98
+        },
+        {
+          "keyword": "レブロンジェームズ",
+          "score": 97
+        },
+        {
+          "keyword": "ヤン・ディオマンデ",
+          "score": 96
+        },
+        {
+          "keyword": "フィギュア",
+          "score": 95
+        },
+        {
+          "keyword": "côte d'ivoire vs norway",
+          "score": 94
+        },
+        {
+          "keyword": "磐越自動車道",
+          "score": 93
+        },
+        {
+          "keyword": "ヨドバシカメラ",
+          "score": 92
+        },
+        {
+          "keyword": "声優 結婚",
           "score": 91
         }
       ]
