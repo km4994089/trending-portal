@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-27T12:49:12.205Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "石原伸晃",
-          "score": 100
-        },
-        {
-          "keyword": "バブル崩壊",
-          "score": 99
-        },
-        {
-          "keyword": "久保井 朝美",
-          "score": 98
-        },
-        {
-          "keyword": "カボベルデ",
-          "score": 97
-        },
-        {
-          "keyword": "ラジオ",
-          "score": 96
-        },
-        {
-          "keyword": "小惑星 接近",
-          "score": 95
-        },
-        {
-          "keyword": "ジョブチューン セブンイレブン",
-          "score": 94
-        },
-        {
-          "keyword": "レアル・ソシエダ",
-          "score": 93
-        },
-        {
-          "keyword": "鹿児島県",
-          "score": 92
-        },
-        {
-          "keyword": "ワールド カップ 3 位",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-27T14:22:27.302Z",
       "geo": "JP",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "前田悠伍",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-01T14:07:02.990Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "山本 草太",
+          "score": 100
+        },
+        {
+          "keyword": "断層",
+          "score": 99
+        },
+        {
+          "keyword": "playstation",
+          "score": 98
+        },
+        {
+          "keyword": "宮市亮",
+          "score": 97
+        },
+        {
+          "keyword": "大井川鉄道",
+          "score": 96
+        },
+        {
+          "keyword": "ヤンマースタジアム長居",
+          "score": 95
+        },
+        {
+          "keyword": "レインボー",
+          "score": 94
+        },
+        {
+          "keyword": "大江戸温泉物語 箕面温泉スパーガーデン",
+          "score": 93
+        },
+        {
+          "keyword": "松本剛",
+          "score": 92
+        },
+        {
+          "keyword": "おそ松さん",
           "score": 91
         }
       ]
