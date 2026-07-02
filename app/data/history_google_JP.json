@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-27T23:54:05.254Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "北澤豪",
-          "score": 100
-        },
-        {
-          "keyword": "カージナルス 対 マーリンズ",
-          "score": 99
-        },
-        {
-          "keyword": "小学校火災 音楽教師",
-          "score": 98
-        },
-        {
-          "keyword": "オリオールズ 対 ナショナルズ",
-          "score": 97
-        },
-        {
-          "keyword": "ガーディアンズ 対 マリナーズ",
-          "score": 96
-        },
-        {
-          "keyword": "日本代表 アウェイユニフォーム",
-          "score": 95
-        },
-        {
-          "keyword": "コロンビア ポルトガル",
-          "score": 94
-        },
-        {
-          "keyword": "3位順位表",
-          "score": 93
-        },
-        {
-          "keyword": "緊急地震速報",
-          "score": 92
-        },
-        {
-          "keyword": "ビートルズ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-28T02:31:20.559Z",
       "geo": "JP",
       "source": "google",
@@ -1925,6 +1878,53 @@
         },
         {
           "keyword": "rainfall warning",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-02T02:11:36.761Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ファイターズ 2軍",
+          "score": 100
+        },
+        {
+          "keyword": "校長",
+          "score": 99
+        },
+        {
+          "keyword": "アメリカ",
+          "score": 98
+        },
+        {
+          "keyword": "エディン・ジェコ",
+          "score": 97
+        },
+        {
+          "keyword": "気象病",
+          "score": 96
+        },
+        {
+          "keyword": "マック鈴木",
+          "score": 95
+        },
+        {
+          "keyword": "アストロズ 対 ツインズ",
+          "score": 94
+        },
+        {
+          "keyword": "クワバタオハラ",
+          "score": 93
+        },
+        {
+          "keyword": "ロイヤルズ 対 レイズ",
+          "score": 92
+        },
+        {
+          "keyword": "菅田将暉",
           "score": 91
         }
       ]
