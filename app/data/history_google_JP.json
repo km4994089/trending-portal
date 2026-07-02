@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-28T06:54:16.807Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "タクシー",
-          "score": 100
-        },
-        {
-          "keyword": "evolution championship series",
-          "score": 99
-        },
-        {
-          "keyword": "高橋遥人",
-          "score": 98
-        },
-        {
-          "keyword": "衝突",
-          "score": 97
-        },
-        {
-          "keyword": "レアル マドリード",
-          "score": 96
-        },
-        {
-          "keyword": "ハリーポッター 舞台",
-          "score": 95
-        },
-        {
-          "keyword": "膳場 貴子",
-          "score": 94
-        },
-        {
-          "keyword": "the music day シャッフルメドレー",
-          "score": 93
-        },
-        {
-          "keyword": "ワールドカップ アジア勢",
-          "score": 92
-        },
-        {
-          "keyword": "武田久美子",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-28T09:52:34.729Z",
       "geo": "JP",
       "source": "google",
@@ -1925,6 +1878,53 @@
         },
         {
           "keyword": "入場券",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-02T09:40:09.108Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "総武線",
+          "score": 100
+        },
+        {
+          "keyword": "鈴木尚典",
+          "score": 99
+        },
+        {
+          "keyword": "長谷川信哉",
+          "score": 98
+        },
+        {
+          "keyword": "トレード",
+          "score": 97
+        },
+        {
+          "keyword": "貴乃花 光司",
+          "score": 96
+        },
+        {
+          "keyword": "イーライアダムス",
+          "score": 95
+        },
+        {
+          "keyword": "大河ドラマ",
+          "score": 94
+        },
+        {
+          "keyword": "ソンシ",
+          "score": 93
+        },
+        {
+          "keyword": "285a",
+          "score": 92
+        },
+        {
+          "keyword": "俳優",
           "score": 91
         }
       ]
