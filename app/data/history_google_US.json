@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-28T13:15:18.126Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "apple tv",
-          "score": 100
-        },
-        {
-          "keyword": "jane pauley",
-          "score": 99
-        },
-        {
-          "keyword": "pride parade chicago 2026",
-          "score": 98
-        },
-        {
-          "keyword": "the walking dead",
-          "score": 97
-        },
-        {
-          "keyword": "formula 1 schedule",
-          "score": 96
-        },
-        {
-          "keyword": "courtney stodden",
-          "score": 95
-        },
-        {
-          "keyword": "cricbuzz",
-          "score": 94
-        },
-        {
-          "keyword": "california",
-          "score": 93
-        },
-        {
-          "keyword": "abigail velez",
-          "score": 92
-        },
-        {
-          "keyword": "morgan freeman",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-28T15:00:08.392Z",
       "geo": "US",
       "source": "google",
@@ -1878,6 +1831,53 @@
         },
         {
           "keyword": "cyclospora",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-02T14:34:43.854Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "solar flare",
+          "score": 100
+        },
+        {
+          "keyword": "sofia kenin",
+          "score": 99
+        },
+        {
+          "keyword": "travel vaccine",
+          "score": 98
+        },
+        {
+          "keyword": "marta kostyuk",
+          "score": 97
+        },
+        {
+          "keyword": "monaco",
+          "score": 96
+        },
+        {
+          "keyword": "michael rubin",
+          "score": 95
+        },
+        {
+          "keyword": "the onion",
+          "score": 94
+        },
+        {
+          "keyword": "david tennant",
+          "score": 93
+        },
+        {
+          "keyword": "eric bieniemy",
+          "score": 92
+        },
+        {
+          "keyword": "s.w.a.t.",
           "score": 91
         }
       ]
