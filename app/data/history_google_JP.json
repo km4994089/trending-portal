@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-29T04:06:24.297Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "中国 輸出規制",
-          "score": 100
-        },
-        {
-          "keyword": "塩貝",
-          "score": 99
-        },
-        {
-          "keyword": "池上彰",
-          "score": 98
-        },
-        {
-          "keyword": "坂倉将吾",
-          "score": 97
-        },
-        {
-          "keyword": "軍国主義",
-          "score": 96
-        },
-        {
-          "keyword": "打者",
-          "score": 95
-        },
-        {
-          "keyword": "kospi",
-          "score": 94
-        },
-        {
-          "keyword": "fivbバレーボール・ネイションズリーグ 男子",
-          "score": 93
-        },
-        {
-          "keyword": "skハイニックス 株価",
-          "score": 92
-        },
-        {
-          "keyword": "facebook",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-29T09:13:47.692Z",
       "geo": "JP",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "ミサイル駆逐艦",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-03T05:43:50.877Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "津波予報",
+          "score": 100
+        },
+        {
+          "keyword": "盛岡市",
+          "score": 99
+        },
+        {
+          "keyword": "電池",
+          "score": 98
+        },
+        {
+          "keyword": "フィギュア",
+          "score": 97
+        },
+        {
+          "keyword": "暗号資産",
+          "score": 96
+        },
+        {
+          "keyword": "クマ",
+          "score": 95
+        },
+        {
+          "keyword": "宝くじ",
+          "score": 94
+        },
+        {
+          "keyword": "大野智",
+          "score": 93
+        },
+        {
+          "keyword": "セブンイレブン ナイキ",
+          "score": 92
+        },
+        {
+          "keyword": "キーウ",
           "score": 91
         }
       ]
