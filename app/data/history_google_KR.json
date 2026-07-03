@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-29T13:49:09.783Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "야닉 시너",
-          "score": 100
-        },
-        {
-          "keyword": "음식",
-          "score": 99
-        },
-        {
-          "keyword": "연구소",
-          "score": 98
-        },
-        {
-          "keyword": "최영섭",
-          "score": 97
-        },
-        {
-          "keyword": "옌스 카스트로 프",
-          "score": 96
-        },
-        {
-          "keyword": "fc 바르셀로나",
-          "score": 95
-        },
-        {
-          "keyword": "kbo 올스타전",
-          "score": 94
-        },
-        {
-          "keyword": "노무라 증권",
-          "score": 93
-        },
-        {
-          "keyword": "행정수도",
-          "score": 92
-        },
-        {
-          "keyword": "인천광역시",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-29T16:48:36.130Z",
       "geo": "KR",
       "source": "google",
@@ -1925,6 +1878,53 @@
         },
         {
           "keyword": "국제 축구 연맹",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-03T15:32:05.375Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "자승",
+          "score": 100
+        },
+        {
+          "keyword": "트로트",
+          "score": 99
+        },
+        {
+          "keyword": "야닉 시너",
+          "score": 98
+        },
+        {
+          "keyword": "킬러들의 쇼핑몰 시즌2",
+          "score": 97
+        },
+        {
+          "keyword": "탁구",
+          "score": 96
+        },
+        {
+          "keyword": "lng선",
+          "score": 95
+        },
+        {
+          "keyword": "기안84",
+          "score": 94
+        },
+        {
+          "keyword": "sbs",
+          "score": 93
+        },
+        {
+          "keyword": "한국 대만 농구",
+          "score": 92
+        },
+        {
+          "keyword": "김부장",
           "score": 91
         }
       ]
