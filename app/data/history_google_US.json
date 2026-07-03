@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-29T16:48:35.048Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ethan quinn",
-          "score": 100
-        },
-        {
-          "keyword": "brasil - japón",
-          "score": 99
-        },
-        {
-          "keyword": "brasil x japão",
-          "score": 98
-        },
-        {
-          "keyword": "brésil – japon",
-          "score": 97
-        },
-        {
-          "keyword": "clarence thomas",
-          "score": 96
-        },
-        {
-          "keyword": "seychelles",
-          "score": 95
-        },
-        {
-          "keyword": "scotus arizona voter registration case",
-          "score": 94
-        },
-        {
-          "keyword": "referendum",
-          "score": 93
-        },
-        {
-          "keyword": "tom pelphrey kaley cuoco family",
-          "score": 92
-        },
-        {
-          "keyword": "freedom of the press",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-29T18:58:32.132Z",
       "geo": "US",
       "source": "google",
@@ -1925,6 +1878,53 @@
         },
         {
           "keyword": "jannik sinner",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-03T17:12:33.301Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sabalenka",
+          "score": 100
+        },
+        {
+          "keyword": "pete hegseth",
+          "score": 99
+        },
+        {
+          "keyword": "pardon",
+          "score": 98
+        },
+        {
+          "keyword": "jurgen klopp",
+          "score": 97
+        },
+        {
+          "keyword": "cameron diaz",
+          "score": 96
+        },
+        {
+          "keyword": "alpha movie",
+          "score": 95
+        },
+        {
+          "keyword": "coco gauff",
+          "score": 94
+        },
+        {
+          "keyword": "dorian finney smith",
+          "score": 93
+        },
+        {
+          "keyword": "ostapenko",
+          "score": 92
+        },
+        {
+          "keyword": "instacart down",
           "score": 91
         }
       ]
