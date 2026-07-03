@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-28T23:59:55.104Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "조명우",
-          "score": 100
-        },
-        {
-          "keyword": "삼성그룹",
-          "score": 99
-        },
-        {
-          "keyword": "안정환",
-          "score": 98
-        },
-        {
-          "keyword": "오타니 쇼헤이",
-          "score": 97
-        },
-        {
-          "keyword": "이재명 지지율",
-          "score": 96
-        },
-        {
-          "keyword": "파리 생제르맹 fc",
-          "score": 95
-        },
-        {
-          "keyword": "바이 낸스 하이닉스",
-          "score": 94
-        },
-        {
-          "keyword": "컵스 대 브루어스",
-          "score": 93
-        },
-        {
-          "keyword": "잠수함",
-          "score": 92
-        },
-        {
-          "keyword": "미국 해군",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-29T04:06:22.570Z",
       "geo": "KR",
       "source": "google",
@@ -1831,6 +1784,53 @@
         },
         {
           "keyword": "이재욱",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-03T01:55:47.711Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "국민연금공단",
+          "score": 100
+        },
+        {
+          "keyword": "카디널스 대 브레이브스",
+          "score": 99
+        },
+        {
+          "keyword": "의정부시",
+          "score": 98
+        },
+        {
+          "keyword": "고려아연",
+          "score": 97
+        },
+        {
+          "keyword": "전망대",
+          "score": 96
+        },
+        {
+          "keyword": "португалия – хорватия",
+          "score": 95
+        },
+        {
+          "keyword": "일본",
+          "score": 94
+        },
+        {
+          "keyword": "โปรตุเกส พบ โครเอเชีย",
+          "score": 93
+        },
+        {
+          "keyword": "병역",
+          "score": 92
+        },
+        {
+          "keyword": "키 이우",
           "score": 91
         }
       ]
