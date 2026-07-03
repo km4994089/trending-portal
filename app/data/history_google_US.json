@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-29T23:31:46.465Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "neuer",
-          "score": 100
-        },
-        {
-          "keyword": "padres vs cubs",
-          "score": 99
-        },
-        {
-          "keyword": "kristaps porzingis",
-          "score": 98
-        },
-        {
-          "keyword": "neuer germany",
-          "score": 97
-        },
-        {
-          "keyword": "walker kessler",
-          "score": 96
-        },
-        {
-          "keyword": "pima county sheriff's department",
-          "score": 95
-        },
-        {
-          "keyword": "carl rinsch",
-          "score": 94
-        },
-        {
-          "keyword": "matias galarza",
-          "score": 93
-        },
-        {
-          "keyword": "bovada",
-          "score": 92
-        },
-        {
-          "keyword": "reds vs brewers",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-30T02:15:07.628Z",
       "geo": "US",
       "source": "google",
@@ -1972,6 +1925,53 @@
         },
         {
           "keyword": "diego simeone",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-03T23:56:35.804Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "rays vs astros",
+          "score": 100
+        },
+        {
+          "keyword": "giants vs rockies",
+          "score": 99
+        },
+        {
+          "keyword": "julian alvarez",
+          "score": 98
+        },
+        {
+          "keyword": "dominican republic vs usa",
+          "score": 97
+        },
+        {
+          "keyword": "kody clemens",
+          "score": 96
+        },
+        {
+          "keyword": "northern lights",
+          "score": 95
+        },
+        {
+          "keyword": "bishops castle",
+          "score": 94
+        },
+        {
+          "keyword": "france vs paraguay",
+          "score": 93
+        },
+        {
+          "keyword": "kalshi",
+          "score": 92
+        },
+        {
+          "keyword": "gary sinise",
           "score": 91
         }
       ]

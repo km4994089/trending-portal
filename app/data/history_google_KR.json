@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-29T23:31:47.792Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "박재현",
-          "score": 100
-        },
-        {
-          "keyword": "rklb",
-          "score": 99
-        },
-        {
-          "keyword": "이찬원",
-          "score": 98
-        },
-        {
-          "keyword": "strc",
-          "score": 97
-        },
-        {
-          "keyword": "이천수",
-          "score": 96
-        },
-        {
-          "keyword": "스타얼라이언스",
-          "score": 95
-        },
-        {
-          "keyword": "운전",
-          "score": 94
-        },
-        {
-          "keyword": "spcx",
-          "score": 93
-        },
-        {
-          "keyword": "tsla",
-          "score": 92
-        },
-        {
-          "keyword": "오십 프로",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-30T02:15:08.690Z",
       "geo": "KR",
       "source": "google",
@@ -1972,6 +1925,53 @@
         },
         {
           "keyword": "날씨예보",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-03T23:56:37.069Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "추석",
+          "score": 100
+        },
+        {
+          "keyword": "추가경정예산",
+          "score": 99
+        },
+        {
+          "keyword": "대한체육회",
+          "score": 98
+        },
+        {
+          "keyword": "가석방",
+          "score": 97
+        },
+        {
+          "keyword": "аргентина – кабо-верде",
+          "score": 96
+        },
+        {
+          "keyword": "거래량",
+          "score": 95
+        },
+        {
+          "keyword": "카보베르데",
+          "score": 94
+        },
+        {
+          "keyword": "송해 나",
+          "score": 93
+        },
+        {
+          "keyword": "주성엔지니어링",
+          "score": 92
+        },
+        {
+          "keyword": "뉴스",
           "score": 91
         }
       ]
