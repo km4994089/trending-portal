@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-30T02:15:07.628Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cubs score",
-          "score": 100
-        },
-        {
-          "keyword": "maksim chmerkovskiy peta murgatroyd move",
-          "score": 99
-        },
-        {
-          "keyword": "josh naylor",
-          "score": 98
-        },
-        {
-          "keyword": "morocco roster",
-          "score": 97
-        },
-        {
-          "keyword": "summerville",
-          "score": 96
-        },
-        {
-          "keyword": "summerville netherlands",
-          "score": 95
-        },
-        {
-          "keyword": "trump account for kids",
-          "score": 94
-        },
-        {
-          "keyword": "brahim díaz",
-          "score": 93
-        },
-        {
-          "keyword": "azzedine ounahi",
-          "score": 92
-        },
-        {
-          "keyword": "dumfries",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-30T06:36:24.452Z",
       "geo": "US",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "nwsl",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-04T05:57:14.757Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tanner scott",
+          "score": 100
+        },
+        {
+          "keyword": "kelsey rowing",
+          "score": 99
+        },
+        {
+          "keyword": "vaccines",
+          "score": 98
+        },
+        {
+          "keyword": "immunizations",
+          "score": 97
+        },
+        {
+          "keyword": "flu shots",
+          "score": 96
+        },
+        {
+          "keyword": "shohei ohtani",
+          "score": 95
+        },
+        {
+          "keyword": "vaccinations",
+          "score": 94
+        },
+        {
+          "keyword": "happy 4th of july 2026",
+          "score": 93
+        },
+        {
+          "keyword": "dodgers",
+          "score": 92
+        },
+        {
+          "keyword": "dodgers game today",
           "score": 91
         }
       ]

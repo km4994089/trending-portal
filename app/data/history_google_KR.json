@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-30T02:15:08.690Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "엔화",
-          "score": 100
-        },
-        {
-          "keyword": "공무원",
-          "score": 99
-        },
-        {
-          "keyword": "간",
-          "score": 98
-        },
-        {
-          "keyword": "스트라드비젼",
-          "score": 97
-        },
-        {
-          "keyword": "과태료",
-          "score": 96
-        },
-        {
-          "keyword": "엔조 마레스카",
-          "score": 95
-        },
-        {
-          "keyword": "아르헨티나 카보베르데",
-          "score": 94
-        },
-        {
-          "keyword": "파이리츠 대 필리스",
-          "score": 93
-        },
-        {
-          "keyword": "이원택",
-          "score": 92
-        },
-        {
-          "keyword": "신속통합기획",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-30T06:36:25.741Z",
       "geo": "KR",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "교사",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-04T05:57:15.996Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "톱스타뉴스",
+          "score": 100
+        },
+        {
+          "keyword": "죽음",
+          "score": 99
+        },
+        {
+          "keyword": "르브론 제임스",
+          "score": 98
+        },
+        {
+          "keyword": "장원영",
+          "score": 97
+        },
+        {
+          "keyword": "나솔",
+          "score": 96
+        },
+        {
+          "keyword": "장동혁 가족상",
+          "score": 95
+        },
+        {
+          "keyword": "홍명보의 저주",
+          "score": 94
+        },
+        {
+          "keyword": "박지성",
+          "score": 93
+        },
+        {
+          "keyword": "파키스탄",
+          "score": 92
+        },
+        {
+          "keyword": "이정후",
           "score": 91
         }
       ]
