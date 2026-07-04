@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-30T15:07:45.589Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ヒカル",
-          "score": 100
-        },
-        {
-          "keyword": "レイダース",
-          "score": 99
-        },
-        {
-          "keyword": "パスポート申請",
-          "score": 98
-        },
-        {
-          "keyword": "逮捕",
-          "score": 97
-        },
-        {
-          "keyword": "スプラトゥーン レイダース",
-          "score": 96
-        },
-        {
-          "keyword": "国旗損壊罪",
-          "score": 95
-        },
-        {
-          "keyword": "サンド屋台",
-          "score": 94
-        },
-        {
-          "keyword": "ヒロド歩美",
-          "score": 93
-        },
-        {
-          "keyword": "朝日小学生新聞",
-          "score": 92
-        },
-        {
-          "keyword": "佐藤綾野",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-30T17:21:19.935Z",
       "geo": "JP",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "maga",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-04T15:38:32.393Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ミッドナイト屋台",
+          "score": 100
+        },
+        {
+          "keyword": "ガンバ大阪",
+          "score": 99
+        },
+        {
+          "keyword": "九州国際大学付属高等学校",
+          "score": 98
+        },
+        {
+          "keyword": "イオン銀行",
+          "score": 97
+        },
+        {
+          "keyword": "グレイヘア",
+          "score": 96
+        },
+        {
+          "keyword": "給食",
+          "score": 95
+        },
+        {
+          "keyword": "志村秀哉",
+          "score": 94
+        },
+        {
+          "keyword": "ホラン千秋",
+          "score": 93
+        },
+        {
+          "keyword": "北九州記念 過去",
+          "score": 92
+        },
+        {
+          "keyword": "森保監督",
           "score": 91
         }
       ]
