@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-30T10:24:46.726Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "severe thunderstorm watch",
-          "score": 100
-        },
-        {
-          "keyword": "corte suprema",
-          "score": 99
-        },
-        {
-          "keyword": "melat kiros",
-          "score": 98
-        },
-        {
-          "keyword": "suspect",
-          "score": 97
-        },
-        {
-          "keyword": "kate gosselin",
-          "score": 96
-        },
-        {
-          "keyword": "lizzo",
-          "score": 95
-        },
-        {
-          "keyword": "swimming facility",
-          "score": 94
-        },
-        {
-          "keyword": "swimming competition",
-          "score": 93
-        },
-        {
-          "keyword": "housing authority",
-          "score": 92
-        },
-        {
-          "keyword": "kickboxing",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-30T12:27:29.293Z",
       "geo": "US",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "vaccinations",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-04T10:32:41.409Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "catherine, princess of wales",
+          "score": 100
+        },
+        {
+          "keyword": "matthew mcconaughey",
+          "score": 99
+        },
+        {
+          "keyword": "alex de minaur",
+          "score": 98
+        },
+        {
+          "keyword": "marta kostyuk",
+          "score": 97
+        },
+        {
+          "keyword": "fidelity trading",
+          "score": 96
+        },
+        {
+          "keyword": "space x",
+          "score": 95
+        },
+        {
+          "keyword": "peachtree road race 2026",
+          "score": 94
+        },
+        {
+          "keyword": "motorcycle accident attorney",
+          "score": 93
+        },
+        {
+          "keyword": "cloud",
+          "score": 92
+        },
+        {
+          "keyword": "russia news",
           "score": 91
         }
       ]
