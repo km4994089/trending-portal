@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-30T06:36:25.741Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "윤석열",
-          "score": 100
-        },
-        {
-          "keyword": "파울루 벤투",
-          "score": 99
-        },
-        {
-          "keyword": "아침",
-          "score": 98
-        },
-        {
-          "keyword": "하재훈",
-          "score": 97
-        },
-        {
-          "keyword": "육아휴직",
-          "score": 96
-        },
-        {
-          "keyword": "현대자동차그룹",
-          "score": 95
-        },
-        {
-          "keyword": "꽃",
-          "score": 94
-        },
-        {
-          "keyword": "고두심",
-          "score": 93
-        },
-        {
-          "keyword": "지역화폐",
-          "score": 92
-        },
-        {
-          "keyword": "심형탁",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-30T10:24:47.791Z",
       "geo": "KR",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "이정후",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-04T08:29:04.271Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "로보택시",
+          "score": 100
+        },
+        {
+          "keyword": "사업",
+          "score": 99
+        },
+        {
+          "keyword": "김수현",
+          "score": 98
+        },
+        {
+          "keyword": "양대인",
+          "score": 97
+        },
+        {
+          "keyword": "구급차",
+          "score": 96
+        },
+        {
+          "keyword": "서준영",
+          "score": 95
+        },
+        {
+          "keyword": "이주승",
+          "score": 94
+        },
+        {
+          "keyword": "오타니 쇼헤이",
+          "score": 93
+        },
+        {
+          "keyword": "넥슨",
+          "score": 92
+        },
+        {
+          "keyword": "공연",
           "score": 91
         }
       ]

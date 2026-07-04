@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-30T06:36:24.452Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kirk franklin philadelphia",
-          "score": 100
-        },
-        {
-          "keyword": "sandro mamukelashvili",
-          "score": 99
-        },
-        {
-          "keyword": "walton goggins",
-          "score": 98
-        },
-        {
-          "keyword": "ivory coast vs norway",
-          "score": 97
-        },
-        {
-          "keyword": "cole young",
-          "score": 96
-        },
-        {
-          "keyword": "world cup schedule tomorrow",
-          "score": 95
-        },
-        {
-          "keyword": "cubs standings",
-          "score": 94
-        },
-        {
-          "keyword": "northern lights forecast",
-          "score": 93
-        },
-        {
-          "keyword": "world cup games tomorrow",
-          "score": 92
-        },
-        {
-          "keyword": "morocco vs canada",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-06-30T10:24:46.726Z",
       "geo": "US",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "dodgers game today",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-04T08:29:03.123Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "dc parade cancelled",
+          "score": 100
+        },
+        {
+          "keyword": "washington dc extreme heat wave",
+          "score": 99
+        },
+        {
+          "keyword": "jaidyn alexis and bravo",
+          "score": 98
+        },
+        {
+          "keyword": "tanner scott",
+          "score": 97
+        },
+        {
+          "keyword": "kelsey rowing",
+          "score": 96
+        },
+        {
+          "keyword": "happy 4th of july 2026",
+          "score": 95
+        },
+        {
+          "keyword": "vaccines",
+          "score": 94
+        },
+        {
+          "keyword": "flu shots",
+          "score": 93
+        },
+        {
+          "keyword": "immunizations",
+          "score": 92
+        },
+        {
+          "keyword": "vaccinations",
           "score": 91
         }
       ]
