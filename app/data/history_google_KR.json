@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-06-30T23:58:15.927Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "오늘의 운세",
-          "score": 100
-        },
-        {
-          "keyword": "기흥구",
-          "score": 99
-        },
-        {
-          "keyword": "날씨",
-          "score": 98
-        },
-        {
-          "keyword": "간호사",
-          "score": 97
-        },
-        {
-          "keyword": "sonnet 5",
-          "score": 96
-        },
-        {
-          "keyword": "ฝรั่งเศส พบ สวีเดน",
-          "score": 95
-        },
-        {
-          "keyword": "франция – швеция",
-          "score": 94
-        },
-        {
-          "keyword": "감전",
-          "score": 93
-        },
-        {
-          "keyword": "로보스타",
-          "score": 92
-        },
-        {
-          "keyword": "스타뉴스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-01T03:34:32.508Z",
       "geo": "KR",
       "source": "google",
@@ -2207,6 +2160,53 @@
         },
         {
           "keyword": "슈",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-05T01:13:46.346Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "프랑스 파라과이",
+          "score": 100
+        },
+        {
+          "keyword": "다음",
+          "score": 99
+        },
+        {
+          "keyword": "날씨예보",
+          "score": 98
+        },
+        {
+          "keyword": "로또번호",
+          "score": 97
+        },
+        {
+          "keyword": "프로야구 순위",
+          "score": 96
+        },
+        {
+          "keyword": "뇌",
+          "score": 95
+        },
+        {
+          "keyword": "캐나다",
+          "score": 94
+        },
+        {
+          "keyword": "fifa ワールドカップ 2026",
+          "score": 93
+        },
+        {
+          "keyword": "캐나다 모로코",
+          "score": 92
+        },
+        {
+          "keyword": "canada vs morocco",
           "score": 91
         }
       ]
