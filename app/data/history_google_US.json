@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-01T16:42:12.460Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "deandre ayton",
-          "score": 100
-        },
-        {
-          "keyword": "radko gudas",
-          "score": 99
-        },
-        {
-          "keyword": "shams",
-          "score": 98
-        },
-        {
-          "keyword": "collin sexton",
-          "score": 97
-        },
-        {
-          "keyword": "mirra andreeva",
-          "score": 96
-        },
-        {
-          "keyword": "trevor van riemsdyk",
-          "score": 95
-        },
-        {
-          "keyword": "humanoid robot",
-          "score": 94
-        },
-        {
-          "keyword": "united states senate",
-          "score": 93
-        },
-        {
-          "keyword": "mitchell robinson",
-          "score": 92
-        },
-        {
-          "keyword": "eng vs ind",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-01T18:54:32.133Z",
       "geo": "US",
       "source": "google",
@@ -2301,6 +2254,53 @@
         },
         {
           "keyword": "partidos del mundial hoy",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-05T16:54:43.060Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "balogun",
+          "score": 100
+        },
+        {
+          "keyword": "pirates vs nationals",
+          "score": 99
+        },
+        {
+          "keyword": "what time does mexico play today",
+          "score": 98
+        },
+        {
+          "keyword": "andy roddick",
+          "score": 97
+        },
+        {
+          "keyword": "fifa matches today",
+          "score": 96
+        },
+        {
+          "keyword": "wimbledon today",
+          "score": 95
+        },
+        {
+          "keyword": "paul george celtics trade statement",
+          "score": 94
+        },
+        {
+          "keyword": "partidos de hoy mundial",
+          "score": 93
+        },
+        {
+          "keyword": "f1 race",
+          "score": 92
+        },
+        {
+          "keyword": "isaac del toro",
           "score": 91
         }
       ]
