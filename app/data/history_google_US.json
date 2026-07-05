@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-01T18:54:32.133Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cancer",
-          "score": 100
-        },
-        {
-          "keyword": "connor clifton",
-          "score": 99
-        },
-        {
-          "keyword": "rebecca lowe",
-          "score": 98
-        },
-        {
-          "keyword": "detención",
-          "score": 97
-        },
-        {
-          "keyword": "john o. brennan",
-          "score": 96
-        },
-        {
-          "keyword": "judge",
-          "score": 95
-        },
-        {
-          "keyword": "ps plus july 2026",
-          "score": 94
-        },
-        {
-          "keyword": "sergei bobrovsky",
-          "score": 93
-        },
-        {
-          "keyword": "devon levi",
-          "score": 92
-        },
-        {
-          "keyword": "san antonio spurs news",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-01T20:45:00.125Z",
       "geo": "US",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "indycar",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-05T19:01:43.145Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jannik sinner",
+          "score": 100
+        },
+        {
+          "keyword": "wings vs tempo",
+          "score": 99
+        },
+        {
+          "keyword": "coco gauff",
+          "score": 98
+        },
+        {
+          "keyword": "shintaro mochizuki",
+          "score": 97
+        },
+        {
+          "keyword": "save america",
+          "score": 96
+        },
+        {
+          "keyword": "joe ryan",
+          "score": 95
+        },
+        {
+          "keyword": "wkbn",
+          "score": 94
+        },
+        {
+          "keyword": "mallory mcmorrow",
+          "score": 93
+        },
+        {
+          "keyword": "red dead redemption 2",
+          "score": 92
+        },
+        {
+          "keyword": "lucas glover",
           "score": 91
         }
       ]

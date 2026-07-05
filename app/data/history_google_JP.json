@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-01T18:54:34.738Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "レッドソックス 対 ナショナルズ",
-          "score": 100
-        },
-        {
-          "keyword": "anh vs",
-          "score": 99
-        },
-        {
-          "keyword": "ゴードン",
-          "score": 98
-        },
-        {
-          "keyword": "ヤンキース 対 タイガース",
-          "score": 97
-        },
-        {
-          "keyword": "トゥヘル",
-          "score": 96
-        },
-        {
-          "keyword": "ベッカム",
-          "score": 95
-        },
-        {
-          "keyword": "ガーディアンズ 対 レンジャーズ",
-          "score": 94
-        },
-        {
-          "keyword": "india vs england",
-          "score": 93
-        },
-        {
-          "keyword": "デクラン・ライス",
-          "score": 92
-        },
-        {
-          "keyword": "イングランド",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-01T20:45:02.640Z",
       "geo": "JP",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "佐藤 二 朗 橋本 愛",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-05T19:01:45.502Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "望月慎太郎",
+          "score": 100
+        },
+        {
+          "keyword": "ヤンキース 対 ツインズ",
+          "score": 99
+        },
+        {
+          "keyword": "小野寺吟雲",
+          "score": 98
+        },
+        {
+          "keyword": "大坂なおみ",
+          "score": 97
+        },
+        {
+          "keyword": "西日本豪雨",
+          "score": 96
+        },
+        {
+          "keyword": "ポケモンgo",
+          "score": 95
+        },
+        {
+          "keyword": "サフィウリン",
+          "score": 94
+        },
+        {
+          "keyword": "月刊少年シリウス",
+          "score": 93
+        },
+        {
+          "keyword": "野村周平",
+          "score": 92
+        },
+        {
+          "keyword": "堀田真由",
           "score": 91
         }
       ]
