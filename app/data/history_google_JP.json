@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-01T22:12:24.449Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ミルク 宝塚",
-          "score": 100
-        },
-        {
-          "keyword": "仙台 天気",
-          "score": 99
-        },
-        {
-          "keyword": "fable5",
-          "score": 98
-        },
-        {
-          "keyword": "京都 警報",
-          "score": 97
-        },
-        {
-          "keyword": "バスケ 日本代表",
-          "score": 96
-        },
-        {
-          "keyword": "フィラデルフィア半導体株指数",
-          "score": 95
-        },
-        {
-          "keyword": "thời tiết",
-          "score": 94
-        },
-        {
-          "keyword": "大雨警報",
-          "score": 93
-        },
-        {
-          "keyword": "札幌天気",
-          "score": 92
-        },
-        {
-          "keyword": "奈良県警報",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-01T23:49:28.066Z",
       "geo": "JP",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "ロシア",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-05T22:52:22.069Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "サブスク",
+          "score": 100
+        },
+        {
+          "keyword": "スペイン対ポルトガル",
+          "score": 99
+        },
+        {
+          "keyword": "エデルソン",
+          "score": 98
+        },
+        {
+          "keyword": "ワールドカップ 組み合わせ",
+          "score": 97
+        },
+        {
+          "keyword": "メキシコ 対 イングランド 放送",
+          "score": 96
+        },
+        {
+          "keyword": "w杯 日程",
+          "score": 95
+        },
+        {
+          "keyword": "fifa world cup brackets",
+          "score": 94
+        },
+        {
+          "keyword": "ブルース・キャリントン",
+          "score": 93
+        },
+        {
+          "keyword": "neymar",
+          "score": 92
+        },
+        {
+          "keyword": "キオクシア",
           "score": 91
         }
       ]
