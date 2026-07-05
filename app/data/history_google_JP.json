@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-01T08:02:06.246Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "トーマス・トゥヘル",
-          "score": 100
-        },
-        {
-          "keyword": "トヨタ ハイランダー",
-          "score": 99
-        },
-        {
-          "keyword": "necソリューションイノベータ",
-          "score": 98
-        },
-        {
-          "keyword": "岩田絵里奈",
-          "score": 97
-        },
-        {
-          "keyword": "nec",
-          "score": 96
-        },
-        {
-          "keyword": "松本潤",
-          "score": 95
-        },
-        {
-          "keyword": "阪急京都線",
-          "score": 94
-        },
-        {
-          "keyword": "ワールド・ハイビジョン・チャンネル",
-          "score": 93
-        },
-        {
-          "keyword": "ちい かわ ココイチ",
-          "score": 92
-        },
-        {
-          "keyword": "グアム",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-01T11:36:20.066Z",
       "geo": "JP",
       "source": "google",
@@ -2207,6 +2160,53 @@
         },
         {
           "keyword": "風",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-05T08:24:40.190Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "乳がん",
+          "score": 100
+        },
+        {
+          "keyword": "ドル",
+          "score": 99
+        },
+        {
+          "keyword": "母親",
+          "score": 98
+        },
+        {
+          "keyword": "ブリーチ",
+          "score": 97
+        },
+        {
+          "keyword": "ブルーノ マーズ",
+          "score": 96
+        },
+        {
+          "keyword": "神奈川県高校野球",
+          "score": 95
+        },
+        {
+          "keyword": "デーブ・ロバーツ",
+          "score": 94
+        },
+        {
+          "keyword": "成長株",
+          "score": 93
+        },
+        {
+          "keyword": "太陽フレア",
+          "score": 92
+        },
+        {
+          "keyword": "近藤健介",
           "score": 91
         }
       ]

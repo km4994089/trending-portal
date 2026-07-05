@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-01T08:02:04.181Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "coach",
-          "score": 100
-        },
-        {
-          "keyword": "fundraiser",
-          "score": 99
-        },
-        {
-          "keyword": "mega",
-          "score": 98
-        },
-        {
-          "keyword": "chicago",
-          "score": 97
-        },
-        {
-          "keyword": "snow storm weather forecast",
-          "score": 96
-        },
-        {
-          "keyword": "what is july 1st",
-          "score": 95
-        },
-        {
-          "keyword": "rio ferdinand",
-          "score": 94
-        },
-        {
-          "keyword": "bovada",
-          "score": 93
-        },
-        {
-          "keyword": "wyatt mills",
-          "score": 92
-        },
-        {
-          "keyword": "colombia vs ghana",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-01T11:36:17.987Z",
       "geo": "US",
       "source": "google",
@@ -2207,6 +2160,53 @@
         },
         {
           "keyword": "brad paisley",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-05T08:24:37.634Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mushoku tensei season 3",
+          "score": 100
+        },
+        {
+          "keyword": "bart",
+          "score": 99
+        },
+        {
+          "keyword": "xinjiang weather",
+          "score": 98
+        },
+        {
+          "keyword": "msi 2026",
+          "score": 97
+        },
+        {
+          "keyword": "will smith",
+          "score": 96
+        },
+        {
+          "keyword": "denzel washington",
+          "score": 95
+        },
+        {
+          "keyword": "flood warning",
+          "score": 94
+        },
+        {
+          "keyword": "newport beach news",
+          "score": 93
+        },
+        {
+          "keyword": "waikiki fireworks",
+          "score": 92
+        },
+        {
+          "keyword": "provo fire",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-01T08:02:05.079Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "박정훈",
-          "score": 100
-        },
-        {
-          "keyword": "박주민",
-          "score": 99
-        },
-        {
-          "keyword": "충전소",
-          "score": 98
-        },
-        {
-          "keyword": "앤 해서웨이",
-          "score": 97
-        },
-        {
-          "keyword": "반도체",
-          "score": 96
-        },
-        {
-          "keyword": "심정지",
-          "score": 95
-        },
-        {
-          "keyword": "지명 타자",
-          "score": 94
-        },
-        {
-          "keyword": "마이클 버리",
-          "score": 93
-        },
-        {
-          "keyword": "사우디아라비아",
-          "score": 92
-        },
-        {
-          "keyword": "박미선",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-01T11:36:19.064Z",
       "geo": "KR",
       "source": "google",
@@ -2207,6 +2160,53 @@
         },
         {
           "keyword": "파라 타 항공",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-05T08:24:38.765Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "슈퍼태풍",
+          "score": 100
+        },
+        {
+          "keyword": "건강",
+          "score": 99
+        },
+        {
+          "keyword": "복권",
+          "score": 98
+        },
+        {
+          "keyword": "거스 히딩크",
+          "score": 97
+        },
+        {
+          "keyword": "반도체",
+          "score": 96
+        },
+        {
+          "keyword": "김중남",
+          "score": 95
+        },
+        {
+          "keyword": "대한축구협회",
+          "score": 94
+        },
+        {
+          "keyword": "kf-21 보라매",
+          "score": 93
+        },
+        {
+          "keyword": "온도",
+          "score": 92
+        },
+        {
+          "keyword": "오세훈",
           "score": 91
         }
       ]
