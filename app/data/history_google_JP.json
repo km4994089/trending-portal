@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-02T16:43:51.045Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "千葉県",
-          "score": 100
-        },
-        {
-          "keyword": "南海放送",
-          "score": 99
-        },
-        {
-          "keyword": "サガン鳥栖",
-          "score": 98
-        },
-        {
-          "keyword": "サンディスク 株価",
-          "score": 97
-        },
-        {
-          "keyword": "村上春樹",
-          "score": 96
-        },
-        {
-          "keyword": "アイドル",
-          "score": 95
-        },
-        {
-          "keyword": "田久保眞紀",
-          "score": 94
-        },
-        {
-          "keyword": "ポルトガル対クロアチア",
-          "score": 93
-        },
-        {
-          "keyword": "ベイスターズ",
-          "score": 92
-        },
-        {
-          "keyword": "コウモリ 狂犬病",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-02T18:21:55.444Z",
       "geo": "JP",
       "source": "google",
@@ -2301,6 +2254,53 @@
         },
         {
           "keyword": "yahoo!天気",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-06T17:34:37.939Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "続編",
+          "score": 100
+        },
+        {
+          "keyword": "ディミトロフ",
+          "score": 99
+        },
+        {
+          "keyword": "arthur fery",
+          "score": 98
+        },
+        {
+          "keyword": "八村塁",
+          "score": 97
+        },
+        {
+          "keyword": "ぐらんぶる",
+          "score": 96
+        },
+        {
+          "keyword": "奈良新聞",
+          "score": 95
+        },
+        {
+          "keyword": "にじさんじ",
+          "score": 94
+        },
+        {
+          "keyword": "ハメネイ師 死亡",
+          "score": 93
+        },
+        {
+          "keyword": "kddi パスワード 漏洩",
+          "score": 92
+        },
+        {
+          "keyword": "夫を殺したはずなのに",
           "score": 91
         }
       ]
