@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-02T09:40:09.108Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "総武線",
-          "score": 100
-        },
-        {
-          "keyword": "鈴木尚典",
-          "score": 99
-        },
-        {
-          "keyword": "長谷川信哉",
-          "score": 98
-        },
-        {
-          "keyword": "トレード",
-          "score": 97
-        },
-        {
-          "keyword": "貴乃花 光司",
-          "score": 96
-        },
-        {
-          "keyword": "イーライアダムス",
-          "score": 95
-        },
-        {
-          "keyword": "大河ドラマ",
-          "score": 94
-        },
-        {
-          "keyword": "ソンシ",
-          "score": 93
-        },
-        {
-          "keyword": "285a",
-          "score": 92
-        },
-        {
-          "keyword": "俳優",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-02T12:01:51.828Z",
       "geo": "JP",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "茨城県高校野球",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-06T11:22:23.854Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "皇位継承問題",
+          "score": 100
+        },
+        {
+          "keyword": "バスケ ワールドカップ",
+          "score": 99
+        },
+        {
+          "keyword": "ネプリーグ",
+          "score": 98
+        },
+        {
+          "keyword": "ニュース ウオッチ9",
+          "score": 97
+        },
+        {
+          "keyword": "音楽の日",
+          "score": 96
+        },
+        {
+          "keyword": "中村克",
+          "score": 95
+        },
+        {
+          "keyword": "tver",
+          "score": 94
+        },
+        {
+          "keyword": "スターダストプロモーション",
+          "score": 93
+        },
+        {
+          "keyword": "玉森裕太 ドラマ",
+          "score": 92
+        },
+        {
+          "keyword": "アムンディ エビアン 選手権",
           "score": 91
         }
       ]
