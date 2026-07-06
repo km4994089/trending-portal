@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-02T23:55:21.062Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "일본",
-          "score": 100
-        },
-        {
-          "keyword": "고려아연",
-          "score": 99
-        },
-        {
-          "keyword": "전망대",
-          "score": 98
-        },
-        {
-          "keyword": "португалия – хорватия",
-          "score": 97
-        },
-        {
-          "keyword": "โปรตุเกส พบ โครเอเชีย",
-          "score": 96
-        },
-        {
-          "keyword": "키 이우",
-          "score": 95
-        },
-        {
-          "keyword": "병역",
-          "score": 94
-        },
-        {
-          "keyword": "배재고 논란",
-          "score": 93
-        },
-        {
-          "keyword": "사기",
-          "score": 92
-        },
-        {
-          "keyword": "이재욱",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-03T01:55:47.711Z",
       "geo": "KR",
       "source": "google",
@@ -2254,6 +2207,53 @@
         },
         {
           "keyword": "오은영",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-06T23:57:52.720Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김효주",
+          "score": 100
+        },
+        {
+          "keyword": "보잉 f-47",
+          "score": 99
+        },
+        {
+          "keyword": "잠수함 발사 탄도 미사일",
+          "score": 98
+        },
+        {
+          "keyword": "프로포폴",
+          "score": 97
+        },
+        {
+          "keyword": "재테크",
+          "score": 96
+        },
+        {
+          "keyword": "iren",
+          "score": 95
+        },
+        {
+          "keyword": "장금상선",
+          "score": 94
+        },
+        {
+          "keyword": "유성구",
+          "score": 93
+        },
+        {
+          "keyword": "하무스",
+          "score": 92
+        },
+        {
+          "keyword": "넷플릭스",
           "score": 91
         }
       ]
