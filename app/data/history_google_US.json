@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-03T17:12:33.301Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sabalenka",
-          "score": 100
-        },
-        {
-          "keyword": "pete hegseth",
-          "score": 99
-        },
-        {
-          "keyword": "pardon",
-          "score": 98
-        },
-        {
-          "keyword": "jurgen klopp",
-          "score": 97
-        },
-        {
-          "keyword": "cameron diaz",
-          "score": 96
-        },
-        {
-          "keyword": "alpha movie",
-          "score": 95
-        },
-        {
-          "keyword": "coco gauff",
-          "score": 94
-        },
-        {
-          "keyword": "dorian finney smith",
-          "score": 93
-        },
-        {
-          "keyword": "ostapenko",
-          "score": 92
-        },
-        {
-          "keyword": "instacart down",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-03T18:44:02.709Z",
       "geo": "US",
       "source": "google",
@@ -2207,6 +2160,53 @@
         },
         {
           "keyword": "bernadette peters",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-07T17:51:00.340Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "diego simeone",
+          "score": 100
+        },
+        {
+          "keyword": "savannah bananas",
+          "score": 99
+        },
+        {
+          "keyword": "novak djokovic",
+          "score": 98
+        },
+        {
+          "keyword": "partido argentina",
+          "score": 97
+        },
+        {
+          "keyword": "argentina fc",
+          "score": 96
+        },
+        {
+          "keyword": "mike matusow",
+          "score": 95
+        },
+        {
+          "keyword": "ken paxton",
+          "score": 94
+        },
+        {
+          "keyword": "fox sports",
+          "score": 93
+        },
+        {
+          "keyword": "telemundo live",
+          "score": 92
+        },
+        {
+          "keyword": "egypt goalkeeper",
           "score": 91
         }
       ]

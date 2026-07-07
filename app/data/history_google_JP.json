@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-03T17:12:35.721Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "溝口勇児",
-          "score": 100
-        },
-        {
-          "keyword": "アルゼンチン カーボベルデ",
-          "score": 99
-        },
-        {
-          "keyword": "ヤニック・シナー",
-          "score": 98
-        },
-        {
-          "keyword": "ウィンブルドン 2026",
-          "score": 97
-        },
-        {
-          "keyword": "ストレンジ",
-          "score": 96
-        },
-        {
-          "keyword": "ラファエル・ホダル",
-          "score": 95
-        },
-        {
-          "keyword": "望月慎太郎",
-          "score": 94
-        },
-        {
-          "keyword": "小林礼奈",
-          "score": 93
-        },
-        {
-          "keyword": "気圧",
-          "score": 92
-        },
-        {
-          "keyword": "川崎フロンターレ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-03T18:44:05.295Z",
       "geo": "JP",
       "source": "google",
@@ -2207,6 +2160,53 @@
         },
         {
           "keyword": "エンカーナシオン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-07T17:51:02.505Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ノバク・ジョコビッチ",
+          "score": 100
+        },
+        {
+          "keyword": "村上誠一郎",
+          "score": 99
+        },
+        {
+          "keyword": "世界杯",
+          "score": 98
+        },
+        {
+          "keyword": "ムホバ",
+          "score": 97
+        },
+        {
+          "keyword": "フリアン・アルバレス",
+          "score": 96
+        },
+        {
+          "keyword": "世界杯直播",
+          "score": 95
+        },
+        {
+          "keyword": "argentina vs egypt",
+          "score": 94
+        },
+        {
+          "keyword": "アルゼンチン 対 エジプト",
+          "score": 93
+        },
+        {
+          "keyword": "アルゼンチン エジプト 放送",
+          "score": 92
+        },
+        {
+          "keyword": "マクロン大統領",
           "score": 91
         }
       ]
