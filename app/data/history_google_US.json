@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-03T05:43:48.843Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "paul gervase",
-          "score": 100
-        },
-        {
-          "keyword": "madonna",
-          "score": 99
-        },
-        {
-          "keyword": "donald trump park signage lawsuit",
-          "score": 98
-        },
-        {
-          "keyword": "norovirus",
-          "score": 97
-        },
-        {
-          "keyword": "dakota johnson",
-          "score": 96
-        },
-        {
-          "keyword": "tommy edman",
-          "score": 95
-        },
-        {
-          "keyword": "fourth of july baseball",
-          "score": 94
-        },
-        {
-          "keyword": "cuatro de julio",
-          "score": 93
-        },
-        {
-          "keyword": "sarah pidgeon",
-          "score": 92
-        },
-        {
-          "keyword": "zach galifianakis",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-03T08:48:04.977Z",
       "geo": "US",
       "source": "google",
@@ -2254,6 +2207,53 @@
         },
         {
           "keyword": "trump truth social",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-07T06:36:22.726Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "openai",
+          "score": 100
+        },
+        {
+          "keyword": "kospi",
+          "score": 99
+        },
+        {
+          "keyword": "jaswant singh khalra",
+          "score": 98
+        },
+        {
+          "keyword": "brennan bernardino",
+          "score": 97
+        },
+        {
+          "keyword": "dodgers",
+          "score": 96
+        },
+        {
+          "keyword": "dodgers game today",
+          "score": 95
+        },
+        {
+          "keyword": "rockies",
+          "score": 94
+        },
+        {
+          "keyword": "dreamdoll",
+          "score": 93
+        },
+        {
+          "keyword": "new jersey fireboat whale collision",
+          "score": 92
+        },
+        {
+          "keyword": "dodger game",
           "score": 91
         }
       ]

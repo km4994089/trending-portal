@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-03T05:43:49.780Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "박서진",
-          "score": 100
-        },
-        {
-          "keyword": "암",
-          "score": 99
-        },
-        {
-          "keyword": "도로",
-          "score": 98
-        },
-        {
-          "keyword": "포스코홀딩스",
-          "score": 97
-        },
-        {
-          "keyword": "알제리",
-          "score": 96
-        },
-        {
-          "keyword": "경찰",
-          "score": 95
-        },
-        {
-          "keyword": "노시환",
-          "score": 94
-        },
-        {
-          "keyword": "홈플러스",
-          "score": 93
-        },
-        {
-          "keyword": "신유빈",
-          "score": 92
-        },
-        {
-          "keyword": "스위스 대 알제리",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-03T08:48:05.830Z",
       "geo": "KR",
       "source": "google",
@@ -2254,6 +2207,53 @@
         },
         {
           "keyword": "최용수",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-07T06:36:23.885Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "엔비디아",
+          "score": 100
+        },
+        {
+          "keyword": "폭염",
+          "score": 99
+        },
+        {
+          "keyword": "수소",
+          "score": 98
+        },
+        {
+          "keyword": "서킷브레이커",
+          "score": 97
+        },
+        {
+          "keyword": "매매",
+          "score": 96
+        },
+        {
+          "keyword": "팔미도",
+          "score": 95
+        },
+        {
+          "keyword": "icml",
+          "score": 94
+        },
+        {
+          "keyword": "전공의",
+          "score": 93
+        },
+        {
+          "keyword": "기부",
+          "score": 92
+        },
+        {
+          "keyword": "산사태",
           "score": 91
         }
       ]
