@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-03T11:25:10.547Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "오윤아",
-          "score": 100
-        },
-        {
-          "keyword": "msi",
-          "score": 99
-        },
-        {
-          "keyword": "박주호",
-          "score": 98
-        },
-        {
-          "keyword": "이동국",
-          "score": 97
-        },
-        {
-          "keyword": "사관학교",
-          "score": 96
-        },
-        {
-          "keyword": "롯데 대 kt",
-          "score": 95
-        },
-        {
-          "keyword": "이언주",
-          "score": 94
-        },
-        {
-          "keyword": "두산 대 키움",
-          "score": 93
-        },
-        {
-          "keyword": "nc 대 kia",
-          "score": 92
-        },
-        {
-          "keyword": "한화 대 lg",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-03T13:18:35.932Z",
       "geo": "KR",
       "source": "google",
@@ -2254,6 +2207,53 @@
         },
         {
           "keyword": "세종특별자치시교육청",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-07T12:41:07.448Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "무안군수",
+          "score": 100
+        },
+        {
+          "keyword": "박진만",
+          "score": 99
+        },
+        {
+          "keyword": "이철우",
+          "score": 98
+        },
+        {
+          "keyword": "마동석",
+          "score": 97
+        },
+        {
+          "keyword": "혈당",
+          "score": 96
+        },
+        {
+          "keyword": "산골 총각 영웅",
+          "score": 95
+        },
+        {
+          "keyword": "화산",
+          "score": 94
+        },
+        {
+          "keyword": "최저임금",
+          "score": 93
+        },
+        {
+          "keyword": "가족관계증명서 드라마",
+          "score": 92
+        },
+        {
+          "keyword": "맨체스터 유나이티드 fc",
           "score": 91
         }
       ]

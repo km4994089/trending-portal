@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-03T11:25:11.869Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "レインボー",
-          "score": 100
-        },
-        {
-          "keyword": "お台場 花火",
-          "score": 99
-        },
-        {
-          "keyword": "花火大会 2026 東京",
-          "score": 98
-        },
-        {
-          "keyword": "花火大会",
-          "score": 97
-        },
-        {
-          "keyword": "ラウール",
-          "score": 96
-        },
-        {
-          "keyword": "琉球ゴールデンキングス",
-          "score": 95
-        },
-        {
-          "keyword": "松尾佑介",
-          "score": 94
-        },
-        {
-          "keyword": "バスケ 日本代表 放送",
-          "score": 93
-        },
-        {
-          "keyword": "今朝丸裕喜",
-          "score": 92
-        },
-        {
-          "keyword": "福井新聞",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-03T13:18:37.341Z",
       "geo": "JP",
       "source": "google",
@@ -2254,6 +2207,53 @@
         },
         {
           "keyword": "巨人 対 阪神",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-07T12:41:08.670Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "マツコの知らない世界",
+          "score": 100
+        },
+        {
+          "keyword": "石田裕太郎",
+          "score": 99
+        },
+        {
+          "keyword": "坂本勇人",
+          "score": 98
+        },
+        {
+          "keyword": "志田未来",
+          "score": 97
+        },
+        {
+          "keyword": "クロスロード",
+          "score": 96
+        },
+        {
+          "keyword": "柳田悠岐",
+          "score": 95
+        },
+        {
+          "keyword": "エンカーナシオン",
+          "score": 94
+        },
+        {
+          "keyword": "ニコン",
+          "score": 93
+        },
+        {
+          "keyword": "飯島直子",
+          "score": 92
+        },
+        {
+          "keyword": "石丸幹二",
           "score": 91
         }
       ]

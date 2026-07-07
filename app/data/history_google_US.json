@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-03T11:25:09.542Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "landman",
-          "score": 100
-        },
-        {
-          "keyword": "big bear lake bald eagles",
-          "score": 99
-        },
-        {
-          "keyword": "world cup 2026",
-          "score": 98
-        },
-        {
-          "keyword": "mt rushmore",
-          "score": 97
-        },
-        {
-          "keyword": "tour de france 2026",
-          "score": 96
-        },
-        {
-          "keyword": "brad dalke",
-          "score": 95
-        },
-        {
-          "keyword": "погода",
-          "score": 94
-        },
-        {
-          "keyword": "claire liu",
-          "score": 93
-        },
-        {
-          "keyword": "alerta por calor extremo",
-          "score": 92
-        },
-        {
-          "keyword": "openai",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-03T13:18:34.525Z",
       "geo": "US",
       "source": "google",
@@ -2254,6 +2207,53 @@
         },
         {
           "keyword": "tesla",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-07T12:41:06.235Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jannik sinner",
+          "score": 100
+        },
+        {
+          "keyword": "rahm emanuel tel aviv speech",
+          "score": 99
+        },
+        {
+          "keyword": "jan-lennard struff",
+          "score": 98
+        },
+        {
+          "keyword": "fiserv",
+          "score": 97
+        },
+        {
+          "keyword": "doj trump tax lawsuit settlement",
+          "score": 96
+        },
+        {
+          "keyword": "john oliver",
+          "score": 95
+        },
+        {
+          "keyword": "dior",
+          "score": 94
+        },
+        {
+          "keyword": "dylan dreyer",
+          "score": 93
+        },
+        {
+          "keyword": "haitians",
+          "score": 92
+        },
+        {
+          "keyword": "late night show hosts",
           "score": 91
         }
       ]
