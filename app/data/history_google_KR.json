@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-03T01:55:47.711Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "국민연금공단",
-          "score": 100
-        },
-        {
-          "keyword": "카디널스 대 브레이브스",
-          "score": 99
-        },
-        {
-          "keyword": "의정부시",
-          "score": 98
-        },
-        {
-          "keyword": "고려아연",
-          "score": 97
-        },
-        {
-          "keyword": "전망대",
-          "score": 96
-        },
-        {
-          "keyword": "португалия – хорватия",
-          "score": 95
-        },
-        {
-          "keyword": "일본",
-          "score": 94
-        },
-        {
-          "keyword": "โปรตุเกส พบ โครเอเชีย",
-          "score": 93
-        },
-        {
-          "keyword": "병역",
-          "score": 92
-        },
-        {
-          "keyword": "키 이우",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-03T05:43:49.780Z",
       "geo": "KR",
       "source": "google",
@@ -2254,6 +2207,53 @@
         },
         {
           "keyword": "넷플릭스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-07T02:43:34.803Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "세종문화회관",
+          "score": 100
+        },
+        {
+          "keyword": "집단 소송",
+          "score": 99
+        },
+        {
+          "keyword": "삼성 전자 2 분기 실적",
+          "score": 98
+        },
+        {
+          "keyword": "보조금",
+          "score": 97
+        },
+        {
+          "keyword": "심혜진",
+          "score": 96
+        },
+        {
+          "keyword": "제주항공",
+          "score": 95
+        },
+        {
+          "keyword": "닉쿤",
+          "score": 94
+        },
+        {
+          "keyword": "나이스",
+          "score": 93
+        },
+        {
+          "keyword": "티센크루프 마린 시스템",
+          "score": 92
+        },
+        {
+          "keyword": "최용수",
           "score": 91
         }
       ]
