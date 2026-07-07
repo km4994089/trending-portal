@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-03T08:48:07.014Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ヤクルト 対 dena",
-          "score": 100
-        },
-        {
-          "keyword": "中日 対 巨人",
-          "score": 99
-        },
-        {
-          "keyword": "阪神 対 広島",
-          "score": 98
-        },
-        {
-          "keyword": "楽天 対 日本ハム",
-          "score": 97
-        },
-        {
-          "keyword": "ソフトバンク 対 ロッテ",
-          "score": 96
-        },
-        {
-          "keyword": "v",
-          "score": 95
-        },
-        {
-          "keyword": "チケプラ",
-          "score": 94
-        },
-        {
-          "keyword": "バーガー キング 値上げ",
-          "score": 93
-        },
-        {
-          "keyword": "大野 智",
-          "score": 92
-        },
-        {
-          "keyword": "宮内春輝",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-03T11:25:11.869Z",
       "geo": "JP",
       "source": "google",
@@ -2254,6 +2207,53 @@
         },
         {
           "keyword": "hybe japan",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-07T10:18:16.379Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "佐藤龍之介",
+          "score": 100
+        },
+        {
+          "keyword": "アルゼンチン エジプト",
+          "score": 99
+        },
+        {
+          "keyword": "ファミチキ",
+          "score": 98
+        },
+        {
+          "keyword": "五ヶ瀬ハイランドスキー場",
+          "score": 97
+        },
+        {
+          "keyword": "dena 対 中日",
+          "score": 96
+        },
+        {
+          "keyword": "唇 縫う ニュース",
+          "score": 95
+        },
+        {
+          "keyword": "ハーランド 魔 人 ブウ",
+          "score": 94
+        },
+        {
+          "keyword": "ロッテ 対 日本ハム",
+          "score": 93
+        },
+        {
+          "keyword": "オリックス 対 ソフトバンク",
+          "score": 92
+        },
+        {
+          "keyword": "巨人 対 阪神",
           "score": 91
         }
       ]
