@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-04T23:28:08.367Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ポルトガル対スペイン",
-          "score": 100
-        },
-        {
-          "keyword": "シェルキ",
-          "score": 99
-        },
-        {
-          "keyword": "西鉄電車",
-          "score": 98
-        },
-        {
-          "keyword": "エンバペ",
-          "score": 97
-        },
-        {
-          "keyword": "transfer",
-          "score": 96
-        },
-        {
-          "keyword": "玉森裕太",
-          "score": 95
-        },
-        {
-          "keyword": "鈴鹿8耐",
-          "score": 94
-        },
-        {
-          "keyword": "テイラースウィフト",
-          "score": 93
-        },
-        {
-          "keyword": "ブラジル対ノルウェー",
-          "score": 92
-        },
-        {
-          "keyword": "チラベルト",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-05T01:13:47.654Z",
       "geo": "JP",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "サッカーワールドカップ ベスト8",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-08T23:59:25.349Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "バーチャル高校野球",
+          "score": 100
+        },
+        {
+          "keyword": "与那嶺瑠唯",
+          "score": 99
+        },
+        {
+          "keyword": "山崎来蘭",
+          "score": 98
+        },
+        {
+          "keyword": "レッズ 対 フィリーズ",
+          "score": 97
+        },
+        {
+          "keyword": "横田真悠",
+          "score": 96
+        },
+        {
+          "keyword": "サムアルトマン",
+          "score": 95
+        },
+        {
+          "keyword": "グレイヘア",
+          "score": 94
+        },
+        {
+          "keyword": "熱中症アラート",
+          "score": 93
+        },
+        {
+          "keyword": "レイズ 対 ヤンキース",
+          "score": 92
+        },
+        {
+          "keyword": "内田有紀",
           "score": 91
         }
       ]
