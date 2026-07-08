@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-04T08:29:03.123Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dc parade cancelled",
-          "score": 100
-        },
-        {
-          "keyword": "washington dc extreme heat wave",
-          "score": 99
-        },
-        {
-          "keyword": "jaidyn alexis and bravo",
-          "score": 98
-        },
-        {
-          "keyword": "tanner scott",
-          "score": 97
-        },
-        {
-          "keyword": "kelsey rowing",
-          "score": 96
-        },
-        {
-          "keyword": "happy 4th of july 2026",
-          "score": 95
-        },
-        {
-          "keyword": "vaccines",
-          "score": 94
-        },
-        {
-          "keyword": "flu shots",
-          "score": 93
-        },
-        {
-          "keyword": "immunizations",
-          "score": 92
-        },
-        {
-          "keyword": "vaccinations",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-04T10:32:41.409Z",
       "geo": "US",
       "source": "google",
@@ -2207,6 +2160,53 @@
         },
         {
           "keyword": "mason miller",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-08T09:44:02.606Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mario kart tour",
+          "score": 100
+        },
+        {
+          "keyword": "us iran",
+          "score": 99
+        },
+        {
+          "keyword": "mark rutte",
+          "score": 98
+        },
+        {
+          "keyword": "oil futures",
+          "score": 97
+        },
+        {
+          "keyword": "today",
+          "score": 96
+        },
+        {
+          "keyword": "car accident lawyer",
+          "score": 95
+        },
+        {
+          "keyword": "高善文",
+          "score": 94
+        },
+        {
+          "keyword": "bitcoin",
+          "score": 93
+        },
+        {
+          "keyword": "microsoft",
+          "score": 92
+        },
+        {
+          "keyword": "msi 2026",
           "score": 91
         }
       ]
