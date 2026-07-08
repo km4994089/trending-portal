@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-04T05:57:15.996Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "톱스타뉴스",
-          "score": 100
-        },
-        {
-          "keyword": "죽음",
-          "score": 99
-        },
-        {
-          "keyword": "르브론 제임스",
-          "score": 98
-        },
-        {
-          "keyword": "장원영",
-          "score": 97
-        },
-        {
-          "keyword": "나솔",
-          "score": 96
-        },
-        {
-          "keyword": "장동혁 가족상",
-          "score": 95
-        },
-        {
-          "keyword": "홍명보의 저주",
-          "score": 94
-        },
-        {
-          "keyword": "박지성",
-          "score": 93
-        },
-        {
-          "keyword": "파키스탄",
-          "score": 92
-        },
-        {
-          "keyword": "이정후",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-04T08:29:04.271Z",
       "geo": "KR",
       "source": "google",
@@ -2207,6 +2160,53 @@
         },
         {
           "keyword": "현행범",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-08T07:27:51.343Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "코브라",
+          "score": 100
+        },
+        {
+          "keyword": "군용비행장",
+          "score": 99
+        },
+        {
+          "keyword": "이투데이",
+          "score": 98
+        },
+        {
+          "keyword": "보완수사 폐지",
+          "score": 97
+        },
+        {
+          "keyword": "금속",
+          "score": 96
+        },
+        {
+          "keyword": "군사작전",
+          "score": 95
+        },
+        {
+          "keyword": "키옥시아 주가",
+          "score": 94
+        },
+        {
+          "keyword": "진아름",
+          "score": 93
+        },
+        {
+          "keyword": "고용",
+          "score": 92
+        },
+        {
+          "keyword": "제헌절",
           "score": 91
         }
       ]

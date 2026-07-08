@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-04T05:57:14.757Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tanner scott",
-          "score": 100
-        },
-        {
-          "keyword": "kelsey rowing",
-          "score": 99
-        },
-        {
-          "keyword": "vaccines",
-          "score": 98
-        },
-        {
-          "keyword": "immunizations",
-          "score": 97
-        },
-        {
-          "keyword": "flu shots",
-          "score": 96
-        },
-        {
-          "keyword": "shohei ohtani",
-          "score": 95
-        },
-        {
-          "keyword": "vaccinations",
-          "score": 94
-        },
-        {
-          "keyword": "happy 4th of july 2026",
-          "score": 93
-        },
-        {
-          "keyword": "dodgers",
-          "score": 92
-        },
-        {
-          "keyword": "dodgers game today",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-04T08:29:03.123Z",
       "geo": "US",
       "source": "google",
@@ -2207,6 +2160,53 @@
         },
         {
           "keyword": "padres game",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-08T07:27:50.483Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "margaret qualley",
+          "score": 100
+        },
+        {
+          "keyword": "gakuran",
+          "score": 99
+        },
+        {
+          "keyword": "kospi",
+          "score": 98
+        },
+        {
+          "keyword": "loans",
+          "score": 97
+        },
+        {
+          "keyword": "dodger game",
+          "score": 96
+        },
+        {
+          "keyword": "kyle karros",
+          "score": 95
+        },
+        {
+          "keyword": "jordan romano",
+          "score": 94
+        },
+        {
+          "keyword": "auli'i cravalho",
+          "score": 93
+        },
+        {
+          "keyword": "evan phillips",
+          "score": 92
+        },
+        {
+          "keyword": "mason miller",
           "score": 91
         }
       ]
