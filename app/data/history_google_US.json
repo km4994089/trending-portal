@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-04T14:06:23.859Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lena dunham taylor swift wedding",
-          "score": 100
-        },
-        {
-          "keyword": "beyonce",
-          "score": 99
-        },
-        {
-          "keyword": "bill hemmer",
-          "score": 98
-        },
-        {
-          "keyword": "cricinfo",
-          "score": 97
-        },
-        {
-          "keyword": "fourth of july fireworks",
-          "score": 96
-        },
-        {
-          "keyword": "flavio cobolli",
-          "score": 95
-        },
-        {
-          "keyword": "prince harry",
-          "score": 94
-        },
-        {
-          "keyword": "toddler found alive in morgue",
-          "score": 93
-        },
-        {
-          "keyword": "gas station near me",
-          "score": 92
-        },
-        {
-          "keyword": "bill clinton",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-07-04T15:38:29.718Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "india vs england",
-          "score": 100
-        },
-        {
-          "keyword": "brad dalke",
-          "score": 99
-        },
-        {
-          "keyword": "jasmine paolini",
-          "score": 98
-        },
-        {
-          "keyword": "usa vs england",
-          "score": 97
-        },
-        {
-          "keyword": "july 4th fireworks near me",
-          "score": 96
-        },
-        {
-          "keyword": "world cup top 16",
-          "score": 95
-        },
-        {
-          "keyword": "marcos giron",
-          "score": 94
-        },
-        {
-          "keyword": "tennis scores",
-          "score": 93
-        },
-        {
-          "keyword": "jones beach air show",
-          "score": 92
-        },
-        {
-          "keyword": "bristol 4th of july parade",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-04T16:52:35.617Z",
       "geo": "US",
       "source": "google",
@@ -2207,6 +2113,53 @@
         },
         {
           "keyword": "freedom fuel gas stations",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-08T15:41:45.125Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "soccer fifa world cup",
+          "score": 100
+        },
+        {
+          "keyword": "bears training camp",
+          "score": 99
+        },
+        {
+          "keyword": "lebron james next nba team",
+          "score": 98
+        },
+        {
+          "keyword": "fbi argentina",
+          "score": 97
+        },
+        {
+          "keyword": "dunkin king kylie",
+          "score": 96
+        },
+        {
+          "keyword": "arthur fery",
+          "score": 95
+        },
+        {
+          "keyword": "july 8",
+          "score": 94
+        },
+        {
+          "keyword": "semaglutide",
+          "score": 93
+        },
+        {
+          "keyword": "andy roddick",
+          "score": 92
+        },
+        {
+          "keyword": "anna blinkova",
           "score": 91
         }
       ]
