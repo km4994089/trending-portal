@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-04T12:01:08.162Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tv show host",
-          "score": 100
-        },
-        {
-          "keyword": "presidential signature on $100 bill",
-          "score": 99
-        },
-        {
-          "keyword": "crocodiles",
-          "score": 98
-        },
-        {
-          "keyword": "paul finebaum",
-          "score": 97
-        },
-        {
-          "keyword": "sick leave",
-          "score": 96
-        },
-        {
-          "keyword": "tour de france",
-          "score": 95
-        },
-        {
-          "keyword": "camp nou",
-          "score": 94
-        },
-        {
-          "keyword": "happy july 4th",
-          "score": 93
-        },
-        {
-          "keyword": "liudmila samsonova",
-          "score": 92
-        },
-        {
-          "keyword": "blake lively taylor swift wedding",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-04T14:06:23.859Z",
       "geo": "US",
       "source": "google",
@@ -2207,6 +2160,53 @@
         },
         {
           "keyword": "trump spain",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-08T13:29:43.936Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "downdetector",
+          "score": 100
+        },
+        {
+          "keyword": "charles iii",
+          "score": 99
+        },
+        {
+          "keyword": "california dmv license test irregularities",
+          "score": 98
+        },
+        {
+          "keyword": "paolini",
+          "score": 97
+        },
+        {
+          "keyword": "waymo",
+          "score": 96
+        },
+        {
+          "keyword": "tour de france standings",
+          "score": 95
+        },
+        {
+          "keyword": "jayson tatum",
+          "score": 94
+        },
+        {
+          "keyword": "ford mustang",
+          "score": 93
+        },
+        {
+          "keyword": "sun",
+          "score": 92
+        },
+        {
+          "keyword": "freedom fuel gas stations",
           "score": 91
         }
       ]

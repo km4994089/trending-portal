@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-04T12:01:10.464Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dei",
-          "score": 100
-        },
-        {
-          "keyword": "ウマニティ",
-          "score": 99
-        },
-        {
-          "keyword": "本間 朋 晃",
-          "score": 98
-        },
-        {
-          "keyword": "横田基地 花火",
-          "score": 97
-        },
-        {
-          "keyword": "ブルーノマーズ",
-          "score": 96
-        },
-        {
-          "keyword": "ディズニーオンアイス",
-          "score": 95
-        },
-        {
-          "keyword": "香川真司",
-          "score": 94
-        },
-        {
-          "keyword": "グーグル",
-          "score": 93
-        },
-        {
-          "keyword": "菊池風磨",
-          "score": 92
-        },
-        {
-          "keyword": "堂本 光一",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-04T14:06:26.177Z",
       "geo": "JP",
       "source": "google",
@@ -2207,6 +2160,53 @@
         },
         {
           "keyword": "ネーションズリーグ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-08T13:29:46.311Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "風間俊介",
+          "score": 100
+        },
+        {
+          "keyword": "フランス対モロッコ",
+          "score": 99
+        },
+        {
+          "keyword": "杉浦 太陽",
+          "score": 98
+        },
+        {
+          "keyword": "マラドーナ",
+          "score": 97
+        },
+        {
+          "keyword": "円安",
+          "score": 96
+        },
+        {
+          "keyword": "vietnam",
+          "score": 95
+        },
+        {
+          "keyword": "マック 森永 コラボ",
+          "score": 94
+        },
+        {
+          "keyword": "水曜日のダウンタウン",
+          "score": 93
+        },
+        {
+          "keyword": "村上佳菜子",
+          "score": 92
+        },
+        {
+          "keyword": "大村競艇",
           "score": 91
         }
       ]

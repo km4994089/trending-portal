@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-04T12:01:09.181Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이란",
-          "score": 100
-        },
-        {
-          "keyword": "2026 msi",
-          "score": 99
-        },
-        {
-          "keyword": "롤인벤",
-          "score": 98
-        },
-        {
-          "keyword": "수원 대 성남",
-          "score": 97
-        },
-        {
-          "keyword": "중앙일보",
-          "score": 96
-        },
-        {
-          "keyword": "안양 대 포항",
-          "score": 95
-        },
-        {
-          "keyword": "보스턴다이내믹스",
-          "score": 94
-        },
-        {
-          "keyword": "김용빈",
-          "score": 93
-        },
-        {
-          "keyword": "전북 대 강원",
-          "score": 92
-        },
-        {
-          "keyword": "라이언 와이스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-04T14:06:24.815Z",
       "geo": "KR",
       "source": "google",
@@ -2207,6 +2160,53 @@
         },
         {
           "keyword": "이환 신쿠",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-08T13:29:45.189Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "주택담보대출",
+          "score": 100
+        },
+        {
+          "keyword": "류지혁",
+          "score": 99
+        },
+        {
+          "keyword": "이규혁",
+          "score": 98
+        },
+        {
+          "keyword": "맥스 할로웨이",
+          "score": 97
+        },
+        {
+          "keyword": "이다인",
+          "score": 96
+        },
+        {
+          "keyword": "경주ic",
+          "score": 95
+        },
+        {
+          "keyword": "박성광",
+          "score": 94
+        },
+        {
+          "keyword": "해고",
+          "score": 93
+        },
+        {
+          "keyword": "dem",
+          "score": 92
+        },
+        {
+          "keyword": "화물기",
           "score": 91
         }
       ]
