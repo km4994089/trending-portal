@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-04T10:32:43.801Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sixtones",
-          "score": 100
-        },
-        {
-          "keyword": "石油",
-          "score": 99
-        },
-        {
-          "keyword": "にじさんじ",
-          "score": 98
-        },
-        {
-          "keyword": "全日本 空輸",
-          "score": 97
-        },
-        {
-          "keyword": "高橋海人",
-          "score": 96
-        },
-        {
-          "keyword": "タイピング",
-          "score": 95
-        },
-        {
-          "keyword": "news",
-          "score": 94
-        },
-        {
-          "keyword": "松 窪 真心",
-          "score": 93
-        },
-        {
-          "keyword": "ランディバスケス",
-          "score": 92
-        },
-        {
-          "keyword": "fibaバスケットボール・ワールドカップ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-04T12:01:10.464Z",
       "geo": "JP",
       "source": "google",
@@ -2207,6 +2160,53 @@
         },
         {
           "keyword": "競馬騎手",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-08T11:41:44.710Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "xsmb",
+          "score": 100
+        },
+        {
+          "keyword": "リヴァプールfc",
+          "score": 99
+        },
+        {
+          "keyword": "北窓絢音",
+          "score": 98
+        },
+        {
+          "keyword": "天皇",
+          "score": 97
+        },
+        {
+          "keyword": "星麻琴アナウンサー",
+          "score": 96
+        },
+        {
+          "keyword": "東京エレクトロン",
+          "score": 95
+        },
+        {
+          "keyword": "九里亜蓮",
+          "score": 94
+        },
+        {
+          "keyword": "宮本 恒 靖",
+          "score": 93
+        },
+        {
+          "keyword": "川崎競馬",
+          "score": 92
+        },
+        {
+          "keyword": "ネーションズリーグ",
           "score": 91
         }
       ]
