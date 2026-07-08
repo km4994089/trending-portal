@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-04T21:25:11.603Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "パラグアイ 対 フランス",
-          "score": 100
-        },
-        {
-          "keyword": "福岡天気",
-          "score": 99
-        },
-        {
-          "keyword": "英会話",
-          "score": 98
-        },
-        {
-          "keyword": "モロッコ",
-          "score": 97
-        },
-        {
-          "keyword": "整体",
-          "score": 96
-        },
-        {
-          "keyword": "イスマエル・サイバリ",
-          "score": 95
-        },
-        {
-          "keyword": "アイユーブ・ブアディ",
-          "score": 94
-        },
-        {
-          "keyword": "ジョナサン・デイヴィッド",
-          "score": 93
-        },
-        {
-          "keyword": "トミー エドマン",
-          "score": 92
-        },
-        {
-          "keyword": "浅田真央",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-04T22:25:06.484Z",
       "geo": "JP",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "エルニーニョ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-08T21:36:57.299Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ニュース",
+          "score": 100
+        },
+        {
+          "keyword": "ジェシー",
+          "score": 99
+        },
+        {
+          "keyword": "ストーカー",
+          "score": 98
+        },
+        {
+          "keyword": "nvda",
+          "score": 97
+        },
+        {
+          "keyword": "博多大吉",
+          "score": 96
+        },
+        {
+          "keyword": "村上宗隆",
+          "score": 95
+        },
+        {
+          "keyword": "織田信孝",
+          "score": 94
+        },
+        {
+          "keyword": "twice サナ 映画",
+          "score": 93
+        },
+        {
+          "keyword": "ママスタ",
+          "score": 92
+        },
+        {
+          "keyword": "うたコン",
           "score": 91
         }
       ]
