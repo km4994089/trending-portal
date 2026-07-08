@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-04T22:25:05.292Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "날씨예보",
-          "score": 100
-        },
-        {
-          "keyword": "로또번호",
-          "score": 99
-        },
-        {
-          "keyword": "프로야구 순위",
-          "score": 98
-        },
-        {
-          "keyword": "뇌",
-          "score": 97
-        },
-        {
-          "keyword": "캐나다",
-          "score": 96
-        },
-        {
-          "keyword": "fifa ワールドカップ 2026",
-          "score": 95
-        },
-        {
-          "keyword": "캐나다 모로코",
-          "score": 94
-        },
-        {
-          "keyword": "canada vs morocco",
-          "score": 93
-        },
-        {
-          "keyword": "젤리 슈즈",
-          "score": 92
-        },
-        {
-          "keyword": "슈",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-04T23:28:07.044Z",
       "geo": "KR",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "곰",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-08T22:55:14.185Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "윔블던 2026",
+          "score": 100
+        },
+        {
+          "keyword": "박영규",
+          "score": 99
+        },
+        {
+          "keyword": "김수현",
+          "score": 98
+        },
+        {
+          "keyword": "다우 존스 산업평균지수",
+          "score": 97
+        },
+        {
+          "keyword": "สภาพอากาศ",
+          "score": 96
+        },
+        {
+          "keyword": "tsla",
+          "score": 95
+        },
+        {
+          "keyword": "충전기",
+          "score": 94
+        },
+        {
+          "keyword": "schd",
+          "score": 93
+        },
+        {
+          "keyword": "nvda",
+          "score": 92
+        },
+        {
+          "keyword": "나는 solo",
           "score": 91
         }
       ]
