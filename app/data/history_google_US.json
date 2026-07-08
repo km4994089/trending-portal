@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-04T17:55:24.472Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "hakimi",
-          "score": 100
-        },
-        {
-          "keyword": "wayne gretzky",
-          "score": 99
-        },
-        {
-          "keyword": "ismael saibari",
-          "score": 98
-        },
-        {
-          "keyword": "jonathan david",
-          "score": 97
-        },
-        {
-          "keyword": "marruecos vs canada",
-          "score": 96
-        },
-        {
-          "keyword": "jesse marsch",
-          "score": 95
-        },
-        {
-          "keyword": "houston weather",
-          "score": 94
-        },
-        {
-          "keyword": "taylor fritz",
-          "score": 93
-        },
-        {
-          "keyword": "2030 world cup",
-          "score": 92
-        },
-        {
-          "keyword": "houston stadium",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-04T18:55:59.265Z",
       "geo": "US",
       "source": "google",
@@ -2160,6 +2113,53 @@
         },
         {
           "keyword": "tour de france stage 5",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-08T18:52:32.162Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "arby's",
+          "score": 100
+        },
+        {
+          "keyword": "larry nance jr",
+          "score": 99
+        },
+        {
+          "keyword": "air force sergeant promotion errors",
+          "score": 98
+        },
+        {
+          "keyword": "fomc",
+          "score": 97
+        },
+        {
+          "keyword": "fomc minutes",
+          "score": 96
+        },
+        {
+          "keyword": "jim bridenstine",
+          "score": 95
+        },
+        {
+          "keyword": "e. jean carroll",
+          "score": 94
+        },
+        {
+          "keyword": "birkenstock repetto",
+          "score": 93
+        },
+        {
+          "keyword": "fox hollow murders",
+          "score": 92
+        },
+        {
+          "keyword": "sc lottery",
           "score": 91
         }
       ]
