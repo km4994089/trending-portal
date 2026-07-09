@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-05T21:51:18.018Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "롯데 자이언츠",
-          "score": 100
-        },
-        {
-          "keyword": "국채",
-          "score": 99
-        },
-        {
-          "keyword": "제주특별자치도",
-          "score": 98
-        },
-        {
-          "keyword": "신동빈",
-          "score": 97
-        },
-        {
-          "keyword": "연천군",
-          "score": 96
-        },
-        {
-          "keyword": "음료",
-          "score": 95
-        },
-        {
-          "keyword": "대한항공",
-          "score": 94
-        },
-        {
-          "keyword": "정동원",
-          "score": 93
-        },
-        {
-          "keyword": "롯데건설",
-          "score": 92
-        },
-        {
-          "keyword": "설악산",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-05T22:52:20.607Z",
       "geo": "KR",
       "source": "google",
@@ -1878,6 +1831,53 @@
         },
         {
           "keyword": "gpt 5.6",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-09T22:27:57.048Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이범호",
+          "score": 100
+        },
+        {
+          "keyword": "1기 신도시",
+          "score": 99
+        },
+        {
+          "keyword": "ฝรั่งเศส พบ โมร็อกโก",
+          "score": 98
+        },
+        {
+          "keyword": "spcx",
+          "score": 97
+        },
+        {
+          "keyword": "오픈ai",
+          "score": 96
+        },
+        {
+          "keyword": "fifa world cup",
+          "score": 95
+        },
+        {
+          "keyword": "기안84",
+          "score": 94
+        },
+        {
+          "keyword": "재건축",
+          "score": 93
+        },
+        {
+          "keyword": "world cup 2026",
+          "score": 92
+        },
+        {
+          "keyword": "상장폐지",
           "score": 91
         }
       ]
