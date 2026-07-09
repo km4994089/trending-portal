@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-05T16:54:45.401Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ウインブルドン",
-          "score": 100
-        },
-        {
-          "keyword": "ポケモンgo",
-          "score": 99
-        },
-        {
-          "keyword": "サフィウリン",
-          "score": 98
-        },
-        {
-          "keyword": "野村周平",
-          "score": 97
-        },
-        {
-          "keyword": "堀田真由",
-          "score": 96
-        },
-        {
-          "keyword": "ソ ジソブ",
-          "score": 95
-        },
-        {
-          "keyword": "佐藤 二 朗 橋本 愛",
-          "score": 94
-        },
-        {
-          "keyword": "前川右京",
-          "score": 93
-        },
-        {
-          "keyword": "石川真佑",
-          "score": 92
-        },
-        {
-          "keyword": "山田涼介 ドラマ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-05T17:55:47.338Z",
       "geo": "JP",
       "source": "google",
@@ -1925,6 +1878,53 @@
         },
         {
           "keyword": "空き家税",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-09T17:47:25.462Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "openai",
+          "score": 100
+        },
+        {
+          "keyword": "2026 年 fifa 世界杯",
+          "score": 99
+        },
+        {
+          "keyword": "india vs england",
+          "score": 98
+        },
+        {
+          "keyword": "ewc apex",
+          "score": 97
+        },
+        {
+          "keyword": "リンダ・ノスコワ",
+          "score": 96
+        },
+        {
+          "keyword": "マルタ・コスチュク",
+          "score": 95
+        },
+        {
+          "keyword": "パイレーツ 対 ブレーブス",
+          "score": 94
+        },
+        {
+          "keyword": "荒木遼太郎",
+          "score": 93
+        },
+        {
+          "keyword": "2026 國際足總世界盃",
+          "score": 92
+        },
+        {
+          "keyword": "リコリス・リコイル",
           "score": 91
         }
       ]
