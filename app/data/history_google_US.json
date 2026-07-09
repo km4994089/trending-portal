@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-05T20:33:43.441Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "youtube tv",
-          "score": 100
-        },
-        {
-          "keyword": "vini jr",
-          "score": 99
-        },
-        {
-          "keyword": "fox one",
-          "score": 98
-        },
-        {
-          "keyword": "new jersey weather",
-          "score": 97
-        },
-        {
-          "keyword": "norway royal family",
-          "score": 96
-        },
-        {
-          "keyword": "erling haaland",
-          "score": 95
-        },
-        {
-          "keyword": "bruno guimarães",
-          "score": 94
-        },
-        {
-          "keyword": "neymar",
-          "score": 93
-        },
-        {
-          "keyword": "haaland soccer player",
-          "score": 92
-        },
-        {
-          "keyword": "ørjan nyland",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-05T21:51:16.833Z",
       "geo": "US",
       "source": "google",
@@ -1878,6 +1831,53 @@
         },
         {
           "keyword": "playstation",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-09T20:59:40.392Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "antoine griezmann",
+          "score": 100
+        },
+        {
+          "keyword": "gerard piqué",
+          "score": 99
+        },
+        {
+          "keyword": "pique",
+          "score": 98
+        },
+        {
+          "keyword": "mbappe girlfriend",
+          "score": 97
+        },
+        {
+          "keyword": "bono goalie",
+          "score": 96
+        },
+        {
+          "keyword": "upamecano",
+          "score": 95
+        },
+        {
+          "keyword": "weather boston",
+          "score": 94
+        },
+        {
+          "keyword": "trump airport",
+          "score": 93
+        },
+        {
+          "keyword": "psg",
+          "score": 92
+        },
+        {
+          "keyword": "kounde",
           "score": 91
         }
       ]
