@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-05T22:52:20.607Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "최저임금",
-          "score": 100
-        },
-        {
-          "keyword": "thời tiết",
-          "score": 99
-        },
-        {
-          "keyword": "교도관",
-          "score": 98
-        },
-        {
-          "keyword": "天气",
-          "score": 97
-        },
-        {
-          "keyword": "주가",
-          "score": 96
-        },
-        {
-          "keyword": "엔드릭",
-          "score": 95
-        },
-        {
-          "keyword": "북대서양 조약 기구",
-          "score": 94
-        },
-        {
-          "keyword": "포르투갈 스페인",
-          "score": 93
-        },
-        {
-          "keyword": "도경완",
-          "score": 92
-        },
-        {
-          "keyword": "бразилия – норвегия",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-05T23:56:36.682Z",
       "geo": "KR",
       "source": "google",
@@ -1878,6 +1831,53 @@
         },
         {
           "keyword": "상장폐지",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-09T23:42:29.586Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "경매",
+          "score": 100
+        },
+        {
+          "keyword": "경로당",
+          "score": 99
+        },
+        {
+          "keyword": "박문성",
+          "score": 98
+        },
+        {
+          "keyword": "버스",
+          "score": 97
+        },
+        {
+          "keyword": "앤트로픽",
+          "score": 96
+        },
+        {
+          "keyword": "저비용 항공사",
+          "score": 95
+        },
+        {
+          "keyword": "동아일보",
+          "score": 94
+        },
+        {
+          "keyword": "france maroc",
+          "score": 93
+        },
+        {
+          "keyword": "기은세",
+          "score": 92
+        },
+        {
+          "keyword": "골프장",
           "score": 91
         }
       ]
