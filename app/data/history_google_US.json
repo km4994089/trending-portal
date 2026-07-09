@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-05T01:13:45.226Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jones beach fireworks",
-          "score": 100
-        },
-        {
-          "keyword": "michael wacha",
-          "score": 99
-        },
-        {
-          "keyword": "apollo 13",
-          "score": 98
-        },
-        {
-          "keyword": "independence day cast",
-          "score": 97
-        },
-        {
-          "keyword": "rockies game",
-          "score": 96
-        },
-        {
-          "keyword": "springfield fireworks 2026",
-          "score": 95
-        },
-        {
-          "keyword": "meryl streep",
-          "score": 94
-        },
-        {
-          "keyword": "patrick ewing",
-          "score": 93
-        },
-        {
-          "keyword": "macys fireworks",
-          "score": 92
-        },
-        {
-          "keyword": "gary sinise",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-05T05:28:24.029Z",
       "geo": "US",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "matthew rhys",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-09T03:18:42.303Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "alan roden",
+          "score": 100
+        },
+        {
+          "keyword": "mn twins",
+          "score": 99
+        },
+        {
+          "keyword": "ximena herrera",
+          "score": 98
+        },
+        {
+          "keyword": "tyasha harris",
+          "score": 97
+        },
+        {
+          "keyword": "jo adell",
+          "score": 96
+        },
+        {
+          "keyword": "indiana fever",
+          "score": 95
+        },
+        {
+          "keyword": "kyle karros",
+          "score": 94
+        },
+        {
+          "keyword": "kyle schwarber",
+          "score": 93
+        },
+        {
+          "keyword": "eric karros",
+          "score": 92
+        },
+        {
+          "keyword": "wes watson",
           "score": 91
         }
       ]
