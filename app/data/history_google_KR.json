@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-06T11:22:22.723Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "바나나",
-          "score": 100
-        },
-        {
-          "keyword": "가족관계증명서",
-          "score": 99
-        },
-        {
-          "keyword": "장윤기 수사 팀장",
-          "score": 98
-        },
-        {
-          "keyword": "드라마",
-          "score": 97
-        },
-        {
-          "keyword": "김현수",
-          "score": 96
-        },
-        {
-          "keyword": "동아일보",
-          "score": 95
-        },
-        {
-          "keyword": "앤트로픽",
-          "score": 94
-        },
-        {
-          "keyword": "지민",
-          "score": 93
-        },
-        {
-          "keyword": "지수",
-          "score": 92
-        },
-        {
-          "keyword": "원 이",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-06T14:41:22.306Z",
       "geo": "KR",
       "source": "google",
@@ -1925,6 +1878,53 @@
         },
         {
           "keyword": "안유진",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-10T12:11:45.714Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "한로로 너와 나",
+          "score": 100
+        },
+        {
+          "keyword": "현빈 손예진 아들",
+          "score": 99
+        },
+        {
+          "keyword": "하비에르 아기레",
+          "score": 98
+        },
+        {
+          "keyword": "대한민국의 국방부 장관",
+          "score": 97
+        },
+        {
+          "keyword": "lec",
+          "score": 96
+        },
+        {
+          "keyword": "윤미라",
+          "score": 95
+        },
+        {
+          "keyword": "sk그룹",
+          "score": 94
+        },
+        {
+          "keyword": "에이치엘비",
+          "score": 93
+        },
+        {
+          "keyword": "로켓",
+          "score": 92
+        },
+        {
+          "keyword": "은가누",
           "score": 91
         }
       ]
