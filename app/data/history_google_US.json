@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-06T19:41:18.553Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "youtube tv",
-          "score": 100
-        },
-        {
-          "keyword": "lamine yamal",
-          "score": 99
-        },
-        {
-          "keyword": "fox one",
-          "score": 98
-        },
-        {
-          "keyword": "diddy",
-          "score": 97
-        },
-        {
-          "keyword": "fox sports",
-          "score": 96
-        },
-        {
-          "keyword": "fox",
-          "score": 95
-        },
-        {
-          "keyword": "diogo costa",
-          "score": 94
-        },
-        {
-          "keyword": "fubo",
-          "score": 93
-        },
-        {
-          "keyword": "luka doncic",
-          "score": 92
-        },
-        {
-          "keyword": "javier bardem",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-06T21:20:48.688Z",
       "geo": "US",
       "source": "google",
@@ -1972,6 +1925,53 @@
         },
         {
           "keyword": "7/11",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-10T20:12:55.049Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "deketelaere",
+          "score": 100
+        },
+        {
+          "keyword": "norway england",
+          "score": 99
+        },
+        {
+          "keyword": "charles de ketelaere",
+          "score": 98
+        },
+        {
+          "keyword": "kevin de bruyne",
+          "score": 97
+        },
+        {
+          "keyword": "nico williams",
+          "score": 96
+        },
+        {
+          "keyword": "barcelona",
+          "score": 95
+        },
+        {
+          "keyword": "has belgium ever won the world cup",
+          "score": 94
+        },
+        {
+          "keyword": "belgium de ketelaere",
+          "score": 93
+        },
+        {
+          "keyword": "atalanta",
+          "score": 92
+        },
+        {
+          "keyword": "spain goalkeeper",
           "score": 91
         }
       ]
