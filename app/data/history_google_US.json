@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-06T21:20:48.688Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cristiano ronaldo",
-          "score": 100
-        },
-        {
-          "keyword": "how old is ronaldo",
-          "score": 99
-        },
-        {
-          "keyword": "super el niño",
-          "score": 98
-        },
-        {
-          "keyword": "rafael leão",
-          "score": 97
-        },
-        {
-          "keyword": "borja iglesias",
-          "score": 96
-        },
-        {
-          "keyword": "john mcenroe",
-          "score": 95
-        },
-        {
-          "keyword": "christiano ronaldo",
-          "score": 94
-        },
-        {
-          "keyword": "gavi",
-          "score": 93
-        },
-        {
-          "keyword": "m merino",
-          "score": 92
-        },
-        {
-          "keyword": "mitch mcconnell health",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-06T22:43:08.032Z",
       "geo": "US",
       "source": "google",
@@ -1972,6 +1925,53 @@
         },
         {
           "keyword": "spain goalkeeper",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-10T21:32:09.738Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "class action",
+          "score": 100
+        },
+        {
+          "keyword": "world cup final",
+          "score": 99
+        },
+        {
+          "keyword": "partidos mundial",
+          "score": 98
+        },
+        {
+          "keyword": "spain france",
+          "score": 97
+        },
+        {
+          "keyword": "bankruptcy",
+          "score": 96
+        },
+        {
+          "keyword": "who does spain play next",
+          "score": 95
+        },
+        {
+          "keyword": "tate mcrae",
+          "score": 94
+        },
+        {
+          "keyword": "inglaterra vs noruega",
+          "score": 93
+        },
+        {
+          "keyword": "world cup finals",
+          "score": 92
+        },
+        {
+          "keyword": "manchester united goalkeeper",
           "score": 91
         }
       ]
