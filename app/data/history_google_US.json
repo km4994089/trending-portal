@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-06T22:43:08.032Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "interpol",
-          "score": 100
-        },
-        {
-          "keyword": "cpsc rowenta vacuum recall",
-          "score": 99
-        },
-        {
-          "keyword": "ballistic missile submarine",
-          "score": 98
-        },
-        {
-          "keyword": "carli lloyd",
-          "score": 97
-        },
-        {
-          "keyword": "mitch mcconnell",
-          "score": 96
-        },
-        {
-          "keyword": "yankees vs rays",
-          "score": 95
-        },
-        {
-          "keyword": "astros vs nationals",
-          "score": 94
-        },
-        {
-          "keyword": "tyler robinson",
-          "score": 93
-        },
-        {
-          "keyword": "france vs morocco",
-          "score": 92
-        },
-        {
-          "keyword": "carlos sainz penalty british gp",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-06T23:57:51.683Z",
       "geo": "US",
       "source": "google",
@@ -1972,6 +1925,53 @@
         },
         {
           "keyword": "manchester united goalkeeper",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-10T22:50:25.214Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "pittsburgh weather",
+          "score": 100
+        },
+        {
+          "keyword": "klystron 9",
+          "score": 99
+        },
+        {
+          "keyword": "guardians vs marlins",
+          "score": 98
+        },
+        {
+          "keyword": "mariners vs rays",
+          "score": 97
+        },
+        {
+          "keyword": "fire near me",
+          "score": 96
+        },
+        {
+          "keyword": "knicks summer league",
+          "score": 95
+        },
+        {
+          "keyword": "alcaraz injury",
+          "score": 94
+        },
+        {
+          "keyword": "sakura",
+          "score": 93
+        },
+        {
+          "keyword": "cubs vs reds",
+          "score": 92
+        },
+        {
+          "keyword": "red sox vs mets",
           "score": 91
         }
       ]
