@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-06T14:41:21.360Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "taylor sheridan",
-          "score": 100
-        },
-        {
-          "keyword": "costco stock",
-          "score": 99
-        },
-        {
-          "keyword": "pltr stock price",
-          "score": 98
-        },
-        {
-          "keyword": "pfe stock",
-          "score": 97
-        },
-        {
-          "keyword": "sndk",
-          "score": 96
-        },
-        {
-          "keyword": "orcl stock",
-          "score": 95
-        },
-        {
-          "keyword": "mark consuelos",
-          "score": 94
-        },
-        {
-          "keyword": "paolini",
-          "score": 93
-        },
-        {
-          "keyword": "cristo fernández",
-          "score": 92
-        },
-        {
-          "keyword": "jasmine paolini",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-06T17:34:35.286Z",
       "geo": "US",
       "source": "google",
@@ -1925,6 +1878,53 @@
         },
         {
           "keyword": "trump unsigned housing bill",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-10T15:08:16.521Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "carnival new cruise ship 2029",
+          "score": 100
+        },
+        {
+          "keyword": "h-1b visa",
+          "score": 99
+        },
+        {
+          "keyword": "michael johnston",
+          "score": 98
+        },
+        {
+          "keyword": "air canada",
+          "score": 97
+        },
+        {
+          "keyword": "jordan 7 miro",
+          "score": 96
+        },
+        {
+          "keyword": "lara trump",
+          "score": 95
+        },
+        {
+          "keyword": "nflx stock",
+          "score": 94
+        },
+        {
+          "keyword": "meta stock",
+          "score": 93
+        },
+        {
+          "keyword": "housing bill",
+          "score": 92
+        },
+        {
+          "keyword": "sofi stock price",
           "score": 91
         }
       ]
