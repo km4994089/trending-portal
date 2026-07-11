@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-07T12:41:08.670Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "マツコの知らない世界",
-          "score": 100
-        },
-        {
-          "keyword": "石田裕太郎",
-          "score": 99
-        },
-        {
-          "keyword": "坂本勇人",
-          "score": 98
-        },
-        {
-          "keyword": "志田未来",
-          "score": 97
-        },
-        {
-          "keyword": "クロスロード",
-          "score": 96
-        },
-        {
-          "keyword": "柳田悠岐",
-          "score": 95
-        },
-        {
-          "keyword": "エンカーナシオン",
-          "score": 94
-        },
-        {
-          "keyword": "ニコン",
-          "score": 93
-        },
-        {
-          "keyword": "飯島直子",
-          "score": 92
-        },
-        {
-          "keyword": "石丸幹二",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-07T15:39:39.467Z",
       "geo": "JP",
       "source": "google",
@@ -2113,6 +2066,53 @@
         },
         {
           "keyword": "島村春世",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-11T12:54:28.584Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "東京グレートベアーズ",
+          "score": 100
+        },
+        {
+          "keyword": "巨人戦",
+          "score": 99
+        },
+        {
+          "keyword": "高橋克実",
+          "score": 98
+        },
+        {
+          "keyword": "勝地涼",
+          "score": 97
+        },
+        {
+          "keyword": "古橋亨梧",
+          "score": 96
+        },
+        {
+          "keyword": "マーベル",
+          "score": 95
+        },
+        {
+          "keyword": "sgcホール有明",
+          "score": 94
+        },
+        {
+          "keyword": "皆藤愛子",
+          "score": 93
+        },
+        {
+          "keyword": "巨人",
+          "score": 92
+        },
+        {
+          "keyword": "バルセロナ",
           "score": 91
         }
       ]
