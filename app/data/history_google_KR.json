@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-07T10:18:15.377Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kia 대 롯데",
-          "score": 100
-        },
-        {
-          "keyword": "nc 대 한화",
-          "score": 99
-        },
-        {
-          "keyword": "키움 대 kt",
-          "score": 98
-        },
-        {
-          "keyword": "흥아해운",
-          "score": 97
-        },
-        {
-          "keyword": "대한항공",
-          "score": 96
-        },
-        {
-          "keyword": "테니스",
-          "score": 95
-        },
-        {
-          "keyword": "프리미어리그",
-          "score": 94
-        },
-        {
-          "keyword": "아시아 여자 배구 선수권 대회",
-          "score": 93
-        },
-        {
-          "keyword": "여객기",
-          "score": 92
-        },
-        {
-          "keyword": "세종특별자치시교육청",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-07T12:41:07.448Z",
       "geo": "KR",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "하재훈",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-11T10:38:35.048Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "투수",
+          "score": 100
+        },
+        {
+          "keyword": "xsmn",
+          "score": 99
+        },
+        {
+          "keyword": "양의지",
+          "score": 98
+        },
+        {
+          "keyword": "문현빈",
+          "score": 97
+        },
+        {
+          "keyword": "허인서",
+          "score": 96
+        },
+        {
+          "keyword": "이재용",
+          "score": 95
+        },
+        {
+          "keyword": "혈압",
+          "score": 94
+        },
+        {
+          "keyword": "옥택연",
+          "score": 93
+        },
+        {
+          "keyword": "서식 스 공작 해리",
+          "score": 92
+        },
+        {
+          "keyword": "호프",
           "score": 91
         }
       ]
