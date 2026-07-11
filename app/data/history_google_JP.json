@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-07T21:14:41.188Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "日本維新の会",
-          "score": 100
-        },
-        {
-          "keyword": "プルデンシャル生命保険",
-          "score": 99
-        },
-        {
-          "keyword": "古閑美保",
-          "score": 98
-        },
-        {
-          "keyword": "黒木千晶",
-          "score": 97
-        },
-        {
-          "keyword": "coach",
-          "score": 96
-        },
-        {
-          "keyword": "梅雨明け 2026",
-          "score": 95
-        },
-        {
-          "keyword": "ルイスディアス",
-          "score": 94
-        },
-        {
-          "keyword": "石橋貴明",
-          "score": 93
-        },
-        {
-          "keyword": "髙木 美帆",
-          "score": 92
-        },
-        {
-          "keyword": "日産",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-07T22:35:16.565Z",
       "geo": "JP",
       "source": "google",
@@ -2301,6 +2254,53 @@
         },
         {
           "keyword": "監督代行",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-11T21:39:23.408Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nhk one",
+          "score": 100
+        },
+        {
+          "keyword": "バイキングロー",
+          "score": 99
+        },
+        {
+          "keyword": "マイアミ",
+          "score": 98
+        },
+        {
+          "keyword": "アーセナル",
+          "score": 97
+        },
+        {
+          "keyword": "マーカス・ラッシュフォード",
+          "score": 96
+        },
+        {
+          "keyword": "強盗",
+          "score": 95
+        },
+        {
+          "keyword": "巡査",
+          "score": 94
+        },
+        {
+          "keyword": "サッカーワールドカップ 決勝トーナメント",
+          "score": 93
+        },
+        {
+          "keyword": "noruega - inglaterra",
+          "score": 92
+        },
+        {
+          "keyword": "労働災害",
           "score": 91
         }
       ]
