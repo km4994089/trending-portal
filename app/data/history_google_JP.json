@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-07T06:36:25.020Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "唐沢寿明",
-          "score": 100
-        },
-        {
-          "keyword": "配当",
-          "score": 99
-        },
-        {
-          "keyword": "カルチャーショック",
-          "score": 98
-        },
-        {
-          "keyword": "大関",
-          "score": 97
-        },
-        {
-          "keyword": "中国人民解放軍海軍",
-          "score": 96
-        },
-        {
-          "keyword": "ゴゴスマ 石井",
-          "score": 95
-        },
-        {
-          "keyword": "愛甲ひかり",
-          "score": 94
-        },
-        {
-          "keyword": "鈴木 彩 艶",
-          "score": 93
-        },
-        {
-          "keyword": "ドラマ",
-          "score": 92
-        },
-        {
-          "keyword": "hybe japan",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-07T10:18:16.379Z",
       "geo": "JP",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "47news",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-11T07:05:29.788Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ちゃんみな 東京ドーム",
+          "score": 100
+        },
+        {
+          "keyword": "釜山ステークス",
+          "score": 99
+        },
+        {
+          "keyword": "ヒグマ",
+          "score": 98
+        },
+        {
+          "keyword": "fivbバレーボール・ネイションズリーグ 女子",
+          "score": 97
+        },
+        {
+          "keyword": "鍵山優真",
+          "score": 96
+        },
+        {
+          "keyword": "ミッチェル・デューク",
+          "score": 95
+        },
+        {
+          "keyword": "嫌がらせ",
+          "score": 94
+        },
+        {
+          "keyword": "戸田競艇",
+          "score": 93
+        },
+        {
+          "keyword": "ちゃんみな ライブ",
+          "score": 92
+        },
+        {
+          "keyword": "三浦龍司",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-07T06:36:22.726Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "openai",
-          "score": 100
-        },
-        {
-          "keyword": "kospi",
-          "score": 99
-        },
-        {
-          "keyword": "jaswant singh khalra",
-          "score": 98
-        },
-        {
-          "keyword": "brennan bernardino",
-          "score": 97
-        },
-        {
-          "keyword": "dodgers",
-          "score": 96
-        },
-        {
-          "keyword": "dodgers game today",
-          "score": 95
-        },
-        {
-          "keyword": "rockies",
-          "score": 94
-        },
-        {
-          "keyword": "dreamdoll",
-          "score": 93
-        },
-        {
-          "keyword": "new jersey fireboat whale collision",
-          "score": 92
-        },
-        {
-          "keyword": "dodger game",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-07T10:18:14.304Z",
       "geo": "US",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "edgardo henriquez",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-11T07:05:27.493Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "damian pinas",
+          "score": 100
+        },
+        {
+          "keyword": "cate blanchett",
+          "score": 99
+        },
+        {
+          "keyword": "wes anderson",
+          "score": 98
+        },
+        {
+          "keyword": "avril lavigne",
+          "score": 97
+        },
+        {
+          "keyword": "chris hemsworth",
+          "score": 96
+        },
+        {
+          "keyword": "sf giants",
+          "score": 95
+        },
+        {
+          "keyword": "olivia dean",
+          "score": 94
+        },
+        {
+          "keyword": "caleb kilian",
+          "score": 93
+        },
+        {
+          "keyword": "benjamin netanyahu",
+          "score": 92
+        },
+        {
+          "keyword": "robin williams",
           "score": 91
         }
       ]
