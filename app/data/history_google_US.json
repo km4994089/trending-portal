@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-06T23:57:51.683Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lukaku",
-          "score": 100
-        },
-        {
-          "keyword": "kevin de bruyne",
-          "score": 99
-        },
-        {
-          "keyword": "twitch",
-          "score": 98
-        },
-        {
-          "keyword": "leandro trossard",
-          "score": 97
-        },
-        {
-          "keyword": "jameis winston",
-          "score": 96
-        },
-        {
-          "keyword": "belgium",
-          "score": 95
-        },
-        {
-          "keyword": "sun vs lynx",
-          "score": 94
-        },
-        {
-          "keyword": "nicolas raskin",
-          "score": 93
-        },
-        {
-          "keyword": "samsung stock",
-          "score": 92
-        },
-        {
-          "keyword": "estados unidos - bélgica",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-07T02:43:33.659Z",
       "geo": "US",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "will ferrell",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-11T01:43:20.535Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "james wood",
+          "score": 100
+        },
+        {
+          "keyword": "bears",
+          "score": 99
+        },
+        {
+          "keyword": "orioles score",
+          "score": 98
+        },
+        {
+          "keyword": "diamondbacks vs dodgers",
+          "score": 97
+        },
+        {
+          "keyword": "paige bueckers",
+          "score": 96
+        },
+        {
+          "keyword": "1994 world cup",
+          "score": 95
+        },
+        {
+          "keyword": "juju smith schuster wedding",
+          "score": 94
+        },
+        {
+          "keyword": "jfk",
+          "score": 93
+        },
+        {
+          "keyword": "azzi fudd",
+          "score": 92
+        },
+        {
+          "keyword": "who goes home tonight on love island usa",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-06T23:57:52.720Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김효주",
-          "score": 100
-        },
-        {
-          "keyword": "보잉 f-47",
-          "score": 99
-        },
-        {
-          "keyword": "잠수함 발사 탄도 미사일",
-          "score": 98
-        },
-        {
-          "keyword": "프로포폴",
-          "score": 97
-        },
-        {
-          "keyword": "재테크",
-          "score": 96
-        },
-        {
-          "keyword": "iren",
-          "score": 95
-        },
-        {
-          "keyword": "장금상선",
-          "score": 94
-        },
-        {
-          "keyword": "유성구",
-          "score": 93
-        },
-        {
-          "keyword": "하무스",
-          "score": 92
-        },
-        {
-          "keyword": "넷플릭스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-07T02:43:34.803Z",
       "geo": "KR",
       "source": "google",
@@ -2019,6 +1972,53 @@
         },
         {
           "keyword": "폭풍",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-11T01:43:21.686Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "러시아",
+          "score": 100
+        },
+        {
+          "keyword": "남승민",
+          "score": 99
+        },
+        {
+          "keyword": "허웅",
+          "score": 98
+        },
+        {
+          "keyword": "모아나",
+          "score": 97
+        },
+        {
+          "keyword": "여객기",
+          "score": 96
+        },
+        {
+          "keyword": "lpga",
+          "score": 95
+        },
+        {
+          "keyword": "현대 그랜저",
+          "score": 94
+        },
+        {
+          "keyword": "순천시장",
+          "score": 93
+        },
+        {
+          "keyword": "하트시그널",
+          "score": 92
+        },
+        {
+          "keyword": "암호화폐",
           "score": 91
         }
       ]
