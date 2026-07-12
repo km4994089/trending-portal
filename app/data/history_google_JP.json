@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-08T17:18:44.319Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "フリッツ",
-          "score": 100
-        },
-        {
-          "keyword": "おちたらおわり ドラマ",
-          "score": 99
-        },
-        {
-          "keyword": "arthur fery",
-          "score": 98
-        },
-        {
-          "keyword": "keiko",
-          "score": 97
-        },
-        {
-          "keyword": "山瀬まみ",
-          "score": 96
-        },
-        {
-          "keyword": "ズベレフ",
-          "score": 95
-        },
-        {
-          "keyword": "algs",
-          "score": 94
-        },
-        {
-          "keyword": "長岡花火大会",
-          "score": 93
-        },
-        {
-          "keyword": "マックス・フェルスタッペン",
-          "score": 92
-        },
-        {
-          "keyword": "ヒコロヒー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-08T18:52:34.634Z",
       "geo": "JP",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "高田馬場刺殺事件",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-12T17:50:47.704Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "最上あい",
+          "score": 100
+        },
+        {
+          "keyword": "ウィンブルドン",
+          "score": 99
+        },
+        {
+          "keyword": "バレーボールブルガリア女子代表",
+          "score": 98
+        },
+        {
+          "keyword": "有吉弘行",
+          "score": 97
+        },
+        {
+          "keyword": "夜鷹 米津玄師",
+          "score": 96
+        },
+        {
+          "keyword": "wimbledon",
+          "score": 95
+        },
+        {
+          "keyword": "bs11",
+          "score": 94
+        },
+        {
+          "keyword": "ズベレフ",
+          "score": 93
+        },
+        {
+          "keyword": "brand new",
+          "score": 92
+        },
+        {
+          "keyword": "ブランドニュー",
           "score": 91
         }
       ]
