@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-08T21:36:57.299Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ニュース",
-          "score": 100
-        },
-        {
-          "keyword": "ジェシー",
-          "score": 99
-        },
-        {
-          "keyword": "ストーカー",
-          "score": 98
-        },
-        {
-          "keyword": "nvda",
-          "score": 97
-        },
-        {
-          "keyword": "博多大吉",
-          "score": 96
-        },
-        {
-          "keyword": "村上宗隆",
-          "score": 95
-        },
-        {
-          "keyword": "織田信孝",
-          "score": 94
-        },
-        {
-          "keyword": "twice サナ 映画",
-          "score": 93
-        },
-        {
-          "keyword": "ママスタ",
-          "score": 92
-        },
-        {
-          "keyword": "うたコン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-08T22:55:15.506Z",
       "geo": "JP",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "村上宗隆",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-12T22:11:41.171Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "トランプ",
+          "score": 100
+        },
+        {
+          "keyword": "テルヒコウ",
+          "score": 99
+        },
+        {
+          "keyword": "新潟 天気",
+          "score": 98
+        },
+        {
+          "keyword": "トランプ空港に初めて着陸したのは",
+          "score": 97
+        },
+        {
+          "keyword": "加藤豪将",
+          "score": 96
+        },
+        {
+          "keyword": "富山天気",
+          "score": 95
+        },
+        {
+          "keyword": "インタビュー",
+          "score": 94
+        },
+        {
+          "keyword": "ちゃんみな",
+          "score": 93
+        },
+        {
+          "keyword": "今日の天気は",
+          "score": 92
+        },
+        {
+          "keyword": "アオのハコ 完結",
           "score": 91
         }
       ]
