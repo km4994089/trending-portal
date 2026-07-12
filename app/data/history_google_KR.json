@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-08T22:55:14.185Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "윔블던 2026",
-          "score": 100
-        },
-        {
-          "keyword": "박영규",
-          "score": 99
-        },
-        {
-          "keyword": "김수현",
-          "score": 98
-        },
-        {
-          "keyword": "다우 존스 산업평균지수",
-          "score": 97
-        },
-        {
-          "keyword": "สภาพอากาศ",
-          "score": 96
-        },
-        {
-          "keyword": "tsla",
-          "score": 95
-        },
-        {
-          "keyword": "충전기",
-          "score": 94
-        },
-        {
-          "keyword": "schd",
-          "score": 93
-        },
-        {
-          "keyword": "nvda",
-          "score": 92
-        },
-        {
-          "keyword": "나는 solo",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-08T23:59:23.856Z",
       "geo": "KR",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "롯데지주",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-12T23:14:08.359Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "투자",
+          "score": 100
+        },
+        {
+          "keyword": "하비에르 아기레",
+          "score": 99
+        },
+        {
+          "keyword": "조상우",
+          "score": 98
+        },
+        {
+          "keyword": "용연교",
+          "score": 97
+        },
+        {
+          "keyword": "최준희",
+          "score": 96
+        },
+        {
+          "keyword": "삼성",
+          "score": 95
+        },
+        {
+          "keyword": "영화",
+          "score": 94
+        },
+        {
+          "keyword": "lng선",
+          "score": 93
+        },
+        {
+          "keyword": "이찬원",
+          "score": 92
+        },
+        {
+          "keyword": "일본",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-08T22:55:15.506Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "レイズ 対 ヤンキース",
-          "score": 100
-        },
-        {
-          "keyword": "内田有紀",
-          "score": 99
-        },
-        {
-          "keyword": "マーリンズ 対 マリナーズ",
-          "score": 98
-        },
-        {
-          "keyword": "パイレーツ 対 ブレーブス",
-          "score": 97
-        },
-        {
-          "keyword": "めざましテレビ",
-          "score": 96
-        },
-        {
-          "keyword": "ドジャース",
-          "score": 95
-        },
-        {
-          "keyword": "皇位継承問題",
-          "score": 94
-        },
-        {
-          "keyword": "マンチェスター・ユナイテッドfc",
-          "score": 93
-        },
-        {
-          "keyword": "茨城県警察",
-          "score": 92
-        },
-        {
-          "keyword": "サッカーワールドカップ ベスト8",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-08T23:59:25.349Z",
       "geo": "JP",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "アオのハコ 完結",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-12T23:14:09.422Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "岡本和真",
+          "score": 100
+        },
+        {
+          "keyword": "wbgt",
+          "score": 99
+        },
+        {
+          "keyword": "高円宮妃久子",
+          "score": 98
+        },
+        {
+          "keyword": "天気予報 台風情報",
+          "score": 97
+        },
+        {
+          "keyword": "原油先物",
+          "score": 96
+        },
+        {
+          "keyword": "バンコク",
+          "score": 95
+        },
+        {
+          "keyword": "おは朝",
+          "score": 94
+        },
+        {
+          "keyword": "今日 天気",
+          "score": 93
+        },
+        {
+          "keyword": "ニュージーランド",
+          "score": 92
+        },
+        {
+          "keyword": "めざまし占い",
           "score": 91
         }
       ]
