@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-08T07:27:52.498Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ガンホー",
-          "score": 100
-        },
-        {
-          "keyword": "鉄 緑 会 買収",
-          "score": 99
-        },
-        {
-          "keyword": "ポケモンチャンピオンズ",
-          "score": 98
-        },
-        {
-          "keyword": "カナダ モロッコ",
-          "score": 97
-        },
-        {
-          "keyword": "本田響矢",
-          "score": 96
-        },
-        {
-          "keyword": "スイス fifa ランク",
-          "score": 95
-        },
-        {
-          "keyword": "捜査",
-          "score": 94
-        },
-        {
-          "keyword": "ホリプロ",
-          "score": 93
-        },
-        {
-          "keyword": "高島宗一郎",
-          "score": 92
-        },
-        {
-          "keyword": "富山空港",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-08T09:44:04.875Z",
       "geo": "JP",
       "source": "google",
@@ -2301,6 +2254,53 @@
         },
         {
           "keyword": "起訴",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-12T07:39:05.492Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "大青山",
+          "score": 100
+        },
+        {
+          "keyword": "チャールズ3世",
+          "score": 99
+        },
+        {
+          "keyword": "前橋競輪",
+          "score": 98
+        },
+        {
+          "keyword": "老化",
+          "score": 97
+        },
+        {
+          "keyword": "戸田競艇",
+          "score": 96
+        },
+        {
+          "keyword": "彦星賞",
+          "score": 95
+        },
+        {
+          "keyword": "小倉記念",
+          "score": 94
+        },
+        {
+          "keyword": "脳",
+          "score": 93
+        },
+        {
+          "keyword": "若隆景",
+          "score": 92
+        },
+        {
+          "keyword": "仲裁",
           "score": 91
         }
       ]

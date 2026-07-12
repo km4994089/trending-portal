@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-08T07:27:51.343Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "코브라",
-          "score": 100
-        },
-        {
-          "keyword": "군용비행장",
-          "score": 99
-        },
-        {
-          "keyword": "이투데이",
-          "score": 98
-        },
-        {
-          "keyword": "보완수사 폐지",
-          "score": 97
-        },
-        {
-          "keyword": "금속",
-          "score": 96
-        },
-        {
-          "keyword": "군사작전",
-          "score": 95
-        },
-        {
-          "keyword": "키옥시아 주가",
-          "score": 94
-        },
-        {
-          "keyword": "진아름",
-          "score": 93
-        },
-        {
-          "keyword": "고용",
-          "score": 92
-        },
-        {
-          "keyword": "제헌절",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-08T09:44:03.653Z",
       "geo": "KR",
       "source": "google",
@@ -2301,6 +2254,53 @@
         },
         {
           "keyword": "총파업",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-12T07:39:03.992Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "오토파일럿",
+          "score": 100
+        },
+        {
+          "keyword": "이준영",
+          "score": 99
+        },
+        {
+          "keyword": "밈 코인",
+          "score": 98
+        },
+        {
+          "keyword": "종합부동산세",
+          "score": 97
+        },
+        {
+          "keyword": "실종자",
+          "score": 96
+        },
+        {
+          "keyword": "이슬람 혁명 수비대",
+          "score": 95
+        },
+        {
+          "keyword": "달러",
+          "score": 94
+        },
+        {
+          "keyword": "르브론 제임스",
+          "score": 93
+        },
+        {
+          "keyword": "야마모토 요시노부",
+          "score": 92
+        },
+        {
+          "keyword": "2026 fifa world cup final date",
           "score": 91
         }
       ]
