@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-08T20:15:59.614Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "イラン",
-          "score": 100
-        },
-        {
-          "keyword": "鈴木 彩 艶 移籍",
-          "score": 99
-        },
-        {
-          "keyword": "給付",
-          "score": 98
-        },
-        {
-          "keyword": "皇室典範",
-          "score": 97
-        },
-        {
-          "keyword": "ウクライナ ドローン",
-          "score": 96
-        },
-        {
-          "keyword": "エヌビディア 株価",
-          "score": 95
-        },
-        {
-          "keyword": "ケロロ軍曹",
-          "score": 94
-        },
-        {
-          "keyword": "抗議",
-          "score": 93
-        },
-        {
-          "keyword": "ヘビ",
-          "score": 92
-        },
-        {
-          "keyword": "エルニーニョ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-08T21:36:57.299Z",
       "geo": "JP",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "ウィンブルドン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-12T21:11:12.971Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "メジャーリーグ",
+          "score": 100
+        },
+        {
+          "keyword": "梅雨明け 関東",
+          "score": 99
+        },
+        {
+          "keyword": "梅雨明け 東海",
+          "score": 98
+        },
+        {
+          "keyword": "ドジャース 対 アリゾナ・ダイヤモンドバックス 試合 選手データ",
+          "score": 97
+        },
+        {
+          "keyword": "逮捕",
+          "score": 96
+        },
+        {
+          "keyword": "ライデル・マルティネス",
+          "score": 95
+        },
+        {
+          "keyword": "吉田正尚",
+          "score": 94
+        },
+        {
+          "keyword": "福岡県議会",
+          "score": 93
+        },
+        {
+          "keyword": "animelo summer live",
+          "score": 92
+        },
+        {
+          "keyword": "村上宗隆",
           "score": 91
         }
       ]
