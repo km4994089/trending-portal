@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-08T18:52:33.518Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "안드레이 산투스",
-          "score": 100
-        },
-        {
-          "keyword": "맥그리거 할로웨이",
-          "score": 99
-        },
-        {
-          "keyword": "부산 날씨",
-          "score": 98
-        },
-        {
-          "keyword": "아서 페리",
-          "score": 97
-        },
-        {
-          "keyword": "티비",
-          "score": 96
-        },
-        {
-          "keyword": "트레이드",
-          "score": 95
-        },
-        {
-          "keyword": "프랑스 모로코",
-          "score": 94
-        },
-        {
-          "keyword": "장윤기",
-          "score": 93
-        },
-        {
-          "keyword": "테일러 프리츠",
-          "score": 92
-        },
-        {
-          "keyword": "그리즈만",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-08T20:15:58.476Z",
       "geo": "KR",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "항서제약",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-12T20:02:47.799Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "wimbledon",
+          "score": 100
+        },
+        {
+          "keyword": "야닉 시너",
+          "score": 99
+        },
+        {
+          "keyword": "댐",
+          "score": 98
+        },
+        {
+          "keyword": "wec",
+          "score": 97
+        },
+        {
+          "keyword": "포포투",
+          "score": 96
+        },
+        {
+          "keyword": "심하은",
+          "score": 95
+        },
+        {
+          "keyword": "송종호",
+          "score": 94
+        },
+        {
+          "keyword": "졸음 운전",
+          "score": 93
+        },
+        {
+          "keyword": "철도",
+          "score": 92
+        },
+        {
+          "keyword": "서남용",
           "score": 91
         }
       ]
