@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-08T11:41:44.710Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "xsmb",
-          "score": 100
-        },
-        {
-          "keyword": "リヴァプールfc",
-          "score": 99
-        },
-        {
-          "keyword": "北窓絢音",
-          "score": 98
-        },
-        {
-          "keyword": "天皇",
-          "score": 97
-        },
-        {
-          "keyword": "星麻琴アナウンサー",
-          "score": 96
-        },
-        {
-          "keyword": "東京エレクトロン",
-          "score": 95
-        },
-        {
-          "keyword": "九里亜蓮",
-          "score": 94
-        },
-        {
-          "keyword": "宮本 恒 靖",
-          "score": 93
-        },
-        {
-          "keyword": "川崎競馬",
-          "score": 92
-        },
-        {
-          "keyword": "ネーションズリーグ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-08T13:29:46.311Z",
       "geo": "JP",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "アメブロ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-12T12:12:09.709Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "巨人",
+          "score": 100
+        },
+        {
+          "keyword": "大山悠輔",
+          "score": 99
+        },
+        {
+          "keyword": "パンチくん",
+          "score": 98
+        },
+        {
+          "keyword": "介護",
+          "score": 97
+        },
+        {
+          "keyword": "阪神 工藤",
+          "score": 96
+        },
+        {
+          "keyword": "イスラム 革命 防衛 隊",
+          "score": 95
+        },
+        {
+          "keyword": "ドリス",
+          "score": 94
+        },
+        {
+          "keyword": "中野拓夢",
+          "score": 93
+        },
+        {
+          "keyword": "森田遥",
+          "score": 92
+        },
+        {
+          "keyword": "大勢",
           "score": 91
         }
       ]

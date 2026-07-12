@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-08T11:41:42.250Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "wimbledon schedule",
-          "score": 100
-        },
-        {
-          "keyword": "walmart kroger target food recalls",
-          "score": 99
-        },
-        {
-          "keyword": "nasdaq futures",
-          "score": 98
-        },
-        {
-          "keyword": "windy city smokeout",
-          "score": 97
-        },
-        {
-          "keyword": "degrom",
-          "score": 96
-        },
-        {
-          "keyword": "lyndsey fifield",
-          "score": 95
-        },
-        {
-          "keyword": "emmy nominations 2026",
-          "score": 94
-        },
-        {
-          "keyword": "obama presidential center",
-          "score": 93
-        },
-        {
-          "keyword": "michelle randolph",
-          "score": 92
-        },
-        {
-          "keyword": "trump spain",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-08T13:29:43.936Z",
       "geo": "US",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "weather next week",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-12T12:12:06.578Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "zack wheeler declined mlb invite",
+          "score": 100
+        },
+        {
+          "keyword": "cleveland cavaliers",
+          "score": 99
+        },
+        {
+          "keyword": "caitlin clark indiana fever",
+          "score": 98
+        },
+        {
+          "keyword": "motogp",
+          "score": 97
+        },
+        {
+          "keyword": "robert f. kennedy jr.",
+          "score": 96
+        },
+        {
+          "keyword": "evian championship",
+          "score": 95
+        },
+        {
+          "keyword": "nytimes connections",
+          "score": 94
+        },
+        {
+          "keyword": "illinois lottery",
+          "score": 93
+        },
+        {
+          "keyword": "jonathan kuminga lakers trade rumors",
+          "score": 92
+        },
+        {
+          "keyword": "fda class ii eye drop recall",
           "score": 91
         }
       ]
