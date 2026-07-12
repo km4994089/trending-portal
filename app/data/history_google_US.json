@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-08T13:29:43.936Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "downdetector",
-          "score": 100
-        },
-        {
-          "keyword": "charles iii",
-          "score": 99
-        },
-        {
-          "keyword": "california dmv license test irregularities",
-          "score": 98
-        },
-        {
-          "keyword": "paolini",
-          "score": 97
-        },
-        {
-          "keyword": "waymo",
-          "score": 96
-        },
-        {
-          "keyword": "tour de france standings",
-          "score": 95
-        },
-        {
-          "keyword": "jayson tatum",
-          "score": 94
-        },
-        {
-          "keyword": "ford mustang",
-          "score": 93
-        },
-        {
-          "keyword": "sun",
-          "score": 92
-        },
-        {
-          "keyword": "freedom fuel gas stations",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-08T15:41:45.125Z",
       "geo": "US",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "fda class ii eye drop recall",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-12T14:02:52.661Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "brooke henderson",
+          "score": 100
+        },
+        {
+          "keyword": "jj abrams",
+          "score": 99
+        },
+        {
+          "keyword": "cbs sunday morning",
+          "score": 98
+        },
+        {
+          "keyword": "tennis player alexander zverev news",
+          "score": 97
+        },
+        {
+          "keyword": "cruz hewitt",
+          "score": 96
+        },
+        {
+          "keyword": "taylor jenkins reid",
+          "score": 95
+        },
+        {
+          "keyword": "noah kahan tour",
+          "score": 94
+        },
+        {
+          "keyword": "who died today",
+          "score": 93
+        },
+        {
+          "keyword": "netflix new releases this week",
+          "score": 92
+        },
+        {
+          "keyword": "antifa",
           "score": 91
         }
       ]
