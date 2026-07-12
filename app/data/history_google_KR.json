@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-08T09:44:03.653Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "파울루 벤투",
-          "score": 100
-        },
-        {
-          "keyword": "부동산",
-          "score": 99
-        },
-        {
-          "keyword": "야구여왕",
-          "score": 98
-        },
-        {
-          "keyword": "방탄소년단",
-          "score": 97
-        },
-        {
-          "keyword": "전쟁",
-          "score": 96
-        },
-        {
-          "keyword": "혼외자",
-          "score": 95
-        },
-        {
-          "keyword": "루빈",
-          "score": 94
-        },
-        {
-          "keyword": "전국민주노동조합총연맹",
-          "score": 93
-        },
-        {
-          "keyword": "g2 t1",
-          "score": 92
-        },
-        {
-          "keyword": "오현규",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-08T11:41:43.534Z",
       "geo": "KR",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "미국 상품거래위원회",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-12T11:04:31.923Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "소비",
+          "score": 100
+        },
+        {
+          "keyword": "fc 서울 대 강원",
+          "score": 99
+        },
+        {
+          "keyword": "제주 대 대전",
+          "score": 98
+        },
+        {
+          "keyword": "초복",
+          "score": 97
+        },
+        {
+          "keyword": "태풍 바비 경로",
+          "score": 96
+        },
+        {
+          "keyword": "소이현",
+          "score": 95
+        },
+        {
+          "keyword": "수도권 광역급행철도",
+          "score": 94
+        },
+        {
+          "keyword": "이석연",
+          "score": 93
+        },
+        {
+          "keyword": "커링클",
+          "score": 92
+        },
+        {
+          "keyword": "더불어민주당",
           "score": 91
         }
       ]
