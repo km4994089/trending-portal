@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-09T17:47:23.245Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "weather nyc",
-          "score": 100
-        },
-        {
-          "keyword": "black ops 1 and 2 ps5",
-          "score": 99
-        },
-        {
-          "keyword": "playstation store",
-          "score": 98
-        },
-        {
-          "keyword": "wally funk",
-          "score": 97
-        },
-        {
-          "keyword": "karl darlow",
-          "score": 96
-        },
-        {
-          "keyword": "royals - mets",
-          "score": 95
-        },
-        {
-          "keyword": "vaibhav sooryavanshi",
-          "score": 94
-        },
-        {
-          "keyword": "leo carlsson",
-          "score": 93
-        },
-        {
-          "keyword": "matt olson",
-          "score": 92
-        },
-        {
-          "keyword": "yankees - rays",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-09T19:21:32.854Z",
       "geo": "US",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "tony romo",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-13T18:15:05.951Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "maria sakkari",
+          "score": 100
+        },
+        {
+          "keyword": "new fallout game",
+          "score": 99
+        },
+        {
+          "keyword": "tokyo labrador lochaber rescue",
+          "score": 98
+        },
+        {
+          "keyword": "houston weather",
+          "score": 97
+        },
+        {
+          "keyword": "freedom 250 grand prix",
+          "score": 96
+        },
+        {
+          "keyword": "nj lottery",
+          "score": 95
+        },
+        {
+          "keyword": "san antonio spurs",
+          "score": 94
+        },
+        {
+          "keyword": "sophie cunningham ufc octagon girl",
+          "score": 93
+        },
+        {
+          "keyword": "election security",
+          "score": 92
+        },
+        {
+          "keyword": "rashida jones",
           "score": 91
         }
       ]
