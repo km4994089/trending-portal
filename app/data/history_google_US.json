@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-09T06:58:49.399Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "truck accident lawyer",
-          "score": 100
-        },
-        {
-          "keyword": "fidelity crypto",
-          "score": 99
-        },
-        {
-          "keyword": "moana 2",
-          "score": 98
-        },
-        {
-          "keyword": "echoes of aincrad",
-          "score": 97
-        },
-        {
-          "keyword": "chris hemsworth",
-          "score": 96
-        },
-        {
-          "keyword": "bitcoin",
-          "score": 95
-        },
-        {
-          "keyword": "台风",
-          "score": 94
-        },
-        {
-          "keyword": "alaskaair",
-          "score": 93
-        },
-        {
-          "keyword": "rory mcilroy",
-          "score": 92
-        },
-        {
-          "keyword": "showdown",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-09T15:52:00.633Z",
       "geo": "US",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "what to watch tonight",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-13T07:46:22.107Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "events",
+          "score": 100
+        },
+        {
+          "keyword": "yoga",
+          "score": 99
+        },
+        {
+          "keyword": "movies",
+          "score": 98
+        },
+        {
+          "keyword": "sports",
+          "score": 97
+        },
+        {
+          "keyword": "hilary duff",
+          "score": 96
+        },
+        {
+          "keyword": "swimming",
+          "score": 95
+        },
+        {
+          "keyword": "toyota",
+          "score": 94
+        },
+        {
+          "keyword": "epstein files",
+          "score": 93
+        },
+        {
+          "keyword": "alaskaair",
+          "score": 92
+        },
+        {
+          "keyword": "kyrie irving",
           "score": 91
         }
       ]
