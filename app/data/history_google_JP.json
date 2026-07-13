@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-09T20:59:43.329Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "グリーズマン",
-          "score": 100
-        },
-        {
-          "keyword": "川崎競馬場",
-          "score": 99
-        },
-        {
-          "keyword": "堂本光一",
-          "score": 98
-        },
-        {
-          "keyword": "キュウリ",
-          "score": 97
-        },
-        {
-          "keyword": "ワールドカップ試合",
-          "score": 96
-        },
-        {
-          "keyword": "jcb",
-          "score": 95
-        },
-        {
-          "keyword": "守田英正",
-          "score": 94
-        },
-        {
-          "keyword": "ユニクロ",
-          "score": 93
-        },
-        {
-          "keyword": "france maroc",
-          "score": 92
-        },
-        {
-          "keyword": "鈴木誠也",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-09T22:27:58.396Z",
       "geo": "JP",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "攻撃",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-13T21:44:12.166Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "フィラデルフィア半導体株指数",
+          "score": 100
+        },
+        {
+          "keyword": "ナスダック総合指数",
+          "score": 99
+        },
+        {
+          "keyword": "江黒早耶香弁護士",
+          "score": 98
+        },
+        {
+          "keyword": "spcx",
+          "score": 97
+        },
+        {
+          "keyword": "太陽誘電",
+          "score": 96
+        },
+        {
+          "keyword": "口先 介入",
+          "score": 95
+        },
+        {
+          "keyword": "野球",
+          "score": 94
+        },
+        {
+          "keyword": "マルコ・ルビオ",
+          "score": 93
+        },
+        {
+          "keyword": "おはよう朝日です",
+          "score": 92
+        },
+        {
+          "keyword": "新潟 天気",
           "score": 91
         }
       ]
