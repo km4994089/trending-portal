@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-09T03:18:42.303Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "alan roden",
-          "score": 100
-        },
-        {
-          "keyword": "mn twins",
-          "score": 99
-        },
-        {
-          "keyword": "ximena herrera",
-          "score": 98
-        },
-        {
-          "keyword": "tyasha harris",
-          "score": 97
-        },
-        {
-          "keyword": "jo adell",
-          "score": 96
-        },
-        {
-          "keyword": "indiana fever",
-          "score": 95
-        },
-        {
-          "keyword": "kyle karros",
-          "score": 94
-        },
-        {
-          "keyword": "kyle schwarber",
-          "score": 93
-        },
-        {
-          "keyword": "eric karros",
-          "score": 92
-        },
-        {
-          "keyword": "wes watson",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-09T06:58:49.399Z",
       "geo": "US",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "scott peterson",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-13T04:07:05.198Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "michael jordan",
+          "score": 100
+        },
+        {
+          "keyword": "best movies this year",
+          "score": 99
+        },
+        {
+          "keyword": "netflix subscription",
+          "score": 98
+        },
+        {
+          "keyword": "best movies on streaming",
+          "score": 97
+        },
+        {
+          "keyword": "melhores filmes netflix",
+          "score": 96
+        },
+        {
+          "keyword": "carlito chism carrie crawford",
+          "score": 95
+        },
+        {
+          "keyword": "jay z concert nyc",
+          "score": 94
+        },
+        {
+          "keyword": "clippers summer league",
+          "score": 93
+        },
+        {
+          "keyword": "que ver en netflix",
+          "score": 92
+        },
+        {
+          "keyword": "what to watch tonight",
           "score": 91
         }
       ]

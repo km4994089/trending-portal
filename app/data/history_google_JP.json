@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-09T03:18:44.692Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "皇室典範改正",
-          "score": 100
-        },
-        {
-          "keyword": "岩手県高校野球",
-          "score": 99
-        },
-        {
-          "keyword": "相撲",
-          "score": 98
-        },
-        {
-          "keyword": "遺言",
-          "score": 97
-        },
-        {
-          "keyword": "サッカー 大韓民国 代表",
-          "score": 96
-        },
-        {
-          "keyword": "米騒動",
-          "score": 95
-        },
-        {
-          "keyword": "中央線",
-          "score": 94
-        },
-        {
-          "keyword": "ガンダム 新作アニメ",
-          "score": 93
-        },
-        {
-          "keyword": "エリザー・アルフォンゾ",
-          "score": 92
-        },
-        {
-          "keyword": "群馬パスポート",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-09T06:58:51.851Z",
       "geo": "JP",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "大谷翔平",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-13T04:07:07.565Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "バーチャル高校野球",
+          "score": 100
+        },
+        {
+          "keyword": "小園海斗",
+          "score": 99
+        },
+        {
+          "keyword": "野田聖子",
+          "score": 98
+        },
+        {
+          "keyword": "高校野球 ライブ",
+          "score": 97
+        },
+        {
+          "keyword": "高校野球 東京",
+          "score": 96
+        },
+        {
+          "keyword": "岡山県高校野球",
+          "score": 95
+        },
+        {
+          "keyword": "宮崎県高校野球",
+          "score": 94
+        },
+        {
+          "keyword": "中村ゆり",
+          "score": 93
+        },
+        {
+          "keyword": "麻生太郎",
+          "score": 92
+        },
+        {
+          "keyword": "ラヴィット!",
           "score": 91
         }
       ]
