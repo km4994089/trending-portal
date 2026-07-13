@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-09T15:52:00.633Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mike dewine",
-          "score": 100
-        },
-        {
-          "keyword": "el nino",
-          "score": 99
-        },
-        {
-          "keyword": "duke of sussex birmingham trip",
-          "score": 98
-        },
-        {
-          "keyword": "fraud",
-          "score": 97
-        },
-        {
-          "keyword": "senator mitch mcconnell",
-          "score": 96
-        },
-        {
-          "keyword": "gasoline",
-          "score": 95
-        },
-        {
-          "keyword": "starbucks pink bear cup",
-          "score": 94
-        },
-        {
-          "keyword": "linda nosková",
-          "score": 93
-        },
-        {
-          "keyword": "jacob tobey",
-          "score": 92
-        },
-        {
-          "keyword": "nikola kusturica",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-09T17:47:23.245Z",
       "geo": "US",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "xrp ledger",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-13T16:01:41.892Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "storm",
+          "score": 100
+        },
+        {
+          "keyword": "william shatner",
+          "score": 99
+        },
+        {
+          "keyword": "qinwen zheng",
+          "score": 98
+        },
+        {
+          "keyword": "sorloth not passing to haaland",
+          "score": 97
+        },
+        {
+          "keyword": "magda linette",
+          "score": 96
+        },
+        {
+          "keyword": "lilli tagger",
+          "score": 95
+        },
+        {
+          "keyword": "darline graham",
+          "score": 94
+        },
+        {
+          "keyword": "apple iphone 18 pro max",
+          "score": 93
+        },
+        {
+          "keyword": "et stock",
+          "score": 92
+        },
+        {
+          "keyword": "tony romo",
           "score": 91
         }
       ]
