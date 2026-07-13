@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-08T23:59:25.349Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "バーチャル高校野球",
-          "score": 100
-        },
-        {
-          "keyword": "与那嶺瑠唯",
-          "score": 99
-        },
-        {
-          "keyword": "山崎来蘭",
-          "score": 98
-        },
-        {
-          "keyword": "レッズ 対 フィリーズ",
-          "score": 97
-        },
-        {
-          "keyword": "横田真悠",
-          "score": 96
-        },
-        {
-          "keyword": "サムアルトマン",
-          "score": 95
-        },
-        {
-          "keyword": "グレイヘア",
-          "score": 94
-        },
-        {
-          "keyword": "熱中症アラート",
-          "score": 93
-        },
-        {
-          "keyword": "レイズ 対 ヤンキース",
-          "score": 92
-        },
-        {
-          "keyword": "内田有紀",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-09T03:18:44.692Z",
       "geo": "JP",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "めざまし占い",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-13T00:15:00.907Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "中山秀征",
+          "score": 100
+        },
+        {
+          "keyword": "や",
+          "score": 99
+        },
+        {
+          "keyword": "日経",
+          "score": 98
+        },
+        {
+          "keyword": "tenki",
+          "score": 97
+        },
+        {
+          "keyword": "職務質問",
+          "score": 96
+        },
+        {
+          "keyword": "梅宮アンナ",
+          "score": 95
+        },
+        {
+          "keyword": "高橋真麻",
+          "score": 94
+        },
+        {
+          "keyword": "ドジャース 試合結果",
+          "score": 93
+        },
+        {
+          "keyword": "風薫る ネタバレ",
+          "score": 92
+        },
+        {
+          "keyword": "大谷翔平",
           "score": 91
         }
       ]
