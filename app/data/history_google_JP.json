@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-09T22:27:58.396Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "河北新報",
-          "score": 100
-        },
-        {
-          "keyword": "めざましテレビ",
-          "score": 99
-        },
-        {
-          "keyword": "北海道 天気",
-          "score": 98
-        },
-        {
-          "keyword": "ワールドカップ 得点ランキング",
-          "score": 97
-        },
-        {
-          "keyword": "リトルスプーン",
-          "score": 96
-        },
-        {
-          "keyword": "スペイン ベルギー 放送",
-          "score": 95
-        },
-        {
-          "keyword": "小島瑠璃子 不倫",
-          "score": 94
-        },
-        {
-          "keyword": "黒木千晶",
-          "score": 93
-        },
-        {
-          "keyword": "koki",
-          "score": 92
-        },
-        {
-          "keyword": "fifa world cup brackets",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-09T23:42:30.757Z",
       "geo": "JP",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "新潟 天気",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-13T22:44:19.047Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "リチウムイオン電池 発火",
+          "score": 100
+        },
+        {
+          "keyword": "thời tiết",
+          "score": 99
+        },
+        {
+          "keyword": "アルゼンチン対イングランド",
+          "score": 98
+        },
+        {
+          "keyword": "原油価格",
+          "score": 97
+        },
+        {
+          "keyword": "ジブリパーク",
+          "score": 96
+        },
+        {
+          "keyword": "中村倫也",
+          "score": 95
+        },
+        {
+          "keyword": "梅雨明け 東京",
+          "score": 94
+        },
+        {
+          "keyword": "gpif",
+          "score": 93
+        },
+        {
+          "keyword": "高山善廣",
+          "score": 92
+        },
+        {
+          "keyword": "シュン スカイ ウォーカー",
           "score": 91
         }
       ]
