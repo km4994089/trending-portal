@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-10T22:50:25.214Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "pittsburgh weather",
-          "score": 100
-        },
-        {
-          "keyword": "klystron 9",
-          "score": 99
-        },
-        {
-          "keyword": "guardians vs marlins",
-          "score": 98
-        },
-        {
-          "keyword": "mariners vs rays",
-          "score": 97
-        },
-        {
-          "keyword": "fire near me",
-          "score": 96
-        },
-        {
-          "keyword": "knicks summer league",
-          "score": 95
-        },
-        {
-          "keyword": "alcaraz injury",
-          "score": 94
-        },
-        {
-          "keyword": "sakura",
-          "score": 93
-        },
-        {
-          "keyword": "cubs vs reds",
-          "score": 92
-        },
-        {
-          "keyword": "red sox vs mets",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-10T23:47:50.040Z",
       "geo": "US",
       "source": "google",
@@ -2771,6 +2724,53 @@
         },
         {
           "keyword": "aircraft pilot",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-14T23:24:21.615Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "alex rodriguez",
+          "score": 100
+        },
+        {
+          "keyword": "chelsea gray",
+          "score": 99
+        },
+        {
+          "keyword": "mike trout",
+          "score": 98
+        },
+        {
+          "keyword": "david ortiz",
+          "score": 97
+        },
+        {
+          "keyword": "chris sale",
+          "score": 96
+        },
+        {
+          "keyword": "h&m",
+          "score": 95
+        },
+        {
+          "keyword": "derek jeter",
+          "score": 94
+        },
+        {
+          "keyword": "howard stern",
+          "score": 93
+        },
+        {
+          "keyword": "mystics vs tempo",
+          "score": 92
+        },
+        {
+          "keyword": "trump prime-time address thursday",
           "score": 91
         }
       ]
