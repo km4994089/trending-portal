@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-10T12:11:44.425Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "waymo vehicle passenger privacy",
-          "score": 100
-        },
-        {
-          "keyword": "tracker",
-          "score": 99
-        },
-        {
-          "keyword": "thailand",
-          "score": 98
-        },
-        {
-          "keyword": "mlb draft",
-          "score": 97
-        },
-        {
-          "keyword": "police",
-          "score": 96
-        },
-        {
-          "keyword": "nolan wells story",
-          "score": 95
-        },
-        {
-          "keyword": "funeral",
-          "score": 94
-        },
-        {
-          "keyword": "typhoon bavi",
-          "score": 93
-        },
-        {
-          "keyword": "jay z concert",
-          "score": 92
-        },
-        {
-          "keyword": "trump unsigned housing bill",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-10T15:08:16.521Z",
       "geo": "US",
       "source": "google",
@@ -2724,6 +2677,53 @@
         },
         {
           "keyword": "karl darlow",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-14T14:20:57.582Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "smuggling",
+          "score": 100
+        },
+        {
+          "keyword": "strait of hormuz oil shipments",
+          "score": 99
+        },
+        {
+          "keyword": "orcl stock",
+          "score": 98
+        },
+        {
+          "keyword": "ryanair window incident",
+          "score": 97
+        },
+        {
+          "keyword": "behemoth movie",
+          "score": 96
+        },
+        {
+          "keyword": "dylan harper",
+          "score": 95
+        },
+        {
+          "keyword": "us refueling aircraft ben gurion",
+          "score": 94
+        },
+        {
+          "keyword": "nba news",
+          "score": 93
+        },
+        {
+          "keyword": "subaru recall",
+          "score": 92
+        },
+        {
+          "keyword": "hannah waddingham",
           "score": 91
         }
       ]

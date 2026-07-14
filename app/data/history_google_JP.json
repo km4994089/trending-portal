@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-10T12:11:46.892Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "中国のテレビドラマ",
-          "score": 100
-        },
-        {
-          "keyword": "サッカー大韓民国代表",
-          "score": 99
-        },
-        {
-          "keyword": "ローリングストーンズ",
-          "score": 98
-        },
-        {
-          "keyword": "イモトアヤコ",
-          "score": 97
-        },
-        {
-          "keyword": "かりそめ天国",
-          "score": 96
-        },
-        {
-          "keyword": "金ロー",
-          "score": 95
-        },
-        {
-          "keyword": "ドラゴンズ",
-          "score": 94
-        },
-        {
-          "keyword": "井桁弘恵",
-          "score": 93
-        },
-        {
-          "keyword": "ロト7",
-          "score": 92
-        },
-        {
-          "keyword": "金曜日ロードショー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-10T15:08:18.918Z",
       "geo": "JP",
       "source": "google",
@@ -2724,6 +2677,53 @@
         },
         {
           "keyword": "坂本勇人",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-14T14:20:59.516Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "登坂淳一",
+          "score": 100
+        },
+        {
+          "keyword": "岡田彰布",
+          "score": 99
+        },
+        {
+          "keyword": "ケンタッキー ニチレイ",
+          "score": 98
+        },
+        {
+          "keyword": "小野花梨",
+          "score": 97
+        },
+        {
+          "keyword": "山本彩",
+          "score": 96
+        },
+        {
+          "keyword": "鈴木 亮平",
+          "score": 95
+        },
+        {
+          "keyword": "華大さんと千鳥くん",
+          "score": 94
+        },
+        {
+          "keyword": "爆発",
+          "score": 93
+        },
+        {
+          "keyword": "蔵内勇夫",
+          "score": 92
+        },
+        {
+          "keyword": "はんにゃ 金田",
           "score": 91
         }
       ]
