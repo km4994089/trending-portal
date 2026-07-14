@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-10T18:54:44.252Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "フェリー テニス",
-          "score": 100
-        },
-        {
-          "keyword": "spain vs belgium",
-          "score": 99
-        },
-        {
-          "keyword": "沖縄 停電",
-          "score": 98
-        },
-        {
-          "keyword": "国会 前 デモ",
-          "score": 97
-        },
-        {
-          "keyword": "七夕 賞",
-          "score": 96
-        },
-        {
-          "keyword": "wimbledon",
-          "score": 95
-        },
-        {
-          "keyword": "スペイン 対 ベルギー",
-          "score": 94
-        },
-        {
-          "keyword": "ポケモンカード",
-          "score": 93
-        },
-        {
-          "keyword": "裁判",
-          "score": 92
-        },
-        {
-          "keyword": "中国共産党",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-10T20:12:57.922Z",
       "geo": "JP",
       "source": "google",
@@ -2771,6 +2724,53 @@
         },
         {
           "keyword": "伊藤あおい",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-14T20:04:17.373Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ワールドカップ",
+          "score": 100
+        },
+        {
+          "keyword": "世界杯",
+          "score": 99
+        },
+        {
+          "keyword": "ロドリ バロンドール",
+          "score": 98
+        },
+        {
+          "keyword": "ワールドカップ 日程",
+          "score": 97
+        },
+        {
+          "keyword": "fifaランキング",
+          "score": 96
+        },
+        {
+          "keyword": "ジュール・クンデ",
+          "score": 95
+        },
+        {
+          "keyword": "フランス対スペイン 審判",
+          "score": 94
+        },
+        {
+          "keyword": "w 杯",
+          "score": 93
+        },
+        {
+          "keyword": "プレミアリーグ",
+          "score": 92
+        },
+        {
+          "keyword": "バルセロナ",
           "score": 91
         }
       ]
