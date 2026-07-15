@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-11T07:05:27.493Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "damian pinas",
-          "score": 100
-        },
-        {
-          "keyword": "cate blanchett",
-          "score": 99
-        },
-        {
-          "keyword": "wes anderson",
-          "score": 98
-        },
-        {
-          "keyword": "avril lavigne",
-          "score": 97
-        },
-        {
-          "keyword": "chris hemsworth",
-          "score": 96
-        },
-        {
-          "keyword": "sf giants",
-          "score": 95
-        },
-        {
-          "keyword": "olivia dean",
-          "score": 94
-        },
-        {
-          "keyword": "caleb kilian",
-          "score": 93
-        },
-        {
-          "keyword": "benjamin netanyahu",
-          "score": 92
-        },
-        {
-          "keyword": "robin williams",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-11T09:03:47.673Z",
       "geo": "US",
       "source": "google",
@@ -2771,6 +2724,53 @@
         },
         {
           "keyword": "kim mathers",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-15T08:39:52.663Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "elsa aguirre",
+          "score": 100
+        },
+        {
+          "keyword": "home prices",
+          "score": 99
+        },
+        {
+          "keyword": "space exploration",
+          "score": 98
+        },
+        {
+          "keyword": "météo demain",
+          "score": 97
+        },
+        {
+          "keyword": "disneyland ticket prices",
+          "score": 96
+        },
+        {
+          "keyword": "cryptocurrency trading",
+          "score": 95
+        },
+        {
+          "keyword": "xero",
+          "score": 94
+        },
+        {
+          "keyword": "best movies on netflix",
+          "score": 93
+        },
+        {
+          "keyword": "nba standings",
+          "score": 92
+        },
+        {
+          "keyword": "showdown",
           "score": 91
         }
       ]

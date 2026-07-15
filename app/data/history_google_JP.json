@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-11T07:05:29.788Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ちゃんみな 東京ドーム",
-          "score": 100
-        },
-        {
-          "keyword": "釜山ステークス",
-          "score": 99
-        },
-        {
-          "keyword": "ヒグマ",
-          "score": 98
-        },
-        {
-          "keyword": "fivbバレーボール・ネイションズリーグ 女子",
-          "score": 97
-        },
-        {
-          "keyword": "鍵山優真",
-          "score": 96
-        },
-        {
-          "keyword": "ミッチェル・デューク",
-          "score": 95
-        },
-        {
-          "keyword": "嫌がらせ",
-          "score": 94
-        },
-        {
-          "keyword": "戸田競艇",
-          "score": 93
-        },
-        {
-          "keyword": "ちゃんみな ライブ",
-          "score": 92
-        },
-        {
-          "keyword": "三浦龍司",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-11T09:03:49.661Z",
       "geo": "JP",
       "source": "google",
@@ -2771,6 +2724,53 @@
         },
         {
           "keyword": "スマスロ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-15T08:39:55.510Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "王位戦",
+          "score": 100
+        },
+        {
+          "keyword": "古賀紗理那",
+          "score": 99
+        },
+        {
+          "keyword": "羽鳥 慎一",
+          "score": 98
+        },
+        {
+          "keyword": "大相撲 結果 今日 幕内",
+          "score": 97
+        },
+        {
+          "keyword": "朝乃山",
+          "score": 96
+        },
+        {
+          "keyword": "福井県知事",
+          "score": 95
+        },
+        {
+          "keyword": "新宿コパボウル",
+          "score": 94
+        },
+        {
+          "keyword": "臼井真",
+          "score": 93
+        },
+        {
+          "keyword": "浜名湖競艇",
+          "score": 92
+        },
+        {
+          "keyword": "国宝級イケメンランキング",
           "score": 91
         }
       ]
