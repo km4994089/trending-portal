@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-11T12:54:26.326Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "rory mcilroy",
-          "score": 100
-        },
-        {
-          "keyword": "henry patten",
-          "score": 99
-        },
-        {
-          "keyword": "el niño",
-          "score": 98
-        },
-        {
-          "keyword": "harri heliövaara",
-          "score": 97
-        },
-        {
-          "keyword": "atlantis events scarlet lady blocked",
-          "score": 96
-        },
-        {
-          "keyword": "indianapolis weather",
-          "score": 95
-        },
-        {
-          "keyword": "harry kane trump",
-          "score": 94
-        },
-        {
-          "keyword": "jayden adams",
-          "score": 93
-        },
-        {
-          "keyword": "marcelo arévalo",
-          "score": 92
-        },
-        {
-          "keyword": "sydney sweeney",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-11T14:17:57.726Z",
       "geo": "US",
       "source": "google",
@@ -2724,6 +2677,53 @@
         },
         {
           "keyword": "miniseries",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-15T14:17:03.646Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "prince harry, duke of sussex",
+          "score": 100
+        },
+        {
+          "keyword": "apple ios 27 public beta",
+          "score": 99
+        },
+        {
+          "keyword": "dick durbin",
+          "score": 98
+        },
+        {
+          "keyword": "jim cantore",
+          "score": 97
+        },
+        {
+          "keyword": "cspan",
+          "score": 96
+        },
+        {
+          "keyword": "travis hunter",
+          "score": 95
+        },
+        {
+          "keyword": "caddie",
+          "score": 94
+        },
+        {
+          "keyword": "todd blanche confirmation hearing",
+          "score": 93
+        },
+        {
+          "keyword": "steve yzerman",
+          "score": 92
+        },
+        {
+          "keyword": "anthony mantha",
           "score": 91
         }
       ]
