@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-11T01:43:21.686Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "러시아",
-          "score": 100
-        },
-        {
-          "keyword": "남승민",
-          "score": 99
-        },
-        {
-          "keyword": "허웅",
-          "score": 98
-        },
-        {
-          "keyword": "모아나",
-          "score": 97
-        },
-        {
-          "keyword": "여객기",
-          "score": 96
-        },
-        {
-          "keyword": "lpga",
-          "score": 95
-        },
-        {
-          "keyword": "현대 그랜저",
-          "score": 94
-        },
-        {
-          "keyword": "순천시장",
-          "score": 93
-        },
-        {
-          "keyword": "하트시그널",
-          "score": 92
-        },
-        {
-          "keyword": "암호화폐",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-11T04:53:40.613Z",
       "geo": "KR",
       "source": "google",
@@ -2771,6 +2724,53 @@
         },
         {
           "keyword": "축구 선수",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-15T03:42:22.596Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "지효",
+          "score": 100
+        },
+        {
+          "keyword": "맷 랜들",
+          "score": 99
+        },
+        {
+          "keyword": "머더클럽",
+          "score": 98
+        },
+        {
+          "keyword": "수비수",
+          "score": 97
+        },
+        {
+          "keyword": "로켓",
+          "score": 96
+        },
+        {
+          "keyword": "청주시의원",
+          "score": 95
+        },
+        {
+          "keyword": "에코프로비엠",
+          "score": 94
+        },
+        {
+          "keyword": "김서현",
+          "score": 93
+        },
+        {
+          "keyword": "황우석",
+          "score": 92
+        },
+        {
+          "keyword": "왕옌청",
           "score": 91
         }
       ]
