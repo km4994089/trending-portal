@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-11T11:43:38.531Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "wimbledon today",
-          "score": 100
-        },
-        {
-          "keyword": "luka doncic",
-          "score": 99
-        },
-        {
-          "keyword": "ukraine news",
-          "score": 98
-        },
-        {
-          "keyword": "ufc fights tonight",
-          "score": 97
-        },
-        {
-          "keyword": "cincinnati weather",
-          "score": 96
-        },
-        {
-          "keyword": "wordle — the new york times",
-          "score": 95
-        },
-        {
-          "keyword": "san antonio weather",
-          "score": 94
-        },
-        {
-          "keyword": "polio",
-          "score": 93
-        },
-        {
-          "keyword": "nyt spelling bee",
-          "score": 92
-        },
-        {
-          "keyword": "hardrock 100",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-11T12:54:26.326Z",
       "geo": "US",
       "source": "google",
@@ -2724,6 +2677,53 @@
         },
         {
           "keyword": "dave ramsey",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-15T12:09:09.105Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "what time is the world cup game today",
+          "score": 100
+        },
+        {
+          "keyword": "ms stock",
+          "score": 99
+        },
+        {
+          "keyword": "daniel silva",
+          "score": 98
+        },
+        {
+          "keyword": "british open 2026",
+          "score": 97
+        },
+        {
+          "keyword": "epstein files",
+          "score": 96
+        },
+        {
+          "keyword": "air quality boston",
+          "score": 95
+        },
+        {
+          "keyword": "kate upton justin verlander red carpet",
+          "score": 94
+        },
+        {
+          "keyword": "max verstappen",
+          "score": 93
+        },
+        {
+          "keyword": "tennis head",
+          "score": 92
+        },
+        {
+          "keyword": "miniseries",
           "score": 91
         }
       ]
