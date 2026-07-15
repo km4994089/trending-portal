@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-10T23:47:50.040Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "senator",
-          "score": 100
-        },
-        {
-          "keyword": "hunter greene",
-          "score": 99
-        },
-        {
-          "keyword": "braves vs cardinals",
-          "score": 98
-        },
-        {
-          "keyword": "caitlin clark",
-          "score": 97
-        },
-        {
-          "keyword": "angels vs twins",
-          "score": 96
-        },
-        {
-          "keyword": "derek hill",
-          "score": 95
-        },
-        {
-          "keyword": "ridley scott",
-          "score": 94
-        },
-        {
-          "keyword": "kc current vs orlando pride",
-          "score": 93
-        },
-        {
-          "keyword": "chicago stars vs boston legacy",
-          "score": 92
-        },
-        {
-          "keyword": "will ferrell",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-11T01:43:20.535Z",
       "geo": "US",
       "source": "google",
@@ -2771,6 +2724,53 @@
         },
         {
           "keyword": "trump prime-time address thursday",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-15T00:11:27.061Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kevin mcgonigle",
+          "score": 100
+        },
+        {
+          "keyword": "don mattingly",
+          "score": 99
+        },
+        {
+          "keyword": "julie allemand",
+          "score": 98
+        },
+        {
+          "keyword": "big brother schedule",
+          "score": 97
+        },
+        {
+          "keyword": "jennifer hudson",
+          "score": 96
+        },
+        {
+          "keyword": "aaron judge",
+          "score": 95
+        },
+        {
+          "keyword": "once upon a time in hollywood",
+          "score": 94
+        },
+        {
+          "keyword": "marina mabrey",
+          "score": 93
+        },
+        {
+          "keyword": "sonia citron",
+          "score": 92
+        },
+        {
+          "keyword": "matt miller",
           "score": 91
         }
       ]
