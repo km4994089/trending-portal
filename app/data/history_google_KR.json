@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-11T09:03:48.466Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "부동산",
-          "score": 100
-        },
-        {
-          "keyword": "lyon",
-          "score": 99
-        },
-        {
-          "keyword": "이준영",
-          "score": 98
-        },
-        {
-          "keyword": "최태원 김희영",
-          "score": 97
-        },
-        {
-          "keyword": "스톨레 솔바켄",
-          "score": 96
-        },
-        {
-          "keyword": "전지현",
-          "score": 95
-        },
-        {
-          "keyword": "이효리",
-          "score": 94
-        },
-        {
-          "keyword": "곽혈수",
-          "score": 93
-        },
-        {
-          "keyword": "소송",
-          "score": 92
-        },
-        {
-          "keyword": "하재훈",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-07-11T10:38:35.048Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "투수",
-          "score": 100
-        },
-        {
-          "keyword": "xsmn",
-          "score": 99
-        },
-        {
-          "keyword": "양의지",
-          "score": 98
-        },
-        {
-          "keyword": "문현빈",
-          "score": 97
-        },
-        {
-          "keyword": "허인서",
-          "score": 96
-        },
-        {
-          "keyword": "이재용",
-          "score": 95
-        },
-        {
-          "keyword": "혈압",
-          "score": 94
-        },
-        {
-          "keyword": "옥택연",
-          "score": 93
-        },
-        {
-          "keyword": "서식 스 공작 해리",
-          "score": 92
-        },
-        {
-          "keyword": "호프",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-11T11:43:39.632Z",
       "geo": "KR",
       "source": "google",
@@ -2771,6 +2677,53 @@
         },
         {
           "keyword": "안세영",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-15T10:41:47.237Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "입건",
+          "score": 100
+        },
+        {
+          "keyword": "한화 이글스",
+          "score": 99
+        },
+        {
+          "keyword": "아틀레티코 마드리드",
+          "score": 98
+        },
+        {
+          "keyword": "이수지",
+          "score": 97
+        },
+        {
+          "keyword": "태백시",
+          "score": 96
+        },
+        {
+          "keyword": "과천시",
+          "score": 95
+        },
+        {
+          "keyword": "헥토파이낸셜",
+          "score": 94
+        },
+        {
+          "keyword": "장항준",
+          "score": 93
+        },
+        {
+          "keyword": "삼성",
+          "score": 92
+        },
+        {
+          "keyword": "이영애",
           "score": 91
         }
       ]
