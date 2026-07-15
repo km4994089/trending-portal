@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-11T14:17:57.726Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "big",
-          "score": 100
-        },
-        {
-          "keyword": "jeline vandromme",
-          "score": 99
-        },
-        {
-          "keyword": "cricbuzz",
-          "score": 98
-        },
-        {
-          "keyword": "abigail thorn",
-          "score": 97
-        },
-        {
-          "keyword": "evian championship",
-          "score": 96
-        },
-        {
-          "keyword": "copa mundial de fútbol",
-          "score": 95
-        },
-        {
-          "keyword": "supernatural",
-          "score": 94
-        },
-        {
-          "keyword": "federico cina",
-          "score": 93
-        },
-        {
-          "keyword": "mary-kate and ashley olsen",
-          "score": 92
-        },
-        {
-          "keyword": "ms rachel",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-07-11T15:28:08.793Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "billie jean king",
-          "score": 100
-        },
-        {
-          "keyword": "s janaki",
-          "score": 99
-        },
-        {
-          "keyword": "maria sharapova",
-          "score": 98
-        },
-        {
-          "keyword": "martina navratilova",
-          "score": 97
-        },
-        {
-          "keyword": "houston weather",
-          "score": 96
-        },
-        {
-          "keyword": "weather san antonio",
-          "score": 95
-        },
-        {
-          "keyword": "braces",
-          "score": 94
-        },
-        {
-          "keyword": "russia azov sea shipping halt",
-          "score": 93
-        },
-        {
-          "keyword": "türkiye",
-          "score": 92
-        },
-        {
-          "keyword": "mitt romney",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-11T16:23:54.183Z",
       "geo": "US",
       "source": "google",
@@ -2724,6 +2630,53 @@
         },
         {
           "keyword": "anthony mantha",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-15T15:58:08.116Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "octavia spencer",
+          "score": 100
+        },
+        {
+          "keyword": "film",
+          "score": 99
+        },
+        {
+          "keyword": "storm vs sky",
+          "score": 98
+        },
+        {
+          "keyword": "dell stock",
+          "score": 97
+        },
+        {
+          "keyword": "lance mccullers",
+          "score": 96
+        },
+        {
+          "keyword": "marsha blackburn",
+          "score": 95
+        },
+        {
+          "keyword": "florida",
+          "score": 94
+        },
+        {
+          "keyword": "sylvester stallone",
+          "score": 93
+        },
+        {
+          "keyword": "nhl schedule",
+          "score": 92
+        },
+        {
+          "keyword": "tyrannosaurus rex fossil",
           "score": 91
         }
       ]
