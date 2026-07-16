@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-12T05:16:40.015Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "송성문",
-          "score": 100
-        },
-        {
-          "keyword": "세광고",
-          "score": 99
-        },
-        {
-          "keyword": "경산시",
-          "score": 98
-        },
-        {
-          "keyword": "구자욱",
-          "score": 97
-        },
-        {
-          "keyword": "이시영",
-          "score": 96
-        },
-        {
-          "keyword": "최지우",
-          "score": 95
-        },
-        {
-          "keyword": "손주",
-          "score": 94
-        },
-        {
-          "keyword": "송혜교",
-          "score": 93
-        },
-        {
-          "keyword": "고석현",
-          "score": 92
-        },
-        {
-          "keyword": "총파업",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-12T07:39:03.992Z",
       "geo": "KR",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "lg이노텍",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-16T06:09:42.568Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "편의점",
+          "score": 100
+        },
+        {
+          "keyword": "기내식",
+          "score": 99
+        },
+        {
+          "keyword": "투신",
+          "score": 98
+        },
+        {
+          "keyword": "징역형",
+          "score": 97
+        },
+        {
+          "keyword": "프로야구 스피리츠 2026",
+          "score": 96
+        },
+        {
+          "keyword": "손빈아",
+          "score": 95
+        },
+        {
+          "keyword": "하이닉스",
+          "score": 94
+        },
+        {
+          "keyword": "창신 메모리 테크놀로지",
+          "score": 93
+        },
+        {
+          "keyword": "대구백화점",
+          "score": 92
+        },
+        {
+          "keyword": "필리조선소",
           "score": 91
         }
       ]
