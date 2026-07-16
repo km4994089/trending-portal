@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-12T15:31:02.559Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tom kim",
-          "score": 100
-        },
-        {
-          "keyword": "josh allen",
-          "score": 99
-        },
-        {
-          "keyword": "cremation",
-          "score": 98
-        },
-        {
-          "keyword": "alcaraz",
-          "score": 97
-        },
-        {
-          "keyword": "pam bondi",
-          "score": 96
-        },
-        {
-          "keyword": "carlos alcaraz",
-          "score": 95
-        },
-        {
-          "keyword": "ferrari",
-          "score": 94
-        },
-        {
-          "keyword": "rahm emanuel",
-          "score": 93
-        },
-        {
-          "keyword": "andy roddick",
-          "score": 92
-        },
-        {
-          "keyword": "david attenborough",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-12T16:45:07.220Z",
       "geo": "US",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "us open",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-16T15:56:22.111Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ann li",
+          "score": 100
+        },
+        {
+          "keyword": "rklb",
+          "score": 99
+        },
+        {
+          "keyword": "ian baker finch",
+          "score": 98
+        },
+        {
+          "keyword": "today show",
+          "score": 97
+        },
+        {
+          "keyword": "orcl stock",
+          "score": 96
+        },
+        {
+          "keyword": "kimi k3",
+          "score": 95
+        },
+        {
+          "keyword": "us mint",
+          "score": 94
+        },
+        {
+          "keyword": "alexander bublik",
+          "score": 93
+        },
+        {
+          "keyword": "u.s. department of homeland security",
+          "score": 92
+        },
+        {
+          "keyword": "new england patriots",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-12T15:31:05.049Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ズベレフ",
-          "score": 100
-        },
-        {
-          "keyword": "ブランドニュー",
-          "score": 99
-        },
-        {
-          "keyword": "高田馬場刺殺事件",
-          "score": 98
-        },
-        {
-          "keyword": "日産・キックス",
-          "score": 97
-        },
-        {
-          "keyword": "黒木麗香",
-          "score": 96
-        },
-        {
-          "keyword": "ジャンプ ワンピースカード",
-          "score": 95
-        },
-        {
-          "keyword": "水質",
-          "score": 94
-        },
-        {
-          "keyword": "正木智也",
-          "score": 93
-        },
-        {
-          "keyword": "イラン攻撃",
-          "score": 92
-        },
-        {
-          "keyword": "一次元の挿し木",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-12T16:45:09.998Z",
       "geo": "JP",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "黒田清子",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-16T15:56:24.620Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "レベル4大雨危険警報",
+          "score": 100
+        },
+        {
+          "keyword": "伊藤健太郎",
+          "score": 99
+        },
+        {
+          "keyword": "天神祭",
+          "score": 98
+        },
+        {
+          "keyword": "スパイク 芸人",
+          "score": 97
+        },
+        {
+          "keyword": "ヒコロヒー",
+          "score": 96
+        },
+        {
+          "keyword": "藤原 紀香",
+          "score": 95
+        },
+        {
+          "keyword": "カンブリア宮殿",
+          "score": 94
+        },
+        {
+          "keyword": "長崎ヴェルカ",
+          "score": 93
+        },
+        {
+          "keyword": "カーネーション 吉田",
+          "score": 92
+        },
+        {
+          "keyword": "遠藤航",
           "score": 91
         }
       ]
