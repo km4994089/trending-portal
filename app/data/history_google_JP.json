@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-12T20:02:49.074Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ホワイトソックス",
-          "score": 100
-        },
-        {
-          "keyword": "破産",
-          "score": 99
-        },
-        {
-          "keyword": "行司",
-          "score": 98
-        },
-        {
-          "keyword": "ツインズ 対 エンゼルス",
-          "score": 97
-        },
-        {
-          "keyword": "ウィンブルドン 2026",
-          "score": 96
-        },
-        {
-          "keyword": "佐々木麟太郎",
-          "score": 95
-        },
-        {
-          "keyword": "鬼越 トマホーク 有吉",
-          "score": 94
-        },
-        {
-          "keyword": "国際サッカー連盟会長",
-          "score": 93
-        },
-        {
-          "keyword": "wimbledon 2026",
-          "score": 92
-        },
-        {
-          "keyword": "ウィンブルドン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-12T21:11:12.971Z",
       "geo": "JP",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "レベル4大雨危険警報",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-16T20:46:47.721Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "メジャーリーグベースボール",
+          "score": 100
+        },
+        {
+          "keyword": "ロト6当選番号速報",
+          "score": 99
+        },
+        {
+          "keyword": "辻 希美",
+          "score": 98
+        },
+        {
+          "keyword": "広島東洋カープ",
+          "score": 97
+        },
+        {
+          "keyword": "ナスダック100",
+          "score": 96
+        },
+        {
+          "keyword": "王位戦",
+          "score": 95
+        },
+        {
+          "keyword": "マイクロソフト株価",
+          "score": 94
+        },
+        {
+          "keyword": "玉城 デニー",
+          "score": 93
+        },
+        {
+          "keyword": "自衛隊",
+          "score": 92
+        },
+        {
+          "keyword": "india vs england",
           "score": 91
         }
       ]
