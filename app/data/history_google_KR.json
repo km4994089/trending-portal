@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-12T16:45:08.580Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "wec",
-          "score": 100
-        },
-        {
-          "keyword": "심하은",
-          "score": 99
-        },
-        {
-          "keyword": "송종호",
-          "score": 98
-        },
-        {
-          "keyword": "졸음 운전",
-          "score": 97
-        },
-        {
-          "keyword": "철도",
-          "score": 96
-        },
-        {
-          "keyword": "서남용",
-          "score": 95
-        },
-        {
-          "keyword": "항서제약",
-          "score": 94
-        },
-        {
-          "keyword": "k리그1 순위",
-          "score": 93
-        },
-        {
-          "keyword": "ㅡ냐",
-          "score": 92
-        },
-        {
-          "keyword": "msi",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-12T17:50:46.626Z",
       "geo": "KR",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "김나영",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-16T17:04:38.211Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "신혼여행",
+          "score": 100
+        },
+        {
+          "keyword": "롤",
+          "score": 99
+        },
+        {
+          "keyword": "반품",
+          "score": 98
+        },
+        {
+          "keyword": "랜스 맥컬러스 주니어",
+          "score": 97
+        },
+        {
+          "keyword": "india vs england",
+          "score": 96
+        },
+        {
+          "keyword": "이동국",
+          "score": 95
+        },
+        {
+          "keyword": "배 나라",
+          "score": 94
+        },
+        {
+          "keyword": "김재희",
+          "score": 93
+        },
+        {
+          "keyword": "샘킴",
+          "score": 92
+        },
+        {
+          "keyword": "채널a",
           "score": 91
         }
       ]
