@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-12T07:39:02.701Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "black bear attacks",
-          "score": 100
-        },
-        {
-          "keyword": "chuck grassley",
-          "score": 99
-        },
-        {
-          "keyword": "mitch mcconnell",
-          "score": 98
-        },
-        {
-          "keyword": "nytimes",
-          "score": 97
-        },
-        {
-          "keyword": "trump truth social",
-          "score": 96
-        },
-        {
-          "keyword": "xero",
-          "score": 95
-        },
-        {
-          "keyword": "netflix subscription",
-          "score": 94
-        },
-        {
-          "keyword": "associated press",
-          "score": 93
-        },
-        {
-          "keyword": "لیندسی گراهام",
-          "score": 92
-        },
-        {
-          "keyword": "msi finals",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-12T09:42:19.738Z",
       "geo": "US",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "ryan garcia",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-16T08:38:25.291Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "2026 年 fifa 世界杯",
+          "score": 100
+        },
+        {
+          "keyword": "黄瑞雪",
+          "score": 99
+        },
+        {
+          "keyword": "swimming",
+          "score": 98
+        },
+        {
+          "keyword": "fortnite servers",
+          "score": 97
+        },
+        {
+          "keyword": "fruit",
+          "score": 96
+        },
+        {
+          "keyword": "time",
+          "score": 95
+        },
+        {
+          "keyword": "games",
+          "score": 94
+        },
+        {
+          "keyword": "events",
+          "score": 93
+        },
+        {
+          "keyword": "maps",
+          "score": 92
+        },
+        {
+          "keyword": "news",
           "score": 91
         }
       ]
