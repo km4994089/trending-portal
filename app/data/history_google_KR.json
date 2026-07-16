@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-12T11:04:31.923Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "소비",
-          "score": 100
-        },
-        {
-          "keyword": "fc 서울 대 강원",
-          "score": 99
-        },
-        {
-          "keyword": "제주 대 대전",
-          "score": 98
-        },
-        {
-          "keyword": "초복",
-          "score": 97
-        },
-        {
-          "keyword": "태풍 바비 경로",
-          "score": 96
-        },
-        {
-          "keyword": "소이현",
-          "score": 95
-        },
-        {
-          "keyword": "수도권 광역급행철도",
-          "score": 94
-        },
-        {
-          "keyword": "이석연",
-          "score": 93
-        },
-        {
-          "keyword": "커링클",
-          "score": 92
-        },
-        {
-          "keyword": "더불어민주당",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-07-12T12:12:08.072Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "임이자",
-          "score": 100
-        },
-        {
-          "keyword": "충남 아산 fc 대 경남",
-          "score": 99
-        },
-        {
-          "keyword": "테더",
-          "score": 98
-        },
-        {
-          "keyword": "편의점",
-          "score": 97
-        },
-        {
-          "keyword": "이기택",
-          "score": 96
-        },
-        {
-          "keyword": "찰리 반즈",
-          "score": 95
-        },
-        {
-          "keyword": "최우수산",
-          "score": 94
-        },
-        {
-          "keyword": "캐시워크 정답",
-          "score": 93
-        },
-        {
-          "keyword": "지예은",
-          "score": 92
-        },
-        {
-          "keyword": "홈플러스 성서점",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-12T14:02:53.608Z",
       "geo": "KR",
       "source": "google",
@@ -2583,6 +2489,53 @@
         },
         {
           "keyword": "잭 델라 마달레나",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-16T12:13:50.351Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "상장폐지",
+          "score": 100
+        },
+        {
+          "keyword": "로리 맥길로이",
+          "score": 99
+        },
+        {
+          "keyword": "인천광역시",
+          "score": 98
+        },
+        {
+          "keyword": "노소영",
+          "score": 97
+        },
+        {
+          "keyword": "경기도지사",
+          "score": 96
+        },
+        {
+          "keyword": "연금",
+          "score": 95
+        },
+        {
+          "keyword": "토론",
+          "score": 94
+        },
+        {
+          "keyword": "텐배거",
+          "score": 93
+        },
+        {
+          "keyword": "김상식",
+          "score": 92
+        },
+        {
+          "keyword": "tving",
           "score": 91
         }
       ]
