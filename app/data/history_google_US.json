@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-12T09:42:19.738Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "maps",
-          "score": 100
-        },
-        {
-          "keyword": "notizie del mondo",
-          "score": 99
-        },
-        {
-          "keyword": "best movies to watch now",
-          "score": 98
-        },
-        {
-          "keyword": "taylor swift new album",
-          "score": 97
-        },
-        {
-          "keyword": "best movies on streaming",
-          "score": 96
-        },
-        {
-          "keyword": "iran qatar",
-          "score": 95
-        },
-        {
-          "keyword": "météo cette semaine",
-          "score": 94
-        },
-        {
-          "keyword": "notizie oggi",
-          "score": 93
-        },
-        {
-          "keyword": "que ver en netflix",
-          "score": 92
-        },
-        {
-          "keyword": "tim scott",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-12T11:04:30.651Z",
       "geo": "US",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "news",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-16T10:48:32.405Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "north carolina glp-1 prescription charges",
+          "score": 100
+        },
+        {
+          "keyword": "nolan wells case",
+          "score": 99
+        },
+        {
+          "keyword": "kerrville flooding",
+          "score": 98
+        },
+        {
+          "keyword": "andrey rublev",
+          "score": 97
+        },
+        {
+          "keyword": "local weather",
+          "score": 96
+        },
+        {
+          "keyword": "mass lottery",
+          "score": 95
+        },
+        {
+          "keyword": "todays weather",
+          "score": 94
+        },
+        {
+          "keyword": "casper ruud",
+          "score": 93
+        },
+        {
+          "keyword": "dena karari",
+          "score": 92
+        },
+        {
+          "keyword": "matt fitzpatrick",
           "score": 91
         }
       ]
