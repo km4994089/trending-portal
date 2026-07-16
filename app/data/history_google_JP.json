@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-11T23:43:13.644Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ハーランド",
-          "score": 100
-        },
-        {
-          "keyword": "プリキュア",
-          "score": 99
-        },
-        {
-          "keyword": "吉田正尚",
-          "score": 98
-        },
-        {
-          "keyword": "レゴランド",
-          "score": 97
-        },
-        {
-          "keyword": "ウルフアロン",
-          "score": 96
-        },
-        {
-          "keyword": "ジュビロ磐田",
-          "score": 95
-        },
-        {
-          "keyword": "林陵平 サッカー",
-          "score": 94
-        },
-        {
-          "keyword": "香港",
-          "score": 93
-        },
-        {
-          "keyword": "遺族",
-          "score": 92
-        },
-        {
-          "keyword": "england national football team",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-12T01:45:15.548Z",
       "geo": "JP",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "札幌天気",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-16T00:54:05.353Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "レベル4高潮危険警報",
+          "score": 100
+        },
+        {
+          "keyword": "kospi",
+          "score": 99
+        },
+        {
+          "keyword": "税金",
+          "score": 98
+        },
+        {
+          "keyword": "高校野球 西東京",
+          "score": 97
+        },
+        {
+          "keyword": "メーガン",
+          "score": 96
+        },
+        {
+          "keyword": "神奈川県高校野球",
+          "score": 95
+        },
+        {
+          "keyword": "クレジットカード",
+          "score": 94
+        },
+        {
+          "keyword": "ベルちゃん",
+          "score": 93
+        },
+        {
+          "keyword": "高校野球 神奈川県大会",
+          "score": 92
+        },
+        {
+          "keyword": "菜々緒",
           "score": 91
         }
       ]
