@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-12T18:49:45.815Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "wimbledon",
-          "score": 100
-        },
-        {
-          "keyword": "야닉 시너",
-          "score": 99
-        },
-        {
-          "keyword": "댐",
-          "score": 98
-        },
-        {
-          "keyword": "wec",
-          "score": 97
-        },
-        {
-          "keyword": "심하은",
-          "score": 96
-        },
-        {
-          "keyword": "송종호",
-          "score": 95
-        },
-        {
-          "keyword": "졸음 운전",
-          "score": 94
-        },
-        {
-          "keyword": "철도",
-          "score": 93
-        },
-        {
-          "keyword": "서남용",
-          "score": 92
-        },
-        {
-          "keyword": "항서제약",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-12T20:02:47.799Z",
       "geo": "KR",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "이동국",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-16T19:56:02.502Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "미스 베트남",
+          "score": 100
+        },
+        {
+          "keyword": "김강우",
+          "score": 99
+        },
+        {
+          "keyword": "애니",
+          "score": 98
+        },
+        {
+          "keyword": "주주",
+          "score": 97
+        },
+        {
+          "keyword": "원희룡",
+          "score": 96
+        },
+        {
+          "keyword": "심으뜸",
+          "score": 95
+        },
+        {
+          "keyword": "신혼여행",
+          "score": 94
+        },
+        {
+          "keyword": "오라클",
+          "score": 93
+        },
+        {
+          "keyword": "수도권 광역급행철도",
+          "score": 92
+        },
+        {
+          "keyword": "롤",
           "score": 91
         }
       ]
