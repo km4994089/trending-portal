@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-13T10:49:20.434Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "olivia wilde",
-          "score": 100
-        },
-        {
-          "keyword": "t-mobile us",
-          "score": 99
-        },
-        {
-          "keyword": "dakota johnson",
-          "score": 98
-        },
-        {
-          "keyword": "brent crude oil price",
-          "score": 97
-        },
-        {
-          "keyword": "todays weather",
-          "score": 96
-        },
-        {
-          "keyword": "youri tielemans",
-          "score": 95
-        },
-        {
-          "keyword": "bubba wallace echopark speedway penalty",
-          "score": 94
-        },
-        {
-          "keyword": "aviso de calor",
-          "score": 93
-        },
-        {
-          "keyword": "world cup qualifiers schedule",
-          "score": 92
-        },
-        {
-          "keyword": "extreme heat watch",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-13T13:15:27.060Z",
       "geo": "US",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "news fitness",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-17T11:01:53.617Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "coca cola fairlife",
+          "score": 100
+        },
+        {
+          "keyword": "sheamus",
+          "score": 99
+        },
+        {
+          "keyword": "yulia putintseva",
+          "score": 98
+        },
+        {
+          "keyword": "parke dunkin collab",
+          "score": 97
+        },
+        {
+          "keyword": "william, prince of wales",
+          "score": 96
+        },
+        {
+          "keyword": "air quality index columbus ohio",
+          "score": 95
+        },
+        {
+          "keyword": "kelly clarkson i’d be lyin’",
+          "score": 94
+        },
+        {
+          "keyword": "national hurricane center",
+          "score": 93
+        },
+        {
+          "keyword": "current air quality near me",
+          "score": 92
+        },
+        {
+          "keyword": "cargo ship",
           "score": 91
         }
       ]
