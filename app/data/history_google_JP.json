@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-13T18:15:08.473Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "トヨタ",
-          "score": 100
-        },
-        {
-          "keyword": "古畑任三郎",
-          "score": 99
-        },
-        {
-          "keyword": "aj スタイル ズ",
-          "score": 98
-        },
-        {
-          "keyword": "実刑",
-          "score": 97
-        },
-        {
-          "keyword": "渋滞",
-          "score": 96
-        },
-        {
-          "keyword": "カルビー",
-          "score": 95
-        },
-        {
-          "keyword": "夫を殺したはずなのに",
-          "score": 94
-        },
-        {
-          "keyword": "小野寺 五 典",
-          "score": 93
-        },
-        {
-          "keyword": "ディズニーチケット",
-          "score": 92
-        },
-        {
-          "keyword": "ローソン おにぎり",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-13T19:55:44.087Z",
       "geo": "JP",
       "source": "google",
@@ -2724,6 +2677,53 @@
         },
         {
           "keyword": "峰竜太",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-17T19:37:50.088Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ムーキー ベッツ",
+          "score": 100
+        },
+        {
+          "keyword": "浦田俊輔",
+          "score": 99
+        },
+        {
+          "keyword": "apple",
+          "score": 98
+        },
+        {
+          "keyword": "ヤンマテウス",
+          "score": 97
+        },
+        {
+          "keyword": "潜水艦",
+          "score": 96
+        },
+        {
+          "keyword": "フェイエノールト",
+          "score": 95
+        },
+        {
+          "keyword": "バズリズム",
+          "score": 94
+        },
+        {
+          "keyword": "マグニチュード",
+          "score": 93
+        },
+        {
+          "keyword": "エージェントキム",
+          "score": 92
+        },
+        {
+          "keyword": "柳田悠岐",
           "score": 91
         }
       ]
