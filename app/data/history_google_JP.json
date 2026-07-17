@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-13T16:01:44.484Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "実刑",
-          "score": 100
-        },
-        {
-          "keyword": "渋滞",
-          "score": 99
-        },
-        {
-          "keyword": "カルビー",
-          "score": 98
-        },
-        {
-          "keyword": "夫を殺したはずなのに",
-          "score": 97
-        },
-        {
-          "keyword": "小野寺 五 典",
-          "score": 96
-        },
-        {
-          "keyword": "ディズニーチケット",
-          "score": 95
-        },
-        {
-          "keyword": "ローソン おにぎり",
-          "score": 94
-        },
-        {
-          "keyword": "ミセス スパイダーマン",
-          "score": 93
-        },
-        {
-          "keyword": "刺傷",
-          "score": 92
-        },
-        {
-          "keyword": "the yellow monkey",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-13T18:15:08.473Z",
       "geo": "JP",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "フワちゃん",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-17T16:59:14.184Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "iphone 値上げ",
+          "score": 100
+        },
+        {
+          "keyword": "エージェントキム",
+          "score": 99
+        },
+        {
+          "keyword": "柳田悠岐",
+          "score": 98
+        },
+        {
+          "keyword": "ストレンジ",
+          "score": 97
+        },
+        {
+          "keyword": "太田市 天気",
+          "score": 96
+        },
+        {
+          "keyword": "峰竜太",
+          "score": 95
+        },
+        {
+          "keyword": "フランス対イングランド",
+          "score": 94
+        },
+        {
+          "keyword": "竹田恒泰",
+          "score": 93
+        },
+        {
+          "keyword": "山口茜",
+          "score": 92
+        },
+        {
+          "keyword": "ポケモン 一番くじ",
           "score": 91
         }
       ]
