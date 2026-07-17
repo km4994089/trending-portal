@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-13T13:15:28.210Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김연아",
-          "score": 100
-        },
-        {
-          "keyword": "정호연",
-          "score": 99
-        },
-        {
-          "keyword": "워터파크",
-          "score": 98
-        },
-        {
-          "keyword": "광주광산경찰서",
-          "score": 97
-        },
-        {
-          "keyword": "이준영",
-          "score": 96
-        },
-        {
-          "keyword": "투표용지",
-          "score": 95
-        },
-        {
-          "keyword": "폴드 8",
-          "score": 94
-        },
-        {
-          "keyword": "샤헤드 드론",
-          "score": 93
-        },
-        {
-          "keyword": "한동훈",
-          "score": 92
-        },
-        {
-          "keyword": "석유",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-13T16:01:43.042Z",
       "geo": "KR",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "에코프로 비엠",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-17T14:24:27.604Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "t1 한화",
+          "score": 100
+        },
+        {
+          "keyword": "김부장 드라마",
+          "score": 99
+        },
+        {
+          "keyword": "김상혁",
+          "score": 98
+        },
+        {
+          "keyword": "성과급",
+          "score": 97
+        },
+        {
+          "keyword": "문샷",
+          "score": 96
+        },
+        {
+          "keyword": "明天的天氣",
+          "score": 95
+        },
+        {
+          "keyword": "페이커",
+          "score": 94
+        },
+        {
+          "keyword": "평창대관령음악제",
+          "score": 93
+        },
+        {
+          "keyword": "cuaca besok",
+          "score": 92
+        },
+        {
+          "keyword": "한국은행",
           "score": 91
         }
       ]
