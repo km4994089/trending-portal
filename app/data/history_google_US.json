@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-13T07:46:22.107Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "events",
-          "score": 100
-        },
-        {
-          "keyword": "yoga",
-          "score": 99
-        },
-        {
-          "keyword": "movies",
-          "score": 98
-        },
-        {
-          "keyword": "sports",
-          "score": 97
-        },
-        {
-          "keyword": "hilary duff",
-          "score": 96
-        },
-        {
-          "keyword": "swimming",
-          "score": 95
-        },
-        {
-          "keyword": "toyota",
-          "score": 94
-        },
-        {
-          "keyword": "epstein files",
-          "score": 93
-        },
-        {
-          "keyword": "alaskaair",
-          "score": 92
-        },
-        {
-          "keyword": "kyrie irving",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-13T10:49:20.434Z",
       "geo": "US",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "trojan war",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-17T09:25:05.497Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "valentin vacherot",
+          "score": 100
+        },
+        {
+          "keyword": "liv morgan",
+          "score": 99
+        },
+        {
+          "keyword": "karim khan",
+          "score": 98
+        },
+        {
+          "keyword": "weather today",
+          "score": 97
+        },
+        {
+          "keyword": "fairlife milk",
+          "score": 96
+        },
+        {
+          "keyword": "plot spoiler",
+          "score": 95
+        },
+        {
+          "keyword": "phone",
+          "score": 94
+        },
+        {
+          "keyword": "raphael collignon",
+          "score": 93
+        },
+        {
+          "keyword": "klystron 9",
+          "score": 92
+        },
+        {
+          "keyword": "news fitness",
           "score": 91
         }
       ]

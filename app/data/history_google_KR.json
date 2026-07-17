@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-13T07:46:23.437Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "명태균",
-          "score": 100
-        },
-        {
-          "keyword": "sam neill",
-          "score": 99
-        },
-        {
-          "keyword": "김용범",
-          "score": 98
-        },
-        {
-          "keyword": "노동조합",
-          "score": 97
-        },
-        {
-          "keyword": "삼성 갤럭시",
-          "score": 96
-        },
-        {
-          "keyword": "미국이란 전쟁",
-          "score": 95
-        },
-        {
-          "keyword": "동복댐",
-          "score": 94
-        },
-        {
-          "keyword": "hd한국조선해양",
-          "score": 93
-        },
-        {
-          "keyword": "tsmc 실적 발표",
-          "score": 92
-        },
-        {
-          "keyword": "매매",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-13T10:49:21.393Z",
       "geo": "KR",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "한겨레",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-17T09:25:06.692Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "산사태",
+          "score": 100
+        },
+        {
+          "keyword": "항공사",
+          "score": 99
+        },
+        {
+          "keyword": "강릉역",
+          "score": 98
+        },
+        {
+          "keyword": "intel",
+          "score": 97
+        },
+        {
+          "keyword": "최정",
+          "score": 96
+        },
+        {
+          "keyword": "호프 쿠키 영상",
+          "score": 95
+        },
+        {
+          "keyword": "이다해",
+          "score": 94
+        },
+        {
+          "keyword": "구혜선",
+          "score": 93
+        },
+        {
+          "keyword": "강승호",
+          "score": 92
+        },
+        {
+          "keyword": "침몰",
           "score": 91
         }
       ]
