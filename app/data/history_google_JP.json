@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-13T21:44:12.166Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "フィラデルフィア半導体株指数",
-          "score": 100
-        },
-        {
-          "keyword": "ナスダック総合指数",
-          "score": 99
-        },
-        {
-          "keyword": "江黒早耶香弁護士",
-          "score": 98
-        },
-        {
-          "keyword": "spcx",
-          "score": 97
-        },
-        {
-          "keyword": "太陽誘電",
-          "score": 96
-        },
-        {
-          "keyword": "口先 介入",
-          "score": 95
-        },
-        {
-          "keyword": "野球",
-          "score": 94
-        },
-        {
-          "keyword": "マルコ・ルビオ",
-          "score": 93
-        },
-        {
-          "keyword": "おはよう朝日です",
-          "score": 92
-        },
-        {
-          "keyword": "新潟 天気",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-13T22:44:19.047Z",
       "geo": "JP",
       "source": "google",
@@ -2724,6 +2677,53 @@
         },
         {
           "keyword": "ナスダック総合指数",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-17T22:38:31.311Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "うちの子カード伝説",
+          "score": 100
+        },
+        {
+          "keyword": "ブルーインパルス 徳島",
+          "score": 99
+        },
+        {
+          "keyword": "ヤンキース 対 ドジャース",
+          "score": 98
+        },
+        {
+          "keyword": "横田真悠",
+          "score": 97
+        },
+        {
+          "keyword": "クラウドファンディング",
+          "score": 96
+        },
+        {
+          "keyword": "날씨",
+          "score": 95
+        },
+        {
+          "keyword": "日本放送協会",
+          "score": 94
+        },
+        {
+          "keyword": "アイフォン",
+          "score": 93
+        },
+        {
+          "keyword": "遠藤 航",
+          "score": 92
+        },
+        {
+          "keyword": "北関東道 通行止め",
           "score": 91
         }
       ]
