@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-13T22:44:19.047Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "リチウムイオン電池 発火",
-          "score": 100
-        },
-        {
-          "keyword": "thời tiết",
-          "score": 99
-        },
-        {
-          "keyword": "アルゼンチン対イングランド",
-          "score": 98
-        },
-        {
-          "keyword": "原油価格",
-          "score": 97
-        },
-        {
-          "keyword": "ジブリパーク",
-          "score": 96
-        },
-        {
-          "keyword": "中村倫也",
-          "score": 95
-        },
-        {
-          "keyword": "梅雨明け 東京",
-          "score": 94
-        },
-        {
-          "keyword": "gpif",
-          "score": 93
-        },
-        {
-          "keyword": "高山善廣",
-          "score": 92
-        },
-        {
-          "keyword": "シュン スカイ ウォーカー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-13T23:42:52.821Z",
       "geo": "JP",
       "source": "google",
@@ -2724,6 +2677,53 @@
         },
         {
           "keyword": "北関東道 通行止め",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-17T23:42:08.479Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "青森山田",
+          "score": 100
+        },
+        {
+          "keyword": "ジャッジ",
+          "score": 99
+        },
+        {
+          "keyword": "yankees vs dodgers",
+          "score": 98
+        },
+        {
+          "keyword": "dcm",
+          "score": 97
+        },
+        {
+          "keyword": "ブルワーズ 対 マーリンズ",
+          "score": 96
+        },
+        {
+          "keyword": "トムクルーズ",
+          "score": 95
+        },
+        {
+          "keyword": "高橋一生",
+          "score": 94
+        },
+        {
+          "keyword": "舞の海秀平",
+          "score": 93
+        },
+        {
+          "keyword": "日曜劇場",
+          "score": 92
+        },
+        {
+          "keyword": "京アニ事件",
           "score": 91
         }
       ]
