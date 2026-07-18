@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-14T22:28:52.410Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "直木賞",
-          "score": 100
-        },
-        {
-          "keyword": "クマップ",
-          "score": 99
-        },
-        {
-          "keyword": "小瀧望",
-          "score": 98
-        },
-        {
-          "keyword": "胃がん",
-          "score": 97
-        },
-        {
-          "keyword": "道頓堀 火災",
-          "score": 96
-        },
-        {
-          "keyword": "フェーン現象",
-          "score": 95
-        },
-        {
-          "keyword": "argentina vs england",
-          "score": 94
-        },
-        {
-          "keyword": "ドラム vivant",
-          "score": 93
-        },
-        {
-          "keyword": "ユルゲン・クロップ",
-          "score": 92
-        },
-        {
-          "keyword": "中森明菜 コンサート",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-14T23:24:24.463Z",
       "geo": "JP",
       "source": "google",
@@ -2865,6 +2818,53 @@
         },
         {
           "keyword": "ベリンガム 出場停止",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-18T22:38:04.963Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "マックス マンシー",
+          "score": 100
+        },
+        {
+          "keyword": "走り屋",
+          "score": 99
+        },
+        {
+          "keyword": "長谷川唯",
+          "score": 98
+        },
+        {
+          "keyword": "全国高等学校野球選手権愛知大会",
+          "score": 97
+        },
+        {
+          "keyword": "テレ朝",
+          "score": 96
+        },
+        {
+          "keyword": "バルコラ",
+          "score": 95
+        },
+        {
+          "keyword": "オリー・ワトキンス",
+          "score": 94
+        },
+        {
+          "keyword": "今日のドジャース",
+          "score": 93
+        },
+        {
+          "keyword": "サマーナイトフェスティバル",
+          "score": 92
+        },
+        {
+          "keyword": "サル",
           "score": 91
         }
       ]
