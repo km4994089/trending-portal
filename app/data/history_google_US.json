@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-14T17:02:07.479Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "paula badosa",
-          "score": 100
-        },
-        {
-          "keyword": "v",
-          "score": 99
-        },
-        {
-          "keyword": "e jean carroll",
-          "score": 98
-        },
-        {
-          "keyword": "usaid",
-          "score": 97
-        },
-        {
-          "keyword": "nhl 27",
-          "score": 96
-        },
-        {
-          "keyword": "suni lee",
-          "score": 95
-        },
-        {
-          "keyword": "the mandalorian and grogu digital release",
-          "score": 94
-        },
-        {
-          "keyword": "whoopi goldberg",
-          "score": 93
-        },
-        {
-          "keyword": "ashley hinson",
-          "score": 92
-        },
-        {
-          "keyword": "gervonta davis",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-14T18:35:12.285Z",
       "geo": "US",
       "source": "google",
@@ -2818,6 +2771,53 @@
         },
         {
           "keyword": "karim khan",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-18T17:27:48.227Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "vaccine",
+          "score": 100
+        },
+        {
+          "keyword": "maria sakkari",
+          "score": 99
+        },
+        {
+          "keyword": "alavés - eibar",
+          "score": 98
+        },
+        {
+          "keyword": "weather chicago",
+          "score": 97
+        },
+        {
+          "keyword": "bill ackman",
+          "score": 96
+        },
+        {
+          "keyword": "sandy brondello",
+          "score": 95
+        },
+        {
+          "keyword": "boat",
+          "score": 94
+        },
+        {
+          "keyword": "paula badosa",
+          "score": 93
+        },
+        {
+          "keyword": "denny sanford",
+          "score": 92
+        },
+        {
+          "keyword": "tbt tournament",
           "score": 91
         }
       ]
