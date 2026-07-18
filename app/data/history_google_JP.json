@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-14T18:35:14.510Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "舞の海秀平",
-          "score": 100
-        },
-        {
-          "keyword": "ケンタッキーフライドチキン",
-          "score": 99
-        },
-        {
-          "keyword": "天皇",
-          "score": 98
-        },
-        {
-          "keyword": "france vs spain",
-          "score": 97
-        },
-        {
-          "keyword": "ロベルト・バッジョ",
-          "score": 96
-        },
-        {
-          "keyword": "レベル4高潮危険警報",
-          "score": 95
-        },
-        {
-          "keyword": "2026 年 fifa 世界杯",
-          "score": 94
-        },
-        {
-          "keyword": "ちゃんみな",
-          "score": 93
-        },
-        {
-          "keyword": "相川七瀬",
-          "score": 92
-        },
-        {
-          "keyword": "伊藤あおい",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-14T20:04:17.373Z",
       "geo": "JP",
       "source": "google",
@@ -2865,6 +2818,53 @@
         },
         {
           "keyword": "読売新聞",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-18T19:38:49.651Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "新幹線",
+          "score": 100
+        },
+        {
+          "keyword": "島内颯太郎",
+          "score": 99
+        },
+        {
+          "keyword": "サッカー決勝",
+          "score": 98
+        },
+        {
+          "keyword": "西日本新聞",
+          "score": 97
+        },
+        {
+          "keyword": "山本天翔",
+          "score": 96
+        },
+        {
+          "keyword": "ホテル",
+          "score": 95
+        },
+        {
+          "keyword": "france vs england",
+          "score": 94
+        },
+        {
+          "keyword": "天気天気",
+          "score": 93
+        },
+        {
+          "keyword": "ガーディアンズ 対 パイレーツ",
+          "score": 92
+        },
+        {
+          "keyword": "fifa world cup 2026 final date",
           "score": 91
         }
       ]
