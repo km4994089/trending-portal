@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-14T23:24:21.615Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "alex rodriguez",
-          "score": 100
-        },
-        {
-          "keyword": "chelsea gray",
-          "score": 99
-        },
-        {
-          "keyword": "mike trout",
-          "score": 98
-        },
-        {
-          "keyword": "david ortiz",
-          "score": 97
-        },
-        {
-          "keyword": "chris sale",
-          "score": 96
-        },
-        {
-          "keyword": "h&m",
-          "score": 95
-        },
-        {
-          "keyword": "derek jeter",
-          "score": 94
-        },
-        {
-          "keyword": "howard stern",
-          "score": 93
-        },
-        {
-          "keyword": "mystics vs tempo",
-          "score": 92
-        },
-        {
-          "keyword": "trump prime-time address thursday",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-15T00:11:27.061Z",
       "geo": "US",
       "source": "google",
@@ -2865,6 +2818,53 @@
         },
         {
           "keyword": "levi rodrigues jr.",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-18T23:42:19.135Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "news",
+          "score": 100
+        },
+        {
+          "keyword": "games",
+          "score": 99
+        },
+        {
+          "keyword": "movies",
+          "score": 98
+        },
+        {
+          "keyword": "salad",
+          "score": 97
+        },
+        {
+          "keyword": "fire vs lynx",
+          "score": 96
+        },
+        {
+          "keyword": "barcelona sc - libertad fc",
+          "score": 95
+        },
+        {
+          "keyword": "jude bellingham parents",
+          "score": 94
+        },
+        {
+          "keyword": "tulsi gabbard",
+          "score": 93
+        },
+        {
+          "keyword": "brewers game",
+          "score": 92
+        },
+        {
+          "keyword": "cycling",
           "score": 91
         }
       ]
