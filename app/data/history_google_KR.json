@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-13T23:42:51.716Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "погода",
-          "score": 100
-        },
-        {
-          "keyword": "가족관계증명서",
-          "score": 99
-        },
-        {
-          "keyword": "디지털 자산",
-          "score": 98
-        },
-        {
-          "keyword": "weather",
-          "score": 97
-        },
-        {
-          "keyword": "สภาพอากาศ",
-          "score": 96
-        },
-        {
-          "keyword": "김숙",
-          "score": 95
-        },
-        {
-          "keyword": "天气",
-          "score": 94
-        },
-        {
-          "keyword": "ionq",
-          "score": 93
-        },
-        {
-          "keyword": "nvda",
-          "score": 92
-        },
-        {
-          "keyword": "이정효",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-07-14T01:24:49.440Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "황 유민",
-          "score": 100
-        },
-        {
-          "keyword": "펩 과르디올라",
-          "score": 99
-        },
-        {
-          "keyword": "신진 서",
-          "score": 98
-        },
-        {
-          "keyword": "와우넷",
-          "score": 97
-        },
-        {
-          "keyword": "이천수",
-          "score": 96
-        },
-        {
-          "keyword": "친환경",
-          "score": 95
-        },
-        {
-          "keyword": "제헌절",
-          "score": 94
-        },
-        {
-          "keyword": "단체교섭",
-          "score": 93
-        },
-        {
-          "keyword": "나는 solo",
-          "score": 92
-        },
-        {
-          "keyword": "백승호",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-14T04:21:52.618Z",
       "geo": "KR",
       "source": "google",
@@ -2724,6 +2630,53 @@
         },
         {
           "keyword": "天气",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-18T01:25:53.053Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "뷔",
+          "score": 100
+        },
+        {
+          "keyword": "케빈 워시",
+          "score": 99
+        },
+        {
+          "keyword": "축구 선수",
+          "score": 98
+        },
+        {
+          "keyword": "실업",
+          "score": 97
+        },
+        {
+          "keyword": "mls",
+          "score": 96
+        },
+        {
+          "keyword": "항공모함",
+          "score": 95
+        },
+        {
+          "keyword": "오늘의 운세 중앙일보",
+          "score": 94
+        },
+        {
+          "keyword": "주차",
+          "score": 93
+        },
+        {
+          "keyword": "김부장",
+          "score": 92
+        },
+        {
+          "keyword": "투폴 레프 tu 95",
           "score": 91
         }
       ]
