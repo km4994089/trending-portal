@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-14T15:54:05.600Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "portland fire",
-          "score": 100
-        },
-        {
-          "keyword": "suni lee",
-          "score": 99
-        },
-        {
-          "keyword": "whoopi goldberg",
-          "score": 98
-        },
-        {
-          "keyword": "the mandalorian and grogu digital release",
-          "score": 97
-        },
-        {
-          "keyword": "ashley hinson",
-          "score": 96
-        },
-        {
-          "keyword": "gervonta davis",
-          "score": 95
-        },
-        {
-          "keyword": "amy coney barrett",
-          "score": 94
-        },
-        {
-          "keyword": "dubai uae",
-          "score": 93
-        },
-        {
-          "keyword": "ncis new york",
-          "score": 92
-        },
-        {
-          "keyword": "john leguizamo",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-14T17:02:07.479Z",
       "geo": "US",
       "source": "google",
@@ -2818,6 +2771,53 @@
         },
         {
           "keyword": "andrey rublev",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-18T16:25:34.219Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "scarlett johansson",
+          "score": 100
+        },
+        {
+          "keyword": "amc theatres",
+          "score": 99
+        },
+        {
+          "keyword": "tadej pogačar",
+          "score": 98
+        },
+        {
+          "keyword": "phillies game today",
+          "score": 97
+        },
+        {
+          "keyword": "los angeles police department",
+          "score": 96
+        },
+        {
+          "keyword": "food network",
+          "score": 95
+        },
+        {
+          "keyword": "seattle reign fc vs gotham",
+          "score": 94
+        },
+        {
+          "keyword": "hugo dellien",
+          "score": 93
+        },
+        {
+          "keyword": "ralph norman",
+          "score": 92
+        },
+        {
+          "keyword": "karim khan",
           "score": 91
         }
       ]

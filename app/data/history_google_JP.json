@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-14T15:54:07.967Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ビックカメラ",
-          "score": 100
-        },
-        {
-          "keyword": "伊藤あおい",
-          "score": 99
-        },
-        {
-          "keyword": "longchamp",
-          "score": 98
-        },
-        {
-          "keyword": "ワールドカップ 決勝",
-          "score": 97
-        },
-        {
-          "keyword": "2026 fifa 월드컵",
-          "score": 96
-        },
-        {
-          "keyword": "本田真凜",
-          "score": 95
-        },
-        {
-          "keyword": "愛のハイエナ",
-          "score": 94
-        },
-        {
-          "keyword": "2026 國際足總世界盃",
-          "score": 93
-        },
-        {
-          "keyword": "攻殻機動隊",
-          "score": 92
-        },
-        {
-          "keyword": "バングラデシュ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-14T17:02:09.951Z",
       "geo": "JP",
       "source": "google",
@@ -2818,6 +2771,53 @@
         },
         {
           "keyword": "吉田沙保里",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-18T16:25:36.607Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "読売新聞",
+          "score": 100
+        },
+        {
+          "keyword": "広瀬陸斗",
+          "score": 99
+        },
+        {
+          "keyword": "井桁弘恵",
+          "score": 98
+        },
+        {
+          "keyword": "fcギーセン 対 フランクフルト",
+          "score": 97
+        },
+        {
+          "keyword": "サクサクヒムヒム",
+          "score": 96
+        },
+        {
+          "keyword": "イオン 駐車場 事故",
+          "score": 95
+        },
+        {
+          "keyword": "マンチェスターユナイテッド",
+          "score": 94
+        },
+        {
+          "keyword": "2026 fifa 월드컵",
+          "score": 93
+        },
+        {
+          "keyword": "man united vs wrexham",
+          "score": 92
+        },
+        {
+          "keyword": "mutv",
           "score": 91
         }
       ]
