@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-15T03:42:22.596Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "지효",
-          "score": 100
-        },
-        {
-          "keyword": "맷 랜들",
-          "score": 99
-        },
-        {
-          "keyword": "머더클럽",
-          "score": 98
-        },
-        {
-          "keyword": "수비수",
-          "score": 97
-        },
-        {
-          "keyword": "로켓",
-          "score": 96
-        },
-        {
-          "keyword": "청주시의원",
-          "score": 95
-        },
-        {
-          "keyword": "에코프로비엠",
-          "score": 94
-        },
-        {
-          "keyword": "김서현",
-          "score": 93
-        },
-        {
-          "keyword": "황우석",
-          "score": 92
-        },
-        {
-          "keyword": "왕옌청",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-15T06:06:42.599Z",
       "geo": "KR",
       "source": "google",
@@ -2865,6 +2818,53 @@
         },
         {
           "keyword": "국방부",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-19T05:10:52.615Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "박주호",
+          "score": 100
+        },
+        {
+          "keyword": "추미애",
+          "score": 99
+        },
+        {
+          "keyword": "허경영",
+          "score": 98
+        },
+        {
+          "keyword": "대박",
+          "score": 97
+        },
+        {
+          "keyword": "1인당 국민소득",
+          "score": 96
+        },
+        {
+          "keyword": "이혼 소송",
+          "score": 95
+        },
+        {
+          "keyword": "살림하는 남자들",
+          "score": 94
+        },
+        {
+          "keyword": "이현중",
+          "score": 93
+        },
+        {
+          "keyword": "슈퍼맨이 돌아왔다",
+          "score": 92
+        },
+        {
+          "keyword": "구계리",
           "score": 91
         }
       ]
