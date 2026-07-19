@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-15T00:11:28.420Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "인도",
-          "score": 100
-        },
-        {
-          "keyword": "카를로스 알카라스",
-          "score": 99
-        },
-        {
-          "keyword": "윤종훈",
-          "score": 98
-        },
-        {
-          "keyword": "추신수",
-          "score": 97
-        },
-        {
-          "keyword": "argentina vs england",
-          "score": 96
-        },
-        {
-          "keyword": "강원특별자치도청",
-          "score": 95
-        },
-        {
-          "keyword": "잉글랜드 대 아르헨티나",
-          "score": 94
-        },
-        {
-          "keyword": "이찬원",
-          "score": 93
-        },
-        {
-          "keyword": "이강인",
-          "score": 92
-        },
-        {
-          "keyword": "축구 선수",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-15T03:42:22.596Z",
       "geo": "KR",
       "source": "google",
@@ -2865,6 +2818,53 @@
         },
         {
           "keyword": "argentina vs spain",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-19T01:43:55.971Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "선박",
+          "score": 100
+        },
+        {
+          "keyword": "두산베어스",
+          "score": 99
+        },
+        {
+          "keyword": "수익",
+          "score": 98
+        },
+        {
+          "keyword": "세계일보",
+          "score": 97
+        },
+        {
+          "keyword": "놀면 뭐하니?",
+          "score": 96
+        },
+        {
+          "keyword": "디 오픈 챔피언십",
+          "score": 95
+        },
+        {
+          "keyword": "제이크 폴",
+          "score": 94
+        },
+        {
+          "keyword": "월드컵 우승",
+          "score": 93
+        },
+        {
+          "keyword": "아르헨티나 축구 국가대표팀",
+          "score": 92
+        },
+        {
+          "keyword": "국방부",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-15T00:11:29.831Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "税金",
-          "score": 100
-        },
-        {
-          "keyword": "mlbオールスター2026",
-          "score": 99
-        },
-        {
-          "keyword": "スポーツナビ",
-          "score": 98
-        },
-        {
-          "keyword": "イラン海軍",
-          "score": 97
-        },
-        {
-          "keyword": "kb5101650",
-          "score": 96
-        },
-        {
-          "keyword": "北陸新幹線",
-          "score": 95
-        },
-        {
-          "keyword": "ワールドカップ 選手",
-          "score": 94
-        },
-        {
-          "keyword": "武田修宏",
-          "score": 93
-        },
-        {
-          "keyword": "菅楓華",
-          "score": 92
-        },
-        {
-          "keyword": "西野朗",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-15T03:42:23.517Z",
       "geo": "JP",
       "source": "google",
@@ -2865,6 +2818,53 @@
         },
         {
           "keyword": "世足",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-19T01:43:57.139Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "狩野英孝",
+          "score": 100
+        },
+        {
+          "keyword": "ヘンリー王子",
+          "score": 99
+        },
+        {
+          "keyword": "gto 反町隆史",
+          "score": 98
+        },
+        {
+          "keyword": "栃木県高校野球",
+          "score": 97
+        },
+        {
+          "keyword": "高校野球広島大会",
+          "score": 96
+        },
+        {
+          "keyword": "大分県高校野球",
+          "score": 95
+        },
+        {
+          "keyword": "高校野球大阪大会",
+          "score": 94
+        },
+        {
+          "keyword": "石原伸晃",
+          "score": 93
+        },
+        {
+          "keyword": "ショッピングセンター",
+          "score": 92
+        },
+        {
+          "keyword": "後藤洋央紀",
           "score": 91
         }
       ]
