@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-15T20:01:58.001Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "アンダーソン",
-          "score": 100
-        },
-        {
-          "keyword": "47news",
-          "score": 99
-        },
-        {
-          "keyword": "fifa world cup 2026™",
-          "score": 98
-        },
-        {
-          "keyword": "piala dunia 2026",
-          "score": 97
-        },
-        {
-          "keyword": "piala dunia fifa 2026",
-          "score": 96
-        },
-        {
-          "keyword": "ヴィニシウス・ジュニオール",
-          "score": 95
-        },
-        {
-          "keyword": "2022 ワールドカップ",
-          "score": 94
-        },
-        {
-          "keyword": "シメオネ ベッカム",
-          "score": 93
-        },
-        {
-          "keyword": "ベリンガム",
-          "score": 92
-        },
-        {
-          "keyword": "ハリーケイン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-15T21:27:12.196Z",
       "geo": "JP",
       "source": "google",
@@ -3053,6 +3006,53 @@
         },
         {
           "keyword": "バロンドール",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-19T21:11:41.044Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "現金",
+          "score": 100
+        },
+        {
+          "keyword": "ニコウィリアムズ",
+          "score": 99
+        },
+        {
+          "keyword": "熱中症警戒アラート",
+          "score": 98
+        },
+        {
+          "keyword": "レアル マドリード",
+          "score": 97
+        },
+        {
+          "keyword": "アルカラス",
+          "score": 96
+        },
+        {
+          "keyword": "ロメロ",
+          "score": 95
+        },
+        {
+          "keyword": "ビヨンセ",
+          "score": 94
+        },
+        {
+          "keyword": "スペイン ユニフォーム",
+          "score": 93
+        },
+        {
+          "keyword": "サッカー結果",
+          "score": 92
+        },
+        {
+          "keyword": "スペイン オルモ",
           "score": 91
         }
       ]
