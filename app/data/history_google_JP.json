@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-15T12:09:11.460Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "阪神",
-          "score": 100
-        },
-        {
-          "keyword": "橋本環奈",
-          "score": 99
-        },
-        {
-          "keyword": "速水もこみち",
-          "score": 98
-        },
-        {
-          "keyword": "cuaca besok",
-          "score": 97
-        },
-        {
-          "keyword": "朝メシまで",
-          "score": 96
-        },
-        {
-          "keyword": "king gnu",
-          "score": 95
-        },
-        {
-          "keyword": "小原ブラス",
-          "score": 94
-        },
-        {
-          "keyword": "thời tiết ngày mai",
-          "score": 93
-        },
-        {
-          "keyword": "xsmb",
-          "score": 92
-        },
-        {
-          "keyword": "西本圭吾",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-15T14:17:06.328Z",
       "geo": "JP",
       "source": "google",
@@ -2865,6 +2818,53 @@
         },
         {
           "keyword": "高見",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-19T12:10:48.322Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "マカオ",
+          "score": 100
+        },
+        {
+          "keyword": "警告試合",
+          "score": 99
+        },
+        {
+          "keyword": "代打",
+          "score": 98
+        },
+        {
+          "keyword": "his",
+          "score": 97
+        },
+        {
+          "keyword": "オリンピック",
+          "score": 96
+        },
+        {
+          "keyword": "日曜劇場 vivant",
+          "score": 95
+        },
+        {
+          "keyword": "みやぞん",
+          "score": 94
+        },
+        {
+          "keyword": "三山ひろし",
+          "score": 93
+        },
+        {
+          "keyword": "安青錦新大",
+          "score": 92
+        },
+        {
+          "keyword": "東京ドーム",
           "score": 91
         }
       ]
