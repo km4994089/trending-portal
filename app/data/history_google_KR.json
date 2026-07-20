@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-16T22:48:43.143Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김호령",
-          "score": 100
-        },
-        {
-          "keyword": "schd",
-          "score": 99
-        },
-        {
-          "keyword": "파업",
-          "score": 98
-        },
-        {
-          "keyword": "정호영",
-          "score": 97
-        },
-        {
-          "keyword": "주식",
-          "score": 96
-        },
-        {
-          "keyword": "mu",
-          "score": 95
-        },
-        {
-          "keyword": "koru",
-          "score": 94
-        },
-        {
-          "keyword": "축구 결승",
-          "score": 93
-        },
-        {
-          "keyword": "영화",
-          "score": 92
-        },
-        {
-          "keyword": "에코프로비엠",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-16T23:48:58.139Z",
       "geo": "KR",
       "source": "google",
@@ -2912,6 +2865,53 @@
         },
         {
           "keyword": "김숙",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-20T23:46:25.044Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "2030 년 fifa 월드컵",
+          "score": 100
+        },
+        {
+          "keyword": "재산세",
+          "score": 99
+        },
+        {
+          "keyword": "크리스 페덱",
+          "score": 98
+        },
+        {
+          "keyword": "한화솔루션",
+          "score": 97
+        },
+        {
+          "keyword": "임수향",
+          "score": 96
+        },
+        {
+          "keyword": "워렌 버핏",
+          "score": 95
+        },
+        {
+          "keyword": "아시안 게임",
+          "score": 94
+        },
+        {
+          "keyword": "록히드 마틴",
+          "score": 93
+        },
+        {
+          "keyword": "weather",
+          "score": 92
+        },
+        {
+          "keyword": "대학수학능력시험",
           "score": 91
         }
       ]

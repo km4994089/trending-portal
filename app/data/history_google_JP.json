@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-16T22:48:44.499Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "東京 天気",
-          "score": 100
-        },
-        {
-          "keyword": "日本経済新聞",
-          "score": 99
-        },
-        {
-          "keyword": "江藤愛",
-          "score": 98
-        },
-        {
-          "keyword": "フィッシャーズ",
-          "score": 97
-        },
-        {
-          "keyword": "nhk 受信料",
-          "score": 96
-        },
-        {
-          "keyword": "gmo",
-          "score": 95
-        },
-        {
-          "keyword": "ニチレイショック",
-          "score": 94
-        },
-        {
-          "keyword": "仙台天気",
-          "score": 93
-        },
-        {
-          "keyword": "女子シングルス",
-          "score": 92
-        },
-        {
-          "keyword": "android",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-16T23:48:59.484Z",
       "geo": "JP",
       "source": "google",
@@ -2912,6 +2865,53 @@
         },
         {
           "keyword": "相模原市",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-20T23:46:26.295Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "上坂樹里",
+          "score": 100
+        },
+        {
+          "keyword": "菊間千乃",
+          "score": 99
+        },
+        {
+          "keyword": "nikkei",
+          "score": 98
+        },
+        {
+          "keyword": "ブルワーズ 対 メッツ",
+          "score": 97
+        },
+        {
+          "keyword": "恵理",
+          "score": 96
+        },
+        {
+          "keyword": "メッシ",
+          "score": 95
+        },
+        {
+          "keyword": "熱中症特別警戒アラート",
+          "score": 94
+        },
+        {
+          "keyword": "yuto-ice",
+          "score": 93
+        },
+        {
+          "keyword": "めざましテレビ 占い",
+          "score": 92
+        },
+        {
+          "keyword": "望月理恵",
           "score": 91
         }
       ]
