@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-16T15:56:22.111Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ann li",
-          "score": 100
-        },
-        {
-          "keyword": "rklb",
-          "score": 99
-        },
-        {
-          "keyword": "ian baker finch",
-          "score": 98
-        },
-        {
-          "keyword": "today show",
-          "score": 97
-        },
-        {
-          "keyword": "orcl stock",
-          "score": 96
-        },
-        {
-          "keyword": "kimi k3",
-          "score": 95
-        },
-        {
-          "keyword": "us mint",
-          "score": 94
-        },
-        {
-          "keyword": "alexander bublik",
-          "score": 93
-        },
-        {
-          "keyword": "u.s. department of homeland security",
-          "score": 92
-        },
-        {
-          "keyword": "new england patriots",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-16T17:04:37.161Z",
       "geo": "US",
       "source": "google",
@@ -2959,6 +2912,53 @@
         },
         {
           "keyword": "aapl",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-20T16:50:51.464Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "military air base",
+          "score": 100
+        },
+        {
+          "keyword": "artificial sweeteners cognitive decline",
+          "score": 99
+        },
+        {
+          "keyword": "le'veon bell",
+          "score": 98
+        },
+        {
+          "keyword": "new jersey meteorite organic molecules",
+          "score": 97
+        },
+        {
+          "keyword": "elizabeth ii",
+          "score": 96
+        },
+        {
+          "keyword": "pep guardiola",
+          "score": 95
+        },
+        {
+          "keyword": "ignacio buse",
+          "score": 94
+        },
+        {
+          "keyword": "jersey mike's ipo",
+          "score": 93
+        },
+        {
+          "keyword": "incendiary device",
+          "score": 92
+        },
+        {
+          "keyword": "field of dreams game 2026",
           "score": 91
         }
       ]
