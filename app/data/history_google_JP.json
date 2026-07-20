@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-16T21:58:23.633Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "thời tiết",
-          "score": 100
-        },
-        {
-          "keyword": "schd",
-          "score": 99
-        },
-        {
-          "keyword": "フランス対イングランド",
-          "score": 98
-        },
-        {
-          "keyword": "女子サッカー",
-          "score": 97
-        },
-        {
-          "keyword": "堂本剛",
-          "score": 96
-        },
-        {
-          "keyword": "ナスダック100指数",
-          "score": 95
-        },
-        {
-          "keyword": "spcx",
-          "score": 94
-        },
-        {
-          "keyword": "福島市 天気",
-          "score": 93
-        },
-        {
-          "keyword": "sony",
-          "score": 92
-        },
-        {
-          "keyword": "松山英樹 速報 リーダーボード",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-16T22:48:44.499Z",
       "geo": "JP",
       "source": "google",
@@ -2912,6 +2865,53 @@
         },
         {
           "keyword": "相模原市 コンビニ 事件",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-20T22:45:40.667Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "めざましテレビ 占い",
+          "score": 100
+        },
+        {
+          "keyword": "望月理恵",
+          "score": 99
+        },
+        {
+          "keyword": "フィリーズ 対 ドジャース",
+          "score": 98
+        },
+        {
+          "keyword": "ガーディアンズ 対 ツインズ",
+          "score": 97
+        },
+        {
+          "keyword": "慈善コンサート",
+          "score": 96
+        },
+        {
+          "keyword": "森下翔太",
+          "score": 95
+        },
+        {
+          "keyword": "新 馬",
+          "score": 94
+        },
+        {
+          "keyword": "ラジオ",
+          "score": 93
+        },
+        {
+          "keyword": "schd",
+          "score": 92
+        },
+        {
+          "keyword": "相模原市",
           "score": 91
         }
       ]
