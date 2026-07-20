@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-16T19:56:03.791Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "孫",
-          "score": 100
-        },
-        {
-          "keyword": "2026",
-          "score": 99
-        },
-        {
-          "keyword": "ロサンゼルス ドジャース",
-          "score": 98
-        },
-        {
-          "keyword": "生活保護",
-          "score": 97
-        },
-        {
-          "keyword": "ナンバーズ当選番号",
-          "score": 96
-        },
-        {
-          "keyword": "戸郷翔征",
-          "score": 95
-        },
-        {
-          "keyword": "グラブル 浴衣オシリス",
-          "score": 94
-        },
-        {
-          "keyword": "水泳",
-          "score": 93
-        },
-        {
-          "keyword": "岡部たかし",
-          "score": 92
-        },
-        {
-          "keyword": "レベル4大雨危険警報",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-16T20:46:47.721Z",
       "geo": "JP",
       "source": "google",
@@ -2912,6 +2865,53 @@
         },
         {
           "keyword": "tohoシネマズ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-20T20:15:41.182Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ロサンゼルス・ドジャース",
+          "score": 100
+        },
+        {
+          "keyword": "メジャーリーグベースボール",
+          "score": 99
+        },
+        {
+          "keyword": "藤浪晋太郎",
+          "score": 98
+        },
+        {
+          "keyword": "動画",
+          "score": 97
+        },
+        {
+          "keyword": "藤川 球児",
+          "score": 96
+        },
+        {
+          "keyword": "マイクロンテクノロジー株価",
+          "score": 95
+        },
+        {
+          "keyword": "ダウ",
+          "score": 94
+        },
+        {
+          "keyword": "フィリピン海軍",
+          "score": 93
+        },
+        {
+          "keyword": "舞の海秀平",
+          "score": 92
+        },
+        {
+          "keyword": "熱中症警戒アラート",
           "score": 91
         }
       ]
