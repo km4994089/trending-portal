@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-16T14:30:00.064Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "カナダ 山火事",
-          "score": 100
-        },
-        {
-          "keyword": "仲里依紗",
-          "score": 99
-        },
-        {
-          "keyword": "小雪",
-          "score": 98
-        },
-        {
-          "keyword": "連邦 準備 制度 理事 会 議長",
-          "score": 97
-        },
-        {
-          "keyword": "住宅火災",
-          "score": 96
-        },
-        {
-          "keyword": "安川電機 株価",
-          "score": 95
-        },
-        {
-          "keyword": "便注入",
-          "score": 94
-        },
-        {
-          "keyword": "通学",
-          "score": 93
-        },
-        {
-          "keyword": "ラストノート",
-          "score": 92
-        },
-        {
-          "keyword": "黒田清子",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-16T15:56:24.620Z",
       "geo": "JP",
       "source": "google",
@@ -2959,6 +2912,53 @@
         },
         {
           "keyword": "내일 날씨",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-20T15:11:54.837Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "東宝シネマズ",
+          "score": 100
+        },
+        {
+          "keyword": "槙野智章",
+          "score": 99
+        },
+        {
+          "keyword": "ハンター グッドマン",
+          "score": 98
+        },
+        {
+          "keyword": "tohoシネマズ",
+          "score": 97
+        },
+        {
+          "keyword": "夫を殺したはずなのに",
+          "score": 96
+        },
+        {
+          "keyword": "天神祭",
+          "score": 95
+        },
+        {
+          "keyword": "マイクロン 株価",
+          "score": 94
+        },
+        {
+          "keyword": "相模原市中央区下九沢",
+          "score": 93
+        },
+        {
+          "keyword": "sox",
+          "score": 92
+        },
+        {
+          "keyword": "全日空",
           "score": 91
         }
       ]

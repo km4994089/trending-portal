@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-16T14:29:58.901Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "샘킴",
-          "score": 100
-        },
-        {
-          "keyword": "채널a",
-          "score": 99
-        },
-        {
-          "keyword": "김성령",
-          "score": 98
-        },
-        {
-          "keyword": "김나영",
-          "score": 97
-        },
-        {
-          "keyword": "배나라",
-          "score": 96
-        },
-        {
-          "keyword": "골재",
-          "score": 95
-        },
-        {
-          "keyword": "cuaca besok",
-          "score": 94
-        },
-        {
-          "keyword": "england vs india",
-          "score": 93
-        },
-        {
-          "keyword": "明天的天氣",
-          "score": 92
-        },
-        {
-          "keyword": "협박",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-16T15:56:23.156Z",
       "geo": "KR",
       "source": "google",
@@ -2959,6 +2912,53 @@
         },
         {
           "keyword": "김재원",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-20T15:11:53.625Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "치어리더",
+          "score": 100
+        },
+        {
+          "keyword": "어벤져스 둠스데이",
+          "score": 99
+        },
+        {
+          "keyword": "남도일보",
+          "score": 98
+        },
+        {
+          "keyword": "정지선",
+          "score": 97
+        },
+        {
+          "keyword": "톰홀랜드",
+          "score": 96
+        },
+        {
+          "keyword": "홍지민",
+          "score": 95
+        },
+        {
+          "keyword": "하주석",
+          "score": 94
+        },
+        {
+          "keyword": "장민호",
+          "score": 93
+        },
+        {
+          "keyword": "아이유",
+          "score": 92
+        },
+        {
+          "keyword": "내일도 출근",
           "score": 91
         }
       ]
