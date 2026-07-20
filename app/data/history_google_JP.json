@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-16T06:09:43.764Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "木村庄之助",
-          "score": 100
-        },
-        {
-          "keyword": "コール オブ デューティシリーズ",
-          "score": 99
-        },
-        {
-          "keyword": "松井秀喜",
-          "score": 98
-        },
-        {
-          "keyword": "京都国際",
-          "score": 97
-        },
-        {
-          "keyword": "ヨルダン",
-          "score": 96
-        },
-        {
-          "keyword": "東尾 理子",
-          "score": 95
-        },
-        {
-          "keyword": "アーロン・ジャッジ",
-          "score": 94
-        },
-        {
-          "keyword": "洪 明 甫",
-          "score": 93
-        },
-        {
-          "keyword": "福岡県",
-          "score": 92
-        },
-        {
-          "keyword": "アエラホーム",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-16T08:38:27.880Z",
       "geo": "JP",
       "source": "google",
@@ -3006,6 +2959,53 @@
         },
         {
           "keyword": "自由が丘駅",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-20T07:51:18.950Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "滝澤夏央",
+          "score": 100
+        },
+        {
+          "keyword": "ダブルインパクト 決勝",
+          "score": 99
+        },
+        {
+          "keyword": "韓国総合株価指数",
+          "score": 98
+        },
+        {
+          "keyword": "朝乃山",
+          "score": 97
+        },
+        {
+          "keyword": "上沼恵美子",
+          "score": 96
+        },
+        {
+          "keyword": "白浜久",
+          "score": 95
+        },
+        {
+          "keyword": "舞の海",
+          "score": 94
+        },
+        {
+          "keyword": "周東佑京",
+          "score": 93
+        },
+        {
+          "keyword": "オリックス",
+          "score": 92
+        },
+        {
+          "keyword": "尾道インターチェンジ",
           "score": 91
         }
       ]
