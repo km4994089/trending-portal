@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-17T23:42:08.479Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "青森山田",
-          "score": 100
-        },
-        {
-          "keyword": "ジャッジ",
-          "score": 99
-        },
-        {
-          "keyword": "yankees vs dodgers",
-          "score": 98
-        },
-        {
-          "keyword": "dcm",
-          "score": 97
-        },
-        {
-          "keyword": "ブルワーズ 対 マーリンズ",
-          "score": 96
-        },
-        {
-          "keyword": "トムクルーズ",
-          "score": 95
-        },
-        {
-          "keyword": "高橋一生",
-          "score": 94
-        },
-        {
-          "keyword": "舞の海秀平",
-          "score": 93
-        },
-        {
-          "keyword": "日曜劇場",
-          "score": 92
-        },
-        {
-          "keyword": "京アニ事件",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-18T01:25:54.206Z",
       "geo": "JP",
       "source": "google",
@@ -2771,6 +2724,53 @@
         },
         {
           "keyword": "古橋亨梧",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-21T23:47:44.873Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "坂口涼太郎",
+          "score": 100
+        },
+        {
+          "keyword": "wbgt",
+          "score": 99
+        },
+        {
+          "keyword": "ティアフォー",
+          "score": 98
+        },
+        {
+          "keyword": "フィリーズ",
+          "score": 97
+        },
+        {
+          "keyword": "ロイヤルズ 対 ジャイアンツ",
+          "score": 96
+        },
+        {
+          "keyword": "八街市",
+          "score": 95
+        },
+        {
+          "keyword": "すき家 福袋",
+          "score": 94
+        },
+        {
+          "keyword": "dead by daylight",
+          "score": 93
+        },
+        {
+          "keyword": "いわき市天気",
+          "score": 92
+        },
+        {
+          "keyword": "ミンキーモモ",
           "score": 91
         }
       ]

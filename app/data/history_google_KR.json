@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-17T23:42:07.096Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "수사",
-          "score": 100
-        },
-        {
-          "keyword": "수성구",
-          "score": 99
-        },
-        {
-          "keyword": "전시 작전통제권",
-          "score": 98
-        },
-        {
-          "keyword": "경기도교육감",
-          "score": 97
-        },
-        {
-          "keyword": "2026",
-          "score": 96
-        },
-        {
-          "keyword": "weather",
-          "score": 95
-        },
-        {
-          "keyword": "tsla",
-          "score": 94
-        },
-        {
-          "keyword": "테슬라",
-          "score": 93
-        },
-        {
-          "keyword": "สภาพอากาศ",
-          "score": 92
-        },
-        {
-          "keyword": "天气",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-18T01:25:53.053Z",
       "geo": "KR",
       "source": "google",
@@ -2771,6 +2724,53 @@
         },
         {
           "keyword": "박나래",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-21T23:47:43.582Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "구속영장",
+          "score": 100
+        },
+        {
+          "keyword": "아파트",
+          "score": 99
+        },
+        {
+          "keyword": "논쟁",
+          "score": 98
+        },
+        {
+          "keyword": "박위",
+          "score": 97
+        },
+        {
+          "keyword": "김민재",
+          "score": 96
+        },
+        {
+          "keyword": "googl",
+          "score": 95
+        },
+        {
+          "keyword": "레오 14세",
+          "score": 94
+        },
+        {
+          "keyword": "tsla",
+          "score": 93
+        },
+        {
+          "keyword": "줄기세포",
+          "score": 92
+        },
+        {
+          "keyword": "hd현대중공업",
           "score": 91
         }
       ]
