@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-17T01:45:24.836Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "曺貴裁",
-          "score": 100
-        },
-        {
-          "keyword": "吉野家 ドラクエウォーク",
-          "score": 99
-        },
-        {
-          "keyword": "藤浪晋太郎",
-          "score": 98
-        },
-        {
-          "keyword": "大相撲名古屋場所",
-          "score": 97
-        },
-        {
-          "keyword": "リョウガ",
-          "score": 96
-        },
-        {
-          "keyword": "バイソン",
-          "score": 95
-        },
-        {
-          "keyword": "税金",
-          "score": 94
-        },
-        {
-          "keyword": "エボラ出血熱",
-          "score": 93
-        },
-        {
-          "keyword": "日経平均",
-          "score": 92
-        },
-        {
-          "keyword": "秋篠宮",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-07-17T04:53:51.646Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "浦和レッドダイヤモンズ",
-          "score": 100
-        },
-        {
-          "keyword": "ヒルナンデス",
-          "score": 99
-        },
-        {
-          "keyword": "鬼越 トマホーク 渡部",
-          "score": 98
-        },
-        {
-          "keyword": "東京電力",
-          "score": 97
-        },
-        {
-          "keyword": "あいみょん",
-          "score": 96
-        },
-        {
-          "keyword": "フジロック・フェスティバル",
-          "score": 95
-        },
-        {
-          "keyword": "高校野球 熊本",
-          "score": 94
-        },
-        {
-          "keyword": "ニュース",
-          "score": 93
-        },
-        {
-          "keyword": "赤楚衛二",
-          "score": 92
-        },
-        {
-          "keyword": "天気 雨雲レーダー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-17T07:10:14.361Z",
       "geo": "JP",
       "source": "google",
@@ -2912,6 +2818,53 @@
         },
         {
           "keyword": "ソニーフィナンシャルグループ 株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-21T04:58:40.619Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "皇室 典範 改正",
+          "score": 100
+        },
+        {
+          "keyword": "高校野球愛媛大会",
+          "score": 99
+        },
+        {
+          "keyword": "臼井麗香",
+          "score": 98
+        },
+        {
+          "keyword": "黒柳徹子",
+          "score": 97
+        },
+        {
+          "keyword": "ヒルナンデス",
+          "score": 96
+        },
+        {
+          "keyword": "伊集院光",
+          "score": 95
+        },
+        {
+          "keyword": "セレクションセール 2026",
+          "score": 94
+        },
+        {
+          "keyword": "アンディバーナム氏",
+          "score": 93
+        },
+        {
+          "keyword": "骨太の方針",
+          "score": 92
+        },
+        {
+          "keyword": "ルーラーシップ ウマ娘",
           "score": 91
         }
       ]
