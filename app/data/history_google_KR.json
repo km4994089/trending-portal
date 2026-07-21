@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-17T16:59:12.910Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "al",
-          "score": 100
-        },
-        {
-          "keyword": "더중앙플러스",
-          "score": 99
-        },
-        {
-          "keyword": "아덴 만",
-          "score": 98
-        },
-        {
-          "keyword": "김송",
-          "score": 97
-        },
-        {
-          "keyword": "백령도",
-          "score": 96
-        },
-        {
-          "keyword": "오은영 리포트 - 결혼지옥",
-          "score": 95
-        },
-        {
-          "keyword": "t1 한화",
-          "score": 94
-        },
-        {
-          "keyword": "김부장 드라마",
-          "score": 93
-        },
-        {
-          "keyword": "김상혁",
-          "score": 92
-        },
-        {
-          "keyword": "문샷",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-17T18:05:34.239Z",
       "geo": "KR",
       "source": "google",
@@ -2818,6 +2771,53 @@
         },
         {
           "keyword": "원자력",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-21T17:49:24.503Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "악어",
+          "score": 100
+        },
+        {
+          "keyword": "다이 소",
+          "score": 99
+        },
+        {
+          "keyword": "앤서니 테일러",
+          "score": 98
+        },
+        {
+          "keyword": "하트시그널5",
+          "score": 97
+        },
+        {
+          "keyword": "박기량",
+          "score": 96
+        },
+        {
+          "keyword": "정철원",
+          "score": 95
+        },
+        {
+          "keyword": "킬러들의 쇼핑몰 시즌2",
+          "score": 94
+        },
+        {
+          "keyword": "코스닥",
+          "score": 93
+        },
+        {
+          "keyword": "달",
+          "score": 92
+        },
+        {
+          "keyword": "시리아",
           "score": 91
         }
       ]
