@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-17T09:25:06.692Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "산사태",
-          "score": 100
-        },
-        {
-          "keyword": "항공사",
-          "score": 99
-        },
-        {
-          "keyword": "강릉역",
-          "score": 98
-        },
-        {
-          "keyword": "intel",
-          "score": 97
-        },
-        {
-          "keyword": "최정",
-          "score": 96
-        },
-        {
-          "keyword": "호프 쿠키 영상",
-          "score": 95
-        },
-        {
-          "keyword": "이다해",
-          "score": 94
-        },
-        {
-          "keyword": "구혜선",
-          "score": 93
-        },
-        {
-          "keyword": "강승호",
-          "score": 92
-        },
-        {
-          "keyword": "침몰",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-17T11:01:54.900Z",
       "geo": "KR",
       "source": "google",
@@ -2865,6 +2818,53 @@
         },
         {
           "keyword": "비니시우스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-21T10:14:17.056Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김예림",
+          "score": 100
+        },
+        {
+          "keyword": "애플 카드",
+          "score": 99
+        },
+        {
+          "keyword": "행정",
+          "score": 98
+        },
+        {
+          "keyword": "메가프로젝트",
+          "score": 97
+        },
+        {
+          "keyword": "로스앤젤레스 레이커스",
+          "score": 96
+        },
+        {
+          "keyword": "삼성 대 키움",
+          "score": 95
+        },
+        {
+          "keyword": "ssg 대 롯데",
+          "score": 94
+        },
+        {
+          "keyword": "두산 대 kt",
+          "score": 93
+        },
+        {
+          "keyword": "압류",
+          "score": 92
+        },
+        {
+          "keyword": "구제역",
           "score": 91
         }
       ]

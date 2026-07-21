@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-17T09:25:05.497Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "valentin vacherot",
-          "score": 100
-        },
-        {
-          "keyword": "liv morgan",
-          "score": 99
-        },
-        {
-          "keyword": "karim khan",
-          "score": 98
-        },
-        {
-          "keyword": "weather today",
-          "score": 97
-        },
-        {
-          "keyword": "fairlife milk",
-          "score": 96
-        },
-        {
-          "keyword": "plot spoiler",
-          "score": 95
-        },
-        {
-          "keyword": "phone",
-          "score": 94
-        },
-        {
-          "keyword": "raphael collignon",
-          "score": 93
-        },
-        {
-          "keyword": "klystron 9",
-          "score": 92
-        },
-        {
-          "keyword": "news fitness",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-17T11:01:53.617Z",
       "geo": "US",
       "source": "google",
@@ -2865,6 +2818,53 @@
         },
         {
           "keyword": "flau'jae johnson",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-21T10:14:15.819Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "disney",
+          "score": 100
+        },
+        {
+          "keyword": "app",
+          "score": 99
+        },
+        {
+          "keyword": "sinja kraus",
+          "score": 98
+        },
+        {
+          "keyword": "driver",
+          "score": 97
+        },
+        {
+          "keyword": "shawn trujillo",
+          "score": 96
+        },
+        {
+          "keyword": "flood watch",
+          "score": 95
+        },
+        {
+          "keyword": "new york times",
+          "score": 94
+        },
+        {
+          "keyword": "jan lennard struff",
+          "score": 93
+        },
+        {
+          "keyword": "onepay upgrade personal loan",
+          "score": 92
+        },
+        {
+          "keyword": "juan manuel cerundolo",
           "score": 91
         }
       ]
