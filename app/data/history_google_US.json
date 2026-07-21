@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-17T15:52:21.145Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sara rodriguez",
-          "score": 100
-        },
-        {
-          "keyword": "georgia bureau of investigation",
-          "score": 99
-        },
-        {
-          "keyword": "tomorrowland",
-          "score": 98
-        },
-        {
-          "keyword": "mexico earthquake",
-          "score": 97
-        },
-        {
-          "keyword": "cruise ship",
-          "score": 96
-        },
-        {
-          "keyword": "madeira",
-          "score": 95
-        },
-        {
-          "keyword": "tom watson",
-          "score": 94
-        },
-        {
-          "keyword": "bethesda",
-          "score": 93
-        },
-        {
-          "keyword": "eric bailly",
-          "score": 92
-        },
-        {
-          "keyword": "engels-2",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-17T16:59:11.943Z",
       "geo": "US",
       "source": "google",
@@ -2818,6 +2771,53 @@
         },
         {
           "keyword": "megan rapinoe",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-21T16:01:41.510Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "charlie woods",
+          "score": 100
+        },
+        {
+          "keyword": "stan wawrinka",
+          "score": 99
+        },
+        {
+          "keyword": "lebanon",
+          "score": 98
+        },
+        {
+          "keyword": "charles davis",
+          "score": 97
+        },
+        {
+          "keyword": "camille johnston",
+          "score": 96
+        },
+        {
+          "keyword": "act",
+          "score": 95
+        },
+        {
+          "keyword": "jason statham",
+          "score": 94
+        },
+        {
+          "keyword": "ai bubble",
+          "score": 93
+        },
+        {
+          "keyword": "axios",
+          "score": 92
+        },
+        {
+          "keyword": "leslie jones",
           "score": 91
         }
       ]
