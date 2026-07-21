@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-17T19:37:48.850Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "강릉시",
-          "score": 100
-        },
-        {
-          "keyword": "kone",
-          "score": 99
-        },
-        {
-          "keyword": "포수",
-          "score": 98
-        },
-        {
-          "keyword": "karmine corp",
-          "score": 97
-        },
-        {
-          "keyword": "프랑스 잉글랜드",
-          "score": 96
-        },
-        {
-          "keyword": "김예림",
-          "score": 95
-        },
-        {
-          "keyword": "al",
-          "score": 94
-        },
-        {
-          "keyword": "더중앙플러스",
-          "score": 93
-        },
-        {
-          "keyword": "아덴 만",
-          "score": 92
-        },
-        {
-          "keyword": "김송",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-17T20:42:27.706Z",
       "geo": "KR",
       "source": "google",
@@ -2818,6 +2771,53 @@
         },
         {
           "keyword": "달",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-21T20:40:18.163Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "사관학교",
+          "score": 100
+        },
+        {
+          "keyword": "대만",
+          "score": 99
+        },
+        {
+          "keyword": "기초연금",
+          "score": 98
+        },
+        {
+          "keyword": "오현규",
+          "score": 97
+        },
+        {
+          "keyword": "강예원",
+          "score": 96
+        },
+        {
+          "keyword": "이자",
+          "score": 95
+        },
+        {
+          "keyword": "악어",
+          "score": 94
+        },
+        {
+          "keyword": "다이 소",
+          "score": 93
+        },
+        {
+          "keyword": "앤서니 테일러",
+          "score": 92
+        },
+        {
+          "keyword": "하트시그널5",
           "score": 91
         }
       ]

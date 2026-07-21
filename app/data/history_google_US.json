@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-17T19:37:47.725Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jon rahm",
-          "score": 100
-        },
-        {
-          "keyword": "redsox",
-          "score": 99
-        },
-        {
-          "keyword": "batman 2",
-          "score": 98
-        },
-        {
-          "keyword": "hearts - rayo vallecano",
-          "score": 97
-        },
-        {
-          "keyword": "fox news iran",
-          "score": 96
-        },
-        {
-          "keyword": "madewell tj maxx sweater recall",
-          "score": 95
-        },
-        {
-          "keyword": "mortal kombat 2 hbo max",
-          "score": 94
-        },
-        {
-          "keyword": "jake bennett",
-          "score": 93
-        },
-        {
-          "keyword": "armando rubio daughter arizona icu",
-          "score": 92
-        },
-        {
-          "keyword": "usmnt mauricio pochettino future",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-17T20:42:26.477Z",
       "geo": "US",
       "source": "google",
@@ -2818,6 +2771,53 @@
         },
         {
           "keyword": "tornado warning",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-21T20:40:17.040Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "smci",
+          "score": 100
+        },
+        {
+          "keyword": "smci stock",
+          "score": 99
+        },
+        {
+          "keyword": "lisa murkowski",
+          "score": 98
+        },
+        {
+          "keyword": "craig melvin",
+          "score": 97
+        },
+        {
+          "keyword": "stubhub",
+          "score": 96
+        },
+        {
+          "keyword": "united flight diversion arizona military base",
+          "score": 95
+        },
+        {
+          "keyword": "brooke rollins",
+          "score": 94
+        },
+        {
+          "keyword": "susan collins",
+          "score": 93
+        },
+        {
+          "keyword": "severe thunderstorm watch",
+          "score": 92
+        },
+        {
+          "keyword": "thea booysen",
           "score": 91
         }
       ]
