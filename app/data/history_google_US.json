@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-17T07:10:11.791Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "money",
-          "score": 100
-        },
-        {
-          "keyword": "r",
-          "score": 99
-        },
-        {
-          "keyword": "texas flooding flash flood",
-          "score": 98
-        },
-        {
-          "keyword": "robert englund",
-          "score": 97
-        },
-        {
-          "keyword": "gold price",
-          "score": 96
-        },
-        {
-          "keyword": "veterans benefits bill",
-          "score": 95
-        },
-        {
-          "keyword": "oc fair",
-          "score": 94
-        },
-        {
-          "keyword": "sinon odyssey",
-          "score": 93
-        },
-        {
-          "keyword": "sports scores today",
-          "score": 92
-        },
-        {
-          "keyword": "trojan war",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-17T09:25:05.497Z",
       "geo": "US",
       "source": "google",
@@ -2865,6 +2818,53 @@
         },
         {
           "keyword": "garlic powder recall",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-21T07:31:27.294Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "polio",
+          "score": 100
+        },
+        {
+          "keyword": "d4vd",
+          "score": 99
+        },
+        {
+          "keyword": "thom tillis",
+          "score": 98
+        },
+        {
+          "keyword": "in n out",
+          "score": 97
+        },
+        {
+          "keyword": "marcello hernandez",
+          "score": 96
+        },
+        {
+          "keyword": "public charge rule",
+          "score": 95
+        },
+        {
+          "keyword": "sadie sink",
+          "score": 94
+        },
+        {
+          "keyword": "chiqui tapia",
+          "score": 93
+        },
+        {
+          "keyword": "jaafar jackson",
+          "score": 92
+        },
+        {
+          "keyword": "flau'jae johnson",
           "score": 91
         }
       ]
