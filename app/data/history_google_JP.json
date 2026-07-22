@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-18T20:37:10.218Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ローソン",
-          "score": 100
-        },
-        {
-          "keyword": "株式",
-          "score": 99
-        },
-        {
-          "keyword": "宝くじ",
-          "score": 98
-        },
-        {
-          "keyword": "大橋秀行",
-          "score": 97
-        },
-        {
-          "keyword": "細江純子",
-          "score": 96
-        },
-        {
-          "keyword": "自動車",
-          "score": 95
-        },
-        {
-          "keyword": "鈴木愛",
-          "score": 94
-        },
-        {
-          "keyword": "ツイッチ",
-          "score": 93
-        },
-        {
-          "keyword": "レベル3大雨警報",
-          "score": 92
-        },
-        {
-          "keyword": "ジェフ千葉",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-18T21:40:03.302Z",
       "geo": "JP",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "豊昇龍智勝",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-22T21:39:14.049Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "goog",
+          "score": 100
+        },
+        {
+          "keyword": "プロ野球監督",
+          "score": 99
+        },
+        {
+          "keyword": "藤原紀香",
+          "score": 98
+        },
+        {
+          "keyword": "吉村知事",
+          "score": 97
+        },
+        {
+          "keyword": "spcx",
+          "score": 96
+        },
+        {
+          "keyword": "浜松市",
+          "score": 95
+        },
+        {
+          "keyword": "nvda",
+          "score": 94
+        },
+        {
+          "keyword": "吉見一起",
+          "score": 93
+        },
+        {
+          "keyword": "ナスダック総合指数",
+          "score": 92
+        },
+        {
+          "keyword": "台風",
           "score": 91
         }
       ]
