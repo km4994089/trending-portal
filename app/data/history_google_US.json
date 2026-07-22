@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-18T04:20:01.794Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "millie bobby brown",
-          "score": 100
-        },
-        {
-          "keyword": "mindy kaling",
-          "score": 99
-        },
-        {
-          "keyword": "jennifer english",
-          "score": 98
-        },
-        {
-          "keyword": "ike barinholtz",
-          "score": 97
-        },
-        {
-          "keyword": "showers",
-          "score": 96
-        },
-        {
-          "keyword": "baylen dupree",
-          "score": 95
-        },
-        {
-          "keyword": "mega millions numbers",
-          "score": 94
-        },
-        {
-          "keyword": "harry ford",
-          "score": 93
-        },
-        {
-          "keyword": "ludwika paleta",
-          "score": 92
-        },
-        {
-          "keyword": "san diego padres",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-18T06:26:18.334Z",
       "geo": "US",
       "source": "google",
@@ -2771,6 +2724,53 @@
         },
         {
           "keyword": "jared young",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-22T04:58:12.765Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "rebel wilson",
+          "score": 100
+        },
+        {
+          "keyword": "lebron james",
+          "score": 99
+        },
+        {
+          "keyword": "diamondbacks",
+          "score": 98
+        },
+        {
+          "keyword": "drew brees",
+          "score": 97
+        },
+        {
+          "keyword": "mariners game",
+          "score": 96
+        },
+        {
+          "keyword": "kuminga",
+          "score": 95
+        },
+        {
+          "keyword": "saudi arabia",
+          "score": 94
+        },
+        {
+          "keyword": "mark lamb",
+          "score": 93
+        },
+        {
+          "keyword": "weather tornado warning",
+          "score": 92
+        },
+        {
+          "keyword": "cetirizine recall",
           "score": 91
         }
       ]

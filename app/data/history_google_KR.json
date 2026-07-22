@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-18T04:20:02.664Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "필리조선소",
-          "score": 100
-        },
-        {
-          "keyword": "로스앤젤레스 fc",
-          "score": 99
-        },
-        {
-          "keyword": "선글라스",
-          "score": 98
-        },
-        {
-          "keyword": "스피킹데드",
-          "score": 97
-        },
-        {
-          "keyword": "성영탁",
-          "score": 96
-        },
-        {
-          "keyword": "배찬승",
-          "score": 95
-        },
-        {
-          "keyword": "오타니 쇼헤이",
-          "score": 94
-        },
-        {
-          "keyword": "북파공작원",
-          "score": 93
-        },
-        {
-          "keyword": "김영광",
-          "score": 92
-        },
-        {
-          "keyword": "한화이글스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-18T06:26:19.491Z",
       "geo": "KR",
       "source": "google",
@@ -2771,6 +2724,53 @@
         },
         {
           "keyword": "진",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-22T04:58:14.026Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "asml 홀딩",
+          "score": 100
+        },
+        {
+          "keyword": "축구",
+          "score": 99
+        },
+        {
+          "keyword": "수표",
+          "score": 98
+        },
+        {
+          "keyword": "한국마사회",
+          "score": 97
+        },
+        {
+          "keyword": "엔화",
+          "score": 96
+        },
+        {
+          "keyword": "군대",
+          "score": 95
+        },
+        {
+          "keyword": "치매",
+          "score": 94
+        },
+        {
+          "keyword": "보이콧",
+          "score": 93
+        },
+        {
+          "keyword": "대한민국 국세청",
+          "score": 92
+        },
+        {
+          "keyword": "가짜뉴스",
           "score": 91
         }
       ]
