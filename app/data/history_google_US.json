@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-18T23:42:19.135Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "news",
-          "score": 100
-        },
-        {
-          "keyword": "games",
-          "score": 99
-        },
-        {
-          "keyword": "movies",
-          "score": 98
-        },
-        {
-          "keyword": "salad",
-          "score": 97
-        },
-        {
-          "keyword": "fire vs lynx",
-          "score": 96
-        },
-        {
-          "keyword": "barcelona sc - libertad fc",
-          "score": 95
-        },
-        {
-          "keyword": "jude bellingham parents",
-          "score": 94
-        },
-        {
-          "keyword": "tulsi gabbard",
-          "score": 93
-        },
-        {
-          "keyword": "brewers game",
-          "score": 92
-        },
-        {
-          "keyword": "cycling",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-19T01:43:54.664Z",
       "geo": "US",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "caitlin clark",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-22T23:54:29.989Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mls schedule",
+          "score": 100
+        },
+        {
+          "keyword": "max fried",
+          "score": 99
+        },
+        {
+          "keyword": "mls standings",
+          "score": 98
+        },
+        {
+          "keyword": "jason ellsworth montana contracts verdict",
+          "score": 97
+        },
+        {
+          "keyword": "chadwick boseman",
+          "score": 96
+        },
+        {
+          "keyword": "eduardo rivera",
+          "score": 95
+        },
+        {
+          "keyword": "robert lewandowski",
+          "score": 94
+        },
+        {
+          "keyword": "eric lauer",
+          "score": 93
+        },
+        {
+          "keyword": "sun vs fever",
+          "score": 92
+        },
+        {
+          "keyword": "bryan de la cruz",
           "score": 91
         }
       ]

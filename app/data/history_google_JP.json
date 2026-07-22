@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-18T23:42:21.281Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "プリキュア",
-          "score": 100
-        },
-        {
-          "keyword": "朝マック",
-          "score": 99
-        },
-        {
-          "keyword": "シューイチ",
-          "score": 98
-        },
-        {
-          "keyword": "ドジャース",
-          "score": 97
-        },
-        {
-          "keyword": "タイピング",
-          "score": 96
-        },
-        {
-          "keyword": "ケイン",
-          "score": 95
-        },
-        {
-          "keyword": "ヤマル 弟",
-          "score": 94
-        },
-        {
-          "keyword": "長友佑都",
-          "score": 93
-        },
-        {
-          "keyword": "リアルタイム",
-          "score": 92
-        },
-        {
-          "keyword": "世足",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-19T01:43:57.139Z",
       "geo": "JP",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "飛行",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-22T23:54:32.222Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "近藤真彦",
+          "score": 100
+        },
+        {
+          "keyword": "plant",
+          "score": 99
+        },
+        {
+          "keyword": "芦澤竜誠",
+          "score": 98
+        },
+        {
+          "keyword": "二十四節気",
+          "score": 97
+        },
+        {
+          "keyword": "朝ドラ キャスト",
+          "score": 96
+        },
+        {
+          "keyword": "カゼミーロ",
+          "score": 95
+        },
+        {
+          "keyword": "単行本",
+          "score": 94
+        },
+        {
+          "keyword": "フィリーズ",
+          "score": 93
+        },
+        {
+          "keyword": "苗場 天気",
+          "score": 92
+        },
+        {
+          "keyword": "エリック・ラウアー",
           "score": 91
         }
       ]
