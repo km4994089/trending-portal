@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-18T19:38:49.651Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "新幹線",
-          "score": 100
-        },
-        {
-          "keyword": "島内颯太郎",
-          "score": 99
-        },
-        {
-          "keyword": "サッカー決勝",
-          "score": 98
-        },
-        {
-          "keyword": "西日本新聞",
-          "score": 97
-        },
-        {
-          "keyword": "山本天翔",
-          "score": 96
-        },
-        {
-          "keyword": "ホテル",
-          "score": 95
-        },
-        {
-          "keyword": "france vs england",
-          "score": 94
-        },
-        {
-          "keyword": "天気天気",
-          "score": 93
-        },
-        {
-          "keyword": "ガーディアンズ 対 パイレーツ",
-          "score": 92
-        },
-        {
-          "keyword": "fifa world cup 2026 final date",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-18T20:37:10.218Z",
       "geo": "JP",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "おちたらおわり",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-22T20:13:46.173Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "北朝鮮",
+          "score": 100
+        },
+        {
+          "keyword": "ダルトン・ラッシング",
+          "score": 99
+        },
+        {
+          "keyword": "芳根京子",
+          "score": 98
+        },
+        {
+          "keyword": "全国高等学校野球選手権奈良大会",
+          "score": 97
+        },
+        {
+          "keyword": "死体",
+          "score": 96
+        },
+        {
+          "keyword": "強盗",
+          "score": 95
+        },
+        {
+          "keyword": "伊藤大海",
+          "score": 94
+        },
+        {
+          "keyword": "角田裕毅",
+          "score": 93
+        },
+        {
+          "keyword": "コストコお買い得商品",
+          "score": 92
+        },
+        {
+          "keyword": "豊昇龍智勝",
           "score": 91
         }
       ]

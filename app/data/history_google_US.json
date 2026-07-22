@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-18T19:38:47.396Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "radar",
-          "score": 100
-        },
-        {
-          "keyword": "marshall manning freshman quarterback",
-          "score": 99
-        },
-        {
-          "keyword": "christian leroy duncan",
-          "score": 98
-        },
-        {
-          "keyword": "david malukas",
-          "score": 97
-        },
-        {
-          "keyword": "tornado warning rochester ny",
-          "score": 96
-        },
-        {
-          "keyword": "red sox game today",
-          "score": 95
-        },
-        {
-          "keyword": "country music",
-          "score": 94
-        },
-        {
-          "keyword": "jelly roll",
-          "score": 93
-        },
-        {
-          "keyword": "mets - phillies",
-          "score": 92
-        },
-        {
-          "keyword": "esmerlyn valdez",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-18T20:37:07.955Z",
       "geo": "US",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "maidenhead united vs wolves",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-22T20:13:43.558Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tsla stock",
+          "score": 100
+        },
+        {
+          "keyword": "red sox schedule",
+          "score": 99
+        },
+        {
+          "keyword": "el niño",
+          "score": 98
+        },
+        {
+          "keyword": "save america",
+          "score": 97
+        },
+        {
+          "keyword": "us secret services",
+          "score": 96
+        },
+        {
+          "keyword": "google earnings",
+          "score": 95
+        },
+        {
+          "keyword": "yankees",
+          "score": 94
+        },
+        {
+          "keyword": "stuart fails to save the universe",
+          "score": 93
+        },
+        {
+          "keyword": "dale earnhardt jr.",
+          "score": 92
+        },
+        {
+          "keyword": "napheesa collier",
           "score": 91
         }
       ]
