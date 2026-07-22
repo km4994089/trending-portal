@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-18T18:25:36.620Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "trump administration usps ballot changes",
-          "score": 100
-        },
-        {
-          "keyword": "keith colburn",
-          "score": 99
-        },
-        {
-          "keyword": "brendan carr",
-          "score": 98
-        },
-        {
-          "keyword": "robert irwin",
-          "score": 97
-        },
-        {
-          "keyword": "moussa cisse",
-          "score": 96
-        },
-        {
-          "keyword": "tornado watch",
-          "score": 95
-        },
-        {
-          "keyword": "bill pulte",
-          "score": 94
-        },
-        {
-          "keyword": "morgan rogers",
-          "score": 93
-        },
-        {
-          "keyword": "jordan",
-          "score": 92
-        },
-        {
-          "keyword": "severe thunderstorm watch",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-18T19:38:47.396Z",
       "geo": "US",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "pirates vs yankees",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-22T18:56:42.042Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "freedom of the press",
+          "score": 100
+        },
+        {
+          "keyword": "lynx vs storm",
+          "score": 99
+        },
+        {
+          "keyword": "brown bear",
+          "score": 98
+        },
+        {
+          "keyword": "bald eagle jackie rescue",
+          "score": 97
+        },
+        {
+          "keyword": "recreativo huelva - real betis",
+          "score": 96
+        },
+        {
+          "keyword": "stevenage vs west ham",
+          "score": 95
+        },
+        {
+          "keyword": "red sox score",
+          "score": 94
+        },
+        {
+          "keyword": "red sox",
+          "score": 93
+        },
+        {
+          "keyword": "mercury vs sparks",
+          "score": 92
+        },
+        {
+          "keyword": "maidenhead united vs wolves",
           "score": 91
         }
       ]
