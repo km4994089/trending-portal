@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-18T01:25:54.206Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "マックス・マンシー",
-          "score": 100
-        },
-        {
-          "keyword": "山口県高校野球",
-          "score": 99
-        },
-        {
-          "keyword": "江戸東京博物館",
-          "score": 98
-        },
-        {
-          "keyword": "jリーグチケット",
-          "score": 97
-        },
-        {
-          "keyword": "高校野球 西東京",
-          "score": 96
-        },
-        {
-          "keyword": "福塩線",
-          "score": 95
-        },
-        {
-          "keyword": "ハーランド アライグマ",
-          "score": 94
-        },
-        {
-          "keyword": "石川県高校野球",
-          "score": 93
-        },
-        {
-          "keyword": "バーチャル高校野球 茨城",
-          "score": 92
-        },
-        {
-          "keyword": "笠松競馬場",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-18T04:20:03.753Z",
       "geo": "JP",
       "source": "google",
@@ -2771,6 +2724,53 @@
         },
         {
           "keyword": "ミンキーモモ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-22T01:42:39.455Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "新潟高校野球",
+          "score": 100
+        },
+        {
+          "keyword": "インド",
+          "score": 99
+        },
+        {
+          "keyword": "青森県高校野球",
+          "score": 98
+        },
+        {
+          "keyword": "長野県高校野球",
+          "score": 97
+        },
+        {
+          "keyword": "栃木県高校野球",
+          "score": 96
+        },
+        {
+          "keyword": "マックス・マンシー",
+          "score": 95
+        },
+        {
+          "keyword": "泉口友汰",
+          "score": 94
+        },
+        {
+          "keyword": "太陽誘電 株価",
+          "score": 93
+        },
+        {
+          "keyword": "望月慎太郎",
+          "score": 92
+        },
+        {
+          "keyword": "片岡信和",
           "score": 91
         }
       ]
