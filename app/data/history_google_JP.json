@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-19T20:01:57.516Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大谷翔平",
-          "score": 100
-        },
-        {
-          "keyword": "スカローニ監督",
-          "score": 99
-        },
-        {
-          "keyword": "ワールドカップ 得点王",
-          "score": 98
-        },
-        {
-          "keyword": "エスパニョール",
-          "score": 97
-        },
-        {
-          "keyword": "角中勝也",
-          "score": 96
-        },
-        {
-          "keyword": "ロドリ バロンドール",
-          "score": 95
-        },
-        {
-          "keyword": "ワールドカップ 速報",
-          "score": 94
-        },
-        {
-          "keyword": "ニュージャージー",
-          "score": 93
-        },
-        {
-          "keyword": "久保建英",
-          "score": 92
-        },
-        {
-          "keyword": "バロンドール",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-19T21:11:41.044Z",
       "geo": "JP",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "フジロック 配信",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-23T20:10:07.665Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "魔法のプリンセス ミンキーモモ",
+          "score": 100
+        },
+        {
+          "keyword": "ミカエル・オリーズ",
+          "score": 99
+        },
+        {
+          "keyword": "大関",
+          "score": 98
+        },
+        {
+          "keyword": "インテル株価",
+          "score": 97
+        },
+        {
+          "keyword": "ロト6当選番号速報",
+          "score": 96
+        },
+        {
+          "keyword": "nyダウ",
+          "score": 95
+        },
+        {
+          "keyword": "北山亘基",
+          "score": 94
+        },
+        {
+          "keyword": "検問",
+          "score": 93
+        },
+        {
+          "keyword": "ヴォイヴォディナ 対 アヤックス",
+          "score": 92
+        },
+        {
+          "keyword": "ナフサ",
           "score": 91
         }
       ]
