@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-19T18:50:24.536Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "レアル・マドリード",
-          "score": 100
-        },
-        {
-          "keyword": "マックス・マンシー",
-          "score": 99
-        },
-        {
-          "keyword": "ロドリゴ・デ・パウル",
-          "score": 98
-        },
-        {
-          "keyword": "ダゾーン",
-          "score": 97
-        },
-        {
-          "keyword": "世界杯直播",
-          "score": 96
-        },
-        {
-          "keyword": "ホワイトソックス",
-          "score": 95
-        },
-        {
-          "keyword": "ドジャース速報",
-          "score": 94
-        },
-        {
-          "keyword": "アルゼンチン代表メンバー",
-          "score": 93
-        },
-        {
-          "keyword": "tây ban nha đấu với argentina",
-          "score": 92
-        },
-        {
-          "keyword": "ムーキー・ベッツ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-19T20:01:57.516Z",
       "geo": "JP",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "イスラエル",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-23T18:58:11.123Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "岡本公三",
+          "score": 100
+        },
+        {
+          "keyword": "スプラトゥーン レイダース セーブ",
+          "score": 99
+        },
+        {
+          "keyword": "カップ麺",
+          "score": 98
+        },
+        {
+          "keyword": "アナウンサー",
+          "score": 97
+        },
+        {
+          "keyword": "hulu",
+          "score": 96
+        },
+        {
+          "keyword": "バイオハザード 映画",
+          "score": 95
+        },
+        {
+          "keyword": "金曜ドラマ",
+          "score": 94
+        },
+        {
+          "keyword": "ガンダム 新作",
+          "score": 93
+        },
+        {
+          "keyword": "オルカン s&p500",
+          "score": 92
+        },
+        {
+          "keyword": "フジロック 配信",
           "score": 91
         }
       ]
