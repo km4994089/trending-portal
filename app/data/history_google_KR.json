@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-19T23:24:28.157Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "와일드 씽",
-          "score": 100
-        },
-        {
-          "keyword": "월드컵 우승 상금",
-          "score": 99
-        },
-        {
-          "keyword": "철도",
-          "score": 98
-        },
-        {
-          "keyword": "안정환",
-          "score": 97
-        },
-        {
-          "keyword": "카보베르데",
-          "score": 96
-        },
-        {
-          "keyword": "天気",
-          "score": 95
-        },
-        {
-          "keyword": "이현이",
-          "score": 94
-        },
-        {
-          "keyword": "ferran torres",
-          "score": 93
-        },
-        {
-          "keyword": "파리 생제르맹 fc",
-          "score": 92
-        },
-        {
-          "keyword": "육아",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-20T00:59:42.432Z",
       "geo": "KR",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "tsla",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-23T23:52:01.941Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "일론 머스크",
+          "score": 100
+        },
+        {
+          "keyword": "대학수학능력시험",
+          "score": 99
+        },
+        {
+          "keyword": "범죄",
+          "score": 98
+        },
+        {
+          "keyword": "제주특별자치도",
+          "score": 97
+        },
+        {
+          "keyword": "현대프리미엄아울렛 송도점",
+          "score": 96
+        },
+        {
+          "keyword": "청년미래적금 결과",
+          "score": 95
+        },
+        {
+          "keyword": "연애 전쟁",
+          "score": 94
+        },
+        {
+          "keyword": "이스라엘",
+          "score": 93
+        },
+        {
+          "keyword": "1인당 국민소득",
+          "score": 92
+        },
+        {
+          "keyword": "주가",
           "score": 91
         }
       ]
