@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-19T22:13:38.540Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "민생지원금",
-          "score": 100
-        },
-        {
-          "keyword": "고우석",
-          "score": 99
-        },
-        {
-          "keyword": "송성문",
-          "score": 98
-        },
-        {
-          "keyword": "안세영",
-          "score": 97
-        },
-        {
-          "keyword": "이강인",
-          "score": 96
-        },
-        {
-          "keyword": "진태현",
-          "score": 95
-        },
-        {
-          "keyword": "월드컵 결과",
-          "score": 94
-        },
-        {
-          "keyword": "조선일보",
-          "score": 93
-        },
-        {
-          "keyword": "프로야구 순위",
-          "score": 92
-        },
-        {
-          "keyword": "니코 윌리엄스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-19T23:24:28.157Z",
       "geo": "KR",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "엑스포츠뉴스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-23T22:46:25.115Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "2026",
+          "score": 100
+        },
+        {
+          "keyword": "케이리 호틀",
+          "score": 99
+        },
+        {
+          "keyword": "스페이스x 주가",
+          "score": 98
+        },
+        {
+          "keyword": "wti 유가",
+          "score": 97
+        },
+        {
+          "keyword": "빌라",
+          "score": 96
+        },
+        {
+          "keyword": "tqqq",
+          "score": 95
+        },
+        {
+          "keyword": "레미콘",
+          "score": 94
+        },
+        {
+          "keyword": "골프",
+          "score": 93
+        },
+        {
+          "keyword": "vix",
+          "score": 92
+        },
+        {
+          "keyword": "tsla",
           "score": 91
         }
       ]

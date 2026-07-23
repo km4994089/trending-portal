@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-19T22:13:39.610Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "gackt",
-          "score": 100
-        },
-        {
-          "keyword": "マック メニュー",
-          "score": 99
-        },
-        {
-          "keyword": "ferran torres",
-          "score": 98
-        },
-        {
-          "keyword": "グーグル",
-          "score": 97
-        },
-        {
-          "keyword": "フランチェスコ リッソ",
-          "score": 96
-        },
-        {
-          "keyword": "観光客",
-          "score": 95
-        },
-        {
-          "keyword": "鈴木誠也",
-          "score": 94
-        },
-        {
-          "keyword": "ジャンプ 発売日",
-          "score": 93
-        },
-        {
-          "keyword": "スラヴコ ヴィンチッチ",
-          "score": 92
-        },
-        {
-          "keyword": "ヒカキン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-19T23:24:29.485Z",
       "geo": "JP",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "日本経済新聞",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-23T22:46:26.343Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "酷暑日が初めて観測されたのは",
+          "score": 100
+        },
+        {
+          "keyword": "チ・チャンウク",
+          "score": 99
+        },
+        {
+          "keyword": "野村周平",
+          "score": 98
+        },
+        {
+          "keyword": "高橋海人",
+          "score": 97
+        },
+        {
+          "keyword": "秋田市天気",
+          "score": 96
+        },
+        {
+          "keyword": "グッドモーニング",
+          "score": 95
+        },
+        {
+          "keyword": "米価",
+          "score": 94
+        },
+        {
+          "keyword": "山形市 天気",
+          "score": 93
+        },
+        {
+          "keyword": "モスクワ",
+          "score": 92
+        },
+        {
+          "keyword": "吉田鈴",
           "score": 91
         }
       ]
