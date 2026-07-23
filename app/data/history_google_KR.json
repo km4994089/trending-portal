@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-19T01:43:55.971Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "선박",
-          "score": 100
-        },
-        {
-          "keyword": "두산베어스",
-          "score": 99
-        },
-        {
-          "keyword": "수익",
-          "score": 98
-        },
-        {
-          "keyword": "세계일보",
-          "score": 97
-        },
-        {
-          "keyword": "놀면 뭐하니?",
-          "score": 96
-        },
-        {
-          "keyword": "디 오픈 챔피언십",
-          "score": 95
-        },
-        {
-          "keyword": "제이크 폴",
-          "score": 94
-        },
-        {
-          "keyword": "월드컵 우승",
-          "score": 93
-        },
-        {
-          "keyword": "아르헨티나 축구 국가대표팀",
-          "score": 92
-        },
-        {
-          "keyword": "국방부",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-19T05:10:52.615Z",
       "geo": "KR",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "대우건설",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-23T01:50:16.883Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "버스",
+          "score": 100
+        },
+        {
+          "keyword": "프로게이머",
+          "score": 99
+        },
+        {
+          "keyword": "차두리",
+          "score": 98
+        },
+        {
+          "keyword": "한라산",
+          "score": 97
+        },
+        {
+          "keyword": "코오롱티슈진",
+          "score": 96
+        },
+        {
+          "keyword": "sk이터닉스",
+          "score": 95
+        },
+        {
+          "keyword": "tsla",
+          "score": 94
+        },
+        {
+          "keyword": "경찰관",
+          "score": 93
+        },
+        {
+          "keyword": "비니시우스",
+          "score": 92
+        },
+        {
+          "keyword": "국수본",
           "score": 91
         }
       ]
