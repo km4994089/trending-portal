@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-19T07:37:31.695Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "찰리 반즈",
-          "score": 100
-        },
-        {
-          "keyword": "두산 베어스",
-          "score": 99
-        },
-        {
-          "keyword": "도경완",
-          "score": 98
-        },
-        {
-          "keyword": "신진서",
-          "score": 97
-        },
-        {
-          "keyword": "에르난데스",
-          "score": 96
-        },
-        {
-          "keyword": "도로",
-          "score": 95
-        },
-        {
-          "keyword": "저축",
-          "score": 94
-        },
-        {
-          "keyword": "코스피",
-          "score": 93
-        },
-        {
-          "keyword": "시위",
-          "score": 92
-        },
-        {
-          "keyword": "이해찬",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-19T09:43:52.598Z",
       "geo": "KR",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "여성 소방관",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-23T07:54:09.102Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "푸바오",
+          "score": 100
+        },
+        {
+          "keyword": "mlb",
+          "score": 99
+        },
+        {
+          "keyword": "윤건영",
+          "score": 98
+        },
+        {
+          "keyword": "국민성장펀드",
+          "score": 97
+        },
+        {
+          "keyword": "산불",
+          "score": 96
+        },
+        {
+          "keyword": "박은빈",
+          "score": 95
+        },
+        {
+          "keyword": "맹승지",
+          "score": 94
+        },
+        {
+          "keyword": "보스턴 레드삭스",
+          "score": 93
+        },
+        {
+          "keyword": "흡연",
+          "score": 92
+        },
+        {
+          "keyword": "삼성sdi",
           "score": 91
         }
       ]

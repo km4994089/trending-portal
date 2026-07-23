@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-19T07:37:30.483Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cloud",
-          "score": 100
-        },
-        {
-          "keyword": "tacoma narrows bridge closure",
-          "score": 99
-        },
-        {
-          "keyword": "fidelity bitcoin",
-          "score": 98
-        },
-        {
-          "keyword": "fidelity funds",
-          "score": 97
-        },
-        {
-          "keyword": "weather today",
-          "score": 96
-        },
-        {
-          "keyword": "technology news",
-          "score": 95
-        },
-        {
-          "keyword": "stock market today",
-          "score": 94
-        },
-        {
-          "keyword": "latest news",
-          "score": 93
-        },
-        {
-          "keyword": "matty healy",
-          "score": 92
-        },
-        {
-          "keyword": "car accident attorney",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-19T09:43:51.438Z",
       "geo": "US",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "diego luna",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-23T07:54:08.114Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "iran war",
+          "score": 100
+        },
+        {
+          "keyword": "long john silvers closing",
+          "score": 99
+        },
+        {
+          "keyword": "meteorite crater",
+          "score": 98
+        },
+        {
+          "keyword": "nintendo palworld lawsuit",
+          "score": 97
+        },
+        {
+          "keyword": "jana nayagan",
+          "score": 96
+        },
+        {
+          "keyword": "john leguizamo",
+          "score": 95
+        },
+        {
+          "keyword": "halo campaign evolved",
+          "score": 94
+        },
+        {
+          "keyword": "portland timbers",
+          "score": 93
+        },
+        {
+          "keyword": "paige bueckers",
+          "score": 92
+        },
+        {
+          "keyword": "colman domingo",
           "score": 91
         }
       ]
