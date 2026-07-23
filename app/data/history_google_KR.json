@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-19T09:43:52.598Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "은행",
-          "score": 100
-        },
-        {
-          "keyword": "다이소",
-          "score": 99
-        },
-        {
-          "keyword": "south korea",
-          "score": 98
-        },
-        {
-          "keyword": "트레킹",
-          "score": 97
-        },
-        {
-          "keyword": "법원",
-          "score": 96
-        },
-        {
-          "keyword": "facebook",
-          "score": 95
-        },
-        {
-          "keyword": "야구",
-          "score": 94
-        },
-        {
-          "keyword": "브라이슨 디섐보",
-          "score": 93
-        },
-        {
-          "keyword": "아리엘 후라도",
-          "score": 92
-        },
-        {
-          "keyword": "안동시",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-19T11:03:43.185Z",
       "geo": "KR",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "삼성sdi",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-23T10:10:51.215Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "수익률",
+          "score": 100
+        },
+        {
+          "keyword": "환율",
+          "score": 99
+        },
+        {
+          "keyword": "우크라이나군 총사령관",
+          "score": 98
+        },
+        {
+          "keyword": "간호사",
+          "score": 97
+        },
+        {
+          "keyword": "박소영",
+          "score": 96
+        },
+        {
+          "keyword": "성과급",
+          "score": 95
+        },
+        {
+          "keyword": "지연수",
+          "score": 94
+        },
+        {
+          "keyword": "ned vs nep",
+          "score": 93
+        },
+        {
+          "keyword": "제이슨 데이",
+          "score": 92
+        },
+        {
+          "keyword": "윤경호",
           "score": 91
         }
       ]
