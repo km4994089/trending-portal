@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-19T05:10:53.953Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ユーロ円",
-          "score": 100
-        },
-        {
-          "keyword": "kimi",
-          "score": 99
-        },
-        {
-          "keyword": "満島真之介",
-          "score": 98
-        },
-        {
-          "keyword": "愛知県高校野球",
-          "score": 97
-        },
-        {
-          "keyword": "兼近大樹",
-          "score": 96
-        },
-        {
-          "keyword": "喫煙",
-          "score": 95
-        },
-        {
-          "keyword": "バレーボールアルゼンチン男子代表",
-          "score": 94
-        },
-        {
-          "keyword": "山口茜",
-          "score": 93
-        },
-        {
-          "keyword": "ノート 日産",
-          "score": 92
-        },
-        {
-          "keyword": "大阪 高校野球 トーナメント",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-19T07:37:32.701Z",
       "geo": "JP",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "静岡高校野球",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-23T05:15:54.854Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "メーガン",
+          "score": 100
+        },
+        {
+          "keyword": "死",
+          "score": 99
+        },
+        {
+          "keyword": "西村康稔",
+          "score": 98
+        },
+        {
+          "keyword": "鏡川",
+          "score": 97
+        },
+        {
+          "keyword": "佐藤琢磨",
+          "score": 96
+        },
+        {
+          "keyword": "都市対抗野球",
+          "score": 95
+        },
+        {
+          "keyword": "難民",
+          "score": 94
+        },
+        {
+          "keyword": "くじ",
+          "score": 93
+        },
+        {
+          "keyword": "和歌山市",
+          "score": 92
+        },
+        {
+          "keyword": "エプスタイン",
           "score": 91
         }
       ]
