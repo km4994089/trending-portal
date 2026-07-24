@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-20T20:15:41.182Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ロサンゼルス・ドジャース",
-          "score": 100
-        },
-        {
-          "keyword": "メジャーリーグベースボール",
-          "score": 99
-        },
-        {
-          "keyword": "藤浪晋太郎",
-          "score": 98
-        },
-        {
-          "keyword": "動画",
-          "score": 97
-        },
-        {
-          "keyword": "藤川 球児",
-          "score": 96
-        },
-        {
-          "keyword": "マイクロンテクノロジー株価",
-          "score": 95
-        },
-        {
-          "keyword": "ダウ",
-          "score": 94
-        },
-        {
-          "keyword": "フィリピン海軍",
-          "score": 93
-        },
-        {
-          "keyword": "舞の海秀平",
-          "score": 92
-        },
-        {
-          "keyword": "熱中症警戒アラート",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-20T21:38:16.641Z",
       "geo": "JP",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "中国海警局",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-24T20:54:37.896Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "バドミントン",
+          "score": 100
+        },
+        {
+          "keyword": "関屋記念 2026",
+          "score": 99
+        },
+        {
+          "keyword": "佐々木朗希",
+          "score": 98
+        },
+        {
+          "keyword": "捕手",
+          "score": 97
+        },
+        {
+          "keyword": "豊田おいでんまつり",
+          "score": 96
+        },
+        {
+          "keyword": "盛岡 天気",
+          "score": 95
+        },
+        {
+          "keyword": "セブン-イレブン",
+          "score": 94
+        },
+        {
+          "keyword": "佐野海舟",
+          "score": 93
+        },
+        {
+          "keyword": "株式分割",
+          "score": 92
+        },
+        {
+          "keyword": "ミカエル・オリーズ",
           "score": 91
         }
       ]
