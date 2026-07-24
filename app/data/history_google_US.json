@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-20T12:59:46.117Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "david hearn trump pool case",
-          "score": 100
-        },
-        {
-          "keyword": "andy burnham wife",
-          "score": 99
-        },
-        {
-          "keyword": "usa today",
-          "score": 98
-        },
-        {
-          "keyword": "marcello hernandez",
-          "score": 97
-        },
-        {
-          "keyword": "perseids",
-          "score": 96
-        },
-        {
-          "keyword": "kevin hart",
-          "score": 95
-        },
-        {
-          "keyword": "oil futures",
-          "score": 94
-        },
-        {
-          "keyword": "steelers",
-          "score": 93
-        },
-        {
-          "keyword": "%s",
-          "score": 92
-        },
-        {
-          "keyword": "orcl stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-20T15:11:52.548Z",
       "geo": "US",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "downdetector",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-24T13:41:32.524Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tracee ellis ross",
+          "score": 100
+        },
+        {
+          "keyword": "pinky herman",
+          "score": 99
+        },
+        {
+          "keyword": "chicago blackhawks patrick kane",
+          "score": 98
+        },
+        {
+          "keyword": "affray",
+          "score": 97
+        },
+        {
+          "keyword": "sharks",
+          "score": 96
+        },
+        {
+          "keyword": "bruno betancor",
+          "score": 95
+        },
+        {
+          "keyword": "paula badosa",
+          "score": 94
+        },
+        {
+          "keyword": "marie bouzkova",
+          "score": 93
+        },
+        {
+          "keyword": "hugo gaston",
+          "score": 92
+        },
+        {
+          "keyword": "cetirizine",
           "score": 91
         }
       ]
