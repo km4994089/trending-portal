@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-20T21:38:14.154Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dow jones industrial average",
-          "score": 100
-        },
-        {
-          "keyword": "coffee consumption",
-          "score": 99
-        },
-        {
-          "keyword": "de",
-          "score": 98
-        },
-        {
-          "keyword": "kwwl weather",
-          "score": 97
-        },
-        {
-          "keyword": "trump administration immigration green cards",
-          "score": 96
-        },
-        {
-          "keyword": "david hearn pool liner case",
-          "score": 95
-        },
-        {
-          "keyword": "ryan clark",
-          "score": 94
-        },
-        {
-          "keyword": "grand theft auto vi",
-          "score": 93
-        },
-        {
-          "keyword": "roberto ayala",
-          "score": 92
-        },
-        {
-          "keyword": "opinion poll",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-20T22:45:38.016Z",
       "geo": "US",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "trump administration federal grant cancellations",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-24T21:55:24.626Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "spider-man: brand new day",
+          "score": 100
+        },
+        {
+          "keyword": "trump air force one swap",
+          "score": 99
+        },
+        {
+          "keyword": "burger king kids meal paw patrol",
+          "score": 98
+        },
+        {
+          "keyword": "yan diomande",
+          "score": 97
+        },
+        {
+          "keyword": "dow jones industrial average",
+          "score": 96
+        },
+        {
+          "keyword": "jordan devey",
+          "score": 95
+        },
+        {
+          "keyword": "supreme leader",
+          "score": 94
+        },
+        {
+          "keyword": "bahrain news",
+          "score": 93
+        },
+        {
+          "keyword": "morgan wallen been by now",
+          "score": 92
+        },
+        {
+          "keyword": "acting attorney general todd blanche",
           "score": 91
         }
       ]
