@@ -2398,6 +2398,53 @@
           "score": 91
         }
       ]
+    },
+    {
+      "capturedAt": "2026-07-24T07:43:43.306Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "phone",
+          "score": 100
+        },
+        {
+          "keyword": "money news",
+          "score": 99
+        },
+        {
+          "keyword": "camping news",
+          "score": 98
+        },
+        {
+          "keyword": "market news",
+          "score": 97
+        },
+        {
+          "keyword": "investing",
+          "score": 96
+        },
+        {
+          "keyword": "fashion style",
+          "score": 95
+        },
+        {
+          "keyword": "startup news",
+          "score": 94
+        },
+        {
+          "keyword": "tech",
+          "score": 93
+        },
+        {
+          "keyword": "weather study",
+          "score": 92
+        },
+        {
+          "keyword": "sports calendar",
+          "score": 91
+        }
+      ]
     }
   ]
 }
