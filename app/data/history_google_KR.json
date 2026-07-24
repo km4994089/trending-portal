@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-20T07:51:17.438Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "오세훈",
-          "score": 100
-        },
-        {
-          "keyword": "해군사관학교",
-          "score": 99
-        },
-        {
-          "keyword": "사회 양극화",
-          "score": 98
-        },
-        {
-          "keyword": "디트로이트 타이거스",
-          "score": 97
-        },
-        {
-          "keyword": "크리스티안 로메로",
-          "score": 96
-        },
-        {
-          "keyword": "고지용",
-          "score": 95
-        },
-        {
-          "keyword": "삼성 갤럭시 z 시리즈",
-          "score": 94
-        },
-        {
-          "keyword": "재건축",
-          "score": 93
-        },
-        {
-          "keyword": "이탁수",
-          "score": 92
-        },
-        {
-          "keyword": "한국장학재단",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-20T10:40:21.836Z",
       "geo": "KR",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "무안군",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-24T10:06:53.565Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "황영웅",
+          "score": 100
+        },
+        {
+          "keyword": "폭격기",
+          "score": 99
+        },
+        {
+          "keyword": "서민정",
+          "score": 98
+        },
+        {
+          "keyword": "군대",
+          "score": 97
+        },
+        {
+          "keyword": "키움 대 kia",
+          "score": 96
+        },
+        {
+          "keyword": "lg 대 한화",
+          "score": 95
+        },
+        {
+          "keyword": "kt 대 롯데",
+          "score": 94
+        },
+        {
+          "keyword": "삼성 대 두산",
+          "score": 93
+        },
+        {
+          "keyword": "nc 대 ssg",
+          "score": 92
+        },
+        {
+          "keyword": "207940",
           "score": 91
         }
       ]
