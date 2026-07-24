@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-20T22:45:39.433Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "다우 존스 산업평균지수",
-          "score": 100
-        },
-        {
-          "keyword": "iren",
-          "score": 99
-        },
-        {
-          "keyword": "tsla",
-          "score": 98
-        },
-        {
-          "keyword": "mu",
-          "score": 97
-        },
-        {
-          "keyword": "погода",
-          "score": 96
-        },
-        {
-          "keyword": "임영웅",
-          "score": 95
-        },
-        {
-          "keyword": "황강 댐",
-          "score": 94
-        },
-        {
-          "keyword": "롯데 자이언츠",
-          "score": 93
-        },
-        {
-          "keyword": "파리 생제르맹 fc",
-          "score": 92
-        },
-        {
-          "keyword": "김숙",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-20T23:46:25.044Z",
       "geo": "KR",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "액화천연가스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-24T22:52:54.759Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "파리 생제르맹 fc",
+          "score": 100
+        },
+        {
+          "keyword": "엄지원",
+          "score": 99
+        },
+        {
+          "keyword": "검찰",
+          "score": 98
+        },
+        {
+          "keyword": "mu",
+          "score": 97
+        },
+        {
+          "keyword": "브룩스 레일리",
+          "score": 96
+        },
+        {
+          "keyword": "skhy",
+          "score": 95
+        },
+        {
+          "keyword": "필라델피아 반도체 지수",
+          "score": 94
+        },
+        {
+          "keyword": "혈당",
+          "score": 93
+        },
+        {
+          "keyword": "schd",
+          "score": 92
+        },
+        {
+          "keyword": "lng선",
           "score": 91
         }
       ]

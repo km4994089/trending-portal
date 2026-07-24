@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-20T22:45:40.667Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "めざましテレビ 占い",
-          "score": 100
-        },
-        {
-          "keyword": "望月理恵",
-          "score": 99
-        },
-        {
-          "keyword": "フィリーズ 対 ドジャース",
-          "score": 98
-        },
-        {
-          "keyword": "ガーディアンズ 対 ツインズ",
-          "score": 97
-        },
-        {
-          "keyword": "慈善コンサート",
-          "score": 96
-        },
-        {
-          "keyword": "森下翔太",
-          "score": 95
-        },
-        {
-          "keyword": "新 馬",
-          "score": 94
-        },
-        {
-          "keyword": "ラジオ",
-          "score": 93
-        },
-        {
-          "keyword": "schd",
-          "score": 92
-        },
-        {
-          "keyword": "相模原市",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-20T23:46:26.295Z",
       "geo": "JP",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "競走",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-24T22:52:55.970Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "仮面ライダー",
+          "score": 100
+        },
+        {
+          "keyword": "中央道 渋滞",
+          "score": 99
+        },
+        {
+          "keyword": "バーチャルyoutuber",
+          "score": 98
+        },
+        {
+          "keyword": "playstation",
+          "score": 97
+        },
+        {
+          "keyword": "レゴランド",
+          "score": 96
+        },
+        {
+          "keyword": "冠番組",
+          "score": 95
+        },
+        {
+          "keyword": "麻生太郎",
+          "score": 94
+        },
+        {
+          "keyword": "クイズ王",
+          "score": 93
+        },
+        {
+          "keyword": "メッツ 対 ドジャース",
+          "score": 92
+        },
+        {
+          "keyword": "オリオールズ 対 ブレーブス",
           "score": 91
         }
       ]
