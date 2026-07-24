@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-20T10:40:23.505Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ハライチ",
-          "score": 100
-        },
-        {
-          "keyword": "今中慎二",
-          "score": 99
-        },
-        {
-          "keyword": "澤穂希",
-          "score": 98
-        },
-        {
-          "keyword": "岸田行倫",
-          "score": 97
-        },
-        {
-          "keyword": "柳原可奈子",
-          "score": 96
-        },
-        {
-          "keyword": "全国高等学校野球選手権千葉大会",
-          "score": 95
-        },
-        {
-          "keyword": "高橋宏斗",
-          "score": 94
-        },
-        {
-          "keyword": "きまぐれクック",
-          "score": 93
-        },
-        {
-          "keyword": "ニッポンの社長",
-          "score": 92
-        },
-        {
-          "keyword": "手越祐也",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-20T12:59:48.483Z",
       "geo": "JP",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "信越化学 決算",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-24T11:58:49.904Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "卓球",
+          "score": 100
+        },
+        {
+          "keyword": "松井 大輔",
+          "score": 99
+        },
+        {
+          "keyword": "金曜ロード",
+          "score": 98
+        },
+        {
+          "keyword": "大和ハウス",
+          "score": 97
+        },
+        {
+          "keyword": "踏切",
+          "score": 96
+        },
+        {
+          "keyword": "lettuce",
+          "score": 95
+        },
+        {
+          "keyword": "iss",
+          "score": 94
+        },
+        {
+          "keyword": "記録的短時間大雨情報",
+          "score": 93
+        },
+        {
+          "keyword": "岡村 隆史",
+          "score": 92
+        },
+        {
+          "keyword": "近藤健介",
           "score": 91
         }
       ]
