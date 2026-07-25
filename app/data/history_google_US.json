@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-21T16:01:41.510Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "charlie woods",
-          "score": 100
-        },
-        {
-          "keyword": "stan wawrinka",
-          "score": 99
-        },
-        {
-          "keyword": "lebanon",
-          "score": 98
-        },
-        {
-          "keyword": "charles davis",
-          "score": 97
-        },
-        {
-          "keyword": "camille johnston",
-          "score": 96
-        },
-        {
-          "keyword": "act",
-          "score": 95
-        },
-        {
-          "keyword": "jason statham",
-          "score": 94
-        },
-        {
-          "keyword": "ai bubble",
-          "score": 93
-        },
-        {
-          "keyword": "axios",
-          "score": 92
-        },
-        {
-          "keyword": "leslie jones",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-21T17:49:23.241Z",
       "geo": "US",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "scottie scheffler 3m open",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-25T16:46:44.485Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "spencer jones nuggets",
+          "score": 100
+        },
+        {
+          "keyword": "spencer jones",
+          "score": 99
+        },
+        {
+          "keyword": "zach lavine",
+          "score": 98
+        },
+        {
+          "keyword": "kyle shanahan",
+          "score": 97
+        },
+        {
+          "keyword": "deandre hopkins",
+          "score": 96
+        },
+        {
+          "keyword": "apple ios 27",
+          "score": 95
+        },
+        {
+          "keyword": "nyt connections hints",
+          "score": 94
+        },
+        {
+          "keyword": "vernon taylor",
+          "score": 93
+        },
+        {
+          "keyword": "on patrol: live",
+          "score": 92
+        },
+        {
+          "keyword": "chatgpt outage",
           "score": 91
         }
       ]
