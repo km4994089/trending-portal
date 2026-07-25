@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-21T22:44:30.801Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "julio iglesias",
-          "score": 100
-        },
-        {
-          "keyword": "trump bbc financial records lawsuit",
-          "score": 99
-        },
-        {
-          "keyword": "allergy medication recalled",
-          "score": 98
-        },
-        {
-          "keyword": "dodgers - phillies",
-          "score": 97
-        },
-        {
-          "keyword": "atlético-mg x bahia",
-          "score": 96
-        },
-        {
-          "keyword": "joshua kuroda-grauer",
-          "score": 95
-        },
-        {
-          "keyword": "trump approval net negative poll",
-          "score": 94
-        },
-        {
-          "keyword": "ncis season 24 cast news",
-          "score": 93
-        },
-        {
-          "keyword": "ed harris yellowstone series involvement",
-          "score": 92
-        },
-        {
-          "keyword": "walsall vs aston villa",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-21T23:47:42.372Z",
       "geo": "US",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "yankees - phillies",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-25T23:26:48.148Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jeopardy!",
+          "score": 100
+        },
+        {
+          "keyword": "atlanta united vs new england",
+          "score": 99
+        },
+        {
+          "keyword": "dodgers - mets",
+          "score": 98
+        },
+        {
+          "keyword": "paul skenes",
+          "score": 97
+        },
+        {
+          "keyword": "all star game wnba",
+          "score": 96
+        },
+        {
+          "keyword": "nashville vs orlando city",
+          "score": 95
+        },
+        {
+          "keyword": "brian keller",
+          "score": 94
+        },
+        {
+          "keyword": "rockies vs brewers",
+          "score": 93
+        },
+        {
+          "keyword": "seattle sounders vs philadelphia",
+          "score": 92
+        },
+        {
+          "keyword": "cincinnati vs columbus",
           "score": 91
         }
       ]

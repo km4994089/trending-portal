@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-21T22:44:33.080Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "名神高速道路 事故",
-          "score": 100
-        },
-        {
-          "keyword": "ゴール",
-          "score": 99
-        },
-        {
-          "keyword": "バレーボールカナダ男子代表",
-          "score": 98
-        },
-        {
-          "keyword": "爆撃機",
-          "score": 97
-        },
-        {
-          "keyword": "強盗",
-          "score": 96
-        },
-        {
-          "keyword": "tsla",
-          "score": 95
-        },
-        {
-          "keyword": "ワールドカップ ベストイレブン",
-          "score": 94
-        },
-        {
-          "keyword": "かれい 川 の 湯",
-          "score": 93
-        },
-        {
-          "keyword": "ガーディアンズ 対 ツインズ",
-          "score": 92
-        },
-        {
-          "keyword": "古橋亨梧",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-21T23:47:44.873Z",
       "geo": "JP",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "天氣",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-25T23:26:50.280Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "高額医療費制度",
+          "score": 100
+        },
+        {
+          "keyword": "伊藤沙莉",
+          "score": 99
+        },
+        {
+          "keyword": "愛知県",
+          "score": 98
+        },
+        {
+          "keyword": "堤麗斗",
+          "score": 97
+        },
+        {
+          "keyword": "堺 雅人",
+          "score": 96
+        },
+        {
+          "keyword": "ニュー ホライズンズ",
+          "score": 95
+        },
+        {
+          "keyword": "日本ゼオン",
+          "score": 94
+        },
+        {
+          "keyword": "グッドモーニング",
+          "score": 93
+        },
+        {
+          "keyword": "竜巻注意情報",
+          "score": 92
+        },
+        {
+          "keyword": "宮城県高校野球",
           "score": 91
         }
       ]
