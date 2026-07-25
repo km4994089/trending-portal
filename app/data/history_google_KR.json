@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-21T14:30:16.935Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "원자력",
-          "score": 100
-        },
-        {
-          "keyword": "한국 영화",
-          "score": 99
-        },
-        {
-          "keyword": "야구순위",
-          "score": 98
-        },
-        {
-          "keyword": "파업",
-          "score": 97
-        },
-        {
-          "keyword": "장예원",
-          "score": 96
-        },
-        {
-          "keyword": "우원식",
-          "score": 95
-        },
-        {
-          "keyword": "k리그1 순위",
-          "score": 94
-        },
-        {
-          "keyword": "전진",
-          "score": 93
-        },
-        {
-          "keyword": "김현태",
-          "score": 92
-        },
-        {
-          "keyword": "티웨이항공",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-21T16:01:42.492Z",
       "geo": "KR",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "열대야",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-25T14:43:53.065Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "wi vs pak",
+          "score": 100
+        },
+        {
+          "keyword": "경기도교육감",
+          "score": 99
+        },
+        {
+          "keyword": "서수민",
+          "score": 98
+        },
+        {
+          "keyword": "비니시우스",
+          "score": 97
+        },
+        {
+          "keyword": "kick",
+          "score": 96
+        },
+        {
+          "keyword": "ลาว พบ ไทย",
+          "score": 95
+        },
+        {
+          "keyword": "météo demain",
+          "score": 94
+        },
+        {
+          "keyword": "베헨 비스바덴 대 바이에른",
+          "score": 93
+        },
+        {
+          "keyword": "sbs",
+          "score": 92
+        },
+        {
+          "keyword": "괴롭힘",
           "score": 91
         }
       ]
