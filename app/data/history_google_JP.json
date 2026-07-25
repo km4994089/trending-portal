@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-21T17:49:25.759Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ハッカーグループ",
-          "score": 100
-        },
-        {
-          "keyword": "gemini 3.6 flash",
-          "score": 99
-        },
-        {
-          "keyword": "jr神戸線",
-          "score": 98
-        },
-        {
-          "keyword": "プレミアリーグ",
-          "score": 97
-        },
-        {
-          "keyword": "iphone18",
-          "score": 96
-        },
-        {
-          "keyword": "イプスウィッチ",
-          "score": 95
-        },
-        {
-          "keyword": "ニュージーンズ",
-          "score": 94
-        },
-        {
-          "keyword": "kaylee hottle",
-          "score": 93
-        },
-        {
-          "keyword": "地震速報",
-          "score": 92
-        },
-        {
-          "keyword": "シカゴ・カブス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-21T19:02:49.842Z",
       "geo": "JP",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "ミッドナイト屋台2",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-25T17:50:31.082Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "オールナイトニッポン",
+          "score": 100
+        },
+        {
+          "keyword": "デモ活動",
+          "score": 99
+        },
+        {
+          "keyword": "セダン",
+          "score": 98
+        },
+        {
+          "keyword": "スプラトゥーン レイダース 攻略",
+          "score": 97
+        },
+        {
+          "keyword": "佐藤龍之介",
+          "score": 96
+        },
+        {
+          "keyword": "東海ステークス 過去",
+          "score": 95
+        },
+        {
+          "keyword": "声優",
+          "score": 94
+        },
+        {
+          "keyword": "エージェントキム",
+          "score": 93
+        },
+        {
+          "keyword": "関屋記念 2026",
+          "score": 92
+        },
+        {
+          "keyword": "wehen wiesbaden vs bayern",
           "score": 91
         }
       ]
