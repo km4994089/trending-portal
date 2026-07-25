@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-21T07:31:27.294Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "polio",
-          "score": 100
-        },
-        {
-          "keyword": "d4vd",
-          "score": 99
-        },
-        {
-          "keyword": "thom tillis",
-          "score": 98
-        },
-        {
-          "keyword": "in n out",
-          "score": 97
-        },
-        {
-          "keyword": "marcello hernandez",
-          "score": 96
-        },
-        {
-          "keyword": "public charge rule",
-          "score": 95
-        },
-        {
-          "keyword": "sadie sink",
-          "score": 94
-        },
-        {
-          "keyword": "chiqui tapia",
-          "score": 93
-        },
-        {
-          "keyword": "jaafar jackson",
-          "score": 92
-        },
-        {
-          "keyword": "flau'jae johnson",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-21T10:14:15.819Z",
       "geo": "US",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "gilberto mora",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-25T09:16:20.564Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "dharmendra pradhan",
+          "score": 100
+        },
+        {
+          "keyword": "taco bell new items",
+          "score": 99
+        },
+        {
+          "keyword": "burger king",
+          "score": 98
+        },
+        {
+          "keyword": "taco bell deals",
+          "score": 97
+        },
+        {
+          "keyword": "taco bell near me",
+          "score": 96
+        },
+        {
+          "keyword": "alaskaair",
+          "score": 95
+        },
+        {
+          "keyword": "sierra",
+          "score": 94
+        },
+        {
+          "keyword": "poker",
+          "score": 93
+        },
+        {
+          "keyword": "magomed zaynukov",
+          "score": 92
+        },
+        {
+          "keyword": "glen powell",
           "score": 91
         }
       ]
