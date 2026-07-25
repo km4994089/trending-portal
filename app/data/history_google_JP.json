@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-21T19:02:49.842Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ユヴェントスfc",
-          "score": 100
-        },
-        {
-          "keyword": "金曜ロードショー",
-          "score": 99
-        },
-        {
-          "keyword": "ハッカーグループ",
-          "score": 98
-        },
-        {
-          "keyword": "gemini 3.6 flash",
-          "score": 97
-        },
-        {
-          "keyword": "jr神戸線",
-          "score": 96
-        },
-        {
-          "keyword": "プレミアリーグ",
-          "score": 95
-        },
-        {
-          "keyword": "iphone18",
-          "score": 94
-        },
-        {
-          "keyword": "イプスウィッチ",
-          "score": 93
-        },
-        {
-          "keyword": "ニュージーンズ",
-          "score": 92
-        },
-        {
-          "keyword": "kaylee hottle",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-21T20:40:19.137Z",
       "geo": "JP",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "関屋記念 2026",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-25T20:05:00.321Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "競馬予想",
+          "score": 100
+        },
+        {
+          "keyword": "lpga",
+          "score": 99
+        },
+        {
+          "keyword": "アトレティコ・マドリード",
+          "score": 98
+        },
+        {
+          "keyword": "スプラトゥーン レイダース アンナン巣窟",
+          "score": 97
+        },
+        {
+          "keyword": "高嶋ちさ子",
+          "score": 96
+        },
+        {
+          "keyword": "気象庁 台風情報",
+          "score": 95
+        },
+        {
+          "keyword": "ハンガリーグランプリ",
+          "score": 94
+        },
+        {
+          "keyword": "野火",
+          "score": 93
+        },
+        {
+          "keyword": "オールナイトニッポン",
+          "score": 92
+        },
+        {
+          "keyword": "デモ活動",
           "score": 91
         }
       ]

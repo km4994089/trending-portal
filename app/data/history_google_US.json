@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-21T19:02:47.509Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "peter navarro",
-          "score": 100
-        },
-        {
-          "keyword": "mike johnson",
-          "score": 99
-        },
-        {
-          "keyword": "tornado watch",
-          "score": 98
-        },
-        {
-          "keyword": "ticketmaster",
-          "score": 97
-        },
-        {
-          "keyword": "x files lego set",
-          "score": 96
-        },
-        {
-          "keyword": "fenerbahçe",
-          "score": 95
-        },
-        {
-          "keyword": "tornado warning nyc",
-          "score": 94
-        },
-        {
-          "keyword": "wi vs nz",
-          "score": 93
-        },
-        {
-          "keyword": "brandon mcnulty",
-          "score": 92
-        },
-        {
-          "keyword": "tornado warning",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-21T20:40:17.040Z",
       "geo": "US",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "standard vs juventus",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-25T20:04:58.232Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mackenzie scott",
+          "score": 100
+        },
+        {
+          "keyword": "noah maclauchlan golf",
+          "score": 99
+        },
+        {
+          "keyword": "tigers",
+          "score": 98
+        },
+        {
+          "keyword": "us junior amateur 2026",
+          "score": 97
+        },
+        {
+          "keyword": "padres vs marlins",
+          "score": 96
+        },
+        {
+          "keyword": "diamondbacks vs nationals",
+          "score": 95
+        },
+        {
+          "keyword": "star wars: starfighter",
+          "score": 94
+        },
+        {
+          "keyword": "daniel adongo",
+          "score": 93
+        },
+        {
+          "keyword": "errol spence jr vs tim tszyu time",
+          "score": 92
+        },
+        {
+          "keyword": "robert aaron suttles",
           "score": 91
         }
       ]
