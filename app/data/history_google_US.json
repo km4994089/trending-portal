@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-21T10:14:15.819Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "disney",
-          "score": 100
-        },
-        {
-          "keyword": "app",
-          "score": 99
-        },
-        {
-          "keyword": "sinja kraus",
-          "score": 98
-        },
-        {
-          "keyword": "driver",
-          "score": 97
-        },
-        {
-          "keyword": "shawn trujillo",
-          "score": 96
-        },
-        {
-          "keyword": "flood watch",
-          "score": 95
-        },
-        {
-          "keyword": "new york times",
-          "score": 94
-        },
-        {
-          "keyword": "jan lennard struff",
-          "score": 93
-        },
-        {
-          "keyword": "onepay upgrade personal loan",
-          "score": 92
-        },
-        {
-          "keyword": "juan manuel cerundolo",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-21T12:05:53.225Z",
       "geo": "US",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "glen powell",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-25T10:50:18.103Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mega millions",
+          "score": 100
+        },
+        {
+          "keyword": "ncis",
+          "score": 99
+        },
+        {
+          "keyword": "hasan piker",
+          "score": 98
+        },
+        {
+          "keyword": "nj lottery",
+          "score": 97
+        },
+        {
+          "keyword": "zim vs ind",
+          "score": 96
+        },
+        {
+          "keyword": "kathy hochul",
+          "score": 95
+        },
+        {
+          "keyword": "extreme heat warning",
+          "score": 94
+        },
+        {
+          "keyword": "well",
+          "score": 93
+        },
+        {
+          "keyword": "giannis antetokounmpo",
+          "score": 92
+        },
+        {
+          "keyword": "ayo the bear",
           "score": 91
         }
       ]

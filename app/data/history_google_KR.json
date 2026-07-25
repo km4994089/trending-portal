@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-21T10:14:17.056Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김예림",
-          "score": 100
-        },
-        {
-          "keyword": "애플 카드",
-          "score": 99
-        },
-        {
-          "keyword": "행정",
-          "score": 98
-        },
-        {
-          "keyword": "메가프로젝트",
-          "score": 97
-        },
-        {
-          "keyword": "로스앤젤레스 레이커스",
-          "score": 96
-        },
-        {
-          "keyword": "삼성 대 키움",
-          "score": 95
-        },
-        {
-          "keyword": "ssg 대 롯데",
-          "score": 94
-        },
-        {
-          "keyword": "두산 대 kt",
-          "score": 93
-        },
-        {
-          "keyword": "압류",
-          "score": 92
-        },
-        {
-          "keyword": "구제역",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-21T12:05:54.273Z",
       "geo": "KR",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "손주영",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-25T10:50:19.316Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "chat gpt",
+          "score": 100
+        },
+        {
+          "keyword": "xsmn",
+          "score": 99
+        },
+        {
+          "keyword": "chatgpt",
+          "score": 98
+        },
+        {
+          "keyword": "gpt",
+          "score": 97
+        },
+        {
+          "keyword": "gpt 서버",
+          "score": 96
+        },
+        {
+          "keyword": "장기수",
+          "score": 95
+        },
+        {
+          "keyword": "엘리베이터",
+          "score": 94
+        },
+        {
+          "keyword": "카를로스 발레바",
+          "score": 93
+        },
+        {
+          "keyword": "뱀",
+          "score": 92
+        },
+        {
+          "keyword": "atletico madrid",
           "score": 91
         }
       ]

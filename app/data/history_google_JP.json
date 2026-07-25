@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-21T10:14:18.529Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "野田市",
-          "score": 100
-        },
-        {
-          "keyword": "ロマンス詐欺",
-          "score": 99
-        },
-        {
-          "keyword": "オルカン",
-          "score": 98
-        },
-        {
-          "keyword": "ヤコビアン 予想",
-          "score": 97
-        },
-        {
-          "keyword": "日曜劇場",
-          "score": 96
-        },
-        {
-          "keyword": "元山飛優",
-          "score": 95
-        },
-        {
-          "keyword": "ジャパン・プロフェッショナル・バスケットボールリーグ",
-          "score": 94
-        },
-        {
-          "keyword": "相撲結果",
-          "score": 93
-        },
-        {
-          "keyword": "ヘラル エンカー ナシオン",
-          "score": 92
-        },
-        {
-          "keyword": "大相撲 結果 速報",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-21T12:05:55.469Z",
       "geo": "JP",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "大相撲 結果 速報",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-25T10:50:20.563Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "国家 公務員",
+          "score": 100
+        },
+        {
+          "keyword": "岡田 将生",
+          "score": 99
+        },
+        {
+          "keyword": "デジモン",
+          "score": 98
+        },
+        {
+          "keyword": "熱海花火大会",
+          "score": 97
+        },
+        {
+          "keyword": "テレ東",
+          "score": 96
+        },
+        {
+          "keyword": "地震情報",
+          "score": 95
+        },
+        {
+          "keyword": "kma 2026",
+          "score": 94
+        },
+        {
+          "keyword": "花火",
+          "score": 93
+        },
+        {
+          "keyword": "モンスト いしごおり",
+          "score": 92
+        },
+        {
+          "keyword": "横浜 花火",
           "score": 91
         }
       ]
