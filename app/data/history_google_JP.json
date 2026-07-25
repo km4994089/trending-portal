@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-21T04:58:40.619Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "皇室 典範 改正",
-          "score": 100
-        },
-        {
-          "keyword": "高校野球愛媛大会",
-          "score": 99
-        },
-        {
-          "keyword": "臼井麗香",
-          "score": 98
-        },
-        {
-          "keyword": "黒柳徹子",
-          "score": 97
-        },
-        {
-          "keyword": "ヒルナンデス",
-          "score": 96
-        },
-        {
-          "keyword": "伊集院光",
-          "score": 95
-        },
-        {
-          "keyword": "セレクションセール 2026",
-          "score": 94
-        },
-        {
-          "keyword": "アンディバーナム氏",
-          "score": 93
-        },
-        {
-          "keyword": "骨太の方針",
-          "score": 92
-        },
-        {
-          "keyword": "ルーラーシップ ウマ娘",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-21T07:31:29.107Z",
       "geo": "JP",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "港まつり 和歌山",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-25T07:10:27.810Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "舞の海 秀平",
+          "score": 100
+        },
+        {
+          "keyword": "エプスタイン",
+          "score": 99
+        },
+        {
+          "keyword": "明徳義塾",
+          "score": 98
+        },
+        {
+          "keyword": "セブン&アイ・ホールディングス",
+          "score": 97
+        },
+        {
+          "keyword": "tvh賞",
+          "score": 96
+        },
+        {
+          "keyword": "バレーボールアジア選手権",
+          "score": 95
+        },
+        {
+          "keyword": "ジュビロ磐田",
+          "score": 94
+        },
+        {
+          "keyword": "お祭り",
+          "score": 93
+        },
+        {
+          "keyword": "ブルーインパルス 青森",
+          "score": 92
+        },
+        {
+          "keyword": "炎鵬",
           "score": 91
         }
       ]
