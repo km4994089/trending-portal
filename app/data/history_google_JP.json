@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-21T01:43:35.491Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "金価格",
-          "score": 100
-        },
-        {
-          "keyword": "秋田県高校野球",
-          "score": 99
-        },
-        {
-          "keyword": "ムーキー・ベッツ",
-          "score": 98
-        },
-        {
-          "keyword": "南北海道高校野球",
-          "score": 97
-        },
-        {
-          "keyword": "ラブ上等 シーズン2",
-          "score": 96
-        },
-        {
-          "keyword": "静岡県高校野球",
-          "score": 95
-        },
-        {
-          "keyword": "公正取引委員会",
-          "score": 94
-        },
-        {
-          "keyword": "日経平均",
-          "score": 93
-        },
-        {
-          "keyword": "ソニー株価",
-          "score": 92
-        },
-        {
-          "keyword": "ソニーフィナンシャルグループ 株価",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-21T04:58:40.619Z",
       "geo": "JP",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "福島花火大会2026",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-25T01:45:45.014Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "カブス",
+          "score": 100
+        },
+        {
+          "keyword": "バドミントン インターハイ 2026",
+          "score": 99
+        },
+        {
+          "keyword": "フランシスコ・アルバレス",
+          "score": 98
+        },
+        {
+          "keyword": "茨城県高校野球",
+          "score": 97
+        },
+        {
+          "keyword": "カイル・タッカー",
+          "score": 96
+        },
+        {
+          "keyword": "岩手県高校野球",
+          "score": 95
+        },
+        {
+          "keyword": "長野県高校野球",
+          "score": 94
+        },
+        {
+          "keyword": "高校野球 福岡",
+          "score": 93
+        },
+        {
+          "keyword": "滋賀県高校野球",
+          "score": 92
+        },
+        {
+          "keyword": "山形県高校野球",
           "score": 91
         }
       ]
