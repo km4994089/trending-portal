@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-21T20:40:17.040Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "smci",
-          "score": 100
-        },
-        {
-          "keyword": "smci stock",
-          "score": 99
-        },
-        {
-          "keyword": "lisa murkowski",
-          "score": 98
-        },
-        {
-          "keyword": "craig melvin",
-          "score": 97
-        },
-        {
-          "keyword": "stubhub",
-          "score": 96
-        },
-        {
-          "keyword": "united flight diversion arizona military base",
-          "score": 95
-        },
-        {
-          "keyword": "brooke rollins",
-          "score": 94
-        },
-        {
-          "keyword": "susan collins",
-          "score": 93
-        },
-        {
-          "keyword": "severe thunderstorm watch",
-          "score": 92
-        },
-        {
-          "keyword": "thea booysen",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-21T21:54:10.724Z",
       "geo": "US",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "robert aaron suttles",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-25T21:14:10.265Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "méxico",
+          "score": 100
+        },
+        {
+          "keyword": "koivun golfer",
+          "score": 99
+        },
+        {
+          "keyword": "santos vs chapecoense",
+          "score": 98
+        },
+        {
+          "keyword": "liverpool",
+          "score": 97
+        },
+        {
+          "keyword": "sonny gray",
+          "score": 96
+        },
+        {
+          "keyword": "boyacá chicó - atlético nacional",
+          "score": 95
+        },
+        {
+          "keyword": "united states department of war",
+          "score": 94
+        },
+        {
+          "keyword": "michael brennan",
+          "score": 93
+        },
+        {
+          "keyword": "josh kelly",
+          "score": 92
+        },
+        {
+          "keyword": "mike vrabel",
           "score": 91
         }
       ]
