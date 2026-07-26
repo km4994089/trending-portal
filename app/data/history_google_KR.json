@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-22T17:46:48.030Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "유골함",
-          "score": 100
-        },
-        {
-          "keyword": "dc",
-          "score": 99
-        },
-        {
-          "keyword": "fm",
-          "score": 98
-        },
-        {
-          "keyword": "클럽 친선경기",
-          "score": 97
-        },
-        {
-          "keyword": "극한 호우",
-          "score": 96
-        },
-        {
-          "keyword": "홈 플러스 재개 장",
-          "score": 95
-        },
-        {
-          "keyword": "가수",
-          "score": 94
-        },
-        {
-          "keyword": "fx5",
-          "score": 93
-        },
-        {
-          "keyword": "교사",
-          "score": 92
-        },
-        {
-          "keyword": "이용수",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-22T18:56:42.897Z",
       "geo": "KR",
       "source": "google",
@@ -2724,6 +2677,53 @@
         },
         {
           "keyword": "장윤기",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-26T17:53:58.144Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "디즈니+",
+          "score": 100
+        },
+        {
+          "keyword": "영장",
+          "score": 99
+        },
+        {
+          "keyword": "영종도",
+          "score": 98
+        },
+        {
+          "keyword": "경찰관",
+          "score": 97
+        },
+        {
+          "keyword": "김연경",
+          "score": 96
+        },
+        {
+          "keyword": "비비 워터 밤",
+          "score": 95
+        },
+        {
+          "keyword": "정전",
+          "score": 94
+        },
+        {
+          "keyword": "오연수",
+          "score": 93
+        },
+        {
+          "keyword": "앤 트로픽",
+          "score": 92
+        },
+        {
+          "keyword": "한상진",
           "score": 91
         }
       ]
