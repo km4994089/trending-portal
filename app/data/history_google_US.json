@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-22T07:32:26.365Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "power outage near me",
-          "score": 100
-        },
-        {
-          "keyword": "monkey",
-          "score": 99
-        },
-        {
-          "keyword": "memphis weather",
-          "score": 98
-        },
-        {
-          "keyword": "jason alexander",
-          "score": 97
-        },
-        {
-          "keyword": "seth meyers",
-          "score": 96
-        },
-        {
-          "keyword": "ricki lake facelift photos",
-          "score": 95
-        },
-        {
-          "keyword": "charles manson",
-          "score": 94
-        },
-        {
-          "keyword": "ben affleck",
-          "score": 93
-        },
-        {
-          "keyword": "rebel wilson",
-          "score": 92
-        },
-        {
-          "keyword": "kuminga",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-22T10:13:58.506Z",
       "geo": "US",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "costco lawsuit settlement",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-26T09:34:23.204Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "george rr martin",
+          "score": 100
+        },
+        {
+          "keyword": "the rookie",
+          "score": 99
+        },
+        {
+          "keyword": "sustainability news",
+          "score": 98
+        },
+        {
+          "keyword": "car news",
+          "score": 97
+        },
+        {
+          "keyword": "alaskaair",
+          "score": 96
+        },
+        {
+          "keyword": "apple iphone 18 pro max",
+          "score": 95
+        },
+        {
+          "keyword": "heat dome weather",
+          "score": 94
+        },
+        {
+          "keyword": "robert downey jr",
+          "score": 93
+        },
+        {
+          "keyword": "election contest",
+          "score": 92
+        },
+        {
+          "keyword": "colton smith",
           "score": 91
         }
       ]
