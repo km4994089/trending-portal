@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-22T20:13:46.173Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "北朝鮮",
-          "score": 100
-        },
-        {
-          "keyword": "ダルトン・ラッシング",
-          "score": 99
-        },
-        {
-          "keyword": "芳根京子",
-          "score": 98
-        },
-        {
-          "keyword": "全国高等学校野球選手権奈良大会",
-          "score": 97
-        },
-        {
-          "keyword": "死体",
-          "score": 96
-        },
-        {
-          "keyword": "強盗",
-          "score": 95
-        },
-        {
-          "keyword": "伊藤大海",
-          "score": 94
-        },
-        {
-          "keyword": "角田裕毅",
-          "score": 93
-        },
-        {
-          "keyword": "コストコお買い得商品",
-          "score": 92
-        },
-        {
-          "keyword": "豊昇龍智勝",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-22T21:39:14.049Z",
       "geo": "JP",
       "source": "google",
@@ -2771,6 +2724,53 @@
         },
         {
           "keyword": "地震速報",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-26T21:23:33.580Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "鳥取市天気",
+          "score": 100
+        },
+        {
+          "keyword": "ロシア",
+          "score": 99
+        },
+        {
+          "keyword": "bahia x corinthians",
+          "score": 98
+        },
+        {
+          "keyword": "ドジャース 順位",
+          "score": 97
+        },
+        {
+          "keyword": "アベンジャーズ",
+          "score": 96
+        },
+        {
+          "keyword": "錦織圭",
+          "score": 95
+        },
+        {
+          "keyword": "村上宗隆",
+          "score": 94
+        },
+        {
+          "keyword": "松山英樹",
+          "score": 93
+        },
+        {
+          "keyword": "麦倉洋一",
+          "score": 92
+        },
+        {
+          "keyword": "タイガース 対 ロイヤルズ",
           "score": 91
         }
       ]
