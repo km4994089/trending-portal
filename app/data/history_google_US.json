@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-22T01:42:37.218Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "logan paul",
-          "score": 100
-        },
-        {
-          "keyword": "zach thornton",
-          "score": 99
-        },
-        {
-          "keyword": "tbt tournament",
-          "score": 98
-        },
-        {
-          "keyword": "benjamin netanyahu",
-          "score": 97
-        },
-        {
-          "keyword": "cruz azul",
-          "score": 96
-        },
-        {
-          "keyword": "max muncy",
-          "score": 95
-        },
-        {
-          "keyword": "manny machado",
-          "score": 94
-        },
-        {
-          "keyword": "cal fire map",
-          "score": 93
-        },
-        {
-          "keyword": "zack wheeler",
-          "score": 92
-        },
-        {
-          "keyword": "jared young",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-22T04:58:12.765Z",
       "geo": "US",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "deerbrook mall",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-26T04:51:18.123Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "citizenship",
+          "score": 100
+        },
+        {
+          "keyword": "sdfc",
+          "score": 99
+        },
+        {
+          "keyword": "curtis mead",
+          "score": 98
+        },
+        {
+          "keyword": "tottenham",
+          "score": 97
+        },
+        {
+          "keyword": "j b pritzker",
+          "score": 96
+        },
+        {
+          "keyword": "powerball drawing",
+          "score": 95
+        },
+        {
+          "keyword": "elize matsunaga",
+          "score": 94
+        },
+        {
+          "keyword": "santos laguna vs atlas",
+          "score": 93
+        },
+        {
+          "keyword": "la galaxy",
+          "score": 92
+        },
+        {
+          "keyword": "tigres - san luis",
           "score": 91
         }
       ]
