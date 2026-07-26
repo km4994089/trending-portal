@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-22T12:09:47.457Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "佐藤浩市",
-          "score": 100
-        },
-        {
-          "keyword": "木村沙織",
-          "score": 99
-        },
-        {
-          "keyword": "香港",
-          "score": 98
-        },
-        {
-          "keyword": "佛子園",
-          "score": 97
-        },
-        {
-          "keyword": "甲斐野央",
-          "score": 96
-        },
-        {
-          "keyword": "sasukeワールドカップ2026",
-          "score": 95
-        },
-        {
-          "keyword": "高橋一生",
-          "score": 94
-        },
-        {
-          "keyword": "牧秀悟",
-          "score": 93
-        },
-        {
-          "keyword": "ヒアリ",
-          "score": 92
-        },
-        {
-          "keyword": "weather tomorrow",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-22T14:31:22.407Z",
       "geo": "JP",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "乙武 洋匡",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-26T12:35:22.342Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "vivant 声優",
+          "score": 100
+        },
+        {
+          "keyword": "コナン",
+          "score": 99
+        },
+        {
+          "keyword": "離岸流",
+          "score": 98
+        },
+        {
+          "keyword": "パランティア",
+          "score": 97
+        },
+        {
+          "keyword": "uap",
+          "score": 96
+        },
+        {
+          "keyword": "ufo",
+          "score": 95
+        },
+        {
+          "keyword": "防衛省",
+          "score": 94
+        },
+        {
+          "keyword": "マリリン・モンロー",
+          "score": 93
+        },
+        {
+          "keyword": "松坂大輔",
+          "score": 92
+        },
+        {
+          "keyword": "ガールオアレディ",
           "score": 91
         }
       ]
