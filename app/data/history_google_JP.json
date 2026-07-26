@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-22T21:39:14.049Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "goog",
-          "score": 100
-        },
-        {
-          "keyword": "プロ野球監督",
-          "score": 99
-        },
-        {
-          "keyword": "藤原紀香",
-          "score": 98
-        },
-        {
-          "keyword": "吉村知事",
-          "score": 97
-        },
-        {
-          "keyword": "spcx",
-          "score": 96
-        },
-        {
-          "keyword": "浜松市",
-          "score": 95
-        },
-        {
-          "keyword": "nvda",
-          "score": 94
-        },
-        {
-          "keyword": "吉見一起",
-          "score": 93
-        },
-        {
-          "keyword": "ナスダック総合指数",
-          "score": 92
-        },
-        {
-          "keyword": "台風",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-22T22:53:04.482Z",
       "geo": "JP",
       "source": "google",
@@ -2771,6 +2724,53 @@
         },
         {
           "keyword": "タイガース 対 ロイヤルズ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-26T22:26:50.083Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "宿題",
+          "score": 100
+        },
+        {
+          "keyword": "毒島誠",
+          "score": 99
+        },
+        {
+          "keyword": "カラム・ニューマン",
+          "score": 98
+        },
+        {
+          "keyword": "ロンドン",
+          "score": 97
+        },
+        {
+          "keyword": "アイントラハト・フランクフルト",
+          "score": 96
+        },
+        {
+          "keyword": "陽岱鋼",
+          "score": 95
+        },
+        {
+          "keyword": "バングラデシュ",
+          "score": 94
+        },
+        {
+          "keyword": "ムヒ",
+          "score": 93
+        },
+        {
+          "keyword": "天气",
+          "score": 92
+        },
+        {
+          "keyword": "フォーミュラ1",
           "score": 91
         }
       ]
