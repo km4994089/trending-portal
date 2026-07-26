@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-22T18:56:42.042Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "freedom of the press",
-          "score": 100
-        },
-        {
-          "keyword": "lynx vs storm",
-          "score": 99
-        },
-        {
-          "keyword": "brown bear",
-          "score": 98
-        },
-        {
-          "keyword": "bald eagle jackie rescue",
-          "score": 97
-        },
-        {
-          "keyword": "recreativo huelva - real betis",
-          "score": 96
-        },
-        {
-          "keyword": "stevenage vs west ham",
-          "score": 95
-        },
-        {
-          "keyword": "red sox score",
-          "score": 94
-        },
-        {
-          "keyword": "red sox",
-          "score": 93
-        },
-        {
-          "keyword": "mercury vs sparks",
-          "score": 92
-        },
-        {
-          "keyword": "maidenhead united vs wolves",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-22T20:13:43.558Z",
       "geo": "US",
       "source": "google",
@@ -2771,6 +2724,53 @@
         },
         {
           "keyword": "koivun golf",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-26T20:04:31.790Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tpc twin cities",
+          "score": 100
+        },
+        {
+          "keyword": "chase elliott",
+          "score": 99
+        },
+        {
+          "keyword": "tyrone taylor",
+          "score": 98
+        },
+        {
+          "keyword": "willie cauley stein",
+          "score": 97
+        },
+        {
+          "keyword": "lance armstrong",
+          "score": 96
+        },
+        {
+          "keyword": "kyle kuzma",
+          "score": 95
+        },
+        {
+          "keyword": "sky brown",
+          "score": 94
+        },
+        {
+          "keyword": "corey heim",
+          "score": 93
+        },
+        {
+          "keyword": "angels vs giants",
+          "score": 92
+        },
+        {
+          "keyword": "wsj",
           "score": 91
         }
       ]

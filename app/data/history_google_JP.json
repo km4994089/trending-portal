@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-22T18:56:43.999Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ハル・シティ",
-          "score": 100
-        },
-        {
-          "keyword": "アルファベット 決算",
-          "score": 99
-        },
-        {
-          "keyword": "クラブ親善試合",
-          "score": 98
-        },
-        {
-          "keyword": "福岡",
-          "score": 97
-        },
-        {
-          "keyword": "豊田章男",
-          "score": 96
-        },
-        {
-          "keyword": "インサイドトヨタ",
-          "score": 95
-        },
-        {
-          "keyword": "トッテナム 対 ミルトン・キーンズ",
-          "score": 94
-        },
-        {
-          "keyword": "水曜日のダウンタウン",
-          "score": 93
-        },
-        {
-          "keyword": "ゲイブ・キッド",
-          "score": 92
-        },
-        {
-          "keyword": "おちたらおわり",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-22T20:13:46.173Z",
       "geo": "JP",
       "source": "google",
@@ -2771,6 +2724,53 @@
         },
         {
           "keyword": "バカリズム",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-26T20:04:34.229Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "市川市動植物園",
+          "score": 100
+        },
+        {
+          "keyword": "沈没",
+          "score": 99
+        },
+        {
+          "keyword": "カブス",
+          "score": 98
+        },
+        {
+          "keyword": "ホワイトソックス",
+          "score": 97
+        },
+        {
+          "keyword": "株価",
+          "score": 96
+        },
+        {
+          "keyword": "ボー・ビシェット",
+          "score": 95
+        },
+        {
+          "keyword": "カイル・タッカー",
+          "score": 94
+        },
+        {
+          "keyword": "フランシスコ・リンドーア",
+          "score": 93
+        },
+        {
+          "keyword": "麻生 太郎",
+          "score": 92
+        },
+        {
+          "keyword": "地震速報",
           "score": 91
         }
       ]
