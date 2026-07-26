@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-22T14:31:19.765Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sony fx5",
-          "score": 100
-        },
-        {
-          "keyword": "angelina jolie",
-          "score": 99
-        },
-        {
-          "keyword": "pamela adlon",
-          "score": 98
-        },
-        {
-          "keyword": "nba 2k27",
-          "score": 97
-        },
-        {
-          "keyword": "paula badosa",
-          "score": 96
-        },
-        {
-          "keyword": "bab al-mandab strait",
-          "score": 95
-        },
-        {
-          "keyword": "maya joint",
-          "score": 94
-        },
-        {
-          "keyword": "jimothy the raccoon",
-          "score": 93
-        },
-        {
-          "keyword": "anson mount",
-          "score": 92
-        },
-        {
-          "keyword": "tracee ellis ross",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-22T16:14:27.153Z",
       "geo": "US",
       "source": "google",
@@ -2724,6 +2677,53 @@
         },
         {
           "keyword": "lilli tagger",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-26T15:35:49.989Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sheinelle jones",
+          "score": 100
+        },
+        {
+          "keyword": "formula 1 standings",
+          "score": 99
+        },
+        {
+          "keyword": "heather tom",
+          "score": 98
+        },
+        {
+          "keyword": "james harden darius garland cavaliers trade",
+          "score": 97
+        },
+        {
+          "keyword": "nfl schedule",
+          "score": 96
+        },
+        {
+          "keyword": "f1 driver standings",
+          "score": 95
+        },
+        {
+          "keyword": "max verstappen",
+          "score": 94
+        },
+        {
+          "keyword": "jenny shin",
+          "score": 93
+        },
+        {
+          "keyword": "bernie sanders",
+          "score": 92
+        },
+        {
+          "keyword": "sf marathon route",
           "score": 91
         }
       ]
