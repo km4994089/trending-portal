@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-22T10:13:59.549Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이지혜",
-          "score": 100
-        },
-        {
-          "keyword": "fc 바르셀로나",
-          "score": 99
-        },
-        {
-          "keyword": "챗 gpt",
-          "score": 98
-        },
-        {
-          "keyword": "동아일보",
-          "score": 97
-        },
-        {
-          "keyword": "jyp엔터테인먼트",
-          "score": 96
-        },
-        {
-          "keyword": "복권",
-          "score": 95
-        },
-        {
-          "keyword": "천궁",
-          "score": 94
-        },
-        {
-          "keyword": "현대엔지니어링",
-          "score": 93
-        },
-        {
-          "keyword": "백승호",
-          "score": 92
-        },
-        {
-          "keyword": "송내역",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-22T12:09:46.348Z",
       "geo": "KR",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "애플",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-26T11:13:13.491Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "뉴스 속보",
+          "score": 100
+        },
+        {
+          "keyword": "안양 대 강원",
+          "score": 99
+        },
+        {
+          "keyword": "나한일",
+          "score": 98
+        },
+        {
+          "keyword": "범죄",
+          "score": 97
+        },
+        {
+          "keyword": "기상",
+          "score": 96
+        },
+        {
+          "keyword": "개혁",
+          "score": 95
+        },
+        {
+          "keyword": "지뢰",
+          "score": 94
+        },
+        {
+          "keyword": "강훈",
+          "score": 93
+        },
+        {
+          "keyword": "권경애",
+          "score": 92
+        },
+        {
+          "keyword": "fc 서울 대 울산",
           "score": 91
         }
       ]

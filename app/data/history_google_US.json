@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-22T10:13:58.506Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "flights cancelled",
-          "score": 100
-        },
-        {
-          "keyword": "new york",
-          "score": 99
-        },
-        {
-          "keyword": "weston wv",
-          "score": 98
-        },
-        {
-          "keyword": "phillies score",
-          "score": 97
-        },
-        {
-          "keyword": "marco rubio",
-          "score": 96
-        },
-        {
-          "keyword": "valentin vacherot",
-          "score": 95
-        },
-        {
-          "keyword": "nottm forest vs blackburn rovers",
-          "score": 94
-        },
-        {
-          "keyword": "mane",
-          "score": 93
-        },
-        {
-          "keyword": "jade jones",
-          "score": 92
-        },
-        {
-          "keyword": "great white shark southern california",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-22T12:09:45.163Z",
       "geo": "US",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "colton smith",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-26T11:13:11.995Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "amazon prime settlement",
+          "score": 100
+        },
+        {
+          "keyword": "atletico madrid kang-in lee transfer",
+          "score": 99
+        },
+        {
+          "keyword": "hough dancing with the stars",
+          "score": 98
+        },
+        {
+          "keyword": "marshawn lynch",
+          "score": 97
+        },
+        {
+          "keyword": "television comedy",
+          "score": 96
+        },
+        {
+          "keyword": "jalen brunson knicks contract",
+          "score": 95
+        },
+        {
+          "keyword": "powerball",
+          "score": 94
+        },
+        {
+          "keyword": "zim vs ind",
+          "score": 93
+        },
+        {
+          "keyword": "cathie wood",
+          "score": 92
+        },
+        {
+          "keyword": "hungarian grand prix",
           "score": 91
         }
       ]
