@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-23T16:19:19.579Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "padres - braves",
-          "score": 100
-        },
-        {
-          "keyword": "trump iran",
-          "score": 99
-        },
-        {
-          "keyword": "nic scourton",
-          "score": 98
-        },
-        {
-          "keyword": "karoline leavitt",
-          "score": 97
-        },
-        {
-          "keyword": "richard carapaz",
-          "score": 96
-        },
-        {
-          "keyword": "microsoft outage",
-          "score": 95
-        },
-        {
-          "keyword": "qqq",
-          "score": 94
-        },
-        {
-          "keyword": "sp500",
-          "score": 93
-        },
-        {
-          "keyword": "alexander bublik",
-          "score": 92
-        },
-        {
-          "keyword": "stock market",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-23T17:53:04.570Z",
       "geo": "US",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "united states",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-27T17:14:42.010Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kelly ripa",
+          "score": 100
+        },
+        {
+          "keyword": "national weather service",
+          "score": 99
+        },
+        {
+          "keyword": "zoe saldaña",
+          "score": 98
+        },
+        {
+          "keyword": "fauci diary",
+          "score": 97
+        },
+        {
+          "keyword": "2027",
+          "score": 96
+        },
+        {
+          "keyword": "weather forecast",
+          "score": 95
+        },
+        {
+          "keyword": "us-iran",
+          "score": 94
+        },
+        {
+          "keyword": "severe thunderstorm warning",
+          "score": 93
+        },
+        {
+          "keyword": "terence crawford",
+          "score": 92
+        },
+        {
+          "keyword": "scottie scheffler pga tour performance",
           "score": 91
         }
       ]
