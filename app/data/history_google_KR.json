@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-23T01:50:16.883Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "버스",
-          "score": 100
-        },
-        {
-          "keyword": "프로게이머",
-          "score": 99
-        },
-        {
-          "keyword": "차두리",
-          "score": 98
-        },
-        {
-          "keyword": "한라산",
-          "score": 97
-        },
-        {
-          "keyword": "코오롱티슈진",
-          "score": 96
-        },
-        {
-          "keyword": "sk이터닉스",
-          "score": 95
-        },
-        {
-          "keyword": "tsla",
-          "score": 94
-        },
-        {
-          "keyword": "경찰관",
-          "score": 93
-        },
-        {
-          "keyword": "비니시우스",
-          "score": 92
-        },
-        {
-          "keyword": "국수본",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-23T05:15:53.571Z",
       "geo": "KR",
       "source": "google",
@@ -2771,6 +2724,53 @@
         },
         {
           "keyword": "휴가",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-27T05:02:07.260Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "판결",
+          "score": 100
+        },
+        {
+          "keyword": "이란 전쟁",
+          "score": 99
+        },
+        {
+          "keyword": "현대로템",
+          "score": 98
+        },
+        {
+          "keyword": "배종옥",
+          "score": 97
+        },
+        {
+          "keyword": "전북현대",
+          "score": 96
+        },
+        {
+          "keyword": "진 아름",
+          "score": 95
+        },
+        {
+          "keyword": "ssg 랜더스",
+          "score": 94
+        },
+        {
+          "keyword": "하나카드",
+          "score": 93
+        },
+        {
+          "keyword": "nike",
+          "score": 92
+        },
+        {
+          "keyword": "삼성라이온즈",
           "score": 91
         }
       ]
