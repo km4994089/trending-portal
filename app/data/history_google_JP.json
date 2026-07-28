@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-24T22:52:55.970Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "仮面ライダー",
-          "score": 100
-        },
-        {
-          "keyword": "中央道 渋滞",
-          "score": 99
-        },
-        {
-          "keyword": "バーチャルyoutuber",
-          "score": 98
-        },
-        {
-          "keyword": "playstation",
-          "score": 97
-        },
-        {
-          "keyword": "レゴランド",
-          "score": 96
-        },
-        {
-          "keyword": "冠番組",
-          "score": 95
-        },
-        {
-          "keyword": "麻生太郎",
-          "score": 94
-        },
-        {
-          "keyword": "クイズ王",
-          "score": 93
-        },
-        {
-          "keyword": "メッツ 対 ドジャース",
-          "score": 92
-        },
-        {
-          "keyword": "オリオールズ 対 ブレーブス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-24T23:55:07.539Z",
       "geo": "JP",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "産経新聞",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-28T23:50:38.725Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ロブチェン",
+          "score": 100
+        },
+        {
+          "keyword": "関門トンネル",
+          "score": 99
+        },
+        {
+          "keyword": "2週間天気",
+          "score": 98
+        },
+        {
+          "keyword": "田村真子",
+          "score": 97
+        },
+        {
+          "keyword": "和久田 麻由子",
+          "score": 96
+        },
+        {
+          "keyword": "長岡 天気",
+          "score": 95
+        },
+        {
+          "keyword": "めんたいパーク 埼玉",
+          "score": 94
+        },
+        {
+          "keyword": "猿飛佐助",
+          "score": 93
+        },
+        {
+          "keyword": "井上祐貴",
+          "score": 92
+        },
+        {
+          "keyword": "万波 失恋",
           "score": 91
         }
       ]

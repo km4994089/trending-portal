@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-24T22:52:53.742Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "spacex",
-          "score": 100
-        },
-        {
-          "keyword": "blue jays vs red sox",
-          "score": 99
-        },
-        {
-          "keyword": "padres vs marlins",
-          "score": 98
-        },
-        {
-          "keyword": "méxico sub-20 - antigua y barbuda sub-20",
-          "score": 97
-        },
-        {
-          "keyword": "bald eagle",
-          "score": 96
-        },
-        {
-          "keyword": "wnba 3 point contest 2026",
-          "score": 95
-        },
-        {
-          "keyword": "dodgers vs mets",
-          "score": 94
-        },
-        {
-          "keyword": "braves vs orioles",
-          "score": 93
-        },
-        {
-          "keyword": "guardians vs rays",
-          "score": 92
-        },
-        {
-          "keyword": "mario hezonja",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-24T23:55:05.338Z",
       "geo": "US",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "rangers vs rays",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-28T23:50:36.202Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jay clayton",
+          "score": 100
+        },
+        {
+          "keyword": "iran attack",
+          "score": 99
+        },
+        {
+          "keyword": "furious",
+          "score": 98
+        },
+        {
+          "keyword": "kyle stowers",
+          "score": 97
+        },
+        {
+          "keyword": "eduardo valencia",
+          "score": 96
+        },
+        {
+          "keyword": "wral weather",
+          "score": 95
+        },
+        {
+          "keyword": "tempo vs lynx",
+          "score": 94
+        },
+        {
+          "keyword": "supreme court",
+          "score": 93
+        },
+        {
+          "keyword": "skhy stock",
+          "score": 92
+        },
+        {
+          "keyword": "cholesterol",
           "score": 91
         }
       ]

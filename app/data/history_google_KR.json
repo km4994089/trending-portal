@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-24T22:52:54.759Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "파리 생제르맹 fc",
-          "score": 100
-        },
-        {
-          "keyword": "엄지원",
-          "score": 99
-        },
-        {
-          "keyword": "검찰",
-          "score": 98
-        },
-        {
-          "keyword": "mu",
-          "score": 97
-        },
-        {
-          "keyword": "브룩스 레일리",
-          "score": 96
-        },
-        {
-          "keyword": "skhy",
-          "score": 95
-        },
-        {
-          "keyword": "필라델피아 반도체 지수",
-          "score": 94
-        },
-        {
-          "keyword": "혈당",
-          "score": 93
-        },
-        {
-          "keyword": "schd",
-          "score": 92
-        },
-        {
-          "keyword": "lng선",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-24T23:55:06.413Z",
       "geo": "KR",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "tsmc",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-28T23:50:37.320Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "배종옥",
+          "score": 100
+        },
+        {
+          "keyword": "메이저 리그 사커",
+          "score": 99
+        },
+        {
+          "keyword": "msft",
+          "score": 98
+        },
+        {
+          "keyword": "오마이뉴스",
+          "score": 97
+        },
+        {
+          "keyword": "노동자",
+          "score": 96
+        },
+        {
+          "keyword": "환율",
+          "score": 95
+        },
+        {
+          "keyword": "물",
+          "score": 94
+        },
+        {
+          "keyword": "aston villa vs real sociedad",
+          "score": 93
+        },
+        {
+          "keyword": "ionq",
+          "score": 92
+        },
+        {
+          "keyword": "voo",
           "score": 91
         }
       ]
