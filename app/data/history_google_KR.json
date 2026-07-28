@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-24T21:55:25.741Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "수사",
-          "score": 100
-        },
-        {
-          "keyword": "lng선",
-          "score": 99
-        },
-        {
-          "keyword": "사이드카",
-          "score": 98
-        },
-        {
-          "keyword": "골프",
-          "score": 97
-        },
-        {
-          "keyword": "홈플러스",
-          "score": 96
-        },
-        {
-          "keyword": "집",
-          "score": 95
-        },
-        {
-          "keyword": "아틀레티코 마드리드",
-          "score": 94
-        },
-        {
-          "keyword": "농성",
-          "score": 93
-        },
-        {
-          "keyword": "붉은 진주",
-          "score": 92
-        },
-        {
-          "keyword": "액화천연가스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-24T22:52:54.759Z",
       "geo": "KR",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "흥국생명",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-28T22:50:36.114Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "aston villa vs real sociedad",
+          "score": 100
+        },
+        {
+          "keyword": "ionq",
+          "score": 99
+        },
+        {
+          "keyword": "voo",
+          "score": 98
+        },
+        {
+          "keyword": "schd",
+          "score": 97
+        },
+        {
+          "keyword": "다우 존스 산업평균지수",
+          "score": 96
+        },
+        {
+          "keyword": "mu",
+          "score": 95
+        },
+        {
+          "keyword": "박문성",
+          "score": 94
+        },
+        {
+          "keyword": "티엔엔터테인먼트",
+          "score": 93
+        },
+        {
+          "keyword": "브로드컴",
+          "score": 92
+        },
+        {
+          "keyword": "tsmc",
           "score": 91
         }
       ]
