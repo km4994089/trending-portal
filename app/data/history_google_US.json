@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-24T15:19:57.849Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "taylor swift",
-          "score": 100
-        },
-        {
-          "keyword": "connor read ice detention",
-          "score": 99
-        },
-        {
-          "keyword": "sara bejlek",
-          "score": 98
-        },
-        {
-          "keyword": "cole hauser",
-          "score": 97
-        },
-        {
-          "keyword": "ford bronco engine fire recall",
-          "score": 96
-        },
-        {
-          "keyword": "jordan rodgers",
-          "score": 95
-        },
-        {
-          "keyword": "jason sudeikis",
-          "score": 94
-        },
-        {
-          "keyword": "colt gray",
-          "score": 93
-        },
-        {
-          "keyword": "brian doerksen passing",
-          "score": 92
-        },
-        {
-          "keyword": "russian fighter jets",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-24T17:00:14.962Z",
       "geo": "US",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "sheri biggs",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-28T16:28:08.327Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ticketmaster",
+          "score": 100
+        },
+        {
+          "keyword": "netflix movies",
+          "score": 99
+        },
+        {
+          "keyword": "taco bell mexican pizza",
+          "score": 98
+        },
+        {
+          "keyword": "u.s. airport ground stops",
+          "score": 97
+        },
+        {
+          "keyword": "kamil majchrzak",
+          "score": 96
+        },
+        {
+          "keyword": "mlb trade deadline",
+          "score": 95
+        },
+        {
+          "keyword": "julieta pareja",
+          "score": 94
+        },
+        {
+          "keyword": "pak vs wi",
+          "score": 93
+        },
+        {
+          "keyword": "real madrid vs leganes",
+          "score": 92
+        },
+        {
+          "keyword": "marshals",
           "score": 91
         }
       ]
