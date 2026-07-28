@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-24T17:00:16.156Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "르브론",
-          "score": 100
-        },
-        {
-          "keyword": "lebron james",
-          "score": 99
-        },
-        {
-          "keyword": "야구여왕",
-          "score": 98
-        },
-        {
-          "keyword": "로센보르그 대 맨유",
-          "score": 97
-        },
-        {
-          "keyword": "1 박 2 일",
-          "score": 96
-        },
-        {
-          "keyword": "티비",
-          "score": 95
-        },
-        {
-          "keyword": "다시보기",
-          "score": 94
-        },
-        {
-          "keyword": "1달러",
-          "score": 93
-        },
-        {
-          "keyword": "안주완",
-          "score": 92
-        },
-        {
-          "keyword": "송지효",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-24T18:19:42.012Z",
       "geo": "KR",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "만치니",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-28T17:51:56.796Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "롤렉스",
+          "score": 100
+        },
+        {
+          "keyword": "요시다 슈헤이",
+          "score": 99
+        },
+        {
+          "keyword": "싸이",
+          "score": 98
+        },
+        {
+          "keyword": "기아 셀토스",
+          "score": 97
+        },
+        {
+          "keyword": "롤",
+          "score": 96
+        },
+        {
+          "keyword": "리그오브레전드",
+          "score": 95
+        },
+        {
+          "keyword": "샌디스크 주가",
+          "score": 94
+        },
+        {
+          "keyword": "어 도어",
+          "score": 93
+        },
+        {
+          "keyword": "문희준",
+          "score": 92
+        },
+        {
+          "keyword": "최권",
           "score": 91
         }
       ]
