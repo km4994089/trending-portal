@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-24T05:10:34.474Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "marvel tokon open beta",
-          "score": 100
-        },
-        {
-          "keyword": "her private hell",
-          "score": 99
-        },
-        {
-          "keyword": "starz",
-          "score": 98
-        },
-        {
-          "keyword": "charli xcx",
-          "score": 97
-        },
-        {
-          "keyword": "shiloh hendrix",
-          "score": 96
-        },
-        {
-          "keyword": "demi moore",
-          "score": 95
-        },
-        {
-          "keyword": "animal katseye",
-          "score": 94
-        },
-        {
-          "keyword": "colman domingo",
-          "score": 93
-        },
-        {
-          "keyword": "heath ledger",
-          "score": 92
-        },
-        {
-          "keyword": "bon jovi",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-24T07:43:43.306Z",
       "geo": "US",
       "source": "google",
@@ -2677,6 +2630,53 @@
         },
         {
           "keyword": "casey schmitt",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-28T07:31:50.492Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nyt connections hints",
+          "score": 100
+        },
+        {
+          "keyword": "mars rover",
+          "score": 99
+        },
+        {
+          "keyword": "kaia gerber",
+          "score": 98
+        },
+        {
+          "keyword": "oc fair",
+          "score": 97
+        },
+        {
+          "keyword": "mark henry",
+          "score": 96
+        },
+        {
+          "keyword": "chelsea",
+          "score": 95
+        },
+        {
+          "keyword": "abc rj decker fall release",
+          "score": 94
+        },
+        {
+          "keyword": "common",
+          "score": 93
+        },
+        {
+          "keyword": "gala",
+          "score": 92
+        },
+        {
+          "keyword": "disneyland 70th anniversary end",
           "score": 91
         }
       ]
