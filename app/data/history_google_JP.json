@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-25T20:05:00.321Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "競馬予想",
-          "score": 100
-        },
-        {
-          "keyword": "lpga",
-          "score": 99
-        },
-        {
-          "keyword": "アトレティコ・マドリード",
-          "score": 98
-        },
-        {
-          "keyword": "スプラトゥーン レイダース アンナン巣窟",
-          "score": 97
-        },
-        {
-          "keyword": "高嶋ちさ子",
-          "score": 96
-        },
-        {
-          "keyword": "気象庁 台風情報",
-          "score": 95
-        },
-        {
-          "keyword": "ハンガリーグランプリ",
-          "score": 94
-        },
-        {
-          "keyword": "野火",
-          "score": 93
-        },
-        {
-          "keyword": "オールナイトニッポン",
-          "score": 92
-        },
-        {
-          "keyword": "デモ活動",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-25T21:14:12.624Z",
       "geo": "JP",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "kddi",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-29T20:08:05.385Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "サンディスク 株価",
+          "score": 100
+        },
+        {
+          "keyword": "風、薫る",
+          "score": 99
+        },
+        {
+          "keyword": "ラーメン店",
+          "score": 98
+        },
+        {
+          "keyword": "frb",
+          "score": 97
+        },
+        {
+          "keyword": "ハンガリーグランプリ",
+          "score": 96
+        },
+        {
+          "keyword": "ipad",
+          "score": 95
+        },
+        {
+          "keyword": "八代市庁舎",
+          "score": 94
+        },
+        {
+          "keyword": "首相",
+          "score": 93
+        },
+        {
+          "keyword": "坂上忍",
+          "score": 92
+        },
+        {
+          "keyword": "小鹿野町",
           "score": 91
         }
       ]
