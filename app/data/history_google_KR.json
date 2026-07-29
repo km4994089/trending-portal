@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-25T21:14:11.466Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "맨체스터 유나이티드 fc",
-          "score": 100
-        },
-        {
-          "keyword": "택시",
-          "score": 99
-        },
-        {
-          "keyword": "피의 게임",
-          "score": 98
-        },
-        {
-          "keyword": "코스닥",
-          "score": 97
-        },
-        {
-          "keyword": "청계천",
-          "score": 96
-        },
-        {
-          "keyword": "what to watch on prime",
-          "score": 95
-        },
-        {
-          "keyword": "김아영",
-          "score": 94
-        },
-        {
-          "keyword": "que hacer este fin de semana",
-          "score": 93
-        },
-        {
-          "keyword": "구름",
-          "score": 92
-        },
-        {
-          "keyword": "블리치",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-25T22:23:31.274Z",
       "geo": "KR",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "차영현",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-29T21:24:37.849Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "미군",
+          "score": 100
+        },
+        {
+          "keyword": "주가 대폭락",
+          "score": 99
+        },
+        {
+          "keyword": "농성",
+          "score": 98
+        },
+        {
+          "keyword": "이한 범",
+          "score": 97
+        },
+        {
+          "keyword": "금리",
+          "score": 96
+        },
+        {
+          "keyword": "stock market news today",
+          "score": 95
+        },
+        {
+          "keyword": "latest iphone rumors",
+          "score": 94
+        },
+        {
+          "keyword": "what is a data breach",
+          "score": 93
+        },
+        {
+          "keyword": "cryptocurrency trading",
+          "score": 92
+        },
+        {
+          "keyword": "best shows on hbo max",
           "score": 91
         }
       ]
