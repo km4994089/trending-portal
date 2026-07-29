@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-24T23:55:05.338Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mexico game",
-          "score": 100
-        },
-        {
-          "keyword": "chicago stars vs orlando pride",
-          "score": 99
-        },
-        {
-          "keyword": "paul goldschmidt",
-          "score": 98
-        },
-        {
-          "keyword": "reds vs cardinals",
-          "score": 97
-        },
-        {
-          "keyword": "athletics vs twins",
-          "score": 96
-        },
-        {
-          "keyword": "white house correspondents association dinner",
-          "score": 95
-        },
-        {
-          "keyword": "alex karp",
-          "score": 94
-        },
-        {
-          "keyword": "mariners vs rangers",
-          "score": 93
-        },
-        {
-          "keyword": "apple tv",
-          "score": 92
-        },
-        {
-          "keyword": "appletv",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-25T01:45:42.431Z",
       "geo": "US",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "cholesterol",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-29T01:30:19.958Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "liberty vs sparks",
+          "score": 100
+        },
+        {
+          "keyword": "fire vs aces",
+          "score": 99
+        },
+        {
+          "keyword": "mariners vs dodgers",
+          "score": 98
+        },
+        {
+          "keyword": "andy beshear",
+          "score": 97
+        },
+        {
+          "keyword": "kelsey plum",
+          "score": 96
+        },
+        {
+          "keyword": "blood moon",
+          "score": 95
+        },
+        {
+          "keyword": "jumanji open world",
+          "score": 94
+        },
+        {
+          "keyword": "shakira austin",
+          "score": 93
+        },
+        {
+          "keyword": "clear creek county lightning strike",
+          "score": 92
+        },
+        {
+          "keyword": "venus williams",
           "score": 91
         }
       ]
