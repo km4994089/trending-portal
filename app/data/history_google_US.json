@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-25T23:26:48.148Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jeopardy!",
-          "score": 100
-        },
-        {
-          "keyword": "atlanta united vs new england",
-          "score": 99
-        },
-        {
-          "keyword": "dodgers - mets",
-          "score": 98
-        },
-        {
-          "keyword": "paul skenes",
-          "score": 97
-        },
-        {
-          "keyword": "all star game wnba",
-          "score": 96
-        },
-        {
-          "keyword": "nashville vs orlando city",
-          "score": 95
-        },
-        {
-          "keyword": "brian keller",
-          "score": 94
-        },
-        {
-          "keyword": "rockies vs brewers",
-          "score": 93
-        },
-        {
-          "keyword": "seattle sounders vs philadelphia",
-          "score": 92
-        },
-        {
-          "keyword": "cincinnati vs columbus",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-26T01:04:58.911Z",
       "geo": "US",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "blue bloods",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-29T23:29:10.075Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "yankees - white sox",
+          "score": 100
+        },
+        {
+          "keyword": "dream vs wings",
+          "score": 99
+        },
+        {
+          "keyword": "sean combs incarceration release date",
+          "score": 98
+        },
+        {
+          "keyword": "carmelo anthony",
+          "score": 97
+        },
+        {
+          "keyword": "meryl streep",
+          "score": 96
+        },
+        {
+          "keyword": "jonathan swan",
+          "score": 95
+        },
+        {
+          "keyword": "andrew vaughn",
+          "score": 94
+        },
+        {
+          "keyword": "luis arráez",
+          "score": 93
+        },
+        {
+          "keyword": "naomi osaka",
+          "score": 92
+        },
+        {
+          "keyword": "amber alert",
           "score": 91
         }
       ]

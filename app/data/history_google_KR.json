@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-25T23:26:49.231Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "운세",
-          "score": 100
-        },
-        {
-          "keyword": "liverpool vs sunderland",
-          "score": 99
-        },
-        {
-          "keyword": "차두리",
-          "score": 98
-        },
-        {
-          "keyword": "ลิเวอร์พูล พบ ซันเดอร์แลนด์",
-          "score": 97
-        },
-        {
-          "keyword": "박재현",
-          "score": 96
-        },
-        {
-          "keyword": "weather",
-          "score": 95
-        },
-        {
-          "keyword": "당구",
-          "score": 94
-        },
-        {
-          "keyword": "임영웅",
-          "score": 93
-        },
-        {
-          "keyword": "리버풀 대 선덜랜드",
-          "score": 92
-        },
-        {
-          "keyword": "텐센트",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-26T01:05:00.038Z",
       "geo": "KR",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "박현주",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-29T23:29:11.215Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "서울양양고속도로",
+          "score": 100
+        },
+        {
+          "keyword": "재벌x형사",
+          "score": 99
+        },
+        {
+          "keyword": "tqqq",
+          "score": 98
+        },
+        {
+          "keyword": "msft",
+          "score": 97
+        },
+        {
+          "keyword": "삼성전자 실적발표",
+          "score": 96
+        },
+        {
+          "keyword": "atlético madrid vs getafe",
+          "score": 95
+        },
+        {
+          "keyword": "소방",
+          "score": 94
+        },
+        {
+          "keyword": "파크 골프",
+          "score": 93
+        },
+        {
+          "keyword": "메타 주가",
+          "score": 92
+        },
+        {
+          "keyword": "대한민국 과학기술정보통신부",
           "score": 91
         }
       ]
