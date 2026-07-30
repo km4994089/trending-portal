@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-26T01:05:00.038Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "알리 하메네이",
-          "score": 100
-        },
-        {
-          "keyword": "mls",
-          "score": 99
-        },
-        {
-          "keyword": "montréal vs inter miami",
-          "score": 98
-        },
-        {
-          "keyword": "국가유공자",
-          "score": 97
-        },
-        {
-          "keyword": "수출",
-          "score": 96
-        },
-        {
-          "keyword": "와이어 투 와이어",
-          "score": 95
-        },
-        {
-          "keyword": "구자열",
-          "score": 94
-        },
-        {
-          "keyword": "에어컨",
-          "score": 93
-        },
-        {
-          "keyword": "네이마르",
-          "score": 92
-        },
-        {
-          "keyword": "서울지하철",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-26T04:51:19.378Z",
       "geo": "KR",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "군인",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-30T03:49:59.519Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김시우",
+          "score": 100
+        },
+        {
+          "keyword": "김영웅",
+          "score": 99
+        },
+        {
+          "keyword": "유혜주",
+          "score": 98
+        },
+        {
+          "keyword": "김석기",
+          "score": 97
+        },
+        {
+          "keyword": "손나은",
+          "score": 96
+        },
+        {
+          "keyword": "신유열",
+          "score": 95
+        },
+        {
+          "keyword": "배현진",
+          "score": 94
+        },
+        {
+          "keyword": "인천해양경찰서",
+          "score": 93
+        },
+        {
+          "keyword": "푸들",
+          "score": 92
+        },
+        {
+          "keyword": "레드삭스 대 애슬레틱스",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-26T01:05:01.325Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "playstation plus",
-          "score": 100
-        },
-        {
-          "keyword": "西東京 高校野球",
-          "score": 99
-        },
-        {
-          "keyword": "プロレスラー",
-          "score": 98
-        },
-        {
-          "keyword": "横浜スタジアム",
-          "score": 97
-        },
-        {
-          "keyword": "byd 軽自動車",
-          "score": 96
-        },
-        {
-          "keyword": "吉田賢吾",
-          "score": 95
-        },
-        {
-          "keyword": "小遣い",
-          "score": 94
-        },
-        {
-          "keyword": "映画 ちい かわ",
-          "score": 93
-        },
-        {
-          "keyword": "マムダニ市長",
-          "score": 92
-        },
-        {
-          "keyword": "拓大紅陵",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-26T04:51:20.514Z",
       "geo": "JP",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "羽生結弦",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-30T03:50:00.528Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "マッサン",
+          "score": 100
+        },
+        {
+          "keyword": "局長",
+          "score": 99
+        },
+        {
+          "keyword": "豊平川花火大会",
+          "score": 98
+        },
+        {
+          "keyword": "日産自動車 追浜工場",
+          "score": 97
+        },
+        {
+          "keyword": "ドコモの銀行",
+          "score": 96
+        },
+        {
+          "keyword": "ティモンディ高岸",
+          "score": 95
+        },
+        {
+          "keyword": "木南晴夏",
+          "score": 94
+        },
+        {
+          "keyword": "高校バスケインターハイ",
+          "score": 93
+        },
+        {
+          "keyword": "新型スカイライン",
+          "score": 92
+        },
+        {
+          "keyword": "中道改革連合",
           "score": 91
         }
       ]
