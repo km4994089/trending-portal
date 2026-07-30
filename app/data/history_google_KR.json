@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-26T12:35:20.982Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "유격수",
-          "score": 100
-        },
-        {
-          "keyword": "김윤하",
-          "score": 99
-        },
-        {
-          "keyword": "india vs zimbabwe",
-          "score": 98
-        },
-        {
-          "keyword": "안희연",
-          "score": 97
-        },
-        {
-          "keyword": "엔진",
-          "score": 96
-        },
-        {
-          "keyword": "k리그1",
-          "score": 95
-        },
-        {
-          "keyword": "비비 워터밤",
-          "score": 94
-        },
-        {
-          "keyword": "김승현",
-          "score": 93
-        },
-        {
-          "keyword": "명예영국인",
-          "score": 92
-        },
-        {
-          "keyword": "청주시",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-26T14:23:53.274Z",
       "geo": "KR",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "삼성물산",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-30T13:02:24.784Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sh공사",
+          "score": 100
+        },
+        {
+          "keyword": "음료",
+          "score": 99
+        },
+        {
+          "keyword": "대한전선",
+          "score": 98
+        },
+        {
+          "keyword": "송혜교",
+          "score": 97
+        },
+        {
+          "keyword": "체포",
+          "score": 96
+        },
+        {
+          "keyword": "배우",
+          "score": 95
+        },
+        {
+          "keyword": "미확인비행체",
+          "score": 94
+        },
+        {
+          "keyword": "sk하이닉스 주가 전망",
+          "score": 93
+        },
+        {
+          "keyword": "산불",
+          "score": 92
+        },
+        {
+          "keyword": "간선급행버스체계",
           "score": 91
         }
       ]
