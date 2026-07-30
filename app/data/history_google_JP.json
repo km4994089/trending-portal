@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-26T23:26:52.083Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "福岡県議会",
-          "score": 100
-        },
-        {
-          "keyword": "高橋文哉",
-          "score": 99
-        },
-        {
-          "keyword": "魁皇",
-          "score": 98
-        },
-        {
-          "keyword": "共働き",
-          "score": 97
-        },
-        {
-          "keyword": "熱中症アラート",
-          "score": 96
-        },
-        {
-          "keyword": "京都 天気",
-          "score": 95
-        },
-        {
-          "keyword": "大田区 火事",
-          "score": 94
-        },
-        {
-          "keyword": "サントリードリームマッチ",
-          "score": 93
-        },
-        {
-          "keyword": "アルフィー",
-          "score": 92
-        },
-        {
-          "keyword": "小林樹斗",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-27T01:06:14.949Z",
       "geo": "JP",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "弘前 天気",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-30T23:53:10.417Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "福本莉子",
+          "score": 100
+        },
+        {
+          "keyword": "tenki",
+          "score": 99
+        },
+        {
+          "keyword": "中央構造線断層帯",
+          "score": 98
+        },
+        {
+          "keyword": "台風 進路予測",
+          "score": 97
+        },
+        {
+          "keyword": "天皇",
+          "score": 96
+        },
+        {
+          "keyword": "ブレシア カルチョ",
+          "score": 95
+        },
+        {
+          "keyword": "マイナポータル",
+          "score": 94
+        },
+        {
+          "keyword": "ceuta",
+          "score": 93
+        },
+        {
+          "keyword": "モロッコ",
+          "score": 92
+        },
+        {
+          "keyword": "熊本 ボランティア",
           "score": 91
         }
       ]
