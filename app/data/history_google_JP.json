@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-26T07:30:41.811Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "クイーンステークス",
-          "score": 100
-        },
-        {
-          "keyword": "防空",
-          "score": 99
-        },
-        {
-          "keyword": "御嶽海",
-          "score": 98
-        },
-        {
-          "keyword": "清宮幸太郎",
-          "score": 97
-        },
-        {
-          "keyword": "ダノン ダックス",
-          "score": 96
-        },
-        {
-          "keyword": "ウルトラクイズ",
-          "score": 95
-        },
-        {
-          "keyword": "沼津 花火大会",
-          "score": 94
-        },
-        {
-          "keyword": "マツダ・cx-30",
-          "score": 93
-        },
-        {
-          "keyword": "首相",
-          "score": 92
-        },
-        {
-          "keyword": "アイビスサマーダッシュ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-26T09:34:25.285Z",
       "geo": "JP",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "ugc",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-30T09:09:49.179Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "堀ちえみ",
+          "score": 100
+        },
+        {
+          "keyword": "桑田佳祐",
+          "score": 99
+        },
+        {
+          "keyword": "熊本県 義援金",
+          "score": 98
+        },
+        {
+          "keyword": "デーリー東北",
+          "score": 97
+        },
+        {
+          "keyword": "ニコニコ生放送",
+          "score": 96
+        },
+        {
+          "keyword": "pts",
+          "score": 95
+        },
+        {
+          "keyword": "イオン モール イベント 中止",
+          "score": 94
+        },
+        {
+          "keyword": "高見澤郁魅",
+          "score": 93
+        },
+        {
+          "keyword": "ファナ ティクス",
+          "score": 92
+        },
+        {
+          "keyword": "平和島競艇",
           "score": 91
         }
       ]
