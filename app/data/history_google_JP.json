@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-26T21:23:33.580Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "鳥取市天気",
-          "score": 100
-        },
-        {
-          "keyword": "ロシア",
-          "score": 99
-        },
-        {
-          "keyword": "bahia x corinthians",
-          "score": 98
-        },
-        {
-          "keyword": "ドジャース 順位",
-          "score": 97
-        },
-        {
-          "keyword": "アベンジャーズ",
-          "score": 96
-        },
-        {
-          "keyword": "錦織圭",
-          "score": 95
-        },
-        {
-          "keyword": "村上宗隆",
-          "score": 94
-        },
-        {
-          "keyword": "松山英樹",
-          "score": 93
-        },
-        {
-          "keyword": "麦倉洋一",
-          "score": 92
-        },
-        {
-          "keyword": "タイガース 対 ロイヤルズ",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-07-26T22:26:50.083Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "宿題",
-          "score": 100
-        },
-        {
-          "keyword": "毒島誠",
-          "score": 99
-        },
-        {
-          "keyword": "カラム・ニューマン",
-          "score": 98
-        },
-        {
-          "keyword": "ロンドン",
-          "score": 97
-        },
-        {
-          "keyword": "アイントラハト・フランクフルト",
-          "score": 96
-        },
-        {
-          "keyword": "陽岱鋼",
-          "score": 95
-        },
-        {
-          "keyword": "バングラデシュ",
-          "score": 94
-        },
-        {
-          "keyword": "ムヒ",
-          "score": 93
-        },
-        {
-          "keyword": "天气",
-          "score": 92
-        },
-        {
-          "keyword": "フォーミュラ1",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-26T23:26:52.083Z",
       "geo": "JP",
       "source": "google",
@@ -2395,6 +2301,53 @@
         },
         {
           "keyword": "キム・カーダシアン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-30T22:33:37.238Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "メッツ 対 マーリンズ",
+          "score": 100
+        },
+        {
+          "keyword": "村上宗隆",
+          "score": 99
+        },
+        {
+          "keyword": "レッズ 対 パイレーツ",
+          "score": 98
+        },
+        {
+          "keyword": "メガレックウザex",
+          "score": 97
+        },
+        {
+          "keyword": "ゼルダの伝説 時のオカリナ",
+          "score": 96
+        },
+        {
+          "keyword": "nasdaq amzn",
+          "score": 95
+        },
+        {
+          "keyword": "大井競馬場",
+          "score": 94
+        },
+        {
+          "keyword": "ニデック",
+          "score": 93
+        },
+        {
+          "keyword": "有田哲平",
+          "score": 92
+        },
+        {
+          "keyword": "弘前 天気",
           "score": 91
         }
       ]
