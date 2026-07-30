@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-26T17:53:59.443Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "地震",
-          "score": 100
-        },
-        {
-          "keyword": "地震速報",
-          "score": 99
-        },
-        {
-          "keyword": "ホロドリ 攻略",
-          "score": 98
-        },
-        {
-          "keyword": "今日好きになりました",
-          "score": 97
-        },
-        {
-          "keyword": "武井 釜 海岸",
-          "score": 96
-        },
-        {
-          "keyword": "始球式 中野由佳",
-          "score": 95
-        },
-        {
-          "keyword": "ヒロド歩美",
-          "score": 94
-        },
-        {
-          "keyword": "ユンホ",
-          "score": 93
-        },
-        {
-          "keyword": "バカリズム",
-          "score": 92
-        },
-        {
-          "keyword": "渡邊雄太",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-26T18:55:28.875Z",
       "geo": "JP",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "スザンヌ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-30T18:14:42.195Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "rottach-egern 対 バイエルン",
+          "score": 100
+        },
+        {
+          "keyword": "岩谷麻優",
+          "score": 99
+        },
+        {
+          "keyword": "uefa",
+          "score": 98
+        },
+        {
+          "keyword": "みずほ銀行",
+          "score": 97
+        },
+        {
+          "keyword": "石井 竜也",
+          "score": 96
+        },
+        {
+          "keyword": "我が家",
+          "score": 95
+        },
+        {
+          "keyword": "岡田彰布",
+          "score": 94
+        },
+        {
+          "keyword": "雲仙市",
+          "score": 93
+        },
+        {
+          "keyword": "円ユーロ",
+          "score": 92
+        },
+        {
+          "keyword": "アーム 株価",
           "score": 91
         }
       ]
