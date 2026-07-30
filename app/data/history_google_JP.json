@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-26T18:55:28.875Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "トランプ",
-          "score": 100
-        },
-        {
-          "keyword": "地震速報",
-          "score": 99
-        },
-        {
-          "keyword": "記録的短時間大雨情報",
-          "score": 98
-        },
-        {
-          "keyword": "ホロドリ 攻略",
-          "score": 97
-        },
-        {
-          "keyword": "今日好きになりました",
-          "score": 96
-        },
-        {
-          "keyword": "武井 釜 海岸",
-          "score": 95
-        },
-        {
-          "keyword": "始球式 中野由佳",
-          "score": 94
-        },
-        {
-          "keyword": "ヒロド歩美",
-          "score": 93
-        },
-        {
-          "keyword": "ユンホ",
-          "score": 92
-        },
-        {
-          "keyword": "バカリズム",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-26T20:04:34.229Z",
       "geo": "JP",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "アーム 株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-30T19:59:11.440Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "株式分割",
+          "score": 100
+        },
+        {
+          "keyword": "ロシア ウクライナ",
+          "score": 99
+        },
+        {
+          "keyword": "後期高齢者医療制度",
+          "score": 98
+        },
+        {
+          "keyword": "年金",
+          "score": 97
+        },
+        {
+          "keyword": "加山雄三",
+          "score": 96
+        },
+        {
+          "keyword": "バレーボールポーランド男子代表",
+          "score": 95
+        },
+        {
+          "keyword": "加藤シゲアキ",
+          "score": 94
+        },
+        {
+          "keyword": "マイクロンテクノロジー株価",
+          "score": 93
+        },
+        {
+          "keyword": "アヤックス 対 ヴォイヴォディナ",
+          "score": 92
+        },
+        {
+          "keyword": "鈴木誠也",
           "score": 91
         }
       ]
