@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-26T20:04:31.790Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tpc twin cities",
-          "score": 100
-        },
-        {
-          "keyword": "chase elliott",
-          "score": 99
-        },
-        {
-          "keyword": "tyrone taylor",
-          "score": 98
-        },
-        {
-          "keyword": "willie cauley stein",
-          "score": 97
-        },
-        {
-          "keyword": "lance armstrong",
-          "score": 96
-        },
-        {
-          "keyword": "kyle kuzma",
-          "score": 95
-        },
-        {
-          "keyword": "sky brown",
-          "score": 94
-        },
-        {
-          "keyword": "corey heim",
-          "score": 93
-        },
-        {
-          "keyword": "angels vs giants",
-          "score": 92
-        },
-        {
-          "keyword": "wsj",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-26T21:23:31.410Z",
       "geo": "US",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "tcsar william standish wyoming",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-30T21:08:40.741Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "chris olave",
+          "score": 100
+        },
+        {
+          "keyword": "national scout jamboree",
+          "score": 99
+        },
+        {
+          "keyword": "axti stock",
+          "score": 98
+        },
+        {
+          "keyword": "deportación",
+          "score": 97
+        },
+        {
+          "keyword": "mstr stock",
+          "score": 96
+        },
+        {
+          "keyword": "matt strahm",
+          "score": 95
+        },
+        {
+          "keyword": "rblx stock",
+          "score": 94
+        },
+        {
+          "keyword": "minnesota twins",
+          "score": 93
+        },
+        {
+          "keyword": "appl stock",
+          "score": 92
+        },
+        {
+          "keyword": "rivn stock",
           "score": 91
         }
       ]

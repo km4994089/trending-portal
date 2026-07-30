@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-26T20:04:34.229Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "市川市動植物園",
-          "score": 100
-        },
-        {
-          "keyword": "沈没",
-          "score": 99
-        },
-        {
-          "keyword": "カブス",
-          "score": 98
-        },
-        {
-          "keyword": "ホワイトソックス",
-          "score": 97
-        },
-        {
-          "keyword": "株価",
-          "score": 96
-        },
-        {
-          "keyword": "ボー・ビシェット",
-          "score": 95
-        },
-        {
-          "keyword": "カイル・タッカー",
-          "score": 94
-        },
-        {
-          "keyword": "フランシスコ・リンドーア",
-          "score": 93
-        },
-        {
-          "keyword": "麻生 太郎",
-          "score": 92
-        },
-        {
-          "keyword": "地震速報",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-26T21:23:33.580Z",
       "geo": "JP",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "鈴木誠也",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-30T21:08:42.894Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "アップル",
+          "score": 100
+        },
+        {
+          "keyword": "オルカン",
+          "score": 99
+        },
+        {
+          "keyword": "ばんばんざい",
+          "score": 98
+        },
+        {
+          "keyword": "シカゴ・ホワイトソックス",
+          "score": 97
+        },
+        {
+          "keyword": "井上清華",
+          "score": 96
+        },
+        {
+          "keyword": "アーム株価",
+          "score": 95
+        },
+        {
+          "keyword": "mlbトレード",
+          "score": 94
+        },
+        {
+          "keyword": "遺族",
+          "score": 93
+        },
+        {
+          "keyword": "ストップ高",
+          "score": 92
+        },
+        {
+          "keyword": "キム・カーダシアン",
           "score": 91
         }
       ]
