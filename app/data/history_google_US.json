@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-27T17:14:42.010Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kelly ripa",
-          "score": 100
-        },
-        {
-          "keyword": "national weather service",
-          "score": 99
-        },
-        {
-          "keyword": "zoe saldaña",
-          "score": 98
-        },
-        {
-          "keyword": "fauci diary",
-          "score": 97
-        },
-        {
-          "keyword": "2027",
-          "score": 96
-        },
-        {
-          "keyword": "weather forecast",
-          "score": 95
-        },
-        {
-          "keyword": "us-iran",
-          "score": 94
-        },
-        {
-          "keyword": "severe thunderstorm warning",
-          "score": 93
-        },
-        {
-          "keyword": "terence crawford",
-          "score": 92
-        },
-        {
-          "keyword": "scottie scheffler pga tour performance",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-27T18:52:27.812Z",
       "geo": "US",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "rblx stock",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-31T17:19:21.330Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "rick domeier retiring",
+          "score": 100
+        },
+        {
+          "keyword": "jenna bush hager",
+          "score": 99
+        },
+        {
+          "keyword": "kristina liutova",
+          "score": 98
+        },
+        {
+          "keyword": "minnesota water systems cyberattack",
+          "score": 97
+        },
+        {
+          "keyword": "caty mcnally",
+          "score": 96
+        },
+        {
+          "keyword": "brittney griner",
+          "score": 95
+        },
+        {
+          "keyword": "tom pelphrey",
+          "score": 94
+        },
+        {
+          "keyword": "keegan bradley",
+          "score": 93
+        },
+        {
+          "keyword": "trump rx",
+          "score": 92
+        },
+        {
+          "keyword": "david iacono",
           "score": 91
         }
       ]
