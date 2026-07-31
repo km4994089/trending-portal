@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-27T05:02:08.177Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "潜水艦",
-          "score": 100
-        },
-        {
-          "keyword": "大の里泰輝",
-          "score": 99
-        },
-        {
-          "keyword": "はじめてのおつかい",
-          "score": 98
-        },
-        {
-          "keyword": "野中瑠衣",
-          "score": 97
-        },
-        {
-          "keyword": "黒柳徹子",
-          "score": 96
-        },
-        {
-          "keyword": "高知 天気",
-          "score": 95
-        },
-        {
-          "keyword": "亀田 興 毅",
-          "score": 94
-        },
-        {
-          "keyword": "バドミントン インターハイ 2026",
-          "score": 93
-        },
-        {
-          "keyword": "アンタッチャブル",
-          "score": 92
-        },
-        {
-          "keyword": "はてな",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-27T08:51:23.471Z",
       "geo": "JP",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "デンソー 株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-31T05:25:03.471Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "super gt",
+          "score": 100
+        },
+        {
+          "keyword": "木原龍一",
+          "score": 99
+        },
+        {
+          "keyword": "ファミマ サンリオ",
+          "score": 98
+        },
+        {
+          "keyword": "タナー・スコット",
+          "score": 97
+        },
+        {
+          "keyword": "財務省",
+          "score": 96
+        },
+        {
+          "keyword": "tokyo mer〜走る緊急救命室〜",
+          "score": 95
+        },
+        {
+          "keyword": "中井亜美",
+          "score": 94
+        },
+        {
+          "keyword": "anthropic",
+          "score": 93
+        },
+        {
+          "keyword": "beams",
+          "score": 92
+        },
+        {
+          "keyword": "桐生祥秀",
           "score": 91
         }
       ]

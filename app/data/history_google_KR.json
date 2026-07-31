@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-27T05:02:07.260Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "판결",
-          "score": 100
-        },
-        {
-          "keyword": "이란 전쟁",
-          "score": 99
-        },
-        {
-          "keyword": "현대로템",
-          "score": 98
-        },
-        {
-          "keyword": "배종옥",
-          "score": 97
-        },
-        {
-          "keyword": "전북현대",
-          "score": 96
-        },
-        {
-          "keyword": "진 아름",
-          "score": 95
-        },
-        {
-          "keyword": "ssg 랜더스",
-          "score": 94
-        },
-        {
-          "keyword": "하나카드",
-          "score": 93
-        },
-        {
-          "keyword": "nike",
-          "score": 92
-        },
-        {
-          "keyword": "삼성라이온즈",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-27T08:51:22.079Z",
       "geo": "KR",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "하이닉스 주가",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-31T05:25:02.213Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "주한 미국 대사",
+          "score": 100
+        },
+        {
+          "keyword": "형사소송법",
+          "score": 99
+        },
+        {
+          "keyword": "두류공원",
+          "score": 98
+        },
+        {
+          "keyword": "태풍 돌핀 경로",
+          "score": 97
+        },
+        {
+          "keyword": "포모",
+          "score": 96
+        },
+        {
+          "keyword": "수에즈",
+          "score": 95
+        },
+        {
+          "keyword": "정우주",
+          "score": 94
+        },
+        {
+          "keyword": "의료법",
+          "score": 93
+        },
+        {
+          "keyword": "세우타",
+          "score": 92
+        },
+        {
+          "keyword": "주차",
           "score": 91
         }
       ]
