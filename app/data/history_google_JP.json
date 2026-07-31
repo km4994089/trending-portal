@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-27T21:35:00.412Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "横綱",
-          "score": 100
-        },
-        {
-          "keyword": "disney+",
-          "score": 99
-        },
-        {
-          "keyword": "マイクロソフト 株価",
-          "score": 98
-        },
-        {
-          "keyword": "インテル株価",
-          "score": 97
-        },
-        {
-          "keyword": "マイクロン株価",
-          "score": 96
-        },
-        {
-          "keyword": "テスラ株価",
-          "score": 95
-        },
-        {
-          "keyword": "nvda",
-          "score": 94
-        },
-        {
-          "keyword": "海水浴",
-          "score": 93
-        },
-        {
-          "keyword": "ナスダック100",
-          "score": 92
-        },
-        {
-          "keyword": "ドジャース試合",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-27T22:51:25.914Z",
       "geo": "JP",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "stellar blade blood rain",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-31T22:51:03.972Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "東京シティ競馬",
+          "score": 100
+        },
+        {
+          "keyword": "スーパーgt",
+          "score": 99
+        },
+        {
+          "keyword": "保険証 資格確認書",
+          "score": 98
+        },
+        {
+          "keyword": "エンツォ・マレスカ",
+          "score": 97
+        },
+        {
+          "keyword": "マツコ・デラックス",
+          "score": 96
+        },
+        {
+          "keyword": "ブルージェイズ 対 カージナルス",
+          "score": 95
+        },
+        {
+          "keyword": "レイズ 対 ホワイトソックス",
+          "score": 94
+        },
+        {
+          "keyword": "ガーディアンズ 対 dバックス",
+          "score": 93
+        },
+        {
+          "keyword": "上村優也",
+          "score": 92
+        },
+        {
+          "keyword": "東シナ海",
           "score": 91
         }
       ]

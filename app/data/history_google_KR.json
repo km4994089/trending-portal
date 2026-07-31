@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-27T21:34:58.830Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "전지",
-          "score": 100
-        },
-        {
-          "keyword": "이동하",
-          "score": 99
-        },
-        {
-          "keyword": "풍자",
-          "score": 98
-        },
-        {
-          "keyword": "맨체스터 유나이티드 fc",
-          "score": 97
-        },
-        {
-          "keyword": "온도",
-          "score": 96
-        },
-        {
-          "keyword": "태풍",
-          "score": 95
-        },
-        {
-          "keyword": "구준엽",
-          "score": 94
-        },
-        {
-          "keyword": "송혜교",
-          "score": 93
-        },
-        {
-          "keyword": "박수홍",
-          "score": 92
-        },
-        {
-          "keyword": "k9 자주포",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-27T22:51:24.852Z",
       "geo": "KR",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "디즈니",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-31T22:51:02.539Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "방탄소년단",
+          "score": 100
+        },
+        {
+          "keyword": "nvda",
+          "score": 99
+        },
+        {
+          "keyword": "폴더 블 스마트 폰",
+          "score": 98
+        },
+        {
+          "keyword": "s&p 500",
+          "score": 97
+        },
+        {
+          "keyword": "vix",
+          "score": 96
+        },
+        {
+          "keyword": "tqqq",
+          "score": 95
+        },
+        {
+          "keyword": "서인영",
+          "score": 94
+        },
+        {
+          "keyword": "삼성전기",
+          "score": 93
+        },
+        {
+          "keyword": "전원주",
+          "score": 92
+        },
+        {
+          "keyword": "mu",
           "score": 91
         }
       ]
