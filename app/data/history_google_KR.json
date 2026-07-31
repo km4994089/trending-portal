@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-27T01:06:13.865Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김소영",
-          "score": 100
-        },
-        {
-          "keyword": "opus 5",
-          "score": 99
-        },
-        {
-          "keyword": "유상증자",
-          "score": 98
-        },
-        {
-          "keyword": "별사랑",
-          "score": 97
-        },
-        {
-          "keyword": "루이스 아라에즈",
-          "score": 96
-        },
-        {
-          "keyword": "류현진",
-          "score": 95
-        },
-        {
-          "keyword": "최윤아",
-          "score": 94
-        },
-        {
-          "keyword": "키움증권",
-          "score": 93
-        },
-        {
-          "keyword": "3 기 신도시",
-          "score": 92
-        },
-        {
-          "keyword": "휴가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-27T05:02:07.260Z",
       "geo": "KR",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "지역화폐",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-07-31T01:50:22.317Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "민주당 전당대회",
+          "score": 100
+        },
+        {
+          "keyword": "상한가",
+          "score": 99
+        },
+        {
+          "keyword": "삼성전기 주가",
+          "score": 98
+        },
+        {
+          "keyword": "달러 환율",
+          "score": 97
+        },
+        {
+          "keyword": "삼성전자 주식",
+          "score": 96
+        },
+        {
+          "keyword": "코스피 주가",
+          "score": 95
+        },
+        {
+          "keyword": "aig 여자오픈",
+          "score": 94
+        },
+        {
+          "keyword": "kospi",
+          "score": 93
+        },
+        {
+          "keyword": "한미반도체 주가",
+          "score": 92
+        },
+        {
+          "keyword": "하이닉스 주가",
           "score": 91
         }
       ]
