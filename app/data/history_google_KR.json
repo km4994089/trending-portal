@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-28T14:56:04.850Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "어도어",
-          "score": 100
-        },
-        {
-          "keyword": "뷔",
-          "score": 99
-        },
-        {
-          "keyword": "김주애",
-          "score": 98
-        },
-        {
-          "keyword": "김도훈",
-          "score": 97
-        },
-        {
-          "keyword": "골 때리는 그녀들",
-          "score": 96
-        },
-        {
-          "keyword": "식이",
-          "score": 95
-        },
-        {
-          "keyword": "보그",
-          "score": 94
-        },
-        {
-          "keyword": "연합인포맥스",
-          "score": 93
-        },
-        {
-          "keyword": "로버트 기요사키",
-          "score": 92
-        },
-        {
-          "keyword": "이임생",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-28T16:28:09.557Z",
       "geo": "KR",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "로또1235",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-01T15:33:57.094Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "uap",
+          "score": 100
+        },
+        {
+          "keyword": "아옳이",
+          "score": 99
+        },
+        {
+          "keyword": "하비에르 아기레",
+          "score": 98
+        },
+        {
+          "keyword": "mutv",
+          "score": 97
+        },
+        {
+          "keyword": "맨유 아틀레티코",
+          "score": 96
+        },
+        {
+          "keyword": "옥수수 버거",
+          "score": 95
+        },
+        {
+          "keyword": "당대표",
+          "score": 94
+        },
+        {
+          "keyword": "lck",
+          "score": 93
+        },
+        {
+          "keyword": "시바이누코인",
+          "score": 92
+        },
+        {
+          "keyword": "원자력",
           "score": 91
         }
       ]
