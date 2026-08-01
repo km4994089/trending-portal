@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-28T16:28:08.327Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ticketmaster",
-          "score": 100
-        },
-        {
-          "keyword": "netflix movies",
-          "score": 99
-        },
-        {
-          "keyword": "taco bell mexican pizza",
-          "score": 98
-        },
-        {
-          "keyword": "u.s. airport ground stops",
-          "score": 97
-        },
-        {
-          "keyword": "kamil majchrzak",
-          "score": 96
-        },
-        {
-          "keyword": "mlb trade deadline",
-          "score": 95
-        },
-        {
-          "keyword": "julieta pareja",
-          "score": 94
-        },
-        {
-          "keyword": "pak vs wi",
-          "score": 93
-        },
-        {
-          "keyword": "real madrid vs leganes",
-          "score": 92
-        },
-        {
-          "keyword": "marshals",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-28T17:51:55.524Z",
       "geo": "US",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "divorce",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-01T16:47:48.547Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "megan moroney denver show",
+          "score": 100
+        },
+        {
+          "keyword": "iran us news",
+          "score": 99
+        },
+        {
+          "keyword": "aces vs sky",
+          "score": 98
+        },
+        {
+          "keyword": "dazn",
+          "score": 97
+        },
+        {
+          "keyword": "xbox game pass august 2026 games",
+          "score": 96
+        },
+        {
+          "keyword": "streamer games",
+          "score": 95
+        },
+        {
+          "keyword": "sha carri richardson",
+          "score": 94
+        },
+        {
+          "keyword": "aig women's open leaderboard",
+          "score": 93
+        },
+        {
+          "keyword": "belgrade arena",
+          "score": 92
+        },
+        {
+          "keyword": "warren buffett",
           "score": 91
         }
       ]
