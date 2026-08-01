@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-28T12:19:00.871Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "オーバードーズ",
-          "score": 100
-        },
-        {
-          "keyword": "新庄劇場",
-          "score": 99
-        },
-        {
-          "keyword": "郵便事業",
-          "score": 98
-        },
-        {
-          "keyword": "長岡秀樹",
-          "score": 97
-        },
-        {
-          "keyword": "瀬戸康史",
-          "score": 96
-        },
-        {
-          "keyword": "柳田悠岐",
-          "score": 95
-        },
-        {
-          "keyword": "赤ちゃんポスト",
-          "score": 94
-        },
-        {
-          "keyword": "エスピノーザ",
-          "score": 93
-        },
-        {
-          "keyword": "高橋遥人",
-          "score": 92
-        },
-        {
-          "keyword": "うたコン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-28T14:56:06.164Z",
       "geo": "JP",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "埼玉 花火大会 2026",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-01T12:32:51.843Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "レイノルズ",
+          "score": 100
+        },
+        {
+          "keyword": "リベラル",
+          "score": 99
+        },
+        {
+          "keyword": "見取り図 盛山",
+          "score": 98
+        },
+        {
+          "keyword": "大阪ブルテオン",
+          "score": 97
+        },
+        {
+          "keyword": "坂本誠志郎",
+          "score": 96
+        },
+        {
+          "keyword": "稲光",
+          "score": 95
+        },
+        {
+          "keyword": "南海キャンディーズ",
+          "score": 94
+        },
+        {
+          "keyword": "ラリー",
+          "score": 93
+        },
+        {
+          "keyword": "グランドスラム",
+          "score": 92
+        },
+        {
+          "keyword": "アンダーソン",
           "score": 91
         }
       ]
