@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-28T10:23:38.089Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "광주공항",
-          "score": 100
-        },
-        {
-          "keyword": "jyp엔터테인먼트",
-          "score": 99
-        },
-        {
-          "keyword": "첼시",
-          "score": 98
-        },
-        {
-          "keyword": "간호사",
-          "score": 97
-        },
-        {
-          "keyword": "베네수엘라 축구 국가대표팀",
-          "score": 96
-        },
-        {
-          "keyword": "스파이더맨 브랜드 뉴 데이",
-          "score": 95
-        },
-        {
-          "keyword": "첼시 대 시드니 원더러스",
-          "score": 94
-        },
-        {
-          "keyword": "대한축구협회",
-          "score": 93
-        },
-        {
-          "keyword": "걸 그룹",
-          "score": 92
-        },
-        {
-          "keyword": "jyp 엔터테인먼트",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-28T12:18:59.411Z",
       "geo": "KR",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "mlb",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-01T11:10:19.139Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "토트넘",
+          "score": 100
+        },
+        {
+          "keyword": "맷 데이먼",
+          "score": 99
+        },
+        {
+          "keyword": "우선주",
+          "score": 98
+        },
+        {
+          "keyword": "문보경",
+          "score": 97
+        },
+        {
+          "keyword": "단발",
+          "score": 96
+        },
+        {
+          "keyword": "파울루 벤투",
+          "score": 95
+        },
+        {
+          "keyword": "문희준",
+          "score": 94
+        },
+        {
+          "keyword": "민주당 전당대회",
+          "score": 93
+        },
+        {
+          "keyword": "짐머맨",
+          "score": 92
+        },
+        {
+          "keyword": "보험",
           "score": 91
         }
       ]
