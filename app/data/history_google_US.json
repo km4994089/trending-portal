@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-29T18:56:29.021Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "marlins",
-          "score": 100
-        },
-        {
-          "keyword": "heat wave",
-          "score": 99
-        },
-        {
-          "keyword": "ketel marte",
-          "score": 98
-        },
-        {
-          "keyword": "atlético madrid - getafe",
-          "score": 97
-        },
-        {
-          "keyword": "fútbol club barcelona",
-          "score": 96
-        },
-        {
-          "keyword": "doncaster vs wolves",
-          "score": 95
-        },
-        {
-          "keyword": "fenerbahçe",
-          "score": 94
-        },
-        {
-          "keyword": "dsa",
-          "score": 93
-        },
-        {
-          "keyword": "johnson wagner",
-          "score": 92
-        },
-        {
-          "keyword": "national grid",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-29T20:08:03.126Z",
       "geo": "US",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "rickie fowler",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-02T20:05:19.628Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "twins vs mariners",
+          "score": 100
+        },
+        {
+          "keyword": "cameron brink",
+          "score": 99
+        },
+        {
+          "keyword": "guardians game",
+          "score": 98
+        },
+        {
+          "keyword": "ariana grande stepping back",
+          "score": 97
+        },
+        {
+          "keyword": "newell's - boca juniors",
+          "score": 96
+        },
+        {
+          "keyword": "salmonella",
+          "score": 95
+        },
+        {
+          "keyword": "todd blanche",
+          "score": 94
+        },
+        {
+          "keyword": "san diego wave vs washington spirit",
+          "score": 93
+        },
+        {
+          "keyword": "jameson taillon",
+          "score": 92
+        },
+        {
+          "keyword": "phillies",
           "score": 91
         }
       ]

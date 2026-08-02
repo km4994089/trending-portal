@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-29T18:56:31.420Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "首相",
-          "score": 100
-        },
-        {
-          "keyword": "坂上忍",
-          "score": 99
-        },
-        {
-          "keyword": "nhk bs",
-          "score": 98
-        },
-        {
-          "keyword": "スパイダーマン ブランドニューデイ",
-          "score": 97
-        },
-        {
-          "keyword": "メッツ 対 ブレーブス",
-          "score": 96
-        },
-        {
-          "keyword": "セルラン",
-          "score": 95
-        },
-        {
-          "keyword": "忽那汐里",
-          "score": 94
-        },
-        {
-          "keyword": "君は夏のなか",
-          "score": 93
-        },
-        {
-          "keyword": "ドコモ ahamo",
-          "score": 92
-        },
-        {
-          "keyword": "kddi",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-29T20:08:05.385Z",
       "geo": "JP",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "バカリズム",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-02T20:05:21.797Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ペルセウス座流星群",
+          "score": 100
+        },
+        {
+          "keyword": "張本智和",
+          "score": 99
+        },
+        {
+          "keyword": "リヴァプール 対 リーズ u",
+          "score": 98
+        },
+        {
+          "keyword": "マリナーズ 対 ツインズ",
+          "score": 97
+        },
+        {
+          "keyword": "利益",
+          "score": 96
+        },
+        {
+          "keyword": "フォルクスワーゲ ン id 3",
+          "score": 95
+        },
+        {
+          "keyword": "サッカーアルゼンチン代表",
+          "score": 94
+        },
+        {
+          "keyword": "宇野昌磨",
+          "score": 93
+        },
+        {
+          "keyword": "lpga",
+          "score": 92
+        },
+        {
+          "keyword": "bmw",
           "score": 91
         }
       ]

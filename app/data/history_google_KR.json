@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-29T18:56:30.134Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "what is a data breach",
-          "score": 100
-        },
-        {
-          "keyword": "best shows on hbo max",
-          "score": 99
-        },
-        {
-          "keyword": "when is daylight saving time",
-          "score": 98
-        },
-        {
-          "keyword": "upcoming meteor showers",
-          "score": 97
-        },
-        {
-          "keyword": "웰스",
-          "score": 96
-        },
-        {
-          "keyword": "허경민",
-          "score": 95
-        },
-        {
-          "keyword": "mortgage rates today",
-          "score": 94
-        },
-        {
-          "keyword": "글렌 한사드",
-          "score": 93
-        },
-        {
-          "keyword": "tennis scores today",
-          "score": 92
-        },
-        {
-          "keyword": "what is a heat index",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-29T20:08:03.996Z",
       "geo": "KR",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "마이클세일러",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-02T20:05:20.742Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "기상",
+          "score": 100
+        },
+        {
+          "keyword": "투기",
+          "score": 99
+        },
+        {
+          "keyword": "이흥구",
+          "score": 98
+        },
+        {
+          "keyword": "태풍 돌핀 경로",
+          "score": 97
+        },
+        {
+          "keyword": "여객선",
+          "score": 96
+        },
+        {
+          "keyword": "히샬리송",
+          "score": 95
+        },
+        {
+          "keyword": "수영",
+          "score": 94
+        },
+        {
+          "keyword": "잠실대교",
+          "score": 93
+        },
+        {
+          "keyword": "박기량",
+          "score": 92
+        },
+        {
+          "keyword": "달 탐사",
           "score": 91
         }
       ]
