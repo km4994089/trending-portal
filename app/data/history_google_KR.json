@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-29T21:24:37.849Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "미군",
-          "score": 100
-        },
-        {
-          "keyword": "주가 대폭락",
-          "score": 99
-        },
-        {
-          "keyword": "농성",
-          "score": 98
-        },
-        {
-          "keyword": "이한 범",
-          "score": 97
-        },
-        {
-          "keyword": "금리",
-          "score": 96
-        },
-        {
-          "keyword": "stock market news today",
-          "score": 95
-        },
-        {
-          "keyword": "latest iphone rumors",
-          "score": 94
-        },
-        {
-          "keyword": "what is a data breach",
-          "score": 93
-        },
-        {
-          "keyword": "cryptocurrency trading",
-          "score": 92
-        },
-        {
-          "keyword": "best shows on hbo max",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-29T22:26:51.372Z",
       "geo": "KR",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "태풍 돌핀 경로",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-02T22:24:13.471Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "운세",
+          "score": 100
+        },
+        {
+          "keyword": "검찰",
+          "score": 99
+        },
+        {
+          "keyword": "이효리",
+          "score": 98
+        },
+        {
+          "keyword": "김경문",
+          "score": 97
+        },
+        {
+          "keyword": "배당",
+          "score": 96
+        },
+        {
+          "keyword": "건설 회사",
+          "score": 95
+        },
+        {
+          "keyword": "한국고속철도",
+          "score": 94
+        },
+        {
+          "keyword": "김다예",
+          "score": 93
+        },
+        {
+          "keyword": "가자지구",
+          "score": 92
+        },
+        {
+          "keyword": "리버풀",
           "score": 91
         }
       ]
