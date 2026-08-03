@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-30T13:02:26.189Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "小泉孝太郎",
-          "score": 100
-        },
-        {
-          "keyword": "ドゥエインジョンソン",
-          "score": 99
-        },
-        {
-          "keyword": "麻生太郎",
-          "score": 98
-        },
-        {
-          "keyword": "井上一樹",
-          "score": 97
-        },
-        {
-          "keyword": "アレックス・コール",
-          "score": 96
-        },
-        {
-          "keyword": "ジュマンジ",
-          "score": 95
-        },
-        {
-          "keyword": "ジェイソンステイサム",
-          "score": 94
-        },
-        {
-          "keyword": "西島秀俊",
-          "score": 93
-        },
-        {
-          "keyword": "経済指標",
-          "score": 92
-        },
-        {
-          "keyword": "アトラクション",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-30T15:29:02.714Z",
       "geo": "JP",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "貴闘力",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-03T14:15:03.706Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "エルニーニョ現象",
+          "score": 100
+        },
+        {
+          "keyword": "皆既日食",
+          "score": 99
+        },
+        {
+          "keyword": "梶原叶渚",
+          "score": 98
+        },
+        {
+          "keyword": "国連事務総長",
+          "score": 97
+        },
+        {
+          "keyword": "大空港〜gate24〜",
+          "score": 96
+        },
+        {
+          "keyword": "trực tiếp bóng đá hôm nay",
+          "score": 95
+        },
+        {
+          "keyword": "minimax h3",
+          "score": 94
+        },
+        {
+          "keyword": "ガールオアレディ",
+          "score": 93
+        },
+        {
+          "keyword": "インドネシア 対 ベトナム",
+          "score": 92
+        },
+        {
+          "keyword": "太田雄貴",
           "score": 91
         }
       ]

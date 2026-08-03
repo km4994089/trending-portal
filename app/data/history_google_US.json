@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-30T13:02:23.930Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "situational awareness",
-          "score": 100
-        },
-        {
-          "keyword": "jacob batalon",
-          "score": 99
-        },
-        {
-          "keyword": "fable xbox game pass release",
-          "score": 98
-        },
-        {
-          "keyword": "gonzalo garcia",
-          "score": 97
-        },
-        {
-          "keyword": "lindsay czarniak",
-          "score": 96
-        },
-        {
-          "keyword": "power grid emergency order",
-          "score": 95
-        },
-        {
-          "keyword": "covid vaccine",
-          "score": 94
-        },
-        {
-          "keyword": "marketaxess",
-          "score": 93
-        },
-        {
-          "keyword": "brad dalke",
-          "score": 92
-        },
-        {
-          "keyword": "ainsley earhardt",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-30T15:29:00.470Z",
       "geo": "US",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "gme stock",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-03T14:15:01.237Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "amazon stock",
+          "score": 100
+        },
+        {
+          "keyword": "crwv stock",
+          "score": 99
+        },
+        {
+          "keyword": "apple stock price",
+          "score": 98
+        },
+        {
+          "keyword": "phillies top prospects",
+          "score": 97
+        },
+        {
+          "keyword": "mlbtraderumors",
+          "score": 96
+        },
+        {
+          "keyword": "bryson stott",
+          "score": 95
+        },
+        {
+          "keyword": "sp 500",
+          "score": 94
+        },
+        {
+          "keyword": "microsoft stock price",
+          "score": 93
+        },
+        {
+          "keyword": "wpxi",
+          "score": 92
+        },
+        {
+          "keyword": "brooks raley",
           "score": 91
         }
       ]
