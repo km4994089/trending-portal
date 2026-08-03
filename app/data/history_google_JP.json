@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-30T23:53:10.417Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "福本莉子",
-          "score": 100
-        },
-        {
-          "keyword": "tenki",
-          "score": 99
-        },
-        {
-          "keyword": "中央構造線断層帯",
-          "score": 98
-        },
-        {
-          "keyword": "台風 進路予測",
-          "score": 97
-        },
-        {
-          "keyword": "天皇",
-          "score": 96
-        },
-        {
-          "keyword": "ブレシア カルチョ",
-          "score": 95
-        },
-        {
-          "keyword": "マイナポータル",
-          "score": 94
-        },
-        {
-          "keyword": "ceuta",
-          "score": 93
-        },
-        {
-          "keyword": "モロッコ",
-          "score": 92
-        },
-        {
-          "keyword": "熊本 ボランティア",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-31T01:50:23.477Z",
       "geo": "JP",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "ふるさと納税",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-03T23:59:20.391Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ウクライナ",
+          "score": 100
+        },
+        {
+          "keyword": "北海道コンサドーレ札幌",
+          "score": 99
+        },
+        {
+          "keyword": "m トーナメント",
+          "score": 98
+        },
+        {
+          "keyword": "熊本総合病院",
+          "score": 97
+        },
+        {
+          "keyword": "監督代行",
+          "score": 96
+        },
+        {
+          "keyword": "アストロズ 対 ブルージェイズ",
+          "score": 95
+        },
+        {
+          "keyword": "中村倫也",
+          "score": 94
+        },
+        {
+          "keyword": "鳥羽水族館",
+          "score": 93
+        },
+        {
+          "keyword": "菅野 トレード",
+          "score": 92
+        },
+        {
+          "keyword": "anthropic",
           "score": 91
         }
       ]

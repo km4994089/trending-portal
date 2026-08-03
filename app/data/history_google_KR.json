@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-30T23:53:09.373Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "모아타운",
-          "score": 100
-        },
-        {
-          "keyword": "나는 solo, 그 후 사랑은 계속된다",
-          "score": 99
-        },
-        {
-          "keyword": "전지",
-          "score": 98
-        },
-        {
-          "keyword": "박서진",
-          "score": 97
-        },
-        {
-          "keyword": "leopold aschenbrenner",
-          "score": 96
-        },
-        {
-          "keyword": "rottach-egern vs bayern",
-          "score": 95
-        },
-        {
-          "keyword": "야구",
-          "score": 94
-        },
-        {
-          "keyword": "최태원 매수",
-          "score": 93
-        },
-        {
-          "keyword": "sndk",
-          "score": 92
-        },
-        {
-          "keyword": "지역화폐",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-31T01:50:22.317Z",
       "geo": "KR",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "한화그룹",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-03T23:59:18.674Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "최예나",
+          "score": 100
+        },
+        {
+          "keyword": "홍진경",
+          "score": 99
+        },
+        {
+          "keyword": "매일경제",
+          "score": 98
+        },
+        {
+          "keyword": "이강인",
+          "score": 97
+        },
+        {
+          "keyword": "당구",
+          "score": 96
+        },
+        {
+          "keyword": "강상준",
+          "score": 95
+        },
+        {
+          "keyword": "류현진",
+          "score": 94
+        },
+        {
+          "keyword": "넷플릭스",
+          "score": 93
+        },
+        {
+          "keyword": "팔란티어",
+          "score": 92
+        },
+        {
+          "keyword": "미국 상품거래위원회",
           "score": 91
         }
       ]
