@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-30T03:50:00.528Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "マッサン",
-          "score": 100
-        },
-        {
-          "keyword": "局長",
-          "score": 99
-        },
-        {
-          "keyword": "豊平川花火大会",
-          "score": 98
-        },
-        {
-          "keyword": "日産自動車 追浜工場",
-          "score": 97
-        },
-        {
-          "keyword": "ドコモの銀行",
-          "score": 96
-        },
-        {
-          "keyword": "ティモンディ高岸",
-          "score": 95
-        },
-        {
-          "keyword": "木南晴夏",
-          "score": 94
-        },
-        {
-          "keyword": "高校バスケインターハイ",
-          "score": 93
-        },
-        {
-          "keyword": "新型スカイライン",
-          "score": 92
-        },
-        {
-          "keyword": "中道改革連合",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-30T06:18:33.776Z",
       "geo": "JP",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "第一三共 株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-03T04:56:41.439Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "大山悠輔",
+          "score": 100
+        },
+        {
+          "keyword": "災害派遣",
+          "score": 99
+        },
+        {
+          "keyword": "スパイダーマン:ブランド・ニュー・デイ",
+          "score": 98
+        },
+        {
+          "keyword": "改札",
+          "score": 97
+        },
+        {
+          "keyword": "ふるさと納税",
+          "score": 96
+        },
+        {
+          "keyword": "サムアルトマン",
+          "score": 95
+        },
+        {
+          "keyword": "オザキスポーツ",
+          "score": 94
+        },
+        {
+          "keyword": "高市早苗",
+          "score": 93
+        },
+        {
+          "keyword": "苫小牧市",
+          "score": 92
+        },
+        {
+          "keyword": "ディズニーランド",
           "score": 91
         }
       ]

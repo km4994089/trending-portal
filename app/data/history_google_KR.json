@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-30T03:49:59.519Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김시우",
-          "score": 100
-        },
-        {
-          "keyword": "김영웅",
-          "score": 99
-        },
-        {
-          "keyword": "유혜주",
-          "score": 98
-        },
-        {
-          "keyword": "김석기",
-          "score": 97
-        },
-        {
-          "keyword": "손나은",
-          "score": 96
-        },
-        {
-          "keyword": "신유열",
-          "score": 95
-        },
-        {
-          "keyword": "배현진",
-          "score": 94
-        },
-        {
-          "keyword": "인천해양경찰서",
-          "score": 93
-        },
-        {
-          "keyword": "푸들",
-          "score": 92
-        },
-        {
-          "keyword": "레드삭스 대 애슬레틱스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-30T06:18:32.741Z",
       "geo": "KR",
       "source": "google",
@@ -2583,6 +2536,53 @@
         },
         {
           "keyword": "진기주",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-03T04:56:40.158Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lpga",
+          "score": 100
+        },
+        {
+          "keyword": "빅터 레이예스",
+          "score": 99
+        },
+        {
+          "keyword": "기름",
+          "score": 98
+        },
+        {
+          "keyword": "최영중",
+          "score": 97
+        },
+        {
+          "keyword": "김현수",
+          "score": 96
+        },
+        {
+          "keyword": "수능",
+          "score": 95
+        },
+        {
+          "keyword": "연예인",
+          "score": 94
+        },
+        {
+          "keyword": "오디세이",
+          "score": 93
+        },
+        {
+          "keyword": "에코프로 비엠",
+          "score": 92
+        },
+        {
+          "keyword": "차가원",
           "score": 91
         }
       ]
