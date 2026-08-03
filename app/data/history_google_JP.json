@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-30T22:33:37.238Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "メッツ 対 マーリンズ",
-          "score": 100
-        },
-        {
-          "keyword": "村上宗隆",
-          "score": 99
-        },
-        {
-          "keyword": "レッズ 対 パイレーツ",
-          "score": 98
-        },
-        {
-          "keyword": "メガレックウザex",
-          "score": 97
-        },
-        {
-          "keyword": "ゼルダの伝説 時のオカリナ",
-          "score": 96
-        },
-        {
-          "keyword": "nasdaq amzn",
-          "score": 95
-        },
-        {
-          "keyword": "大井競馬場",
-          "score": 94
-        },
-        {
-          "keyword": "ニデック",
-          "score": 93
-        },
-        {
-          "keyword": "有田哲平",
-          "score": 92
-        },
-        {
-          "keyword": "弘前 天気",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-30T23:53:10.417Z",
       "geo": "JP",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "老後破産",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-03T22:51:54.021Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ヌートバー",
+          "score": 100
+        },
+        {
+          "keyword": "内藤哲也",
+          "score": 99
+        },
+        {
+          "keyword": "田中将大",
+          "score": 98
+        },
+        {
+          "keyword": "ラ・リーガ",
+          "score": 97
+        },
+        {
+          "keyword": "バスケットボール",
+          "score": 96
+        },
+        {
+          "keyword": "名古屋天気",
+          "score": 95
+        },
+        {
+          "keyword": "円安とは",
+          "score": 94
+        },
+        {
+          "keyword": "貨物",
+          "score": 93
+        },
+        {
+          "keyword": "アプリ",
+          "score": 92
+        },
+        {
+          "keyword": "ふるさと納税",
           "score": 91
         }
       ]

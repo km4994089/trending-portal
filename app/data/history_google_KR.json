@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-30T22:33:36.173Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "주상욱",
-          "score": 100
-        },
-        {
-          "keyword": "skhy",
-          "score": 99
-        },
-        {
-          "keyword": "iren",
-          "score": 98
-        },
-        {
-          "keyword": "아파트",
-          "score": 97
-        },
-        {
-          "keyword": "박재현",
-          "score": 96
-        },
-        {
-          "keyword": "mu",
-          "score": 95
-        },
-        {
-          "keyword": "배드민턴 선수",
-          "score": 94
-        },
-        {
-          "keyword": "koru",
-          "score": 93
-        },
-        {
-          "keyword": "aapl",
-          "score": 92
-        },
-        {
-          "keyword": "반찬",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-30T23:53:09.373Z",
       "geo": "KR",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "이민성",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-03T22:51:52.975Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "트레이드",
+          "score": 100
+        },
+        {
+          "keyword": "한화에어로스페이스",
+          "score": 99
+        },
+        {
+          "keyword": "반포 디에이치 클래스트",
+          "score": 98
+        },
+        {
+          "keyword": "학교 폭력",
+          "score": 97
+        },
+        {
+          "keyword": "포항시",
+          "score": 96
+        },
+        {
+          "keyword": "메이저 리그 베이스볼",
+          "score": 95
+        },
+        {
+          "keyword": "qwen",
+          "score": 94
+        },
+        {
+          "keyword": "nvda",
+          "score": 93
+        },
+        {
+          "keyword": "박지윤",
+          "score": 92
+        },
+        {
+          "keyword": "한화그룹",
           "score": 91
         }
       ]
