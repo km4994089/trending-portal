@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-30T21:08:40.741Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "chris olave",
-          "score": 100
-        },
-        {
-          "keyword": "national scout jamboree",
-          "score": 99
-        },
-        {
-          "keyword": "axti stock",
-          "score": 98
-        },
-        {
-          "keyword": "deportación",
-          "score": 97
-        },
-        {
-          "keyword": "mstr stock",
-          "score": 96
-        },
-        {
-          "keyword": "matt strahm",
-          "score": 95
-        },
-        {
-          "keyword": "rblx stock",
-          "score": 94
-        },
-        {
-          "keyword": "minnesota twins",
-          "score": 93
-        },
-        {
-          "keyword": "appl stock",
-          "score": 92
-        },
-        {
-          "keyword": "rivn stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-30T22:33:35.197Z",
       "geo": "US",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "mikail kamara",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-03T21:36:10.210Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "eagle",
+          "score": 100
+        },
+        {
+          "keyword": "flash flooding",
+          "score": 99
+        },
+        {
+          "keyword": "brooklyn bridge",
+          "score": 98
+        },
+        {
+          "keyword": "the last of us",
+          "score": 97
+        },
+        {
+          "keyword": "erik miller",
+          "score": 96
+        },
+        {
+          "keyword": "antonio senzatela",
+          "score": 95
+        },
+        {
+          "keyword": "west indies vs pakistan",
+          "score": 94
+        },
+        {
+          "keyword": "s&p 500",
+          "score": 93
+        },
+        {
+          "keyword": "psychology",
+          "score": 92
+        },
+        {
+          "keyword": "eli white",
           "score": 91
         }
       ]
