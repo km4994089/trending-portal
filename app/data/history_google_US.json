@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-30T15:29:00.470Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jakub mensik",
-          "score": 100
-        },
-        {
-          "keyword": "birmingham stallions",
-          "score": 99
-        },
-        {
-          "keyword": "the view",
-          "score": 98
-        },
-        {
-          "keyword": "uefa",
-          "score": 97
-        },
-        {
-          "keyword": "justin gaethje",
-          "score": 96
-        },
-        {
-          "keyword": "new sprites fortnite",
-          "score": 95
-        },
-        {
-          "keyword": "street fighter movie",
-          "score": 94
-        },
-        {
-          "keyword": "nancy guthrie",
-          "score": 93
-        },
-        {
-          "keyword": "michigan",
-          "score": 92
-        },
-        {
-          "keyword": "hammer of the gods",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-30T16:59:09.468Z",
       "geo": "US",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "brooks raley",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-03T16:44:18.243Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "dairy queen caramel apple blizzard",
+          "score": 100
+        },
+        {
+          "keyword": "mehmet oz",
+          "score": 99
+        },
+        {
+          "keyword": "jo adell",
+          "score": 98
+        },
+        {
+          "keyword": "taylor ward",
+          "score": 97
+        },
+        {
+          "keyword": "jacob cozart",
+          "score": 96
+        },
+        {
+          "keyword": "arnold schwarzenegger",
+          "score": 95
+        },
+        {
+          "keyword": "hunger strike",
+          "score": 94
+        },
+        {
+          "keyword": "ben rortvedt",
+          "score": 93
+        },
+        {
+          "keyword": "clay holmes",
+          "score": 92
+        },
+        {
+          "keyword": "mike evans",
           "score": 91
         }
       ]

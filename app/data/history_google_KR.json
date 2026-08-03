@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-30T15:29:01.550Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "yahoo finance",
-          "score": 100
-        },
-        {
-          "keyword": "톰 홀랜드",
-          "score": 99
-        },
-        {
-          "keyword": "msft stock",
-          "score": 98
-        },
-        {
-          "keyword": "샌디스크 주가",
-          "score": 97
-        },
-        {
-          "keyword": "비디디",
-          "score": 96
-        },
-        {
-          "keyword": "노웨이홈",
-          "score": 95
-        },
-        {
-          "keyword": "이도윤",
-          "score": 94
-        },
-        {
-          "keyword": "치매",
-          "score": 93
-        },
-        {
-          "keyword": "krx",
-          "score": 92
-        },
-        {
-          "keyword": "언니네 산지직송3",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-30T16:59:10.586Z",
       "geo": "KR",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "최애의 사원",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-03T16:44:19.371Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lg이노텍",
+          "score": 100
+        },
+        {
+          "keyword": "화산분화",
+          "score": 99
+        },
+        {
+          "keyword": "내 남은 연애",
+          "score": 98
+        },
+        {
+          "keyword": "대피소",
+          "score": 97
+        },
+        {
+          "keyword": "김용빈",
+          "score": 96
+        },
+        {
+          "keyword": "반포자이",
+          "score": 95
+        },
+        {
+          "keyword": "인터 마이애미 cf",
+          "score": 94
+        },
+        {
+          "keyword": "인도네시아 대 베트남",
+          "score": 93
+        },
+        {
+          "keyword": "indonesia đấu với việt nam",
+          "score": 92
+        },
+        {
+          "keyword": "낚시",
           "score": 91
         }
       ]
