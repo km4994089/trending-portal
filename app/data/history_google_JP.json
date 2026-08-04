@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-31T21:34:44.137Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ナスダック総合指数",
-          "score": 100
-        },
-        {
-          "keyword": "nvda",
-          "score": 99
-        },
-        {
-          "keyword": "mトーナメント",
-          "score": 98
-        },
-        {
-          "keyword": "黒田朝日",
-          "score": 97
-        },
-        {
-          "keyword": "米ドル",
-          "score": 96
-        },
-        {
-          "keyword": "田久保眞紀",
-          "score": 95
-        },
-        {
-          "keyword": "渋野日向子",
-          "score": 94
-        },
-        {
-          "keyword": "オルカン",
-          "score": 93
-        },
-        {
-          "keyword": "ジェイコブ バタロン",
-          "score": 92
-        },
-        {
-          "keyword": "stellar blade blood rain",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-31T22:51:03.972Z",
       "geo": "JP",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "kick",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-04T22:03:27.584Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ガーディアンズ 対 メッツ",
+          "score": 100
+        },
+        {
+          "keyword": "s&p 500",
+          "score": 99
+        },
+        {
+          "keyword": "高橋文哉",
+          "score": 98
+        },
+        {
+          "keyword": "ムーキー ベッツ",
+          "score": 97
+        },
+        {
+          "keyword": "ドコモバイクシェア",
+          "score": 96
+        },
+        {
+          "keyword": "全般台風情報、台風第13号",
+          "score": 95
+        },
+        {
+          "keyword": "踊る大捜査線",
+          "score": 94
+        },
+        {
+          "keyword": "spcx",
+          "score": 93
+        },
+        {
+          "keyword": "永遠の記憶",
+          "score": 92
+        },
+        {
+          "keyword": "フィラデルフィア半導体株指数",
           "score": 91
         }
       ]

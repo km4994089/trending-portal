@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-31T21:34:41.698Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "matt kuchar",
-          "score": 100
-        },
-        {
-          "keyword": "amir sears",
-          "score": 99
-        },
-        {
-          "keyword": "chicago fire dermot mulroney departure",
-          "score": 98
-        },
-        {
-          "keyword": "daycare",
-          "score": 97
-        },
-        {
-          "keyword": "diana shnaider",
-          "score": 96
-        },
-        {
-          "keyword": "new netflix movies august 2026",
-          "score": 95
-        },
-        {
-          "keyword": "alex bregman",
-          "score": 94
-        },
-        {
-          "keyword": "fauci news",
-          "score": 93
-        },
-        {
-          "keyword": "conor mcgregor",
-          "score": 92
-        },
-        {
-          "keyword": "elephant",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-31T22:51:01.658Z",
       "geo": "US",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "liv golf news",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-04T22:03:24.995Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mets vs guardians",
+          "score": 100
+        },
+        {
+          "keyword": "andrey rublev",
+          "score": 99
+        },
+        {
+          "keyword": "juventude x atlético-mg",
+          "score": 98
+        },
+        {
+          "keyword": "angels vs orioles",
+          "score": 97
+        },
+        {
+          "keyword": "athletics vs reds",
+          "score": 96
+        },
+        {
+          "keyword": "rosie o'donnell",
+          "score": 95
+        },
+        {
+          "keyword": "dancing with the stars",
+          "score": 94
+        },
+        {
+          "keyword": "max miller",
+          "score": 93
+        },
+        {
+          "keyword": "anamaria goltes",
+          "score": 92
+        },
+        {
+          "keyword": "stephen daley",
           "score": 91
         }
       ]
