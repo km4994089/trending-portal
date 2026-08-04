@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-31T01:50:22.317Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "민주당 전당대회",
-          "score": 100
-        },
-        {
-          "keyword": "상한가",
-          "score": 99
-        },
-        {
-          "keyword": "삼성전기 주가",
-          "score": 98
-        },
-        {
-          "keyword": "달러 환율",
-          "score": 97
-        },
-        {
-          "keyword": "삼성전자 주식",
-          "score": 96
-        },
-        {
-          "keyword": "코스피 주가",
-          "score": 95
-        },
-        {
-          "keyword": "aig 여자오픈",
-          "score": 94
-        },
-        {
-          "keyword": "kospi",
-          "score": 93
-        },
-        {
-          "keyword": "한미반도체 주가",
-          "score": 92
-        },
-        {
-          "keyword": "하이닉스 주가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-31T05:25:02.213Z",
       "geo": "KR",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "미국 상품거래위원회",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-04T02:29:18.303Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "강균성",
+          "score": 100
+        },
+        {
+          "keyword": "코바나",
+          "score": 99
+        },
+        {
+          "keyword": "활공 폭탄",
+          "score": 98
+        },
+        {
+          "keyword": "리센느",
+          "score": 97
+        },
+        {
+          "keyword": "화암동굴",
+          "score": 96
+        },
+        {
+          "keyword": "파산",
+          "score": 95
+        },
+        {
+          "keyword": "매그니피센트 7",
+          "score": 94
+        },
+        {
+          "keyword": "최진실",
+          "score": 93
+        },
+        {
+          "keyword": "박보경",
+          "score": 92
+        },
+        {
+          "keyword": "필라델피아 필리스",
           "score": 91
         }
       ]

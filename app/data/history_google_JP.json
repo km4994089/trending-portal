@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-31T01:50:23.477Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "高宮まり",
-          "score": 100
-        },
-        {
-          "keyword": "sbi新生銀行 株価",
-          "score": 99
-        },
-        {
-          "keyword": "ヒューリック株価",
-          "score": 98
-        },
-        {
-          "keyword": "新潟市 天気",
-          "score": 97
-        },
-        {
-          "keyword": "ソシオネクスト 株価",
-          "score": 96
-        },
-        {
-          "keyword": "有働由美子",
-          "score": 95
-        },
-        {
-          "keyword": "スポーツブル",
-          "score": 94
-        },
-        {
-          "keyword": "石田ゆり子",
-          "score": 93
-        },
-        {
-          "keyword": "ソフトバンク株価",
-          "score": 92
-        },
-        {
-          "keyword": "デンソー 株価",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-31T05:25:03.471Z",
       "geo": "JP",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "anthropic",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-04T02:29:19.707Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "伊勢原ジャンクション",
+          "score": 100
+        },
+        {
+          "keyword": "テオスカー・ヘルナンデス",
+          "score": 99
+        },
+        {
+          "keyword": "板橋駿谷",
+          "score": 98
+        },
+        {
+          "keyword": "新型コロナウイルス感染症",
+          "score": 97
+        },
+        {
+          "keyword": "タッカー",
+          "score": 96
+        },
+        {
+          "keyword": "株式会社嵐",
+          "score": 95
+        },
+        {
+          "keyword": "鈴木愛",
+          "score": 94
+        },
+        {
+          "keyword": "カーソン・ケリー",
+          "score": 93
+        },
+        {
+          "keyword": "トーメンデバイス 株価",
+          "score": 92
+        },
+        {
+          "keyword": "エンリケ・ヘルナンデス",
           "score": 91
         }
       ]
