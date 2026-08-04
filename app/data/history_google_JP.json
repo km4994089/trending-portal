@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-31T20:14:05.733Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "市川市動植物園",
-          "score": 100
-        },
-        {
-          "keyword": "備蓄",
-          "score": 99
-        },
-        {
-          "keyword": "宇野昌磨",
-          "score": 98
-        },
-        {
-          "keyword": "ウクライナ",
-          "score": 97
-        },
-        {
-          "keyword": "三好美羽 引退",
-          "score": 96
-        },
-        {
-          "keyword": "lpga",
-          "score": 95
-        },
-        {
-          "keyword": "大坂なおみ",
-          "score": 94
-        },
-        {
-          "keyword": "birmingham vs barcelona",
-          "score": 93
-        },
-        {
-          "keyword": "バーミンガム 対 バルセロナ",
-          "score": 92
-        },
-        {
-          "keyword": "ユヴェントス 対 ニース",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-31T21:34:44.137Z",
       "geo": "JP",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "ヴィニシウス",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-04T20:48:15.404Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "中谷 仁",
+          "score": 100
+        },
+        {
+          "keyword": "練習 生",
+          "score": 99
+        },
+        {
+          "keyword": "松島輝空",
+          "score": 98
+        },
+        {
+          "keyword": "週間天気予報",
+          "score": 97
+        },
+        {
+          "keyword": "台風進路予想",
+          "score": 96
+        },
+        {
+          "keyword": "nvidia",
+          "score": 95
+        },
+        {
+          "keyword": "漫画",
+          "score": 94
+        },
+        {
+          "keyword": "河村勇輝",
+          "score": 93
+        },
+        {
+          "keyword": "森且行",
+          "score": 92
+        },
+        {
+          "keyword": "kick",
           "score": 91
         }
       ]
