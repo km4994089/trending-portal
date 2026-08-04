@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-31T11:03:25.802Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "神宮球場",
-          "score": 100
-        },
-        {
-          "keyword": "しんちゃん 映画",
-          "score": 99
-        },
-        {
-          "keyword": "陸上インターハイ",
-          "score": 98
-        },
-        {
-          "keyword": "新水俣駅",
-          "score": 97
-        },
-        {
-          "keyword": "ねぶた祭り",
-          "score": 96
-        },
-        {
-          "keyword": "イオンモール宇城",
-          "score": 95
-        },
-        {
-          "keyword": "那須川天心",
-          "score": 94
-        },
-        {
-          "keyword": "高木豊",
-          "score": 93
-        },
-        {
-          "keyword": "福井新聞",
-          "score": 92
-        },
-        {
-          "keyword": "奥川恭伸",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-31T13:11:13.385Z",
       "geo": "JP",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "ホルヘ・マルティン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-04T13:04:19.864Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "懲戒処分",
+          "score": 100
+        },
+        {
+          "keyword": "トラウデン直美",
+          "score": 99
+        },
+        {
+          "keyword": "カープ 試合",
+          "score": 98
+        },
+        {
+          "keyword": "ブラッククローバー",
+          "score": 97
+        },
+        {
+          "keyword": "仰天ニュース",
+          "score": 96
+        },
+        {
+          "keyword": "貴乃花 光司",
+          "score": 95
+        },
+        {
+          "keyword": "船越英一郎",
+          "score": 94
+        },
+        {
+          "keyword": "中日ドラゴンズ",
+          "score": 93
+        },
+        {
+          "keyword": "重岡銀次朗",
+          "score": 92
+        },
+        {
+          "keyword": "チェ ソンウォン",
           "score": 91
         }
       ]
