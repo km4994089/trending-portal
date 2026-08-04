@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-07-31T22:51:03.972Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "東京シティ競馬",
-          "score": 100
-        },
-        {
-          "keyword": "スーパーgt",
-          "score": 99
-        },
-        {
-          "keyword": "保険証 資格確認書",
-          "score": 98
-        },
-        {
-          "keyword": "エンツォ・マレスカ",
-          "score": 97
-        },
-        {
-          "keyword": "マツコ・デラックス",
-          "score": 96
-        },
-        {
-          "keyword": "ブルージェイズ 対 カージナルス",
-          "score": 95
-        },
-        {
-          "keyword": "レイズ 対 ホワイトソックス",
-          "score": 94
-        },
-        {
-          "keyword": "ガーディアンズ 対 dバックス",
-          "score": 93
-        },
-        {
-          "keyword": "上村優也",
-          "score": 92
-        },
-        {
-          "keyword": "東シナ海",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-07-31T23:53:11.192Z",
       "geo": "JP",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "フィラデルフィア半導体株指数",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-04T23:30:16.151Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "柄本時生",
+          "score": 100
+        },
+        {
+          "keyword": "紀平梨花",
+          "score": 99
+        },
+        {
+          "keyword": "唐沢寿明",
+          "score": 98
+        },
+        {
+          "keyword": "田野憂 寄付",
+          "score": 97
+        },
+        {
+          "keyword": "風薫る 中村倫也",
+          "score": 96
+        },
+        {
+          "keyword": "星よつは",
+          "score": 95
+        },
+        {
+          "keyword": "夏の甲子園",
+          "score": 94
+        },
+        {
+          "keyword": "違憲",
+          "score": 93
+        },
+        {
+          "keyword": "ロイヤルズ 対 ツインズ",
+          "score": 92
+        },
+        {
+          "keyword": "三浦翔平",
           "score": 91
         }
       ]
