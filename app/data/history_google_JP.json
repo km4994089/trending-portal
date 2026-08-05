@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-01T21:14:40.328Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "事故",
-          "score": 100
-        },
-        {
-          "keyword": "ベーブ・ルース",
-          "score": 99
-        },
-        {
-          "keyword": "浅野翔吾",
-          "score": 98
-        },
-        {
-          "keyword": "ジョゼ・モウリーニョ",
-          "score": 97
-        },
-        {
-          "keyword": "リスク",
-          "score": 96
-        },
-        {
-          "keyword": "大坂なおみ",
-          "score": 95
-        },
-        {
-          "keyword": "ゆず",
-          "score": 94
-        },
-        {
-          "keyword": "lpga",
-          "score": 93
-        },
-        {
-          "keyword": "t シャツ 乾く まで",
-          "score": 92
-        },
-        {
-          "keyword": "全英女子オープン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-01T22:24:07.550Z",
       "geo": "JP",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "トミー・エドマン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-05T21:40:51.453Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "大谷翔平",
+          "score": 100
+        },
+        {
+          "keyword": "大坂なおみ",
+          "score": 99
+        },
+        {
+          "keyword": "今日",
+          "score": 98
+        },
+        {
+          "keyword": "spcx",
+          "score": 97
+        },
+        {
+          "keyword": "テオスカー・ヘルナンデス",
+          "score": 96
+        },
+        {
+          "keyword": "御木曳",
+          "score": 95
+        },
+        {
+          "keyword": "白バイ隊員",
+          "score": 94
+        },
+        {
+          "keyword": "天気予報 東京",
+          "score": 93
+        },
+        {
+          "keyword": "byd racco",
+          "score": 92
+        },
+        {
+          "keyword": "退職",
           "score": 91
         }
       ]
