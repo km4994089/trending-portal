@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-01T07:40:13.171Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ボートレース",
-          "score": 100
-        },
-        {
-          "keyword": "老化",
-          "score": 99
-        },
-        {
-          "keyword": "トヨタ自動車九州",
-          "score": 98
-        },
-        {
-          "keyword": "旅館",
-          "score": 97
-        },
-        {
-          "keyword": "石川慎吾",
-          "score": 96
-        },
-        {
-          "keyword": "南波雅俊",
-          "score": 95
-        },
-        {
-          "keyword": "ディズニー dpa",
-          "score": 94
-        },
-        {
-          "keyword": "能登半島",
-          "score": 93
-        },
-        {
-          "keyword": "日刊スポーツ",
-          "score": 92
-        },
-        {
-          "keyword": "アンドゥーリル",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-01T09:49:07.420Z",
       "geo": "JP",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "資生堂",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-05T09:16:42.473Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "青木真也",
+          "score": 100
+        },
+        {
+          "keyword": "ジャクソンアーバイン",
+          "score": 99
+        },
+        {
+          "keyword": "共和党",
+          "score": 98
+        },
+        {
+          "keyword": "パペットスンスン 郵便局",
+          "score": 97
+        },
+        {
+          "keyword": "オリックス 対 楽天",
+          "score": 96
+        },
+        {
+          "keyword": "アジア甲子園",
+          "score": 95
+        },
+        {
+          "keyword": "ギマランイス",
+          "score": 94
+        },
+        {
+          "keyword": "高校野球",
+          "score": 93
+        },
+        {
+          "keyword": "泉 房穂",
+          "score": 92
+        },
+        {
+          "keyword": "ルクア サウス",
           "score": 91
         }
       ]
