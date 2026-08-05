@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-01T01:51:18.811Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "전병우",
-          "score": 100
-        },
-        {
-          "keyword": "구성환",
-          "score": 99
-        },
-        {
-          "keyword": "서울역",
-          "score": 98
-        },
-        {
-          "keyword": "동맹",
-          "score": 97
-        },
-        {
-          "keyword": "하주석",
-          "score": 96
-        },
-        {
-          "keyword": "한국여자바둑리그",
-          "score": 95
-        },
-        {
-          "keyword": "자오즈민",
-          "score": 94
-        },
-        {
-          "keyword": "박미선",
-          "score": 93
-        },
-        {
-          "keyword": "손태진",
-          "score": 92
-        },
-        {
-          "keyword": "기후동행카드",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-01T05:18:02.557Z",
       "geo": "KR",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "재건축",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-05T03:53:08.181Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "네이마르",
+          "score": 100
+        },
+        {
+          "keyword": "타릭 스쿠발",
+          "score": 99
+        },
+        {
+          "keyword": "회사",
+          "score": 98
+        },
+        {
+          "keyword": "오디세이 쿠키",
+          "score": 97
+        },
+        {
+          "keyword": "스타벅스 압수수색",
+          "score": 96
+        },
+        {
+          "keyword": "오은영",
+          "score": 95
+        },
+        {
+          "keyword": "이만기",
+          "score": 94
+        },
+        {
+          "keyword": "서울시교육청",
+          "score": 93
+        },
+        {
+          "keyword": "디앤디파마텍",
+          "score": 92
+        },
+        {
+          "keyword": "이스타항공",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-01T01:51:20.022Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ジャパネット",
-          "score": 100
-        },
-        {
-          "keyword": "函館港まつり",
-          "score": 99
-        },
-        {
-          "keyword": "wowow",
-          "score": 98
-        },
-        {
-          "keyword": "ドジャース 対 レッドソックス",
-          "score": 97
-        },
-        {
-          "keyword": "ホウオウモノポリー",
-          "score": 96
-        },
-        {
-          "keyword": "石油",
-          "score": 95
-        },
-        {
-          "keyword": "ぴあチケット",
-          "score": 94
-        },
-        {
-          "keyword": "ちゃお",
-          "score": 93
-        },
-        {
-          "keyword": "三好 美羽 陸上 引退",
-          "score": 92
-        },
-        {
-          "keyword": "母親",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-01T05:18:03.872Z",
       "geo": "JP",
       "source": "google",
@@ -2489,6 +2442,53 @@
         },
         {
           "keyword": "鳴門競艇",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-05T03:53:09.373Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ひよっこ",
+          "score": 100
+        },
+        {
+          "keyword": "ポケモンチャンピオンズ",
+          "score": 99
+        },
+        {
+          "keyword": "トマホーク",
+          "score": 98
+        },
+        {
+          "keyword": "甲子園速報",
+          "score": 97
+        },
+        {
+          "keyword": "ウルグアイ代表",
+          "score": 96
+        },
+        {
+          "keyword": "東北楽天ゴールデンイーグルス",
+          "score": 95
+        },
+        {
+          "keyword": "札幌日大",
+          "score": 94
+        },
+        {
+          "keyword": "島田裕巳",
+          "score": 93
+        },
+        {
+          "keyword": "嵐",
+          "score": 92
+        },
+        {
+          "keyword": "太田 光",
           "score": 91
         }
       ]
