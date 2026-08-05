@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-01T22:24:07.550Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ボクシング",
-          "score": 100
-        },
-        {
-          "keyword": "黒柳徹子",
-          "score": 99
-        },
-        {
-          "keyword": "capital",
-          "score": 98
-        },
-        {
-          "keyword": "梨田昌孝",
-          "score": 97
-        },
-        {
-          "keyword": "デーリー東北",
-          "score": 96
-        },
-        {
-          "keyword": "南シナ海",
-          "score": 95
-        },
-        {
-          "keyword": "土砂災害",
-          "score": 94
-        },
-        {
-          "keyword": "クレジットカード決済代行破産",
-          "score": 93
-        },
-        {
-          "keyword": "ベーブ・ルース",
-          "score": 92
-        },
-        {
-          "keyword": "サンフレッチェ広島",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-01T23:25:35.293Z",
       "geo": "JP",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "退職",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-05T22:48:37.398Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mcdonald's",
+          "score": 100
+        },
+        {
+          "keyword": "今日のドジャースの試合結果",
+          "score": 99
+        },
+        {
+          "keyword": "田中麗奈",
+          "score": 98
+        },
+        {
+          "keyword": "starbucks",
+          "score": 97
+        },
+        {
+          "keyword": "今日の甲子園",
+          "score": 96
+        },
+        {
+          "keyword": "菅野智之",
+          "score": 95
+        },
+        {
+          "keyword": "久保凛",
+          "score": 94
+        },
+        {
+          "keyword": "太田 宏介",
+          "score": 93
+        },
+        {
+          "keyword": "外傷",
+          "score": 92
+        },
+        {
+          "keyword": "広末涼子",
           "score": 91
         }
       ]
