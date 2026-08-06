@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-02T14:05:29.895Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "제임스 네일",
-          "score": 100
-        },
-        {
-          "keyword": "데이터 센터",
-          "score": 99
-        },
-        {
-          "keyword": "유재석",
-          "score": 98
-        },
-        {
-          "keyword": "김서연",
-          "score": 97
-        },
-        {
-          "keyword": "영탁",
-          "score": 96
-        },
-        {
-          "keyword": "대구광역시",
-          "score": 95
-        },
-        {
-          "keyword": "송가인",
-          "score": 94
-        },
-        {
-          "keyword": "조현아",
-          "score": 93
-        },
-        {
-          "keyword": "신구",
-          "score": 92
-        },
-        {
-          "keyword": "신생아",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-02T15:34:59.769Z",
       "geo": "KR",
       "source": "google",
@@ -2301,6 +2254,53 @@
         },
         {
           "keyword": "발레단",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-06T14:43:03.605Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "폐암",
+          "score": 100
+        },
+        {
+          "keyword": "가사 도우미",
+          "score": 99
+        },
+        {
+          "keyword": "마테우스 누네스",
+          "score": 98
+        },
+        {
+          "keyword": "현대 그랜저",
+          "score": 97
+        },
+        {
+          "keyword": "지승현",
+          "score": 96
+        },
+        {
+          "keyword": "이수",
+          "score": 95
+        },
+        {
+          "keyword": "무역",
+          "score": 94
+        },
+        {
+          "keyword": "코로나 바이러스",
+          "score": 93
+        },
+        {
+          "keyword": "양육비",
+          "score": 92
+        },
+        {
+          "keyword": "페이즈",
           "score": 91
         }
       ]
