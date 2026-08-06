@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-02T11:00:17.501Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "綾瀬はるか",
-          "score": 100
-        },
-        {
-          "keyword": "宮崎県",
-          "score": 99
-        },
-        {
-          "keyword": "下妻市長選挙",
-          "score": 98
-        },
-        {
-          "keyword": "google pixel",
-          "score": 97
-        },
-        {
-          "keyword": "熊谷花火大会",
-          "score": 96
-        },
-        {
-          "keyword": "上田綺世",
-          "score": 95
-        },
-        {
-          "keyword": "坂本誠志郎",
-          "score": 94
-        },
-        {
-          "keyword": "熊本県知事",
-          "score": 93
-        },
-        {
-          "keyword": "愛知 天気",
-          "score": 92
-        },
-        {
-          "keyword": "坂倉",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-08-02T12:04:01.940Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "秋山翔吾",
-          "score": 100
-        },
-        {
-          "keyword": "中越地震",
-          "score": 99
-        },
-        {
-          "keyword": "ボーイング737",
-          "score": 98
-        },
-        {
-          "keyword": "ガールオアレディ",
-          "score": 97
-        },
-        {
-          "keyword": "堀田茜",
-          "score": 96
-        },
-        {
-          "keyword": "いとうあさこ",
-          "score": 95
-        },
-        {
-          "keyword": "thời tiết ngày mai",
-          "score": 94
-        },
-        {
-          "keyword": "清水健 アナウンサー",
-          "score": 93
-        },
-        {
-          "keyword": "岡田紗佳",
-          "score": 92
-        },
-        {
-          "keyword": "安室奈美恵",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-02T14:05:31.080Z",
       "geo": "JP",
       "source": "google",
@@ -2348,6 +2254,53 @@
         },
         {
           "keyword": "船橋競馬",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-06T12:24:15.829Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "オリックス 対 楽天",
+          "score": 100
+        },
+        {
+          "keyword": "新庄 剛志",
+          "score": 99
+        },
+        {
+          "keyword": "中日",
+          "score": 98
+        },
+        {
+          "keyword": "ファイターズ",
+          "score": 97
+        },
+        {
+          "keyword": "日本ハム",
+          "score": 96
+        },
+        {
+          "keyword": "ゴールデンタッグ",
+          "score": 95
+        },
+        {
+          "keyword": "プロ野球 速報",
+          "score": 94
+        },
+        {
+          "keyword": "加藤浩次",
+          "score": 93
+        },
+        {
+          "keyword": "平祐奈",
+          "score": 92
+        },
+        {
+          "keyword": "dena",
           "score": 91
         }
       ]
