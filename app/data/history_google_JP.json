@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-02T04:47:32.058Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "enc",
-          "score": 100
-        },
-        {
-          "keyword": "秋元優里",
-          "score": 99
-        },
-        {
-          "keyword": "リバーライアン",
-          "score": 98
-        },
-        {
-          "keyword": "北陸高校 バスケ",
-          "score": 97
-        },
-        {
-          "keyword": "太田梨歩",
-          "score": 96
-        },
-        {
-          "keyword": "大島洋平",
-          "score": 95
-        },
-        {
-          "keyword": "避難指示",
-          "score": 94
-        },
-        {
-          "keyword": "super gt",
-          "score": 93
-        },
-        {
-          "keyword": "野々村友紀子",
-          "score": 92
-        },
-        {
-          "keyword": "島谷ひとみ",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-08-02T07:26:43.444Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "志尊淳",
-          "score": 100
-        },
-        {
-          "keyword": "京セラドーム",
-          "score": 99
-        },
-        {
-          "keyword": "森香澄 ピーチジョン",
-          "score": 98
-        },
-        {
-          "keyword": "ボートレース",
-          "score": 97
-        },
-        {
-          "keyword": "cbc賞",
-          "score": 96
-        },
-        {
-          "keyword": "松山弘平",
-          "score": 95
-        },
-        {
-          "keyword": "win5",
-          "score": 94
-        },
-        {
-          "keyword": "佐野渓",
-          "score": 93
-        },
-        {
-          "keyword": "白バイ",
-          "score": 92
-        },
-        {
-          "keyword": "あるじゃん",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-02T09:30:06.618Z",
       "geo": "JP",
       "source": "google",
@@ -2395,6 +2301,53 @@
         },
         {
           "keyword": "ひよっこ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-06T07:32:48.313Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "フワちゃん",
+          "score": 100
+        },
+        {
+          "keyword": "インスタントハウス",
+          "score": 99
+        },
+        {
+          "keyword": "9432",
+          "score": 98
+        },
+        {
+          "keyword": "山本里菜",
+          "score": 97
+        },
+        {
+          "keyword": "死球",
+          "score": 96
+        },
+        {
+          "keyword": "hololive dreams",
+          "score": 95
+        },
+        {
+          "keyword": "甲子園 ライブ",
+          "score": 94
+        },
+        {
+          "keyword": "和歌山競輪",
+          "score": 93
+        },
+        {
+          "keyword": "レーザーテック 決算",
+          "score": 92
+        },
+        {
+          "keyword": "ionq",
           "score": 91
         }
       ]
