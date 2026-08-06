@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-02T09:30:05.369Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "광주광역시",
-          "score": 100
-        },
-        {
-          "keyword": "여론조작",
-          "score": 99
-        },
-        {
-          "keyword": "해군",
-          "score": 98
-        },
-        {
-          "keyword": "mlb",
-          "score": 97
-        },
-        {
-          "keyword": "포 헨즈",
-          "score": 96
-        },
-        {
-          "keyword": "종합 부동산 세",
-          "score": 95
-        },
-        {
-          "keyword": "레알 마드리드 cf",
-          "score": 94
-        },
-        {
-          "keyword": "베트남 축구 국가대표팀",
-          "score": 93
-        },
-        {
-          "keyword": "김 라경",
-          "score": 92
-        },
-        {
-          "keyword": "의료과실",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-02T11:00:15.945Z",
       "geo": "KR",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "대통령",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-06T10:27:06.055Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "서울특별시교육청",
+          "score": 100
+        },
+        {
+          "keyword": "골드만삭스",
+          "score": 99
+        },
+        {
+          "keyword": "진종오",
+          "score": 98
+        },
+        {
+          "keyword": "살인",
+          "score": 97
+        },
+        {
+          "keyword": "부산항",
+          "score": 96
+        },
+        {
+          "keyword": "북한 미사일",
+          "score": 95
+        },
+        {
+          "keyword": "민형배",
+          "score": 94
+        },
+        {
+          "keyword": "축협",
+          "score": 93
+        },
+        {
+          "keyword": "입법고시",
+          "score": 92
+        },
+        {
+          "keyword": "음문석",
           "score": 91
         }
       ]
