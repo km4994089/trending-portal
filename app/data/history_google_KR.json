@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-03T08:21:54.084Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "폭염중대경보",
-          "score": 100
-        },
-        {
-          "keyword": "손아섭",
-          "score": 99
-        },
-        {
-          "keyword": "롤라팔루자",
-          "score": 98
-        },
-        {
-          "keyword": "돌핀 경로",
-          "score": 97
-        },
-        {
-          "keyword": "이데일리",
-          "score": 96
-        },
-        {
-          "keyword": "천궁",
-          "score": 95
-        },
-        {
-          "keyword": "하이브",
-          "score": 94
-        },
-        {
-          "keyword": "가덕도",
-          "score": 93
-        },
-        {
-          "keyword": "대우건설",
-          "score": 92
-        },
-        {
-          "keyword": "해병대",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-03T11:53:06.835Z",
       "geo": "KR",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "멕시코",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-07T09:28:52.925Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "그늘로",
+          "score": 100
+        },
+        {
+          "keyword": "항소",
+          "score": 99
+        },
+        {
+          "keyword": "황희",
+          "score": 98
+        },
+        {
+          "keyword": "육사",
+          "score": 97
+        },
+        {
+          "keyword": "고흥군",
+          "score": 96
+        },
+        {
+          "keyword": "구금",
+          "score": 95
+        },
+        {
+          "keyword": "위원장",
+          "score": 94
+        },
+        {
+          "keyword": "현금",
+          "score": 93
+        },
+        {
+          "keyword": "의사",
+          "score": 92
+        },
+        {
+          "keyword": "설리해수욕장",
           "score": 91
         }
       ]

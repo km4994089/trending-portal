@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-03T08:21:55.136Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "オリックス 対 楽天",
-          "score": 100
-        },
-        {
-          "keyword": "ファミリーマート",
-          "score": 99
-        },
-        {
-          "keyword": "新型ハリアー",
-          "score": 98
-        },
-        {
-          "keyword": "旅館",
-          "score": 97
-        },
-        {
-          "keyword": "ばけばけ",
-          "score": 96
-        },
-        {
-          "keyword": "天気 大阪市",
-          "score": 95
-        },
-        {
-          "keyword": "高 市 早苗 熊本",
-          "score": 94
-        },
-        {
-          "keyword": "上垣 皓 太朗",
-          "score": 93
-        },
-        {
-          "keyword": "田久保眞紀",
-          "score": 92
-        },
-        {
-          "keyword": "トヨタ自動車九州",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-03T11:53:08.072Z",
       "geo": "JP",
       "source": "google",
@@ -2066,6 +2019,53 @@
         },
         {
           "keyword": "6920",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-07T09:28:54.242Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "テレ朝チケット",
+          "score": 100
+        },
+        {
+          "keyword": "dazn",
+          "score": 99
+        },
+        {
+          "keyword": "ツイッチ",
+          "score": 98
+        },
+        {
+          "keyword": "ヴィッセル神戸",
+          "score": 97
+        },
+        {
+          "keyword": "日本ハム 対 楽天",
+          "score": 96
+        },
+        {
+          "keyword": "西武 対 ソフトバンク",
+          "score": 95
+        },
+        {
+          "keyword": "黒木啓司",
+          "score": 94
+        },
+        {
+          "keyword": "石川真佑",
+          "score": 93
+        },
+        {
+          "keyword": "ガンバ大阪",
+          "score": 92
+        },
+        {
+          "keyword": "中居 正広",
           "score": 91
         }
       ]
