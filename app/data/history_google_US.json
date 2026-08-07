@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-03T14:15:01.237Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "amazon stock",
-          "score": 100
-        },
-        {
-          "keyword": "crwv stock",
-          "score": 99
-        },
-        {
-          "keyword": "apple stock price",
-          "score": 98
-        },
-        {
-          "keyword": "phillies top prospects",
-          "score": 97
-        },
-        {
-          "keyword": "mlbtraderumors",
-          "score": 96
-        },
-        {
-          "keyword": "bryson stott",
-          "score": 95
-        },
-        {
-          "keyword": "sp 500",
-          "score": 94
-        },
-        {
-          "keyword": "microsoft stock price",
-          "score": 93
-        },
-        {
-          "keyword": "wpxi",
-          "score": 92
-        },
-        {
-          "keyword": "brooks raley",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-03T16:44:18.243Z",
       "geo": "US",
       "source": "google",
@@ -2207,6 +2160,53 @@
         },
         {
           "keyword": "tariff",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-07T14:44:22.513Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "andy cohen",
+          "score": 100
+        },
+        {
+          "keyword": "aaron pierre",
+          "score": 99
+        },
+        {
+          "keyword": "jalen hurts",
+          "score": 98
+        },
+        {
+          "keyword": "gold price",
+          "score": 97
+        },
+        {
+          "keyword": "team stock",
+          "score": 96
+        },
+        {
+          "keyword": "julie chen moonves",
+          "score": 95
+        },
+        {
+          "keyword": "sergi roberto",
+          "score": 94
+        },
+        {
+          "keyword": "oreo",
+          "score": 93
+        },
+        {
+          "keyword": "emmy rossum",
+          "score": 92
+        },
+        {
+          "keyword": "aston villa vs bayern",
           "score": 91
         }
       ]
