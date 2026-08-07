@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-03T22:51:52.975Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "트레이드",
-          "score": 100
-        },
-        {
-          "keyword": "한화에어로스페이스",
-          "score": 99
-        },
-        {
-          "keyword": "반포 디에이치 클래스트",
-          "score": 98
-        },
-        {
-          "keyword": "학교 폭력",
-          "score": 97
-        },
-        {
-          "keyword": "포항시",
-          "score": 96
-        },
-        {
-          "keyword": "메이저 리그 베이스볼",
-          "score": 95
-        },
-        {
-          "keyword": "qwen",
-          "score": 94
-        },
-        {
-          "keyword": "nvda",
-          "score": 93
-        },
-        {
-          "keyword": "박지윤",
-          "score": 92
-        },
-        {
-          "keyword": "한화그룹",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-03T23:59:18.674Z",
       "geo": "KR",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "고현정",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-07T23:01:49.567Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "weather",
+          "score": 100
+        },
+        {
+          "keyword": "สภาพอากาศ",
+          "score": 99
+        },
+        {
+          "keyword": "태풍 경로",
+          "score": 98
+        },
+        {
+          "keyword": "날씨",
+          "score": 97
+        },
+        {
+          "keyword": "天气",
+          "score": 96
+        },
+        {
+          "keyword": "포스코홀딩스",
+          "score": 95
+        },
+        {
+          "keyword": "погода",
+          "score": 94
+        },
+        {
+          "keyword": "전차",
+          "score": 93
+        },
+        {
+          "keyword": "송혜교",
+          "score": 92
+        },
+        {
+          "keyword": "ionq",
           "score": 91
         }
       ]

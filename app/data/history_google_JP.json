@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-03T22:51:54.021Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ヌートバー",
-          "score": 100
-        },
-        {
-          "keyword": "内藤哲也",
-          "score": 99
-        },
-        {
-          "keyword": "田中将大",
-          "score": 98
-        },
-        {
-          "keyword": "ラ・リーガ",
-          "score": 97
-        },
-        {
-          "keyword": "バスケットボール",
-          "score": 96
-        },
-        {
-          "keyword": "名古屋天気",
-          "score": 95
-        },
-        {
-          "keyword": "円安とは",
-          "score": 94
-        },
-        {
-          "keyword": "貨物",
-          "score": 93
-        },
-        {
-          "keyword": "アプリ",
-          "score": 92
-        },
-        {
-          "keyword": "ふるさと納税",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-03T23:59:20.391Z",
       "geo": "JP",
       "source": "google",
@@ -2395,6 +2348,53 @@
         },
         {
           "keyword": "ナスダック総合指数",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-07T23:01:50.590Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ブルワーズ 対 ツインズ",
+          "score": 100
+        },
+        {
+          "keyword": "八村塁",
+          "score": 99
+        },
+        {
+          "keyword": "大坂なおみ",
+          "score": 98
+        },
+        {
+          "keyword": "澤穂希",
+          "score": 97
+        },
+        {
+          "keyword": "サルモネラ菌",
+          "score": 96
+        },
+        {
+          "keyword": "宮司愛海",
+          "score": 95
+        },
+        {
+          "keyword": "東北道 渋滞",
+          "score": 94
+        },
+        {
+          "keyword": "兵庫県",
+          "score": 93
+        },
+        {
+          "keyword": "札幌天気",
+          "score": 92
+        },
+        {
+          "keyword": "セントレア",
           "score": 91
         }
       ]
