@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-03T11:53:06.835Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김병지",
-          "score": 100
-        },
-        {
-          "keyword": "김윤희 아나운서",
-          "score": 99
-        },
-        {
-          "keyword": "전기 요금",
-          "score": 98
-        },
-        {
-          "keyword": "오태완",
-          "score": 97
-        },
-        {
-          "keyword": "강득구",
-          "score": 96
-        },
-        {
-          "keyword": "암표",
-          "score": 95
-        },
-        {
-          "keyword": "원익홀딩스",
-          "score": 94
-        },
-        {
-          "keyword": "재정경제부",
-          "score": 93
-        },
-        {
-          "keyword": "순천향대 학교",
-          "score": 92
-        },
-        {
-          "keyword": "세제개편안",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-03T14:15:02.453Z",
       "geo": "KR",
       "source": "google",
@@ -2160,6 +2113,53 @@
         },
         {
           "keyword": "두산 대 삼성",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-07T12:04:55.598Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "오재원",
+          "score": 100
+        },
+        {
+          "keyword": "온도",
+          "score": 99
+        },
+        {
+          "keyword": "데이브 로버츠",
+          "score": 98
+        },
+        {
+          "keyword": "훈련",
+          "score": 97
+        },
+        {
+          "keyword": "교도소",
+          "score": 96
+        },
+        {
+          "keyword": "동전주",
+          "score": 95
+        },
+        {
+          "keyword": "유조선",
+          "score": 94
+        },
+        {
+          "keyword": "조갑경",
+          "score": 93
+        },
+        {
+          "keyword": "이데일리",
+          "score": 92
+        },
+        {
+          "keyword": "남궁민",
           "score": 91
         }
       ]

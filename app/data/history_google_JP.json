@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-03T11:53:08.072Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "工藤阿須加",
-          "score": 100
-        },
-        {
-          "keyword": "アニメイトガールズフェスティバル",
-          "score": 99
-        },
-        {
-          "keyword": "奈緒",
-          "score": 98
-        },
-        {
-          "keyword": "bias",
-          "score": 97
-        },
-        {
-          "keyword": "サンドイッチマン",
-          "score": 96
-        },
-        {
-          "keyword": "橋本大輝",
-          "score": 95
-        },
-        {
-          "keyword": "テコンドー",
-          "score": 94
-        },
-        {
-          "keyword": "狩野英孝",
-          "score": 93
-        },
-        {
-          "keyword": "柳沢慎吾",
-          "score": 92
-        },
-        {
-          "keyword": "貴闘力",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-03T14:15:03.706Z",
       "geo": "JP",
       "source": "google",
@@ -2160,6 +2113,53 @@
         },
         {
           "keyword": "アビスパ福岡",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-07T12:04:56.597Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ゴーストリコン",
+          "score": 100
+        },
+        {
+          "keyword": "ドリス",
+          "score": 99
+        },
+        {
+          "keyword": "荒木琉偉",
+          "score": 98
+        },
+        {
+          "keyword": "j1 試合",
+          "score": 97
+        },
+        {
+          "keyword": "日ハム",
+          "score": 96
+        },
+        {
+          "keyword": "阿部寿樹",
+          "score": 95
+        },
+        {
+          "keyword": "池山隆寛",
+          "score": 94
+        },
+        {
+          "keyword": "エスパルス",
+          "score": 93
+        },
+        {
+          "keyword": "チケプラ",
+          "score": 92
+        },
+        {
+          "keyword": "グランパス",
           "score": 91
         }
       ]
