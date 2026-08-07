@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-03T04:56:38.778Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "professor",
-          "score": 100
-        },
-        {
-          "keyword": "earthquake now",
-          "score": 99
-        },
-        {
-          "keyword": "earthquake",
-          "score": 98
-        },
-        {
-          "keyword": "tornado warnings",
-          "score": 97
-        },
-        {
-          "keyword": "bryan kohberger motive",
-          "score": 96
-        },
-        {
-          "keyword": "aerodiana",
-          "score": 95
-        },
-        {
-          "keyword": "denver summit fc",
-          "score": 94
-        },
-        {
-          "keyword": "petal music video",
-          "score": 93
-        },
-        {
-          "keyword": "alex call",
-          "score": 92
-        },
-        {
-          "keyword": "valkyries",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-03T08:21:53.205Z",
       "geo": "US",
       "source": "google",
@@ -1972,6 +1925,53 @@
         },
         {
           "keyword": "aroldis chapman",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-07T05:09:53.392Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "whopper burger king",
+          "score": 100
+        },
+        {
+          "keyword": "is zendaya pregnant",
+          "score": 99
+        },
+        {
+          "keyword": "chuck timely",
+          "score": 98
+        },
+        {
+          "keyword": "olivia rodrigo tour",
+          "score": 97
+        },
+        {
+          "keyword": "barbara palvin",
+          "score": 96
+        },
+        {
+          "keyword": "jacob elordi",
+          "score": 95
+        },
+        {
+          "keyword": "economy",
+          "score": 94
+        },
+        {
+          "keyword": "diamondbacks",
+          "score": 93
+        },
+        {
+          "keyword": "red sox standings",
+          "score": 92
+        },
+        {
+          "keyword": "al east standings",
           "score": 91
         }
       ]
