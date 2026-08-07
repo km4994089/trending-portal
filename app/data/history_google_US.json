@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-03T18:42:38.670Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "casey mize",
-          "score": 100
-        },
-        {
-          "keyword": "kris bubic",
-          "score": 99
-        },
-        {
-          "keyword": "liam hicks",
-          "score": 98
-        },
-        {
-          "keyword": "rafael jodar",
-          "score": 97
-        },
-        {
-          "keyword": "katie boulter",
-          "score": 96
-        },
-        {
-          "keyword": "charles iii",
-          "score": 95
-        },
-        {
-          "keyword": "reid detmers",
-          "score": 94
-        },
-        {
-          "keyword": "fritz",
-          "score": 93
-        },
-        {
-          "keyword": "adam macko",
-          "score": 92
-        },
-        {
-          "keyword": "strait of hormuz transit fees",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-03T20:19:58.225Z",
       "geo": "US",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "skaar",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-07T19:43:40.865Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "john goodman",
+          "score": 100
+        },
+        {
+          "keyword": "peter skoronski",
+          "score": 99
+        },
+        {
+          "keyword": "talarico",
+          "score": 98
+        },
+        {
+          "keyword": "anthony bourdain",
+          "score": 97
+        },
+        {
+          "keyword": "gabriel arias",
+          "score": 96
+        },
+        {
+          "keyword": "leylah fernandez",
+          "score": 95
+        },
+        {
+          "keyword": "lisa cook",
+          "score": 94
+        },
+        {
+          "keyword": "mirra andreeva",
+          "score": 93
+        },
+        {
+          "keyword": "dr jennifer tufts",
+          "score": 92
+        },
+        {
+          "keyword": "trump naval shipbuilding proposal",
           "score": 91
         }
       ]
