@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-03T16:44:18.243Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dairy queen caramel apple blizzard",
-          "score": 100
-        },
-        {
-          "keyword": "mehmet oz",
-          "score": 99
-        },
-        {
-          "keyword": "jo adell",
-          "score": 98
-        },
-        {
-          "keyword": "taylor ward",
-          "score": 97
-        },
-        {
-          "keyword": "jacob cozart",
-          "score": 96
-        },
-        {
-          "keyword": "arnold schwarzenegger",
-          "score": 95
-        },
-        {
-          "keyword": "hunger strike",
-          "score": 94
-        },
-        {
-          "keyword": "ben rortvedt",
-          "score": 93
-        },
-        {
-          "keyword": "clay holmes",
-          "score": 92
-        },
-        {
-          "keyword": "mike evans",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-03T18:42:38.670Z",
       "geo": "US",
       "source": "google",
@@ -2301,6 +2254,53 @@
         },
         {
           "keyword": "rochester air show",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-07T17:39:54.150Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "faa airport ground stops",
+          "score": 100
+        },
+        {
+          "keyword": "daniel merida aguilar",
+          "score": 99
+        },
+        {
+          "keyword": "justice smith",
+          "score": 98
+        },
+        {
+          "keyword": "alex michelsen",
+          "score": 97
+        },
+        {
+          "keyword": "niteharts",
+          "score": 96
+        },
+        {
+          "keyword": "tallon griekspoor",
+          "score": 95
+        },
+        {
+          "keyword": "anya taylor-joy",
+          "score": 94
+        },
+        {
+          "keyword": "elena rybakina",
+          "score": 93
+        },
+        {
+          "keyword": "real sociedad",
+          "score": 92
+        },
+        {
+          "keyword": "appeals court says trump is unlawfully constructing white house ballroom",
           "score": 91
         }
       ]
