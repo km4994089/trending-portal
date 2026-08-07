@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-03T20:20:01.185Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "株式分割",
-          "score": 100
-        },
-        {
-          "keyword": "mlbトレード",
-          "score": 99
-        },
-        {
-          "keyword": "水原一平",
-          "score": 98
-        },
-        {
-          "keyword": "りくりゅう",
-          "score": 97
-        },
-        {
-          "keyword": "ラッチマン",
-          "score": 96
-        },
-        {
-          "keyword": "ローソン",
-          "score": 95
-        },
-        {
-          "keyword": "小金井市 火事 速報",
-          "score": 94
-        },
-        {
-          "keyword": "中華人民共和国",
-          "score": 93
-        },
-        {
-          "keyword": "診断",
-          "score": 92
-        },
-        {
-          "keyword": "kick",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-03T21:36:13.087Z",
       "geo": "JP",
       "source": "google",
@@ -2348,6 +2301,53 @@
         },
         {
           "keyword": "亀田興毅",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-07T20:29:09.698Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "日本郵政",
+          "score": 100
+        },
+        {
+          "keyword": "痛いニュース",
+          "score": 99
+        },
+        {
+          "keyword": "渋滞情報",
+          "score": 98
+        },
+        {
+          "keyword": "猫猫",
+          "score": 97
+        },
+        {
+          "keyword": "亀田和毅",
+          "score": 96
+        },
+        {
+          "keyword": "usスチール",
+          "score": 95
+        },
+        {
+          "keyword": "テレビ離れ",
+          "score": 94
+        },
+        {
+          "keyword": "進撃の巨人",
+          "score": 93
+        },
+        {
+          "keyword": "西澤由夏",
+          "score": 92
+        },
+        {
+          "keyword": "児童",
           "score": 91
         }
       ]
