@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-03T01:03:08.271Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "météo demain",
-          "score": 100
-        },
-        {
-          "keyword": "aipac",
-          "score": 99
-        },
-        {
-          "keyword": "korn ferry tour",
-          "score": 98
-        },
-        {
-          "keyword": "james lankford",
-          "score": 97
-        },
-        {
-          "keyword": "orel hershiser",
-          "score": 96
-        },
-        {
-          "keyword": "what time does tate mcrae perform at lollapalooza",
-          "score": 95
-        },
-        {
-          "keyword": "nicole kidman",
-          "score": 94
-        },
-        {
-          "keyword": "natalia dontcheva",
-          "score": 93
-        },
-        {
-          "keyword": "mike trout",
-          "score": 92
-        },
-        {
-          "keyword": "toluca - necaxa",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-03T04:56:38.778Z",
       "geo": "US",
       "source": "google",
@@ -1972,6 +1925,53 @@
         },
         {
           "keyword": "chase meidroth",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-07T03:23:32.317Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "trevor richards",
+          "score": 100
+        },
+        {
+          "keyword": "betty gilpin",
+          "score": 99
+        },
+        {
+          "keyword": "super troopers",
+          "score": 98
+        },
+        {
+          "keyword": "boston red sox",
+          "score": 97
+        },
+        {
+          "keyword": "brian rodríguez",
+          "score": 96
+        },
+        {
+          "keyword": "chicago bears",
+          "score": 95
+        },
+        {
+          "keyword": "sean payton",
+          "score": 94
+        },
+        {
+          "keyword": "red sox",
+          "score": 93
+        },
+        {
+          "keyword": "elina svitolina",
+          "score": 92
+        },
+        {
+          "keyword": "aroldis chapman",
           "score": 91
         }
       ]
