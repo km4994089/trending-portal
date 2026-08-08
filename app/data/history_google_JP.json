@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-04T11:00:19.696Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "尾形崇斗",
-          "score": 100
-        },
-        {
-          "keyword": "木村知事",
-          "score": 99
-        },
-        {
-          "keyword": "山本祐大",
-          "score": 98
-        },
-        {
-          "keyword": "茨城県警察",
-          "score": 97
-        },
-        {
-          "keyword": "谷晃生",
-          "score": 96
-        },
-        {
-          "keyword": "日ハム",
-          "score": 95
-        },
-        {
-          "keyword": "ケロロ軍曹",
-          "score": 94
-        },
-        {
-          "keyword": "ジョイフル 鬼 滅",
-          "score": 93
-        },
-        {
-          "keyword": "インターハイ 陸上",
-          "score": 92
-        },
-        {
-          "keyword": "ホルヘ・マルティン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-04T13:04:19.864Z",
       "geo": "JP",
       "source": "google",
@@ -2724,6 +2677,53 @@
         },
         {
           "keyword": "熊本県知事",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-08T11:21:49.136Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ssbc",
+          "score": 100
+        },
+        {
+          "keyword": "警部補",
+          "score": 99
+        },
+        {
+          "keyword": "ラグビーユニオン",
+          "score": 98
+        },
+        {
+          "keyword": "吉田健人",
+          "score": 97
+        },
+        {
+          "keyword": "軍国主義",
+          "score": 96
+        },
+        {
+          "keyword": "プロフェッショナル",
+          "score": 95
+        },
+        {
+          "keyword": "佐野 勇 斗",
+          "score": 94
+        },
+        {
+          "keyword": "島津亜矢",
+          "score": 93
+        },
+        {
+          "keyword": "池上彰",
+          "score": 92
+        },
+        {
+          "keyword": "ジュビロ磐田 試合",
           "score": 91
         }
       ]

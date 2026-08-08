@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-04T11:00:17.296Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ray dalio",
-          "score": 100
-        },
-        {
-          "keyword": "green bay packers",
-          "score": 99
-        },
-        {
-          "keyword": "cuba",
-          "score": 98
-        },
-        {
-          "keyword": "google pixel 11 pro",
-          "score": 97
-        },
-        {
-          "keyword": "screenrant",
-          "score": 96
-        },
-        {
-          "keyword": "cat stock",
-          "score": 95
-        },
-        {
-          "keyword": "michelle pfeiffer",
-          "score": 94
-        },
-        {
-          "keyword": "max miller video",
-          "score": 93
-        },
-        {
-          "keyword": "jeju united - bayern",
-          "score": 92
-        },
-        {
-          "keyword": "jeju vs bayern",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-04T13:04:17.798Z",
       "geo": "US",
       "source": "google",
@@ -2724,6 +2677,53 @@
         },
         {
           "keyword": "detroit red wings",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-08T11:21:46.426Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "todd blanche",
+          "score": 100
+        },
+        {
+          "keyword": "juventus - inter",
+          "score": 99
+        },
+        {
+          "keyword": "apple iphone 18 pro max",
+          "score": 98
+        },
+        {
+          "keyword": "senate government funding bill",
+          "score": 97
+        },
+        {
+          "keyword": "cbs sports",
+          "score": 96
+        },
+        {
+          "keyword": "zack snyder",
+          "score": 95
+        },
+        {
+          "keyword": "kimberly williams-paisley",
+          "score": 94
+        },
+        {
+          "keyword": "summer streets nyc",
+          "score": 93
+        },
+        {
+          "keyword": "cambridge professor jason arday",
+          "score": 92
+        },
+        {
+          "keyword": "ny giants",
           "score": 91
         }
       ]
