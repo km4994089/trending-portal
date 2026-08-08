@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-04T05:30:54.411Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "aaron farinacci spokane",
-          "score": 100
-        },
-        {
-          "keyword": "mitch mcconnell",
-          "score": 99
-        },
-        {
-          "keyword": "adam sandler",
-          "score": 98
-        },
-        {
-          "keyword": "rihanna",
-          "score": 97
-        },
-        {
-          "keyword": "the amazing spider-man",
-          "score": 96
-        },
-        {
-          "keyword": "davante adams",
-          "score": 95
-        },
-        {
-          "keyword": "harry truman",
-          "score": 94
-        },
-        {
-          "keyword": "eshop sale",
-          "score": 93
-        },
-        {
-          "keyword": "jasson dominguez",
-          "score": 92
-        },
-        {
-          "keyword": "oregon fires",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-04T08:19:05.752Z",
       "geo": "US",
       "source": "google",
@@ -2536,6 +2489,53 @@
         },
         {
           "keyword": "josh hader",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-08T06:03:16.999Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "medevac",
+          "score": 100
+        },
+        {
+          "keyword": "christian bale",
+          "score": 99
+        },
+        {
+          "keyword": "ichiro",
+          "score": 98
+        },
+        {
+          "keyword": "timothee chalamet",
+          "score": 97
+        },
+        {
+          "keyword": "mexico world cup",
+          "score": 96
+        },
+        {
+          "keyword": "charlize theron",
+          "score": 95
+        },
+        {
+          "keyword": "astros standings",
+          "score": 94
+        },
+        {
+          "keyword": "posiciones de vancouver whitecaps contra fútbol club juárez",
+          "score": 93
+        },
+        {
+          "keyword": "vancouver whitecaps fc vs fc juárez standings",
+          "score": 92
+        },
+        {
+          "keyword": "mexico",
           "score": 91
         }
       ]
