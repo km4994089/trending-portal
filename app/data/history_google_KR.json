@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-04T02:29:18.303Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "강균성",
-          "score": 100
-        },
-        {
-          "keyword": "코바나",
-          "score": 99
-        },
-        {
-          "keyword": "활공 폭탄",
-          "score": 98
-        },
-        {
-          "keyword": "리센느",
-          "score": 97
-        },
-        {
-          "keyword": "화암동굴",
-          "score": 96
-        },
-        {
-          "keyword": "파산",
-          "score": 95
-        },
-        {
-          "keyword": "매그니피센트 7",
-          "score": 94
-        },
-        {
-          "keyword": "최진실",
-          "score": 93
-        },
-        {
-          "keyword": "박보경",
-          "score": 92
-        },
-        {
-          "keyword": "필라델피아 필리스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-04T05:30:55.570Z",
       "geo": "KR",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "광진구",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-08T02:50:01.937Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "삼성 라이온즈",
+          "score": 100
+        },
+        {
+          "keyword": "경상남도",
+          "score": 99
+        },
+        {
+          "keyword": "알렉산드라 에알라",
+          "score": 98
+        },
+        {
+          "keyword": "태장동",
+          "score": 97
+        },
+        {
+          "keyword": "천성호",
+          "score": 96
+        },
+        {
+          "keyword": "대전광역시",
+          "score": 95
+        },
+        {
+          "keyword": "샤이니",
+          "score": 94
+        },
+        {
+          "keyword": "경마공원",
+          "score": 93
+        },
+        {
+          "keyword": "보조금",
+          "score": 92
+        },
+        {
+          "keyword": "테니스",
           "score": 91
         }
       ]
