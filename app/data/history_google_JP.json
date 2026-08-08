@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-04T08:19:08.000Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "広島 対 巨人",
-          "score": 100
-        },
-        {
-          "keyword": "中日 対 ヤクルト",
-          "score": 99
-        },
-        {
-          "keyword": "メーガン妃",
-          "score": 98
-        },
-        {
-          "keyword": "ジェフユナイテッド市原・千葉",
-          "score": 97
-        },
-        {
-          "keyword": "キャンペーン",
-          "score": 96
-        },
-        {
-          "keyword": "山車",
-          "score": 95
-        },
-        {
-          "keyword": "dena 対 阪神",
-          "score": 94
-        },
-        {
-          "keyword": "高島屋洛西店",
-          "score": 93
-        },
-        {
-          "keyword": "道路",
-          "score": 92
-        },
-        {
-          "keyword": "ソフトバンク 決算",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-04T11:00:19.696Z",
       "geo": "JP",
       "source": "google",
@@ -2630,6 +2583,53 @@
         },
         {
           "keyword": "カターレ富山",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-08T09:07:41.275Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "山口 達也",
+          "score": 100
+        },
+        {
+          "keyword": "戸塚純貴",
+          "score": 99
+        },
+        {
+          "keyword": "テンバガー",
+          "score": 98
+        },
+        {
+          "keyword": "one samurai 2",
+          "score": 97
+        },
+        {
+          "keyword": "ポール・ウォーカー",
+          "score": 96
+        },
+        {
+          "keyword": "平和島競艇",
+          "score": 95
+        },
+        {
+          "keyword": "傷害罪",
+          "score": 94
+        },
+        {
+          "keyword": "石井大智",
+          "score": 93
+        },
+        {
+          "keyword": "よさこい祭り",
+          "score": 92
+        },
+        {
+          "keyword": "京大病院 医療事故",
           "score": 91
         }
       ]
