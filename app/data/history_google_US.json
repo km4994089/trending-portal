@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-03T23:59:17.433Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "aaron rodgers",
-          "score": 100
-        },
-        {
-          "keyword": "luis garcía jr.",
-          "score": 99
-        },
-        {
-          "keyword": "rece hinds",
-          "score": 98
-        },
-        {
-          "keyword": "andrew alvarez",
-          "score": 97
-        },
-        {
-          "keyword": "dodgers - cubs",
-          "score": 96
-        },
-        {
-          "keyword": "arbys",
-          "score": 95
-        },
-        {
-          "keyword": "ios 27 beta 5",
-          "score": 94
-        },
-        {
-          "keyword": "dodgers vs cubs",
-          "score": 93
-        },
-        {
-          "keyword": "blue jays vs astros",
-          "score": 92
-        },
-        {
-          "keyword": "giants vs rangers",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-04T02:29:17.052Z",
       "geo": "US",
       "source": "google",
@@ -2442,6 +2395,53 @@
         },
         {
           "keyword": "maria sakkari",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-08T00:51:31.730Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jake rogers",
+          "score": 100
+        },
+        {
+          "keyword": "rob mac",
+          "score": 99
+        },
+        {
+          "keyword": "tigres - minnesota",
+          "score": 98
+        },
+        {
+          "keyword": "carson benge",
+          "score": 97
+        },
+        {
+          "keyword": "marcus semien",
+          "score": 96
+        },
+        {
+          "keyword": "fc cincinnati",
+          "score": 95
+        },
+        {
+          "keyword": "smackdown",
+          "score": 94
+        },
+        {
+          "keyword": "derek fisher",
+          "score": 93
+        },
+        {
+          "keyword": "taylor townsend",
+          "score": 92
+        },
+        {
+          "keyword": "mexico vs venezuela",
           "score": 91
         }
       ]
