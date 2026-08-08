@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-04T19:06:09.007Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "유가증권",
-          "score": 100
-        },
-        {
-          "keyword": "토비 맥과이어",
-          "score": 99
-        },
-        {
-          "keyword": "양희은",
-          "score": 98
-        },
-        {
-          "keyword": "돼지",
-          "score": 97
-        },
-        {
-          "keyword": "감염",
-          "score": 96
-        },
-        {
-          "keyword": "양산시",
-          "score": 95
-        },
-        {
-          "keyword": "삼성 갤럭시 z 폴드 6",
-          "score": 94
-        },
-        {
-          "keyword": "장동건",
-          "score": 93
-        },
-        {
-          "keyword": "이윤지",
-          "score": 92
-        },
-        {
-          "keyword": "이투데이",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-04T20:48:13.975Z",
       "geo": "KR",
       "source": "google",
@@ -3147,6 +3100,53 @@
         },
         {
           "keyword": "서하얀",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-08T19:21:12.237Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "페렌츠바로시 대 레알 마드리드",
+          "score": 100
+        },
+        {
+          "keyword": "레알마드리드",
+          "score": 99
+        },
+        {
+          "keyword": "서점가",
+          "score": 98
+        },
+        {
+          "keyword": "정가은",
+          "score": 97
+        },
+        {
+          "keyword": "가능한 사랑",
+          "score": 96
+        },
+        {
+          "keyword": "fotmob",
+          "score": 95
+        },
+        {
+          "keyword": "면목동",
+          "score": 94
+        },
+        {
+          "keyword": "김소영",
+          "score": 93
+        },
+        {
+          "keyword": "ewc 철권",
+          "score": 92
+        },
+        {
+          "keyword": "psg",
           "score": 91
         }
       ]
