@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-04T20:48:15.404Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "中谷 仁",
-          "score": 100
-        },
-        {
-          "keyword": "練習 生",
-          "score": 99
-        },
-        {
-          "keyword": "松島輝空",
-          "score": 98
-        },
-        {
-          "keyword": "週間天気予報",
-          "score": 97
-        },
-        {
-          "keyword": "台風進路予想",
-          "score": 96
-        },
-        {
-          "keyword": "nvidia",
-          "score": 95
-        },
-        {
-          "keyword": "漫画",
-          "score": 94
-        },
-        {
-          "keyword": "河村勇輝",
-          "score": 93
-        },
-        {
-          "keyword": "森且行",
-          "score": 92
-        },
-        {
-          "keyword": "kick",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-04T22:03:27.584Z",
       "geo": "JP",
       "source": "google",
@@ -3241,6 +3194,53 @@
         },
         {
           "keyword": "大分地震",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-08T20:54:47.312Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "熱帯低気圧",
+          "score": 100
+        },
+        {
+          "keyword": "雨",
+          "score": 99
+        },
+        {
+          "keyword": "永井花奈",
+          "score": 98
+        },
+        {
+          "keyword": "石川遼",
+          "score": 97
+        },
+        {
+          "keyword": "コストコ",
+          "score": 96
+        },
+        {
+          "keyword": "バスケットボール女子日本代表",
+          "score": 95
+        },
+        {
+          "keyword": "ホルムズ海峡",
+          "score": 94
+        },
+        {
+          "keyword": "成田蓮",
+          "score": 93
+        },
+        {
+          "keyword": "岩手県",
+          "score": 92
+        },
+        {
+          "keyword": "カップヌードル",
           "score": 91
         }
       ]
