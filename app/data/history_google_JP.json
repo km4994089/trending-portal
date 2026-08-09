@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-05T03:53:09.373Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ひよっこ",
-          "score": 100
-        },
-        {
-          "keyword": "ポケモンチャンピオンズ",
-          "score": 99
-        },
-        {
-          "keyword": "トマホーク",
-          "score": 98
-        },
-        {
-          "keyword": "甲子園速報",
-          "score": 97
-        },
-        {
-          "keyword": "ウルグアイ代表",
-          "score": 96
-        },
-        {
-          "keyword": "東北楽天ゴールデンイーグルス",
-          "score": 95
-        },
-        {
-          "keyword": "札幌日大",
-          "score": 94
-        },
-        {
-          "keyword": "島田裕巳",
-          "score": 93
-        },
-        {
-          "keyword": "嵐",
-          "score": 92
-        },
-        {
-          "keyword": "太田 光",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-05T06:19:03.962Z",
       "geo": "JP",
       "source": "google",
@@ -3476,6 +3429,53 @@
         },
         {
           "keyword": "ドラゴンバルド",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-09T04:13:36.156Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "バスケットボール男子日本代表",
+          "score": 100
+        },
+        {
+          "keyword": "レイザーラモンhg",
+          "score": 99
+        },
+        {
+          "keyword": "アジアバレーボール連盟",
+          "score": 98
+        },
+        {
+          "keyword": "山本由伸",
+          "score": 97
+        },
+        {
+          "keyword": "ドジャース結果",
+          "score": 96
+        },
+        {
+          "keyword": "フランス",
+          "score": 95
+        },
+        {
+          "keyword": "琵琶湖三市同時花火",
+          "score": 94
+        },
+        {
+          "keyword": "バイデン",
+          "score": 93
+        },
+        {
+          "keyword": "タナー・スコット",
+          "score": 92
+        },
+        {
+          "keyword": "鈴木奈々",
           "score": 91
         }
       ]
