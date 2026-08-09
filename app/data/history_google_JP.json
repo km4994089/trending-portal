@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-05T20:25:47.697Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "サイバー攻撃",
-          "score": 100
-        },
-        {
-          "keyword": "ドジャース",
-          "score": 99
-        },
-        {
-          "keyword": "ドジャース 試合",
-          "score": 98
-        },
-        {
-          "keyword": "マヨルカ 対 パリsg",
-          "score": 97
-        },
-        {
-          "keyword": "柱谷哲二",
-          "score": 96
-        },
-        {
-          "keyword": "花王 株主優待",
-          "score": 95
-        },
-        {
-          "keyword": "鈴木誠也",
-          "score": 94
-        },
-        {
-          "keyword": "ムーキー・ベッツ",
-          "score": 93
-        },
-        {
-          "keyword": "徹子の部屋",
-          "score": 92
-        },
-        {
-          "keyword": "トミー・エドマン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-05T21:40:51.453Z",
       "geo": "JP",
       "source": "google",
@@ -4181,6 +4134,53 @@
         },
         {
           "keyword": "ドラマ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-09T20:59:16.958Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "マックフライポテト",
+          "score": 100
+        },
+        {
+          "keyword": "ベン・ロートベット",
+          "score": 99
+        },
+        {
+          "keyword": "モーニング",
+          "score": 98
+        },
+        {
+          "keyword": "正面衝突",
+          "score": 97
+        },
+        {
+          "keyword": "配当",
+          "score": 96
+        },
+        {
+          "keyword": "トミー・エドマン",
+          "score": 95
+        },
+        {
+          "keyword": "エドゥアルド・ロドリゲス",
+          "score": 94
+        },
+        {
+          "keyword": "厚生年金",
+          "score": 93
+        },
+        {
+          "keyword": "詐欺",
+          "score": 92
+        },
+        {
+          "keyword": "内藤哲也",
           "score": 91
         }
       ]
