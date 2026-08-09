@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-05T00:55:19.414Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "スクーバル トレード",
-          "score": 100
-        },
-        {
-          "keyword": "ダイキン 株価",
-          "score": 99
-        },
-        {
-          "keyword": "dayday",
-          "score": 98
-        },
-        {
-          "keyword": "ベン・ロートベット",
-          "score": 97
-        },
-        {
-          "keyword": "トランプ 為替介入",
-          "score": 96
-        },
-        {
-          "keyword": "原爆",
-          "score": 95
-        },
-        {
-          "keyword": "太平洋艦隊",
-          "score": 94
-        },
-        {
-          "keyword": "jリーグチケット",
-          "score": 93
-        },
-        {
-          "keyword": "タリック・スクーバル",
-          "score": 92
-        },
-        {
-          "keyword": "鳴門競艇",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-05T03:53:09.373Z",
       "geo": "JP",
       "source": "google",
@@ -3476,6 +3429,53 @@
         },
         {
           "keyword": "横浜高校 甲子園",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-09T02:57:23.824Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "戸田競艇",
+          "score": 100
+        },
+        {
+          "keyword": "無人機",
+          "score": 99
+        },
+        {
+          "keyword": "東京ドーム",
+          "score": 98
+        },
+        {
+          "keyword": "シュン スカイ ウォーカー",
+          "score": 97
+        },
+        {
+          "keyword": "台風気象情報、台風第15号",
+          "score": 96
+        },
+        {
+          "keyword": "長崎市長",
+          "score": 95
+        },
+        {
+          "keyword": "黙祷",
+          "score": 94
+        },
+        {
+          "keyword": "ららぽーと甲子園",
+          "score": 93
+        },
+        {
+          "keyword": "中島ひとみ",
+          "score": 92
+        },
+        {
+          "keyword": "ドラゴンバルド",
           "score": 91
         }
       ]
