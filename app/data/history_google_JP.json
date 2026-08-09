@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-05T13:41:53.316Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "マリノス",
-          "score": 100
-        },
-        {
-          "keyword": "ニジゲンノモリ",
-          "score": 99
-        },
-        {
-          "keyword": "海豚",
-          "score": 98
-        },
-        {
-          "keyword": "konami",
-          "score": 97
-        },
-        {
-          "keyword": "大阪府警察",
-          "score": 96
-        },
-        {
-          "keyword": "ワンピース カード 4 周年",
-          "score": 95
-        },
-        {
-          "keyword": "インハイ 陸上",
-          "score": 94
-        },
-        {
-          "keyword": "侍 ジャパン u15",
-          "score": 93
-        },
-        {
-          "keyword": "長崎原爆の日",
-          "score": 92
-        },
-        {
-          "keyword": "キックス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-05T15:53:59.346Z",
       "geo": "JP",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "リヴァプール 対 モナコ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-09T14:06:41.655Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "永島優美",
+          "score": 100
+        },
+        {
+          "keyword": "土砂災害",
+          "score": 99
+        },
+        {
+          "keyword": "水曜どうでしょう",
+          "score": 98
+        },
+        {
+          "keyword": "リヴァプール",
+          "score": 97
+        },
+        {
+          "keyword": "宮下今日子",
+          "score": 96
+        },
+        {
+          "keyword": "アーセナル",
+          "score": 95
+        },
+        {
+          "keyword": "西村雄一",
+          "score": 94
+        },
+        {
+          "keyword": "arsenal",
+          "score": 93
+        },
+        {
+          "keyword": "野崎",
+          "score": 92
+        },
+        {
+          "keyword": "山本耕史",
           "score": 91
         }
       ]
