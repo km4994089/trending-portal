@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-05T23:48:28.295Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이유비",
-          "score": 100
-        },
-        {
-          "keyword": "재테크",
-          "score": 99
-        },
-        {
-          "keyword": "금값",
-          "score": 98
-        },
-        {
-          "keyword": "운세",
-          "score": 97
-        },
-        {
-          "keyword": "임종언",
-          "score": 96
-        },
-        {
-          "keyword": "kt wiz",
-          "score": 95
-        },
-        {
-          "keyword": "이정후",
-          "score": 94
-        },
-        {
-          "keyword": "연합뉴스",
-          "score": 93
-        },
-        {
-          "keyword": "배구",
-          "score": 92
-        },
-        {
-          "keyword": "환자경험평가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-06T01:28:29.290Z",
       "geo": "KR",
       "source": "google",
@@ -4275,6 +4228,53 @@
         },
         {
           "keyword": "시청률",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-09T23:55:06.046Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "배구",
+          "score": 100
+        },
+        {
+          "keyword": "오타니 쇼헤이",
+          "score": 99
+        },
+        {
+          "keyword": "이승우",
+          "score": 98
+        },
+        {
+          "keyword": "주유소",
+          "score": 97
+        },
+        {
+          "keyword": "간암",
+          "score": 96
+        },
+        {
+          "keyword": "이효리",
+          "score": 95
+        },
+        {
+          "keyword": "적금",
+          "score": 94
+        },
+        {
+          "keyword": "변동성",
+          "score": 93
+        },
+        {
+          "keyword": "노란봉투법",
+          "score": 92
+        },
+        {
+          "keyword": "오지헌",
           "score": 91
         }
       ]
