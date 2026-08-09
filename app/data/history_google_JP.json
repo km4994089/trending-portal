@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-05T11:35:09.241Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "日本製紙",
-          "score": 100
-        },
-        {
-          "keyword": "アドゥワ誠",
-          "score": 99
-        },
-        {
-          "keyword": "星野 康二",
-          "score": 98
-        },
-        {
-          "keyword": "ガルシア 阪神",
-          "score": 97
-        },
-        {
-          "keyword": "中日 ドラゴンズ",
-          "score": 96
-        },
-        {
-          "keyword": "ファジアーノ岡山",
-          "score": 95
-        },
-        {
-          "keyword": "現金",
-          "score": 94
-        },
-        {
-          "keyword": "松本人志",
-          "score": 93
-        },
-        {
-          "keyword": "香港",
-          "score": 92
-        },
-        {
-          "keyword": "河野洋平",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-05T13:41:53.316Z",
       "geo": "JP",
       "source": "google",
@@ -3758,6 +3711,53 @@
         },
         {
           "keyword": "ワークマン 株価",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-09T11:55:02.551Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "セルビア",
+          "score": 100
+        },
+        {
+          "keyword": "中日",
+          "score": 99
+        },
+        {
+          "keyword": "ツエーゲン金沢",
+          "score": 98
+        },
+        {
+          "keyword": "24時間テレビ ランナー",
+          "score": 97
+        },
+        {
+          "keyword": "高校野球速報 今日",
+          "score": 96
+        },
+        {
+          "keyword": "近本光司",
+          "score": 95
+        },
+        {
+          "keyword": "渡部聖弥",
+          "score": 94
+        },
+        {
+          "keyword": "出川哲朗",
+          "score": 93
+        },
+        {
+          "keyword": "金丸",
+          "score": 92
+        },
+        {
+          "keyword": "やす子",
           "score": 91
         }
       ]
