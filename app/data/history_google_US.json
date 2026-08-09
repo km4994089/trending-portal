@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-05T22:48:35.432Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mets - guardians",
-          "score": 100
-        },
-        {
-          "keyword": "storm vs liberty",
-          "score": 99
-        },
-        {
-          "keyword": "juan carlos gonzalez",
-          "score": 98
-        },
-        {
-          "keyword": "montreal open",
-          "score": 97
-        },
-        {
-          "keyword": "nfl games",
-          "score": 96
-        },
-        {
-          "keyword": "mercury vs dream",
-          "score": 95
-        },
-        {
-          "keyword": "houston astros outfielder taylor trammell",
-          "score": 94
-        },
-        {
-          "keyword": "chipotle menu",
-          "score": 93
-        },
-        {
-          "keyword": "tucker carlson",
-          "score": 92
-        },
-        {
-          "keyword": "trump helicopter",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-05T23:48:26.939Z",
       "geo": "US",
       "source": "google",
@@ -4228,6 +4181,53 @@
         },
         {
           "keyword": "ryan blaney",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-09T22:56:26.443Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "christopher bell",
+          "score": 100
+        },
+        {
+          "keyword": "jade carey",
+          "score": 99
+        },
+        {
+          "keyword": "cruz azul vs new york city",
+          "score": 98
+        },
+        {
+          "keyword": "municipal - cobán imperial",
+          "score": 97
+        },
+        {
+          "keyword": "bay fc vs chicago stars",
+          "score": 96
+        },
+        {
+          "keyword": "ty gibbs",
+          "score": 95
+        },
+        {
+          "keyword": "maxx crosby",
+          "score": 94
+        },
+        {
+          "keyword": "krysten ritter",
+          "score": 93
+        },
+        {
+          "keyword": "tupac",
+          "score": 92
+        },
+        {
+          "keyword": "rod stewart",
           "score": 91
         }
       ]

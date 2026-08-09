@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-05T22:48:37.398Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mcdonald's",
-          "score": 100
-        },
-        {
-          "keyword": "今日のドジャースの試合結果",
-          "score": 99
-        },
-        {
-          "keyword": "田中麗奈",
-          "score": 98
-        },
-        {
-          "keyword": "starbucks",
-          "score": 97
-        },
-        {
-          "keyword": "今日の甲子園",
-          "score": 96
-        },
-        {
-          "keyword": "菅野智之",
-          "score": 95
-        },
-        {
-          "keyword": "久保凛",
-          "score": 94
-        },
-        {
-          "keyword": "太田 宏介",
-          "score": 93
-        },
-        {
-          "keyword": "外傷",
-          "score": 92
-        },
-        {
-          "keyword": "広末涼子",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-05T23:48:29.491Z",
       "geo": "JP",
       "source": "google",
@@ -4228,6 +4181,53 @@
         },
         {
           "keyword": "千葉 天気",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-09T22:56:29.129Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "熱波",
+          "score": 100
+        },
+        {
+          "keyword": "筧美和子",
+          "score": 99
+        },
+        {
+          "keyword": "交通情報",
+          "score": 98
+        },
+        {
+          "keyword": "政権",
+          "score": 97
+        },
+        {
+          "keyword": "mlb速報",
+          "score": 96
+        },
+        {
+          "keyword": "琵琶湖線",
+          "score": 95
+        },
+        {
+          "keyword": "小島瑠璃子",
+          "score": 94
+        },
+        {
+          "keyword": "吉井明子",
+          "score": 93
+        },
+        {
+          "keyword": "琵琶湖三市同時花火大会 主催者",
+          "score": 92
+        },
+        {
+          "keyword": "平山智加",
           "score": 91
         }
       ]
