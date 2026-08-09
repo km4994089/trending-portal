@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-05T06:19:03.962Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "apple",
-          "score": 100
-        },
-        {
-          "keyword": "瀬戸サオリ",
-          "score": 99
-        },
-        {
-          "keyword": "reject",
-          "score": 98
-        },
-        {
-          "keyword": "王座戦",
-          "score": 97
-        },
-        {
-          "keyword": "トランプ 為替 介入",
-          "score": 96
-        },
-        {
-          "keyword": "ジャングルポケット",
-          "score": 95
-        },
-        {
-          "keyword": "中央道 事故",
-          "score": 94
-        },
-        {
-          "keyword": "幻想水滸伝スターリープ",
-          "score": 93
-        },
-        {
-          "keyword": "ダンプカー",
-          "score": 92
-        },
-        {
-          "keyword": "資生堂",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-05T09:16:42.473Z",
       "geo": "JP",
       "source": "google",
@@ -3570,6 +3523,53 @@
         },
         {
           "keyword": "ガッポリ建設",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-09T07:29:31.910Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "八王子実践高校",
+          "score": 100
+        },
+        {
+          "keyword": "八王子実践",
+          "score": 99
+        },
+        {
+          "keyword": "八王子実践高校野球部",
+          "score": 98
+        },
+        {
+          "keyword": "水谷豊",
+          "score": 97
+        },
+        {
+          "keyword": "中京記念",
+          "score": 96
+        },
+        {
+          "keyword": "土田龍空",
+          "score": 95
+        },
+        {
+          "keyword": "広島東洋カープ",
+          "score": 94
+        },
+        {
+          "keyword": "札幌記念",
+          "score": 93
+        },
+        {
+          "keyword": "吉村誠之助",
+          "score": 92
+        },
+        {
+          "keyword": "古謝樹",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-05T06:19:01.577Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "avengers",
-          "score": 100
-        },
-        {
-          "keyword": "cole anthony",
-          "score": 99
-        },
-        {
-          "keyword": "pokemon pokopia dlc",
-          "score": 98
-        },
-        {
-          "keyword": "santa cruz boardwalk shooting",
-          "score": 97
-        },
-        {
-          "keyword": "senate daylight saving time bill",
-          "score": 96
-        },
-        {
-          "keyword": "trader joe's mango sticky rice",
-          "score": 95
-        },
-        {
-          "keyword": "stewart rhodes",
-          "score": 94
-        },
-        {
-          "keyword": "chris rabb",
-          "score": 93
-        },
-        {
-          "keyword": "madden 27",
-          "score": 92
-        },
-        {
-          "keyword": "spokane & stevens counties wildfires",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-05T09:16:40.319Z",
       "geo": "US",
       "source": "google",
@@ -3570,6 +3523,53 @@
         },
         {
           "keyword": "lioness season 3 episode 2",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-09T07:29:29.274Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "camera",
+          "score": 100
+        },
+        {
+          "keyword": "weather game",
+          "score": 99
+        },
+        {
+          "keyword": "sleep news",
+          "score": 98
+        },
+        {
+          "keyword": "camping news",
+          "score": 97
+        },
+        {
+          "keyword": "weather travel",
+          "score": 96
+        },
+        {
+          "keyword": "finance",
+          "score": 95
+        },
+        {
+          "keyword": "news fitness",
+          "score": 94
+        },
+        {
+          "keyword": "education",
+          "score": 93
+        },
+        {
+          "keyword": "market",
+          "score": 92
+        },
+        {
+          "keyword": "news internet",
           "score": 91
         }
       ]
