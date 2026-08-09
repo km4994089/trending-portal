@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-05T17:19:03.425Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nasdaq100",
-          "score": 100
-        },
-        {
-          "keyword": "桐谷さん",
-          "score": 99
-        },
-        {
-          "keyword": "パランティア",
-          "score": 98
-        },
-        {
-          "keyword": "kick",
-          "score": 97
-        },
-        {
-          "keyword": "グランドシネマサンシャイン 池袋",
-          "score": 96
-        },
-        {
-          "keyword": "花巻市",
-          "score": 95
-        },
-        {
-          "keyword": "地震速報 リアルタイム 熊本",
-          "score": 94
-        },
-        {
-          "keyword": "ヤン先輩はひとりで生きていけない",
-          "score": 93
-        },
-        {
-          "keyword": "八村塁",
-          "score": 92
-        },
-        {
-          "keyword": "ムドリク",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-05T18:59:03.034Z",
       "geo": "JP",
       "source": "google",
@@ -4040,6 +3993,53 @@
         },
         {
           "keyword": "earthquake",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-09T17:55:17.076Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "運転",
+          "score": 100
+        },
+        {
+          "keyword": "関東地方",
+          "score": 99
+        },
+        {
+          "keyword": "日向坂",
+          "score": 98
+        },
+        {
+          "keyword": "earthquake japan",
+          "score": 97
+        },
+        {
+          "keyword": "リアルタイム",
+          "score": 96
+        },
+        {
+          "keyword": "terremoto no japão",
+          "score": 95
+        },
+        {
+          "keyword": "disney plus",
+          "score": 94
+        },
+        {
+          "keyword": "地震",
+          "score": 93
+        },
+        {
+          "keyword": "地震速報 今 揺れた",
+          "score": 92
+        },
+        {
+          "keyword": "地震情報",
           "score": 91
         }
       ]
