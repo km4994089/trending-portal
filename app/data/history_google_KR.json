@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-05T21:40:49.993Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "기상",
-          "score": 100
-        },
-        {
-          "keyword": "재산",
-          "score": 99
-        },
-        {
-          "keyword": "gs건설",
-          "score": 98
-        },
-        {
-          "keyword": "eps",
-          "score": 97
-        },
-        {
-          "keyword": "군인",
-          "score": 96
-        },
-        {
-          "keyword": "อาร์เซนอล พบ เรอัล เบติส",
-          "score": 95
-        },
-        {
-          "keyword": "샌디스크 주가",
-          "score": 94
-        },
-        {
-          "keyword": "대우건설",
-          "score": 93
-        },
-        {
-          "keyword": "알 테오 젠",
-          "score": 92
-        },
-        {
-          "keyword": "알렉산더 즈베레프",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-05T22:48:36.368Z",
       "geo": "KR",
       "source": "google",
@@ -4228,6 +4181,53 @@
         },
         {
           "keyword": "뱅크 오브 아메리카",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-09T22:19:06.635Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "성심당",
+          "score": 100
+        },
+        {
+          "keyword": "jtbc",
+          "score": 99
+        },
+        {
+          "keyword": "허양임",
+          "score": 98
+        },
+        {
+          "keyword": "손주",
+          "score": 97
+        },
+        {
+          "keyword": "박서진",
+          "score": 96
+        },
+        {
+          "keyword": "권상우",
+          "score": 95
+        },
+        {
+          "keyword": "이탁수",
+          "score": 94
+        },
+        {
+          "keyword": "여행",
+          "score": 93
+        },
+        {
+          "keyword": "반도체",
+          "score": 92
+        },
+        {
+          "keyword": "집",
           "score": 91
         }
       ]
