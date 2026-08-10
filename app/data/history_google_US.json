@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-06T14:43:02.611Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jack keane",
-          "score": 100
-        },
-        {
-          "keyword": "jordan 13 wings",
-          "score": 99
-        },
-        {
-          "keyword": "playstation 5",
-          "score": 98
-        },
-        {
-          "keyword": "nolan wells case",
-          "score": 97
-        },
-        {
-          "keyword": "boston rock frontman jeff conolly",
-          "score": 96
-        },
-        {
-          "keyword": "nvda stock",
-          "score": 95
-        },
-        {
-          "keyword": "hona stock",
-          "score": 94
-        },
-        {
-          "keyword": "app stock",
-          "score": 93
-        },
-        {
-          "keyword": "spcx",
-          "score": 92
-        },
-        {
-          "keyword": "estatus de protección temporal",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-07T00:20:54.545Z",
       "geo": "US",
       "source": "google",
@@ -4510,6 +4463,53 @@
         },
         {
           "keyword": "lance bass",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-10T15:28:40.811Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "prince william",
+          "score": 100
+        },
+        {
+          "keyword": "nws",
+          "score": 99
+        },
+        {
+          "keyword": "noaa weather",
+          "score": 98
+        },
+        {
+          "keyword": "jamarion sharp",
+          "score": 97
+        },
+        {
+          "keyword": "noaa",
+          "score": 96
+        },
+        {
+          "keyword": "playstation plus",
+          "score": 95
+        },
+        {
+          "keyword": "big sur fire",
+          "score": 94
+        },
+        {
+          "keyword": "vxus",
+          "score": 93
+        },
+        {
+          "keyword": "schd",
+          "score": 92
+        },
+        {
+          "keyword": "dow today",
           "score": 91
         }
       ]

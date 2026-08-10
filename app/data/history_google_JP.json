@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-06T14:43:04.764Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sox",
-          "score": 100
-        },
-        {
-          "keyword": "arm 株価",
-          "score": 99
-        },
-        {
-          "keyword": "山本太郎",
-          "score": 98
-        },
-        {
-          "keyword": "髙木美帆",
-          "score": 97
-        },
-        {
-          "keyword": "小泉進次郎",
-          "score": 96
-        },
-        {
-          "keyword": "モデル プレス カウントダウン",
-          "score": 95
-        },
-        {
-          "keyword": "月探査",
-          "score": 94
-        },
-        {
-          "keyword": "熱闘甲子園 2026",
-          "score": 93
-        },
-        {
-          "keyword": "浅田舞",
-          "score": 92
-        },
-        {
-          "keyword": "帰宅困難者",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-07T00:20:57.032Z",
       "geo": "JP",
       "source": "google",
@@ -4510,6 +4463,53 @@
         },
         {
           "keyword": "ロト6当選番号",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-10T15:28:43.027Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ザラストハウス",
+          "score": 100
+        },
+        {
+          "keyword": "毒素",
+          "score": 99
+        },
+        {
+          "keyword": "井上康生",
+          "score": 98
+        },
+        {
+          "keyword": "いちご新聞",
+          "score": 97
+        },
+        {
+          "keyword": "筧裕次郎",
+          "score": 96
+        },
+        {
+          "keyword": "嶋基宏",
+          "score": 95
+        },
+        {
+          "keyword": "死霊館",
+          "score": 94
+        },
+        {
+          "keyword": "熱闘甲子園 2026",
+          "score": 93
+        },
+        {
+          "keyword": "北陸新幹線",
+          "score": 92
+        },
+        {
+          "keyword": "熱闘甲子園",
           "score": 91
         }
       ]
