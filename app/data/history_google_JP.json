@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-06T07:32:48.313Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "フワちゃん",
-          "score": 100
-        },
-        {
-          "keyword": "インスタントハウス",
-          "score": 99
-        },
-        {
-          "keyword": "9432",
-          "score": 98
-        },
-        {
-          "keyword": "山本里菜",
-          "score": 97
-        },
-        {
-          "keyword": "死球",
-          "score": 96
-        },
-        {
-          "keyword": "hololive dreams",
-          "score": 95
-        },
-        {
-          "keyword": "甲子園 ライブ",
-          "score": 94
-        },
-        {
-          "keyword": "和歌山競輪",
-          "score": 93
-        },
-        {
-          "keyword": "レーザーテック 決算",
-          "score": 92
-        },
-        {
-          "keyword": "ionq",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-06T10:27:07.021Z",
       "geo": "JP",
       "source": "google",
@@ -4369,6 +4322,53 @@
         },
         {
           "keyword": "甲子園 コールド",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-10T08:20:23.711Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "多摩川競艇",
+          "score": 100
+        },
+        {
+          "keyword": "ドウェイン・ジョンソン",
+          "score": 99
+        },
+        {
+          "keyword": "レイラック滋賀fc",
+          "score": 98
+        },
+        {
+          "keyword": "山本 耕史",
+          "score": 97
+        },
+        {
+          "keyword": "新井監督",
+          "score": 96
+        },
+        {
+          "keyword": "井脇ノブ子",
+          "score": 95
+        },
+        {
+          "keyword": "ボートレース徳山",
+          "score": 94
+        },
+        {
+          "keyword": "刑事ドラマ",
+          "score": 93
+        },
+        {
+          "keyword": "キスマイ ライブ",
+          "score": 92
+        },
+        {
+          "keyword": "ジャック ル マロワ 賞",
           "score": 91
         }
       ]
