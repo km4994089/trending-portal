@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-06T01:28:30.310Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "スズキ株価",
-          "score": 100
-        },
-        {
-          "keyword": "太陽誘電",
-          "score": 99
-        },
-        {
-          "keyword": "jx金属 決算",
-          "score": 98
-        },
-        {
-          "keyword": "三菱重工の株価",
-          "score": 97
-        },
-        {
-          "keyword": "医療費",
-          "score": 96
-        },
-        {
-          "keyword": "日東紡績 株価",
-          "score": 95
-        },
-        {
-          "keyword": "古河電工",
-          "score": 94
-        },
-        {
-          "keyword": "白バイ",
-          "score": 93
-        },
-        {
-          "keyword": "太陽誘電 株価",
-          "score": 92
-        },
-        {
-          "keyword": "gregg araki",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-06T04:41:37.140Z",
       "geo": "JP",
       "source": "google",
@@ -4322,6 +4275,53 @@
         },
         {
           "keyword": "車列",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-10T03:07:46.303Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "京樽",
+          "score": 100
+        },
+        {
+          "keyword": "時間",
+          "score": 99
+        },
+        {
+          "keyword": "ベネズエラ",
+          "score": 98
+        },
+        {
+          "keyword": "日経ヴェリタス",
+          "score": 97
+        },
+        {
+          "keyword": "ソニーフィナンシャルグループ",
+          "score": 96
+        },
+        {
+          "keyword": "宮沢博行",
+          "score": 95
+        },
+        {
+          "keyword": "横須賀市",
+          "score": 94
+        },
+        {
+          "keyword": "石塚裕惺",
+          "score": 93
+        },
+        {
+          "keyword": "alexandra eala",
+          "score": 92
+        },
+        {
+          "keyword": "新井 貴浩",
           "score": 91
         }
       ]
