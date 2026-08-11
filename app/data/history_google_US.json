@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-07T19:43:40.865Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "john goodman",
-          "score": 100
-        },
-        {
-          "keyword": "peter skoronski",
-          "score": 99
-        },
-        {
-          "keyword": "talarico",
-          "score": 98
-        },
-        {
-          "keyword": "anthony bourdain",
-          "score": 97
-        },
-        {
-          "keyword": "gabriel arias",
-          "score": 96
-        },
-        {
-          "keyword": "leylah fernandez",
-          "score": 95
-        },
-        {
-          "keyword": "lisa cook",
-          "score": 94
-        },
-        {
-          "keyword": "mirra andreeva",
-          "score": 93
-        },
-        {
-          "keyword": "dr jennifer tufts",
-          "score": 92
-        },
-        {
-          "keyword": "trump naval shipbuilding proposal",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-07T20:29:07.435Z",
       "geo": "US",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "bird strike",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-11T19:54:12.413Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "us fires on ship",
+          "score": 100
+        },
+        {
+          "keyword": "zohran mamdani grocery stores",
+          "score": 99
+        },
+        {
+          "keyword": "toyota camry recall",
+          "score": 98
+        },
+        {
+          "keyword": "montreal weather",
+          "score": 97
+        },
+        {
+          "keyword": "samuel alito",
+          "score": 96
+        },
+        {
+          "keyword": "ronaldo",
+          "score": 95
+        },
+        {
+          "keyword": "ryan hall",
+          "score": 94
+        },
+        {
+          "keyword": "jamie lee curtis",
+          "score": 93
+        },
+        {
+          "keyword": "wcpo",
+          "score": 92
+        },
+        {
+          "keyword": "s.w.a.t. exiles",
           "score": 91
         }
       ]
