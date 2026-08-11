@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-07T09:28:54.242Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "テレ朝チケット",
-          "score": 100
-        },
-        {
-          "keyword": "dazn",
-          "score": 99
-        },
-        {
-          "keyword": "ツイッチ",
-          "score": 98
-        },
-        {
-          "keyword": "ヴィッセル神戸",
-          "score": 97
-        },
-        {
-          "keyword": "日本ハム 対 楽天",
-          "score": 96
-        },
-        {
-          "keyword": "西武 対 ソフトバンク",
-          "score": 95
-        },
-        {
-          "keyword": "黒木啓司",
-          "score": 94
-        },
-        {
-          "keyword": "石川真佑",
-          "score": 93
-        },
-        {
-          "keyword": "ガンバ大阪",
-          "score": 92
-        },
-        {
-          "keyword": "中居 正広",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-07T10:25:03.236Z",
       "geo": "JP",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "台風17号",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-11T10:23:34.064Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tokyo mer 走る 緊急 救命 室",
+          "score": 100
+        },
+        {
+          "keyword": "田原総一朗",
+          "score": 99
+        },
+        {
+          "keyword": "acl",
+          "score": 98
+        },
+        {
+          "keyword": "ドリフに大挑戦",
+          "score": 97
+        },
+        {
+          "keyword": "line ミュートメッセージ",
+          "score": 96
+        },
+        {
+          "keyword": "オモウマい店 生ハム",
+          "score": 95
+        },
+        {
+          "keyword": "茨城 停電",
+          "score": 94
+        },
+        {
+          "keyword": "psg",
+          "score": 93
+        },
+        {
+          "keyword": "テレビ番組",
+          "score": 92
+        },
+        {
+          "keyword": "いわき市 停電",
           "score": 91
         }
       ]
