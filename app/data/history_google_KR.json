@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-07T22:02:54.211Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "지수",
-          "score": 100
-        },
-        {
-          "keyword": "상속",
-          "score": 99
-        },
-        {
-          "keyword": "시어머니",
-          "score": 98
-        },
-        {
-          "keyword": "붉은 진주",
-          "score": 97
-        },
-        {
-          "keyword": "손흥민",
-          "score": 96
-        },
-        {
-          "keyword": "탁구",
-          "score": 95
-        },
-        {
-          "keyword": "중대범죄수사청",
-          "score": 94
-        },
-        {
-          "keyword": "결혼의 완성",
-          "score": 93
-        },
-        {
-          "keyword": "현대자동차",
-          "score": 92
-        },
-        {
-          "keyword": "고현정",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-07T23:01:49.567Z",
       "geo": "KR",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "김용건",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-11T22:31:24.233Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "smr",
+          "score": 100
+        },
+        {
+          "keyword": "다우 존스 산업평균지수",
+          "score": 99
+        },
+        {
+          "keyword": "디에고 포를란",
+          "score": 98
+        },
+        {
+          "keyword": "나솔",
+          "score": 97
+        },
+        {
+          "keyword": "범죄",
+          "score": 96
+        },
+        {
+          "keyword": "휴머노이드 로봇",
+          "score": 95
+        },
+        {
+          "keyword": "뉴스",
+          "score": 94
+        },
+        {
+          "keyword": "박지성",
+          "score": 93
+        },
+        {
+          "keyword": "김도영",
+          "score": 92
+        },
+        {
+          "keyword": "홈플러스",
           "score": 91
         }
       ]
