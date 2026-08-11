@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-07T16:41:07.269Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "기사",
-          "score": 100
-        },
-        {
-          "keyword": "류혜영",
-          "score": 99
-        },
-        {
-          "keyword": "김구라",
-          "score": 98
-        },
-        {
-          "keyword": "하한가",
-          "score": 97
-        },
-        {
-          "keyword": "정해인",
-          "score": 96
-        },
-        {
-          "keyword": "싱가포르 대 인도네시아",
-          "score": 95
-        },
-        {
-          "keyword": "뉴데일리",
-          "score": 94
-        },
-        {
-          "keyword": "재벌형사",
-          "score": 93
-        },
-        {
-          "keyword": "박항서",
-          "score": 92
-        },
-        {
-          "keyword": "việt nam đấu với campuchia",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-07T17:39:55.100Z",
       "geo": "KR",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "유성우",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-11T16:45:49.788Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "함소원",
+          "score": 100
+        },
+        {
+          "keyword": "광 통신",
+          "score": 99
+        },
+        {
+          "keyword": "고소영",
+          "score": 98
+        },
+        {
+          "keyword": "투자가",
+          "score": 97
+        },
+        {
+          "keyword": "진수 화",
+          "score": 96
+        },
+        {
+          "keyword": "테이",
+          "score": 95
+        },
+        {
+          "keyword": "임 라라",
+          "score": 94
+        },
+        {
+          "keyword": "갈소원",
+          "score": 93
+        },
+        {
+          "keyword": "정호연",
+          "score": 92
+        },
+        {
+          "keyword": "민주노동조합총연맹",
           "score": 91
         }
       ]
