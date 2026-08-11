@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-07T15:43:23.541Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "rochester air show",
-          "score": 100
-        },
-        {
-          "keyword": "iva jovic",
-          "score": 99
-        },
-        {
-          "keyword": "alina korneeva",
-          "score": 98
-        },
-        {
-          "keyword": "hakeem jeffries",
-          "score": 97
-        },
-        {
-          "keyword": "tre johnson",
-          "score": 96
-        },
-        {
-          "keyword": "kaelen culpepper",
-          "score": 95
-        },
-        {
-          "keyword": "katie price",
-          "score": 94
-        },
-        {
-          "keyword": "ben stille",
-          "score": 93
-        },
-        {
-          "keyword": "basketball",
-          "score": 92
-        },
-        {
-          "keyword": "andy cohen",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-07T16:41:05.883Z",
       "geo": "US",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "erika eleniak",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-11T15:49:58.983Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tornado watch",
+          "score": 100
+        },
+        {
+          "keyword": "playstation",
+          "score": 99
+        },
+        {
+          "keyword": "nws",
+          "score": 98
+        },
+        {
+          "keyword": "dijonai carrington sophie cunningham",
+          "score": 97
+        },
+        {
+          "keyword": "project 2025",
+          "score": 96
+        },
+        {
+          "keyword": "chicago news",
+          "score": 95
+        },
+        {
+          "keyword": "tornado warning",
+          "score": 94
+        },
+        {
+          "keyword": "tornado",
+          "score": 93
+        },
+        {
+          "keyword": "news",
+          "score": 92
+        },
+        {
+          "keyword": "david ellison",
           "score": 91
         }
       ]
