@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-07T11:13:39.357Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "교도관",
-          "score": 100
-        },
-        {
-          "keyword": "벨기에",
-          "score": 99
-        },
-        {
-          "keyword": "미드필더",
-          "score": 98
-        },
-        {
-          "keyword": "태풍 돌핀 경로",
-          "score": 97
-        },
-        {
-          "keyword": "규제",
-          "score": 96
-        },
-        {
-          "keyword": "투표율",
-          "score": 95
-        },
-        {
-          "keyword": "중앙은행",
-          "score": 94
-        },
-        {
-          "keyword": "고척스카이돔",
-          "score": 93
-        },
-        {
-          "keyword": "골프",
-          "score": 92
-        },
-        {
-          "keyword": "두산 대 삼성",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-07T12:04:55.598Z",
       "geo": "KR",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "로또",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-11T12:04:29.098Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "스토킹",
+          "score": 100
+        },
+        {
+          "keyword": "주사",
+          "score": 99
+        },
+        {
+          "keyword": "당진시",
+          "score": 98
+        },
+        {
+          "keyword": "관광객",
+          "score": 97
+        },
+        {
+          "keyword": "옷",
+          "score": 96
+        },
+        {
+          "keyword": "롯데마트",
+          "score": 95
+        },
+        {
+          "keyword": "강원 대 감바 오사카",
+          "score": 94
+        },
+        {
+          "keyword": "여권",
+          "score": 93
+        },
+        {
+          "keyword": "형사",
+          "score": 92
+        },
+        {
+          "keyword": "kt 대 nc",
           "score": 91
         }
       ]
