@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-07T05:09:53.392Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "whopper burger king",
-          "score": 100
-        },
-        {
-          "keyword": "is zendaya pregnant",
-          "score": 99
-        },
-        {
-          "keyword": "chuck timely",
-          "score": 98
-        },
-        {
-          "keyword": "olivia rodrigo tour",
-          "score": 97
-        },
-        {
-          "keyword": "barbara palvin",
-          "score": 96
-        },
-        {
-          "keyword": "jacob elordi",
-          "score": 95
-        },
-        {
-          "keyword": "economy",
-          "score": 94
-        },
-        {
-          "keyword": "diamondbacks",
-          "score": 93
-        },
-        {
-          "keyword": "red sox standings",
-          "score": 92
-        },
-        {
-          "keyword": "al east standings",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-07T06:40:11.509Z",
       "geo": "US",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "dodgers game today",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-11T05:47:35.037Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "shohei ohtani",
+          "score": 100
+        },
+        {
+          "keyword": "jake whisenant",
+          "score": 99
+        },
+        {
+          "keyword": "isiah pacheco",
+          "score": 98
+        },
+        {
+          "keyword": "rosario dawson",
+          "score": 97
+        },
+        {
+          "keyword": "edwin diaz",
+          "score": 96
+        },
+        {
+          "keyword": "dodgers schedule",
+          "score": 95
+        },
+        {
+          "keyword": "freddie freeman",
+          "score": 94
+        },
+        {
+          "keyword": "max muncy",
+          "score": 93
+        },
+        {
+          "keyword": "giants",
+          "score": 92
+        },
+        {
+          "keyword": "starling marte",
           "score": 91
         }
       ]
