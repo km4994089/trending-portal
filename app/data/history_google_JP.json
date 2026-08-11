@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-07T08:06:01.896Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "呪術廻戦",
-          "score": 100
-        },
-        {
-          "keyword": "プロ野球 公示",
-          "score": 99
-        },
-        {
-          "keyword": "登録抹消",
-          "score": 98
-        },
-        {
-          "keyword": "脳腫瘍",
-          "score": 97
-        },
-        {
-          "keyword": "有明高校野球",
-          "score": 96
-        },
-        {
-          "keyword": "ロースター",
-          "score": 95
-        },
-        {
-          "keyword": "7974",
-          "score": 94
-        },
-        {
-          "keyword": "中村剛也",
-          "score": 93
-        },
-        {
-          "keyword": "topix",
-          "score": 92
-        },
-        {
-          "keyword": "6920",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-07T09:28:54.242Z",
       "geo": "JP",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "収益",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-11T09:27:14.177Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "八田與一",
+          "score": 100
+        },
+        {
+          "keyword": "傷害罪",
+          "score": 99
+        },
+        {
+          "keyword": "岩井隆",
+          "score": 98
+        },
+        {
+          "keyword": "ぎふ長良川花火大会",
+          "score": 97
+        },
+        {
+          "keyword": "gジェネエターナル",
+          "score": 96
+        },
+        {
+          "keyword": "コミックマーケット",
+          "score": 95
+        },
+        {
+          "keyword": "台風16号 進路",
+          "score": 94
+        },
+        {
+          "keyword": "サブスク",
+          "score": 93
+        },
+        {
+          "keyword": "予告先発",
+          "score": 92
+        },
+        {
+          "keyword": "台風17号",
           "score": 91
         }
       ]
