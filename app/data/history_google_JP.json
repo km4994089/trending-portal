@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-07T21:10:16.454Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "森重昭",
-          "score": 100
-        },
-        {
-          "keyword": "早期天候情報",
-          "score": 99
-        },
-        {
-          "keyword": "給付金",
-          "score": 98
-        },
-        {
-          "keyword": "ゴーストリコンワイルドランズ",
-          "score": 97
-        },
-        {
-          "keyword": "穂高岳",
-          "score": 96
-        },
-        {
-          "keyword": "台風情報 最新",
-          "score": 95
-        },
-        {
-          "keyword": "金田久美子",
-          "score": 94
-        },
-        {
-          "keyword": "ロト6",
-          "score": 93
-        },
-        {
-          "keyword": "ドコモ",
-          "score": 92
-        },
-        {
-          "keyword": "窪田正孝",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-07T22:02:55.585Z",
       "geo": "JP",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "埼玉 天気",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-11T21:35:05.033Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "杉浦 希空",
+          "score": 100
+        },
+        {
+          "keyword": "読売新聞",
+          "score": 99
+        },
+        {
+          "keyword": "協調介入",
+          "score": 98
+        },
+        {
+          "keyword": "チャウヌ",
+          "score": 97
+        },
+        {
+          "keyword": "雨雲",
+          "score": 96
+        },
+        {
+          "keyword": "spcx",
+          "score": 95
+        },
+        {
+          "keyword": "北朝鮮 ミサイル",
+          "score": 94
+        },
+        {
+          "keyword": "覚醒剤",
+          "score": 93
+        },
+        {
+          "keyword": "軽井沢 72 ゴルフ トーナメント",
+          "score": 92
+        },
+        {
+          "keyword": "台風被害",
           "score": 91
         }
       ]

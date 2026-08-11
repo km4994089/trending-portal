@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-07T21:10:14.162Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "joe amabile",
-          "score": 100
-        },
-        {
-          "keyword": "liudmila samsonova",
-          "score": 99
-        },
-        {
-          "keyword": "xavier woods",
-          "score": 98
-        },
-        {
-          "keyword": "dodge charger super bee",
-          "score": 97
-        },
-        {
-          "keyword": "matt rife",
-          "score": 96
-        },
-        {
-          "keyword": "david forst",
-          "score": 95
-        },
-        {
-          "keyword": "raymond burgos",
-          "score": 94
-        },
-        {
-          "keyword": "south sudan",
-          "score": 93
-        },
-        {
-          "keyword": "maya joint",
-          "score": 92
-        },
-        {
-          "keyword": "nato",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-07T22:02:52.927Z",
       "geo": "US",
       "source": "google",
@@ -4980,6 +4933,53 @@
         },
         {
           "keyword": "jk rowling",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-11T21:35:02.205Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "fluminense vs independiente rivadavia",
+          "score": 100
+        },
+        {
+          "keyword": "dana white contender series",
+          "score": 99
+        },
+        {
+          "keyword": "trump approval rating",
+          "score": 98
+        },
+        {
+          "keyword": "oreo",
+          "score": 97
+        },
+        {
+          "keyword": "boca vs recoleta",
+          "score": 96
+        },
+        {
+          "keyword": "prince albert monaco orchestra farewell",
+          "score": 95
+        },
+        {
+          "keyword": "reece weaver broadway chicago",
+          "score": 94
+        },
+        {
+          "keyword": "national security",
+          "score": 93
+        },
+        {
+          "keyword": "andrew lincoln",
+          "score": 92
+        },
+        {
+          "keyword": "nbis",
           "score": 91
         }
       ]
