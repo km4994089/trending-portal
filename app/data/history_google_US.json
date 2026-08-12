@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-08T16:59:27.662Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "adam vinatieri",
-          "score": 100
-        },
-        {
-          "keyword": "liv golf",
-          "score": 99
-        },
-        {
-          "keyword": "iga świątek",
-          "score": 98
-        },
-        {
-          "keyword": "nuno borges",
-          "score": 97
-        },
-        {
-          "keyword": "kurt warner",
-          "score": 96
-        },
-        {
-          "keyword": "candida auris",
-          "score": 95
-        },
-        {
-          "keyword": "iga swiatek",
-          "score": 94
-        },
-        {
-          "keyword": "demi vollering",
-          "score": 93
-        },
-        {
-          "keyword": "juliana miller",
-          "score": 92
-        },
-        {
-          "keyword": "la liga",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-08T17:29:55.511Z",
       "geo": "US",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "snake",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-12T17:25:09.376Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nasa",
+          "score": 100
+        },
+        {
+          "keyword": "valencia vs teruel",
+          "score": 99
+        },
+        {
+          "keyword": "justin long",
+          "score": 98
+        },
+        {
+          "keyword": "deportation",
+          "score": 97
+        },
+        {
+          "keyword": "tesla cybertruck",
+          "score": 96
+        },
+        {
+          "keyword": "tormenta",
+          "score": 95
+        },
+        {
+          "keyword": "danube",
+          "score": 94
+        },
+        {
+          "keyword": "cola 2027",
+          "score": 93
+        },
+        {
+          "keyword": "alani nu voodoo vanilla",
+          "score": 92
+        },
+        {
+          "keyword": "terence crawford",
           "score": 91
         }
       ]

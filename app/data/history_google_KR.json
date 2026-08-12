@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-08T16:59:28.640Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "가능한 사랑",
-          "score": 100
-        },
-        {
-          "keyword": "fotmob",
-          "score": 99
-        },
-        {
-          "keyword": "면목동",
-          "score": 98
-        },
-        {
-          "keyword": "김소영",
-          "score": 97
-        },
-        {
-          "keyword": "psg",
-          "score": 96
-        },
-        {
-          "keyword": "ewc 철권",
-          "score": 95
-        },
-        {
-          "keyword": "맨유",
-          "score": 94
-        },
-        {
-          "keyword": "mutv",
-          "score": 93
-        },
-        {
-          "keyword": "서하얀",
-          "score": 92
-        },
-        {
-          "keyword": "psg 대 맨유",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-08T17:29:56.892Z",
       "geo": "KR",
       "source": "google",
@@ -4604,6 +4557,53 @@
         },
         {
           "keyword": "kbo 리그",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-12T17:25:10.746Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "국제선",
+          "score": 100
+        },
+        {
+          "keyword": "이찬원",
+          "score": 99
+        },
+        {
+          "keyword": "배재고등학교",
+          "score": 98
+        },
+        {
+          "keyword": "주진우",
+          "score": 97
+        },
+        {
+          "keyword": "정국",
+          "score": 96
+        },
+        {
+          "keyword": "더불어민주당",
+          "score": 95
+        },
+        {
+          "keyword": "이동국",
+          "score": 94
+        },
+        {
+          "keyword": "온유",
+          "score": 93
+        },
+        {
+          "keyword": "돌싱글즈",
+          "score": 92
+        },
+        {
+          "keyword": "야구순위",
           "score": 91
         }
       ]
