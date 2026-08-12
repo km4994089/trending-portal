@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-08T22:53:43.233Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "天氣",
-          "score": 100
-        },
-        {
-          "keyword": "저축",
-          "score": 99
-        },
-        {
-          "keyword": "天気",
-          "score": 98
-        },
-        {
-          "keyword": "한화 이글스",
-          "score": 97
-        },
-        {
-          "keyword": "에너지",
-          "score": 96
-        },
-        {
-          "keyword": "노동조합",
-          "score": 95
-        },
-        {
-          "keyword": "임영웅",
-          "score": 94
-        },
-        {
-          "keyword": "대전광역시",
-          "score": 93
-        },
-        {
-          "keyword": "이임생",
-          "score": 92
-        },
-        {
-          "keyword": "주가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-08T23:17:49.545Z",
       "geo": "KR",
       "source": "google",
@@ -4369,6 +4322,53 @@
         },
         {
           "keyword": "풍자",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-12T23:10:35.427Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이진숙",
+          "score": 100
+        },
+        {
+          "keyword": "서울역",
+          "score": 99
+        },
+        {
+          "keyword": "노동쟁의",
+          "score": 98
+        },
+        {
+          "keyword": "이투데이",
+          "score": 97
+        },
+        {
+          "keyword": "롯데렌탈",
+          "score": 96
+        },
+        {
+          "keyword": "추경호",
+          "score": 95
+        },
+        {
+          "keyword": "유혜정",
+          "score": 94
+        },
+        {
+          "keyword": "철도망",
+          "score": 93
+        },
+        {
+          "keyword": "정연",
+          "score": 92
+        },
+        {
+          "keyword": "자동차",
           "score": 91
         }
       ]
