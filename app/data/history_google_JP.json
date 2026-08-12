@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-08T09:07:41.275Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "山口 達也",
-          "score": 100
-        },
-        {
-          "keyword": "戸塚純貴",
-          "score": 99
-        },
-        {
-          "keyword": "テンバガー",
-          "score": 98
-        },
-        {
-          "keyword": "one samurai 2",
-          "score": 97
-        },
-        {
-          "keyword": "ポール・ウォーカー",
-          "score": 96
-        },
-        {
-          "keyword": "平和島競艇",
-          "score": 95
-        },
-        {
-          "keyword": "傷害罪",
-          "score": 94
-        },
-        {
-          "keyword": "石井大智",
-          "score": 93
-        },
-        {
-          "keyword": "よさこい祭り",
-          "score": 92
-        },
-        {
-          "keyword": "京大病院 医療事故",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-08T10:00:53.648Z",
       "geo": "JP",
       "source": "google",
@@ -4839,6 +4792,53 @@
         },
         {
           "keyword": "画家",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-12T09:36:48.518Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "松坂大輔",
+          "score": 100
+        },
+        {
+          "keyword": "立石正広",
+          "score": 99
+        },
+        {
+          "keyword": "パリーグtv",
+          "score": 98
+        },
+        {
+          "keyword": "緒方耕一",
+          "score": 97
+        },
+        {
+          "keyword": "宮本恒靖",
+          "score": 96
+        },
+        {
+          "keyword": "ニコライ・ヴァリス",
+          "score": 95
+        },
+        {
+          "keyword": "眉山",
+          "score": 94
+        },
+        {
+          "keyword": "変動金利",
+          "score": 93
+        },
+        {
+          "keyword": "東武東上線 人身事故",
+          "score": 92
+        },
+        {
+          "keyword": "山岳救助",
           "score": 91
         }
       ]

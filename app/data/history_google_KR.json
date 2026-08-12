@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-08T09:07:40.352Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "치지직",
-          "score": 100
-        },
-        {
-          "keyword": "lck",
-          "score": 99
-        },
-        {
-          "keyword": "숲",
-          "score": 98
-        },
-        {
-          "keyword": "마이데일리",
-          "score": 97
-        },
-        {
-          "keyword": "당구",
-          "score": 96
-        },
-        {
-          "keyword": "이은형",
-          "score": 95
-        },
-        {
-          "keyword": "최애의 사원",
-          "score": 94
-        },
-        {
-          "keyword": "오너",
-          "score": 93
-        },
-        {
-          "keyword": "고려아연",
-          "score": 92
-        },
-        {
-          "keyword": "신구",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-08T10:00:51.582Z",
       "geo": "KR",
       "source": "google",
@@ -4839,6 +4792,53 @@
         },
         {
           "keyword": "엘리베이터",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-12T09:36:47.564Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "택시",
+          "score": 100
+        },
+        {
+          "keyword": "김승연",
+          "score": 99
+        },
+        {
+          "keyword": "대우건설",
+          "score": 98
+        },
+        {
+          "keyword": "전력",
+          "score": 97
+        },
+        {
+          "keyword": "태풍 찬홈 경로",
+          "score": 96
+        },
+        {
+          "keyword": "유주상",
+          "score": 95
+        },
+        {
+          "keyword": "삼성동 화재",
+          "score": 94
+        },
+        {
+          "keyword": "트로트",
+          "score": 93
+        },
+        {
+          "keyword": "왕옌청",
+          "score": 92
+        },
+        {
+          "keyword": "염경엽",
           "score": 91
         }
       ]
