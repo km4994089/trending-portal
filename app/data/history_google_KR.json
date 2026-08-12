@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-08T10:00:51.582Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "생맥주",
-          "score": 100
-        },
-        {
-          "keyword": "최우수산",
-          "score": 99
-        },
-        {
-          "keyword": "간호사",
-          "score": 98
-        },
-        {
-          "keyword": "mlb",
-          "score": 97
-        },
-        {
-          "keyword": "배지환",
-          "score": 96
-        },
-        {
-          "keyword": "페이즈",
-          "score": 95
-        },
-        {
-          "keyword": "배구",
-          "score": 94
-        },
-        {
-          "keyword": "독도",
-          "score": 93
-        },
-        {
-          "keyword": "페이커",
-          "score": 92
-        },
-        {
-          "keyword": "치지직",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-08T10:56:59.436Z",
       "geo": "KR",
       "source": "google",
@@ -4839,6 +4792,53 @@
         },
         {
           "keyword": "염경엽",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-12T10:50:38.910Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "안판석",
+          "score": 100
+        },
+        {
+          "keyword": "한강버스",
+          "score": 99
+        },
+        {
+          "keyword": "손연재",
+          "score": 98
+        },
+        {
+          "keyword": "적금",
+          "score": 97
+        },
+        {
+          "keyword": "포스코",
+          "score": 96
+        },
+        {
+          "keyword": "박정희",
+          "score": 95
+        },
+        {
+          "keyword": "유시춘",
+          "score": 94
+        },
+        {
+          "keyword": "사기",
+          "score": 93
+        },
+        {
+          "keyword": "이준혁",
+          "score": 92
+        },
+        {
+          "keyword": "미래에셋",
           "score": 91
         }
       ]
