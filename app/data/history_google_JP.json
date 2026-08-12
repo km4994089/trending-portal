@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-08T10:57:00.607Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大阪 花火",
-          "score": 100
-        },
-        {
-          "keyword": "ファジアーノ",
-          "score": 99
-        },
-        {
-          "keyword": "木村知事",
-          "score": 98
-        },
-        {
-          "keyword": "ヴァンフォーレ甲府",
-          "score": 97
-        },
-        {
-          "keyword": "鹿児島ユナイテッドfc",
-          "score": 96
-        },
-        {
-          "keyword": "グランパス 試合",
-          "score": 95
-        },
-        {
-          "keyword": "レイソル",
-          "score": 94
-        },
-        {
-          "keyword": "神宮 花火大会",
-          "score": 93
-        },
-        {
-          "keyword": "郡司裕也",
-          "score": 92
-        },
-        {
-          "keyword": "熊本県知事",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-08-08T11:21:49.136Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ssbc",
-          "score": 100
-        },
-        {
-          "keyword": "警部補",
-          "score": 99
-        },
-        {
-          "keyword": "ラグビーユニオン",
-          "score": 98
-        },
-        {
-          "keyword": "吉田健人",
-          "score": 97
-        },
-        {
-          "keyword": "軍国主義",
-          "score": 96
-        },
-        {
-          "keyword": "プロフェッショナル",
-          "score": 95
-        },
-        {
-          "keyword": "佐野 勇 斗",
-          "score": 94
-        },
-        {
-          "keyword": "島津亜矢",
-          "score": 93
-        },
-        {
-          "keyword": "池上彰",
-          "score": 92
-        },
-        {
-          "keyword": "ジュビロ磐田 試合",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-08T11:51:04.760Z",
       "geo": "JP",
       "source": "google",
@@ -4839,6 +4745,53 @@
         },
         {
           "keyword": "東芝",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-12T11:38:34.249Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "アジア 競技 大会",
+          "score": 100
+        },
+        {
+          "keyword": "アシアナ航空",
+          "score": 99
+        },
+        {
+          "keyword": "嵐",
+          "score": 98
+        },
+        {
+          "keyword": "新幹線 乗り遅れ 親子",
+          "score": 97
+        },
+        {
+          "keyword": "ランス・ストロール",
+          "score": 96
+        },
+        {
+          "keyword": "美川憲一",
+          "score": 95
+        },
+        {
+          "keyword": "北方領土",
+          "score": 94
+        },
+        {
+          "keyword": "監査",
+          "score": 93
+        },
+        {
+          "keyword": "サーチャージ",
+          "score": 92
+        },
+        {
+          "keyword": "澤部佑",
           "score": 91
         }
       ]
