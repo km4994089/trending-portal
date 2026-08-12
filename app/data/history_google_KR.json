@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-08T04:04:04.380Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김부장",
-          "score": 100
-        },
-        {
-          "keyword": "부모",
-          "score": 99
-        },
-        {
-          "keyword": "포스코",
-          "score": 98
-        },
-        {
-          "keyword": "특별재난지역",
-          "score": 97
-        },
-        {
-          "keyword": "그랜드 테프트 오토 vi",
-          "score": 96
-        },
-        {
-          "keyword": "경기도",
-          "score": 95
-        },
-        {
-          "keyword": "삼성 라이온즈",
-          "score": 94
-        },
-        {
-          "keyword": "경상남도",
-          "score": 93
-        },
-        {
-          "keyword": "알렉산드라 에알라",
-          "score": 92
-        },
-        {
-          "keyword": "태장동",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-08T05:13:30.408Z",
       "geo": "KR",
       "source": "google",
@@ -4933,6 +4886,53 @@
         },
         {
           "keyword": "거제경찰서",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-12T05:11:26.420Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "스텔스기",
+          "score": 100
+        },
+        {
+          "keyword": "이상순",
+          "score": 99
+        },
+        {
+          "keyword": "건축탐구 - 집",
+          "score": 98
+        },
+        {
+          "keyword": "미스코리아",
+          "score": 97
+        },
+        {
+          "keyword": "피의자",
+          "score": 96
+        },
+        {
+          "keyword": "kf-21 보라매",
+          "score": 95
+        },
+        {
+          "keyword": "위례신도시",
+          "score": 94
+        },
+        {
+          "keyword": "이범호",
+          "score": 93
+        },
+        {
+          "keyword": "한문철의 블랙박스 리뷰",
+          "score": 92
+        },
+        {
+          "keyword": "이시언",
           "score": 91
         }
       ]
