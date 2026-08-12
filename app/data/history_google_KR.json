@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-08T18:32:30.921Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "서점가",
-          "score": 100
-        },
-        {
-          "keyword": "정가은",
-          "score": 99
-        },
-        {
-          "keyword": "가능한 사랑",
-          "score": 98
-        },
-        {
-          "keyword": "면목동",
-          "score": 97
-        },
-        {
-          "keyword": "김소영",
-          "score": 96
-        },
-        {
-          "keyword": "ewc 철권",
-          "score": 95
-        },
-        {
-          "keyword": "psg",
-          "score": 94
-        },
-        {
-          "keyword": "맨유",
-          "score": 93
-        },
-        {
-          "keyword": "mutv",
-          "score": 92
-        },
-        {
-          "keyword": "서하얀",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-08-08T19:21:12.237Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "페렌츠바로시 대 레알 마드리드",
-          "score": 100
-        },
-        {
-          "keyword": "레알마드리드",
-          "score": 99
-        },
-        {
-          "keyword": "서점가",
-          "score": 98
-        },
-        {
-          "keyword": "정가은",
-          "score": 97
-        },
-        {
-          "keyword": "가능한 사랑",
-          "score": 96
-        },
-        {
-          "keyword": "fotmob",
-          "score": 95
-        },
-        {
-          "keyword": "면목동",
-          "score": 94
-        },
-        {
-          "keyword": "김소영",
-          "score": 93
-        },
-        {
-          "keyword": "ewc 철권",
-          "score": 92
-        },
-        {
-          "keyword": "psg",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-08T19:50:22.009Z",
       "geo": "KR",
       "source": "google",
@@ -4557,6 +4463,53 @@
         },
         {
           "keyword": "야구순위",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-12T19:33:28.845Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "psg 대 애스턴 빌라",
+          "score": 100
+        },
+        {
+          "keyword": "데포르티보 대 레알 마드리드",
+          "score": 99
+        },
+        {
+          "keyword": "watch",
+          "score": 98
+        },
+        {
+          "keyword": "아스널 대 코모",
+          "score": 97
+        },
+        {
+          "keyword": "맨유 대 리즈 유나이티드",
+          "score": 96
+        },
+        {
+          "keyword": "운전",
+          "score": 95
+        },
+        {
+          "keyword": "국제선",
+          "score": 94
+        },
+        {
+          "keyword": "이찬원",
+          "score": 93
+        },
+        {
+          "keyword": "배재고등학교",
+          "score": 92
+        },
+        {
+          "keyword": "주진우",
           "score": 91
         }
       ]
