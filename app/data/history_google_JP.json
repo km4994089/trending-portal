@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-09T21:31:14.783Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "リュカ・ディニュ",
-          "score": 100
-        },
-        {
-          "keyword": "地震速報 福井",
-          "score": 99
-        },
-        {
-          "keyword": "みずほ銀行 atm",
-          "score": 98
-        },
-        {
-          "keyword": "zozoマリンスタジアム",
-          "score": 97
-        },
-        {
-          "keyword": "アリゾナ・ダイヤモンドバックス",
-          "score": 96
-        },
-        {
-          "keyword": "菅楓華",
-          "score": 95
-        },
-        {
-          "keyword": "マックフライポテト",
-          "score": 94
-        },
-        {
-          "keyword": "ベン・ロートベット",
-          "score": 93
-        },
-        {
-          "keyword": "モーニング",
-          "score": 92
-        },
-        {
-          "keyword": "正面衝突",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-09T22:19:08.231Z",
       "geo": "JP",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "高知 水難事故",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-13T22:08:49.749Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "吉田正尚",
+          "score": 100
+        },
+        {
+          "keyword": "朝マック",
+          "score": 99
+        },
+        {
+          "keyword": "三振",
+          "score": 98
+        },
+        {
+          "keyword": "リッチー・ブラックモア",
+          "score": 97
+        },
+        {
+          "keyword": "グーグル pixel watch 5",
+          "score": 96
+        },
+        {
+          "keyword": "icc",
+          "score": 95
+        },
+        {
+          "keyword": "今日の天気 東京",
+          "score": 94
+        },
+        {
+          "keyword": "日本銀行",
+          "score": 93
+        },
+        {
+          "keyword": "平木 理化",
+          "score": 92
+        },
+        {
+          "keyword": "奈良新聞",
           "score": 91
         }
       ]
