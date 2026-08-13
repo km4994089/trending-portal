@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-09T00:54:41.288Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "湯崎英彦",
-          "score": 100
-        },
-        {
-          "keyword": "ダイヤモンドバックス",
-          "score": 99
-        },
-        {
-          "keyword": "ラーズ・ヌートバー",
-          "score": 98
-        },
-        {
-          "keyword": "木村敬",
-          "score": 97
-        },
-        {
-          "keyword": "フェレンツヴァーロシュ 対 レアル・マドリード",
-          "score": 96
-        },
-        {
-          "keyword": "フェイエノールト",
-          "score": 95
-        },
-        {
-          "keyword": "大規模修繕工事",
-          "score": 94
-        },
-        {
-          "keyword": "シュン・スカイウォーカー",
-          "score": 93
-        },
-        {
-          "keyword": "みずほ銀行 atm",
-          "score": 92
-        },
-        {
-          "keyword": "横浜高校 甲子園",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-08-09T02:57:23.824Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "戸田競艇",
-          "score": 100
-        },
-        {
-          "keyword": "無人機",
-          "score": 99
-        },
-        {
-          "keyword": "東京ドーム",
-          "score": 98
-        },
-        {
-          "keyword": "シュン スカイ ウォーカー",
-          "score": 97
-        },
-        {
-          "keyword": "台風気象情報、台風第15号",
-          "score": 96
-        },
-        {
-          "keyword": "長崎市長",
-          "score": 95
-        },
-        {
-          "keyword": "黙祷",
-          "score": 94
-        },
-        {
-          "keyword": "ららぽーと甲子園",
-          "score": 93
-        },
-        {
-          "keyword": "中島ひとみ",
-          "score": 92
-        },
-        {
-          "keyword": "ドラゴンバルド",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-09T04:13:36.156Z",
       "geo": "JP",
       "source": "google",
@@ -4322,6 +4228,53 @@
         },
         {
           "keyword": "ミセスグリーンアップル",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-13T03:05:21.228Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "坂本花織",
+          "score": 100
+        },
+        {
+          "keyword": "高橋大輔",
+          "score": 99
+        },
+        {
+          "keyword": "ロイヤルズ",
+          "score": 98
+        },
+        {
+          "keyword": "うたであえたら",
+          "score": 97
+        },
+        {
+          "keyword": "錦織圭",
+          "score": 96
+        },
+        {
+          "keyword": "マック メニュー",
+          "score": 95
+        },
+        {
+          "keyword": "資産",
+          "score": 94
+        },
+        {
+          "keyword": "カンザスシティ",
+          "score": 93
+        },
+        {
+          "keyword": "今中慎二",
+          "score": 92
+        },
+        {
+          "keyword": "バレーボール女子u17世界選手権",
           "score": 91
         }
       ]
