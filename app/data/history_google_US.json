@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-09T10:02:35.353Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jury duty",
-          "score": 100
-        },
-        {
-          "keyword": "brandon coleman overtime charges",
-          "score": 99
-        },
-        {
-          "keyword": "alaskaair",
-          "score": 98
-        },
-        {
-          "keyword": "warriors",
-          "score": 97
-        },
-        {
-          "keyword": "internet",
-          "score": 96
-        },
-        {
-          "keyword": "car",
-          "score": 95
-        },
-        {
-          "keyword": "car news",
-          "score": 94
-        },
-        {
-          "keyword": "britney spears",
-          "score": 93
-        },
-        {
-          "keyword": "fashion news",
-          "score": 92
-        },
-        {
-          "keyword": "claressa shields",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-09T10:59:32.674Z",
       "geo": "US",
       "source": "google",
@@ -4181,6 +4134,53 @@
         },
         {
           "keyword": "flow",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-13T10:52:43.868Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "rick jackson",
+          "score": 100
+        },
+        {
+          "keyword": "travis kelce wedding comments",
+          "score": 99
+        },
+        {
+          "keyword": "philadelphia eagles",
+          "score": 98
+        },
+        {
+          "keyword": "hell let loose vietnam",
+          "score": 97
+        },
+        {
+          "keyword": "dell stock",
+          "score": 96
+        },
+        {
+          "keyword": "onds stock",
+          "score": 95
+        },
+        {
+          "keyword": "parent",
+          "score": 94
+        },
+        {
+          "keyword": "detroit lions",
+          "score": 93
+        },
+        {
+          "keyword": "noaa hurricane",
+          "score": 92
+        },
+        {
+          "keyword": "national hurricane center",
           "score": 91
         }
       ]

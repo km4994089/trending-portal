@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-09T10:02:37.589Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "狩野舞子",
-          "score": 100
-        },
-        {
-          "keyword": "中京高校野球部",
-          "score": 99
-        },
-        {
-          "keyword": "中京高校 甲子園",
-          "score": 98
-        },
-        {
-          "keyword": "佐々木大輔",
-          "score": 97
-        },
-        {
-          "keyword": "fc岐阜",
-          "score": 96
-        },
-        {
-          "keyword": "陳幸同",
-          "score": 95
-        },
-        {
-          "keyword": "山形 対 栃木c",
-          "score": 94
-        },
-        {
-          "keyword": "伊藤将司",
-          "score": 93
-        },
-        {
-          "keyword": "小堀敏夫 ノンフィクション",
-          "score": 92
-        },
-        {
-          "keyword": "国債金利",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-09T10:59:35.372Z",
       "geo": "JP",
       "source": "google",
@@ -4181,6 +4134,53 @@
         },
         {
           "keyword": "皇室典範",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-13T10:52:46.373Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "明日の天気 東京",
+          "score": 100
+        },
+        {
+          "keyword": "女子バスケ日本代表",
+          "score": 99
+        },
+        {
+          "keyword": "風速",
+          "score": 98
+        },
+        {
+          "keyword": "増田貴久",
+          "score": 97
+        },
+        {
+          "keyword": "毒蛇",
+          "score": 96
+        },
+        {
+          "keyword": "プレバト",
+          "score": 95
+        },
+        {
+          "keyword": "ヤマカツエース",
+          "score": 94
+        },
+        {
+          "keyword": "阪神タイガース 速報",
+          "score": 93
+        },
+        {
+          "keyword": "中条あやみ",
+          "score": 92
+        },
+        {
+          "keyword": "雨",
           "score": 91
         }
       ]

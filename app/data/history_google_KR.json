@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-09T10:02:36.333Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이더리움",
-          "score": 100
-        },
-        {
-          "keyword": "수건",
-          "score": 99
-        },
-        {
-          "keyword": "초등교사",
-          "score": 98
-        },
-        {
-          "keyword": "폭염 경보",
-          "score": 97
-        },
-        {
-          "keyword": "윤혜진",
-          "score": 96
-        },
-        {
-          "keyword": "미국 국방부",
-          "score": 95
-        },
-        {
-          "keyword": "가요대전 썸머",
-          "score": 94
-        },
-        {
-          "keyword": "부산 날씨",
-          "score": 93
-        },
-        {
-          "keyword": "볼로디미르 젤 렌스키",
-          "score": 92
-        },
-        {
-          "keyword": "공동 명의 다주택자",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-09T10:59:33.972Z",
       "geo": "KR",
       "source": "google",
@@ -4181,6 +4134,53 @@
         },
         {
           "keyword": "저비용 항공사",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-13T10:52:45.206Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "정우주",
+          "score": 100
+        },
+        {
+          "keyword": "석유",
+          "score": 99
+        },
+        {
+          "keyword": "피싱",
+          "score": 98
+        },
+        {
+          "keyword": "공중보건의사",
+          "score": 97
+        },
+        {
+          "keyword": "제우스 오만의 신",
+          "score": 96
+        },
+        {
+          "keyword": "lg vs kiwoom",
+          "score": 95
+        },
+        {
+          "keyword": "모병제",
+          "score": 94
+        },
+        {
+          "keyword": "거주지 기준 의료 이용 제한",
+          "score": 93
+        },
+        {
+          "keyword": "목욕탕",
+          "score": 92
+        },
+        {
+          "keyword": "살인",
           "score": 91
         }
       ]
