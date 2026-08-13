@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-09T05:27:49.584Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "陳 幸同",
-          "score": 100
-        },
-        {
-          "keyword": "パンチくん",
-          "score": 99
-        },
-        {
-          "keyword": "日本ハム 対 楽天",
-          "score": 98
-        },
-        {
-          "keyword": "バスケ 日本代表",
-          "score": 97
-        },
-        {
-          "keyword": "木浪聖也",
-          "score": 96
-        },
-        {
-          "keyword": "マイ・フィクション",
-          "score": 95
-        },
-        {
-          "keyword": "高良健吾",
-          "score": 94
-        },
-        {
-          "keyword": "女優、小川真由美",
-          "score": 93
-        },
-        {
-          "keyword": "橋本愛",
-          "score": 92
-        },
-        {
-          "keyword": "岸谷蘭丸",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-08-09T06:06:46.300Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "河村勇輝",
-          "score": 100
-        },
-        {
-          "keyword": "杉浦 希空",
-          "score": 99
-        },
-        {
-          "keyword": "政府",
-          "score": 98
-        },
-        {
-          "keyword": "桐生祥秀",
-          "score": 97
-        },
-        {
-          "keyword": "ジェイク・リー",
-          "score": 96
-        },
-        {
-          "keyword": "利率",
-          "score": 95
-        },
-        {
-          "keyword": "山口真由",
-          "score": 94
-        },
-        {
-          "keyword": "明石家さんま",
-          "score": 93
-        },
-        {
-          "keyword": "リベラル",
-          "score": 92
-        },
-        {
-          "keyword": "ガッポリ建設",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-09T07:29:31.910Z",
       "geo": "JP",
       "source": "google",
@@ -4275,6 +4181,53 @@
         },
         {
           "keyword": "フサイチパンドラ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-13T06:53:44.838Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "レベル3大雨警報(浸水害)",
+          "score": 100
+        },
+        {
+          "keyword": "埼玉 停電",
+          "score": 99
+        },
+        {
+          "keyword": "メダル",
+          "score": 98
+        },
+        {
+          "keyword": "レベル3大雨警報",
+          "score": 97
+        },
+        {
+          "keyword": "騒音",
+          "score": 96
+        },
+        {
+          "keyword": "東原亜希",
+          "score": 95
+        },
+        {
+          "keyword": "東京 天気 雨雲レーダー",
+          "score": 94
+        },
+        {
+          "keyword": "鹿児島天気",
+          "score": 93
+        },
+        {
+          "keyword": "東京電力 停電",
+          "score": 92
+        },
+        {
+          "keyword": "大雨",
           "score": 91
         }
       ]
