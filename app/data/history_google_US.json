@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-09T09:08:43.736Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "warriors",
-          "score": 100
-        },
-        {
-          "keyword": "car",
-          "score": 99
-        },
-        {
-          "keyword": "car news",
-          "score": 98
-        },
-        {
-          "keyword": "britney spears",
-          "score": 97
-        },
-        {
-          "keyword": "fashion news",
-          "score": 96
-        },
-        {
-          "keyword": "claressa shields",
-          "score": 95
-        },
-        {
-          "keyword": "smartphone market",
-          "score": 94
-        },
-        {
-          "keyword": "weather sleep",
-          "score": 93
-        },
-        {
-          "keyword": "paint news",
-          "score": 92
-        },
-        {
-          "keyword": "news science",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-09T10:02:35.353Z",
       "geo": "US",
       "source": "google",
@@ -4181,6 +4134,53 @@
         },
         {
           "keyword": "las vegas weather",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-13T09:37:36.122Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "motagua - cartaginés",
+          "score": 100
+        },
+        {
+          "keyword": "auto accident lawyer",
+          "score": 99
+        },
+        {
+          "keyword": "auto accident attorney",
+          "score": 98
+        },
+        {
+          "keyword": "drake maye",
+          "score": 97
+        },
+        {
+          "keyword": "georgia lottery",
+          "score": 96
+        },
+        {
+          "keyword": "ny lotto",
+          "score": 95
+        },
+        {
+          "keyword": "pa lottery",
+          "score": 94
+        },
+        {
+          "keyword": "nc lottery",
+          "score": 93
+        },
+        {
+          "keyword": "denzel washington",
+          "score": 92
+        },
+        {
+          "keyword": "flow",
           "score": 91
         }
       ]
