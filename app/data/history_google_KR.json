@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-09T10:59:33.972Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "쿠팡플레이",
-          "score": 100
-        },
-        {
-          "keyword": "유튜버",
-          "score": 99
-        },
-        {
-          "keyword": "오윤아",
-          "score": 98
-        },
-        {
-          "keyword": "물고기",
-          "score": 97
-        },
-        {
-          "keyword": "폭력 조직",
-          "score": 96
-        },
-        {
-          "keyword": "마이클 버리",
-          "score": 95
-        },
-        {
-          "keyword": "new york times",
-          "score": 94
-        },
-        {
-          "keyword": "포헨즈",
-          "score": 93
-        },
-        {
-          "keyword": "포수",
-          "score": 92
-        },
-        {
-          "keyword": "김지유",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-08-09T11:28:43.384Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "제니",
-          "score": 100
-        },
-        {
-          "keyword": "맨 시티 대 아틀레티코",
-          "score": 99
-        },
-        {
-          "keyword": "상속",
-          "score": 98
-        },
-        {
-          "keyword": "케리아",
-          "score": 97
-        },
-        {
-          "keyword": "유튜버",
-          "score": 96
-        },
-        {
-          "keyword": "오윤아",
-          "score": 95
-        },
-        {
-          "keyword": "엄정욱",
-          "score": 94
-        },
-        {
-          "keyword": "물고기",
-          "score": 93
-        },
-        {
-          "keyword": "마이클 버리",
-          "score": 92
-        },
-        {
-          "keyword": "new york times",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-09T11:55:01.285Z",
       "geo": "KR",
       "source": "google",
@@ -4181,6 +4087,53 @@
         },
         {
           "keyword": "살인",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-13T11:38:44.101Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "전환사채",
+          "score": 100
+        },
+        {
+          "keyword": "심우정",
+          "score": 99
+        },
+        {
+          "keyword": "kt 대 nc",
+          "score": 98
+        },
+        {
+          "keyword": "노동조합",
+          "score": 97
+        },
+        {
+          "keyword": "박주호",
+          "score": 96
+        },
+        {
+          "keyword": "박정수",
+          "score": 95
+        },
+        {
+          "keyword": "석유",
+          "score": 94
+        },
+        {
+          "keyword": "정우주",
+          "score": 93
+        },
+        {
+          "keyword": "피싱",
+          "score": 92
+        },
+        {
+          "keyword": "공중보건의사",
           "score": 91
         }
       ]
