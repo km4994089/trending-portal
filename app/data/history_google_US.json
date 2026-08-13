@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-09T07:29:29.274Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "camera",
-          "score": 100
-        },
-        {
-          "keyword": "weather game",
-          "score": 99
-        },
-        {
-          "keyword": "sleep news",
-          "score": 98
-        },
-        {
-          "keyword": "camping news",
-          "score": 97
-        },
-        {
-          "keyword": "weather travel",
-          "score": 96
-        },
-        {
-          "keyword": "finance",
-          "score": 95
-        },
-        {
-          "keyword": "news fitness",
-          "score": 94
-        },
-        {
-          "keyword": "education",
-          "score": 93
-        },
-        {
-          "keyword": "market",
-          "score": 92
-        },
-        {
-          "keyword": "news internet",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-08-09T08:07:53.674Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "travel weather",
-          "score": 100
-        },
-        {
-          "keyword": "britney spears",
-          "score": 99
-        },
-        {
-          "keyword": "fashion news",
-          "score": 98
-        },
-        {
-          "keyword": "claressa shields",
-          "score": 97
-        },
-        {
-          "keyword": "smartphone market",
-          "score": 96
-        },
-        {
-          "keyword": "weather sleep",
-          "score": 95
-        },
-        {
-          "keyword": "paint news",
-          "score": 94
-        },
-        {
-          "keyword": "news science",
-          "score": 93
-        },
-        {
-          "keyword": "news education",
-          "score": 92
-        },
-        {
-          "keyword": "weather game",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-09T09:08:43.736Z",
       "geo": "US",
       "source": "google",
@@ -4228,6 +4134,53 @@
         },
         {
           "keyword": "angels game",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-13T08:10:43.980Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "extreme heat watch",
+          "score": 100
+        },
+        {
+          "keyword": "chris brown",
+          "score": 99
+        },
+        {
+          "keyword": "ucas",
+          "score": 98
+        },
+        {
+          "keyword": "kalshi",
+          "score": 97
+        },
+        {
+          "keyword": "hawaii storm",
+          "score": 96
+        },
+        {
+          "keyword": "michiel vandeweert",
+          "score": 95
+        },
+        {
+          "keyword": "bo jackson",
+          "score": 94
+        },
+        {
+          "keyword": "gunil xdinary heroes",
+          "score": 93
+        },
+        {
+          "keyword": "debbie rowe paris jackson meeting",
+          "score": 92
+        },
+        {
+          "keyword": "las vegas weather",
           "score": 91
         }
       ]
