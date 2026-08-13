@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-09T17:55:14.815Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "chris sale",
-          "score": 100
-        },
-        {
-          "keyword": "matt mcquillan",
-          "score": 99
-        },
-        {
-          "keyword": "what channel is the nascar race on today",
-          "score": 98
-        },
-        {
-          "keyword": "don nelson",
-          "score": 97
-        },
-        {
-          "keyword": "liv golf",
-          "score": 96
-        },
-        {
-          "keyword": "yankees schedule",
-          "score": 95
-        },
-        {
-          "keyword": "wsl",
-          "score": 94
-        },
-        {
-          "keyword": "mets - pirates",
-          "score": 93
-        },
-        {
-          "keyword": "justin thomas",
-          "score": 92
-        },
-        {
-          "keyword": "athletics - red sox",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-09T18:24:10.800Z",
       "geo": "US",
       "source": "google",
@@ -3946,6 +3899,53 @@
         },
         {
           "keyword": "qarabag vs dynamo kyiv",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-13T18:14:04.166Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "new oreo flavors",
+          "score": 100
+        },
+        {
+          "keyword": "emergency landing",
+          "score": 99
+        },
+        {
+          "keyword": "kennedy center",
+          "score": 98
+        },
+        {
+          "keyword": "davis martin",
+          "score": 97
+        },
+        {
+          "keyword": "gemini 3.7 flash",
+          "score": 96
+        },
+        {
+          "keyword": "hearts - benfica",
+          "score": 95
+        },
+        {
+          "keyword": "intel",
+          "score": 94
+        },
+        {
+          "keyword": "hearts vs benfica",
+          "score": 93
+        },
+        {
+          "keyword": "rotten tomatoes",
+          "score": 92
+        },
+        {
+          "keyword": "wsl",
           "score": 91
         }
       ]
