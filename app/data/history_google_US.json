@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-10T18:10:31.447Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "candida auris",
-          "score": 100
-        },
-        {
-          "keyword": "joint base lindsey graham",
-          "score": 99
-        },
-        {
-          "keyword": "anna osceola",
-          "score": 98
-        },
-        {
-          "keyword": "enes kanter freedom wnba letter",
-          "score": 97
-        },
-        {
-          "keyword": "ballot",
-          "score": 96
-        },
-        {
-          "keyword": "nascar news",
-          "score": 95
-        },
-        {
-          "keyword": "green boots",
-          "score": 94
-        },
-        {
-          "keyword": "democratic socialists of america",
-          "score": 93
-        },
-        {
-          "keyword": "big bend national park",
-          "score": 92
-        },
-        {
-          "keyword": "king charles",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-10T19:27:37.927Z",
       "geo": "US",
       "source": "google",
@@ -3711,6 +3664,53 @@
         },
         {
           "keyword": "brian depena",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-14T18:12:39.755Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "earth",
+          "score": 100
+        },
+        {
+          "keyword": "matteo berrettini",
+          "score": 99
+        },
+        {
+          "keyword": "seat geek",
+          "score": 98
+        },
+        {
+          "keyword": "savannah bananas denver",
+          "score": 97
+        },
+        {
+          "keyword": "st jude leaderboard",
+          "score": 96
+        },
+        {
+          "keyword": "venus williams",
+          "score": 95
+        },
+        {
+          "keyword": "grigor dimitrov",
+          "score": 94
+        },
+        {
+          "keyword": "maya joint",
+          "score": 93
+        },
+        {
+          "keyword": "shannon elizabeth",
+          "score": 92
+        },
+        {
+          "keyword": "al-hilal vs al-faisaly",
           "score": 91
         }
       ]
