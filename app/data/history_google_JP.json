@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-10T12:43:25.472Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ディズニー",
-          "score": 100
-        },
-        {
-          "keyword": "大原かおり",
-          "score": 99
-        },
-        {
-          "keyword": "ミセス ディズニー",
-          "score": 98
-        },
-        {
-          "keyword": "岸谷蘭丸",
-          "score": 97
-        },
-        {
-          "keyword": "コレステロール",
-          "score": 96
-        },
-        {
-          "keyword": "クライマックスシリーズ",
-          "score": 95
-        },
-        {
-          "keyword": "ライデル・マルティネス",
-          "score": 94
-        },
-        {
-          "keyword": "河野太郎",
-          "score": 93
-        },
-        {
-          "keyword": "ディズニーランド",
-          "score": 92
-        },
-        {
-          "keyword": "松島",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-10T14:12:48.243Z",
       "geo": "JP",
       "source": "google",
@@ -3758,6 +3711,53 @@
         },
         {
           "keyword": "ジブリ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-14T14:08:17.663Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "コミケ",
+          "score": 100
+        },
+        {
+          "keyword": "サカナクション",
+          "score": 99
+        },
+        {
+          "keyword": "so-so",
+          "score": 98
+        },
+        {
+          "keyword": "alfee",
+          "score": 97
+        },
+        {
+          "keyword": "松山ケンイチ",
+          "score": 96
+        },
+        {
+          "keyword": "流行",
+          "score": 95
+        },
+        {
+          "keyword": "megumi",
+          "score": 94
+        },
+        {
+          "keyword": "伏見寅威",
+          "score": 93
+        },
+        {
+          "keyword": "超 かぐや 姫 ファミマ",
+          "score": 92
+        },
+        {
+          "keyword": "東京新聞",
           "score": 91
         }
       ]
