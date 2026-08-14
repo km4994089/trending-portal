@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-10T21:09:07.631Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "quinnen williams",
-          "score": 100
-        },
-        {
-          "keyword": "cailen waddell update liz",
-          "score": 99
-        },
-        {
-          "keyword": "tornado warning",
-          "score": 98
-        },
-        {
-          "keyword": "mariska hargitay svu episode marathon",
-          "score": 97
-        },
-        {
-          "keyword": "bill belichick, unc football",
-          "score": 96
-        },
-        {
-          "keyword": "amber alert missouri",
-          "score": 95
-        },
-        {
-          "keyword": "francesca hong democratic primary",
-          "score": 94
-        },
-        {
-          "keyword": "m&t bank stadium",
-          "score": 93
-        },
-        {
-          "keyword": "dc weather",
-          "score": 92
-        },
-        {
-          "keyword": "caedan wallace",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-10T22:04:31.898Z",
       "geo": "US",
       "source": "google",
@@ -3758,6 +3711,53 @@
         },
         {
           "keyword": "la liga",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-14T21:15:33.949Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "tpc southwind",
+          "score": 100
+        },
+        {
+          "keyword": "us airport flight disruptions",
+          "score": 99
+        },
+        {
+          "keyword": "commanders",
+          "score": 98
+        },
+        {
+          "keyword": "brewers dodgers game",
+          "score": 97
+        },
+        {
+          "keyword": "joshua baez",
+          "score": 96
+        },
+        {
+          "keyword": "weather san antonio",
+          "score": 95
+        },
+        {
+          "keyword": "cubs score",
+          "score": 94
+        },
+        {
+          "keyword": "san antonio weather",
+          "score": 93
+        },
+        {
+          "keyword": "nuno borges",
+          "score": 92
+        },
+        {
+          "keyword": "spacex news",
           "score": 91
         }
       ]

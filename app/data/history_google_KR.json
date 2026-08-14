@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-10T21:09:09.089Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "에코프로 비엠",
-          "score": 100
-        },
-        {
-          "keyword": "리처드 기어",
-          "score": 99
-        },
-        {
-          "keyword": "대한민국 축구 국가대표팀",
-          "score": 98
-        },
-        {
-          "keyword": "윤상현",
-          "score": 97
-        },
-        {
-          "keyword": "노동자",
-          "score": 96
-        },
-        {
-          "keyword": "에어부산",
-          "score": 95
-        },
-        {
-          "keyword": "베스테를로",
-          "score": 94
-        },
-        {
-          "keyword": "콜롬비아",
-          "score": 93
-        },
-        {
-          "keyword": "아이맥스 영화관",
-          "score": 92
-        },
-        {
-          "keyword": "수능",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-10T22:04:33.234Z",
       "geo": "KR",
       "source": "google",
@@ -3758,6 +3711,53 @@
         },
         {
           "keyword": "대한민국 광복절",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-14T21:15:35.005Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "잠수함",
+          "score": 100
+        },
+        {
+          "keyword": "장동혁",
+          "score": 99
+        },
+        {
+          "keyword": "정성호",
+          "score": 98
+        },
+        {
+          "keyword": "추미애",
+          "score": 97
+        },
+        {
+          "keyword": "조진웅",
+          "score": 96
+        },
+        {
+          "keyword": "맨홀",
+          "score": 95
+        },
+        {
+          "keyword": "마르세유 대 아틀레티코",
+          "score": 94
+        },
+        {
+          "keyword": "류중일",
+          "score": 93
+        },
+        {
+          "keyword": "인구감소지역",
+          "score": 92
+        },
+        {
+          "keyword": "쿠팡플레이",
           "score": 91
         }
       ]
