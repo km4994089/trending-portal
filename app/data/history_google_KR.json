@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-10T00:56:41.727Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "주거",
-          "score": 100
-        },
-        {
-          "keyword": "이다영",
-          "score": 99
-        },
-        {
-          "keyword": "벤 셸턴",
-          "score": 98
-        },
-        {
-          "keyword": "전장연",
-          "score": 97
-        },
-        {
-          "keyword": "대한민국 문화체육관광부",
-          "score": 96
-        },
-        {
-          "keyword": "결혼식",
-          "score": 95
-        },
-        {
-          "keyword": "배구",
-          "score": 94
-        },
-        {
-          "keyword": "오타니 쇼헤이",
-          "score": 93
-        },
-        {
-          "keyword": "이승우",
-          "score": 92
-        },
-        {
-          "keyword": "주유소",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-10T03:07:45.275Z",
       "geo": "KR",
       "source": "google",
@@ -3758,6 +3711,53 @@
         },
         {
           "keyword": "최화정",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-14T03:04:57.699Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "대한민국의 국기",
+          "score": 100
+        },
+        {
+          "keyword": "이더리움",
+          "score": 99
+        },
+        {
+          "keyword": "백화점",
+          "score": 98
+        },
+        {
+          "keyword": "이마트",
+          "score": 97
+        },
+        {
+          "keyword": "미국",
+          "score": 96
+        },
+        {
+          "keyword": "프로 골퍼",
+          "score": 95
+        },
+        {
+          "keyword": "배재대",
+          "score": 94
+        },
+        {
+          "keyword": "벤 셸턴",
+          "score": 93
+        },
+        {
+          "keyword": "권오현",
+          "score": 92
+        },
+        {
+          "keyword": "안중열",
           "score": 91
         }
       ]
