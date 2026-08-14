@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-10T11:43:00.357Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "불펜",
-          "score": 100
-        },
-        {
-          "keyword": "lg화학",
-          "score": 99
-        },
-        {
-          "keyword": "골프존홀딩스",
-          "score": 98
-        },
-        {
-          "keyword": "경기도교육감",
-          "score": 97
-        },
-        {
-          "keyword": "외국인",
-          "score": 96
-        },
-        {
-          "keyword": "김미현",
-          "score": 95
-        },
-        {
-          "keyword": "ssg 랜더스",
-          "score": 94
-        },
-        {
-          "keyword": "빅뱅",
-          "score": 93
-        },
-        {
-          "keyword": "노소영",
-          "score": 92
-        },
-        {
-          "keyword": "남구",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-10T12:43:24.166Z",
       "geo": "KR",
       "source": "google",
@@ -3758,6 +3711,53 @@
         },
         {
           "keyword": "hj중공업",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-14T12:40:08.077Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "첼시 fc",
+          "score": 100
+        },
+        {
+          "keyword": "아파트",
+          "score": 99
+        },
+        {
+          "keyword": "t1",
+          "score": 98
+        },
+        {
+          "keyword": "비정규직",
+          "score": 97
+        },
+        {
+          "keyword": "전력",
+          "score": 96
+        },
+        {
+          "keyword": "암호화폐",
+          "score": 95
+        },
+        {
+          "keyword": "동원그룹",
+          "score": 94
+        },
+        {
+          "keyword": "t1 dk",
+          "score": 93
+        },
+        {
+          "keyword": "아이린",
+          "score": 92
+        },
+        {
+          "keyword": "디즈니+",
           "score": 91
         }
       ]

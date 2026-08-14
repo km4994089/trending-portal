@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-10T11:43:01.894Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "保育",
-          "score": 100
-        },
-        {
-          "keyword": "アーティスティックスイミング",
-          "score": 99
-        },
-        {
-          "keyword": "アンハサウェイ",
-          "score": 98
-        },
-        {
-          "keyword": "大村競艇",
-          "score": 97
-        },
-        {
-          "keyword": "トラウデン直美",
-          "score": 96
-        },
-        {
-          "keyword": "クライミング",
-          "score": 95
-        },
-        {
-          "keyword": "乃木坂46",
-          "score": 94
-        },
-        {
-          "keyword": "プロレス",
-          "score": 93
-        },
-        {
-          "keyword": "yes 東京 m lk",
-          "score": 92
-        },
-        {
-          "keyword": "軽井沢72ゴルフトーナメント",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-10T12:43:25.472Z",
       "geo": "JP",
       "source": "google",
@@ -3758,6 +3711,53 @@
         },
         {
           "keyword": "甲子園 優勝候補",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-14T12:40:09.364Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "鈴木亮平",
+          "score": 100
+        },
+        {
+          "keyword": "ウィリアムジョーンズカップ",
+          "score": 99
+        },
+        {
+          "keyword": "秋田 県 職員",
+          "score": 98
+        },
+        {
+          "keyword": "久保藤次郎",
+          "score": 97
+        },
+        {
+          "keyword": "田中こころ",
+          "score": 96
+        },
+        {
+          "keyword": "アンミカ",
+          "score": 95
+        },
+        {
+          "keyword": "火事",
+          "score": 94
+        },
+        {
+          "keyword": "競輪結果",
+          "score": 93
+        },
+        {
+          "keyword": "今日のプロ野球",
+          "score": 92
+        },
+        {
+          "keyword": "ジブリ",
           "score": 91
         }
       ]
