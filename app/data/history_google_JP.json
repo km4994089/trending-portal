@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-10T20:07:23.326Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "日曜劇場 vivant",
-          "score": 100
-        },
-        {
-          "keyword": "エルニーニョ",
-          "score": 99
-        },
-        {
-          "keyword": "警察",
-          "score": 98
-        },
-        {
-          "keyword": "防犯",
-          "score": 97
-        },
-        {
-          "keyword": "幻想水滸伝 star leap",
-          "score": 96
-        },
-        {
-          "keyword": "打線",
-          "score": 95
-        },
-        {
-          "keyword": "google pixel 11",
-          "score": 94
-        },
-        {
-          "keyword": "出口クリスタ",
-          "score": 93
-        },
-        {
-          "keyword": "声優と夜あそび",
-          "score": 92
-        },
-        {
-          "keyword": "宝くじ 当選番号 ロト6",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-10T21:09:10.302Z",
       "geo": "JP",
       "source": "google",
@@ -3758,6 +3711,53 @@
         },
         {
           "keyword": "gemini",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-14T20:52:36.093Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "卓球",
+          "score": 100
+        },
+        {
+          "keyword": "セブン-イレブン",
+          "score": 99
+        },
+        {
+          "keyword": "豊島逸夫",
+          "score": 98
+        },
+        {
+          "keyword": "浦田俊輔",
+          "score": 97
+        },
+        {
+          "keyword": "オールスター競輪",
+          "score": 96
+        },
+        {
+          "keyword": "インフルエンザ",
+          "score": 95
+        },
+        {
+          "keyword": "カイル・タッカー",
+          "score": 94
+        },
+        {
+          "keyword": "パランティア株価",
+          "score": 93
+        },
+        {
+          "keyword": "薬師寺保栄",
+          "score": 92
+        },
+        {
+          "keyword": "二軍監督",
           "score": 91
         }
       ]

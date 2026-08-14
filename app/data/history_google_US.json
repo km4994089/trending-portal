@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-10T20:07:20.668Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jackie the eagle",
-          "score": 100
-        },
-        {
-          "keyword": "lauren cohan",
-          "score": 99
-        },
-        {
-          "keyword": "trump vaccines",
-          "score": 98
-        },
-        {
-          "keyword": "brooks nader",
-          "score": 97
-        },
-        {
-          "keyword": "bbc",
-          "score": 96
-        },
-        {
-          "keyword": "texas",
-          "score": 95
-        },
-        {
-          "keyword": "stockard channing reclusive life",
-          "score": 94
-        },
-        {
-          "keyword": "houston weather",
-          "score": 93
-        },
-        {
-          "keyword": "paul sewald",
-          "score": 92
-        },
-        {
-          "keyword": "wsl",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-10T21:09:07.631Z",
       "geo": "US",
       "source": "google",
@@ -3758,6 +3711,53 @@
         },
         {
           "keyword": "butch huskey",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-14T20:52:33.675Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cubs score",
+          "score": 100
+        },
+        {
+          "keyword": "san antonio weather",
+          "score": 99
+        },
+        {
+          "keyword": "nuno borges",
+          "score": 98
+        },
+        {
+          "keyword": "spacex news",
+          "score": 97
+        },
+        {
+          "keyword": "kate middleton",
+          "score": 96
+        },
+        {
+          "keyword": "susan olsen",
+          "score": 95
+        },
+        {
+          "keyword": "jerry jones",
+          "score": 94
+        },
+        {
+          "keyword": "seiya suzuki",
+          "score": 93
+        },
+        {
+          "keyword": "pypl stock",
+          "score": 92
+        },
+        {
+          "keyword": "la liga",
           "score": 91
         }
       ]
