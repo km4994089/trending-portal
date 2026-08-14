@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-10T09:54:31.474Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "기온",
-          "score": 100
-        },
-        {
-          "keyword": "도박",
-          "score": 99
-        },
-        {
-          "keyword": "김지원",
-          "score": 98
-        },
-        {
-          "keyword": "이재명 지지율",
-          "score": 97
-        },
-        {
-          "keyword": "권영찬",
-          "score": 96
-        },
-        {
-          "keyword": "홍경민",
-          "score": 95
-        },
-        {
-          "keyword": "new york times",
-          "score": 94
-        },
-        {
-          "keyword": "문어",
-          "score": 93
-        },
-        {
-          "keyword": "브루노 페르난데스",
-          "score": 92
-        },
-        {
-          "keyword": "로드리고 메시",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-10T10:57:33.790Z",
       "geo": "KR",
       "source": "google",
@@ -3758,6 +3711,53 @@
         },
         {
           "keyword": "체포",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-14T10:48:29.886Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이상화",
+          "score": 100
+        },
+        {
+          "keyword": "서울 날씨",
+          "score": 99
+        },
+        {
+          "keyword": "용산산호아파트",
+          "score": 98
+        },
+        {
+          "keyword": "제럴드 r 포드 급 항공 모함",
+          "score": 97
+        },
+        {
+          "keyword": "애플",
+          "score": 96
+        },
+        {
+          "keyword": "경마",
+          "score": 95
+        },
+        {
+          "keyword": "나탈리 하프",
+          "score": 94
+        },
+        {
+          "keyword": "휘발유",
+          "score": 93
+        },
+        {
+          "keyword": "nc 대 롯데",
+          "score": 92
+        },
+        {
+          "keyword": "ssg 대 lg",
           "score": 91
         }
       ]
