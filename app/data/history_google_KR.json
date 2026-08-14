@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-10T10:57:33.790Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "15 호 태풍",
-          "score": 100
-        },
-        {
-          "keyword": "한국경제신문사",
-          "score": 99
-        },
-        {
-          "keyword": "며느리",
-          "score": 98
-        },
-        {
-          "keyword": "최저시급",
-          "score": 97
-        },
-        {
-          "keyword": "훌리안 알바레스",
-          "score": 96
-        },
-        {
-          "keyword": "홍진호",
-          "score": 95
-        },
-        {
-          "keyword": "연합뉴스",
-          "score": 94
-        },
-        {
-          "keyword": "어메이징 스파이더맨",
-          "score": 93
-        },
-        {
-          "keyword": "후보",
-          "score": 92
-        },
-        {
-          "keyword": "국채",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-10T11:43:00.357Z",
       "geo": "KR",
       "source": "google",
@@ -3758,6 +3711,53 @@
         },
         {
           "keyword": "ssg 대 lg",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-14T11:36:40.698Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "골프",
+          "score": 100
+        },
+        {
+          "keyword": "광주 날씨",
+          "score": 99
+        },
+        {
+          "keyword": "러시아",
+          "score": 98
+        },
+        {
+          "keyword": "seoul weather",
+          "score": 97
+        },
+        {
+          "keyword": "3기 신도시",
+          "score": 96
+        },
+        {
+          "keyword": "휴머노이드 로봇",
+          "score": 95
+        },
+        {
+          "keyword": "한화 대 삼성",
+          "score": 94
+        },
+        {
+          "keyword": "이묵원",
+          "score": 93
+        },
+        {
+          "keyword": "테라파워",
+          "score": 92
+        },
+        {
+          "keyword": "hj중공업",
           "score": 91
         }
       ]
