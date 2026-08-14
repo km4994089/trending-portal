@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-10T14:12:48.243Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "熱闘甲子園",
-          "score": 100
-        },
-        {
-          "keyword": "ドラえもん募金",
-          "score": 99
-        },
-        {
-          "keyword": "ヴィヴァン 野崎",
-          "score": 98
-        },
-        {
-          "keyword": "日本プロサッカーリーグ",
-          "score": 97
-        },
-        {
-          "keyword": "債券",
-          "score": 96
-        },
-        {
-          "keyword": "横浜fc",
-          "score": 95
-        },
-        {
-          "keyword": "オルカン",
-          "score": 94
-        },
-        {
-          "keyword": "nato",
-          "score": 93
-        },
-        {
-          "keyword": "セントラル・リーグ",
-          "score": 92
-        },
-        {
-          "keyword": "ロト6当選番号",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-10T15:28:43.027Z",
       "geo": "JP",
       "source": "google",
@@ -3758,6 +3711,53 @@
         },
         {
           "keyword": "東京新聞",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-14T15:12:45.126Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "黒木啓司 逮捕",
+          "score": 100
+        },
+        {
+          "keyword": "パンパシフィック水泳選手権",
+          "score": 99
+        },
+        {
+          "keyword": "長島三奈",
+          "score": 98
+        },
+        {
+          "keyword": "しゃべくり007",
+          "score": 97
+        },
+        {
+          "keyword": "バズリズム",
+          "score": 96
+        },
+        {
+          "keyword": "井戸田潤",
+          "score": 95
+        },
+        {
+          "keyword": "小澤陽子",
+          "score": 94
+        },
+        {
+          "keyword": "今田美桜",
+          "score": 93
+        },
+        {
+          "keyword": "栃木銀行 本店",
+          "score": 92
+        },
+        {
+          "keyword": "中国新聞",
           "score": 91
         }
       ]
