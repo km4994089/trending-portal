@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-10T08:20:23.711Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "多摩川競艇",
-          "score": 100
-        },
-        {
-          "keyword": "ドウェイン・ジョンソン",
-          "score": 99
-        },
-        {
-          "keyword": "レイラック滋賀fc",
-          "score": 98
-        },
-        {
-          "keyword": "山本 耕史",
-          "score": 97
-        },
-        {
-          "keyword": "新井監督",
-          "score": 96
-        },
-        {
-          "keyword": "井脇ノブ子",
-          "score": 95
-        },
-        {
-          "keyword": "ボートレース徳山",
-          "score": 94
-        },
-        {
-          "keyword": "刑事ドラマ",
-          "score": 93
-        },
-        {
-          "keyword": "キスマイ ライブ",
-          "score": 92
-        },
-        {
-          "keyword": "ジャック ル マロワ 賞",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-10T09:54:32.856Z",
       "geo": "JP",
       "source": "google",
@@ -3758,6 +3711,53 @@
         },
         {
           "keyword": "尼崎競艇",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-14T09:32:49.135Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "高橋宏斗",
+          "score": 100
+        },
+        {
+          "keyword": "日南学園 甲子園",
+          "score": 99
+        },
+        {
+          "keyword": "東京v 対 柏",
+          "score": 98
+        },
+        {
+          "keyword": "キングプロテアオルタ",
+          "score": 97
+        },
+        {
+          "keyword": "秋田県",
+          "score": 96
+        },
+        {
+          "keyword": "イギリス",
+          "score": 95
+        },
+        {
+          "keyword": "靖国神社参拝",
+          "score": 94
+        },
+        {
+          "keyword": "徳島",
+          "score": 93
+        },
+        {
+          "keyword": "android",
+          "score": 92
+        },
+        {
+          "keyword": "西野 カナ ふたりでいよう",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-10T08:20:22.340Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "브루노 페르난데스",
-          "score": 100
-        },
-        {
-          "keyword": "로드리고 메시",
-          "score": 99
-        },
-        {
-          "keyword": "가정폭력",
-          "score": 98
-        },
-        {
-          "keyword": "휴대 전화",
-          "score": 97
-        },
-        {
-          "keyword": "twitch",
-          "score": 96
-        },
-        {
-          "keyword": "베트남",
-          "score": 95
-        },
-        {
-          "keyword": "도라 이버",
-          "score": 94
-        },
-        {
-          "keyword": "보험",
-          "score": 93
-        },
-        {
-          "keyword": "총",
-          "score": 92
-        },
-        {
-          "keyword": "kick",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-10T09:54:31.474Z",
       "geo": "KR",
       "source": "google",
@@ -3758,6 +3711,53 @@
         },
         {
           "keyword": "더블랙레이블",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-14T09:32:47.753Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "강부자",
+          "score": 100
+        },
+        {
+          "keyword": "전북 현대 모터스 fc",
+          "score": 99
+        },
+        {
+          "keyword": "시어머니",
+          "score": 98
+        },
+        {
+          "keyword": "세계 배드민턴 연맹",
+          "score": 97
+        },
+        {
+          "keyword": "프리차드 콜론",
+          "score": 96
+        },
+        {
+          "keyword": "맹승지",
+          "score": 95
+        },
+        {
+          "keyword": "민형배",
+          "score": 94
+        },
+        {
+          "keyword": "허화평",
+          "score": 93
+        },
+        {
+          "keyword": "휴머노이드",
+          "score": 92
+        },
+        {
+          "keyword": "체포",
           "score": 91
         }
       ]
