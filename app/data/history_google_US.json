@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-10T22:04:31.898Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "weather nyc",
-          "score": 100
-        },
-        {
-          "keyword": "mark twain elementary school",
-          "score": 99
-        },
-        {
-          "keyword": "hunter biden tucker carlson interview",
-          "score": 98
-        },
-        {
-          "keyword": "jon hamm american hostage trailer",
-          "score": 97
-        },
-        {
-          "keyword": "jeffrey dean morgan",
-          "score": 96
-        },
-        {
-          "keyword": "dennis kirk trump interior nomination",
-          "score": 95
-        },
-        {
-          "keyword": "dax shepard",
-          "score": 94
-        },
-        {
-          "keyword": "zach holland golf",
-          "score": 93
-        },
-        {
-          "keyword": "dominion energy",
-          "score": 92
-        },
-        {
-          "keyword": "greenland",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-10T23:03:14.363Z",
       "geo": "US",
       "source": "google",
@@ -3805,6 +3758,53 @@
         },
         {
           "keyword": "us airport flight disruptions",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-14T22:12:15.260Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "white sox vs tigers",
+          "score": 100
+        },
+        {
+          "keyword": "robert irwin",
+          "score": 99
+        },
+        {
+          "keyword": "jane street",
+          "score": 98
+        },
+        {
+          "keyword": "red sox vs pirates",
+          "score": 97
+        },
+        {
+          "keyword": "nadia ferreira",
+          "score": 96
+        },
+        {
+          "keyword": "superbowl 2027",
+          "score": 95
+        },
+        {
+          "keyword": "marlins vs reds",
+          "score": 94
+        },
+        {
+          "keyword": "denver weather",
+          "score": 93
+        },
+        {
+          "keyword": "the end of oak street movie",
+          "score": 92
+        },
+        {
+          "keyword": "heat wave",
           "score": 91
         }
       ]
