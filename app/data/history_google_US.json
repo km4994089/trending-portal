@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-10T15:28:40.811Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "prince william",
-          "score": 100
-        },
-        {
-          "keyword": "nws",
-          "score": 99
-        },
-        {
-          "keyword": "noaa weather",
-          "score": 98
-        },
-        {
-          "keyword": "jamarion sharp",
-          "score": 97
-        },
-        {
-          "keyword": "noaa",
-          "score": 96
-        },
-        {
-          "keyword": "playstation plus",
-          "score": 95
-        },
-        {
-          "keyword": "big sur fire",
-          "score": 94
-        },
-        {
-          "keyword": "vxus",
-          "score": 93
-        },
-        {
-          "keyword": "schd",
-          "score": 92
-        },
-        {
-          "keyword": "dow today",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-10T16:22:21.772Z",
       "geo": "US",
       "source": "google",
@@ -3758,6 +3711,53 @@
         },
         {
           "keyword": "avgo stock",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-14T16:11:43.869Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "stefanos tsitsipas",
+          "score": 100
+        },
+        {
+          "keyword": "isaac teslaa",
+          "score": 99
+        },
+        {
+          "keyword": "gold",
+          "score": 98
+        },
+        {
+          "keyword": "community shield",
+          "score": 97
+        },
+        {
+          "keyword": "games",
+          "score": 96
+        },
+        {
+          "keyword": "dee snider ozzy osbourne",
+          "score": 95
+        },
+        {
+          "keyword": "steelers backup quarterback battle",
+          "score": 94
+        },
+        {
+          "keyword": "soccer",
+          "score": 93
+        },
+        {
+          "keyword": "mangione",
+          "score": 92
+        },
+        {
+          "keyword": "doodle",
           "score": 91
         }
       ]
