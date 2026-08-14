@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-10T23:03:16.482Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ツインズ 対 オリオールズ",
-          "score": 100
-        },
-        {
-          "keyword": "カージナルス 対 フィリーズ",
-          "score": 99
-        },
-        {
-          "keyword": "資さんうどん",
-          "score": 98
-        },
-        {
-          "keyword": "滝沢ななえ",
-          "score": 97
-        },
-        {
-          "keyword": "武田久美子",
-          "score": 96
-        },
-        {
-          "keyword": "鍵山優真",
-          "score": 95
-        },
-        {
-          "keyword": "サルモネラ菌",
-          "score": 94
-        },
-        {
-          "keyword": "ジャック・ル・マロワ賞",
-          "score": 93
-        },
-        {
-          "keyword": "決算",
-          "score": 92
-        },
-        {
-          "keyword": "京都天気",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-10T23:57:16.774Z",
       "geo": "JP",
       "source": "google",
@@ -3852,6 +3805,53 @@
         },
         {
           "keyword": "tbs news",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-14T23:12:18.328Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "玉森裕太",
+          "score": 100
+        },
+        {
+          "keyword": "梅沢富美男",
+          "score": 99
+        },
+        {
+          "keyword": "ガスト",
+          "score": 98
+        },
+        {
+          "keyword": "カイル タッカー",
+          "score": 97
+        },
+        {
+          "keyword": "細江純子",
+          "score": 96
+        },
+        {
+          "keyword": "ハビックス 株価",
+          "score": 95
+        },
+        {
+          "keyword": "軍事演習",
+          "score": 94
+        },
+        {
+          "keyword": "ラグビーオーストラリア代表",
+          "score": 93
+        },
+        {
+          "keyword": "インドネシア 地震",
+          "score": 92
+        },
+        {
+          "keyword": "ブレーブス 対 dバックス",
           "score": 91
         }
       ]
