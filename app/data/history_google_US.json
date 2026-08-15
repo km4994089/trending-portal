@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-11T13:50:00.564Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "michelle pfeiffer",
-          "score": 100
-        },
-        {
-          "keyword": "severe thunderstorm watch",
-          "score": 99
-        },
-        {
-          "keyword": "jalen brunson",
-          "score": 98
-        },
-        {
-          "keyword": "derecho storm",
-          "score": 97
-        },
-        {
-          "keyword": "xbox game pass",
-          "score": 96
-        },
-        {
-          "keyword": "the brink of war",
-          "score": 95
-        },
-        {
-          "keyword": "radar",
-          "score": 94
-        },
-        {
-          "keyword": "miami flight alaska airlines disturbance",
-          "score": 93
-        },
-        {
-          "keyword": "hormuz news",
-          "score": 92
-        },
-        {
-          "keyword": "liv golf",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-11T14:49:31.507Z",
       "geo": "US",
       "source": "google",
@@ -4369,6 +4322,53 @@
         },
         {
           "keyword": "leadville 100 mtb",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-15T14:12:25.210Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "milan vs man united",
+          "score": 100
+        },
+        {
+          "keyword": "patricia heaton",
+          "score": 99
+        },
+        {
+          "keyword": "nebraska football",
+          "score": 98
+        },
+        {
+          "keyword": "everton - losc",
+          "score": 97
+        },
+        {
+          "keyword": "stoke city vs swansea",
+          "score": 96
+        },
+        {
+          "keyword": "snowfall",
+          "score": 95
+        },
+        {
+          "keyword": "new jersey",
+          "score": 94
+        },
+        {
+          "keyword": "mainz vs bournemouth",
+          "score": 93
+        },
+        {
+          "keyword": "fortnite live event",
+          "score": 92
+        },
+        {
+          "keyword": "mönchengladbach - aston villa",
           "score": 91
         }
       ]
