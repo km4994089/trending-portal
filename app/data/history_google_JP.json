@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-11T11:11:01.241Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "鈴木亮平",
-          "score": 100
-        },
-        {
-          "keyword": "菜々緒",
-          "score": 99
-        },
-        {
-          "keyword": "なにわ 男子 誹謗 中傷 メンバー",
-          "score": 98
-        },
-        {
-          "keyword": "宇都宮線",
-          "score": 97
-        },
-        {
-          "keyword": "あや なん",
-          "score": 96
-        },
-        {
-          "keyword": "白石聖",
-          "score": 95
-        },
-        {
-          "keyword": "小泉進次郎",
-          "score": 94
-        },
-        {
-          "keyword": "さんま御殿",
-          "score": 93
-        },
-        {
-          "keyword": "ガンバ大阪",
-          "score": 92
-        },
-        {
-          "keyword": "小泉孝太郎",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-11T12:04:30.528Z",
       "geo": "JP",
       "source": "google",
@@ -4275,6 +4228,53 @@
         },
         {
           "keyword": "ウィンゲンター",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-15T11:41:03.640Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "羽生結弦",
+          "score": 100
+        },
+        {
+          "keyword": "高校野球 結果",
+          "score": 99
+        },
+        {
+          "keyword": "二階堂ふみ",
+          "score": 98
+        },
+        {
+          "keyword": "競輪結果",
+          "score": 97
+        },
+        {
+          "keyword": "かわむらゆうき",
+          "score": 96
+        },
+        {
+          "keyword": "宮崎友花",
+          "score": 95
+        },
+        {
+          "keyword": "高橋克実",
+          "score": 94
+        },
+        {
+          "keyword": "bリーグ",
+          "score": 93
+        },
+        {
+          "keyword": "vファーレン長崎",
+          "score": 92
+        },
+        {
+          "keyword": "千葉ジェッツ",
           "score": 91
         }
       ]
