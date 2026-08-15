@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-11T10:23:34.064Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tokyo mer 走る 緊急 救命 室",
-          "score": 100
-        },
-        {
-          "keyword": "田原総一朗",
-          "score": 99
-        },
-        {
-          "keyword": "acl",
-          "score": 98
-        },
-        {
-          "keyword": "ドリフに大挑戦",
-          "score": 97
-        },
-        {
-          "keyword": "line ミュートメッセージ",
-          "score": 96
-        },
-        {
-          "keyword": "オモウマい店 生ハム",
-          "score": 95
-        },
-        {
-          "keyword": "茨城 停電",
-          "score": 94
-        },
-        {
-          "keyword": "psg",
-          "score": 93
-        },
-        {
-          "keyword": "テレビ番組",
-          "score": 92
-        },
-        {
-          "keyword": "いわき市 停電",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-11T11:11:01.241Z",
       "geo": "JP",
       "source": "google",
@@ -4228,6 +4181,53 @@
         },
         {
           "keyword": "入間くん",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-15T10:44:49.585Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "藤枝myfc",
+          "score": 100
+        },
+        {
+          "keyword": "上村優也",
+          "score": 99
+        },
+        {
+          "keyword": "サンフレ",
+          "score": 98
+        },
+        {
+          "keyword": "小室眞子",
+          "score": 97
+        },
+        {
+          "keyword": "ロアッソ熊本",
+          "score": 96
+        },
+        {
+          "keyword": "伊集院光",
+          "score": 95
+        },
+        {
+          "keyword": "木原龍一",
+          "score": 94
+        },
+        {
+          "keyword": "湘南ベルマーレ",
+          "score": 93
+        },
+        {
+          "keyword": "勝毎花火大会 2026",
+          "score": 92
+        },
+        {
+          "keyword": "レノファ山口",
           "score": 91
         }
       ]
