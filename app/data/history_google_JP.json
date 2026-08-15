@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-11T23:29:19.978Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ツインズ 対 オリオールズ",
-          "score": 100
-        },
-        {
-          "keyword": "佐藤三兄弟",
-          "score": 99
-        },
-        {
-          "keyword": "cnn",
-          "score": 98
-        },
-        {
-          "keyword": "高松 天気",
-          "score": 97
-        },
-        {
-          "keyword": "小林美駒",
-          "score": 96
-        },
-        {
-          "keyword": "ホワイトソックス 対 レッズ",
-          "score": 95
-        },
-        {
-          "keyword": "佐藤水菜",
-          "score": 94
-        },
-        {
-          "keyword": "エリナ・スビトリナ",
-          "score": 93
-        },
-        {
-          "keyword": "北関東自動車道",
-          "score": 92
-        },
-        {
-          "keyword": "兵庫 天気",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-12T00:06:56.031Z",
       "geo": "JP",
       "source": "google",
@@ -4792,6 +4745,53 @@
         },
         {
           "keyword": "フェルナンド・アロンソ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-15T23:41:00.214Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "古橋亨梧",
+          "score": 100
+        },
+        {
+          "keyword": "佐野市",
+          "score": 99
+        },
+        {
+          "keyword": "新体操",
+          "score": 98
+        },
+        {
+          "keyword": "滝沢ななえ",
+          "score": 97
+        },
+        {
+          "keyword": "フラッグフットボール",
+          "score": 96
+        },
+        {
+          "keyword": "小川航基",
+          "score": 95
+        },
+        {
+          "keyword": "トランプ大統領",
+          "score": 94
+        },
+        {
+          "keyword": "片寄涼太 土屋太鳳",
+          "score": 93
+        },
+        {
+          "keyword": "長崎天気",
+          "score": 92
+        },
+        {
+          "keyword": "健大高崎",
           "score": 91
         }
       ]
