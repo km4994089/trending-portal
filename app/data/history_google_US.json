@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-11T06:46:35.774Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "seth rogen",
-          "score": 100
-        },
-        {
-          "keyword": "housing market",
-          "score": 99
-        },
-        {
-          "keyword": "michelle randolph",
-          "score": 98
-        },
-        {
-          "keyword": "home prices",
-          "score": 97
-        },
-        {
-          "keyword": "shohei ohtani",
-          "score": 96
-        },
-        {
-          "keyword": "isiah pacheco",
-          "score": 95
-        },
-        {
-          "keyword": "jake whisenant",
-          "score": 94
-        },
-        {
-          "keyword": "rosario dawson",
-          "score": 93
-        },
-        {
-          "keyword": "los angeles angels",
-          "score": 92
-        },
-        {
-          "keyword": "edwin diaz",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-11T08:02:43.661Z",
       "geo": "US",
       "source": "google",
@@ -4040,6 +3993,53 @@
         },
         {
           "keyword": "kieran culkin",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-15T07:04:46.603Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "palworld 1.1",
+          "score": 100
+        },
+        {
+          "keyword": "frozen 3 release date",
+          "score": 99
+        },
+        {
+          "keyword": "margot robbie",
+          "score": 98
+        },
+        {
+          "keyword": "daycare center",
+          "score": 97
+        },
+        {
+          "keyword": "salma hayek",
+          "score": 96
+        },
+        {
+          "keyword": "hailee steinfeld",
+          "score": 95
+        },
+        {
+          "keyword": "jon favreau",
+          "score": 94
+        },
+        {
+          "keyword": "community shield",
+          "score": 93
+        },
+        {
+          "keyword": "michael fassbender",
+          "score": 92
+        },
+        {
+          "keyword": "jonathan majors",
           "score": 91
         }
       ]
