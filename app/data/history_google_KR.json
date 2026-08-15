@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-11T01:13:02.234Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김나희",
-          "score": 100
-        },
-        {
-          "keyword": "삼성 갤럭시 z 시리즈",
-          "score": 99
-        },
-        {
-          "keyword": "필 포든",
-          "score": 98
-        },
-        {
-          "keyword": "경산시",
-          "score": 97
-        },
-        {
-          "keyword": "이가 시비옹테크",
-          "score": 96
-        },
-        {
-          "keyword": "이민정",
-          "score": 95
-        },
-        {
-          "keyword": "자녀",
-          "score": 94
-        },
-        {
-          "keyword": "배준호",
-          "score": 93
-        },
-        {
-          "keyword": "감바 오사카",
-          "score": 92
-        },
-        {
-          "keyword": "김용빈",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-11T03:14:54.538Z",
       "geo": "KR",
       "source": "google",
@@ -3899,6 +3852,53 @@
         },
         {
           "keyword": "天气",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-15T02:08:00.714Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김우빈",
+          "score": 100
+        },
+        {
+          "keyword": "ufc 330",
+          "score": 99
+        },
+        {
+          "keyword": "sbs",
+          "score": 98
+        },
+        {
+          "keyword": "인도네시아",
+          "score": 97
+        },
+        {
+          "keyword": "샌 디스크",
+          "score": 96
+        },
+        {
+          "keyword": "jason arday",
+          "score": 95
+        },
+        {
+          "keyword": "미래에셋",
+          "score": 94
+        },
+        {
+          "keyword": "변광용",
+          "score": 93
+        },
+        {
+          "keyword": "광복",
+          "score": 92
+        },
+        {
+          "keyword": "소방관",
           "score": 91
         }
       ]
