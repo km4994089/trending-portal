@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-11T19:54:12.413Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "us fires on ship",
-          "score": 100
-        },
-        {
-          "keyword": "zohran mamdani grocery stores",
-          "score": 99
-        },
-        {
-          "keyword": "toyota camry recall",
-          "score": 98
-        },
-        {
-          "keyword": "montreal weather",
-          "score": 97
-        },
-        {
-          "keyword": "samuel alito",
-          "score": 96
-        },
-        {
-          "keyword": "ronaldo",
-          "score": 95
-        },
-        {
-          "keyword": "ryan hall",
-          "score": 94
-        },
-        {
-          "keyword": "jamie lee curtis",
-          "score": 93
-        },
-        {
-          "keyword": "wcpo",
-          "score": 92
-        },
-        {
-          "keyword": "s.w.a.t. exiles",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-11T20:33:55.895Z",
       "geo": "US",
       "source": "google",
@@ -4651,6 +4604,53 @@
         },
         {
           "keyword": "ceyair wright",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-15T20:10:53.281Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sam burns",
+          "score": 100
+        },
+        {
+          "keyword": "henry cavill",
+          "score": 99
+        },
+        {
+          "keyword": "jermar jefferson",
+          "score": 98
+        },
+        {
+          "keyword": "jordan 4 jackie robinson release",
+          "score": 97
+        },
+        {
+          "keyword": "raheim sanders",
+          "score": 96
+        },
+        {
+          "keyword": "max brosmer",
+          "score": 95
+        },
+        {
+          "keyword": "lucas fernando",
+          "score": 94
+        },
+        {
+          "keyword": "beats",
+          "score": 93
+        },
+        {
+          "keyword": "ty simpson",
+          "score": 92
+        },
+        {
+          "keyword": "sewage",
           "score": 91
         }
       ]
