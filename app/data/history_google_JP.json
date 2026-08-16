@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-12T03:02:10.913Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "山手線",
-          "score": 100
-        },
-        {
-          "keyword": "ロイヤルズ",
-          "score": 99
-        },
-        {
-          "keyword": "伊藤匠",
-          "score": 98
-        },
-        {
-          "keyword": "今中慎二",
-          "score": 97
-        },
-        {
-          "keyword": "尼崎競艇",
-          "score": 96
-        },
-        {
-          "keyword": "ハッピーセット おもちゃ",
-          "score": 95
-        },
-        {
-          "keyword": "指名手配",
-          "score": 94
-        },
-        {
-          "keyword": "ブレイク・スネル",
-          "score": 93
-        },
-        {
-          "keyword": "snow man アルバム amenity",
-          "score": 92
-        },
-        {
-          "keyword": "君 の 好き は 無敵",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-12T05:11:27.514Z",
       "geo": "JP",
       "source": "google",
@@ -4839,6 +4792,53 @@
         },
         {
           "keyword": "中山秀征",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-16T03:24:58.232Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "高校野球速報",
+          "score": 100
+        },
+        {
+          "keyword": "ブルーロック モンスト",
+          "score": 99
+        },
+        {
+          "keyword": "クリストフ・ルメール",
+          "score": 98
+        },
+        {
+          "keyword": "甲子園トーナメント表最新",
+          "score": 97
+        },
+        {
+          "keyword": "甲子園 トーナメント",
+          "score": 96
+        },
+        {
+          "keyword": "高校野球速報 リアルタイム",
+          "score": 95
+        },
+        {
+          "keyword": "コミケとは",
+          "score": 94
+        },
+        {
+          "keyword": "リオネル・メッシ",
+          "score": 93
+        },
+        {
+          "keyword": "甲子園 有明",
+          "score": 92
+        },
+        {
+          "keyword": "いわき市",
           "score": 91
         }
       ]
