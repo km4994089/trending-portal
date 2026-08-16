@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-12T23:10:35.427Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이진숙",
-          "score": 100
-        },
-        {
-          "keyword": "서울역",
-          "score": 99
-        },
-        {
-          "keyword": "노동쟁의",
-          "score": 98
-        },
-        {
-          "keyword": "이투데이",
-          "score": 97
-        },
-        {
-          "keyword": "롯데렌탈",
-          "score": 96
-        },
-        {
-          "keyword": "추경호",
-          "score": 95
-        },
-        {
-          "keyword": "유혜정",
-          "score": 94
-        },
-        {
-          "keyword": "철도망",
-          "score": 93
-        },
-        {
-          "keyword": "정연",
-          "score": 92
-        },
-        {
-          "keyword": "자동차",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-13T00:05:08.784Z",
       "geo": "KR",
       "source": "google",
@@ -5826,6 +5779,53 @@
         },
         {
           "keyword": "이동국",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-16T23:40:36.453Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "염경엽",
+          "score": 100
+        },
+        {
+          "keyword": "박은혜",
+          "score": 99
+        },
+        {
+          "keyword": "우크라이나",
+          "score": 98
+        },
+        {
+          "keyword": "погода",
+          "score": 97
+        },
+        {
+          "keyword": "제니",
+          "score": 96
+        },
+        {
+          "keyword": "스포츠경향",
+          "score": 95
+        },
+        {
+          "keyword": "김종국",
+          "score": 94
+        },
+        {
+          "keyword": "thời tiết",
+          "score": 93
+        },
+        {
+          "keyword": "대체공휴일",
+          "score": 92
+        },
+        {
+          "keyword": "김승수",
           "score": 91
         }
       ]
