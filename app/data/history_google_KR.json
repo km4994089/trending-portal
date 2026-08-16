@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-12T18:13:37.022Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "운전",
-          "score": 100
-        },
-        {
-          "keyword": "국제선",
-          "score": 99
-        },
-        {
-          "keyword": "이찬원",
-          "score": 98
-        },
-        {
-          "keyword": "배재고등학교",
-          "score": 97
-        },
-        {
-          "keyword": "주진우",
-          "score": 96
-        },
-        {
-          "keyword": "정국",
-          "score": 95
-        },
-        {
-          "keyword": "더불어민주당",
-          "score": 94
-        },
-        {
-          "keyword": "이동국",
-          "score": 93
-        },
-        {
-          "keyword": "돌싱글즈",
-          "score": 92
-        },
-        {
-          "keyword": "야구순위",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-12T19:33:28.845Z",
       "geo": "KR",
       "source": "google",
@@ -5544,6 +5497,53 @@
         },
         {
           "keyword": "아스날",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-16T18:14:08.339Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "리버풀 코모",
+          "score": 100
+        },
+        {
+          "keyword": "liverpool vs como",
+          "score": 99
+        },
+        {
+          "keyword": "엘링 홀란",
+          "score": 98
+        },
+        {
+          "keyword": "레알마드리드",
+          "score": 97
+        },
+        {
+          "keyword": "schalke vs real madrid",
+          "score": 96
+        },
+        {
+          "keyword": "기소",
+          "score": 95
+        },
+        {
+          "keyword": "맷 데이먼",
+          "score": 94
+        },
+        {
+          "keyword": "바르셀로나",
+          "score": 93
+        },
+        {
+          "keyword": "프리미어리그",
+          "score": 92
+        },
+        {
+          "keyword": "삼전 닉스",
           "score": 91
         }
       ]
