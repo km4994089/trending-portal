@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-12T06:50:18.321Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "daycares",
-          "score": 100
-        },
-        {
-          "keyword": "earthquake now",
-          "score": 99
-        },
-        {
-          "keyword": "earthquake california",
-          "score": 98
-        },
-        {
-          "keyword": "booking",
-          "score": 97
-        },
-        {
-          "keyword": "tallulah willis",
-          "score": 96
-        },
-        {
-          "keyword": "jose mourinho",
-          "score": 95
-        },
-        {
-          "keyword": "raiders",
-          "score": 94
-        },
-        {
-          "keyword": "dodgers game",
-          "score": 93
-        },
-        {
-          "keyword": "seth halvorsen",
-          "score": 92
-        },
-        {
-          "keyword": "kirkland chocolate chips",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-12T08:08:45.546Z",
       "geo": "US",
       "source": "google",
@@ -5027,6 +4980,53 @@
         },
         {
           "keyword": "morales",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-16T07:07:15.335Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "meteorite",
+          "score": 100
+        },
+        {
+          "keyword": "power outage",
+          "score": 99
+        },
+        {
+          "keyword": "h-e-b",
+          "score": 98
+        },
+        {
+          "keyword": "daycare center",
+          "score": 97
+        },
+        {
+          "keyword": "5g",
+          "score": 96
+        },
+        {
+          "keyword": "romania",
+          "score": 95
+        },
+        {
+          "keyword": "central indiana floods",
+          "score": 94
+        },
+        {
+          "keyword": "inundaciones en indiana",
+          "score": 93
+        },
+        {
+          "keyword": "golden state warriors",
+          "score": 92
+        },
+        {
+          "keyword": "ke huy quan",
           "score": 91
         }
       ]
