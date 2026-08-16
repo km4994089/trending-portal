@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-12T14:13:25.971Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "飛行",
-          "score": 100
-        },
-        {
-          "keyword": "田中萌",
-          "score": 99
-        },
-        {
-          "keyword": "fc町田ゼルビア",
-          "score": 98
-        },
-        {
-          "keyword": "bsテレビ東京",
-          "score": 97
-        },
-        {
-          "keyword": "テレビ×ミセス",
-          "score": 96
-        },
-        {
-          "keyword": "insta360 x6",
-          "score": 95
-        },
-        {
-          "keyword": "王貞治",
-          "score": 94
-        },
-        {
-          "keyword": "ベッカム",
-          "score": 93
-        },
-        {
-          "keyword": "ライブドア",
-          "score": 92
-        },
-        {
-          "keyword": "風間俊介",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-12T15:26:41.724Z",
       "geo": "JP",
       "source": "google",
@@ -5403,6 +5356,53 @@
         },
         {
           "keyword": "ブルゾンちえみ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-16T14:45:21.268Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "上田綺世",
+          "score": 100
+        },
+        {
+          "keyword": "シャルケ 対 rマドリード",
+          "score": 99
+        },
+        {
+          "keyword": "ドーヴィル",
+          "score": 98
+        },
+        {
+          "keyword": "凱旋門賞",
+          "score": 97
+        },
+        {
+          "keyword": "吉岡里帆",
+          "score": 96
+        },
+        {
+          "keyword": "フアン・ソト",
+          "score": 95
+        },
+        {
+          "keyword": "佳子 内親王",
+          "score": 94
+        },
+        {
+          "keyword": "甲子園 高校野球",
+          "score": 93
+        },
+        {
+          "keyword": "熱闘甲子園",
+          "score": 92
+        },
+        {
+          "keyword": "隕石",
           "score": 91
         }
       ]
