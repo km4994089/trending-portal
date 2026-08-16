@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-12T11:38:33.118Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "홍현희",
-          "score": 100
-        },
-        {
-          "keyword": "김상식",
-          "score": 99
-        },
-        {
-          "keyword": "lg그룹",
-          "score": 98
-        },
-        {
-          "keyword": "朱镕基",
-          "score": 97
-        },
-        {
-          "keyword": "키",
-          "score": 96
-        },
-        {
-          "keyword": "티빙",
-          "score": 95
-        },
-        {
-          "keyword": "헬멧",
-          "score": 94
-        },
-        {
-          "keyword": "안판석",
-          "score": 93
-        },
-        {
-          "keyword": "고독사",
-          "score": 92
-        },
-        {
-          "keyword": "한강버스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-12T12:43:05.492Z",
       "geo": "KR",
       "source": "google",
@@ -5262,6 +5215,53 @@
         },
         {
           "keyword": "한화 대 삼성",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-16T11:41:49.263Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "송혜교",
+          "score": 100
+        },
+        {
+          "keyword": "김지은",
+          "score": 99
+        },
+        {
+          "keyword": "lck",
+          "score": 98
+        },
+        {
+          "keyword": "최민희",
+          "score": 97
+        },
+        {
+          "keyword": "도란",
+          "score": 96
+        },
+        {
+          "keyword": "xsmn",
+          "score": 95
+        },
+        {
+          "keyword": "딴지",
+          "score": 94
+        },
+        {
+          "keyword": "울산 대 강원",
+          "score": 93
+        },
+        {
+          "keyword": "인천 대 김천상무",
+          "score": 92
+        },
+        {
+          "keyword": "손해배상",
           "score": 91
         }
       ]
