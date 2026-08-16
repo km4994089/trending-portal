@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-12T09:36:47.564Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "택시",
-          "score": 100
-        },
-        {
-          "keyword": "김승연",
-          "score": 99
-        },
-        {
-          "keyword": "대우건설",
-          "score": 98
-        },
-        {
-          "keyword": "전력",
-          "score": 97
-        },
-        {
-          "keyword": "태풍 찬홈 경로",
-          "score": 96
-        },
-        {
-          "keyword": "유주상",
-          "score": 95
-        },
-        {
-          "keyword": "삼성동 화재",
-          "score": 94
-        },
-        {
-          "keyword": "트로트",
-          "score": 93
-        },
-        {
-          "keyword": "왕옌청",
-          "score": 92
-        },
-        {
-          "keyword": "염경엽",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-12T10:50:38.910Z",
       "geo": "KR",
       "source": "google",
@@ -5168,6 +5121,53 @@
         },
         {
           "keyword": "매일경제",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-16T09:48:32.588Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lg 트윈스",
+          "score": 100
+        },
+        {
+          "keyword": "빅터 레이예스",
+          "score": 99
+        },
+        {
+          "keyword": "정규직",
+          "score": 98
+        },
+        {
+          "keyword": "qqqi",
+          "score": 97
+        },
+        {
+          "keyword": "국제선",
+          "score": 96
+        },
+        {
+          "keyword": "항공사",
+          "score": 95
+        },
+        {
+          "keyword": "숲",
+          "score": 94
+        },
+        {
+          "keyword": "이상호",
+          "score": 93
+        },
+        {
+          "keyword": "치지직",
+          "score": 92
+        },
+        {
+          "keyword": "fc 서울 대 대전",
           "score": 91
         }
       ]

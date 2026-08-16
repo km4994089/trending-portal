@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-12T09:36:46.779Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "accident",
-          "score": 100
-        },
-        {
-          "keyword": "mrbeast",
-          "score": 99
-        },
-        {
-          "keyword": "'i go by secret service': trump explains air force one switch",
-          "score": 98
-        },
-        {
-          "keyword": "wkyt",
-          "score": 97
-        },
-        {
-          "keyword": "montauk",
-          "score": 96
-        },
-        {
-          "keyword": "flock camera map",
-          "score": 95
-        },
-        {
-          "keyword": "daycares",
-          "score": 94
-        },
-        {
-          "keyword": "earthquake now",
-          "score": 93
-        },
-        {
-          "keyword": "earthquake corona",
-          "score": 92
-        },
-        {
-          "keyword": "tallulah willis",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-12T10:50:37.925Z",
       "geo": "US",
       "source": "google",
@@ -5168,6 +5121,53 @@
         },
         {
           "keyword": "central indiana floods",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-16T09:48:31.569Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "chad hickman",
+          "score": 100
+        },
+        {
+          "keyword": "shameless",
+          "score": 99
+        },
+        {
+          "keyword": "plummer",
+          "score": 98
+        },
+        {
+          "keyword": "牛来",
+          "score": 97
+        },
+        {
+          "keyword": "meteorite",
+          "score": 96
+        },
+        {
+          "keyword": "h-e-b",
+          "score": 95
+        },
+        {
+          "keyword": "daycare center",
+          "score": 94
+        },
+        {
+          "keyword": "power outage",
+          "score": 93
+        },
+        {
+          "keyword": "5g",
+          "score": 92
+        },
+        {
+          "keyword": "romania",
           "score": 91
         }
       ]
