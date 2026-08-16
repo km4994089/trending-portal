@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-12T20:32:25.095Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "แมนยู พบ ลีดส์",
-          "score": 100
-        },
-        {
-          "keyword": "man united vs leeds",
-          "score": 99
-        },
-        {
-          "keyword": "맨유",
-          "score": 98
-        },
-        {
-          "keyword": "man utd đấu với leeds",
-          "score": 97
-        },
-        {
-          "keyword": "psg 대 애스턴 빌라",
-          "score": 96
-        },
-        {
-          "keyword": "데포르티보 대 레알 마드리드",
-          "score": 95
-        },
-        {
-          "keyword": "watch",
-          "score": 94
-        },
-        {
-          "keyword": "아스널 대 코모",
-          "score": 93
-        },
-        {
-          "keyword": "맨유 대 리즈 유나이티드",
-          "score": 92
-        },
-        {
-          "keyword": "운전",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-12T21:34:42.828Z",
       "geo": "KR",
       "source": "google",
@@ -5685,6 +5638,53 @@
         },
         {
           "keyword": "바르셀로나",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-16T20:44:25.072Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "psg",
+          "score": 100
+        },
+        {
+          "keyword": "김민석",
+          "score": 99
+        },
+        {
+          "keyword": "김주하",
+          "score": 98
+        },
+        {
+          "keyword": "조지나 로드리게스",
+          "score": 97
+        },
+        {
+          "keyword": "거제",
+          "score": 96
+        },
+        {
+          "keyword": "폴란드",
+          "score": 95
+        },
+        {
+          "keyword": "리버풀 코모",
+          "score": 94
+        },
+        {
+          "keyword": "liverpool vs como",
+          "score": 93
+        },
+        {
+          "keyword": "엘링 홀란",
+          "score": 92
+        },
+        {
+          "keyword": "레알마드리드",
           "score": 91
         }
       ]
