@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-12T22:29:41.337Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "タイガース 対 ガーディアンズ",
-          "score": 100
-        },
-        {
-          "keyword": "今井達也",
-          "score": 99
-        },
-        {
-          "keyword": "マーリンズ 対 パイレーツ",
-          "score": 98
-        },
-        {
-          "keyword": "具志堅用高",
-          "score": 97
-        },
-        {
-          "keyword": "ハンドボール",
-          "score": 96
-        },
-        {
-          "keyword": "ブライアン・マジョ",
-          "score": 95
-        },
-        {
-          "keyword": "神奈川 天気",
-          "score": 94
-        },
-        {
-          "keyword": "ラッセルウェストブルック",
-          "score": 93
-        },
-        {
-          "keyword": "マイルズ・マイコラス",
-          "score": 92
-        },
-        {
-          "keyword": "レビット報道官",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-12T23:10:36.371Z",
       "geo": "JP",
       "source": "google",
@@ -5779,6 +5732,53 @@
         },
         {
           "keyword": "天気予報 福岡",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-16T22:43:39.506Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "秋田市天気",
+          "score": 100
+        },
+        {
+          "keyword": "千賀滉大",
+          "score": 99
+        },
+        {
+          "keyword": "earthquake",
+          "score": 98
+        },
+        {
+          "keyword": "介護",
+          "score": 97
+        },
+        {
+          "keyword": "breakingdown",
+          "score": 96
+        },
+        {
+          "keyword": "長野市天気",
+          "score": 95
+        },
+        {
+          "keyword": "コミケとは",
+          "score": 94
+        },
+        {
+          "keyword": "claude",
+          "score": 93
+        },
+        {
+          "keyword": "iss",
+          "score": 92
+        },
+        {
+          "keyword": "ジェイク・バウアーズ",
           "score": 91
         }
       ]
