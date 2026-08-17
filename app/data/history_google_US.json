@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-13T11:38:42.887Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "extreme heat warning",
-          "score": 100
-        },
-        {
-          "keyword": "mortgage news daily",
-          "score": 99
-        },
-        {
-          "keyword": "nh lottery",
-          "score": 98
-        },
-        {
-          "keyword": "silencer",
-          "score": 97
-        },
-        {
-          "keyword": "paul skenes",
-          "score": 96
-        },
-        {
-          "keyword": "lotto winning numbers",
-          "score": 95
-        },
-        {
-          "keyword": "count binface",
-          "score": 94
-        },
-        {
-          "keyword": "kcci radar",
-          "score": 93
-        },
-        {
-          "keyword": "wayne rooney",
-          "score": 92
-        },
-        {
-          "keyword": "aiden craig marine",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-13T12:44:09.924Z",
       "geo": "US",
       "source": "google",
@@ -6108,6 +6061,53 @@
         },
         {
           "keyword": "tiempo de hoy",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-17T11:47:01.128Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "oman",
+          "score": 100
+        },
+        {
+          "keyword": "jonas vingegaard",
+          "score": 99
+        },
+        {
+          "keyword": "dominic sessa",
+          "score": 98
+        },
+        {
+          "keyword": "the great british bake off",
+          "score": 97
+        },
+        {
+          "keyword": "dollywood",
+          "score": 96
+        },
+        {
+          "keyword": "hawaii hurricane lala",
+          "score": 95
+        },
+        {
+          "keyword": "bb28 head of household spoilers",
+          "score": 94
+        },
+        {
+          "keyword": "sydney sweeney",
+          "score": 93
+        },
+        {
+          "keyword": "who qualified for the bmw championship",
+          "score": 92
+        },
+        {
+          "keyword": "justin hartley",
           "score": 91
         }
       ]
