@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-13T09:37:37.412Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김밥",
-          "score": 100
-        },
-        {
-          "keyword": "탄도 미사일",
-          "score": 99
-        },
-        {
-          "keyword": "손승원",
-          "score": 98
-        },
-        {
-          "keyword": "캐럴 라인 레빗",
-          "score": 97
-        },
-        {
-          "keyword": "황희찬",
-          "score": 96
-        },
-        {
-          "keyword": "전범선",
-          "score": 95
-        },
-        {
-          "keyword": "강서구",
-          "score": 94
-        },
-        {
-          "keyword": "009150",
-          "score": 93
-        },
-        {
-          "keyword": "공희용",
-          "score": 92
-        },
-        {
-          "keyword": "저비용 항공사",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-13T10:52:45.206Z",
       "geo": "KR",
       "source": "google",
@@ -6061,6 +6014,53 @@
         },
         {
           "keyword": "이현이",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-17T10:05:43.753Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "부모",
+          "score": 100
+        },
+        {
+          "keyword": "조 째즈",
+          "score": 99
+        },
+        {
+          "keyword": "상도동",
+          "score": 98
+        },
+        {
+          "keyword": "김시우",
+          "score": 97
+        },
+        {
+          "keyword": "사건",
+          "score": 96
+        },
+        {
+          "keyword": "홍인규",
+          "score": 95
+        },
+        {
+          "keyword": "은행원",
+          "score": 94
+        },
+        {
+          "keyword": "sk하이닉스",
+          "score": 93
+        },
+        {
+          "keyword": "세계 선수권 대회",
+          "score": 92
+        },
+        {
+          "keyword": "포항시",
           "score": 91
         }
       ]
