@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-13T22:08:49.749Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "吉田正尚",
-          "score": 100
-        },
-        {
-          "keyword": "朝マック",
-          "score": 99
-        },
-        {
-          "keyword": "三振",
-          "score": 98
-        },
-        {
-          "keyword": "リッチー・ブラックモア",
-          "score": 97
-        },
-        {
-          "keyword": "グーグル pixel watch 5",
-          "score": 96
-        },
-        {
-          "keyword": "icc",
-          "score": 95
-        },
-        {
-          "keyword": "今日の天気 東京",
-          "score": 94
-        },
-        {
-          "keyword": "日本銀行",
-          "score": 93
-        },
-        {
-          "keyword": "平木 理化",
-          "score": 92
-        },
-        {
-          "keyword": "奈良新聞",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-13T23:09:50.916Z",
       "geo": "JP",
       "source": "google",
@@ -6531,6 +6484,53 @@
         },
         {
           "keyword": "ゴゴスマ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-17T22:13:21.374Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "乙支フリーダムシールド",
+          "score": 100
+        },
+        {
+          "keyword": "石川遼",
+          "score": 99
+        },
+        {
+          "keyword": "ワールドオールスタージョッキーズ",
+          "score": 98
+        },
+        {
+          "keyword": "フィリーズ 対 マーリンズ",
+          "score": 97
+        },
+        {
+          "keyword": "韓国",
+          "score": 96
+        },
+        {
+          "keyword": "ジャンプgiga 2026 summer toloveる",
+          "score": 95
+        },
+        {
+          "keyword": "高橋文哉",
+          "score": 94
+        },
+        {
+          "keyword": "韓国ドラマ",
+          "score": 93
+        },
+        {
+          "keyword": "麻生太郎",
+          "score": 92
+        },
+        {
+          "keyword": "西村和彦",
           "score": 91
         }
       ]
