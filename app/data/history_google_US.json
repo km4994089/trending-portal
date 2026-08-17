@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-13T23:09:48.598Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nfl",
-          "score": 100
-        },
-        {
-          "keyword": "new york city vs necaxa",
-          "score": 99
-        },
-        {
-          "keyword": "muerte",
-          "score": 98
-        },
-        {
-          "keyword": "boeing 737 ryanair engine damage",
-          "score": 97
-        },
-        {
-          "keyword": "packers depth chart",
-          "score": 96
-        },
-        {
-          "keyword": "cbs",
-          "score": 95
-        },
-        {
-          "keyword": "santos",
-          "score": 94
-        },
-        {
-          "keyword": "pre season football",
-          "score": 93
-        },
-        {
-          "keyword": "angel reese stats",
-          "score": 92
-        },
-        {
-          "keyword": "don mattingly",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-14T00:04:56.464Z",
       "geo": "US",
       "source": "google",
@@ -6578,6 +6531,53 @@
         },
         {
           "keyword": "owen miller",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-17T23:13:04.574Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "emma navarro",
+          "score": 100
+        },
+        {
+          "keyword": "ketel marte",
+          "score": 99
+        },
+        {
+          "keyword": "alejandro tabilo",
+          "score": 98
+        },
+        {
+          "keyword": "braves vs twins",
+          "score": 97
+        },
+        {
+          "keyword": "athletics vs royals",
+          "score": 96
+        },
+        {
+          "keyword": "mt etna",
+          "score": 95
+        },
+        {
+          "keyword": "harrison ford",
+          "score": 94
+        },
+        {
+          "keyword": "serena williams",
+          "score": 93
+        },
+        {
+          "keyword": "yankees news",
+          "score": 92
+        },
+        {
+          "keyword": "trump lifeguard",
           "score": 91
         }
       ]
