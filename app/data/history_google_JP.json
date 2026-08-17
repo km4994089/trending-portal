@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-13T10:52:46.373Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "明日の天気 東京",
-          "score": 100
-        },
-        {
-          "keyword": "女子バスケ日本代表",
-          "score": 99
-        },
-        {
-          "keyword": "風速",
-          "score": 98
-        },
-        {
-          "keyword": "増田貴久",
-          "score": 97
-        },
-        {
-          "keyword": "毒蛇",
-          "score": 96
-        },
-        {
-          "keyword": "プレバト",
-          "score": 95
-        },
-        {
-          "keyword": "ヤマカツエース",
-          "score": 94
-        },
-        {
-          "keyword": "阪神タイガース 速報",
-          "score": 93
-        },
-        {
-          "keyword": "中条あやみ",
-          "score": 92
-        },
-        {
-          "keyword": "雨",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-13T11:38:45.453Z",
       "geo": "JP",
       "source": "google",
@@ -6061,6 +6014,53 @@
         },
         {
           "keyword": "アジア 選手権",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-17T10:54:03.685Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "高橋成美",
+          "score": 100
+        },
+        {
+          "keyword": "漆",
+          "score": 99
+        },
+        {
+          "keyword": "堀田真由",
+          "score": 98
+        },
+        {
+          "keyword": "立石正広",
+          "score": 97
+        },
+        {
+          "keyword": "清宮幸太郎",
+          "score": 96
+        },
+        {
+          "keyword": "ジュニア",
+          "score": 95
+        },
+        {
+          "keyword": "寺田心 ボディビル",
+          "score": 94
+        },
+        {
+          "keyword": "近藤健介",
+          "score": 93
+        },
+        {
+          "keyword": "重岡 大 毅",
+          "score": 92
+        },
+        {
+          "keyword": "相席食堂",
           "score": 91
         }
       ]
