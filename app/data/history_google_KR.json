@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-13T12:44:10.926Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "weather tomorrow",
-          "score": 100
-        },
-        {
-          "keyword": "thời tiết ngày mai",
-          "score": 99
-        },
-        {
-          "keyword": "개헌",
-          "score": 98
-        },
-        {
-          "keyword": "보스턴다이내믹스",
-          "score": 97
-        },
-        {
-          "keyword": "일본 엔",
-          "score": 96
-        },
-        {
-          "keyword": "아이린",
-          "score": 95
-        },
-        {
-          "keyword": "개인종합자산관리계좌",
-          "score": 94
-        },
-        {
-          "keyword": "황정민 폭로녀",
-          "score": 93
-        },
-        {
-          "keyword": "전환사채",
-          "score": 92
-        },
-        {
-          "keyword": "심우정",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-13T14:15:16.504Z",
       "geo": "KR",
       "source": "google",
@@ -6155,6 +6108,53 @@
         },
         {
           "keyword": "부모",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-17T13:14:00.300Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "도지코인",
+          "score": 100
+        },
+        {
+          "keyword": "가요무대",
+          "score": 99
+        },
+        {
+          "keyword": "최수종",
+          "score": 98
+        },
+        {
+          "keyword": "김상욱",
+          "score": 97
+        },
+        {
+          "keyword": "iphone 17 pro",
+          "score": 96
+        },
+        {
+          "keyword": "니콜 키드먼",
+          "score": 95
+        },
+        {
+          "keyword": "로봇",
+          "score": 94
+        },
+        {
+          "keyword": "김태선",
+          "score": 93
+        },
+        {
+          "keyword": "openai",
+          "score": 92
+        },
+        {
+          "keyword": "신세계",
           "score": 91
         }
       ]
