@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-13T15:28:12.840Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "학교",
-          "score": 100
-        },
-        {
-          "keyword": "행동",
-          "score": 99
-        },
-        {
-          "keyword": "캐나다",
-          "score": 98
-        },
-        {
-          "keyword": "세르비아 축구 국가대표팀",
-          "score": 97
-        },
-        {
-          "keyword": "데이브 로버츠",
-          "score": 96
-        },
-        {
-          "keyword": "기아타이거즈",
-          "score": 95
-        },
-        {
-          "keyword": "하영 엄마",
-          "score": 94
-        },
-        {
-          "keyword": "약사",
-          "score": 93
-        },
-        {
-          "keyword": "새미래민주당",
-          "score": 92
-        },
-        {
-          "keyword": "분권 형 개헌",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-13T16:23:57.680Z",
       "geo": "KR",
       "source": "google",
@@ -6296,6 +6249,53 @@
         },
         {
           "keyword": "왕과 사는 남자",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-17T15:46:43.623Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "창원시장",
+          "score": 100
+        },
+        {
+          "keyword": "이진",
+          "score": 99
+        },
+        {
+          "keyword": "나이스",
+          "score": 98
+        },
+        {
+          "keyword": "선박",
+          "score": 97
+        },
+        {
+          "keyword": "차두리",
+          "score": 96
+        },
+        {
+          "keyword": "손담비",
+          "score": 95
+        },
+        {
+          "keyword": "새마을금고",
+          "score": 94
+        },
+        {
+          "keyword": "kick",
+          "score": 93
+        },
+        {
+          "keyword": "면허",
+          "score": 92
+        },
+        {
+          "keyword": "케스파",
           "score": 91
         }
       ]
