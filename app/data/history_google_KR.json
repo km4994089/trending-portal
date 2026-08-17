@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-13T06:53:43.737Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "버스",
-          "score": 100
-        },
-        {
-          "keyword": "강원 fc",
-          "score": 99
-        },
-        {
-          "keyword": "홈플러스 재개장",
-          "score": 98
-        },
-        {
-          "keyword": "서울 도심",
-          "score": 97
-        },
-        {
-          "keyword": "왕 싱싱",
-          "score": 96
-        },
-        {
-          "keyword": "슈퍼맨이 돌아왔다",
-          "score": 95
-        },
-        {
-          "keyword": "박덕흠",
-          "score": 94
-        },
-        {
-          "keyword": "엘에이 fc",
-          "score": 93
-        },
-        {
-          "keyword": "로스앤젤레스 fc 대 케레타로 fc 순위",
-          "score": 92
-        },
-        {
-          "keyword": "죽음",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-13T08:10:45.053Z",
       "geo": "KR",
       "source": "google",
@@ -6014,6 +5967,53 @@
         },
         {
           "keyword": "김영익",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-17T07:43:08.279Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "안나",
+          "score": 100
+        },
+        {
+          "keyword": "대의원",
+          "score": 99
+        },
+        {
+          "keyword": "코오롱티슈진",
+          "score": 98
+        },
+        {
+          "keyword": "유학생",
+          "score": 97
+        },
+        {
+          "keyword": "매일경제신문",
+          "score": 96
+        },
+        {
+          "keyword": "경상북도",
+          "score": 95
+        },
+        {
+          "keyword": "솔로지옥 5",
+          "score": 94
+        },
+        {
+          "keyword": "알렉산더 볼카노프스키",
+          "score": 93
+        },
+        {
+          "keyword": "임신",
+          "score": 92
+        },
+        {
+          "keyword": "어벤져스: 둠스데이",
           "score": 91
         }
       ]
