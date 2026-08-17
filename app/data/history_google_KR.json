@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-13T17:25:31.103Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dc",
-          "score": 100
-        },
-        {
-          "keyword": "기쁜 우리 좋은 날",
-          "score": 99
-        },
-        {
-          "keyword": "사랑 이 온다",
-          "score": 98
-        },
-        {
-          "keyword": "삼계탕 사발면",
-          "score": 97
-        },
-        {
-          "keyword": "학교",
-          "score": 96
-        },
-        {
-          "keyword": "행동",
-          "score": 95
-        },
-        {
-          "keyword": "캐나다",
-          "score": 94
-        },
-        {
-          "keyword": "세르비아 축구 국가대표팀",
-          "score": 93
-        },
-        {
-          "keyword": "데이브 로버츠",
-          "score": 92
-        },
-        {
-          "keyword": "기아타이거즈",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-13T18:14:05.077Z",
       "geo": "KR",
       "source": "google",
@@ -6390,6 +6343,53 @@
         },
         {
           "keyword": "손담비",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-17T17:51:42.540Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "fc온라인",
+          "score": 100
+        },
+        {
+          "keyword": "넥슨",
+          "score": 99
+        },
+        {
+          "keyword": "브루스 윌리스",
+          "score": 98
+        },
+        {
+          "keyword": "어쌔신 크리드 오디세이",
+          "score": 97
+        },
+        {
+          "keyword": "어벤져스 둠스데이",
+          "score": 96
+        },
+        {
+          "keyword": "황현민",
+          "score": 95
+        },
+        {
+          "keyword": "창원시장",
+          "score": 94
+        },
+        {
+          "keyword": "이진",
+          "score": 93
+        },
+        {
+          "keyword": "나이스",
+          "score": 92
+        },
+        {
+          "keyword": "선박",
           "score": 91
         }
       ]
