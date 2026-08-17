@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-13T21:22:06.920Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "奈良新聞",
-          "score": 100
-        },
-        {
-          "keyword": "付録",
-          "score": 99
-        },
-        {
-          "keyword": "ウエザーニュース",
-          "score": 98
-        },
-        {
-          "keyword": "山梨 天気",
-          "score": 97
-        },
-        {
-          "keyword": "村上宗隆",
-          "score": 96
-        },
-        {
-          "keyword": "ドラマ10",
-          "score": 95
-        },
-        {
-          "keyword": "レビット報道官",
-          "score": 94
-        },
-        {
-          "keyword": "郡司裕也",
-          "score": 93
-        },
-        {
-          "keyword": "オールスター競輪",
-          "score": 92
-        },
-        {
-          "keyword": "高知 水難事故",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-13T22:08:49.749Z",
       "geo": "JP",
       "source": "google",
@@ -6531,6 +6484,53 @@
         },
         {
           "keyword": "新潟 県警 警務 部長",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-17T21:47:09.380Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "投資",
+          "score": 100
+        },
+        {
+          "keyword": "レアル マドリード",
+          "score": 99
+        },
+        {
+          "keyword": "ウマ娘 ローソン",
+          "score": 98
+        },
+        {
+          "keyword": "レイズ 対 オリオールズ",
+          "score": 97
+        },
+        {
+          "keyword": "配当",
+          "score": 96
+        },
+        {
+          "keyword": "旭川 天気",
+          "score": 95
+        },
+        {
+          "keyword": "マンジャロ",
+          "score": 94
+        },
+        {
+          "keyword": "金",
+          "score": 93
+        },
+        {
+          "keyword": "24 時間 テレビ 愛 は 地球 を 救う",
+          "score": 92
+        },
+        {
+          "keyword": "ゴゴスマ",
           "score": 91
         }
       ]
