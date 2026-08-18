@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-14T20:52:33.675Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cubs score",
-          "score": 100
-        },
-        {
-          "keyword": "san antonio weather",
-          "score": 99
-        },
-        {
-          "keyword": "nuno borges",
-          "score": 98
-        },
-        {
-          "keyword": "spacex news",
-          "score": 97
-        },
-        {
-          "keyword": "kate middleton",
-          "score": 96
-        },
-        {
-          "keyword": "susan olsen",
-          "score": 95
-        },
-        {
-          "keyword": "jerry jones",
-          "score": 94
-        },
-        {
-          "keyword": "seiya suzuki",
-          "score": 93
-        },
-        {
-          "keyword": "pypl stock",
-          "score": 92
-        },
-        {
-          "keyword": "la liga",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-14T21:15:33.949Z",
       "geo": "US",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "coco gauff",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-18T21:14:04.941Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "guy ritchie",
+          "score": 100
+        },
+        {
+          "keyword": "curtis brown",
+          "score": 99
+        },
+        {
+          "keyword": "deportation",
+          "score": 98
+        },
+        {
+          "keyword": "trump ballroom legal challenge",
+          "score": 97
+        },
+        {
+          "keyword": "uconn huskies women's basketball",
+          "score": 96
+        },
+        {
+          "keyword": "granada",
+          "score": 95
+        },
+        {
+          "keyword": "lake mead",
+          "score": 94
+        },
+        {
+          "keyword": "embargo",
+          "score": 93
+        },
+        {
+          "keyword": "lisa rinna",
+          "score": 92
+        },
+        {
+          "keyword": "dee snider",
           "score": 91
         }
       ]
