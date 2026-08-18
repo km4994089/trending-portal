@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-14T16:11:43.869Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "stefanos tsitsipas",
-          "score": 100
-        },
-        {
-          "keyword": "isaac teslaa",
-          "score": 99
-        },
-        {
-          "keyword": "gold",
-          "score": 98
-        },
-        {
-          "keyword": "community shield",
-          "score": 97
-        },
-        {
-          "keyword": "games",
-          "score": 96
-        },
-        {
-          "keyword": "dee snider ozzy osbourne",
-          "score": 95
-        },
-        {
-          "keyword": "steelers backup quarterback battle",
-          "score": 94
-        },
-        {
-          "keyword": "soccer",
-          "score": 93
-        },
-        {
-          "keyword": "mangione",
-          "score": 92
-        },
-        {
-          "keyword": "doodle",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-14T17:23:36.610Z",
       "geo": "US",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "trey mancini",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-18T16:25:01.804Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "amc",
+          "score": 100
+        },
+        {
+          "keyword": "slides",
+          "score": 99
+        },
+        {
+          "keyword": "windows 10",
+          "score": 98
+        },
+        {
+          "keyword": "patricia heaton",
+          "score": 97
+        },
+        {
+          "keyword": "kateřina siniaková",
+          "score": 96
+        },
+        {
+          "keyword": "pbs",
+          "score": 95
+        },
+        {
+          "keyword": "imax dune 3",
+          "score": 94
+        },
+        {
+          "keyword": "venezuela",
+          "score": 93
+        },
+        {
+          "keyword": "fandango",
+          "score": 92
+        },
+        {
+          "keyword": "bill rasmussen",
           "score": 91
         }
       ]
