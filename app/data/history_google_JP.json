@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-14T19:25:20.832Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ブルネイ国王",
-          "score": 100
-        },
-        {
-          "keyword": "台湾",
-          "score": 99
-        },
-        {
-          "keyword": "spotify",
-          "score": 98
-        },
-        {
-          "keyword": "東京",
-          "score": 97
-        },
-        {
-          "keyword": "gao",
-          "score": 96
-        },
-        {
-          "keyword": "ジェミニ",
-          "score": 95
-        },
-        {
-          "keyword": "桜井ユキ",
-          "score": 94
-        },
-        {
-          "keyword": "オールナイトニッポン",
-          "score": 93
-        },
-        {
-          "keyword": "永瀬廉",
-          "score": 92
-        },
-        {
-          "keyword": "栃木 銀行 本店",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-14T20:01:18.530Z",
       "geo": "JP",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "ブレイキングダウン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-18T19:46:37.912Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "韓国",
+          "score": 100
+        },
+        {
+          "keyword": "張凌赫",
+          "score": 99
+        },
+        {
+          "keyword": "辺野古",
+          "score": 98
+        },
+        {
+          "keyword": "窃盗",
+          "score": 97
+        },
+        {
+          "keyword": "明石家さんま",
+          "score": 96
+        },
+        {
+          "keyword": "織田 裕二",
+          "score": 95
+        },
+        {
+          "keyword": "world cup schedule",
+          "score": 94
+        },
+        {
+          "keyword": "朴ロ美",
+          "score": 93
+        },
+        {
+          "keyword": "秋篠宮 パラグアイ",
+          "score": 92
+        },
+        {
+          "keyword": "超特急 タカシ",
           "score": 91
         }
       ]
