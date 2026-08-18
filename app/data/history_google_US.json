@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-14T18:12:39.755Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "earth",
-          "score": 100
-        },
-        {
-          "keyword": "matteo berrettini",
-          "score": 99
-        },
-        {
-          "keyword": "seat geek",
-          "score": 98
-        },
-        {
-          "keyword": "savannah bananas denver",
-          "score": 97
-        },
-        {
-          "keyword": "st jude leaderboard",
-          "score": 96
-        },
-        {
-          "keyword": "venus williams",
-          "score": 95
-        },
-        {
-          "keyword": "grigor dimitrov",
-          "score": 94
-        },
-        {
-          "keyword": "maya joint",
-          "score": 93
-        },
-        {
-          "keyword": "shannon elizabeth",
-          "score": 92
-        },
-        {
-          "keyword": "al-hilal vs al-faisaly",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-14T19:25:18.350Z",
       "geo": "US",
       "source": "google",
@@ -7283,6 +7236,53 @@
         },
         {
           "keyword": "cam skattebo",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-18T18:22:02.836Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cambridge professor jason arday",
+          "score": 100
+        },
+        {
+          "keyword": "costco medicare",
+          "score": 99
+        },
+        {
+          "keyword": "the elder scrolls vi",
+          "score": 98
+        },
+        {
+          "keyword": "aircraft carrier",
+          "score": 97
+        },
+        {
+          "keyword": "diriyah vs al-nassr",
+          "score": 96
+        },
+        {
+          "keyword": "lorenzo musetti",
+          "score": 95
+        },
+        {
+          "keyword": "taylor fritz",
+          "score": 94
+        },
+        {
+          "keyword": "tyler biadasz",
+          "score": 93
+        },
+        {
+          "keyword": "mirra andreeva",
+          "score": 92
+        },
+        {
+          "keyword": "asu",
           "score": 91
         }
       ]
