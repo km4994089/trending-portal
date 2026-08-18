@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-14T10:48:29.886Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이상화",
-          "score": 100
-        },
-        {
-          "keyword": "서울 날씨",
-          "score": 99
-        },
-        {
-          "keyword": "용산산호아파트",
-          "score": 98
-        },
-        {
-          "keyword": "제럴드 r 포드 급 항공 모함",
-          "score": 97
-        },
-        {
-          "keyword": "애플",
-          "score": 96
-        },
-        {
-          "keyword": "경마",
-          "score": 95
-        },
-        {
-          "keyword": "나탈리 하프",
-          "score": 94
-        },
-        {
-          "keyword": "휘발유",
-          "score": 93
-        },
-        {
-          "keyword": "nc 대 롯데",
-          "score": 92
-        },
-        {
-          "keyword": "ssg 대 lg",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-14T11:36:40.698Z",
       "geo": "KR",
       "source": "google",
@@ -7001,6 +6954,53 @@
         },
         {
           "keyword": "kdb생명",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-18T10:52:50.487Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "주식",
+          "score": 100
+        },
+        {
+          "keyword": "야구",
+          "score": 99
+        },
+        {
+          "keyword": "김원효",
+          "score": 98
+        },
+        {
+          "keyword": "김숙",
+          "score": 97
+        },
+        {
+          "keyword": "삼성 갤럭시s26",
+          "score": 96
+        },
+        {
+          "keyword": "이마트 트레이더 스",
+          "score": 95
+        },
+        {
+          "keyword": "버스",
+          "score": 94
+        },
+        {
+          "keyword": "이효리",
+          "score": 93
+        },
+        {
+          "keyword": "kt 대 lg",
+          "score": 92
+        },
+        {
+          "keyword": "권칠승",
           "score": 91
         }
       ]

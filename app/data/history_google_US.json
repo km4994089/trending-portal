@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-14T10:48:28.400Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "crime",
-          "score": 100
-        },
-        {
-          "keyword": "new jersey",
-          "score": 99
-        },
-        {
-          "keyword": "tropics",
-          "score": 98
-        },
-        {
-          "keyword": "angel reese",
-          "score": 97
-        },
-        {
-          "keyword": "dave bautista",
-          "score": 96
-        },
-        {
-          "keyword": "nausheen gilkar and omar ahmed",
-          "score": 95
-        },
-        {
-          "keyword": "fidelity investments",
-          "score": 94
-        },
-        {
-          "keyword": "have i been flocked",
-          "score": 93
-        },
-        {
-          "keyword": "aviso de calor",
-          "score": 92
-        },
-        {
-          "keyword": "skip bertman",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-14T11:36:39.340Z",
       "geo": "US",
       "source": "google",
@@ -7001,6 +6954,53 @@
         },
         {
           "keyword": "california high-speed rail",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-18T10:52:49.494Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "general atomics mq-9 reaper losses",
+          "score": 100
+        },
+        {
+          "keyword": "airtag",
+          "score": 99
+        },
+        {
+          "keyword": "din thomas",
+          "score": 98
+        },
+        {
+          "keyword": "angie nixon",
+          "score": 97
+        },
+        {
+          "keyword": "marvel avengers doomsday",
+          "score": 96
+        },
+        {
+          "keyword": "philadelphia flyers",
+          "score": 95
+        },
+        {
+          "keyword": "dave ramsey",
+          "score": 94
+        },
+        {
+          "keyword": "weather new york",
+          "score": 93
+        },
+        {
+          "keyword": "flock safety license plate lookup",
+          "score": 92
+        },
+        {
+          "keyword": "detroit red wings",
           "score": 91
         }
       ]
