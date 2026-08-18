@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-14T00:04:58.701Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "免許返納 映画",
-          "score": 100
-        },
-        {
-          "keyword": "岩井千怜",
-          "score": 99
-        },
-        {
-          "keyword": "植松聖",
-          "score": 98
-        },
-        {
-          "keyword": "アジ",
-          "score": 97
-        },
-        {
-          "keyword": "圏央道 通行止め",
-          "score": 96
-        },
-        {
-          "keyword": "フィールドオブドリームス",
-          "score": 95
-        },
-        {
-          "keyword": "セブン&アイ・ホールディングス",
-          "score": 94
-        },
-        {
-          "keyword": "バレーボールアジア選手権",
-          "score": 93
-        },
-        {
-          "keyword": "風薫る",
-          "score": 92
-        },
-        {
-          "keyword": "片岡凜",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-14T03:04:58.939Z",
       "geo": "JP",
       "source": "google",
@@ -6625,6 +6578,53 @@
         },
         {
           "keyword": "出場停止",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-18T00:37:44.657Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "パドレス",
+          "score": 100
+        },
+        {
+          "keyword": "王位戦",
+          "score": 99
+        },
+        {
+          "keyword": "天理",
+          "score": 98
+        },
+        {
+          "keyword": "高校野球 ライブ",
+          "score": 97
+        },
+        {
+          "keyword": "天理高校 甲子園",
+          "score": 96
+        },
+        {
+          "keyword": "アンソロピック",
+          "score": 95
+        },
+        {
+          "keyword": "富山グラウジーズ",
+          "score": 94
+        },
+        {
+          "keyword": "別班饅頭",
+          "score": 93
+        },
+        {
+          "keyword": "ipo",
+          "score": 92
+        },
+        {
+          "keyword": "ロッキーズ 対 ドジャース",
           "score": 91
         }
       ]

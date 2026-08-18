@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-14T00:04:57.583Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "투표율",
-          "score": 100
-        },
-        {
-          "keyword": "오디세이",
-          "score": 99
-        },
-        {
-          "keyword": "유리",
-          "score": 98
-        },
-        {
-          "keyword": "드라간 스토이코비치",
-          "score": 97
-        },
-        {
-          "keyword": "이가 시비옹테크",
-          "score": 96
-        },
-        {
-          "keyword": "윤영철",
-          "score": 95
-        },
-        {
-          "keyword": "전세사기",
-          "score": 94
-        },
-        {
-          "keyword": "역세권",
-          "score": 93
-        },
-        {
-          "keyword": "수도권 광역급행철도 c노선",
-          "score": 92
-        },
-        {
-          "keyword": "최화정",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-14T03:04:57.699Z",
       "geo": "KR",
       "source": "google",
@@ -6625,6 +6578,53 @@
         },
         {
           "keyword": "수영",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-18T00:37:43.222Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "박수홍",
+          "score": 100
+        },
+        {
+          "keyword": "한혜진",
+          "score": 99
+        },
+        {
+          "keyword": "유시민",
+          "score": 98
+        },
+        {
+          "keyword": "혁신도시",
+          "score": 97
+        },
+        {
+          "keyword": "화장품",
+          "score": 96
+        },
+        {
+          "keyword": "도박",
+          "score": 95
+        },
+        {
+          "keyword": "브래들리 바르콜라",
+          "score": 94
+        },
+        {
+          "keyword": "오늘 날씨",
+          "score": 93
+        },
+        {
+          "keyword": "김도영",
+          "score": 92
+        },
+        {
+          "keyword": "남보라",
           "score": 91
         }
       ]
