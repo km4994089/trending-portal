@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-14T23:12:16.651Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "날씨",
-          "score": 100
-        },
-        {
-          "keyword": "thời tiết",
-          "score": 99
-        },
-        {
-          "keyword": "天气",
-          "score": 98
-        },
-        {
-          "keyword": "weather",
-          "score": 97
-        },
-        {
-          "keyword": "погода",
-          "score": 96
-        },
-        {
-          "keyword": "포스코",
-          "score": 95
-        },
-        {
-          "keyword": "광주공항",
-          "score": 94
-        },
-        {
-          "keyword": "김민재",
-          "score": 93
-        },
-        {
-          "keyword": "반도체",
-          "score": 92
-        },
-        {
-          "keyword": "배달",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-14T23:43:57.307Z",
       "geo": "KR",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "김용빈",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-18T23:12:38.375Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "박용우",
+          "score": 100
+        },
+        {
+          "keyword": "내가 만난 사이코패스",
+          "score": 99
+        },
+        {
+          "keyword": "하빕 누르마고메도프",
+          "score": 98
+        },
+        {
+          "keyword": "철도",
+          "score": 97
+        },
+        {
+          "keyword": "천궁2",
+          "score": 96
+        },
+        {
+          "keyword": "허찬미",
+          "score": 95
+        },
+        {
+          "keyword": "농민",
+          "score": 94
+        },
+        {
+          "keyword": "푸바오",
+          "score": 93
+        },
+        {
+          "keyword": "운세",
+          "score": 92
+        },
+        {
+          "keyword": "hd현대",
           "score": 91
         }
       ]

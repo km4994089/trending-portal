@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-14T23:12:18.328Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "玉森裕太",
-          "score": 100
-        },
-        {
-          "keyword": "梅沢富美男",
-          "score": 99
-        },
-        {
-          "keyword": "ガスト",
-          "score": 98
-        },
-        {
-          "keyword": "カイル タッカー",
-          "score": 97
-        },
-        {
-          "keyword": "細江純子",
-          "score": 96
-        },
-        {
-          "keyword": "ハビックス 株価",
-          "score": 95
-        },
-        {
-          "keyword": "軍事演習",
-          "score": 94
-        },
-        {
-          "keyword": "ラグビーオーストラリア代表",
-          "score": 93
-        },
-        {
-          "keyword": "インドネシア 地震",
-          "score": 92
-        },
-        {
-          "keyword": "ブレーブス 対 dバックス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-14T23:43:58.702Z",
       "geo": "JP",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "iss",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-18T23:12:39.703Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "佐野晶哉",
+          "score": 100
+        },
+        {
+          "keyword": "太田光",
+          "score": 99
+        },
+        {
+          "keyword": "沖縄 天気",
+          "score": 98
+        },
+        {
+          "keyword": "高島市長",
+          "score": 97
+        },
+        {
+          "keyword": "シマケン役",
+          "score": 96
+        },
+        {
+          "keyword": "ブルワーズ 対 マリナーズ",
+          "score": 95
+        },
+        {
+          "keyword": "ちいかわ映画 入場特典",
+          "score": 94
+        },
+        {
+          "keyword": "千葉 レッカー jaf",
+          "score": 93
+        },
+        {
+          "keyword": "愛知県警察",
+          "score": 92
+        },
+        {
+          "keyword": "台風18号",
           "score": 91
         }
       ]
