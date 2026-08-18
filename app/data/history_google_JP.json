@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-14T21:15:36.190Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "iphone",
-          "score": 100
-        },
-        {
-          "keyword": "シントトロイデン",
-          "score": 99
-        },
-        {
-          "keyword": "ファジアーノ岡山",
-          "score": 98
-        },
-        {
-          "keyword": "卓球",
-          "score": 97
-        },
-        {
-          "keyword": "セブン-イレブン",
-          "score": 96
-        },
-        {
-          "keyword": "浦田俊輔",
-          "score": 95
-        },
-        {
-          "keyword": "豊島逸夫",
-          "score": 94
-        },
-        {
-          "keyword": "オールスター競輪",
-          "score": 93
-        },
-        {
-          "keyword": "インフルエンザ",
-          "score": 92
-        },
-        {
-          "keyword": "カイル・タッカー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-14T21:46:32.135Z",
       "geo": "JP",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "南鳥島レアアース",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-18T21:44:38.335Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jal",
+          "score": 100
+        },
+        {
+          "keyword": "旭川 天気",
+          "score": 99
+        },
+        {
+          "keyword": "auone",
+          "score": 98
+        },
+        {
+          "keyword": "板倉滉",
+          "score": 97
+        },
+        {
+          "keyword": "oroカップ",
+          "score": 96
+        },
+        {
+          "keyword": "利率",
+          "score": 95
+        },
+        {
+          "keyword": "vix指数",
+          "score": 94
+        },
+        {
+          "keyword": "ホンダf1",
+          "score": 93
+        },
+        {
+          "keyword": "太陽誘電",
+          "score": 92
+        },
+        {
+          "keyword": "サトノレーヴ",
           "score": 91
         }
       ]

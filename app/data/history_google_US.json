@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-14T21:15:33.949Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tpc southwind",
-          "score": 100
-        },
-        {
-          "keyword": "us airport flight disruptions",
-          "score": 99
-        },
-        {
-          "keyword": "commanders",
-          "score": 98
-        },
-        {
-          "keyword": "brewers dodgers game",
-          "score": 97
-        },
-        {
-          "keyword": "joshua baez",
-          "score": 96
-        },
-        {
-          "keyword": "weather san antonio",
-          "score": 95
-        },
-        {
-          "keyword": "cubs score",
-          "score": 94
-        },
-        {
-          "keyword": "san antonio weather",
-          "score": 93
-        },
-        {
-          "keyword": "nuno borges",
-          "score": 92
-        },
-        {
-          "keyword": "spacex news",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-14T21:46:29.536Z",
       "geo": "US",
       "source": "google",
@@ -7377,6 +7330,53 @@
         },
         {
           "keyword": "dee snider",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-18T21:44:36.113Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "dólar estadounidense",
+          "score": 100
+        },
+        {
+          "keyword": "nakashima",
+          "score": 99
+        },
+        {
+          "keyword": "bruno mars",
+          "score": 98
+        },
+        {
+          "keyword": "trevon diggs",
+          "score": 97
+        },
+        {
+          "keyword": "vin diesel",
+          "score": 96
+        },
+        {
+          "keyword": "lanterns critic and audience ratings",
+          "score": 95
+        },
+        {
+          "keyword": "sara bejlek",
+          "score": 94
+        },
+        {
+          "keyword": "recoleta vs boca",
+          "score": 93
+        },
+        {
+          "keyword": "arden walker",
+          "score": 92
+        },
+        {
+          "keyword": "curtis brown",
           "score": 91
         }
       ]
