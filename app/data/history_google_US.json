@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-14T15:12:42.665Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "robert macintyre",
-          "score": 100
-        },
-        {
-          "keyword": "volleyball",
-          "score": 99
-        },
-        {
-          "keyword": "new york times games",
-          "score": 98
-        },
-        {
-          "keyword": "snake",
-          "score": 97
-        },
-        {
-          "keyword": "leon cooperman",
-          "score": 96
-        },
-        {
-          "keyword": "white house ballroom building dispute",
-          "score": 95
-        },
-        {
-          "keyword": "doc",
-          "score": 94
-        },
-        {
-          "keyword": "ticketmaster",
-          "score": 93
-        },
-        {
-          "keyword": "flight 1009 return to lax",
-          "score": 92
-        },
-        {
-          "keyword": "avgo stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-14T16:11:43.869Z",
       "geo": "US",
       "source": "google",
@@ -7142,6 +7095,53 @@
         },
         {
           "keyword": "disney first amendment litigation",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-18T15:30:23.421Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "uk egg salmonella cases",
+          "score": 100
+        },
+        {
+          "keyword": "iran us news",
+          "score": 99
+        },
+        {
+          "keyword": "midterm election",
+          "score": 98
+        },
+        {
+          "keyword": "golf",
+          "score": 97
+        },
+        {
+          "keyword": "nflx stock",
+          "score": 96
+        },
+        {
+          "keyword": "walmart stock",
+          "score": 95
+        },
+        {
+          "keyword": "gillette stadium",
+          "score": 94
+        },
+        {
+          "keyword": "max preps",
+          "score": 93
+        },
+        {
+          "keyword": "noah centineo masters of universe exit",
+          "score": 92
+        },
+        {
+          "keyword": "kosovo",
           "score": 91
         }
       ]
