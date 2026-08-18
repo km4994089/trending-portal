@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-14T11:36:40.698Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "골프",
-          "score": 100
-        },
-        {
-          "keyword": "광주 날씨",
-          "score": 99
-        },
-        {
-          "keyword": "러시아",
-          "score": 98
-        },
-        {
-          "keyword": "seoul weather",
-          "score": 97
-        },
-        {
-          "keyword": "3기 신도시",
-          "score": 96
-        },
-        {
-          "keyword": "휴머노이드 로봇",
-          "score": 95
-        },
-        {
-          "keyword": "한화 대 삼성",
-          "score": 94
-        },
-        {
-          "keyword": "이묵원",
-          "score": 93
-        },
-        {
-          "keyword": "테라파워",
-          "score": 92
-        },
-        {
-          "keyword": "hj중공업",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-14T12:40:08.077Z",
       "geo": "KR",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "야구",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-18T11:47:49.350Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "같이 삽시다",
+          "score": 100
+        },
+        {
+          "keyword": "서울지하철",
+          "score": 99
+        },
+        {
+          "keyword": "전지현",
+          "score": 98
+        },
+        {
+          "keyword": "티켓링크",
+          "score": 97
+        },
+        {
+          "keyword": "키움 대 롯데",
+          "score": 96
+        },
+        {
+          "keyword": "야구여왕",
+          "score": 95
+        },
+        {
+          "keyword": "택시",
+          "score": 94
+        },
+        {
+          "keyword": "레이더",
+          "score": 93
+        },
+        {
+          "keyword": "김원효",
+          "score": 92
+        },
+        {
+          "keyword": "주식",
           "score": 91
         }
       ]
