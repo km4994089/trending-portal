@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-15T13:05:03.534Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "내일 날씨",
-          "score": 100
-        },
-        {
-          "keyword": "헤수스 카사스",
-          "score": 99
-        },
-        {
-          "keyword": "최형우",
-          "score": 98
-        },
-        {
-          "keyword": "thời tiết ngày mai",
-          "score": 97
-        },
-        {
-          "keyword": "티 웨이 홀딩스",
-          "score": 96
-        },
-        {
-          "keyword": "서경덕",
-          "score": 95
-        },
-        {
-          "keyword": "cuaca besok",
-          "score": 94
-        },
-        {
-          "keyword": "한소희",
-          "score": 93
-        },
-        {
-          "keyword": "딴지",
-          "score": 92
-        },
-        {
-          "keyword": "백종원",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-15T13:49:06.555Z",
       "geo": "KR",
       "source": "google",
@@ -7283,6 +7236,53 @@
         },
         {
           "keyword": "인시디어스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-19T13:22:57.338Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "핵어뢰",
+          "score": 100
+        },
+        {
+          "keyword": "잔홍",
+          "score": 99
+        },
+        {
+          "keyword": "빅뱅 콘서트",
+          "score": 98
+        },
+        {
+          "keyword": "pakistan vs england",
+          "score": 97
+        },
+        {
+          "keyword": "로봇",
+          "score": 96
+        },
+        {
+          "keyword": "의료",
+          "score": 95
+        },
+        {
+          "keyword": "제니 의상사고 사진",
+          "score": 94
+        },
+        {
+          "keyword": "야구여왕",
+          "score": 93
+        },
+        {
+          "keyword": "모더나",
+          "score": 92
+        },
+        {
+          "keyword": "윤석열",
           "score": 91
         }
       ]
