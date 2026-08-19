@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-15T08:15:22.266Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "restaurants near me",
-          "score": 100
-        },
-        {
-          "keyword": "kick",
-          "score": 99
-        },
-        {
-          "keyword": "is tobey maguire in doomsday",
-          "score": 98
-        },
-        {
-          "keyword": "palworld 1.1",
-          "score": 97
-        },
-        {
-          "keyword": "frozen 3 release date",
-          "score": 96
-        },
-        {
-          "keyword": "margot robbie",
-          "score": 95
-        },
-        {
-          "keyword": "bighead carp",
-          "score": 94
-        },
-        {
-          "keyword": "daycare center",
-          "score": 93
-        },
-        {
-          "keyword": "salma hayek",
-          "score": 92
-        },
-        {
-          "keyword": "hailee steinfeld",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-15T08:51:51.076Z",
       "geo": "US",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "petra parker",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-19T08:38:30.355Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "scarlett johansson",
+          "score": 100
+        },
+        {
+          "keyword": "dua lipa",
+          "score": 99
+        },
+        {
+          "keyword": "manav suthar",
+          "score": 98
+        },
+        {
+          "keyword": "earthquake now",
+          "score": 97
+        },
+        {
+          "keyword": "cna",
+          "score": 96
+        },
+        {
+          "keyword": "loki",
+          "score": 95
+        },
+        {
+          "keyword": "cubs game yesterday",
+          "score": 94
+        },
+        {
+          "keyword": "seattle",
+          "score": 93
+        },
+        {
+          "keyword": "robin williams",
+          "score": 92
+        },
+        {
+          "keyword": "semaglutide",
           "score": 91
         }
       ]
