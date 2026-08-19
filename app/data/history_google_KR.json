@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-14T23:43:57.307Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "테슬라",
-          "score": 100
-        },
-        {
-          "keyword": "김지민",
-          "score": 99
-        },
-        {
-          "keyword": "schd",
-          "score": 98
-        },
-        {
-          "keyword": "날씨",
-          "score": 97
-        },
-        {
-          "keyword": "thời tiết",
-          "score": 96
-        },
-        {
-          "keyword": "天气",
-          "score": 95
-        },
-        {
-          "keyword": "weather",
-          "score": 94
-        },
-        {
-          "keyword": "погода",
-          "score": 93
-        },
-        {
-          "keyword": "avgo",
-          "score": 92
-        },
-        {
-          "keyword": "포스코",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-08-15T00:37:50.102Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "송도 럭스 오션 sk뷰",
-          "score": 100
-        },
-        {
-          "keyword": "현대무벡스",
-          "score": 99
-        },
-        {
-          "keyword": "이지혜",
-          "score": 98
-        },
-        {
-          "keyword": "두산에너빌리티",
-          "score": 97
-        },
-        {
-          "keyword": "테슬라",
-          "score": 96
-        },
-        {
-          "keyword": "김지민",
-          "score": 95
-        },
-        {
-          "keyword": "schd",
-          "score": 94
-        },
-        {
-          "keyword": "날씨",
-          "score": 93
-        },
-        {
-          "keyword": "thời tiết",
-          "score": 92
-        },
-        {
-          "keyword": "天气",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-15T02:08:00.714Z",
       "geo": "KR",
       "source": "google",
@@ -7377,6 +7283,53 @@
         },
         {
           "keyword": "박용우",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-19T00:38:11.291Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "동아일보",
+          "score": 100
+        },
+        {
+          "keyword": "이상민",
+          "score": 99
+        },
+        {
+          "keyword": "배드민턴",
+          "score": 98
+        },
+        {
+          "keyword": "경주기행",
+          "score": 97
+        },
+        {
+          "keyword": "3기 신도시",
+          "score": 96
+        },
+        {
+          "keyword": "홍민기",
+          "score": 95
+        },
+        {
+          "keyword": "이창민",
+          "score": 94
+        },
+        {
+          "keyword": "abl생명",
+          "score": 93
+        },
+        {
+          "keyword": "제니",
+          "score": 92
+        },
+        {
+          "keyword": "이슬람 혁명 수비대",
           "score": 91
         }
       ]
