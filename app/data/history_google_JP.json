@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-15T02:08:01.896Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nhk 受信料",
-          "score": 100
-        },
-        {
-          "keyword": "リボンロード",
-          "score": 99
-        },
-        {
-          "keyword": "御着駅",
-          "score": 98
-        },
-        {
-          "keyword": "村上宗隆",
-          "score": 97
-        },
-        {
-          "keyword": "土曜はナニする",
-          "score": 96
-        },
-        {
-          "keyword": "indonesia earthquake",
-          "score": 95
-        },
-        {
-          "keyword": "加藤綾菜",
-          "score": 94
-        },
-        {
-          "keyword": "石丸幹二",
-          "score": 93
-        },
-        {
-          "keyword": "金正恩",
-          "score": 92
-        },
-        {
-          "keyword": "東北道 渋滞",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-15T03:09:58.393Z",
       "geo": "JP",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "将棋連盟",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-19T02:11:48.380Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "カイル・タッカー",
+          "score": 100
+        },
+        {
+          "keyword": "護憲 リベラル 共生",
+          "score": 99
+        },
+        {
+          "keyword": "メジャー ホームラン",
+          "score": 98
+        },
+        {
+          "keyword": "mlb速報",
+          "score": 97
+        },
+        {
+          "keyword": "pca",
+          "score": 96
+        },
+        {
+          "keyword": "ジェイク・マッカーシー",
+          "score": 95
+        },
+        {
+          "keyword": "mlb ホームラン",
+          "score": 94
+        },
+        {
+          "keyword": "トム・ホランド",
+          "score": 93
+        },
+        {
+          "keyword": "半導体",
+          "score": 92
+        },
+        {
+          "keyword": "コロラド・ロッキーズ",
           "score": 91
         }
       ]

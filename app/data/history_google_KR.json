@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-15T02:08:00.714Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김우빈",
-          "score": 100
-        },
-        {
-          "keyword": "ufc 330",
-          "score": 99
-        },
-        {
-          "keyword": "sbs",
-          "score": 98
-        },
-        {
-          "keyword": "인도네시아",
-          "score": 97
-        },
-        {
-          "keyword": "샌 디스크",
-          "score": 96
-        },
-        {
-          "keyword": "jason arday",
-          "score": 95
-        },
-        {
-          "keyword": "미래에셋",
-          "score": 94
-        },
-        {
-          "keyword": "변광용",
-          "score": 93
-        },
-        {
-          "keyword": "광복",
-          "score": 92
-        },
-        {
-          "keyword": "소방관",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-15T03:09:57.278Z",
       "geo": "KR",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "이슬람 혁명 수비대",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-19T02:11:47.101Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "투싼",
+          "score": 100
+        },
+        {
+          "keyword": "화이트삭스 대 컵스",
+          "score": 99
+        },
+        {
+          "keyword": "사이드카",
+          "score": 98
+        },
+        {
+          "keyword": "왕즈이",
+          "score": 97
+        },
+        {
+          "keyword": "나가노 메이",
+          "score": 96
+        },
+        {
+          "keyword": "동아일보",
+          "score": 95
+        },
+        {
+          "keyword": "이상민",
+          "score": 94
+        },
+        {
+          "keyword": "경주기행",
+          "score": 93
+        },
+        {
+          "keyword": "배드민턴",
+          "score": 92
+        },
+        {
+          "keyword": "3기 신도시",
           "score": 91
         }
       ]
