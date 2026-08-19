@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-15T12:17:04.236Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "happy independence day",
-          "score": 100
-        },
-        {
-          "keyword": "notts county vs leicester city",
-          "score": 99
-        },
-        {
-          "keyword": "boston blue",
-          "score": 98
-        },
-        {
-          "keyword": "romy and michele 2",
-          "score": 97
-        },
-        {
-          "keyword": "taylor swift hair",
-          "score": 96
-        },
-        {
-          "keyword": "shedeur sanders cleveland browns",
-          "score": 95
-        },
-        {
-          "keyword": "baltimore ravens",
-          "score": 94
-        },
-        {
-          "keyword": "netflix weekend streaming recommendations",
-          "score": 93
-        },
-        {
-          "keyword": "mikayla demaiter",
-          "score": 92
-        },
-        {
-          "keyword": "jayden daniels news",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-15T13:05:02.255Z",
       "geo": "US",
       "source": "google",
@@ -7283,6 +7236,53 @@
         },
         {
           "keyword": "espncricinfo",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-19T12:23:13.322Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "liberia",
+          "score": 100
+        },
+        {
+          "keyword": "max brosmer",
+          "score": 99
+        },
+        {
+          "keyword": "dylan dreyer",
+          "score": 98
+        },
+        {
+          "keyword": "azzurri",
+          "score": 97
+        },
+        {
+          "keyword": "ezri konsa",
+          "score": 96
+        },
+        {
+          "keyword": "san siro",
+          "score": 95
+        },
+        {
+          "keyword": "sandra bullock",
+          "score": 94
+        },
+        {
+          "keyword": "ascension st thomas drug mixup",
+          "score": 93
+        },
+        {
+          "keyword": "natalie harp",
+          "score": 92
+        },
+        {
+          "keyword": "karmelo anthony",
           "score": 91
         }
       ]
