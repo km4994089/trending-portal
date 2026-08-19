@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-15T11:41:02.513Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "민생 지원금 지급일",
-          "score": 100
-        },
-        {
-          "keyword": "이호연",
-          "score": 99
-        },
-        {
-          "keyword": "tving",
-          "score": 98
-        },
-        {
-          "keyword": "연금",
-          "score": 97
-        },
-        {
-          "keyword": "최저임금",
-          "score": 96
-        },
-        {
-          "keyword": "민주당 전당대회 결과",
-          "score": 95
-        },
-        {
-          "keyword": "딴지일보",
-          "score": 94
-        },
-        {
-          "keyword": "수원 대 수원fc",
-          "score": 93
-        },
-        {
-          "keyword": "한화 대 삼성",
-          "score": 92
-        },
-        {
-          "keyword": "선수",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-15T12:17:05.194Z",
       "geo": "KR",
       "source": "google",
@@ -7283,6 +7236,53 @@
         },
         {
           "keyword": "인수 합병",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-19T11:47:06.882Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "티켓링크",
+          "score": 100
+        },
+        {
+          "keyword": "김민종",
+          "score": 99
+        },
+        {
+          "keyword": "김준환",
+          "score": 98
+        },
+        {
+          "keyword": "청소차",
+          "score": 97
+        },
+        {
+          "keyword": "안양 대 제주",
+          "score": 96
+        },
+        {
+          "keyword": "인시디어스",
+          "score": 95
+        },
+        {
+          "keyword": "키움 대 롯데",
+          "score": 94
+        },
+        {
+          "keyword": "정국",
+          "score": 93
+        },
+        {
+          "keyword": "전국노래자랑",
+          "score": 92
+        },
+        {
+          "keyword": "충남 아산 fc 대 대전",
           "score": 91
         }
       ]
