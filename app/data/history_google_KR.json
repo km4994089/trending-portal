@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-15T05:16:16.152Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "페라리",
-          "score": 100
-        },
-        {
-          "keyword": "sl vs ind",
-          "score": 99
-        },
-        {
-          "keyword": "삼성sdi",
-          "score": 98
-        },
-        {
-          "keyword": "서강대",
-          "score": 97
-        },
-        {
-          "keyword": "백두산",
-          "score": 96
-        },
-        {
-          "keyword": "하객",
-          "score": 95
-        },
-        {
-          "keyword": "티웨이항공",
-          "score": 94
-        },
-        {
-          "keyword": "온유",
-          "score": 93
-        },
-        {
-          "keyword": "금융감독원",
-          "score": 92
-        },
-        {
-          "keyword": "최태원",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-15T05:47:54.042Z",
       "geo": "KR",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "투싼 신형",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-19T05:30:10.784Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "레이디 제인",
+          "score": 100
+        },
+        {
+          "keyword": "오타니 쇼헤이",
+          "score": 99
+        },
+        {
+          "keyword": "그랜드 테 프트 오토 vi",
+          "score": 98
+        },
+        {
+          "keyword": "공동 명의",
+          "score": 97
+        },
+        {
+          "keyword": "하이닉스 주가",
+          "score": 96
+        },
+        {
+          "keyword": "무덤",
+          "score": 95
+        },
+        {
+          "keyword": "환율",
+          "score": 94
+        },
+        {
+          "keyword": "이혼",
+          "score": 93
+        },
+        {
+          "keyword": "1달러",
+          "score": 92
+        },
+        {
+          "keyword": "hj중공업",
           "score": 91
         }
       ]
