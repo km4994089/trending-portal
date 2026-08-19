@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-15T22:44:20.069Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "渋滞予測",
-          "score": 100
-        },
-        {
-          "keyword": "レッズ 対 マーリンズ",
-          "score": 99
-        },
-        {
-          "keyword": "和歌山市天気",
-          "score": 98
-        },
-        {
-          "keyword": "ハンドボール",
-          "score": 97
-        },
-        {
-          "keyword": "フェルナンド・アロンソ",
-          "score": 96
-        },
-        {
-          "keyword": "グッドモーニング",
-          "score": 95
-        },
-        {
-          "keyword": "資産",
-          "score": 94
-        },
-        {
-          "keyword": "ロケット",
-          "score": 93
-        },
-        {
-          "keyword": "大韓民国",
-          "score": 92
-        },
-        {
-          "keyword": "星 よ つ は",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-15T23:10:59.360Z",
       "geo": "JP",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "asml",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-19T22:47:56.890Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "金田久美子",
+          "score": 100
+        },
+        {
+          "keyword": "ipados",
+          "score": 99
+        },
+        {
+          "keyword": "劇場版tokyo mer ~走る緊急救命室~",
+          "score": 98
+        },
+        {
+          "keyword": "アレクサンダー・ズベレフ",
+          "score": 97
+        },
+        {
+          "keyword": "pg",
+          "score": 96
+        },
+        {
+          "keyword": "予測市場",
+          "score": 95
+        },
+        {
+          "keyword": "吉本新喜劇",
+          "score": 94
+        },
+        {
+          "keyword": "上沢直之",
+          "score": 93
+        },
+        {
+          "keyword": "ナタリー・ハープ",
+          "score": 92
+        },
+        {
+          "keyword": "ティムラズ レジャバ",
           "score": 91
         }
       ]
