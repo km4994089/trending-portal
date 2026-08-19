@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-15T05:47:53.145Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jonathan majors",
-          "score": 100
-        },
-        {
-          "keyword": "christopher evans",
-          "score": 99
-        },
-        {
-          "keyword": "jalin turner",
-          "score": 98
-        },
-        {
-          "keyword": "kylo ren",
-          "score": 97
-        },
-        {
-          "keyword": "storm casting",
-          "score": 96
-        },
-        {
-          "keyword": "shawn levy",
-          "score": 95
-        },
-        {
-          "keyword": "ban vs aus",
-          "score": 94
-        },
-        {
-          "keyword": "charles melton",
-          "score": 93
-        },
-        {
-          "keyword": "kieran culkin",
-          "score": 92
-        },
-        {
-          "keyword": "wwe smackdown results",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-15T06:19:40.146Z",
       "geo": "US",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "justin timberlake",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-19T05:56:23.332Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "diesel fuel",
+          "score": 100
+        },
+        {
+          "keyword": "dan wilson",
+          "score": 99
+        },
+        {
+          "keyword": "petra parker",
+          "score": 98
+        },
+        {
+          "keyword": "lisa kudrow",
+          "score": 97
+        },
+        {
+          "keyword": "isack hadjar",
+          "score": 96
+        },
+        {
+          "keyword": "tupac autopsy",
+          "score": 95
+        },
+        {
+          "keyword": "uso seumalo",
+          "score": 94
+        },
+        {
+          "keyword": "weather tornado warning",
+          "score": 93
+        },
+        {
+          "keyword": "mortgage",
+          "score": 92
+        },
+        {
+          "keyword": "the beatles",
           "score": 91
         }
       ]
