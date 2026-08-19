@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-15T04:00:14.508Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "영웅",
-          "score": 100
-        },
-        {
-          "keyword": "최태원",
-          "score": 99
-        },
-        {
-          "keyword": "이슬람 마카체프",
-          "score": 98
-        },
-        {
-          "keyword": "결혼식",
-          "score": 97
-        },
-        {
-          "keyword": "주거",
-          "score": 96
-        },
-        {
-          "keyword": "이천수",
-          "score": 95
-        },
-        {
-          "keyword": "유병재",
-          "score": 94
-        },
-        {
-          "keyword": "도시 재개발",
-          "score": 93
-        },
-        {
-          "keyword": "퇴직",
-          "score": 92
-        },
-        {
-          "keyword": "여한구",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-15T04:32:58.937Z",
       "geo": "KR",
       "source": "google",
@@ -7330,6 +7283,53 @@
         },
         {
           "keyword": "사이드카",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-19T04:05:30.113Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "피겨스케이팅",
+          "score": 100
+        },
+        {
+          "keyword": "투싼 신형",
+          "score": 99
+        },
+        {
+          "keyword": "말린스 대 필리스",
+          "score": 98
+        },
+        {
+          "keyword": "아랍에미리트",
+          "score": 97
+        },
+        {
+          "keyword": "소지섭",
+          "score": 96
+        },
+        {
+          "keyword": "인천지하철",
+          "score": 95
+        },
+        {
+          "keyword": "유니트리",
+          "score": 94
+        },
+        {
+          "keyword": "트럭",
+          "score": 93
+        },
+        {
+          "keyword": "영등포구",
+          "score": 92
+        },
+        {
+          "keyword": "이스타항공",
           "score": 91
         }
       ]
