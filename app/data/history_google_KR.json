@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-15T10:44:48.392Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "fc 서울 대 대전",
-          "score": 100
-        },
-        {
-          "keyword": "제주 대 안양",
-          "score": 99
-        },
-        {
-          "keyword": "전지",
-          "score": 98
-        },
-        {
-          "keyword": "사랑이 온다",
-          "score": 97
-        },
-        {
-          "keyword": "스텔스기",
-          "score": 96
-        },
-        {
-          "keyword": "장기 기증",
-          "score": 95
-        },
-        {
-          "keyword": "백인천 별세",
-          "score": 94
-        },
-        {
-          "keyword": "자산",
-          "score": 93
-        },
-        {
-          "keyword": "로저 페더러",
-          "score": 92
-        },
-        {
-          "keyword": "삼성 갤럭시 s26",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-15T11:10:26.398Z",
       "geo": "KR",
       "source": "google",
@@ -7283,6 +7236,53 @@
         },
         {
           "keyword": "삼계탕",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-19T10:52:16.791Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "충남 아산 fc 대 대전",
+          "score": 100
+        },
+        {
+          "keyword": "발레바",
+          "score": 99
+        },
+        {
+          "keyword": "kbs 1tv 일일 드라마",
+          "score": 98
+        },
+        {
+          "keyword": "장쯔이",
+          "score": 97
+        },
+        {
+          "keyword": "인수 합병",
+          "score": 96
+        },
+        {
+          "keyword": "미국 재무부 채권",
+          "score": 95
+        },
+        {
+          "keyword": "biiig",
+          "score": 94
+        },
+        {
+          "keyword": "빅뱅 신곡",
+          "score": 93
+        },
+        {
+          "keyword": "정은경",
+          "score": 92
+        },
+        {
+          "keyword": "등산",
           "score": 91
         }
       ]
