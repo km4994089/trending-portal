@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-15T11:10:25.255Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dallas cowboys",
-          "score": 100
-        },
-        {
-          "keyword": "courtney stodden",
-          "score": 99
-        },
-        {
-          "keyword": "epl",
-          "score": 98
-        },
-        {
-          "keyword": "curt cignetti",
-          "score": 97
-        },
-        {
-          "keyword": "aeropuerto",
-          "score": 96
-        },
-        {
-          "keyword": "quincy illinois winning ticket",
-          "score": 95
-        },
-        {
-          "keyword": "fidelity trading",
-          "score": 94
-        },
-        {
-          "keyword": "cricinfo",
-          "score": 93
-        },
-        {
-          "keyword": "world news",
-          "score": 92
-        },
-        {
-          "keyword": "mason rudolph",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-15T11:41:01.267Z",
       "geo": "US",
       "source": "google",
@@ -7283,6 +7236,53 @@
         },
         {
           "keyword": "kyrie irving",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-19T11:15:47.870Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "moderna stock",
+          "score": 100
+        },
+        {
+          "keyword": "darline graham",
+          "score": 99
+        },
+        {
+          "keyword": "ny red bulls",
+          "score": 98
+        },
+        {
+          "keyword": "espncricinfo",
+          "score": 97
+        },
+        {
+          "keyword": "mrna stock",
+          "score": 96
+        },
+        {
+          "keyword": "tgt stock",
+          "score": 95
+        },
+        {
+          "keyword": "tom pelissero",
+          "score": 94
+        },
+        {
+          "keyword": "kyle mowitz",
+          "score": 93
+        },
+        {
+          "keyword": "times of india",
+          "score": 92
+        },
+        {
+          "keyword": "dunkin pumpkin spice 2026",
           "score": 91
         }
       ]

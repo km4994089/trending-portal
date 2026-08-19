@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-15T11:10:26.398Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "경제",
-          "score": 100
-        },
-        {
-          "keyword": "체포",
-          "score": 99
-        },
-        {
-          "keyword": "콜 오브 듀티",
-          "score": 98
-        },
-        {
-          "keyword": "장인화",
-          "score": 97
-        },
-        {
-          "keyword": "fc 서울 대 대전",
-          "score": 96
-        },
-        {
-          "keyword": "제주 대 안양",
-          "score": 95
-        },
-        {
-          "keyword": "사랑이 온다",
-          "score": 94
-        },
-        {
-          "keyword": "전지",
-          "score": 93
-        },
-        {
-          "keyword": "스텔스기",
-          "score": 92
-        },
-        {
-          "keyword": "장기 기증",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-15T11:41:02.513Z",
       "geo": "KR",
       "source": "google",
@@ -7283,6 +7236,53 @@
         },
         {
           "keyword": "등산",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-19T11:15:48.961Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "안양 대 제주",
+          "score": 100
+        },
+        {
+          "keyword": "인시디어스",
+          "score": 99
+        },
+        {
+          "keyword": "키움 대 롯데",
+          "score": 98
+        },
+        {
+          "keyword": "정국",
+          "score": 97
+        },
+        {
+          "keyword": "전국노래자랑",
+          "score": 96
+        },
+        {
+          "keyword": "충남 아산 fc 대 대전",
+          "score": 95
+        },
+        {
+          "keyword": "발레바",
+          "score": 94
+        },
+        {
+          "keyword": "kbs 1tv 일일 드라마",
+          "score": 93
+        },
+        {
+          "keyword": "장쯔이",
+          "score": 92
+        },
+        {
+          "keyword": "인수 합병",
           "score": 91
         }
       ]

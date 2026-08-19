@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-15T11:10:27.571Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jリーグ",
-          "score": 100
-        },
-        {
-          "keyword": "ナダル",
-          "score": 99
-        },
-        {
-          "keyword": "かまいたち",
-          "score": 98
-        },
-        {
-          "keyword": "川島悠翔",
-          "score": 97
-        },
-        {
-          "keyword": "カズレーザー",
-          "score": 96
-        },
-        {
-          "keyword": "池上彰",
-          "score": 95
-        },
-        {
-          "keyword": "長崎ヴェルカ",
-          "score": 94
-        },
-        {
-          "keyword": "レブロンジェームズ",
-          "score": 93
-        },
-        {
-          "keyword": "大分トリニータ",
-          "score": 92
-        },
-        {
-          "keyword": "ウィンゲンター",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-15T11:41:03.640Z",
       "geo": "JP",
       "source": "google",
@@ -7283,6 +7236,53 @@
         },
         {
           "keyword": "shunnosuke",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-19T11:15:49.982Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "アメリカ横断ウルトラクイズ",
+          "score": 100
+        },
+        {
+          "keyword": "鹿児島ユナイテッドfc",
+          "score": 99
+        },
+        {
+          "keyword": "タンカー",
+          "score": 98
+        },
+        {
+          "keyword": "プリキュアスターギャラリー",
+          "score": 97
+        },
+        {
+          "keyword": "古賀誠",
+          "score": 96
+        },
+        {
+          "keyword": "bigbang 新曲",
+          "score": 95
+        },
+        {
+          "keyword": "柳楽 優弥",
+          "score": 94
+        },
+        {
+          "keyword": "秋山翔吾",
+          "score": 93
+        },
+        {
+          "keyword": "トラウデン直美",
+          "score": 92
+        },
+        {
+          "keyword": "谷繁元信",
           "score": 91
         }
       ]
