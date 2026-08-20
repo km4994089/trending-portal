@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-16T22:10:41.965Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "아들",
-          "score": 100
-        },
-        {
-          "keyword": "버스",
-          "score": 99
-        },
-        {
-          "keyword": "lg그룹",
-          "score": 98
-        },
-        {
-          "keyword": "이하늘",
-          "score": 97
-        },
-        {
-          "keyword": "홍수",
-          "score": 96
-        },
-        {
-          "keyword": "미사일",
-          "score": 95
-        },
-        {
-          "keyword": "lens vs psg",
-          "score": 94
-        },
-        {
-          "keyword": "이주",
-          "score": 93
-        },
-        {
-          "keyword": "박현호",
-          "score": 92
-        },
-        {
-          "keyword": "다이아몬드백스 대 브레이브스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-16T22:43:38.573Z",
       "geo": "KR",
       "source": "google",
@@ -6907,6 +6860,53 @@
         },
         {
           "keyword": "브라질",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-20T22:16:21.468Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "다우 존스 산업평균지수",
+          "score": 100
+        },
+        {
+          "keyword": "미사일",
+          "score": 99
+        },
+        {
+          "keyword": "우크라이나",
+          "score": 98
+        },
+        {
+          "keyword": "장윤정",
+          "score": 97
+        },
+        {
+          "keyword": "폐기물",
+          "score": 96
+        },
+        {
+          "keyword": "중대범죄수사청",
+          "score": 95
+        },
+        {
+          "keyword": "일리아 토푸리아",
+          "score": 94
+        },
+        {
+          "keyword": "이의리",
+          "score": 93
+        },
+        {
+          "keyword": "살인",
+          "score": 92
+        },
+        {
+          "keyword": "농협은행",
           "score": 91
         }
       ]
