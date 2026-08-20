@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-16T07:51:53.238Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "孫",
-          "score": 100
-        },
-        {
-          "keyword": "横浜 織田",
-          "score": 99
-        },
-        {
-          "keyword": "横山典弘",
-          "score": 98
-        },
-        {
-          "keyword": "シュンスカイウォーカー",
-          "score": 97
-        },
-        {
-          "keyword": "新潟記念",
-          "score": 96
-        },
-        {
-          "keyword": "横浜高校 織田",
-          "score": 95
-        },
-        {
-          "keyword": "川崎フロンターレ",
-          "score": 94
-        },
-        {
-          "keyword": "松本剛",
-          "score": 93
-        },
-        {
-          "keyword": "ユニチカ",
-          "score": 92
-        },
-        {
-          "keyword": "近藤健介",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-16T08:16:40.766Z",
       "geo": "JP",
       "source": "google",
@@ -7142,6 +7095,53 @@
         },
         {
           "keyword": "許家印",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-20T08:02:42.851Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "リンテック",
+          "score": 100
+        },
+        {
+          "keyword": "台風気象情報、台風第18号",
+          "score": 99
+        },
+        {
+          "keyword": "7267",
+          "score": 98
+        },
+        {
+          "keyword": "山田哲人",
+          "score": 97
+        },
+        {
+          "keyword": "松浦勝人",
+          "score": 96
+        },
+        {
+          "keyword": "ittf世界ランキング",
+          "score": 95
+        },
+        {
+          "keyword": "bigbang biiig",
+          "score": 94
+        },
+        {
+          "keyword": "豊昇龍",
+          "score": 93
+        },
+        {
+          "keyword": "恒大集団",
+          "score": 92
+        },
+        {
+          "keyword": "ハヨン",
           "score": 91
         }
       ]
