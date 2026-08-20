@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-16T23:10:25.798Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "brewers schedule",
-          "score": 100
-        },
-        {
-          "keyword": "hugh hefner",
-          "score": 99
-        },
-        {
-          "keyword": "daniel lissing",
-          "score": 98
-        },
-        {
-          "keyword": "demi moore",
-          "score": 97
-        },
-        {
-          "keyword": "houston dash vs north carolina courage",
-          "score": 96
-        },
-        {
-          "keyword": "sloane stephens",
-          "score": 95
-        },
-        {
-          "keyword": "star wars: the force awakens",
-          "score": 94
-        },
-        {
-          "keyword": "iva jovic",
-          "score": 93
-        },
-        {
-          "keyword": "thiago mendes",
-          "score": 92
-        },
-        {
-          "keyword": "tamara korpatsch",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-16T23:40:35.218Z",
       "geo": "US",
       "source": "google",
@@ -6907,6 +6860,53 @@
         },
         {
           "keyword": "49ers vs chargers",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-20T23:16:00.371Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "thursday night football",
+          "score": 100
+        },
+        {
+          "keyword": "tornado nyc",
+          "score": 99
+        },
+        {
+          "keyword": "jenna fischer",
+          "score": 98
+        },
+        {
+          "keyword": "jose iglesias",
+          "score": 97
+        },
+        {
+          "keyword": "aisha wahab",
+          "score": 96
+        },
+        {
+          "keyword": "yankees game",
+          "score": 95
+        },
+        {
+          "keyword": "tornado dover de",
+          "score": 94
+        },
+        {
+          "keyword": "bunnie xo jelly roll split",
+          "score": 93
+        },
+        {
+          "keyword": "copa sudamericana",
+          "score": 92
+        },
+        {
+          "keyword": "voter registration",
           "score": 91
         }
       ]

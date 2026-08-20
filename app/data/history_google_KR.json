@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-16T23:10:26.885Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김상식",
-          "score": 100
-        },
-        {
-          "keyword": "погода",
-          "score": 99
-        },
-        {
-          "keyword": "제니",
-          "score": 98
-        },
-        {
-          "keyword": "스포츠경향",
-          "score": 97
-        },
-        {
-          "keyword": "김종국",
-          "score": 96
-        },
-        {
-          "keyword": "thời tiết",
-          "score": 95
-        },
-        {
-          "keyword": "대체공휴일",
-          "score": 94
-        },
-        {
-          "keyword": "김승수",
-          "score": 93
-        },
-        {
-          "keyword": "สภาพอากาศ",
-          "score": 92
-        },
-        {
-          "keyword": "이동국",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-16T23:40:36.453Z",
       "geo": "KR",
       "source": "google",
@@ -6907,6 +6860,53 @@
         },
         {
           "keyword": "天气",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-20T23:16:01.392Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "주성엔지니어링",
+          "score": 100
+        },
+        {
+          "keyword": "유시민",
+          "score": 99
+        },
+        {
+          "keyword": "погода",
+          "score": 98
+        },
+        {
+          "keyword": "skhy",
+          "score": 97
+        },
+        {
+          "keyword": "weather",
+          "score": 96
+        },
+        {
+          "keyword": "김민재",
+          "score": 95
+        },
+        {
+          "keyword": "สภาพอากาศ",
+          "score": 94
+        },
+        {
+          "keyword": "로스앤젤레스 다저스",
+          "score": 93
+        },
+        {
+          "keyword": "노동조합",
+          "score": 92
+        },
+        {
+          "keyword": "쓰레기봉투",
           "score": 91
         }
       ]
