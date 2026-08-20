@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-16T23:40:36.453Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "염경엽",
-          "score": 100
-        },
-        {
-          "keyword": "박은혜",
-          "score": 99
-        },
-        {
-          "keyword": "우크라이나",
-          "score": 98
-        },
-        {
-          "keyword": "погода",
-          "score": 97
-        },
-        {
-          "keyword": "제니",
-          "score": 96
-        },
-        {
-          "keyword": "스포츠경향",
-          "score": 95
-        },
-        {
-          "keyword": "김종국",
-          "score": 94
-        },
-        {
-          "keyword": "thời tiết",
-          "score": 93
-        },
-        {
-          "keyword": "대체공휴일",
-          "score": 92
-        },
-        {
-          "keyword": "김승수",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-17T00:38:27.311Z",
       "geo": "KR",
       "source": "google",
@@ -6907,6 +6860,53 @@
         },
         {
           "keyword": "쓰레기봉투",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-20T23:46:39.140Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "도박",
+          "score": 100
+        },
+        {
+          "keyword": "초대형 방사포",
+          "score": 99
+        },
+        {
+          "keyword": "손태영",
+          "score": 98
+        },
+        {
+          "keyword": "노화",
+          "score": 97
+        },
+        {
+          "keyword": "유현주",
+          "score": 96
+        },
+        {
+          "keyword": "날씨",
+          "score": 95
+        },
+        {
+          "keyword": "몸매",
+          "score": 94
+        },
+        {
+          "keyword": "정철원",
+          "score": 93
+        },
+        {
+          "keyword": "중대범죄 수사청",
+          "score": 92
+        },
+        {
+          "keyword": "암모니아 가스",
           "score": 91
         }
       ]
