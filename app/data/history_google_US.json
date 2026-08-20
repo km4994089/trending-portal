@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-16T00:39:51.548Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sam howell",
-          "score": 100
-        },
-        {
-          "keyword": "monterrey - juárez",
-          "score": 99
-        },
-        {
-          "keyword": "russell wilson",
-          "score": 98
-        },
-        {
-          "keyword": "jadarian price",
-          "score": 97
-        },
-        {
-          "keyword": "urc",
-          "score": 96
-        },
-        {
-          "keyword": "diego pavia",
-          "score": 95
-        },
-        {
-          "keyword": "américa - puebla",
-          "score": 94
-        },
-        {
-          "keyword": "orlando pride vs portland thorns",
-          "score": 93
-        },
-        {
-          "keyword": "alianza lima - utc cajamarca",
-          "score": 92
-        },
-        {
-          "keyword": "sam darnold",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-16T02:15:42.383Z",
       "geo": "US",
       "source": "google",
@@ -7236,6 +7189,53 @@
         },
         {
           "keyword": "chatgpt down",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-20T02:10:40.570Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "george lombard jr.",
+          "score": 100
+        },
+        {
+          "keyword": "san jose vs la galaxy",
+          "score": 99
+        },
+        {
+          "keyword": "eric morris",
+          "score": 98
+        },
+        {
+          "keyword": "houston dynamo vs vancouver",
+          "score": 97
+        },
+        {
+          "keyword": "sara bejlek",
+          "score": 96
+        },
+        {
+          "keyword": "abc7",
+          "score": 95
+        },
+        {
+          "keyword": "san diego vs portland",
+          "score": 94
+        },
+        {
+          "keyword": "frances tiafoe",
+          "score": 93
+        },
+        {
+          "keyword": "hilaria baldwin",
+          "score": 92
+        },
+        {
+          "keyword": "enrique hernandez",
           "score": 91
         }
       ]
