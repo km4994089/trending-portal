@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-16T07:07:15.335Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "meteorite",
-          "score": 100
-        },
-        {
-          "keyword": "power outage",
-          "score": 99
-        },
-        {
-          "keyword": "h-e-b",
-          "score": 98
-        },
-        {
-          "keyword": "daycare center",
-          "score": 97
-        },
-        {
-          "keyword": "5g",
-          "score": 96
-        },
-        {
-          "keyword": "romania",
-          "score": 95
-        },
-        {
-          "keyword": "central indiana floods",
-          "score": 94
-        },
-        {
-          "keyword": "inundaciones en indiana",
-          "score": 93
-        },
-        {
-          "keyword": "golden state warriors",
-          "score": 92
-        },
-        {
-          "keyword": "ke huy quan",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-16T07:51:50.814Z",
       "geo": "US",
       "source": "google",
@@ -7142,6 +7095,53 @@
         },
         {
           "keyword": "maxx crosby",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-20T07:14:38.140Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "chloe zhao",
+          "score": 100
+        },
+        {
+          "keyword": "fidelity bitcoin",
+          "score": 99
+        },
+        {
+          "keyword": "draftkings",
+          "score": 98
+        },
+        {
+          "keyword": "kanye west",
+          "score": 97
+        },
+        {
+          "keyword": "dillon danis",
+          "score": 96
+        },
+        {
+          "keyword": "noah kahan tour",
+          "score": 95
+        },
+        {
+          "keyword": "when will fortnite servers be back up",
+          "score": 94
+        },
+        {
+          "keyword": "what happened to lily hooper",
+          "score": 93
+        },
+        {
+          "keyword": "kick",
+          "score": 92
+        },
+        {
+          "keyword": "fortnite server status",
           "score": 91
         }
       ]
