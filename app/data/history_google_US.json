@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-16T09:17:29.090Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "plummer",
-          "score": 100
-        },
-        {
-          "keyword": "牛来",
-          "score": 99
-        },
-        {
-          "keyword": "meteorite",
-          "score": 98
-        },
-        {
-          "keyword": "h-e-b",
-          "score": 97
-        },
-        {
-          "keyword": "daycare center",
-          "score": 96
-        },
-        {
-          "keyword": "power outage",
-          "score": 95
-        },
-        {
-          "keyword": "5g",
-          "score": 94
-        },
-        {
-          "keyword": "romania",
-          "score": 93
-        },
-        {
-          "keyword": "hurricane tracker hawaii",
-          "score": 92
-        },
-        {
-          "keyword": "central indiana floods",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-08-16T09:48:31.569Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "chad hickman",
-          "score": 100
-        },
-        {
-          "keyword": "shameless",
-          "score": 99
-        },
-        {
-          "keyword": "plummer",
-          "score": 98
-        },
-        {
-          "keyword": "牛来",
-          "score": 97
-        },
-        {
-          "keyword": "meteorite",
-          "score": 96
-        },
-        {
-          "keyword": "h-e-b",
-          "score": 95
-        },
-        {
-          "keyword": "daycare center",
-          "score": 94
-        },
-        {
-          "keyword": "power outage",
-          "score": 93
-        },
-        {
-          "keyword": "5g",
-          "score": 92
-        },
-        {
-          "keyword": "romania",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-16T10:12:58.296Z",
       "geo": "US",
       "source": "google",
@@ -7095,6 +7001,53 @@
         },
         {
           "keyword": "daycare",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-20T09:57:03.757Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "flood watch",
+          "score": 100
+        },
+        {
+          "keyword": "uscis",
+          "score": 99
+        },
+        {
+          "keyword": "dean butler",
+          "score": 98
+        },
+        {
+          "keyword": "farmers' almanac winter forecast",
+          "score": 97
+        },
+        {
+          "keyword": "flood warning",
+          "score": 96
+        },
+        {
+          "keyword": "mikayla demaiter",
+          "score": 95
+        },
+        {
+          "keyword": "fanduel",
+          "score": 94
+        },
+        {
+          "keyword": "mstr stock",
+          "score": 93
+        },
+        {
+          "keyword": "new iphone 18",
+          "score": 92
+        },
+        {
+          "keyword": "celtics",
           "score": 91
         }
       ]
