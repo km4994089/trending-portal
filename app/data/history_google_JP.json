@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-16T18:52:40.272Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "マンホール",
-          "score": 100
-        },
-        {
-          "keyword": "ランス 対 パリsg",
-          "score": 99
-        },
-        {
-          "keyword": "リヴァプール",
-          "score": 98
-        },
-        {
-          "keyword": "liverpool vs como",
-          "score": 97
-        },
-        {
-          "keyword": "テレビ",
-          "score": 96
-        },
-        {
-          "keyword": "real madrid",
-          "score": 95
-        },
-        {
-          "keyword": "クラブ親善試合",
-          "score": 94
-        },
-        {
-          "keyword": "インディアナ ジョーンズ",
-          "score": 93
-        },
-        {
-          "keyword": "田尾安志",
-          "score": 92
-        },
-        {
-          "keyword": "マレスカ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-16T19:13:42.870Z",
       "geo": "JP",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "ダスクブラッド",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-20T19:08:33.060Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ブライトン",
+          "score": 100
+        },
+        {
+          "keyword": "プレミアム シネマ",
+          "score": 99
+        },
+        {
+          "keyword": "堂本 剛",
+          "score": 98
+        },
+        {
+          "keyword": "金与正",
+          "score": 97
+        },
+        {
+          "keyword": "田中こころ",
+          "score": 96
+        },
+        {
+          "keyword": "tokyo map",
+          "score": 95
+        },
+        {
+          "keyword": "smap",
+          "score": 94
+        },
+        {
+          "keyword": "ダスクブラッド",
+          "score": 93
+        },
+        {
+          "keyword": "味の素",
+          "score": 92
+        },
+        {
+          "keyword": "メーガン妃",
           "score": 91
         }
       ]
