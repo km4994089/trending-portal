@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-16T17:41:32.057Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "scott eastwood",
-          "score": 100
-        },
-        {
-          "keyword": "yankees - blue jays",
-          "score": 99
-        },
-        {
-          "keyword": "benjamin netanyahu",
-          "score": 98
-        },
-        {
-          "keyword": "felix auger aliassime",
-          "score": 97
-        },
-        {
-          "keyword": "white sox vs tigers",
-          "score": 96
-        },
-        {
-          "keyword": "tommy john",
-          "score": 95
-        },
-        {
-          "keyword": "laura sisk",
-          "score": 94
-        },
-        {
-          "keyword": "dbacks - braves",
-          "score": 93
-        },
-        {
-          "keyword": "albertsons safeway store closures",
-          "score": 92
-        },
-        {
-          "keyword": "daria snigur",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-16T18:14:07.247Z",
       "geo": "US",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "nasdaq today",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-20T17:54:02.318Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jessica pegula",
+          "score": 100
+        },
+        {
+          "keyword": "al-fayha vs al-hilal",
+          "score": 99
+        },
+        {
+          "keyword": "slide",
+          "score": 98
+        },
+        {
+          "keyword": "executive order",
+          "score": 97
+        },
+        {
+          "keyword": "penn state drug case",
+          "score": 96
+        },
+        {
+          "keyword": "oba femi",
+          "score": 95
+        },
+        {
+          "keyword": "rocket",
+          "score": 94
+        },
+        {
+          "keyword": "cruise ship",
+          "score": 93
+        },
+        {
+          "keyword": "bond market",
+          "score": 92
+        },
+        {
+          "keyword": "the pentagon",
           "score": 91
         }
       ]
