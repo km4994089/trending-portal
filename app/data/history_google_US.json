@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-16T03:24:55.666Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "pat mcafee",
-          "score": 100
-        },
-        {
-          "keyword": "jennifer lawrence",
-          "score": 99
-        },
-        {
-          "keyword": "channel 10 news",
-          "score": 98
-        },
-        {
-          "keyword": "caiya hanks",
-          "score": 97
-        },
-        {
-          "keyword": "tornado warning",
-          "score": 96
-        },
-        {
-          "keyword": "boxer prichard colón passing",
-          "score": 95
-        },
-        {
-          "keyword": "lily collins",
-          "score": 94
-        },
-        {
-          "keyword": "rebel creamery ice cream",
-          "score": 93
-        },
-        {
-          "keyword": "aldo patricio de nigris",
-          "score": 92
-        },
-        {
-          "keyword": "lois boisson",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-16T04:05:44.798Z",
       "geo": "US",
       "source": "google",
@@ -7236,6 +7189,53 @@
         },
         {
           "keyword": "gabby williams",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-20T04:04:34.900Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "salt typhoon",
+          "score": 100
+        },
+        {
+          "keyword": "charlie day",
+          "score": 99
+        },
+        {
+          "keyword": "genesis gv90",
+          "score": 98
+        },
+        {
+          "keyword": "when does the new fortnite season come out",
+          "score": 97
+        },
+        {
+          "keyword": "astros standings",
+          "score": 96
+        },
+        {
+          "keyword": "vandenberg space force base",
+          "score": 95
+        },
+        {
+          "keyword": "christian gonzalez",
+          "score": 94
+        },
+        {
+          "keyword": "nationals - rangers",
+          "score": 93
+        },
+        {
+          "keyword": "houston astros",
+          "score": 92
+        },
+        {
+          "keyword": "destroyer",
           "score": 91
         }
       ]
