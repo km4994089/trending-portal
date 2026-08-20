@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-16T06:22:07.500Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "橋上秀樹",
-          "score": 100
-        },
-        {
-          "keyword": "シルバーウィーク",
-          "score": 99
-        },
-        {
-          "keyword": "札幌記念",
-          "score": 98
-        },
-        {
-          "keyword": "霞ヶ浦 甲子園",
-          "score": 97
-        },
-        {
-          "keyword": "オリックス",
-          "score": 96
-        },
-        {
-          "keyword": "ケンブリッジ大学",
-          "score": 95
-        },
-        {
-          "keyword": "船越英一郎",
-          "score": 94
-        },
-        {
-          "keyword": "浜名湖競艇",
-          "score": 93
-        },
-        {
-          "keyword": "白井健三",
-          "score": 92
-        },
-        {
-          "keyword": "堀大輔 寝てる",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-16T07:07:17.428Z",
       "geo": "JP",
       "source": "google",
@@ -7142,6 +7095,53 @@
         },
         {
           "keyword": "雷注意報",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-20T06:26:15.843Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "フォートナイト",
+          "score": 100
+        },
+        {
+          "keyword": "くら 寿司 値下げ",
+          "score": 99
+        },
+        {
+          "keyword": "ティアフォー 株価",
+          "score": 98
+        },
+        {
+          "keyword": "沖縄本島",
+          "score": 97
+        },
+        {
+          "keyword": "いしだ壱成",
+          "score": 96
+        },
+        {
+          "keyword": "最低賃金",
+          "score": 95
+        },
+        {
+          "keyword": "茨城 地震",
+          "score": 94
+        },
+        {
+          "keyword": "井上真央",
+          "score": 93
+        },
+        {
+          "keyword": "岩崎優",
+          "score": 92
+        },
+        {
+          "keyword": "イージスシステム搭載艦",
           "score": 91
         }
       ]
