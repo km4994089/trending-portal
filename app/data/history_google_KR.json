@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-17T03:25:10.441Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "사장님 귀는 당나귀 귀",
-          "score": 100
-        },
-        {
-          "keyword": "지민",
-          "score": 99
-        },
-        {
-          "keyword": "소재원",
-          "score": 98
-        },
-        {
-          "keyword": "편의점",
-          "score": 97
-        },
-        {
-          "keyword": "예루살렘",
-          "score": 96
-        },
-        {
-          "keyword": "무시알라",
-          "score": 95
-        },
-        {
-          "keyword": "골프",
-          "score": 94
-        },
-        {
-          "keyword": "공동 명의",
-          "score": 93
-        },
-        {
-          "keyword": "상주영천고속도로",
-          "score": 92
-        },
-        {
-          "keyword": "드론 스트라이크",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-17T04:09:13.446Z",
       "geo": "KR",
       "source": "google",
@@ -6907,6 +6860,53 @@
         },
         {
           "keyword": "한국 영화",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-21T03:27:25.359Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "박현호",
+          "score": 100
+        },
+        {
+          "keyword": "스타뉴스",
+          "score": 99
+        },
+        {
+          "keyword": "국민연금",
+          "score": 98
+        },
+        {
+          "keyword": "지마켓",
+          "score": 97
+        },
+        {
+          "keyword": "김지민",
+          "score": 96
+        },
+        {
+          "keyword": "재산",
+          "score": 95
+        },
+        {
+          "keyword": "타자",
+          "score": 94
+        },
+        {
+          "keyword": "금융감독원",
+          "score": 93
+        },
+        {
+          "keyword": "한국경제tv",
+          "score": 92
+        },
+        {
+          "keyword": "양지은",
           "score": 91
         }
       ]
