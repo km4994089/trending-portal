@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-17T05:57:33.608Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "中国新聞",
-          "score": 100
-        },
-        {
-          "keyword": "ちいかわ 第三弾",
-          "score": 99
-        },
-        {
-          "keyword": "蔵内議長",
-          "score": 98
-        },
-        {
-          "keyword": "レディオヘッド",
-          "score": 97
-        },
-        {
-          "keyword": "さくらのレンタルサーバ",
-          "score": 96
-        },
-        {
-          "keyword": "エボラ出血熱",
-          "score": 95
-        },
-        {
-          "keyword": "誤審",
-          "score": 94
-        },
-        {
-          "keyword": "やぎ座",
-          "score": 93
-        },
-        {
-          "keyword": "junon",
-          "score": 92
-        },
-        {
-          "keyword": "マーゴット・ロビー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-17T06:41:09.089Z",
       "geo": "JP",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "密漁",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-21T06:27:41.034Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "タイラー グラス ノー",
+          "score": 100
+        },
+        {
+          "keyword": "オランダグランプリ",
+          "score": 99
+        },
+        {
+          "keyword": "風、薫る",
+          "score": 98
+        },
+        {
+          "keyword": "メーガン",
+          "score": 97
+        },
+        {
+          "keyword": "政策金利",
+          "score": 96
+        },
+        {
+          "keyword": "mlb",
+          "score": 95
+        },
+        {
+          "keyword": "mtv",
+          "score": 94
+        },
+        {
+          "keyword": "鳩山由紀夫",
+          "score": 93
+        },
+        {
+          "keyword": "祭",
+          "score": 92
+        },
+        {
+          "keyword": "ルーマニア",
           "score": 91
         }
       ]
