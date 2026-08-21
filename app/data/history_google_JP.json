@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-17T12:21:35.317Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "小池百合子",
-          "score": 100
-        },
-        {
-          "keyword": "猟銃",
-          "score": 99
-        },
-        {
-          "keyword": "浮所飛貴",
-          "score": 98
-        },
-        {
-          "keyword": "abema",
-          "score": 97
-        },
-        {
-          "keyword": "アベマ",
-          "score": 96
-        },
-        {
-          "keyword": "選挙",
-          "score": 95
-        },
-        {
-          "keyword": "アルバルク東京",
-          "score": 94
-        },
-        {
-          "keyword": "浦川翔平",
-          "score": 93
-        },
-        {
-          "keyword": "五十嵐亮太",
-          "score": 92
-        },
-        {
-          "keyword": "屋敷裕政",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-17T13:14:01.424Z",
       "geo": "JP",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "秋本美空",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-21T12:25:02.047Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "地震",
+          "score": 100
+        },
+        {
+          "keyword": "横浜 地震",
+          "score": 99
+        },
+        {
+          "keyword": "japan earthquake",
+          "score": 98
+        },
+        {
+          "keyword": "earthquake",
+          "score": 97
+        },
+        {
+          "keyword": "ピティナ特級",
+          "score": 96
+        },
+        {
+          "keyword": "地震速報 今",
+          "score": 95
+        },
+        {
+          "keyword": "坂本誠志郎",
+          "score": 94
+        },
+        {
+          "keyword": "earthquake japan",
+          "score": 93
+        },
+        {
+          "keyword": "yahoo 地震",
+          "score": 92
+        },
+        {
+          "keyword": "地震 いま",
           "score": 91
         }
       ]
