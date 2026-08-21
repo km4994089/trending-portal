@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-17T10:54:01.193Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "uss benfold power loss",
-          "score": 100
-        },
-        {
-          "keyword": "formula",
-          "score": 99
-        },
-        {
-          "keyword": "lakers news",
-          "score": 98
-        },
-        {
-          "keyword": "weather boston",
-          "score": 97
-        },
-        {
-          "keyword": "tiempo de hoy",
-          "score": 96
-        },
-        {
-          "keyword": "jason arday cause of death",
-          "score": 95
-        },
-        {
-          "keyword": "diana jenkins hayden panettiere",
-          "score": 94
-        },
-        {
-          "keyword": "caitlin clark angel reese matchup",
-          "score": 93
-        },
-        {
-          "keyword": "embezzlement",
-          "score": 92
-        },
-        {
-          "keyword": "iren stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-17T11:16:03.312Z",
       "geo": "US",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "morgan stanley",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-21T10:55:11.420Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "charlie kirk",
+          "score": 100
+        },
+        {
+          "keyword": "fabrizio romano",
+          "score": 99
+        },
+        {
+          "keyword": "nathan cofnas",
+          "score": 98
+        },
+        {
+          "keyword": "venezuela",
+          "score": 97
+        },
+        {
+          "keyword": "clarity act",
+          "score": 96
+        },
+        {
+          "keyword": "boston weather",
+          "score": 95
+        },
+        {
+          "keyword": "who is natalie harp",
+          "score": 94
+        },
+        {
+          "keyword": "today's weather",
+          "score": 93
+        },
+        {
+          "keyword": "local weather",
+          "score": 92
+        },
+        {
+          "keyword": "forecast",
           "score": 91
         }
       ]

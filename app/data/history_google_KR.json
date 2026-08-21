@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-17T10:54:02.351Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "서미화",
-          "score": 100
-        },
-        {
-          "keyword": "대한민국",
-          "score": 99
-        },
-        {
-          "keyword": "티비",
-          "score": 98
-        },
-        {
-          "keyword": "테라파워",
-          "score": 97
-        },
-        {
-          "keyword": "디즈니",
-          "score": 96
-        },
-        {
-          "keyword": "부모",
-          "score": 95
-        },
-        {
-          "keyword": "조 째즈",
-          "score": 94
-        },
-        {
-          "keyword": "상도동",
-          "score": 93
-        },
-        {
-          "keyword": "김시우",
-          "score": 92
-        },
-        {
-          "keyword": "사건",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-17T11:16:04.407Z",
       "geo": "KR",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "비트코인",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-21T10:55:12.349Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "화재",
+          "score": 100
+        },
+        {
+          "keyword": "만평",
+          "score": 99
+        },
+        {
+          "keyword": "kia 타이거즈",
+          "score": 98
+        },
+        {
+          "keyword": "여성 소방관",
+          "score": 97
+        },
+        {
+          "keyword": "현대 자동차 그룹 메타 플랜트 아메리카",
+          "score": 96
+        },
+        {
+          "keyword": "도지코인",
+          "score": 95
+        },
+        {
+          "keyword": "lg 대 한화",
+          "score": 94
+        },
+        {
+          "keyword": "성주군",
+          "score": 93
+        },
+        {
+          "keyword": "경기도교육청",
+          "score": 92
+        },
+        {
+          "keyword": "삼성 대 nc",
           "score": 91
         }
       ]

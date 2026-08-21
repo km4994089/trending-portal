@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-17T10:54:03.685Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "高橋成美",
-          "score": 100
-        },
-        {
-          "keyword": "漆",
-          "score": 99
-        },
-        {
-          "keyword": "堀田真由",
-          "score": 98
-        },
-        {
-          "keyword": "立石正広",
-          "score": 97
-        },
-        {
-          "keyword": "清宮幸太郎",
-          "score": 96
-        },
-        {
-          "keyword": "ジュニア",
-          "score": 95
-        },
-        {
-          "keyword": "寺田心 ボディビル",
-          "score": 94
-        },
-        {
-          "keyword": "近藤健介",
-          "score": 93
-        },
-        {
-          "keyword": "重岡 大 毅",
-          "score": 92
-        },
-        {
-          "keyword": "相席食堂",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-17T11:16:05.689Z",
       "geo": "JP",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "荒川静香",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-21T10:55:13.561Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "fc東京",
+          "score": 100
+        },
+        {
+          "keyword": "森下翔太",
+          "score": 99
+        },
+        {
+          "keyword": "高嶋ちさ子",
+          "score": 98
+        },
+        {
+          "keyword": "本田圭佑",
+          "score": 97
+        },
+        {
+          "keyword": "今中慎二",
+          "score": 96
+        },
+        {
+          "keyword": "平良拳太郎",
+          "score": 95
+        },
+        {
+          "keyword": "鈴木亮平",
+          "score": 94
+        },
+        {
+          "keyword": "柏レイソル",
+          "score": 93
+        },
+        {
+          "keyword": "長野 久義",
+          "score": 92
+        },
+        {
+          "keyword": "高崎花火大会",
           "score": 91
         }
       ]
