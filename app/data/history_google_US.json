@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-17T11:16:03.312Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "elly de la cruz",
-          "score": 100
-        },
-        {
-          "keyword": "michigan wolverines football",
-          "score": 99
-        },
-        {
-          "keyword": "alex cora",
-          "score": 98
-        },
-        {
-          "keyword": "russia",
-          "score": 97
-        },
-        {
-          "keyword": "uss benfold power loss",
-          "score": 96
-        },
-        {
-          "keyword": "formula",
-          "score": 95
-        },
-        {
-          "keyword": "lakers news",
-          "score": 94
-        },
-        {
-          "keyword": "weather boston",
-          "score": 93
-        },
-        {
-          "keyword": "jason arday cause of death",
-          "score": 92
-        },
-        {
-          "keyword": "tiempo de hoy",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-17T11:47:01.128Z",
       "geo": "US",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "forecast",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-21T11:16:45.835Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "saquon barkley eagles patriots",
+          "score": 100
+        },
+        {
+          "keyword": "gasoline",
+          "score": 99
+        },
+        {
+          "keyword": "olivia rodrigo tour",
+          "score": 98
+        },
+        {
+          "keyword": "ukraine news",
+          "score": 97
+        },
+        {
+          "keyword": "todays weather",
+          "score": 96
+        },
+        {
+          "keyword": "theft",
+          "score": 95
+        },
+        {
+          "keyword": "penn state football",
+          "score": 94
+        },
+        {
+          "keyword": "buckeye lake",
+          "score": 93
+        },
+        {
+          "keyword": "arsenal vs coventry",
+          "score": 92
+        },
+        {
+          "keyword": "tiempo de hoy",
           "score": 91
         }
       ]

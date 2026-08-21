@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-17T11:16:05.689Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ネプリーグ",
-          "score": 100
-        },
-        {
-          "keyword": "今井絵理子",
-          "score": 99
-        },
-        {
-          "keyword": "忘却バッテリー",
-          "score": 98
-        },
-        {
-          "keyword": "町田瑠唯",
-          "score": 97
-        },
-        {
-          "keyword": "key to lit デビュー",
-          "score": 96
-        },
-        {
-          "keyword": "サイバーエージェント",
-          "score": 95
-        },
-        {
-          "keyword": "vip",
-          "score": 94
-        },
-        {
-          "keyword": "imf",
-          "score": 93
-        },
-        {
-          "keyword": "mvp",
-          "score": 92
-        },
-        {
-          "keyword": "gross",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-17T11:47:03.034Z",
       "geo": "JP",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "高崎花火大会",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-21T11:16:47.909Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "松岡修造",
+          "score": 100
+        },
+        {
+          "keyword": "森下暢仁",
+          "score": 99
+        },
+        {
+          "keyword": "横浜スタジアム",
+          "score": 98
+        },
+        {
+          "keyword": "チケプラ",
+          "score": 97
+        },
+        {
+          "keyword": "中井貴一",
+          "score": 96
+        },
+        {
+          "keyword": "小籔千豊",
+          "score": 95
+        },
+        {
+          "keyword": "堀田賢慎",
+          "score": 94
+        },
+        {
+          "keyword": "前川右京",
+          "score": 93
+        },
+        {
+          "keyword": "マディソン・チョック",
+          "score": 92
+        },
+        {
+          "keyword": "fc東京",
           "score": 91
         }
       ]
