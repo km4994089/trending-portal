@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-17T23:13:05.853Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "도박",
-          "score": 100
-        },
-        {
-          "keyword": "브래들리 바르콜라",
-          "score": 99
-        },
-        {
-          "keyword": "오늘 날씨",
-          "score": 98
-        },
-        {
-          "keyword": "김도영",
-          "score": 97
-        },
-        {
-          "keyword": "남보라",
-          "score": 96
-        },
-        {
-          "keyword": "라리가",
-          "score": 95
-        },
-        {
-          "keyword": "fc 서울",
-          "score": 94
-        },
-        {
-          "keyword": "육상 경기",
-          "score": 93
-        },
-        {
-          "keyword": "나는 solo",
-          "score": 92
-        },
-        {
-          "keyword": "수영",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-17T23:43:20.230Z",
       "geo": "KR",
       "source": "google",
@@ -6860,6 +6813,53 @@
         },
         {
           "keyword": "콜레스테롤",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-21T23:14:08.105Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김요한",
+          "score": 100
+        },
+        {
+          "keyword": "국내총생산",
+          "score": 99
+        },
+        {
+          "keyword": "치맥",
+          "score": 98
+        },
+        {
+          "keyword": "죽음의 조",
+          "score": 97
+        },
+        {
+          "keyword": "테일러 프리츠",
+          "score": 96
+        },
+        {
+          "keyword": "세단",
+          "score": 95
+        },
+        {
+          "keyword": "오세훈",
+          "score": 94
+        },
+        {
+          "keyword": "이란 대통령",
+          "score": 93
+        },
+        {
+          "keyword": "경남 고성 공룡 세계 엑스포",
+          "score": 92
+        },
+        {
+          "keyword": "박성현",
           "score": 91
         }
       ]

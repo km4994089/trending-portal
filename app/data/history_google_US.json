@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-17T23:13:04.574Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "emma navarro",
-          "score": 100
-        },
-        {
-          "keyword": "ketel marte",
-          "score": 99
-        },
-        {
-          "keyword": "alejandro tabilo",
-          "score": 98
-        },
-        {
-          "keyword": "braves vs twins",
-          "score": 97
-        },
-        {
-          "keyword": "athletics vs royals",
-          "score": 96
-        },
-        {
-          "keyword": "mt etna",
-          "score": 95
-        },
-        {
-          "keyword": "harrison ford",
-          "score": 94
-        },
-        {
-          "keyword": "serena williams",
-          "score": 93
-        },
-        {
-          "keyword": "yankees news",
-          "score": 92
-        },
-        {
-          "keyword": "trump lifeguard",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-17T23:43:19.133Z",
       "geo": "US",
       "source": "google",
@@ -6860,6 +6813,53 @@
         },
         {
           "keyword": "sammy sosa",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-21T23:14:06.885Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cruise ship",
+          "score": 100
+        },
+        {
+          "keyword": "geno smith",
+          "score": 99
+        },
+        {
+          "keyword": "tony",
+          "score": 98
+        },
+        {
+          "keyword": "soldier field",
+          "score": 97
+        },
+        {
+          "keyword": "yahoo fantasy",
+          "score": 96
+        },
+        {
+          "keyword": "tropical storm moke",
+          "score": 95
+        },
+        {
+          "keyword": "lorenzo musetti",
+          "score": 94
+        },
+        {
+          "keyword": "bkfc",
+          "score": 93
+        },
+        {
+          "keyword": "google play store",
+          "score": 92
+        },
+        {
+          "keyword": "joel kinnaman icefall prime video",
           "score": 91
         }
       ]
