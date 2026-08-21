@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-17T10:05:42.562Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "beyonce",
-          "score": 100
-        },
-        {
-          "keyword": "lluvia",
-          "score": 99
-        },
-        {
-          "keyword": "boeing ah-64 apache",
-          "score": 98
-        },
-        {
-          "keyword": "polymarket",
-          "score": 97
-        },
-        {
-          "keyword": "kalshi",
-          "score": 96
-        },
-        {
-          "keyword": "jutta leerdam",
-          "score": 95
-        },
-        {
-          "keyword": "johnny",
-          "score": 94
-        },
-        {
-          "keyword": "krone",
-          "score": 93
-        },
-        {
-          "keyword": "pandemic",
-          "score": 92
-        },
-        {
-          "keyword": "robbie williams",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-17T10:54:01.193Z",
       "geo": "US",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "fidelity bitcoin",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-21T10:25:15.483Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "brooke baldwin",
+          "score": 100
+        },
+        {
+          "keyword": "gary indiana blackout",
+          "score": 99
+        },
+        {
+          "keyword": "trackhouse racing team",
+          "score": 98
+        },
+        {
+          "keyword": "anna faris",
+          "score": 97
+        },
+        {
+          "keyword": "haiti",
+          "score": 96
+        },
+        {
+          "keyword": "epl",
+          "score": 95
+        },
+        {
+          "keyword": "leslie mann",
+          "score": 94
+        },
+        {
+          "keyword": "comeback",
+          "score": 93
+        },
+        {
+          "keyword": "las vegas weather",
+          "score": 92
+        },
+        {
+          "keyword": "morgan stanley",
           "score": 91
         }
       ]
