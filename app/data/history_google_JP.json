@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-17T13:58:35.753Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ガブリエラ ギマラエス",
-          "score": 100
-        },
-        {
-          "keyword": "ペリリュー島",
-          "score": 99
-        },
-        {
-          "keyword": "債券",
-          "score": 98
-        },
-        {
-          "keyword": "沢登り",
-          "score": 97
-        },
-        {
-          "keyword": "樽美酒研二",
-          "score": 96
-        },
-        {
-          "keyword": "軍需産業",
-          "score": 95
-        },
-        {
-          "keyword": "日曜 劇場 vivant",
-          "score": 94
-        },
-        {
-          "keyword": "アベンジャーズ/ドゥームズデイ",
-          "score": 93
-        },
-        {
-          "keyword": "大竹耕太郎",
-          "score": 92
-        },
-        {
-          "keyword": "辻希美 長女",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-17T14:24:30.649Z",
       "geo": "JP",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "介護",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-21T14:04:30.159Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ジブリ",
+          "score": 100
+        },
+        {
+          "keyword": "松山ケンイチ",
+          "score": 99
+        },
+        {
+          "keyword": "povo",
+          "score": 98
+        },
+        {
+          "keyword": "今日の月",
+          "score": 97
+        },
+        {
+          "keyword": "dカード",
+          "score": 96
+        },
+        {
+          "keyword": "か の まりあ",
+          "score": 95
+        },
+        {
+          "keyword": "災 劇場版",
+          "score": 94
+        },
+        {
+          "keyword": "ジャルジャル",
+          "score": 93
+        },
+        {
+          "keyword": "銭形平次 亀梨和也",
+          "score": 92
+        },
+        {
+          "keyword": "ウルトラクイズ",
           "score": 91
         }
       ]

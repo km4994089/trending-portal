@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-17T13:58:32.895Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "breece hall",
-          "score": 100
-        },
-        {
-          "keyword": "brittany mahomes",
-          "score": 99
-        },
-        {
-          "keyword": "meta stock price",
-          "score": 98
-        },
-        {
-          "keyword": "sndk stock price",
-          "score": 97
-        },
-        {
-          "keyword": "kyle richards",
-          "score": 96
-        },
-        {
-          "keyword": "weather tulsa",
-          "score": 95
-        },
-        {
-          "keyword": "trendon watford",
-          "score": 94
-        },
-        {
-          "keyword": "espn angel reese wnba rebounding",
-          "score": 93
-        },
-        {
-          "keyword": "diego moreira",
-          "score": 92
-        },
-        {
-          "keyword": "notes",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-17T14:24:28.195Z",
       "geo": "US",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "dp world tour",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-21T14:04:27.795Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "renaissance",
+          "score": 100
+        },
+        {
+          "keyword": "hood stock",
+          "score": 99
+        },
+        {
+          "keyword": "measles",
+          "score": 98
+        },
+        {
+          "keyword": "pl",
+          "score": 97
+        },
+        {
+          "keyword": "new york times games",
+          "score": 96
+        },
+        {
+          "keyword": "andrew haden",
+          "score": 95
+        },
+        {
+          "keyword": "current events",
+          "score": 94
+        },
+        {
+          "keyword": "tesla autopilot",
+          "score": 93
+        },
+        {
+          "keyword": "fidelity crypto",
+          "score": 92
+        },
+        {
+          "keyword": "prince harry news",
           "score": 91
         }
       ]
