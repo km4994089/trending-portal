@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-17T09:30:17.375Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lluvia",
-          "score": 100
-        },
-        {
-          "keyword": "boeing ah-64 apache",
-          "score": 99
-        },
-        {
-          "keyword": "polymarket",
-          "score": 98
-        },
-        {
-          "keyword": "kalshi",
-          "score": 97
-        },
-        {
-          "keyword": "sophie cunningham wnba",
-          "score": 96
-        },
-        {
-          "keyword": "jutta leerdam",
-          "score": 95
-        },
-        {
-          "keyword": "johnny",
-          "score": 94
-        },
-        {
-          "keyword": "krone",
-          "score": 93
-        },
-        {
-          "keyword": "pandemic",
-          "score": 92
-        },
-        {
-          "keyword": "robbie williams",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-17T10:05:42.562Z",
       "geo": "US",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "on",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-21T09:58:02.309Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "price of silver",
+          "score": 100
+        },
+        {
+          "keyword": "world cup",
+          "score": 99
+        },
+        {
+          "keyword": "eth price",
+          "score": 98
+        },
+        {
+          "keyword": "alaska plane crash",
+          "score": 97
+        },
+        {
+          "keyword": "mstr stock",
+          "score": 96
+        },
+        {
+          "keyword": "why is crypto going up today",
+          "score": 95
+        },
+        {
+          "keyword": "stock market news today",
+          "score": 94
+        },
+        {
+          "keyword": "mstr",
+          "score": 93
+        },
+        {
+          "keyword": "isla fisher",
+          "score": 92
+        },
+        {
+          "keyword": "fidelity bitcoin",
           "score": 91
         }
       ]
