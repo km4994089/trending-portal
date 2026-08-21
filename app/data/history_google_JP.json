@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-17T21:47:09.380Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "投資",
-          "score": 100
-        },
-        {
-          "keyword": "レアル マドリード",
-          "score": 99
-        },
-        {
-          "keyword": "ウマ娘 ローソン",
-          "score": 98
-        },
-        {
-          "keyword": "レイズ 対 オリオールズ",
-          "score": 97
-        },
-        {
-          "keyword": "配当",
-          "score": 96
-        },
-        {
-          "keyword": "旭川 天気",
-          "score": 95
-        },
-        {
-          "keyword": "マンジャロ",
-          "score": 94
-        },
-        {
-          "keyword": "金",
-          "score": 93
-        },
-        {
-          "keyword": "24 時間 テレビ 愛 は 地球 を 救う",
-          "score": 92
-        },
-        {
-          "keyword": "ゴゴスマ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-17T22:13:21.374Z",
       "geo": "JP",
       "source": "google",
@@ -6907,6 +6860,53 @@
         },
         {
           "keyword": "再放送",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-21T22:13:04.342Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "schd",
+          "score": 100
+        },
+        {
+          "keyword": "アジア大会 聖火リレー",
+          "score": 99
+        },
+        {
+          "keyword": "フィリーズ 対 カージナルス",
+          "score": 98
+        },
+        {
+          "keyword": "小川泰平",
+          "score": 97
+        },
+        {
+          "keyword": "付録",
+          "score": 96
+        },
+        {
+          "keyword": "米朝首脳会談",
+          "score": 95
+        },
+        {
+          "keyword": "thời tiết",
+          "score": 94
+        },
+        {
+          "keyword": "payp",
+          "score": 93
+        },
+        {
+          "keyword": "山本麻衣",
+          "score": 92
+        },
+        {
+          "keyword": "ダウ平均株価",
           "score": 91
         }
       ]
