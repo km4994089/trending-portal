@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-17T22:13:19.659Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "상호금융",
-          "score": 100
-        },
-        {
-          "keyword": "민생지원금",
-          "score": 99
-        },
-        {
-          "keyword": "나솔",
-          "score": 98
-        },
-        {
-          "keyword": "김상식",
-          "score": 97
-        },
-        {
-          "keyword": "재건축",
-          "score": 96
-        },
-        {
-          "keyword": "후티 예멘",
-          "score": 95
-        },
-        {
-          "keyword": "고속도로",
-          "score": 94
-        },
-        {
-          "keyword": "최태원",
-          "score": 93
-        },
-        {
-          "keyword": "พยากรณ์อากาศ",
-          "score": 92
-        },
-        {
-          "keyword": "강기윤",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-08-17T22:47:13.847Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "fc 서울",
-          "score": 100
-        },
-        {
-          "keyword": "육상 경기",
-          "score": 99
-        },
-        {
-          "keyword": "나는 solo",
-          "score": 98
-        },
-        {
-          "keyword": "수영",
-          "score": 97
-        },
-        {
-          "keyword": "심현섭",
-          "score": 96
-        },
-        {
-          "keyword": "강원랜드",
-          "score": 95
-        },
-        {
-          "keyword": "상호금융",
-          "score": 94
-        },
-        {
-          "keyword": "정부",
-          "score": 93
-        },
-        {
-          "keyword": "민생지원금",
-          "score": 92
-        },
-        {
-          "keyword": "김상식",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-17T23:13:05.853Z",
       "geo": "KR",
       "source": "google",
@@ -6907,6 +6813,53 @@
         },
         {
           "keyword": "부동산",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-21T22:47:41.373Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "박성현",
+          "score": 100
+        },
+        {
+          "keyword": "혈당",
+          "score": 99
+        },
+        {
+          "keyword": "손성빈",
+          "score": 98
+        },
+        {
+          "keyword": "vix",
+          "score": 97
+        },
+        {
+          "keyword": "주식",
+          "score": 96
+        },
+        {
+          "keyword": "tsla",
+          "score": 95
+        },
+        {
+          "keyword": "lng선",
+          "score": 94
+        },
+        {
+          "keyword": "다우 존스 산업평균지수",
+          "score": 93
+        },
+        {
+          "keyword": "schd",
+          "score": 92
+        },
+        {
+          "keyword": "콜레스테롤",
           "score": 91
         }
       ]
