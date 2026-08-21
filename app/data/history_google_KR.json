@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-17T13:14:00.300Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "도지코인",
-          "score": 100
-        },
-        {
-          "keyword": "가요무대",
-          "score": 99
-        },
-        {
-          "keyword": "최수종",
-          "score": 98
-        },
-        {
-          "keyword": "김상욱",
-          "score": 97
-        },
-        {
-          "keyword": "iphone 17 pro",
-          "score": 96
-        },
-        {
-          "keyword": "니콜 키드먼",
-          "score": 95
-        },
-        {
-          "keyword": "로봇",
-          "score": 94
-        },
-        {
-          "keyword": "김태선",
-          "score": 93
-        },
-        {
-          "keyword": "openai",
-          "score": 92
-        },
-        {
-          "keyword": "신세계",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-17T13:58:34.228Z",
       "geo": "KR",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "f1",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-21T13:24:15.122Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "정유라",
+          "score": 100
+        },
+        {
+          "keyword": "박원숙",
+          "score": 99
+        },
+        {
+          "keyword": "법관",
+          "score": 98
+        },
+        {
+          "keyword": "내가 만난 사이코패스",
+          "score": 97
+        },
+        {
+          "keyword": "공원",
+          "score": 96
+        },
+        {
+          "keyword": "김예건",
+          "score": 95
+        },
+        {
+          "keyword": "이정범",
+          "score": 94
+        },
+        {
+          "keyword": "twitch",
+          "score": 93
+        },
+        {
+          "keyword": "f-35a",
+          "score": 92
+        },
+        {
+          "keyword": "최준희",
           "score": 91
         }
       ]

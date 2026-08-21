@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-17T13:14:01.424Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大竹耕太郎",
-          "score": 100
-        },
-        {
-          "keyword": "辻希美 長女",
-          "score": 99
-        },
-        {
-          "keyword": "気になるマン",
-          "score": 98
-        },
-        {
-          "keyword": "ガブリエラ・ギマラエス",
-          "score": 97
-        },
-        {
-          "keyword": "加護亜依",
-          "score": 96
-        },
-        {
-          "keyword": "ブレイキングダウン",
-          "score": 95
-        },
-        {
-          "keyword": "山中市長",
-          "score": 94
-        },
-        {
-          "keyword": "ラウール",
-          "score": 93
-        },
-        {
-          "keyword": "ノルマンディー",
-          "score": 92
-        },
-        {
-          "keyword": "下村 幸男",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-17T13:58:35.753Z",
       "geo": "JP",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "地震 いま",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-21T13:24:18.169Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "勝地涼",
+          "score": 100
+        },
+        {
+          "keyword": "大村競艇",
+          "score": 99
+        },
+        {
+          "keyword": "ドジャース 大谷翔平",
+          "score": 98
+        },
+        {
+          "keyword": "大韓航空",
+          "score": 97
+        },
+        {
+          "keyword": "阪神 マジック",
+          "score": 96
+        },
+        {
+          "keyword": "ヨーロッパ中期予報センター",
+          "score": 95
+        },
+        {
+          "keyword": "仁川国際空港",
+          "score": 94
+        },
+        {
+          "keyword": "レンタル家族",
+          "score": 93
+        },
+        {
+          "keyword": "日産",
+          "score": 92
+        },
+        {
+          "keyword": "介護",
           "score": 91
         }
       ]
