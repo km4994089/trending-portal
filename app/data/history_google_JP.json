@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-17T00:38:28.454Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "原 辰徳",
-          "score": 100
-        },
-        {
-          "keyword": "ユニチカ 株価",
-          "score": 99
-        },
-        {
-          "keyword": "石原さとみ",
-          "score": 98
-        },
-        {
-          "keyword": "fedex",
-          "score": 97
-        },
-        {
-          "keyword": "nec",
-          "score": 96
-        },
-        {
-          "keyword": "甲子園チケット",
-          "score": 95
-        },
-        {
-          "keyword": "ハワイ ハリケーン",
-          "score": 94
-        },
-        {
-          "keyword": "キオクシア",
-          "score": 93
-        },
-        {
-          "keyword": "経済 的 損失",
-          "score": 92
-        },
-        {
-          "keyword": "gdp",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-17T02:13:38.004Z",
       "geo": "JP",
       "source": "google",
@@ -6907,6 +6860,53 @@
         },
         {
           "keyword": "千葉ロッテマリーンズ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-21T00:40:38.073Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "死刑執行",
+          "score": 100
+        },
+        {
+          "keyword": "死刑",
+          "score": 99
+        },
+        {
+          "keyword": "skハイニックス",
+          "score": 98
+        },
+        {
+          "keyword": "甲子園チケット",
+          "score": 97
+        },
+        {
+          "keyword": "消費者物価指数",
+          "score": 96
+        },
+        {
+          "keyword": "萩本欽一",
+          "score": 95
+        },
+        {
+          "keyword": "ウサインボルト",
+          "score": 94
+        },
+        {
+          "keyword": "沖縄",
+          "score": 93
+        },
+        {
+          "keyword": "インフルエンザ 流行",
+          "score": 92
+        },
+        {
+          "keyword": "沖縄 地震",
           "score": 91
         }
       ]
