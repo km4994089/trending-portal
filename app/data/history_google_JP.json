@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-18T07:12:45.635Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "俳優保田泰志",
-          "score": 100
-        },
-        {
-          "keyword": "織田翔希 ドラフト",
-          "score": 99
-        },
-        {
-          "keyword": "エルニーニョ",
-          "score": 98
-        },
-        {
-          "keyword": "北海道 共同 募金 会",
-          "score": 97
-        },
-        {
-          "keyword": "keiko",
-          "score": 96
-        },
-        {
-          "keyword": "豪邸",
-          "score": 95
-        },
-        {
-          "keyword": "川崎競馬",
-          "score": 94
-        },
-        {
-          "keyword": "日ハム",
-          "score": 93
-        },
-        {
-          "keyword": "宮根誠司",
-          "score": 92
-        },
-        {
-          "keyword": "わたなべ麻衣",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-18T07:59:54.011Z",
       "geo": "JP",
       "source": "google",
@@ -6907,6 +6860,53 @@
         },
         {
           "keyword": "横浜スタジアム",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-22T07:51:51.766Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "上重聡",
+          "score": 100
+        },
+        {
+          "keyword": "岩嵜翔",
+          "score": 99
+        },
+        {
+          "keyword": "八戸 対 仙台",
+          "score": 98
+        },
+        {
+          "keyword": "tokyo weather",
+          "score": 97
+        },
+        {
+          "keyword": "東京 天気",
+          "score": 96
+        },
+        {
+          "keyword": "相続",
+          "score": 95
+        },
+        {
+          "keyword": "冬のなんかさ、春のなんかね",
+          "score": 94
+        },
+        {
+          "keyword": "剣道",
+          "score": 93
+        },
+        {
+          "keyword": "松山弘平",
+          "score": 92
+        },
+        {
+          "keyword": "霧島市",
           "score": 91
         }
       ]
