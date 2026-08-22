@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-18T16:25:01.804Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "amc",
-          "score": 100
-        },
-        {
-          "keyword": "slides",
-          "score": 99
-        },
-        {
-          "keyword": "windows 10",
-          "score": 98
-        },
-        {
-          "keyword": "patricia heaton",
-          "score": 97
-        },
-        {
-          "keyword": "kateřina siniaková",
-          "score": 96
-        },
-        {
-          "keyword": "pbs",
-          "score": 95
-        },
-        {
-          "keyword": "imax dune 3",
-          "score": 94
-        },
-        {
-          "keyword": "venezuela",
-          "score": 93
-        },
-        {
-          "keyword": "fandango",
-          "score": 92
-        },
-        {
-          "keyword": "bill rasmussen",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-18T16:55:25.476Z",
       "geo": "US",
       "source": "google",
@@ -7001,6 +6954,53 @@
         },
         {
           "keyword": "coronavirus",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-22T16:46:16.729Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "browns game",
+          "score": 100
+        },
+        {
+          "keyword": "buckcherry",
+          "score": 99
+        },
+        {
+          "keyword": "the rock",
+          "score": 98
+        },
+        {
+          "keyword": "josh dobbs",
+          "score": 97
+        },
+        {
+          "keyword": "lions schedule 2026",
+          "score": 96
+        },
+        {
+          "keyword": "amik robertson",
+          "score": 95
+        },
+        {
+          "keyword": "michael cammarata",
+          "score": 94
+        },
+        {
+          "keyword": "olympiacos fc",
+          "score": 93
+        },
+        {
+          "keyword": "raúl jiménez",
+          "score": 92
+        },
+        {
+          "keyword": "ed markey seth moulton primary",
           "score": 91
         }
       ]
