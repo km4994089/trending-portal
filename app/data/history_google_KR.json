@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-18T08:37:19.190Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "보조금",
-          "score": 100
-        },
-        {
-          "keyword": "빌라",
-          "score": 99
-        },
-        {
-          "keyword": "쌍방울그룹",
-          "score": 98
-        },
-        {
-          "keyword": "천연가스",
-          "score": 97
-        },
-        {
-          "keyword": "골프",
-          "score": 96
-        },
-        {
-          "keyword": "용산공원",
-          "score": 95
-        },
-        {
-          "keyword": "데이나 화이트",
-          "score": 94
-        },
-        {
-          "keyword": "현금",
-          "score": 93
-        },
-        {
-          "keyword": "개혁신당",
-          "score": 92
-        },
-        {
-          "keyword": "중대범죄 수사청",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-18T09:22:06.000Z",
       "geo": "KR",
       "source": "google",
@@ -6907,6 +6860,53 @@
         },
         {
           "keyword": "추석 민생지원금",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-22T08:53:59.797Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mlb",
+          "score": 100
+        },
+        {
+          "keyword": "박재현",
+          "score": 99
+        },
+        {
+          "keyword": "해군사관학교",
+          "score": 98
+        },
+        {
+          "keyword": "엔비디아",
+          "score": 97
+        },
+        {
+          "keyword": "초과근무",
+          "score": 96
+        },
+        {
+          "keyword": "송치",
+          "score": 95
+        },
+        {
+          "keyword": "오싹한 연애",
+          "score": 94
+        },
+        {
+          "keyword": "신랑",
+          "score": 93
+        },
+        {
+          "keyword": "골드뱅킹",
+          "score": 92
+        },
+        {
+          "keyword": "사장님 귀는 당나귀 귀",
           "score": 91
         }
       ]

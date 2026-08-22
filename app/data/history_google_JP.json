@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-18T08:37:20.321Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ゲリラ豪雨",
-          "score": 100
-        },
-        {
-          "keyword": "ジャパンカップ",
-          "score": 99
-        },
-        {
-          "keyword": "有明高校 骨折",
-          "score": 98
-        },
-        {
-          "keyword": "阪神 対 ヤクルト",
-          "score": 97
-        },
-        {
-          "keyword": "広島 対 中日",
-          "score": 96
-        },
-        {
-          "keyword": "健大高崎 石垣",
-          "score": 95
-        },
-        {
-          "keyword": "コシヒカリ",
-          "score": 94
-        },
-        {
-          "keyword": "小園海斗",
-          "score": 93
-        },
-        {
-          "keyword": "高齢",
-          "score": 92
-        },
-        {
-          "keyword": "気圧",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-18T09:22:07.566Z",
       "geo": "JP",
       "source": "google",
@@ -6907,6 +6860,53 @@
         },
         {
           "keyword": "サンモール 高砂",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-22T08:54:01.005Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "豊田スタジアム",
+          "score": 100
+        },
+        {
+          "keyword": "記録的短時間大雨情報",
+          "score": 99
+        },
+        {
+          "keyword": "天気 横浜",
+          "score": 98
+        },
+        {
+          "keyword": "u21 jリーグ",
+          "score": 97
+        },
+        {
+          "keyword": "神田川",
+          "score": 96
+        },
+        {
+          "keyword": "皆藤 愛子",
+          "score": 95
+        },
+        {
+          "keyword": "テテ",
+          "score": 94
+        },
+        {
+          "keyword": "六本木ヒルズ",
+          "score": 93
+        },
+        {
+          "keyword": "鹿島 対 福岡",
+          "score": 92
+        },
+        {
+          "keyword": "資産",
           "score": 91
         }
       ]
