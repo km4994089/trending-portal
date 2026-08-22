@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-18T11:47:49.350Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "같이 삽시다",
-          "score": 100
-        },
-        {
-          "keyword": "서울지하철",
-          "score": 99
-        },
-        {
-          "keyword": "전지현",
-          "score": 98
-        },
-        {
-          "keyword": "티켓링크",
-          "score": 97
-        },
-        {
-          "keyword": "키움 대 롯데",
-          "score": 96
-        },
-        {
-          "keyword": "야구여왕",
-          "score": 95
-        },
-        {
-          "keyword": "택시",
-          "score": 94
-        },
-        {
-          "keyword": "레이더",
-          "score": 93
-        },
-        {
-          "keyword": "김원효",
-          "score": 92
-        },
-        {
-          "keyword": "주식",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-18T12:23:06.944Z",
       "geo": "KR",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "창원시",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-22T12:18:05.702Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "안산 그리너스 대 성남",
+          "score": 100
+        },
+        {
+          "keyword": "쿠팡 플레이",
+          "score": 99
+        },
+        {
+          "keyword": "미국 상품거래위원회",
+          "score": 98
+        },
+        {
+          "keyword": "원종해",
+          "score": 97
+        },
+        {
+          "keyword": "김용필",
+          "score": 96
+        },
+        {
+          "keyword": "hull vs man united",
+          "score": 95
+        },
+        {
+          "keyword": "hull city đấu với man utd",
+          "score": 94
+        },
+        {
+          "keyword": "김영웅",
+          "score": 93
+        },
+        {
+          "keyword": "동남아시아 축구 연맹 선수권 대회",
+          "score": 92
+        },
+        {
+          "keyword": "lck",
           "score": 91
         }
       ]
