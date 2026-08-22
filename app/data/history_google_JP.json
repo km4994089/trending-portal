@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-18T02:09:26.086Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "都築",
-          "score": 100
-        },
-        {
-          "keyword": "ナタリー・ハープ",
-          "score": 99
-        },
-        {
-          "keyword": "甲子園",
-          "score": 98
-        },
-        {
-          "keyword": "マックス・マンシー",
-          "score": 97
-        },
-        {
-          "keyword": "スネル",
-          "score": 96
-        },
-        {
-          "keyword": "高校野球",
-          "score": 95
-        },
-        {
-          "keyword": "四千頭身",
-          "score": 94
-        },
-        {
-          "keyword": "しまむら マンチェスターシティ",
-          "score": 93
-        },
-        {
-          "keyword": "ロサンゼルス・ドジャース",
-          "score": 92
-        },
-        {
-          "keyword": "pl学園",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-18T03:14:09.469Z",
       "geo": "JP",
       "source": "google",
@@ -6907,6 +6860,53 @@
         },
         {
           "keyword": "甲子園ライブ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-22T03:12:25.739Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ピート・クロウ=アームストロング",
+          "score": 100
+        },
+        {
+          "keyword": "高田 み づえ",
+          "score": 99
+        },
+        {
+          "keyword": "ウーバー",
+          "score": 98
+        },
+        {
+          "keyword": "ニュース",
+          "score": 97
+        },
+        {
+          "keyword": "マックス・マンシー",
+          "score": 96
+        },
+        {
+          "keyword": "eテレ",
+          "score": 95
+        },
+        {
+          "keyword": "秋元優里",
+          "score": 94
+        },
+        {
+          "keyword": "智弁学園 智弁和歌山",
+          "score": 93
+        },
+        {
+          "keyword": "dodgers vs pirates",
+          "score": 92
+        },
+        {
+          "keyword": "北海道マラソン",
           "score": 91
         }
       ]
