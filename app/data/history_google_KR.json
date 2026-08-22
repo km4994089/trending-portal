@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-18T10:52:50.487Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "주식",
-          "score": 100
-        },
-        {
-          "keyword": "야구",
-          "score": 99
-        },
-        {
-          "keyword": "김원효",
-          "score": 98
-        },
-        {
-          "keyword": "김숙",
-          "score": 97
-        },
-        {
-          "keyword": "삼성 갤럭시s26",
-          "score": 96
-        },
-        {
-          "keyword": "이마트 트레이더 스",
-          "score": 95
-        },
-        {
-          "keyword": "버스",
-          "score": 94
-        },
-        {
-          "keyword": "이효리",
-          "score": 93
-        },
-        {
-          "keyword": "kt 대 lg",
-          "score": 92
-        },
-        {
-          "keyword": "권칠승",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-18T11:15:49.032Z",
       "geo": "KR",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "리벨리온",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-22T11:11:19.259Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "기상",
+          "score": 100
+        },
+        {
+          "keyword": "안우진",
+          "score": 99
+        },
+        {
+          "keyword": "서건창",
+          "score": 98
+        },
+        {
+          "keyword": "xsmn",
+          "score": 97
+        },
+        {
+          "keyword": "부천 대 포항",
+          "score": 96
+        },
+        {
+          "keyword": "제주 대 김천상무",
+          "score": 95
+        },
+        {
+          "keyword": "창원시",
+          "score": 94
+        },
+        {
+          "keyword": "전북 대 울산",
+          "score": 93
+        },
+        {
+          "keyword": "안양 대 fc 서울",
+          "score": 92
+        },
+        {
+          "keyword": "대한민국 방위사업청",
           "score": 91
         }
       ]

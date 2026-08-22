@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-18T10:52:49.494Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "general atomics mq-9 reaper losses",
-          "score": 100
-        },
-        {
-          "keyword": "airtag",
-          "score": 99
-        },
-        {
-          "keyword": "din thomas",
-          "score": 98
-        },
-        {
-          "keyword": "angie nixon",
-          "score": 97
-        },
-        {
-          "keyword": "marvel avengers doomsday",
-          "score": 96
-        },
-        {
-          "keyword": "philadelphia flyers",
-          "score": 95
-        },
-        {
-          "keyword": "dave ramsey",
-          "score": 94
-        },
-        {
-          "keyword": "weather new york",
-          "score": 93
-        },
-        {
-          "keyword": "flock safety license plate lookup",
-          "score": 92
-        },
-        {
-          "keyword": "detroit red wings",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-18T11:15:47.814Z",
       "geo": "US",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "today's weather",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-22T11:11:18.141Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "deportation",
+          "score": 100
+        },
+        {
+          "keyword": "birmingham vs bristol city",
+          "score": 99
+        },
+        {
+          "keyword": "scottie scheffler bmw championship performance",
+          "score": 98
+        },
+        {
+          "keyword": "weather.com",
+          "score": 97
+        },
+        {
+          "keyword": "liga española",
+          "score": 96
+        },
+        {
+          "keyword": "hull vs man united",
+          "score": 95
+        },
+        {
+          "keyword": "f1",
+          "score": 94
+        },
+        {
+          "keyword": "nba2k",
+          "score": 93
+        },
+        {
+          "keyword": "johnathan hillstrand",
+          "score": 92
+        },
+        {
+          "keyword": "justin hartley",
           "score": 91
         }
       ]
