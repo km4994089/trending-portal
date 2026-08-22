@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-18T17:50:36.277Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "world cup schedule",
-          "score": 100
-        },
-        {
-          "keyword": "チャンピオンズ",
-          "score": 99
-        },
-        {
-          "keyword": "秋篠宮 パラグアイ",
-          "score": 98
-        },
-        {
-          "keyword": "超特急 タカシ",
-          "score": 97
-        },
-        {
-          "keyword": "マドンナ",
-          "score": 96
-        },
-        {
-          "keyword": "=love",
-          "score": 95
-        },
-        {
-          "keyword": "ブレイキングダウン",
-          "score": 94
-        },
-        {
-          "keyword": "結婚",
-          "score": 93
-        },
-        {
-          "keyword": "劇場版 魔法少女まどか☆マギカ <ワルプルギスの廻天>",
-          "score": 92
-        },
-        {
-          "keyword": "宇垣美里",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-18T18:22:04.956Z",
       "geo": "JP",
       "source": "google",
@@ -7001,6 +6954,53 @@
         },
         {
           "keyword": "断水",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-22T18:14:42.581Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "リーガエスパニョーラ",
+          "score": 100
+        },
+        {
+          "keyword": "さくら",
+          "score": 99
+        },
+        {
+          "keyword": "プレート",
+          "score": 98
+        },
+        {
+          "keyword": "アラート",
+          "score": 97
+        },
+        {
+          "keyword": "nhk news",
+          "score": 96
+        },
+        {
+          "keyword": "ドルトムント 対 バイエルン",
+          "score": 95
+        },
+        {
+          "keyword": "能登半島地震",
+          "score": 94
+        },
+        {
+          "keyword": "防災",
+          "score": 93
+        },
+        {
+          "keyword": "ラジコ",
+          "score": 92
+        },
+        {
+          "keyword": "地震 被害",
           "score": 91
         }
       ]
