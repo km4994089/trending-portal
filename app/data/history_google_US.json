@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-18T16:55:25.476Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "baseball",
-          "score": 100
-        },
-        {
-          "keyword": "dune 3 imax 70mm",
-          "score": 99
-        },
-        {
-          "keyword": "bayern munich",
-          "score": 98
-        },
-        {
-          "keyword": "canada",
-          "score": 97
-        },
-        {
-          "keyword": "xbox cloud gaming",
-          "score": 96
-        },
-        {
-          "keyword": "amc",
-          "score": 95
-        },
-        {
-          "keyword": "slides",
-          "score": 94
-        },
-        {
-          "keyword": "windows 10",
-          "score": 93
-        },
-        {
-          "keyword": "patricia heaton",
-          "score": 92
-        },
-        {
-          "keyword": "kateřina siniaková",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-18T17:18:11.280Z",
       "geo": "US",
       "source": "google",
@@ -7001,6 +6954,53 @@
         },
         {
           "keyword": "ed markey seth moulton primary",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-22T17:11:32.304Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "vikings game",
+          "score": 100
+        },
+        {
+          "keyword": "kaytron allen",
+          "score": 99
+        },
+        {
+          "keyword": "colts game",
+          "score": 98
+        },
+        {
+          "keyword": "ronda rousey",
+          "score": 97
+        },
+        {
+          "keyword": "valencia vs celta",
+          "score": 96
+        },
+        {
+          "keyword": "sony playstation",
+          "score": 95
+        },
+        {
+          "keyword": "djed spence",
+          "score": 94
+        },
+        {
+          "keyword": "lions score",
+          "score": 93
+        },
+        {
+          "keyword": "anna paquin",
+          "score": 92
+        },
+        {
+          "keyword": "save america",
           "score": 91
         }
       ]

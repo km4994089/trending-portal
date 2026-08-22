@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-18T16:55:27.766Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "world cup schedule",
-          "score": 100
-        },
-        {
-          "keyword": "チャンピオンズ",
-          "score": 99
-        },
-        {
-          "keyword": "朴ロ美",
-          "score": 98
-        },
-        {
-          "keyword": "秋篠宮 パラグアイ",
-          "score": 97
-        },
-        {
-          "keyword": "超特急 タカシ",
-          "score": 96
-        },
-        {
-          "keyword": "マドンナ",
-          "score": 95
-        },
-        {
-          "keyword": "=love",
-          "score": 94
-        },
-        {
-          "keyword": "ブレイキングダウン",
-          "score": 93
-        },
-        {
-          "keyword": "結婚",
-          "score": 92
-        },
-        {
-          "keyword": "劇場版 魔法少女まどか☆マギカ <ワルプルギスの廻天>",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-18T17:18:15.675Z",
       "geo": "JP",
       "source": "google",
@@ -7001,6 +6954,53 @@
         },
         {
           "keyword": "映画ちいかわ 人魚の島のひみつ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-22T17:11:35.151Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "地震速報",
+          "score": 100
+        },
+        {
+          "keyword": "地震",
+          "score": 99
+        },
+        {
+          "keyword": "茨城 地震",
+          "score": 98
+        },
+        {
+          "keyword": "今の地震",
+          "score": 97
+        },
+        {
+          "keyword": "japan earthquake",
+          "score": 96
+        },
+        {
+          "keyword": "地震 震度",
+          "score": 95
+        },
+        {
+          "keyword": "earthquake",
+          "score": 94
+        },
+        {
+          "keyword": "気象庁",
+          "score": 93
+        },
+        {
+          "keyword": "tokyo earthquake",
+          "score": 92
+        },
+        {
+          "keyword": "震源",
           "score": 91
         }
       ]
