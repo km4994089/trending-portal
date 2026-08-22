@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-18T22:47:14.100Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "천궁2",
-          "score": 100
-        },
-        {
-          "keyword": "운세",
-          "score": 99
-        },
-        {
-          "keyword": "농민",
-          "score": 98
-        },
-        {
-          "keyword": "푸바오",
-          "score": 97
-        },
-        {
-          "keyword": "고예림",
-          "score": 96
-        },
-        {
-          "keyword": "황보라",
-          "score": 95
-        },
-        {
-          "keyword": "hd현대",
-          "score": 94
-        },
-        {
-          "keyword": "가요무대",
-          "score": 93
-        },
-        {
-          "keyword": "종합병원",
-          "score": 92
-        },
-        {
-          "keyword": "김용빈",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-18T23:12:38.375Z",
       "geo": "KR",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "아파트",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-22T23:10:59.635Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "여수시",
+          "score": 100
+        },
+        {
+          "keyword": "김영옥",
+          "score": 99
+        },
+        {
+          "keyword": "킬리안 음바페",
+          "score": 98
+        },
+        {
+          "keyword": "모병제",
+          "score": 97
+        },
+        {
+          "keyword": "축구 감독",
+          "score": 96
+        },
+        {
+          "keyword": "집중호우",
+          "score": 95
+        },
+        {
+          "keyword": "인공지능",
+          "score": 94
+        },
+        {
+          "keyword": "백하나",
+          "score": 93
+        },
+        {
+          "keyword": "해리 케인",
+          "score": 92
+        },
+        {
+          "keyword": "방탄소년단",
           "score": 91
         }
       ]
