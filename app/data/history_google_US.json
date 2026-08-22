@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-18T09:22:04.960Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "bruce springsteen",
-          "score": 100
-        },
-        {
-          "keyword": "queen camilla granddaughter eliza lopes",
-          "score": 99
-        },
-        {
-          "keyword": "camry",
-          "score": 98
-        },
-        {
-          "keyword": "noah kahan tour",
-          "score": 97
-        },
-        {
-          "keyword": "gina carano",
-          "score": 96
-        },
-        {
-          "keyword": "hurricanes storm",
-          "score": 95
-        },
-        {
-          "keyword": "hm",
-          "score": 94
-        },
-        {
-          "keyword": "mcdonalds hello kitty happy meal",
-          "score": 93
-        },
-        {
-          "keyword": "snow",
-          "score": 92
-        },
-        {
-          "keyword": "牛来",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-18T09:55:22.635Z",
       "geo": "US",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "twitch tv",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-22T09:48:17.944Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jerry jones",
+          "score": 100
+        },
+        {
+          "keyword": "npb",
+          "score": 99
+        },
+        {
+          "keyword": "draftkings",
+          "score": 98
+        },
+        {
+          "keyword": "philadelphia phillies game",
+          "score": 97
+        },
+        {
+          "keyword": "ea",
+          "score": 96
+        },
+        {
+          "keyword": "d",
+          "score": 95
+        },
+        {
+          "keyword": "barack obama",
+          "score": 94
+        },
+        {
+          "keyword": "christian gonzalez",
+          "score": 93
+        },
+        {
+          "keyword": "colorado bear trapped in car",
+          "score": 92
+        },
+        {
+          "keyword": "christa pike",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-18T09:22:07.566Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ペヤング 新作",
-          "score": 100
-        },
-        {
-          "keyword": "acle",
-          "score": 99
-        },
-        {
-          "keyword": "久石譲",
-          "score": 98
-        },
-        {
-          "keyword": "ヒロシ",
-          "score": 97
-        },
-        {
-          "keyword": "ラヴ 上 等",
-          "score": 96
-        },
-        {
-          "keyword": "関西テレビ放送",
-          "score": 95
-        },
-        {
-          "keyword": "bat ジャパン",
-          "score": 94
-        },
-        {
-          "keyword": "愛子天皇",
-          "score": 93
-        },
-        {
-          "keyword": "有明高校 骨折",
-          "score": 92
-        },
-        {
-          "keyword": "ゲリラ豪雨",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-18T09:55:25.173Z",
       "geo": "JP",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "記録的短時間大雨情報",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-22T09:48:20.225Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "新潟 対 藤枝",
+          "score": 100
+        },
+        {
+          "keyword": "ブラックラグーン",
+          "score": 99
+        },
+        {
+          "keyword": "algs",
+          "score": 98
+        },
+        {
+          "keyword": "阪神タイガース 今日の試合",
+          "score": 97
+        },
+        {
+          "keyword": "c大阪 対 清水",
+          "score": 96
+        },
+        {
+          "keyword": "京都 対 水戸",
+          "score": 95
+        },
+        {
+          "keyword": "weリーグ",
+          "score": 94
+        },
+        {
+          "keyword": "名古屋 対 g大阪",
+          "score": 93
+        },
+        {
+          "keyword": "マリノス 試合",
+          "score": 92
+        },
+        {
+          "keyword": "マリノス",
           "score": 91
         }
       ]
