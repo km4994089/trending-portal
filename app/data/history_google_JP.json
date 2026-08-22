@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-18T04:04:14.686Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "高校野球 コールド",
-          "score": 100
-        },
-        {
-          "keyword": "プラレール",
-          "score": 99
-        },
-        {
-          "keyword": "プレミアムシネマ",
-          "score": 98
-        },
-        {
-          "keyword": "西林寺",
-          "score": 97
-        },
-        {
-          "keyword": "pca",
-          "score": 96
-        },
-        {
-          "keyword": "甲子園 中継",
-          "score": 95
-        },
-        {
-          "keyword": "モータルシェル2",
-          "score": 94
-        },
-        {
-          "keyword": "エドウィン・ディアス",
-          "score": 93
-        },
-        {
-          "keyword": "楊国福麻辣湯仙台駅前店",
-          "score": 92
-        },
-        {
-          "keyword": "メジャーリーグ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-18T04:59:36.595Z",
       "geo": "JP",
       "source": "google",
@@ -6907,6 +6860,53 @@
         },
         {
           "keyword": "金融危機",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-22T04:56:54.001Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "カイル・ハート",
+          "score": 100
+        },
+        {
+          "keyword": "藤川 球児",
+          "score": 99
+        },
+        {
+          "keyword": "ユニバーサル・スタジオ・ジャパン",
+          "score": 98
+        },
+        {
+          "keyword": "リュウジ",
+          "score": 97
+        },
+        {
+          "keyword": "タッカー",
+          "score": 96
+        },
+        {
+          "keyword": "元木大介",
+          "score": 95
+        },
+        {
+          "keyword": "原英莉花",
+          "score": 94
+        },
+        {
+          "keyword": "ナダル",
+          "score": 93
+        },
+        {
+          "keyword": "千葉ジェッツ",
+          "score": 92
+        },
+        {
+          "keyword": "アジア大会 チケット",
           "score": 91
         }
       ]
