@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-18T17:18:15.675Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "world cup schedule",
-          "score": 100
-        },
-        {
-          "keyword": "チャンピオンズ",
-          "score": 99
-        },
-        {
-          "keyword": "朴ロ美",
-          "score": 98
-        },
-        {
-          "keyword": "秋篠宮 パラグアイ",
-          "score": 97
-        },
-        {
-          "keyword": "超特急 タカシ",
-          "score": 96
-        },
-        {
-          "keyword": "マドンナ",
-          "score": 95
-        },
-        {
-          "keyword": "=love",
-          "score": 94
-        },
-        {
-          "keyword": "ブレイキングダウン",
-          "score": 93
-        },
-        {
-          "keyword": "結婚",
-          "score": 92
-        },
-        {
-          "keyword": "劇場版 魔法少女まどか☆マギカ <ワルプルギスの廻天>",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-18T17:50:36.277Z",
       "geo": "JP",
       "source": "google",
@@ -7001,6 +6954,53 @@
         },
         {
           "keyword": "震源",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-22T17:42:50.899Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "地震 被害",
+          "score": 100
+        },
+        {
+          "keyword": "terremoto giappone",
+          "score": 99
+        },
+        {
+          "keyword": "地震被害",
+          "score": 98
+        },
+        {
+          "keyword": "テレビ",
+          "score": 97
+        },
+        {
+          "keyword": "地震 日本",
+          "score": 96
+        },
+        {
+          "keyword": "earthquake near me",
+          "score": 95
+        },
+        {
+          "keyword": "gempa jepang",
+          "score": 94
+        },
+        {
+          "keyword": "川口市",
+          "score": 93
+        },
+        {
+          "keyword": "ライブドアニュース",
+          "score": 92
+        },
+        {
+          "keyword": "断水",
           "score": 91
         }
       ]
