@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-18T18:22:04.956Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "織田 裕二",
-          "score": 100
-        },
-        {
-          "keyword": "world cup schedule",
-          "score": 99
-        },
-        {
-          "keyword": "チャンピオンズ",
-          "score": 98
-        },
-        {
-          "keyword": "朴ロ美",
-          "score": 97
-        },
-        {
-          "keyword": "秋篠宮 パラグアイ",
-          "score": 96
-        },
-        {
-          "keyword": "超特急 タカシ",
-          "score": 95
-        },
-        {
-          "keyword": "マドンナ",
-          "score": 94
-        },
-        {
-          "keyword": "=love",
-          "score": 93
-        },
-        {
-          "keyword": "ブレイキングダウン",
-          "score": 92
-        },
-        {
-          "keyword": "人工島",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-18T19:04:51.724Z",
       "geo": "JP",
       "source": "google",
@@ -7001,6 +6954,53 @@
         },
         {
           "keyword": "地震 被害",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-22T18:54:43.882Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "エスパニョール 対 rマドリード",
+          "score": 100
+        },
+        {
+          "keyword": "ドルトムント",
+          "score": 99
+        },
+        {
+          "keyword": "バイエルン",
+          "score": 98
+        },
+        {
+          "keyword": "さくら",
+          "score": 97
+        },
+        {
+          "keyword": "プレート",
+          "score": 96
+        },
+        {
+          "keyword": "アラート",
+          "score": 95
+        },
+        {
+          "keyword": "nhk news",
+          "score": 94
+        },
+        {
+          "keyword": "ドルトムント 対 バイエルン",
+          "score": 93
+        },
+        {
+          "keyword": "能登半島地震",
+          "score": 92
+        },
+        {
+          "keyword": "防災",
           "score": 91
         }
       ]
