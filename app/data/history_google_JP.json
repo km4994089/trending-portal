@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-18T10:17:41.345Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "高田みづえ",
-          "score": 100
-        },
-        {
-          "keyword": "福山哲郎",
-          "score": 99
-        },
-        {
-          "keyword": "なにわ筋線",
-          "score": 98
-        },
-        {
-          "keyword": "西武",
-          "score": 97
-        },
-        {
-          "keyword": "天皇杯",
-          "score": 96
-        },
-        {
-          "keyword": "タイブレーク",
-          "score": 95
-        },
-        {
-          "keyword": "甲子園 延長",
-          "score": 94
-        },
-        {
-          "keyword": "日刊スポーツ",
-          "score": 93
-        },
-        {
-          "keyword": "勝みなみ",
-          "score": 92
-        },
-        {
-          "keyword": "沖縄県知事",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-18T10:52:51.528Z",
       "geo": "JP",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "宮崎 対 湘南",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-22T10:46:16.552Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "事故",
+          "score": 100
+        },
+        {
+          "keyword": "カターレ富山",
+          "score": 99
+        },
+        {
+          "keyword": "京都サンガ",
+          "score": 98
+        },
+        {
+          "keyword": "ぱかライブtv",
+          "score": 97
+        },
+        {
+          "keyword": "j1リーグ 試合",
+          "score": 96
+        },
+        {
+          "keyword": "大曲花火大会",
+          "score": 95
+        },
+        {
+          "keyword": "ブラウブリッツ秋田",
+          "score": 94
+        },
+        {
+          "keyword": "レベル4大雨危険警報(浸水害)",
+          "score": 93
+        },
+        {
+          "keyword": "木原官房長官",
+          "score": 92
+        },
+        {
+          "keyword": "フットマップ",
           "score": 91
         }
       ]

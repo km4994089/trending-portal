@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-18T10:17:39.944Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kt 대 lg",
-          "score": 100
-        },
-        {
-          "keyword": "권칠승",
-          "score": 99
-        },
-        {
-          "keyword": "kia 대 한화",
-          "score": 98
-        },
-        {
-          "keyword": "ssg 대 삼성",
-          "score": 97
-        },
-        {
-          "keyword": "도시 재개발",
-          "score": 96
-        },
-        {
-          "keyword": "이태한",
-          "score": 95
-        },
-        {
-          "keyword": "우상혁",
-          "score": 94
-        },
-        {
-          "keyword": "앤트로픽",
-          "score": 93
-        },
-        {
-          "keyword": "처벌",
-          "score": 92
-        },
-        {
-          "keyword": "kdb생명",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-18T10:52:50.487Z",
       "geo": "KR",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "로카르노 영화제",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-22T10:46:15.407Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "부천 대 포항",
+          "score": 100
+        },
+        {
+          "keyword": "제주 대 김천상무",
+          "score": 99
+        },
+        {
+          "keyword": "창원시",
+          "score": 98
+        },
+        {
+          "keyword": "전북 대 울산",
+          "score": 97
+        },
+        {
+          "keyword": "안양 대 fc 서울",
+          "score": 96
+        },
+        {
+          "keyword": "대한민국 방위사업청",
+          "score": 95
+        },
+        {
+          "keyword": "qld",
+          "score": 94
+        },
+        {
+          "keyword": "예산",
+          "score": 93
+        },
+        {
+          "keyword": "인천e음",
+          "score": 92
+        },
+        {
+          "keyword": "리벨리온",
           "score": 91
         }
       ]
