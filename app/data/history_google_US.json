@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-18T15:58:03.386Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "epic",
-          "score": 100
-        },
-        {
-          "keyword": "nuno borges",
-          "score": 99
-        },
-        {
-          "keyword": "imax",
-          "score": 98
-        },
-        {
-          "keyword": "madison keys",
-          "score": 97
-        },
-        {
-          "keyword": "servicio de control de inmigración y aduanas",
-          "score": 96
-        },
-        {
-          "keyword": "attorney general",
-          "score": 95
-        },
-        {
-          "keyword": "kyle busch",
-          "score": 94
-        },
-        {
-          "keyword": "lion",
-          "score": 93
-        },
-        {
-          "keyword": "andrey rublev",
-          "score": 92
-        },
-        {
-          "keyword": "trey mancini",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-18T16:25:01.804Z",
       "geo": "US",
       "source": "google",
@@ -7001,6 +6954,53 @@
         },
         {
           "keyword": "tottenham",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-22T16:11:52.303Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "liv golf indianapolis",
+          "score": 100
+        },
+        {
+          "keyword": "athletic bilbao",
+          "score": 99
+        },
+        {
+          "keyword": "mikey moore",
+          "score": 98
+        },
+        {
+          "keyword": "nfl week 1",
+          "score": 97
+        },
+        {
+          "keyword": "inter vs monza",
+          "score": 96
+        },
+        {
+          "keyword": "eintracht trier vs rb leipzig",
+          "score": 95
+        },
+        {
+          "keyword": "springboks vs all blacks",
+          "score": 94
+        },
+        {
+          "keyword": "brentford vs spurs",
+          "score": 93
+        },
+        {
+          "keyword": "giancarlo stanton",
+          "score": 92
+        },
+        {
+          "keyword": "coronavirus",
           "score": 91
         }
       ]
