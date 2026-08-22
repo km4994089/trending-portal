@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-18T09:55:25.173Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "パリーグtv",
-          "score": 100
-        },
-        {
-          "keyword": "美輪明宏",
-          "score": 99
-        },
-        {
-          "keyword": "ionq",
-          "score": 98
-        },
-        {
-          "keyword": "テスホールディングス",
-          "score": 97
-        },
-        {
-          "keyword": "アーバンパークライン",
-          "score": 96
-        },
-        {
-          "keyword": "ペヤング 新作",
-          "score": 95
-        },
-        {
-          "keyword": "acle",
-          "score": 94
-        },
-        {
-          "keyword": "ヒロシ",
-          "score": 93
-        },
-        {
-          "keyword": "ラヴ 上 等",
-          "score": 92
-        },
-        {
-          "keyword": "久石譲",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-18T10:17:41.345Z",
       "geo": "JP",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "マリノス",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-22T10:12:41.150Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "中国共産党",
+          "score": 100
+        },
+        {
+          "keyword": "日ハム 試合",
+          "score": 99
+        },
+        {
+          "keyword": "鹿児島北インターチェンジ",
+          "score": 98
+        },
+        {
+          "keyword": "ロッテ",
+          "score": 97
+        },
+        {
+          "keyword": "ブラタモリ",
+          "score": 96
+        },
+        {
+          "keyword": "鹿児島ユナイテッドfc",
+          "score": 95
+        },
+        {
+          "keyword": "山形 対 横浜fc",
+          "score": 94
+        },
+        {
+          "keyword": "鳥栖 対 栃木c",
+          "score": 93
+        },
+        {
+          "keyword": "大分 対 いわきfc",
+          "score": 92
+        },
+        {
+          "keyword": "宮崎 対 湘南",
           "score": 91
         }
       ]
