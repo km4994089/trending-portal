@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-19T07:13:55.051Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "loki",
-          "score": 100
-        },
-        {
-          "keyword": "seattle",
-          "score": 99
-        },
-        {
-          "keyword": "robin williams",
-          "score": 98
-        },
-        {
-          "keyword": "semaglutide",
-          "score": 97
-        },
-        {
-          "keyword": "diesel fuel",
-          "score": 96
-        },
-        {
-          "keyword": "dan wilson",
-          "score": 95
-        },
-        {
-          "keyword": "petra parker",
-          "score": 94
-        },
-        {
-          "keyword": "lisa kudrow",
-          "score": 93
-        },
-        {
-          "keyword": "isack hadjar",
-          "score": 92
-        },
-        {
-          "keyword": "tupac autopsy",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-19T08:00:03.033Z",
       "geo": "US",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "irumudi movie",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-23T07:54:05.803Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "weather philadelphia",
+          "score": 100
+        },
+        {
+          "keyword": "theo james",
+          "score": 99
+        },
+        {
+          "keyword": "lioness season 3 episode 4",
+          "score": 98
+        },
+        {
+          "keyword": "family horror movie",
+          "score": 97
+        },
+        {
+          "keyword": "covid summer wave",
+          "score": 96
+        },
+        {
+          "keyword": "tropical storm moke",
+          "score": 95
+        },
+        {
+          "keyword": "japan tokyo earthquake today",
+          "score": 94
+        },
+        {
+          "keyword": "ox alpha",
+          "score": 93
+        },
+        {
+          "keyword": "the international 2026",
+          "score": 92
+        },
+        {
+          "keyword": "family movie",
           "score": 91
         }
       ]
