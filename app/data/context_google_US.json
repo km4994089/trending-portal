@@ -1,8 +1,12 @@
 {
-  "capturedAt": "2026-08-23T05:53:12.705Z",
+  "capturedAt": "2026-08-23T06:22:45.325Z",
   "geo": "US",
   "source": "google",
   "items": [
+    {
+      "keyword": "sylvester stallone",
+      "articles": []
+    },
     {
       "keyword": "gordon ramsay",
       "articles": []
@@ -28,19 +32,15 @@
       "articles": []
     },
     {
-      "keyword": "icc",
-      "articles": []
-    },
-    {
       "keyword": "makai lemon",
       "articles": []
     },
     {
-      "keyword": "israel abanikanda",
+      "keyword": "icc",
       "articles": []
     },
     {
-      "keyword": "camila zamorano",
+      "keyword": "israel abanikanda",
       "articles": []
     }
   ]

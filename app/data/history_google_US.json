@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-19T05:56:23.332Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "diesel fuel",
-          "score": 100
-        },
-        {
-          "keyword": "dan wilson",
-          "score": 99
-        },
-        {
-          "keyword": "petra parker",
-          "score": 98
-        },
-        {
-          "keyword": "lisa kudrow",
-          "score": 97
-        },
-        {
-          "keyword": "isack hadjar",
-          "score": 96
-        },
-        {
-          "keyword": "tupac autopsy",
-          "score": 95
-        },
-        {
-          "keyword": "uso seumalo",
-          "score": 94
-        },
-        {
-          "keyword": "weather tornado warning",
-          "score": 93
-        },
-        {
-          "keyword": "mortgage",
-          "score": 92
-        },
-        {
-          "keyword": "the beatles",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-19T06:27:42.069Z",
       "geo": "US",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "camila zamorano",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-23T06:22:45.325Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sylvester stallone",
+          "score": 100
+        },
+        {
+          "keyword": "gordon ramsay",
+          "score": 99
+        },
+        {
+          "keyword": "el cholo",
+          "score": 98
+        },
+        {
+          "keyword": "irumudi movie",
+          "score": 97
+        },
+        {
+          "keyword": "cricbuzz",
+          "score": 96
+        },
+        {
+          "keyword": "penelope cruz",
+          "score": 95
+        },
+        {
+          "keyword": "cruz azul vs atlas f.c. standings",
+          "score": 94
+        },
+        {
+          "keyword": "makai lemon",
+          "score": 93
+        },
+        {
+          "keyword": "icc",
+          "score": 92
+        },
+        {
+          "keyword": "israel abanikanda",
           "score": 91
         }
       ]
