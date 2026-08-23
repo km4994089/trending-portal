@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-19T08:38:30.355Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "scarlett johansson",
-          "score": 100
-        },
-        {
-          "keyword": "dua lipa",
-          "score": 99
-        },
-        {
-          "keyword": "manav suthar",
-          "score": 98
-        },
-        {
-          "keyword": "earthquake now",
-          "score": 97
-        },
-        {
-          "keyword": "cna",
-          "score": 96
-        },
-        {
-          "keyword": "loki",
-          "score": 95
-        },
-        {
-          "keyword": "cubs game yesterday",
-          "score": 94
-        },
-        {
-          "keyword": "seattle",
-          "score": 93
-        },
-        {
-          "keyword": "robin williams",
-          "score": 92
-        },
-        {
-          "keyword": "semaglutide",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-19T09:22:59.598Z",
       "geo": "US",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "the international 2026",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-23T08:54:41.758Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "engagement rings",
+          "score": 100
+        },
+        {
+          "keyword": "weather philadelphia",
+          "score": 99
+        },
+        {
+          "keyword": "theo james",
+          "score": 98
+        },
+        {
+          "keyword": "lioness season 3 episode 4",
+          "score": 97
+        },
+        {
+          "keyword": "family horror movie",
+          "score": 96
+        },
+        {
+          "keyword": "covid summer wave",
+          "score": 95
+        },
+        {
+          "keyword": "tropical storm moke",
+          "score": 94
+        },
+        {
+          "keyword": "japan tokyo earthquake today",
+          "score": 93
+        },
+        {
+          "keyword": "progressive",
+          "score": 92
+        },
+        {
+          "keyword": "ox alpha",
           "score": 91
         }
       ]

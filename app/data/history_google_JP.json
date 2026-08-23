@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-19T08:38:32.254Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "知事",
-          "score": 100
-        },
-        {
-          "keyword": "登山",
-          "score": 99
-        },
-        {
-          "keyword": "夜マック",
-          "score": 98
-        },
-        {
-          "keyword": "伊原",
-          "score": 97
-        },
-        {
-          "keyword": "日本ハム",
-          "score": 96
-        },
-        {
-          "keyword": "anaアメックス",
-          "score": 95
-        },
-        {
-          "keyword": "日ハム 試合",
-          "score": 94
-        },
-        {
-          "keyword": "丸住製紙",
-          "score": 93
-        },
-        {
-          "keyword": "日ハム",
-          "score": 92
-        },
-        {
-          "keyword": "7532",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-19T09:23:02.235Z",
       "geo": "JP",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "自衛隊",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-23T08:54:44.378Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "藤尾翔太",
+          "score": 100
+        },
+        {
+          "keyword": "バレーボール女子アジア選手権",
+          "score": 99
+        },
+        {
+          "keyword": "朝倉海",
+          "score": 98
+        },
+        {
+          "keyword": "巨人戦",
+          "score": 97
+        },
+        {
+          "keyword": "u-21 jリーグ",
+          "score": 96
+        },
+        {
+          "keyword": "岡村 隆史",
+          "score": 95
+        },
+        {
+          "keyword": "ランス・ストロール",
+          "score": 94
+        },
+        {
+          "keyword": "キングオブコント",
+          "score": 93
+        },
+        {
+          "keyword": "音楽番組",
+          "score": 92
+        },
+        {
+          "keyword": "全 中 サッカー",
           "score": 91
         }
       ]
