@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-19T14:59:54.587Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "연애",
-          "score": 100
-        },
-        {
-          "keyword": "김윤덕",
-          "score": 99
-        },
-        {
-          "keyword": "롯데손해보험",
-          "score": 98
-        },
-        {
-          "keyword": "서승재",
-          "score": 97
-        },
-        {
-          "keyword": "moderna",
-          "score": 96
-        },
-        {
-          "keyword": "hd현대중공업",
-          "score": 95
-        },
-        {
-          "keyword": "kbo",
-          "score": 94
-        },
-        {
-          "keyword": "포수",
-          "score": 93
-        },
-        {
-          "keyword": "야구 순위",
-          "score": 92
-        },
-        {
-          "keyword": "남승민",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-19T15:31:25.075Z",
       "geo": "KR",
       "source": "google",
@@ -7142,6 +7095,53 @@
         },
         {
           "keyword": "폐기물",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-23T15:12:25.210Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "아틀레티코 대 비야레알",
+          "score": 100
+        },
+        {
+          "keyword": "갑질",
+          "score": 99
+        },
+        {
+          "keyword": "ngoại hạng anh",
+          "score": 98
+        },
+        {
+          "keyword": "세종특별자치시",
+          "score": 97
+        },
+        {
+          "keyword": "fotmob",
+          "score": 96
+        },
+        {
+          "keyword": "청소",
+          "score": 95
+        },
+        {
+          "keyword": "아스톤빌라",
+          "score": 94
+        },
+        {
+          "keyword": "야구 감독",
+          "score": 93
+        },
+        {
+          "keyword": "브라이튼",
+          "score": 92
+        },
+        {
+          "keyword": "манчестер сити – борнмут",
           "score": 91
         }
       ]
