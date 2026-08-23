@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-19T06:27:42.069Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "robin williams",
-          "score": 100
-        },
-        {
-          "keyword": "semaglutide",
-          "score": 99
-        },
-        {
-          "keyword": "diesel fuel",
-          "score": 98
-        },
-        {
-          "keyword": "dan wilson",
-          "score": 97
-        },
-        {
-          "keyword": "petra parker",
-          "score": 96
-        },
-        {
-          "keyword": "lisa kudrow",
-          "score": 95
-        },
-        {
-          "keyword": "spacex rocket",
-          "score": 94
-        },
-        {
-          "keyword": "isack hadjar",
-          "score": 93
-        },
-        {
-          "keyword": "tupac autopsy",
-          "score": 92
-        },
-        {
-          "keyword": "uso seumalo",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-19T07:13:55.051Z",
       "geo": "US",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "israel abanikanda",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-23T07:08:52.536Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "family horror movie",
+          "score": 100
+        },
+        {
+          "keyword": "tropical storm moke",
+          "score": 99
+        },
+        {
+          "keyword": "ox alpha",
+          "score": 98
+        },
+        {
+          "keyword": "the international 2026",
+          "score": 97
+        },
+        {
+          "keyword": "family movie",
+          "score": 96
+        },
+        {
+          "keyword": "orix buffaloes",
+          "score": 95
+        },
+        {
+          "keyword": "sylvester stallone",
+          "score": 94
+        },
+        {
+          "keyword": "gordon ramsay",
+          "score": 93
+        },
+        {
+          "keyword": "el cholo",
+          "score": 92
+        },
+        {
+          "keyword": "irumudi movie",
           "score": 91
         }
       ]
