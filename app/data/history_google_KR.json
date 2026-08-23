@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-19T22:47:55.621Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "리센느",
-          "score": 100
-        },
-        {
-          "keyword": "погода",
-          "score": 99
-        },
-        {
-          "keyword": "인공섬",
-          "score": 98
-        },
-        {
-          "keyword": "코인",
-          "score": 97
-        },
-        {
-          "keyword": "서산공항",
-          "score": 96
-        },
-        {
-          "keyword": "남희석",
-          "score": 95
-        },
-        {
-          "keyword": "барселона – аль-ахли",
-          "score": 94
-        },
-        {
-          "keyword": "용인시",
-          "score": 93
-        },
-        {
-          "keyword": "공효진",
-          "score": 92
-        },
-        {
-          "keyword": "lng선",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-19T23:13:46.278Z",
       "geo": "KR",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "북한",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-23T23:11:09.165Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "나솔",
+          "score": 100
+        },
+        {
+          "keyword": "화사",
+          "score": 99
+        },
+        {
+          "keyword": "지드래곤",
+          "score": 98
+        },
+        {
+          "keyword": "염경엽",
+          "score": 97
+        },
+        {
+          "keyword": "해리 케인",
+          "score": 96
+        },
+        {
+          "keyword": "사장님 귀는 당나귀 귀",
+          "score": 95
+        },
+        {
+          "keyword": "이시영",
+          "score": 94
+        },
+        {
+          "keyword": "롯데그룹",
+          "score": 93
+        },
+        {
+          "keyword": "pga",
+          "score": 92
+        },
+        {
+          "keyword": "송가인",
           "score": 91
         }
       ]
