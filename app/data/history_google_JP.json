@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-19T15:31:26.015Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "かまいたち",
-          "score": 100
-        },
-        {
-          "keyword": "フライデー",
-          "score": 99
-        },
-        {
-          "keyword": "アジア大会",
-          "score": 98
-        },
-        {
-          "keyword": "ヒロシ トラブル",
-          "score": 97
-        },
-        {
-          "keyword": "星よつは",
-          "score": 96
-        },
-        {
-          "keyword": "パイレーツオブカリビアン",
-          "score": 95
-        },
-        {
-          "keyword": "韓国",
-          "score": 94
-        },
-        {
-          "keyword": "バスケットボール フィリピン 代表",
-          "score": 93
-        },
-        {
-          "keyword": "シリアルキラーと待ち合わせ",
-          "score": 92
-        },
-        {
-          "keyword": "sox",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-19T16:19:04.497Z",
       "geo": "JP",
       "source": "google",
@@ -7142,6 +7095,53 @@
         },
         {
           "keyword": "マインツ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-23T15:43:47.220Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "バルセロナ",
+          "score": 100
+        },
+        {
+          "keyword": "アミロイドーシス",
+          "score": 99
+        },
+        {
+          "keyword": "アトレティコ・マドリード",
+          "score": 98
+        },
+        {
+          "keyword": "栗原陵矢",
+          "score": 97
+        },
+        {
+          "keyword": "今日の月",
+          "score": 96
+        },
+        {
+          "keyword": "中央値",
+          "score": 95
+        },
+        {
+          "keyword": "newcastle vs liverpool",
+          "score": 94
+        },
+        {
+          "keyword": "ngoại hạng anh",
+          "score": 93
+        },
+        {
+          "keyword": "マックス・フェルスタッペン",
+          "score": 92
+        },
+        {
+          "keyword": "atlético madrid vs villarreal",
           "score": 91
         }
       ]
