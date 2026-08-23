@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-19T05:30:09.270Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "petra parker",
-          "score": 100
-        },
-        {
-          "keyword": "lisa kudrow",
-          "score": 99
-        },
-        {
-          "keyword": "tupac autopsy",
-          "score": 98
-        },
-        {
-          "keyword": "isack hadjar",
-          "score": 97
-        },
-        {
-          "keyword": "uso seumalo",
-          "score": 96
-        },
-        {
-          "keyword": "mortgage",
-          "score": 95
-        },
-        {
-          "keyword": "the beatles",
-          "score": 94
-        },
-        {
-          "keyword": "seoul",
-          "score": 93
-        },
-        {
-          "keyword": "pokemon cameras",
-          "score": 92
-        },
-        {
-          "keyword": "justin timberlake",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-19T05:56:23.332Z",
       "geo": "US",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "shipping",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-23T05:53:12.705Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "gordon ramsay",
+          "score": 100
+        },
+        {
+          "keyword": "el cholo",
+          "score": 99
+        },
+        {
+          "keyword": "irumudi movie",
+          "score": 98
+        },
+        {
+          "keyword": "cricbuzz",
+          "score": 97
+        },
+        {
+          "keyword": "penelope cruz",
+          "score": 96
+        },
+        {
+          "keyword": "cruz azul vs atlas f.c. standings",
+          "score": 95
+        },
+        {
+          "keyword": "icc",
+          "score": 94
+        },
+        {
+          "keyword": "makai lemon",
+          "score": 93
+        },
+        {
+          "keyword": "israel abanikanda",
+          "score": 92
+        },
+        {
+          "keyword": "camila zamorano",
           "score": 91
         }
       ]
