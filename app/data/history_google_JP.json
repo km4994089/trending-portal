@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-19T16:19:04.497Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ビットコイン",
-          "score": 100
-        },
-        {
-          "keyword": "忘却バッテリー",
-          "score": 99
-        },
-        {
-          "keyword": "スカイマーク",
-          "score": 98
-        },
-        {
-          "keyword": "ちいかわ映画 入場特典",
-          "score": 97
-        },
-        {
-          "keyword": "山瀬慎之助",
-          "score": 96
-        },
-        {
-          "keyword": "進撃の巨人",
-          "score": 95
-        },
-        {
-          "keyword": "ウィリアム・ジョーンズカップ",
-          "score": 94
-        },
-        {
-          "keyword": "松村 北斗",
-          "score": 93
-        },
-        {
-          "keyword": "フライデー",
-          "score": 92
-        },
-        {
-          "keyword": "アジア大会",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-19T16:53:52.585Z",
       "geo": "JP",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "アミロイドーシス",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-23T16:48:27.145Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "福岡 飲酒運転 事故",
+          "score": 100
+        },
+        {
+          "keyword": "台風情報 進路予想",
+          "score": 99
+        },
+        {
+          "keyword": "板倉滉",
+          "score": 98
+        },
+        {
+          "keyword": "フロジノーネ 対 ユヴェントス",
+          "score": 97
+        },
+        {
+          "keyword": "映画 ちい かわ 人魚 の 島 の ひみつ",
+          "score": 96
+        },
+        {
+          "keyword": "月",
+          "score": 95
+        },
+        {
+          "keyword": "三浦知良",
+          "score": 94
+        },
+        {
+          "keyword": "小川航基",
+          "score": 93
+        },
+        {
+          "keyword": "澤穂希",
+          "score": 92
+        },
+        {
+          "keyword": "佐野海舟",
           "score": 91
         }
       ]
