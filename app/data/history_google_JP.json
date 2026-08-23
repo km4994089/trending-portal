@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-19T09:55:44.971Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ブルーノマーズ ライブ",
-          "score": 100
-        },
-        {
-          "keyword": "新潟記念",
-          "score": 99
-        },
-        {
-          "keyword": "エンカーナシオン",
-          "score": 98
-        },
-        {
-          "keyword": "スカパー",
-          "score": 97
-        },
-        {
-          "keyword": "aston villa",
-          "score": 96
-        },
-        {
-          "keyword": "バウンティラッシュ",
-          "score": 95
-        },
-        {
-          "keyword": "有吉の壁",
-          "score": 94
-        },
-        {
-          "keyword": "ヤマネコ",
-          "score": 93
-        },
-        {
-          "keyword": "佐野 勇 斗",
-          "score": 92
-        },
-        {
-          "keyword": "真珠の耳飾りの少女",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-19T10:18:39.670Z",
       "geo": "JP",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "松戸競輪",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-23T10:13:12.365Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "yrp",
+          "score": 100
+        },
+        {
+          "keyword": "ちいかわコラボ",
+          "score": 99
+        },
+        {
+          "keyword": "バナナマンのせっかくグルメ",
+          "score": 98
+        },
+        {
+          "keyword": "佐賀競馬",
+          "score": 97
+        },
+        {
+          "keyword": "weリーグ",
+          "score": 96
+        },
+        {
+          "keyword": "石田裕太郎",
+          "score": 95
+        },
+        {
+          "keyword": "ゴッドバレー",
+          "score": 94
+        },
+        {
+          "keyword": "橋上秀樹",
+          "score": 93
+        },
+        {
+          "keyword": "stardom 5★star gp",
+          "score": 92
+        },
+        {
+          "keyword": "市況",
           "score": 91
         }
       ]
