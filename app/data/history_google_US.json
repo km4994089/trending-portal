@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-19T04:59:38.730Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mortgage",
-          "score": 100
-        },
-        {
-          "keyword": "the beatles",
-          "score": 99
-        },
-        {
-          "keyword": "seoul",
-          "score": 98
-        },
-        {
-          "keyword": "michael strahan",
-          "score": 97
-        },
-        {
-          "keyword": "hacks",
-          "score": 96
-        },
-        {
-          "keyword": "rosie odonnell",
-          "score": 95
-        },
-        {
-          "keyword": "justin timberlake",
-          "score": 94
-        },
-        {
-          "keyword": "jean smart",
-          "score": 93
-        },
-        {
-          "keyword": "spacex launch",
-          "score": 92
-        },
-        {
-          "keyword": "rosie o'donnell kids",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-19T05:30:09.270Z",
       "geo": "US",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "anthony smith",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-23T05:27:12.135Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "cruz azul vs atlas f.c. standings",
+          "score": 100
+        },
+        {
+          "keyword": "icc",
+          "score": 99
+        },
+        {
+          "keyword": "israel abanikanda",
+          "score": 98
+        },
+        {
+          "keyword": "makai lemon",
+          "score": 97
+        },
+        {
+          "keyword": "camila zamorano",
+          "score": 96
+        },
+        {
+          "keyword": "son heung-min",
+          "score": 95
+        },
+        {
+          "keyword": "time bomb",
+          "score": 94
+        },
+        {
+          "keyword": "shiyazh pete",
+          "score": 93
+        },
+        {
+          "keyword": "andrew tate",
+          "score": 92
+        },
+        {
+          "keyword": "shipping",
           "score": 91
         }
       ]
