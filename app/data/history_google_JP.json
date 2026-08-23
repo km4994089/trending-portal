@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-19T11:15:49.982Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "アメリカ横断ウルトラクイズ",
-          "score": 100
-        },
-        {
-          "keyword": "鹿児島ユナイテッドfc",
-          "score": 99
-        },
-        {
-          "keyword": "タンカー",
-          "score": 98
-        },
-        {
-          "keyword": "プリキュアスターギャラリー",
-          "score": 97
-        },
-        {
-          "keyword": "古賀誠",
-          "score": 96
-        },
-        {
-          "keyword": "bigbang 新曲",
-          "score": 95
-        },
-        {
-          "keyword": "柳楽 優弥",
-          "score": 94
-        },
-        {
-          "keyword": "秋山翔吾",
-          "score": 93
-        },
-        {
-          "keyword": "トラウデン直美",
-          "score": 92
-        },
-        {
-          "keyword": "谷繁元信",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-19T11:47:08.312Z",
       "geo": "JP",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "茨城 花火",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-23T11:42:21.395Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "神宮 阪神",
+          "score": 100
+        },
+        {
+          "keyword": "ミッフィー",
+          "score": 99
+        },
+        {
+          "keyword": "ロッテ",
+          "score": 98
+        },
+        {
+          "keyword": "今日花火",
+          "score": 97
+        },
+        {
+          "keyword": "手越祐也",
+          "score": 96
+        },
+        {
+          "keyword": "恋は命がけ",
+          "score": 95
+        },
+        {
+          "keyword": "みやぞん",
+          "score": 94
+        },
+        {
+          "keyword": "楽天イーグルス",
+          "score": 93
+        },
+        {
+          "keyword": "菜々緒",
+          "score": 92
+        },
+        {
+          "keyword": "神宮球場",
           "score": 91
         }
       ]

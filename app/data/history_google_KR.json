@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-19T11:15:48.961Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "안양 대 제주",
-          "score": 100
-        },
-        {
-          "keyword": "인시디어스",
-          "score": 99
-        },
-        {
-          "keyword": "키움 대 롯데",
-          "score": 98
-        },
-        {
-          "keyword": "정국",
-          "score": 97
-        },
-        {
-          "keyword": "전국노래자랑",
-          "score": 96
-        },
-        {
-          "keyword": "충남 아산 fc 대 대전",
-          "score": 95
-        },
-        {
-          "keyword": "발레바",
-          "score": 94
-        },
-        {
-          "keyword": "kbs 1tv 일일 드라마",
-          "score": 93
-        },
-        {
-          "keyword": "장쯔이",
-          "score": 92
-        },
-        {
-          "keyword": "인수 합병",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-19T11:47:06.882Z",
       "geo": "KR",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "t1",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-23T11:42:20.224Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "미사일",
+          "score": 100
+        },
+        {
+          "keyword": "앞머리",
+          "score": 99
+        },
+        {
+          "keyword": "프로야구",
+          "score": 98
+        },
+        {
+          "keyword": "아시아투데이",
+          "score": 97
+        },
+        {
+          "keyword": "삼성전기",
+          "score": 96
+        },
+        {
+          "keyword": "발데",
+          "score": 95
+        },
+        {
+          "keyword": "워터밤",
+          "score": 94
+        },
+        {
+          "keyword": "우주선",
+          "score": 93
+        },
+        {
+          "keyword": "lg 대 한화",
+          "score": 92
+        },
+        {
+          "keyword": "가락시장",
           "score": 91
         }
       ]
