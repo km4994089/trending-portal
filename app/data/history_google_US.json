@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-19T19:00:27.301Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "etched",
-          "score": 100
-        },
-        {
-          "keyword": "hamza abdelkarim",
-          "score": 99
-        },
-        {
-          "keyword": "derek chauvin",
-          "score": 98
-        },
-        {
-          "keyword": "trift glacier",
-          "score": 97
-        },
-        {
-          "keyword": "arnau ortiz",
-          "score": 96
-        },
-        {
-          "keyword": "jack pugh",
-          "score": 95
-        },
-        {
-          "keyword": "barcelona",
-          "score": 94
-        },
-        {
-          "keyword": "paul skenes",
-          "score": 93
-        },
-        {
-          "keyword": "يلا شوت",
-          "score": 92
-        },
-        {
-          "keyword": "fomc",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-19T19:26:44.647Z",
       "geo": "US",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "atalanta vs sassuolo",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-23T19:14:48.173Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kalshi",
+          "score": 100
+        },
+        {
+          "keyword": "storm vs wings",
+          "score": 99
+        },
+        {
+          "keyword": "giants - red sox",
+          "score": 98
+        },
+        {
+          "keyword": "elche – barcelone",
+          "score": 97
+        },
+        {
+          "keyword": "jessica alba",
+          "score": 96
+        },
+        {
+          "keyword": "ronald acuna jr",
+          "score": 95
+        },
+        {
+          "keyword": "u. de chile - colo-colo",
+          "score": 94
+        },
+        {
+          "keyword": "jose altuve",
+          "score": 93
+        },
+        {
+          "keyword": "christa gail pike",
+          "score": 92
+        },
+        {
+          "keyword": "austin wells",
           "score": 91
         }
       ]

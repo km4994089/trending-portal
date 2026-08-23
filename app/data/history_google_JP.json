@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-19T19:00:29.548Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "株主",
-          "score": 100
-        },
-        {
-          "keyword": "アトレティコ 対 マラガ",
-          "score": 99
-        },
-        {
-          "keyword": "barcelona vs al ahly",
-          "score": 98
-        },
-        {
-          "keyword": "バルセロナ",
-          "score": 97
-        },
-        {
-          "keyword": "ナナホシ 吐血",
-          "score": 96
-        },
-        {
-          "keyword": "木村 拓哉",
-          "score": 95
-        },
-        {
-          "keyword": "浦河町",
-          "score": 94
-        },
-        {
-          "keyword": "ビットコイン",
-          "score": 93
-        },
-        {
-          "keyword": "忘却バッテリー",
-          "score": 92
-        },
-        {
-          "keyword": "スカイマーク",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-19T19:26:46.948Z",
       "geo": "JP",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "福岡 飲酒運転 事故",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-23T19:14:50.362Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "エルチェ 対 バルセロナ",
+          "score": 100
+        },
+        {
+          "keyword": "近鉄八尾駅",
+          "score": 99
+        },
+        {
+          "keyword": "トリノ 対 ミラン",
+          "score": 98
+        },
+        {
+          "keyword": "マカヒキ",
+          "score": 97
+        },
+        {
+          "keyword": "レンヌ 対 パリsg",
+          "score": 96
+        },
+        {
+          "keyword": "カルロス・サインツjr.",
+          "score": 95
+        },
+        {
+          "keyword": "チェルシー",
+          "score": 94
+        },
+        {
+          "keyword": "フリアン・アルバレス",
+          "score": 93
+        },
+        {
+          "keyword": "上田綺世",
+          "score": 92
+        },
+        {
+          "keyword": "皇位継承",
           "score": 91
         }
       ]
