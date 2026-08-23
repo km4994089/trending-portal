@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-19T23:13:47.742Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "佐野晶哉",
-          "score": 100
-        },
-        {
-          "keyword": "リウマチ",
-          "score": 99
-        },
-        {
-          "keyword": "静岡市 天気",
-          "score": 98
-        },
-        {
-          "keyword": "三振",
-          "score": 97
-        },
-        {
-          "keyword": "金与正",
-          "score": 96
-        },
-        {
-          "keyword": "アイリ",
-          "score": 95
-        },
-        {
-          "keyword": "火曜ドラマ",
-          "score": 94
-        },
-        {
-          "keyword": "cerro porteño x palmeiras",
-          "score": 93
-        },
-        {
-          "keyword": "休場",
-          "score": 92
-        },
-        {
-          "keyword": "東京電力",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-19T23:43:40.417Z",
       "geo": "JP",
       "source": "google",
@@ -7189,6 +7142,53 @@
         },
         {
           "keyword": "阿部サダヲ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-23T23:42:05.447Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "磯山さやか",
+          "score": 100
+        },
+        {
+          "keyword": "動議",
+          "score": 99
+        },
+        {
+          "keyword": "大谷翔平",
+          "score": 98
+        },
+        {
+          "keyword": "井上清華",
+          "score": 97
+        },
+        {
+          "keyword": "ブルワーズ 対 ブレーブス",
+          "score": 96
+        },
+        {
+          "keyword": "凱旋門賞",
+          "score": 95
+        },
+        {
+          "keyword": "フェルナンド・タティス・ジュニア",
+          "score": 94
+        },
+        {
+          "keyword": "coritiba x corinthians",
+          "score": 93
+        },
+        {
+          "keyword": "アトランタ・ブレーブス",
+          "score": 92
+        },
+        {
+          "keyword": "サンディエゴ・パドレス",
           "score": 91
         }
       ]
