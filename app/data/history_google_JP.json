@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-19T03:22:45.863Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ナタリー・ハープ",
-          "score": 100
-        },
-        {
-          "keyword": "アーロン・ジャッジ",
-          "score": 99
-        },
-        {
-          "keyword": "劇場版 魔法少女まどか☆マギカ ワルプルギスの廻天",
-          "score": 98
-        },
-        {
-          "keyword": "営農 型 太陽 光 発電",
-          "score": 97
-        },
-        {
-          "keyword": "早稲田大学野球部",
-          "score": 96
-        },
-        {
-          "keyword": "フォーエバーヤング",
-          "score": 95
-        },
-        {
-          "keyword": "村上 宗隆",
-          "score": 94
-        },
-        {
-          "keyword": "札幌天気",
-          "score": 93
-        },
-        {
-          "keyword": "カイル・シュワーバー",
-          "score": 92
-        },
-        {
-          "keyword": "カイル・タッカー",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-19T04:05:31.300Z",
       "geo": "JP",
       "source": "google",
@@ -7001,6 +6954,53 @@
         },
         {
           "keyword": "フィンガー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-23T03:27:21.639Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "千賀滉大",
+          "score": 100
+        },
+        {
+          "keyword": "ジェームズ・ボンド",
+          "score": 99
+        },
+        {
+          "keyword": "タイ南部",
+          "score": 98
+        },
+        {
+          "keyword": "ドジャース 順位",
+          "score": 97
+        },
+        {
+          "keyword": "オオカミ少年 スペイン",
+          "score": 96
+        },
+        {
+          "keyword": "台風 米軍",
+          "score": 95
+        },
+        {
+          "keyword": "venue101",
+          "score": 94
+        },
+        {
+          "keyword": "鳥居さくら",
+          "score": 93
+        },
+        {
+          "keyword": "東京新聞",
+          "score": 92
+        },
+        {
+          "keyword": "祭",
           "score": 91
         }
       ]
