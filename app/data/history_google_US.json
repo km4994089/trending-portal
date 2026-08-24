@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-20T20:53:02.769Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "wgal weather",
-          "score": 100
-        },
-        {
-          "keyword": "tornado warning lancaster pa",
-          "score": 99
-        },
-        {
-          "keyword": "min woo lee",
-          "score": 98
-        },
-        {
-          "keyword": "nws",
-          "score": 97
-        },
-        {
-          "keyword": "va news",
-          "score": 96
-        },
-        {
-          "keyword": "karmelo anthony case",
-          "score": 95
-        },
-        {
-          "keyword": "raiders vs texans",
-          "score": 94
-        },
-        {
-          "keyword": "mike flanagan",
-          "score": 93
-        },
-        {
-          "keyword": "margaret qualley",
-          "score": 92
-        },
-        {
-          "keyword": "reckless ben",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-20T21:18:33.535Z",
       "geo": "US",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "ted cruz",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-24T20:55:27.071Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "thunderstorm",
+          "score": 100
+        },
+        {
+          "keyword": "cruz hewitt",
+          "score": 99
+        },
+        {
+          "keyword": "why we should stop eating lettuce",
+          "score": 98
+        },
+        {
+          "keyword": "trey benson",
+          "score": 97
+        },
+        {
+          "keyword": "pete hegseth",
+          "score": 96
+        },
+        {
+          "keyword": "donyell malen",
+          "score": 95
+        },
+        {
+          "keyword": "zxavian harris",
+          "score": 94
+        },
+        {
+          "keyword": "karen solomon worcester ma",
+          "score": 93
+        },
+        {
+          "keyword": "shaedon sharpe",
+          "score": 92
+        },
+        {
+          "keyword": "yanis yushvaev",
           "score": 91
         }
       ]

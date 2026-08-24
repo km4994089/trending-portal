@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-20T20:53:03.602Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "무등일보",
-          "score": 100
-        },
-        {
-          "keyword": "삼성역",
-          "score": 99
-        },
-        {
-          "keyword": "브라질",
-          "score": 98
-        },
-        {
-          "keyword": "트롬쇠 대 브라이턴",
-          "score": 97
-        },
-        {
-          "keyword": "삼성 전자 주주 환원",
-          "score": 96
-        },
-        {
-          "keyword": "이재용",
-          "score": 95
-        },
-        {
-          "keyword": "이예빈",
-          "score": 94
-        },
-        {
-          "keyword": "일베",
-          "score": 93
-        },
-        {
-          "keyword": "오디세이",
-          "score": 92
-        },
-        {
-          "keyword": "리플",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-20T21:18:34.561Z",
       "geo": "KR",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "롯데마트",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-24T20:55:28.263Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이의리",
+          "score": 100
+        },
+        {
+          "keyword": "기초노령연금",
+          "score": 99
+        },
+        {
+          "keyword": "김수현",
+          "score": 98
+        },
+        {
+          "keyword": "fulham vs chelsea",
+          "score": 97
+        },
+        {
+          "keyword": "fc 서울",
+          "score": 96
+        },
+        {
+          "keyword": "철도",
+          "score": 95
+        },
+        {
+          "keyword": "오스틴 딘",
+          "score": 94
+        },
+        {
+          "keyword": "쿠팡플레이",
+          "score": 93
+        },
+        {
+          "keyword": "유조선",
+          "score": 92
+        },
+        {
+          "keyword": "풀럼 대 첼시",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-20T20:53:05.066Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "2xko",
-          "score": 100
-        },
-        {
-          "keyword": "村上宗隆",
-          "score": 99
-        },
-        {
-          "keyword": "食中毒",
-          "score": 98
-        },
-        {
-          "keyword": "nvidia",
-          "score": 97
-        },
-        {
-          "keyword": "天気予報 台風情報",
-          "score": 96
-        },
-        {
-          "keyword": "出口夏希",
-          "score": 95
-        },
-        {
-          "keyword": "トミー・エドマン",
-          "score": 94
-        },
-        {
-          "keyword": "ロコ ソラーレ",
-          "score": 93
-        },
-        {
-          "keyword": "ビットコイン ドル",
-          "score": 92
-        },
-        {
-          "keyword": "岡本和真",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-20T21:18:35.934Z",
       "geo": "JP",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "ダルビッシュ有",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-24T20:55:29.431Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "日本女子プロゴルフ選手権大会",
+          "score": 100
+        },
+        {
+          "keyword": "坂本誠志郎",
+          "score": 99
+        },
+        {
+          "keyword": "モナキ",
+          "score": 98
+        },
+        {
+          "keyword": "fcバルセロナ",
+          "score": 97
+        },
+        {
+          "keyword": "beef",
+          "score": 96
+        },
+        {
+          "keyword": "杉浦悠太",
+          "score": 95
+        },
+        {
+          "keyword": "日産・エルグランド",
+          "score": 94
+        },
+        {
+          "keyword": "竜王戦",
+          "score": 93
+        },
+        {
+          "keyword": "岩田康誠",
+          "score": 92
+        },
+        {
+          "keyword": "スペースx",
           "score": 91
         }
       ]
