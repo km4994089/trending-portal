@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-20T15:55:51.929Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cbs news",
-          "score": 100
-        },
-        {
-          "keyword": "scott bessent",
-          "score": 99
-        },
-        {
-          "keyword": "o. j. brigance",
-          "score": 98
-        },
-        {
-          "keyword": "g unit sneakers",
-          "score": 97
-        },
-        {
-          "keyword": "charley hull",
-          "score": 96
-        },
-        {
-          "keyword": "karen bass",
-          "score": 95
-        },
-        {
-          "keyword": "justin thomas",
-          "score": 94
-        },
-        {
-          "keyword": "japan",
-          "score": 93
-        },
-        {
-          "keyword": "eric swalwell",
-          "score": 92
-        },
-        {
-          "keyword": "liberia",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-20T16:22:14.401Z",
       "geo": "US",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "macrumors",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-24T16:01:52.058Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "st lucie county tornado warning",
+          "score": 100
+        },
+        {
+          "keyword": "renaissance",
+          "score": 99
+        },
+        {
+          "keyword": "haiden deegan",
+          "score": 98
+        },
+        {
+          "keyword": "alabama state university",
+          "score": 97
+        },
+        {
+          "keyword": "qinwen zheng",
+          "score": 96
+        },
+        {
+          "keyword": "aaron philo",
+          "score": 95
+        },
+        {
+          "keyword": "wwe news",
+          "score": 94
+        },
+        {
+          "keyword": "film",
+          "score": 93
+        },
+        {
+          "keyword": "jed york",
+          "score": 92
+        },
+        {
+          "keyword": "indiana",
           "score": 91
         }
       ]
