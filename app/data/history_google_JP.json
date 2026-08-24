@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-20T09:03:07.941Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "探偵!ナイトスクープ",
-          "score": 100
-        },
-        {
-          "keyword": "川崎ブレイブサンダース",
-          "score": 99
-        },
-        {
-          "keyword": "栄絵里香",
-          "score": 98
-        },
-        {
-          "keyword": "スポーツ報知",
-          "score": 97
-        },
-        {
-          "keyword": "三菱電機",
-          "score": 96
-        },
-        {
-          "keyword": "北朝鮮 ミサイル",
-          "score": 95
-        },
-        {
-          "keyword": "保田泰志",
-          "score": 94
-        },
-        {
-          "keyword": "広島土砂災害",
-          "score": 93
-        },
-        {
-          "keyword": "日ハム 試合",
-          "score": 92
-        },
-        {
-          "keyword": "団地",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-20T09:57:05.828Z",
       "geo": "JP",
       "source": "google",
@@ -7095,6 +7048,53 @@
         },
         {
           "keyword": "吉本泰輔",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-24T09:10:30.912Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "excessive heat warning",
+          "score": 100
+        },
+        {
+          "keyword": "モコモコ",
+          "score": 99
+        },
+        {
+          "keyword": "ラグビー日本代表",
+          "score": 98
+        },
+        {
+          "keyword": "ジャンボ 宝くじ",
+          "score": 97
+        },
+        {
+          "keyword": "ヒロド歩美",
+          "score": 96
+        },
+        {
+          "keyword": "全国高等学校野球選手権和歌山大会",
+          "score": 95
+        },
+        {
+          "keyword": "内閣改造",
+          "score": 94
+        },
+        {
+          "keyword": "サドラーズウェルズ劇場",
+          "score": 93
+        },
+        {
+          "keyword": "株主",
+          "score": 92
+        },
+        {
+          "keyword": "平愛梨",
           "score": 91
         }
       ]
