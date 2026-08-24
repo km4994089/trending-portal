@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-20T18:22:28.463Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "スカイマーク",
-          "score": 100
-        },
-        {
-          "keyword": "ブライトン",
-          "score": 99
-        },
-        {
-          "keyword": "プレミアム シネマ",
-          "score": 98
-        },
-        {
-          "keyword": "堂本 剛",
-          "score": 97
-        },
-        {
-          "keyword": "miss",
-          "score": 96
-        },
-        {
-          "keyword": "金与正",
-          "score": 95
-        },
-        {
-          "keyword": "田中こころ",
-          "score": 94
-        },
-        {
-          "keyword": "tokyo map",
-          "score": 93
-        },
-        {
-          "keyword": "smap",
-          "score": 92
-        },
-        {
-          "keyword": "ダスクブラッド",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-20T19:08:33.060Z",
       "geo": "JP",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "ana",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-24T18:24:22.797Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "フラム 対 チェルシー",
+          "score": 100
+        },
+        {
+          "keyword": "apple 折りたたみ iphone",
+          "score": 99
+        },
+        {
+          "keyword": "大使",
+          "score": 98
+        },
+        {
+          "keyword": "gboard",
+          "score": 97
+        },
+        {
+          "keyword": "ベッセント",
+          "score": 96
+        },
+        {
+          "keyword": "miss",
+          "score": 95
+        },
+        {
+          "keyword": "gta6",
+          "score": 94
+        },
+        {
+          "keyword": "今日の月",
+          "score": 93
+        },
+        {
+          "keyword": "山田裕貴",
+          "score": 92
+        },
+        {
+          "keyword": "小栗旬",
           "score": 91
         }
       ]
