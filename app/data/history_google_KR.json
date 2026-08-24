@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-20T21:50:46.555Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "폐기물",
-          "score": 100
-        },
-        {
-          "keyword": "중대범죄수사청",
-          "score": 99
-        },
-        {
-          "keyword": "일리아 토푸리아",
-          "score": 98
-        },
-        {
-          "keyword": "살인",
-          "score": 97
-        },
-        {
-          "keyword": "이의리",
-          "score": 96
-        },
-        {
-          "keyword": "농협은행",
-          "score": 95
-        },
-        {
-          "keyword": "무등일보",
-          "score": 94
-        },
-        {
-          "keyword": "삼성역",
-          "score": 93
-        },
-        {
-          "keyword": "카카오",
-          "score": 92
-        },
-        {
-          "keyword": "브라질",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-20T22:16:21.468Z",
       "geo": "KR",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "유조선",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-24T21:50:54.028Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김다예",
+          "score": 100
+        },
+        {
+          "keyword": "天气",
+          "score": 99
+        },
+        {
+          "keyword": "기상청",
+          "score": 98
+        },
+        {
+          "keyword": "현대자동차",
+          "score": 97
+        },
+        {
+          "keyword": "엔비디아 주가",
+          "score": 96
+        },
+        {
+          "keyword": "뉴스",
+          "score": 95
+        },
+        {
+          "keyword": "오싹한 연애",
+          "score": 94
+        },
+        {
+          "keyword": "ฟูลัม พบ เชลซี",
+          "score": 93
+        },
+        {
+          "keyword": "사비뉴",
+          "score": 92
+        },
+        {
+          "keyword": "이의리",
           "score": 91
         }
       ]
