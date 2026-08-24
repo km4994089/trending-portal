@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-20T23:16:02.633Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ヴィッセル神戸",
-          "score": 100
-        },
-        {
-          "keyword": "富山天気",
-          "score": 99
-        },
-        {
-          "keyword": "後藤啓介",
-          "score": 98
-        },
-        {
-          "keyword": "上越 天気",
-          "score": 97
-        },
-        {
-          "keyword": "早稲田大学野球部",
-          "score": 96
-        },
-        {
-          "keyword": "オリオールズ 対 ヤンキース",
-          "score": 95
-        },
-        {
-          "keyword": "金沢 天気",
-          "score": 94
-        },
-        {
-          "keyword": "鉱物",
-          "score": 93
-        },
-        {
-          "keyword": "山形市 天気",
-          "score": 92
-        },
-        {
-          "keyword": "田中樹",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-20T23:46:40.576Z",
       "geo": "JP",
       "source": "google",
@@ -7001,6 +6954,53 @@
         },
         {
           "keyword": "リレーレース",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-24T23:42:55.744Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "政権",
+          "score": 100
+        },
+        {
+          "keyword": "酷暑日とは",
+          "score": 99
+        },
+        {
+          "keyword": "新納慎也",
+          "score": 98
+        },
+        {
+          "keyword": "浜松 天気",
+          "score": 97
+        },
+        {
+          "keyword": "インフルエンザ",
+          "score": 96
+        },
+        {
+          "keyword": "藤田ニコル",
+          "score": 95
+        },
+        {
+          "keyword": "パリ サンジェルマン fc",
+          "score": 94
+        },
+        {
+          "keyword": "金 価格",
+          "score": 93
+        },
+        {
+          "keyword": "ホワイトソックス 対 レンジャーズ",
+          "score": 92
+        },
+        {
+          "keyword": "芦田愛菜",
           "score": 91
         }
       ]

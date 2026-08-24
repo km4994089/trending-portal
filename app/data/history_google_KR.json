@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-20T23:16:01.392Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "주성엔지니어링",
-          "score": 100
-        },
-        {
-          "keyword": "유시민",
-          "score": 99
-        },
-        {
-          "keyword": "погода",
-          "score": 98
-        },
-        {
-          "keyword": "skhy",
-          "score": 97
-        },
-        {
-          "keyword": "weather",
-          "score": 96
-        },
-        {
-          "keyword": "김민재",
-          "score": 95
-        },
-        {
-          "keyword": "สภาพอากาศ",
-          "score": 94
-        },
-        {
-          "keyword": "로스앤젤레스 다저스",
-          "score": 93
-        },
-        {
-          "keyword": "노동조합",
-          "score": 92
-        },
-        {
-          "keyword": "쓰레기봉투",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-20T23:46:39.140Z",
       "geo": "KR",
       "source": "google",
@@ -7001,6 +6954,53 @@
         },
         {
           "keyword": "天氣",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-24T23:42:54.042Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "에코프로비엠",
+          "score": 100
+        },
+        {
+          "keyword": "송해나",
+          "score": 99
+        },
+        {
+          "keyword": "아버지",
+          "score": 98
+        },
+        {
+          "keyword": "빅뱅",
+          "score": 97
+        },
+        {
+          "keyword": "김승현",
+          "score": 96
+        },
+        {
+          "keyword": "중앙그룹",
+          "score": 95
+        },
+        {
+          "keyword": "天気",
+          "score": 94
+        },
+        {
+          "keyword": "비트코인",
+          "score": 93
+        },
+        {
+          "keyword": "로베르토 데 제르비",
+          "score": 92
+        },
+        {
+          "keyword": "사업",
           "score": 91
         }
       ]
