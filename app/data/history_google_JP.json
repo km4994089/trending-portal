@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-20T11:49:44.671Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "清水希容",
-          "score": 100
-        },
-        {
-          "keyword": "川崎競馬",
-          "score": 99
-        },
-        {
-          "keyword": "モーニング娘",
-          "score": 98
-        },
-        {
-          "keyword": "エスピノーザ",
-          "score": 97
-        },
-        {
-          "keyword": "24時間テレビ ランナー",
-          "score": 96
-        },
-        {
-          "keyword": "芹香斗亜",
-          "score": 95
-        },
-        {
-          "keyword": "せいや",
-          "score": 94
-        },
-        {
-          "keyword": "チケットぴあ",
-          "score": 93
-        },
-        {
-          "keyword": "エスコンフィールド",
-          "score": 92
-        },
-        {
-          "keyword": "湯浅京己",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-20T12:25:41.683Z",
       "geo": "JP",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "チケプラ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-24T11:54:16.338Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "夏名残サマーチューン",
+          "score": 100
+        },
+        {
+          "keyword": "中村 剛也",
+          "score": 99
+        },
+        {
+          "keyword": "村田昴",
+          "score": 98
+        },
+        {
+          "keyword": "アンガールズ田中",
+          "score": 97
+        },
+        {
+          "keyword": "出場 停止",
+          "score": 96
+        },
+        {
+          "keyword": "松戸競輪",
+          "score": 95
+        },
+        {
+          "keyword": "検問",
+          "score": 94
+        },
+        {
+          "keyword": "智 弁 和歌山 秋季 大会",
+          "score": 93
+        },
+        {
+          "keyword": "ゲリラ",
+          "score": 92
+        },
+        {
+          "keyword": "白菜",
           "score": 91
         }
       ]
