@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-20T14:06:21.450Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "venezuela",
-          "score": 100
-        },
-        {
-          "keyword": "renaissance",
-          "score": 99
-        },
-        {
-          "keyword": "cox communications",
-          "score": 98
-        },
-        {
-          "keyword": "north korea",
-          "score": 97
-        },
-        {
-          "keyword": "josh charles",
-          "score": 96
-        },
-        {
-          "keyword": "pluribus",
-          "score": 95
-        },
-        {
-          "keyword": "capsizing",
-          "score": 94
-        },
-        {
-          "keyword": "court tv streaming",
-          "score": 93
-        },
-        {
-          "keyword": "rhea seehorn",
-          "score": 92
-        },
-        {
-          "keyword": "jennifer garner",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-20T15:01:30.460Z",
       "geo": "US",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "sharna burgess",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-24T14:09:41.479Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "costco stock",
+          "score": 100
+        },
+        {
+          "keyword": "schd stock",
+          "score": 99
+        },
+        {
+          "keyword": "be stock",
+          "score": 98
+        },
+        {
+          "keyword": "unh stock",
+          "score": 97
+        },
+        {
+          "keyword": "aaoi stock",
+          "score": 96
+        },
+        {
+          "keyword": "crm stock",
+          "score": 95
+        },
+        {
+          "keyword": "dana brown",
+          "score": 94
+        },
+        {
+          "keyword": "gordon ramsay",
+          "score": 93
+        },
+        {
+          "keyword": "lindsay clancy trial live",
+          "score": 92
+        },
+        {
+          "keyword": "docs",
           "score": 91
         }
       ]
