@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-20T05:01:16.541Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "serial",
-          "score": 100
-        },
-        {
-          "keyword": "split superlatives",
-          "score": 99
-        },
-        {
-          "keyword": "klystron 9",
-          "score": 98
-        },
-        {
-          "keyword": "thunder valley",
-          "score": 97
-        },
-        {
-          "keyword": "paul mescal",
-          "score": 96
-        },
-        {
-          "keyword": "son heung-min",
-          "score": 95
-        },
-        {
-          "keyword": "dust storm warning",
-          "score": 94
-        },
-        {
-          "keyword": "tanner scott",
-          "score": 93
-        },
-        {
-          "keyword": "许家印",
-          "score": 92
-        },
-        {
-          "keyword": "gary indiana blackout",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-20T05:52:49.073Z",
       "geo": "US",
       "source": "google",
@@ -7142,6 +7095,53 @@
         },
         {
           "keyword": "logan canyon fire",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-24T05:08:24.534Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "phoenix weather",
+          "score": 100
+        },
+        {
+          "keyword": "dust storm warning",
+          "score": 99
+        },
+        {
+          "keyword": "serena joy olivia rodrigo",
+          "score": 98
+        },
+        {
+          "keyword": "nick jonas",
+          "score": 97
+        },
+        {
+          "keyword": "suicide squad",
+          "score": 96
+        },
+        {
+          "keyword": "wild horses",
+          "score": 95
+        },
+        {
+          "keyword": "uss abraham lincoln",
+          "score": 94
+        },
+        {
+          "keyword": "mayar sherif",
+          "score": 93
+        },
+        {
+          "keyword": "nikola bartunkova",
+          "score": 92
+        },
+        {
+          "keyword": "john schneider seahawks",
           "score": 91
         }
       ]
