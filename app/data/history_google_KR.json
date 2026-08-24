@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-20T15:01:31.437Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "한화",
-          "score": 100
-        },
-        {
-          "keyword": "야구순위",
-          "score": 99
-        },
-        {
-          "keyword": "코오롱티슈진",
-          "score": 98
-        },
-        {
-          "keyword": "배우",
-          "score": 97
-        },
-        {
-          "keyword": "엘지트윈스",
-          "score": 96
-        },
-        {
-          "keyword": "김서현",
-          "score": 95
-        },
-        {
-          "keyword": "크보",
-          "score": 94
-        },
-        {
-          "keyword": "사비뉴",
-          "score": 93
-        },
-        {
-          "keyword": "nc",
-          "score": 92
-        },
-        {
-          "keyword": "두산",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-20T15:55:53.452Z",
       "geo": "KR",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "설영우",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-24T15:07:12.207Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "하나머티리얼즈",
+          "score": 100
+        },
+        {
+          "keyword": "설 영우",
+          "score": 99
+        },
+        {
+          "keyword": "김도환",
+          "score": 98
+        },
+        {
+          "keyword": "월미도",
+          "score": 97
+        },
+        {
+          "keyword": "sk 하이닉스 채용",
+          "score": 96
+        },
+        {
+          "keyword": "박애리",
+          "score": 95
+        },
+        {
+          "keyword": "tradingview",
+          "score": 94
+        },
+        {
+          "keyword": "이다현",
+          "score": 93
+        },
+        {
+          "keyword": "낙상",
+          "score": 92
+        },
+        {
+          "keyword": "레이 달리오",
           "score": 91
         }
       ]
