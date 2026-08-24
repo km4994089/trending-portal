@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-20T02:10:40.570Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "george lombard jr.",
-          "score": 100
-        },
-        {
-          "keyword": "san jose vs la galaxy",
-          "score": 99
-        },
-        {
-          "keyword": "eric morris",
-          "score": 98
-        },
-        {
-          "keyword": "houston dynamo vs vancouver",
-          "score": 97
-        },
-        {
-          "keyword": "sara bejlek",
-          "score": 96
-        },
-        {
-          "keyword": "abc7",
-          "score": 95
-        },
-        {
-          "keyword": "san diego vs portland",
-          "score": 94
-        },
-        {
-          "keyword": "frances tiafoe",
-          "score": 93
-        },
-        {
-          "keyword": "hilaria baldwin",
-          "score": 92
-        },
-        {
-          "keyword": "enrique hernandez",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-20T03:16:15.681Z",
       "geo": "US",
       "source": "google",
@@ -7142,6 +7095,53 @@
         },
         {
           "keyword": "super bowl 2026",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-24T02:16:17.443Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jalen milroe",
+          "score": 100
+        },
+        {
+          "keyword": "lilli tagger",
+          "score": 99
+        },
+        {
+          "keyword": "sarah paulson",
+          "score": 98
+        },
+        {
+          "keyword": "manhunter",
+          "score": 97
+        },
+        {
+          "keyword": "kyle chandler",
+          "score": 96
+        },
+        {
+          "keyword": "azerbaijan",
+          "score": 95
+        },
+        {
+          "keyword": "aaron donald",
+          "score": 94
+        },
+        {
+          "keyword": "martin short",
+          "score": 93
+        },
+        {
+          "keyword": "wnba standings",
+          "score": 92
+        },
+        {
+          "keyword": "jason sudeikis",
           "score": 91
         }
       ]

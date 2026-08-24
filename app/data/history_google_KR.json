@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-20T02:10:41.977Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "메이플스토리",
-          "score": 100
-        },
-        {
-          "keyword": "병무청",
-          "score": 99
-        },
-        {
-          "keyword": "메이플",
-          "score": 98
-        },
-        {
-          "keyword": "콜로라도 대 엘에이 fc",
-          "score": 97
-        },
-        {
-          "keyword": "이불",
-          "score": 96
-        },
-        {
-          "keyword": "양도소득세",
-          "score": 95
-        },
-        {
-          "keyword": "농심",
-          "score": 94
-        },
-        {
-          "keyword": "chatgpt",
-          "score": 93
-        },
-        {
-          "keyword": "openai",
-          "score": 92
-        },
-        {
-          "keyword": "항공사",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-20T03:16:16.941Z",
       "geo": "KR",
       "source": "google",
@@ -7142,6 +7095,53 @@
         },
         {
           "keyword": "나스닥 100",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-24T02:16:18.432Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "햄버거",
+          "score": 100
+        },
+        {
+          "keyword": "국회",
+          "score": 99
+        },
+        {
+          "keyword": "안동농협",
+          "score": 98
+        },
+        {
+          "keyword": "부산은행",
+          "score": 97
+        },
+        {
+          "keyword": "아버지",
+          "score": 96
+        },
+        {
+          "keyword": "니어스랩",
+          "score": 95
+        },
+        {
+          "keyword": "새마을금고",
+          "score": 94
+        },
+        {
+          "keyword": "농업인",
+          "score": 93
+        },
+        {
+          "keyword": "고용노동부",
+          "score": 92
+        },
+        {
+          "keyword": "zoom",
           "score": 91
         }
       ]
