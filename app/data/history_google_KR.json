@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-20T11:17:13.867Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "중앙일보",
-          "score": 100
-        },
-        {
-          "keyword": "경마",
-          "score": 99
-        },
-        {
-          "keyword": "이민정",
-          "score": 98
-        },
-        {
-          "keyword": "박소윤",
-          "score": 97
-        },
-        {
-          "keyword": "양정원",
-          "score": 96
-        },
-        {
-          "keyword": "서울교통공사",
-          "score": 95
-        },
-        {
-          "keyword": "문보경",
-          "score": 94
-        },
-        {
-          "keyword": "피온",
-          "score": 93
-        },
-        {
-          "keyword": "이랜드그룹",
-          "score": 92
-        },
-        {
-          "keyword": "박성광",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-20T11:49:43.660Z",
       "geo": "KR",
       "source": "google",
@@ -7048,6 +7001,53 @@
         },
         {
           "keyword": "대한축구협회",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-24T11:29:11.763Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lg 트윈스",
+          "score": 100
+        },
+        {
+          "keyword": "전원주",
+          "score": 99
+        },
+        {
+          "keyword": "동복댐",
+          "score": 98
+        },
+        {
+          "keyword": "타이타닉",
+          "score": 97
+        },
+        {
+          "keyword": "제주항공",
+          "score": 96
+        },
+        {
+          "keyword": "김효주",
+          "score": 95
+        },
+        {
+          "keyword": "마르코스 로드리게스 판 토하",
+          "score": 94
+        },
+        {
+          "keyword": "신동욱",
+          "score": 93
+        },
+        {
+          "keyword": "한소희",
+          "score": 92
+        },
+        {
+          "keyword": "회사",
           "score": 91
         }
       ]
