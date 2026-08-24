@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-20T21:18:33.535Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "camión",
-          "score": 100
-        },
-        {
-          "keyword": "tom hanks",
-          "score": 99
-        },
-        {
-          "keyword": "jeff bezos",
-          "score": 98
-        },
-        {
-          "keyword": "noaa weather",
-          "score": 97
-        },
-        {
-          "keyword": "patrulla fronteriza de los estados unidos",
-          "score": 96
-        },
-        {
-          "keyword": "mike perry",
-          "score": 95
-        },
-        {
-          "keyword": "carrie ann inaba fox news",
-          "score": 94
-        },
-        {
-          "keyword": "central magnet school",
-          "score": 93
-        },
-        {
-          "keyword": "wgal weather",
-          "score": 92
-        },
-        {
-          "keyword": "tornado warning lancaster pa",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-20T21:50:44.781Z",
       "geo": "US",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "yanis yushvaev",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-24T21:19:34.566Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "trump beef",
+          "score": 100
+        },
+        {
+          "keyword": "michael beasley",
+          "score": 99
+        },
+        {
+          "keyword": "people coming out manhattan sewer",
+          "score": 98
+        },
+        {
+          "keyword": "jaden hardy",
+          "score": 97
+        },
+        {
+          "keyword": "monday night football",
+          "score": 96
+        },
+        {
+          "keyword": "thunderstorm",
+          "score": 95
+        },
+        {
+          "keyword": "why we should stop eating lettuce",
+          "score": 94
+        },
+        {
+          "keyword": "cruz hewitt",
+          "score": 93
+        },
+        {
+          "keyword": "trey benson",
+          "score": 92
+        },
+        {
+          "keyword": "pete hegseth",
           "score": 91
         }
       ]
