@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-20T03:16:16.941Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "한푸",
-          "score": 100
-        },
-        {
-          "keyword": "영화",
-          "score": 99
-        },
-        {
-          "keyword": "개",
-          "score": 98
-        },
-        {
-          "keyword": "원 이",
-          "score": 97
-        },
-        {
-          "keyword": "기욤 패트리",
-          "score": 96
-        },
-        {
-          "keyword": "장동혁",
-          "score": 95
-        },
-        {
-          "keyword": "이정후",
-          "score": 94
-        },
-        {
-          "keyword": "에버랜드",
-          "score": 93
-        },
-        {
-          "keyword": "이더 리움",
-          "score": 92
-        },
-        {
-          "keyword": "한미연합훈련",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-20T04:04:36.098Z",
       "geo": "KR",
       "source": "google",
@@ -7142,6 +7095,53 @@
         },
         {
           "keyword": "zoom",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-24T03:28:51.250Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "사우델",
+          "score": 100
+        },
+        {
+          "keyword": "박기량",
+          "score": 99
+        },
+        {
+          "keyword": "주식시장",
+          "score": 98
+        },
+        {
+          "keyword": "김서현",
+          "score": 97
+        },
+        {
+          "keyword": "빌보드",
+          "score": 96
+        },
+        {
+          "keyword": "교직원공제회",
+          "score": 95
+        },
+        {
+          "keyword": "햄버거",
+          "score": 94
+        },
+        {
+          "keyword": "국회",
+          "score": 93
+        },
+        {
+          "keyword": "안동농협",
+          "score": 92
+        },
+        {
+          "keyword": "부산은행",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-20T03:16:18.072Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "資さんうどん",
-          "score": 100
-        },
-        {
-          "keyword": "日曜劇場",
-          "score": 99
-        },
-        {
-          "keyword": "グランツーリスモ7 アップデート",
-          "score": 98
-        },
-        {
-          "keyword": "マレーシア航空",
-          "score": 97
-        },
-        {
-          "keyword": "井上尚弥",
-          "score": 96
-        },
-        {
-          "keyword": "大統領",
-          "score": 95
-        },
-        {
-          "keyword": "内部告発",
-          "score": 94
-        },
-        {
-          "keyword": "青森市 天気",
-          "score": 93
-        },
-        {
-          "keyword": "本塁打",
-          "score": 92
-        },
-        {
-          "keyword": "コロラド・ロッキーズ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-20T04:04:37.222Z",
       "geo": "JP",
       "source": "google",
@@ -7142,6 +7095,53 @@
         },
         {
           "keyword": "3",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-24T03:28:52.562Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "h3ロケット",
+          "score": 100
+        },
+        {
+          "keyword": "トミカ",
+          "score": 99
+        },
+        {
+          "keyword": "ブレイク スネル",
+          "score": 98
+        },
+        {
+          "keyword": "相模原市",
+          "score": 97
+        },
+        {
+          "keyword": "検察官",
+          "score": 96
+        },
+        {
+          "keyword": "eスカイ",
+          "score": 95
+        },
+        {
+          "keyword": "ox alpha",
+          "score": 94
+        },
+        {
+          "keyword": "ウルトラマンテオ",
+          "score": 93
+        },
+        {
+          "keyword": "嶋基宏",
+          "score": 92
+        },
+        {
+          "keyword": "藤井聡太",
           "score": 91
         }
       ]
