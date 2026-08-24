@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-20T22:51:35.674Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김민재",
-          "score": 100
-        },
-        {
-          "keyword": "สภาพอากาศ",
-          "score": 99
-        },
-        {
-          "keyword": "로스앤젤레스 다저스",
-          "score": 98
-        },
-        {
-          "keyword": "노동조합",
-          "score": 97
-        },
-        {
-          "keyword": "쓰레기봉투",
-          "score": 96
-        },
-        {
-          "keyword": "lg 트윈스",
-          "score": 95
-        },
-        {
-          "keyword": "심우정",
-          "score": 94
-        },
-        {
-          "keyword": "스페이스x",
-          "score": 93
-        },
-        {
-          "keyword": "thời tiết",
-          "score": 92
-        },
-        {
-          "keyword": "天气",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-20T23:16:01.392Z",
       "geo": "KR",
       "source": "google",
@@ -7001,6 +6954,53 @@
         },
         {
           "keyword": "qqq",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-24T23:13:50.659Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "비트코인",
+          "score": 100
+        },
+        {
+          "keyword": "로베르토 데 제르비",
+          "score": 99
+        },
+        {
+          "keyword": "tsla",
+          "score": 98
+        },
+        {
+          "keyword": "이상민",
+          "score": 97
+        },
+        {
+          "keyword": "날씨",
+          "score": 96
+        },
+        {
+          "keyword": "엔비디아",
+          "score": 95
+        },
+        {
+          "keyword": "vix",
+          "score": 94
+        },
+        {
+          "keyword": "weather",
+          "score": 93
+        },
+        {
+          "keyword": "나스닥 100",
+          "score": 92
+        },
+        {
+          "keyword": "天氣",
           "score": 91
         }
       ]
