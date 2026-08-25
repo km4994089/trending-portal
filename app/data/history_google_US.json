@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-21T10:55:11.420Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "charlie kirk",
-          "score": 100
-        },
-        {
-          "keyword": "fabrizio romano",
-          "score": 99
-        },
-        {
-          "keyword": "nathan cofnas",
-          "score": 98
-        },
-        {
-          "keyword": "venezuela",
-          "score": 97
-        },
-        {
-          "keyword": "clarity act",
-          "score": 96
-        },
-        {
-          "keyword": "boston weather",
-          "score": 95
-        },
-        {
-          "keyword": "who is natalie harp",
-          "score": 94
-        },
-        {
-          "keyword": "today's weather",
-          "score": 93
-        },
-        {
-          "keyword": "local weather",
-          "score": 92
-        },
-        {
-          "keyword": "forecast",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-21T11:16:45.835Z",
       "geo": "US",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "nasa",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-25T10:58:32.703Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "pirates score",
+          "score": 100
+        },
+        {
+          "keyword": "cricbuzz",
+          "score": 99
+        },
+        {
+          "keyword": "fanduel",
+          "score": 98
+        },
+        {
+          "keyword": "weather this week",
+          "score": 97
+        },
+        {
+          "keyword": "farrah aldjufrie",
+          "score": 96
+        },
+        {
+          "keyword": "starbucks",
+          "score": 95
+        },
+        {
+          "keyword": "flock camera",
+          "score": 94
+        },
+        {
+          "keyword": "boston celtics",
+          "score": 93
+        },
+        {
+          "keyword": "juventus",
+          "score": 92
+        },
+        {
+          "keyword": "annalynne mccord",
           "score": 91
         }
       ]
