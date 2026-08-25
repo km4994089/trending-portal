@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-21T23:14:06.885Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cruise ship",
-          "score": 100
-        },
-        {
-          "keyword": "geno smith",
-          "score": 99
-        },
-        {
-          "keyword": "tony",
-          "score": 98
-        },
-        {
-          "keyword": "soldier field",
-          "score": 97
-        },
-        {
-          "keyword": "yahoo fantasy",
-          "score": 96
-        },
-        {
-          "keyword": "tropical storm moke",
-          "score": 95
-        },
-        {
-          "keyword": "lorenzo musetti",
-          "score": 94
-        },
-        {
-          "keyword": "bkfc",
-          "score": 93
-        },
-        {
-          "keyword": "google play store",
-          "score": 92
-        },
-        {
-          "keyword": "joel kinnaman icefall prime video",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-21T23:44:43.836Z",
       "geo": "US",
       "source": "google",
@@ -6860,6 +6813,53 @@
         },
         {
           "keyword": "tormenta",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-25T23:16:31.343Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mickey gasper",
+          "score": 100
+        },
+        {
+          "keyword": "nick galanti",
+          "score": 99
+        },
+        {
+          "keyword": "orioles vs cardinals",
+          "score": 98
+        },
+        {
+          "keyword": "daniil medvedev",
+          "score": 97
+        },
+        {
+          "keyword": "chivas vs america",
+          "score": 96
+        },
+        {
+          "keyword": "dave ramsey",
+          "score": 95
+        },
+        {
+          "keyword": "bella mir",
+          "score": 94
+        },
+        {
+          "keyword": "the lake bay vessel grounding",
+          "score": 93
+        },
+        {
+          "keyword": "sony playstation",
+          "score": 92
+        },
+        {
+          "keyword": "rob halford",
           "score": 91
         }
       ]

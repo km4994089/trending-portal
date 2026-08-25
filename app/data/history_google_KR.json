@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-21T23:14:08.105Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김요한",
-          "score": 100
-        },
-        {
-          "keyword": "국내총생산",
-          "score": 99
-        },
-        {
-          "keyword": "치맥",
-          "score": 98
-        },
-        {
-          "keyword": "죽음의 조",
-          "score": 97
-        },
-        {
-          "keyword": "테일러 프리츠",
-          "score": 96
-        },
-        {
-          "keyword": "세단",
-          "score": 95
-        },
-        {
-          "keyword": "오세훈",
-          "score": 94
-        },
-        {
-          "keyword": "이란 대통령",
-          "score": 93
-        },
-        {
-          "keyword": "경남 고성 공룡 세계 엑스포",
-          "score": 92
-        },
-        {
-          "keyword": "박성현",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-21T23:44:45.082Z",
       "geo": "KR",
       "source": "google",
@@ -6860,6 +6813,53 @@
         },
         {
           "keyword": "나스닥 지수",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-25T23:16:32.535Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "트렌드",
+          "score": 100
+        },
+        {
+          "keyword": "극초음속 활공체",
+          "score": 99
+        },
+        {
+          "keyword": "장우혁",
+          "score": 98
+        },
+        {
+          "keyword": "중국인",
+          "score": 97
+        },
+        {
+          "keyword": "nvda",
+          "score": 96
+        },
+        {
+          "keyword": "이민정",
+          "score": 95
+        },
+        {
+          "keyword": "미국 국방부",
+          "score": 94
+        },
+        {
+          "keyword": "성과급",
+          "score": 93
+        },
+        {
+          "keyword": "폴더블 스마트폰",
+          "score": 92
+        },
+        {
+          "keyword": "skhy",
           "score": 91
         }
       ]

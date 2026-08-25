@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-21T23:14:09.412Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "中越典子",
-          "score": 100
-        },
-        {
-          "keyword": "読売新聞",
-          "score": 99
-        },
-        {
-          "keyword": "icc 赤根所長",
-          "score": 98
-        },
-        {
-          "keyword": "geo",
-          "score": 97
-        },
-        {
-          "keyword": "ホワイトソックス 対 メッツ",
-          "score": 96
-        },
-        {
-          "keyword": "戸田恵梨香",
-          "score": 95
-        },
-        {
-          "keyword": "両国国技館",
-          "score": 94
-        },
-        {
-          "keyword": "ロト 7 691 回 当選 番号",
-          "score": 93
-        },
-        {
-          "keyword": "細江純子",
-          "score": 92
-        },
-        {
-          "keyword": "新型コロナウイルス感染症",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-21T23:44:46.236Z",
       "geo": "JP",
       "source": "google",
@@ -6860,6 +6813,53 @@
         },
         {
           "keyword": "ホンダ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-25T23:16:33.841Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "カージナルス 対 オリオールズ",
+          "score": 100
+        },
+        {
+          "keyword": "anan",
+          "score": 99
+        },
+        {
+          "keyword": "宮本慎也",
+          "score": 98
+        },
+        {
+          "keyword": "ミサイル",
+          "score": 97
+        },
+        {
+          "keyword": "anan ちいかわ",
+          "score": 96
+        },
+        {
+          "keyword": "風薫る ネタバレ",
+          "score": 95
+        },
+        {
+          "keyword": "都市対抗野球",
+          "score": 94
+        },
+        {
+          "keyword": "高知 天気",
+          "score": 93
+        },
+        {
+          "keyword": "アベンジャーズ/エンドゲーム",
+          "score": 92
+        },
+        {
+          "keyword": "ガンプラ 新作",
           "score": 91
         }
       ]
