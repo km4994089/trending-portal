@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-21T15:00:16.264Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "appletv",
-          "score": 100
-        },
-        {
-          "keyword": "pbs",
-          "score": 99
-        },
-        {
-          "keyword": "leandro paredes",
-          "score": 98
-        },
-        {
-          "keyword": "apple tv",
-          "score": 97
-        },
-        {
-          "keyword": "f1 tv",
-          "score": 96
-        },
-        {
-          "keyword": "laken snelling",
-          "score": 95
-        },
-        {
-          "keyword": "hoda kotb",
-          "score": 94
-        },
-        {
-          "keyword": "renaissance",
-          "score": 93
-        },
-        {
-          "keyword": "hood stock",
-          "score": 92
-        },
-        {
-          "keyword": "pl",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-21T15:35:08.075Z",
       "geo": "US",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "brandon williams",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-25T15:12:36.871Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "bryan avila",
+          "score": 100
+        },
+        {
+          "keyword": "elizabeth hurley",
+          "score": 99
+        },
+        {
+          "keyword": "current events",
+          "score": 98
+        },
+        {
+          "keyword": "oil",
+          "score": 97
+        },
+        {
+          "keyword": "daniel diemer",
+          "score": 96
+        },
+        {
+          "keyword": "measles",
+          "score": 95
+        },
+        {
+          "keyword": "military aircraft",
+          "score": 94
+        },
+        {
+          "keyword": "mn state fair",
+          "score": 93
+        },
+        {
+          "keyword": "mikayla demaiter",
+          "score": 92
+        },
+        {
+          "keyword": "john f kennedy center for the performing arts",
           "score": 91
         }
       ]
