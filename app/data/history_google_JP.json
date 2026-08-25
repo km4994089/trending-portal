@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-21T18:21:50.159Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "天気天気",
-          "score": 100
-        },
-        {
-          "keyword": "ソシエダ",
-          "score": 99
-        },
-        {
-          "keyword": "シドニー スウィーニー",
-          "score": 98
-        },
-        {
-          "keyword": "セリエa",
-          "score": 97
-        },
-        {
-          "keyword": "ブンデスリーガ",
-          "score": 96
-        },
-        {
-          "keyword": "pakistan vs england",
-          "score": 95
-        },
-        {
-          "keyword": "al-riyadh vs al-nassr",
-          "score": 94
-        },
-        {
-          "keyword": "ihi",
-          "score": 93
-        },
-        {
-          "keyword": "マイ・フィクション",
-          "score": 92
-        },
-        {
-          "keyword": "プレミアリーグ 試合",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-21T19:04:41.782Z",
       "geo": "JP",
       "source": "google",
@@ -6856,6 +6809,53 @@
         },
         {
           "keyword": "カトパン",
+          "score": 92
+        },
+        {
+          "keyword": "落雷",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-25T18:24:48.447Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "呪術廻戦",
+          "score": 100
+        },
+        {
+          "keyword": "jアラート",
+          "score": 99
+        },
+        {
+          "keyword": "オンタリオ湖",
+          "score": 98
+        },
+        {
+          "keyword": "山本昌",
+          "score": 97
+        },
+        {
+          "keyword": "アーセナルfc",
+          "score": 96
+        },
+        {
+          "keyword": "imax",
+          "score": 95
+        },
+        {
+          "keyword": "時間",
+          "score": 94
+        },
+        {
+          "keyword": "tohoシネマズ 新宿",
+          "score": 93
+        },
+        {
+          "keyword": "アクアライン 火災",
           "score": 92
         },
         {

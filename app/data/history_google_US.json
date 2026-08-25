@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-21T18:21:47.998Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "bejlek",
-          "score": 100
-        },
-        {
-          "keyword": "bejlek tennis",
-          "score": 99
-        },
-        {
-          "keyword": "jake bobo",
-          "score": 98
-        },
-        {
-          "keyword": "al qadsiah vs al-ittihad",
-          "score": 97
-        },
-        {
-          "keyword": "democratic party",
-          "score": 96
-        },
-        {
-          "keyword": "marvel studios",
-          "score": 95
-        },
-        {
-          "keyword": "games",
-          "score": 94
-        },
-        {
-          "keyword": "lake powell",
-          "score": 93
-        },
-        {
-          "keyword": "chris yost",
-          "score": 92
-        },
-        {
-          "keyword": "education department student loan forgiveness reversal",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-21T19:04:39.279Z",
       "geo": "US",
       "source": "google",
@@ -6860,6 +6813,53 @@
         },
         {
           "keyword": "international sanctions against iran",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-25T18:24:45.918Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "valencia vs betis",
+          "score": 100
+        },
+        {
+          "keyword": "valencia c. f. - real betis",
+          "score": 99
+        },
+        {
+          "keyword": "trump age",
+          "score": 98
+        },
+        {
+          "keyword": "msnbc",
+          "score": 97
+        },
+        {
+          "keyword": "celebrity deaths",
+          "score": 96
+        },
+        {
+          "keyword": "npr",
+          "score": 95
+        },
+        {
+          "keyword": "taylor swift travis kelce ring",
+          "score": 94
+        },
+        {
+          "keyword": "associated press",
+          "score": 93
+        },
+        {
+          "keyword": "news",
+          "score": 92
+        },
+        {
+          "keyword": "fox news",
           "score": 91
         }
       ]
