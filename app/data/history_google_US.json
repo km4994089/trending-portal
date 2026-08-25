@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-21T19:04:39.279Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "sara bejlek",
-          "score": 100
-        },
-        {
-          "keyword": "farmers' almanac",
-          "score": 99
-        },
-        {
-          "keyword": "christos tzolis",
-          "score": 98
-        },
-        {
-          "keyword": "vivienne jolie",
-          "score": 97
-        },
-        {
-          "keyword": "córdoba vs girona",
-          "score": 96
-        },
-        {
-          "keyword": "serie a",
-          "score": 95
-        },
-        {
-          "keyword": "haji wright",
-          "score": 94
-        },
-        {
-          "keyword": "low-pressure area",
-          "score": 93
-        },
-        {
-          "keyword": "galatasaray",
-          "score": 92
-        },
-        {
-          "keyword": "jimmy tatro",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-21T19:44:39.058Z",
       "geo": "US",
       "source": "google",
@@ -6860,6 +6813,53 @@
         },
         {
           "keyword": "fox news",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-25T19:06:37.817Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "donald trump",
+          "score": 100
+        },
+        {
+          "keyword": "sheffield wednesday vs wolves",
+          "score": 99
+        },
+        {
+          "keyword": "southampton vs west ham",
+          "score": 98
+        },
+        {
+          "keyword": "birmingham vs brentford",
+          "score": 97
+        },
+        {
+          "keyword": "madonna",
+          "score": 96
+        },
+        {
+          "keyword": "ja'marr chase",
+          "score": 95
+        },
+        {
+          "keyword": "daily mail",
+          "score": 94
+        },
+        {
+          "keyword": "yahoo news",
+          "score": 93
+        },
+        {
+          "keyword": "beyonce",
+          "score": 92
+        },
+        {
+          "keyword": "abc",
           "score": 91
         }
       ]
