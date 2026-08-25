@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-21T00:40:36.724Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "엘레나 리바키나",
-          "score": 100
-        },
-        {
-          "keyword": "교통 사고",
-          "score": 99
-        },
-        {
-          "keyword": "국립오페라단",
-          "score": 98
-        },
-        {
-          "keyword": "택시",
-          "score": 97
-        },
-        {
-          "keyword": "선우용여",
-          "score": 96
-        },
-        {
-          "keyword": "디즈니+",
-          "score": 95
-        },
-        {
-          "keyword": "도박",
-          "score": 94
-        },
-        {
-          "keyword": "브래드 갈링하우스",
-          "score": 93
-        },
-        {
-          "keyword": "초대형 방사포",
-          "score": 92
-        },
-        {
-          "keyword": "태안군",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-21T02:17:25.211Z",
       "geo": "KR",
       "source": "google",
@@ -7001,6 +6954,53 @@
         },
         {
           "keyword": "송해나",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-25T02:12:22.679Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "한웨",
+          "score": 100
+        },
+        {
+          "keyword": "드라이브",
+          "score": 99
+        },
+        {
+          "keyword": "공군사관학교",
+          "score": 98
+        },
+        {
+          "keyword": "삼성생명",
+          "score": 97
+        },
+        {
+          "keyword": "컨테이너선",
+          "score": 96
+        },
+        {
+          "keyword": "달",
+          "score": 95
+        },
+        {
+          "keyword": "이의 리",
+          "score": 94
+        },
+        {
+          "keyword": "디에고 시메오네",
+          "score": 93
+        },
+        {
+          "keyword": "브래드 갈링하우스",
+          "score": 92
+        },
+        {
+          "keyword": "임금",
           "score": 91
         }
       ]

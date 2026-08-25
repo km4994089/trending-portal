@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-21T00:40:38.073Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "死刑執行",
-          "score": 100
-        },
-        {
-          "keyword": "死刑",
-          "score": 99
-        },
-        {
-          "keyword": "skハイニックス",
-          "score": 98
-        },
-        {
-          "keyword": "甲子園チケット",
-          "score": 97
-        },
-        {
-          "keyword": "消費者物価指数",
-          "score": 96
-        },
-        {
-          "keyword": "萩本欽一",
-          "score": 95
-        },
-        {
-          "keyword": "ウサインボルト",
-          "score": 94
-        },
-        {
-          "keyword": "沖縄",
-          "score": 93
-        },
-        {
-          "keyword": "インフルエンザ 流行",
-          "score": 92
-        },
-        {
-          "keyword": "沖縄 地震",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-21T02:17:26.403Z",
       "geo": "JP",
       "source": "google",
@@ -7001,6 +6954,53 @@
         },
         {
           "keyword": "浜松 天気",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-25T02:12:23.920Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "佐野 勇 斗",
+          "score": 100
+        },
+        {
+          "keyword": "岡田結実",
+          "score": 99
+        },
+        {
+          "keyword": "科研費",
+          "score": 98
+        },
+        {
+          "keyword": "kick",
+          "score": 97
+        },
+        {
+          "keyword": "戸根千明",
+          "score": 96
+        },
+        {
+          "keyword": "警察官",
+          "score": 95
+        },
+        {
+          "keyword": "八村倫太郎",
+          "score": 94
+        },
+        {
+          "keyword": "メルボルン",
+          "score": 93
+        },
+        {
+          "keyword": "金相場",
+          "score": 92
+        },
+        {
+          "keyword": "岐阜 県 大野 町",
           "score": 91
         }
       ]
