@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-21T14:04:27.795Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "renaissance",
-          "score": 100
-        },
-        {
-          "keyword": "hood stock",
-          "score": 99
-        },
-        {
-          "keyword": "measles",
-          "score": 98
-        },
-        {
-          "keyword": "pl",
-          "score": 97
-        },
-        {
-          "keyword": "new york times games",
-          "score": 96
-        },
-        {
-          "keyword": "andrew haden",
-          "score": 95
-        },
-        {
-          "keyword": "current events",
-          "score": 94
-        },
-        {
-          "keyword": "tesla autopilot",
-          "score": 93
-        },
-        {
-          "keyword": "fidelity crypto",
-          "score": 92
-        },
-        {
-          "keyword": "prince harry news",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-21T15:00:16.264Z",
       "geo": "US",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "robert de niro",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-25T14:11:18.721Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "john f kennedy center for the performing arts",
+          "score": 100
+        },
+        {
+          "keyword": "policía",
+          "score": 99
+        },
+        {
+          "keyword": "aura farming",
+          "score": 98
+        },
+        {
+          "keyword": "executive privilege",
+          "score": 97
+        },
+        {
+          "keyword": "blues legend latimore age 86",
+          "score": 96
+        },
+        {
+          "keyword": "qatar",
+          "score": 95
+        },
+        {
+          "keyword": "dave franco",
+          "score": 94
+        },
+        {
+          "keyword": "colman domingo",
+          "score": 93
+        },
+        {
+          "keyword": "jaleel white",
+          "score": 92
+        },
+        {
+          "keyword": "brandon williams",
           "score": 91
         }
       ]
