@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-21T11:49:23.445Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kyle busch",
-          "score": 100
-        },
-        {
-          "keyword": "cancer vaccine",
-          "score": 99
-        },
-        {
-          "keyword": "bill ackman",
-          "score": 98
-        },
-        {
-          "keyword": "karate",
-          "score": 97
-        },
-        {
-          "keyword": "cameroon",
-          "score": 96
-        },
-        {
-          "keyword": "bbc sport",
-          "score": 95
-        },
-        {
-          "keyword": "nytimes connections",
-          "score": 94
-        },
-        {
-          "keyword": "max strus",
-          "score": 93
-        },
-        {
-          "keyword": "saquon barkley eagles patriots",
-          "score": 92
-        },
-        {
-          "keyword": "olivia rodrigo tour",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-21T12:24:59.310Z",
       "geo": "US",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "wwe raw results",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-25T11:51:07.405Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "trump doj executive privilege memo",
+          "score": 100
+        },
+        {
+          "keyword": "robbie williams",
+          "score": 99
+        },
+        {
+          "keyword": "ralph norman",
+          "score": 98
+        },
+        {
+          "keyword": "dallas cowboys cheerleaders",
+          "score": 97
+        },
+        {
+          "keyword": "garmin fenix 9",
+          "score": 96
+        },
+        {
+          "keyword": "tom hanks movies",
+          "score": 95
+        },
+        {
+          "keyword": "savannah guthrie",
+          "score": 94
+        },
+        {
+          "keyword": "espncricinfo",
+          "score": 93
+        },
+        {
+          "keyword": "cte",
+          "score": 92
+        },
+        {
+          "keyword": "courier",
           "score": 91
         }
       ]
