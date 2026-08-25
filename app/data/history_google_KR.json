@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-21T11:16:46.776Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "f1",
-          "score": 100
-        },
-        {
-          "keyword": "화재",
-          "score": 99
-        },
-        {
-          "keyword": "꽃게",
-          "score": 98
-        },
-        {
-          "keyword": "만평",
-          "score": 97
-        },
-        {
-          "keyword": "kia 타이거즈",
-          "score": 96
-        },
-        {
-          "keyword": "여성 소방관",
-          "score": 95
-        },
-        {
-          "keyword": "현대 자동차 그룹 메타 플랜트 아메리카",
-          "score": 94
-        },
-        {
-          "keyword": "도지코인",
-          "score": 93
-        },
-        {
-          "keyword": "lg 대 한화",
-          "score": 92
-        },
-        {
-          "keyword": "성주군",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-21T11:49:24.472Z",
       "geo": "KR",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "피고인",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-25T11:23:57.607Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김보라",
+          "score": 100
+        },
+        {
+          "keyword": "윤은혜",
+          "score": 99
+        },
+        {
+          "keyword": "휴림로봇",
+          "score": 98
+        },
+        {
+          "keyword": "fc 서울 대 부천",
+          "score": 97
+        },
+        {
+          "keyword": "제주 대 포항",
+          "score": 96
+        },
+        {
+          "keyword": "뇌물",
+          "score": 95
+        },
+        {
+          "keyword": "송강",
+          "score": 94
+        },
+        {
+          "keyword": "맷 데이먼",
+          "score": 93
+        },
+        {
+          "keyword": "김천상무 대 전북",
+          "score": 92
+        },
+        {
+          "keyword": "최여진",
           "score": 91
         }
       ]
