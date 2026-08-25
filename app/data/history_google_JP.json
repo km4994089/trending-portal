@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-21T10:25:17.385Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "アジア大会",
-          "score": 100
-        },
-        {
-          "keyword": "日刊スポーツ",
-          "score": 99
-        },
-        {
-          "keyword": "mer",
-          "score": 98
-        },
-        {
-          "keyword": "オリンピック",
-          "score": 97
-        },
-        {
-          "keyword": "田中エリナ",
-          "score": 96
-        },
-        {
-          "keyword": "木村沙織",
-          "score": 95
-        },
-        {
-          "keyword": "香港",
-          "score": 94
-        },
-        {
-          "keyword": "ヘラル エンカー ナシオン",
-          "score": 93
-        },
-        {
-          "keyword": "鈴木宗男",
-          "score": 92
-        },
-        {
-          "keyword": "荒川静香",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-21T10:55:13.561Z",
       "geo": "JP",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "満月",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-25T10:27:40.012Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "則本昂大",
+          "score": 100
+        },
+        {
+          "keyword": "カーネル・サンダース",
+          "score": 99
+        },
+        {
+          "keyword": "下地幹郎",
+          "score": 98
+        },
+        {
+          "keyword": "男子バレー",
+          "score": 97
+        },
+        {
+          "keyword": "ロサンゼルス クリッパー ズ",
+          "score": 96
+        },
+        {
+          "keyword": "プレミアム付商品券",
+          "score": 95
+        },
+        {
+          "keyword": "プロ野球速報",
+          "score": 94
+        },
+        {
+          "keyword": "フォーブス30アンダー30",
+          "score": 93
+        },
+        {
+          "keyword": "大石紗椰",
+          "score": 92
+        },
+        {
+          "keyword": "横山太一",
           "score": 91
         }
       ]

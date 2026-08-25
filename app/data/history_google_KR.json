@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-21T10:25:16.384Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lg 대 한화",
-          "score": 100
-        },
-        {
-          "keyword": "성주군",
-          "score": 99
-        },
-        {
-          "keyword": "경기도교육청",
-          "score": 98
-        },
-        {
-          "keyword": "삼성 대 nc",
-          "score": 97
-        },
-        {
-          "keyword": "롯데 대 두산",
-          "score": 96
-        },
-        {
-          "keyword": "kt 대 ssg",
-          "score": 95
-        },
-        {
-          "keyword": "kia 대 키움",
-          "score": 94
-        },
-        {
-          "keyword": "통상교섭본부장",
-          "score": 93
-        },
-        {
-          "keyword": "황신혜",
-          "score": 92
-        },
-        {
-          "keyword": "비트코인",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-21T10:55:12.349Z",
       "geo": "KR",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "롯데 대 kia",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-25T10:27:39.027Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "최여진",
+          "score": 100
+        },
+        {
+          "keyword": "피고인",
+          "score": 99
+        },
+        {
+          "keyword": "천무 다연장로켓",
+          "score": 98
+        },
+        {
+          "keyword": "인천광역시",
+          "score": 97
+        },
+        {
+          "keyword": "로저 페더러",
+          "score": 96
+        },
+        {
+          "keyword": "송가인",
+          "score": 95
+        },
+        {
+          "keyword": "셀트리온",
+          "score": 94
+        },
+        {
+          "keyword": "오픈ai",
+          "score": 93
+        },
+        {
+          "keyword": "xrp",
+          "score": 92
+        },
+        {
+          "keyword": "수영",
           "score": 91
         }
       ]
