@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-21T12:25:02.047Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "地震",
-          "score": 100
-        },
-        {
-          "keyword": "横浜 地震",
-          "score": 99
-        },
-        {
-          "keyword": "japan earthquake",
-          "score": 98
-        },
-        {
-          "keyword": "earthquake",
-          "score": 97
-        },
-        {
-          "keyword": "ピティナ特級",
-          "score": 96
-        },
-        {
-          "keyword": "地震速報 今",
-          "score": 95
-        },
-        {
-          "keyword": "坂本誠志郎",
-          "score": 94
-        },
-        {
-          "keyword": "earthquake japan",
-          "score": 93
-        },
-        {
-          "keyword": "yahoo 地震",
-          "score": 92
-        },
-        {
-          "keyword": "地震 いま",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-21T13:24:18.169Z",
       "geo": "JP",
       "source": "google",
@@ -6954,6 +6907,53 @@
         },
         {
           "keyword": "免職",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-25T12:26:38.641Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "カープ 試合",
+          "score": 100
+        },
+        {
+          "keyword": "mcu",
+          "score": 99
+        },
+        {
+          "keyword": "ヤクルト",
+          "score": 98
+        },
+        {
+          "keyword": "プロ野球 今日",
+          "score": 97
+        },
+        {
+          "keyword": "ジェロム・レ・バンナ",
+          "score": 96
+        },
+        {
+          "keyword": "具志堅用高",
+          "score": 95
+        },
+        {
+          "keyword": "ウィンチケット",
+          "score": 94
+        },
+        {
+          "keyword": "バヌアツ",
+          "score": 93
+        },
+        {
+          "keyword": "プロ野球",
+          "score": 92
+        },
+        {
+          "keyword": "日本ハムファイターズ",
           "score": 91
         }
       ]
