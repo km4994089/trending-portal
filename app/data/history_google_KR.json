@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-21T05:54:27.859Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jyp엔터테인먼트",
-          "score": 100
-        },
-        {
-          "keyword": "방화",
-          "score": 99
-        },
-        {
-          "keyword": "영제이",
-          "score": 98
-        },
-        {
-          "keyword": "us 오픈",
-          "score": 97
-        },
-        {
-          "keyword": "롯데자이언츠",
-          "score": 96
-        },
-        {
-          "keyword": "미스트롯",
-          "score": 95
-        },
-        {
-          "keyword": "현대자동차그룹 메타플랜트 아메리카",
-          "score": 94
-        },
-        {
-          "keyword": "경주기행",
-          "score": 93
-        },
-        {
-          "keyword": "민형배",
-          "score": 92
-        },
-        {
-          "keyword": "노시환",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-21T06:27:39.701Z",
       "geo": "KR",
       "source": "google",
@@ -7001,6 +6954,53 @@
         },
         {
           "keyword": "로봇",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-25T06:26:54.523Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "유어 아너",
+          "score": 100
+        },
+        {
+          "keyword": "임금피크제",
+          "score": 99
+        },
+        {
+          "keyword": "정형돈",
+          "score": 98
+        },
+        {
+          "keyword": "최영중",
+          "score": 97
+        },
+        {
+          "keyword": "배구",
+          "score": 96
+        },
+        {
+          "keyword": "광명시",
+          "score": 95
+        },
+        {
+          "keyword": "좌석",
+          "score": 94
+        },
+        {
+          "keyword": "박준형",
+          "score": 93
+        },
+        {
+          "keyword": "원태인",
+          "score": 92
+        },
+        {
+          "keyword": "화환",
           "score": 91
         }
       ]

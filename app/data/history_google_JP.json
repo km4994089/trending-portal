@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-21T05:54:29.100Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "鳩山由紀夫",
-          "score": 100
-        },
-        {
-          "keyword": "祭",
-          "score": 99
-        },
-        {
-          "keyword": "ルーマニア",
-          "score": 98
-        },
-        {
-          "keyword": "岡田結実",
-          "score": 97
-        },
-        {
-          "keyword": "芸能事務所",
-          "score": 96
-        },
-        {
-          "keyword": "清水アキラ",
-          "score": 95
-        },
-        {
-          "keyword": "ダルトン ラッシング",
-          "score": 94
-        },
-        {
-          "keyword": "柏 天気",
-          "score": 93
-        },
-        {
-          "keyword": "レッカー車",
-          "score": 92
-        },
-        {
-          "keyword": "密漁",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-21T06:27:41.034Z",
       "geo": "JP",
       "source": "google",
@@ -7001,6 +6954,53 @@
         },
         {
           "keyword": "パトリオットミサイル",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-25T06:26:55.667Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ステーションワゴン",
+          "score": 100
+        },
+        {
+          "keyword": "メーガン妃",
+          "score": 99
+        },
+        {
+          "keyword": "調整さん",
+          "score": 98
+        },
+        {
+          "keyword": "最高気温",
+          "score": 97
+        },
+        {
+          "keyword": "伊賀市長",
+          "score": 96
+        },
+        {
+          "keyword": "ケンタッキー 月 見",
+          "score": 95
+        },
+        {
+          "keyword": "naruto -ナルト-",
+          "score": 94
+        },
+        {
+          "keyword": "沖縄 地震",
+          "score": 93
+        },
+        {
+          "keyword": "じゃい",
+          "score": 92
+        },
+        {
+          "keyword": "エージェントキム",
           "score": 91
         }
       ]
