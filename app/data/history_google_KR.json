@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-21T22:13:02.953Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lng선",
-          "score": 100
-        },
-        {
-          "keyword": "다우 존스 산업평균지수",
-          "score": 99
-        },
-        {
-          "keyword": "schd",
-          "score": 98
-        },
-        {
-          "keyword": "콜레스테롤",
-          "score": 97
-        },
-        {
-          "keyword": "감전",
-          "score": 96
-        },
-        {
-          "keyword": "시청률",
-          "score": 95
-        },
-        {
-          "keyword": "오디세이",
-          "score": 94
-        },
-        {
-          "keyword": "신인감독 김연경",
-          "score": 93
-        },
-        {
-          "keyword": "서식스 공작부인 메건",
-          "score": 92
-        },
-        {
-          "keyword": "부동산",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-21T22:47:41.373Z",
       "geo": "KR",
       "source": "google",
@@ -6860,6 +6813,53 @@
         },
         {
           "keyword": "피싱",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-25T22:15:31.182Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "누리 호",
+          "score": 100
+        },
+        {
+          "keyword": "김은지",
+          "score": 99
+        },
+        {
+          "keyword": "배충식",
+          "score": 98
+        },
+        {
+          "keyword": "한국경제",
+          "score": 97
+        },
+        {
+          "keyword": "골 때리는 그녀들",
+          "score": 96
+        },
+        {
+          "keyword": "오늘의 운세",
+          "score": 95
+        },
+        {
+          "keyword": "이진숙",
+          "score": 94
+        },
+        {
+          "keyword": "이수경",
+          "score": 93
+        },
+        {
+          "keyword": "전현무",
+          "score": 92
+        },
+        {
+          "keyword": "프로야구 순위",
           "score": 91
         }
       ]
