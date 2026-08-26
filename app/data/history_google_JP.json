@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-22T09:17:20.350Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "マリノス",
-          "score": 100
-        },
-        {
-          "keyword": "横浜市 天気",
-          "score": 99
-        },
-        {
-          "keyword": "太田 光",
-          "score": 98
-        },
-        {
-          "keyword": "長崎スタジアムシティ",
-          "score": 97
-        },
-        {
-          "keyword": "岡山 対 東京v",
-          "score": 96
-        },
-        {
-          "keyword": "練馬区白子川",
-          "score": 95
-        },
-        {
-          "keyword": "ハマスタ",
-          "score": 94
-        },
-        {
-          "keyword": "tbs",
-          "score": 93
-        },
-        {
-          "keyword": "豊田スタジアム",
-          "score": 92
-        },
-        {
-          "keyword": "記録的短時間大雨情報",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-08-22T09:48:20.225Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "新潟 対 藤枝",
-          "score": 100
-        },
-        {
-          "keyword": "ブラックラグーン",
-          "score": 99
-        },
-        {
-          "keyword": "algs",
-          "score": 98
-        },
-        {
-          "keyword": "阪神タイガース 今日の試合",
-          "score": 97
-        },
-        {
-          "keyword": "c大阪 対 清水",
-          "score": 96
-        },
-        {
-          "keyword": "京都 対 水戸",
-          "score": 95
-        },
-        {
-          "keyword": "weリーグ",
-          "score": 94
-        },
-        {
-          "keyword": "名古屋 対 g大阪",
-          "score": 93
-        },
-        {
-          "keyword": "マリノス 試合",
-          "score": 92
-        },
-        {
-          "keyword": "マリノス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-22T10:12:41.150Z",
       "geo": "JP",
       "source": "google",
@@ -6766,6 +6672,53 @@
         },
         {
           "keyword": "大阪公立大学",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-26T10:03:47.504Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "千葉 対 沼津",
+          "score": 100
+        },
+        {
+          "keyword": "名古屋グランパス",
+          "score": 99
+        },
+        {
+          "keyword": "家計",
+          "score": 98
+        },
+        {
+          "keyword": "ファミマ 制服",
+          "score": 97
+        },
+        {
+          "keyword": "ガイナーレ鳥取",
+          "score": 96
+        },
+        {
+          "keyword": "満月",
+          "score": 95
+        },
+        {
+          "keyword": "航空自衛隊",
+          "score": 94
+        },
+        {
+          "keyword": "mufg",
+          "score": 93
+        },
+        {
+          "keyword": "横山太一",
+          "score": 92
+        },
+        {
+          "keyword": "磐田 対 宮崎",
           "score": 91
         }
       ]
