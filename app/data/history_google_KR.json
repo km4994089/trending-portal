@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-22T00:37:48.609Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "학대",
-          "score": 100
-        },
-        {
-          "keyword": "미인 대회",
-          "score": 99
-        },
-        {
-          "keyword": "앱솔 릭스",
-          "score": 98
-        },
-        {
-          "keyword": "이진우",
-          "score": 97
-        },
-        {
-          "keyword": "안성재",
-          "score": 96
-        },
-        {
-          "keyword": "무궁화호",
-          "score": 95
-        },
-        {
-          "keyword": "나는 solo",
-          "score": 94
-        },
-        {
-          "keyword": "재정",
-          "score": 93
-        },
-        {
-          "keyword": "베트남 축구 국가대표팀",
-          "score": 92
-        },
-        {
-          "keyword": "김준호",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-22T02:08:43.298Z",
       "geo": "KR",
       "source": "google",
@@ -6860,6 +6813,53 @@
         },
         {
           "keyword": "트렌드",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-26T00:40:02.612Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "yeouido",
+          "score": 100
+        },
+        {
+          "keyword": "리그 오브 레전드",
+          "score": 99
+        },
+        {
+          "keyword": "이준석",
+          "score": 98
+        },
+        {
+          "keyword": "엔비디아 실적",
+          "score": 97
+        },
+        {
+          "keyword": "한겨레",
+          "score": 96
+        },
+        {
+          "keyword": "판결",
+          "score": 95
+        },
+        {
+          "keyword": "스코티 셰플러",
+          "score": 94
+        },
+        {
+          "keyword": "베라 루빈",
+          "score": 93
+        },
+        {
+          "keyword": "돌리 파튼",
+          "score": 92
+        },
+        {
+          "keyword": "한국고속철도",
           "score": 91
         }
       ]
