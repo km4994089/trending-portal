@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-22T02:08:43.298Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "금값",
-          "score": 100
-        },
-        {
-          "keyword": "김병지",
-          "score": 99
-        },
-        {
-          "keyword": "안재환",
-          "score": 98
-        },
-        {
-          "keyword": "경복궁",
-          "score": 97
-        },
-        {
-          "keyword": "일본 엔",
-          "score": 96
-        },
-        {
-          "keyword": "오동운",
-          "score": 95
-        },
-        {
-          "keyword": "ban vs aus",
-          "score": 94
-        },
-        {
-          "keyword": "강원도민일보",
-          "score": 93
-        },
-        {
-          "keyword": "한국마사회",
-          "score": 92
-        },
-        {
-          "keyword": "bangladesh vs australia",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-22T03:12:24.544Z",
       "geo": "KR",
       "source": "google",
@@ -6860,6 +6813,53 @@
         },
         {
           "keyword": "한국고속철도",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-26T02:18:54.367Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "모두의창업",
+          "score": 100
+        },
+        {
+          "keyword": "국회",
+          "score": 99
+        },
+        {
+          "keyword": "부천 상동 역 롯데 캐슬",
+          "score": 98
+        },
+        {
+          "keyword": "톱스타뉴스",
+          "score": 97
+        },
+        {
+          "keyword": "경복궁 야간개장",
+          "score": 96
+        },
+        {
+          "keyword": "sk이노베이션",
+          "score": 95
+        },
+        {
+          "keyword": "항공",
+          "score": 94
+        },
+        {
+          "keyword": "미국 대통령",
+          "score": 93
+        },
+        {
+          "keyword": "여객기",
+          "score": 92
+        },
+        {
+          "keyword": "왕옌청",
           "score": 91
         }
       ]
