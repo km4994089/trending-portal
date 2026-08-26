@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-22T04:01:52.125Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "america",
-          "score": 100
-        },
-        {
-          "keyword": "andy pages",
-          "score": 99
-        },
-        {
-          "keyword": "el cholo ivan",
-          "score": 98
-        },
-        {
-          "keyword": "isaiah neyor",
-          "score": 97
-        },
-        {
-          "keyword": "craig counsell",
-          "score": 96
-        },
-        {
-          "keyword": "nick jonas",
-          "score": 95
-        },
-        {
-          "keyword": "travis bazzana",
-          "score": 94
-        },
-        {
-          "keyword": "nick gonzales",
-          "score": 93
-        },
-        {
-          "keyword": "rangers",
-          "score": 92
-        },
-        {
-          "keyword": "cal raleigh",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-22T04:56:51.494Z",
       "geo": "US",
       "source": "google",
@@ -6860,6 +6813,53 @@
         },
         {
           "keyword": "alyssa thomas",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-26T04:10:41.523Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mason miller",
+          "score": 100
+        },
+        {
+          "keyword": "mariners game",
+          "score": 99
+        },
+        {
+          "keyword": "oneil cruz",
+          "score": 98
+        },
+        {
+          "keyword": "mariners score",
+          "score": 97
+        },
+        {
+          "keyword": "padres score",
+          "score": 96
+        },
+        {
+          "keyword": "jelly roll weight loss",
+          "score": 95
+        },
+        {
+          "keyword": "padres game",
+          "score": 94
+        },
+        {
+          "keyword": "cat in the hat",
+          "score": 93
+        },
+        {
+          "keyword": "jake bobo injury",
+          "score": 92
+        },
+        {
+          "keyword": "rangers - white sox",
           "score": 91
         }
       ]
