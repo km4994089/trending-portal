@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-22T11:11:19.259Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "기상",
-          "score": 100
-        },
-        {
-          "keyword": "안우진",
-          "score": 99
-        },
-        {
-          "keyword": "서건창",
-          "score": 98
-        },
-        {
-          "keyword": "xsmn",
-          "score": 97
-        },
-        {
-          "keyword": "부천 대 포항",
-          "score": 96
-        },
-        {
-          "keyword": "제주 대 김천상무",
-          "score": 95
-        },
-        {
-          "keyword": "창원시",
-          "score": 94
-        },
-        {
-          "keyword": "전북 대 울산",
-          "score": 93
-        },
-        {
-          "keyword": "안양 대 fc 서울",
-          "score": 92
-        },
-        {
-          "keyword": "대한민국 방위사업청",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-22T11:42:08.231Z",
       "geo": "KR",
       "source": "google",
@@ -6672,6 +6625,53 @@
         },
         {
           "keyword": "스페이스x",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-26T11:26:43.990Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "상주소방서",
+          "score": 100
+        },
+        {
+          "keyword": "삼성 엑시노스",
+          "score": 99
+        },
+        {
+          "keyword": "키움 히어로즈",
+          "score": 98
+        },
+        {
+          "keyword": "공군사관학교",
+          "score": 97
+        },
+        {
+          "keyword": "골프장",
+          "score": 96
+        },
+        {
+          "keyword": "공연",
+          "score": 95
+        },
+        {
+          "keyword": "강원 대 광주",
+          "score": 94
+        },
+        {
+          "keyword": "전략사령부",
+          "score": 93
+        },
+        {
+          "keyword": "메리츠화재",
+          "score": 92
+        },
+        {
+          "keyword": "안양 대 인천",
           "score": 91
         }
       ]
