@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-22T11:42:07.018Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dc weather",
-          "score": 100
-        },
-        {
-          "keyword": "teesside",
-          "score": 99
-        },
-        {
-          "keyword": "sling tv",
-          "score": 98
-        },
-        {
-          "keyword": "ambassador bridge",
-          "score": 97
-        },
-        {
-          "keyword": "jet",
-          "score": 96
-        },
-        {
-          "keyword": "amad diallo",
-          "score": 95
-        },
-        {
-          "keyword": "leadville 100",
-          "score": 94
-        },
-        {
-          "keyword": "boston weather",
-          "score": 93
-        },
-        {
-          "keyword": "bayern munich",
-          "score": 92
-        },
-        {
-          "keyword": "data center",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-22T12:18:04.580Z",
       "geo": "US",
       "source": "google",
@@ -6672,6 +6625,53 @@
         },
         {
           "keyword": "ohio state football schedule",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-26T11:53:55.101Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "usha vance",
+          "score": 100
+        },
+        {
+          "keyword": "kriti sanon",
+          "score": 99
+        },
+        {
+          "keyword": "resignation",
+          "score": 98
+        },
+        {
+          "keyword": "college gameday",
+          "score": 97
+        },
+        {
+          "keyword": "georgia bulldogs football",
+          "score": 96
+        },
+        {
+          "keyword": "special ops lioness season 4",
+          "score": 95
+        },
+        {
+          "keyword": "humanoid robot apartment cleaning service",
+          "score": 94
+        },
+        {
+          "keyword": "trump canada",
+          "score": 93
+        },
+        {
+          "keyword": "state farm secret documents",
+          "score": 92
+        },
+        {
+          "keyword": "montez sweat",
           "score": 91
         }
       ]

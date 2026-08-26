@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-22T11:42:08.231Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "헐 시티 대 맨유",
-          "score": 100
-        },
-        {
-          "keyword": "상장지수 펀드",
-          "score": 99
-        },
-        {
-          "keyword": "lck 2026",
-          "score": 98
-        },
-        {
-          "keyword": "천안시티 대 수원",
-          "score": 97
-        },
-        {
-          "keyword": "기상",
-          "score": 96
-        },
-        {
-          "keyword": "안우진",
-          "score": 95
-        },
-        {
-          "keyword": "xsmn",
-          "score": 94
-        },
-        {
-          "keyword": "부천 대 포항",
-          "score": 93
-        },
-        {
-          "keyword": "제주 대 김천상무",
-          "score": 92
-        },
-        {
-          "keyword": "창원시",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-22T12:18:05.702Z",
       "geo": "KR",
       "source": "google",
@@ -6672,6 +6625,53 @@
         },
         {
           "keyword": "안양 대 인천",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-26T11:53:56.112Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "난징 지하철",
+          "score": 100
+        },
+        {
+          "keyword": "김시아",
+          "score": 99
+        },
+        {
+          "keyword": "네팔",
+          "score": 98
+        },
+        {
+          "keyword": "도지코인",
+          "score": 97
+        },
+        {
+          "keyword": "한국여자프로농구",
+          "score": 96
+        },
+        {
+          "keyword": "사다리차",
+          "score": 95
+        },
+        {
+          "keyword": "상주소방서",
+          "score": 94
+        },
+        {
+          "keyword": "삼성 엑시노스",
+          "score": 93
+        },
+        {
+          "keyword": "키움 히어로즈",
+          "score": 92
+        },
+        {
+          "keyword": "공군사관학교",
           "score": 91
         }
       ]
