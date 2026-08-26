@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-22T03:12:25.739Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ピート・クロウ=アームストロング",
-          "score": 100
-        },
-        {
-          "keyword": "高田 み づえ",
-          "score": 99
-        },
-        {
-          "keyword": "ウーバー",
-          "score": 98
-        },
-        {
-          "keyword": "ニュース",
-          "score": 97
-        },
-        {
-          "keyword": "マックス・マンシー",
-          "score": 96
-        },
-        {
-          "keyword": "eテレ",
-          "score": 95
-        },
-        {
-          "keyword": "秋元優里",
-          "score": 94
-        },
-        {
-          "keyword": "智弁学園 智弁和歌山",
-          "score": 93
-        },
-        {
-          "keyword": "dodgers vs pirates",
-          "score": 92
-        },
-        {
-          "keyword": "北海道マラソン",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-22T04:01:54.213Z",
       "geo": "JP",
       "source": "google",
@@ -6860,6 +6813,53 @@
         },
         {
           "keyword": "test",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-26T03:30:41.551Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "吉村崇",
+          "score": 100
+        },
+        {
+          "keyword": "マイティーストライクフリーダムガンダム",
+          "score": 99
+        },
+        {
+          "keyword": "igアリーナ",
+          "score": 98
+        },
+        {
+          "keyword": "チャーリーコックス",
+          "score": 97
+        },
+        {
+          "keyword": "スタバ新作",
+          "score": 96
+        },
+        {
+          "keyword": "レインボーシックス",
+          "score": 95
+        },
+        {
+          "keyword": "吉本興業",
+          "score": 94
+        },
+        {
+          "keyword": "八村倫太郎",
+          "score": 93
+        },
+        {
+          "keyword": "fm選手権",
+          "score": 92
+        },
+        {
+          "keyword": "日産・エルグランド",
           "score": 91
         }
       ]
