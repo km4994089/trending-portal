@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-22T07:07:12.138Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "羽月隆太郎",
-          "score": 100
-        },
-        {
-          "keyword": "綾瀬市花火大会",
-          "score": 99
-        },
-        {
-          "keyword": "コンサドーレ",
-          "score": 98
-        },
-        {
-          "keyword": "雨雲",
-          "score": 97
-        },
-        {
-          "keyword": "万引き",
-          "score": 96
-        },
-        {
-          "keyword": "ウェザーニュース 雨雲レーダー",
-          "score": 95
-        },
-        {
-          "keyword": "蛭田みな美",
-          "score": 94
-        },
-        {
-          "keyword": "東海汽船 聴聞",
-          "score": 93
-        },
-        {
-          "keyword": "八戸花火大会",
-          "score": 92
-        },
-        {
-          "keyword": "横浜スタジアム",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-22T07:51:51.766Z",
       "geo": "JP",
       "source": "google",
@@ -6813,6 +6766,53 @@
         },
         {
           "keyword": "日経平均 伊藤",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-26T07:37:20.096Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "高橋ヒロム",
+          "score": 100
+        },
+        {
+          "keyword": "ドラフトドラフト",
+          "score": 99
+        },
+        {
+          "keyword": "youtuber",
+          "score": 98
+        },
+        {
+          "keyword": "皇居ランニング",
+          "score": 97
+        },
+        {
+          "keyword": "林家パー子",
+          "score": 96
+        },
+        {
+          "keyword": "東京 グリーン 株",
+          "score": 95
+        },
+        {
+          "keyword": "営業ですからドラマ",
+          "score": 94
+        },
+        {
+          "keyword": "上坂樹里",
+          "score": 93
+        },
+        {
+          "keyword": "金与正",
+          "score": 92
+        },
+        {
+          "keyword": "栗山巧",
           "score": 91
         }
       ]
