@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-22T08:54:01.005Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "豊田スタジアム",
-          "score": 100
-        },
-        {
-          "keyword": "記録的短時間大雨情報",
-          "score": 99
-        },
-        {
-          "keyword": "天気 横浜",
-          "score": 98
-        },
-        {
-          "keyword": "u21 jリーグ",
-          "score": 97
-        },
-        {
-          "keyword": "神田川",
-          "score": 96
-        },
-        {
-          "keyword": "皆藤 愛子",
-          "score": 95
-        },
-        {
-          "keyword": "テテ",
-          "score": 94
-        },
-        {
-          "keyword": "六本木ヒルズ",
-          "score": 93
-        },
-        {
-          "keyword": "鹿島 対 福岡",
-          "score": 92
-        },
-        {
-          "keyword": "資産",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-22T09:17:20.350Z",
       "geo": "JP",
       "source": "google",
@@ -6766,6 +6719,53 @@
         },
         {
           "keyword": "竜巻注意情報",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-26T09:12:25.786Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "長谷川唯",
+          "score": 100
+        },
+        {
+          "keyword": "将門 塚 配信 者",
+          "score": 99
+        },
+        {
+          "keyword": "アイザイアリバース",
+          "score": 98
+        },
+        {
+          "keyword": "博多大吉",
+          "score": 97
+        },
+        {
+          "keyword": "icc",
+          "score": 96
+        },
+        {
+          "keyword": "千葉 雄大 痩せ た",
+          "score": 95
+        },
+        {
+          "keyword": "十和田湖遊覧船",
+          "score": 94
+        },
+        {
+          "keyword": "堤下敦",
+          "score": 93
+        },
+        {
+          "keyword": "岡田結実",
+          "score": 92
+        },
+        {
+          "keyword": "大阪公立大学",
           "score": 91
         }
       ]

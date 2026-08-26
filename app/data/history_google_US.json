@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-22T08:53:58.695Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "d",
-          "score": 100
-        },
-        {
-          "keyword": "philadelphia phillies game",
-          "score": 99
-        },
-        {
-          "keyword": "ea",
-          "score": 98
-        },
-        {
-          "keyword": "barack obama",
-          "score": 97
-        },
-        {
-          "keyword": "christa pike",
-          "score": 96
-        },
-        {
-          "keyword": "ps5 pro",
-          "score": 95
-        },
-        {
-          "keyword": "twitch tv",
-          "score": 94
-        },
-        {
-          "keyword": "police",
-          "score": 93
-        },
-        {
-          "keyword": "newt gingrich",
-          "score": 92
-        },
-        {
-          "keyword": "margot robbie",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-22T09:17:18.207Z",
       "geo": "US",
       "source": "google",
@@ -6766,6 +6719,53 @@
         },
         {
           "keyword": "hospital",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-26T09:12:23.242Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "barack obama",
+          "score": 100
+        },
+        {
+          "keyword": "movie",
+          "score": 99
+        },
+        {
+          "keyword": "truck accident lawyer",
+          "score": 98
+        },
+        {
+          "keyword": "marcye scott everton blair runoff",
+          "score": 97
+        },
+        {
+          "keyword": "cremation",
+          "score": 96
+        },
+        {
+          "keyword": "william shatner",
+          "score": 95
+        },
+        {
+          "keyword": "kuku kohli",
+          "score": 94
+        },
+        {
+          "keyword": "豆包工作",
+          "score": 93
+        },
+        {
+          "keyword": "lunar eclipses",
+          "score": 92
+        },
+        {
+          "keyword": "cycling",
           "score": 91
         }
       ]
