@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-26T20:22:07.147Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ラリーガ",
-          "score": 100
-        },
-        {
-          "keyword": "井上尚弥",
-          "score": 99
-        },
-        {
-          "keyword": "遭難",
-          "score": 98
-        },
-        {
-          "keyword": "ヘンリー王子",
-          "score": 97
-        },
-        {
-          "keyword": "雲 が 描い た 月 明り",
-          "score": 96
-        },
-        {
-          "keyword": "t シャツ が 乾く まで",
-          "score": 95
-        },
-        {
-          "keyword": "ラ・リーガ",
-          "score": 94
-        },
-        {
-          "keyword": "レアルソシエダ",
-          "score": 93
-        },
-        {
-          "keyword": "雷予報",
-          "score": 92
-        },
-        {
-          "keyword": "ソフトバンク",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-26T23:51:16.984Z",
       "geo": "JP",
       "source": "google",
@@ -797,6 +750,53 @@
         },
         {
           "keyword": "フレディ・フリーマン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-30T22:51:58.880Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "als 24 時間 テレビ",
+          "score": 100
+        },
+        {
+          "keyword": "成長株",
+          "score": 99
+        },
+        {
+          "keyword": "深澤辰哉",
+          "score": 98
+        },
+        {
+          "keyword": "24時間テレビ放送事故",
+          "score": 97
+        },
+        {
+          "keyword": "佐藤沙織里",
+          "score": 96
+        },
+        {
+          "keyword": "高知 天気",
+          "score": 95
+        },
+        {
+          "keyword": "常陸大宮市",
+          "score": 94
+        },
+        {
+          "keyword": "逐玉: 翡翠の君",
+          "score": 93
+        },
+        {
+          "keyword": "ポケモンgo イベント",
+          "score": 92
+        },
+        {
+          "keyword": "早明浦ダム 貯水率",
           "score": 91
         }
       ]
