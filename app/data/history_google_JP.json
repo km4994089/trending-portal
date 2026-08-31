@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-27T05:42:45.333Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "落雷",
-          "score": 100
-        },
-        {
-          "keyword": "ビル・ゲイツ",
-          "score": 99
-        },
-        {
-          "keyword": "自動化ゲート",
-          "score": 98
-        },
-        {
-          "keyword": "天気台風情報",
-          "score": 97
-        },
-        {
-          "keyword": "八戸 天気",
-          "score": 96
-        },
-        {
-          "keyword": "バトオペ",
-          "score": 95
-        },
-        {
-          "keyword": "水卜麻美",
-          "score": 94
-        },
-        {
-          "keyword": "円",
-          "score": 93
-        },
-        {
-          "keyword": "メタ",
-          "score": 92
-        },
-        {
-          "keyword": "北大西洋条約機構",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-28T01:34:08.900Z",
       "geo": "JP",
       "source": "google",
@@ -797,6 +750,53 @@
         },
         {
           "keyword": "柿谷曜一朗",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-08-31T06:44:22.334Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "韓鶴子",
+          "score": 100
+        },
+        {
+          "keyword": "ファミリーマート",
+          "score": 99
+        },
+        {
+          "keyword": "具志堅用高",
+          "score": 98
+        },
+        {
+          "keyword": "宮根誠司",
+          "score": 97
+        },
+        {
+          "keyword": "プ レジデンツ カップ",
+          "score": 96
+        },
+        {
+          "keyword": "レギア・ワルシャワ",
+          "score": 95
+        },
+        {
+          "keyword": "異常気象",
+          "score": 94
+        },
+        {
+          "keyword": "橋岡大樹",
+          "score": 93
+        },
+        {
+          "keyword": "ちいかわ映画",
+          "score": 92
+        },
+        {
+          "keyword": "横山 裕",
           "score": 91
         }
       ]
