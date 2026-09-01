@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-28T13:32:04.723Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "court tv live",
-          "score": 100
-        },
-        {
-          "keyword": "tiger",
-          "score": 99
-        },
-        {
-          "keyword": "lisa kudrow",
-          "score": 98
-        },
-        {
-          "keyword": "kenscoff",
-          "score": 97
-        },
-        {
-          "keyword": "tooro kingdom",
-          "score": 96
-        },
-        {
-          "keyword": "tornado weather",
-          "score": 95
-        },
-        {
-          "keyword": "pennsylvania nicu measles cases",
-          "score": 94
-        },
-        {
-          "keyword": "2026 old farmer's almanac weather",
-          "score": 93
-        },
-        {
-          "keyword": "bassmaster",
-          "score": 92
-        },
-        {
-          "keyword": "roger federer",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-28T23:17:10.503Z",
       "geo": "US",
       "source": "google",
@@ -985,6 +938,53 @@
         },
         {
           "keyword": "olympics",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-01T13:59:07.067Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "chris pratt",
+          "score": 100
+        },
+        {
+          "keyword": "jahmyr gibbs",
+          "score": 99
+        },
+        {
+          "keyword": "paris hilton",
+          "score": 98
+        },
+        {
+          "keyword": "renaissance",
+          "score": 97
+        },
+        {
+          "keyword": "usps whistleblower",
+          "score": 96
+        },
+        {
+          "keyword": "dhs",
+          "score": 95
+        },
+        {
+          "keyword": "court tv live",
+          "score": 94
+        },
+        {
+          "keyword": "ohio state buckeyes football",
+          "score": 93
+        },
+        {
+          "keyword": "pacific marine heatwave and el nino",
+          "score": 92
+        },
+        {
+          "keyword": "country music",
           "score": 91
         }
       ]
