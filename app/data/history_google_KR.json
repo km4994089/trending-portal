@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-28T01:34:07.399Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "달러",
-          "score": 100
-        },
-        {
-          "keyword": "신대철",
-          "score": 99
-        },
-        {
-          "keyword": "남보라",
-          "score": 98
-        },
-        {
-          "keyword": "나는 solo, 그 후 사랑은 계속된다",
-          "score": 97
-        },
-        {
-          "keyword": "fm 챔피언십",
-          "score": 96
-        },
-        {
-          "keyword": "리가켐바이오사이언스",
-          "score": 95
-        },
-        {
-          "keyword": "발전소",
-          "score": 94
-        },
-        {
-          "keyword": "금융감독원",
-          "score": 93
-        },
-        {
-          "keyword": "회사",
-          "score": 92
-        },
-        {
-          "keyword": "리벨리온",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-28T13:32:05.996Z",
       "geo": "KR",
       "source": "google",
@@ -938,6 +891,53 @@
         },
         {
           "keyword": "국립순천대학교",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-01T03:43:32.945Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "홍명보",
+          "score": 100
+        },
+        {
+          "keyword": "nol",
+          "score": 99
+        },
+        {
+          "keyword": "pv7",
+          "score": 98
+        },
+        {
+          "keyword": "하영",
+          "score": 97
+        },
+        {
+          "keyword": "서건창",
+          "score": 96
+        },
+        {
+          "keyword": "전환사채",
+          "score": 95
+        },
+        {
+          "keyword": "감염",
+          "score": 94
+        },
+        {
+          "keyword": "에너지",
+          "score": 93
+        },
+        {
+          "keyword": "버거킹",
+          "score": 92
+        },
+        {
+          "keyword": "정창성",
           "score": 91
         }
       ]
