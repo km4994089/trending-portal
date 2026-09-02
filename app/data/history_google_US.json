@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-29T15:42:05.758Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "cameron diaz",
-          "score": 100
-        },
-        {
-          "keyword": "tadej pogačar",
-          "score": 99
-        },
-        {
-          "keyword": "us open tickets",
-          "score": 98
-        },
-        {
-          "keyword": "famous birthdays",
-          "score": 97
-        },
-        {
-          "keyword": "darian mensah",
-          "score": 96
-        },
-        {
-          "keyword": "cj carr",
-          "score": 95
-        },
-        {
-          "keyword": "beau pribula",
-          "score": 94
-        },
-        {
-          "keyword": "samuel monroe jr.",
-          "score": 93
-        },
-        {
-          "keyword": "rob reiner",
-          "score": 92
-        },
-        {
-          "keyword": "h4 ead news",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-29T19:00:07.777Z",
       "geo": "US",
       "source": "google",
@@ -1173,6 +1126,53 @@
         },
         {
           "keyword": "sara bareilles",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-02T17:33:41.435Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "olympiacos fc",
+          "score": 100
+        },
+        {
+          "keyword": "juan brito",
+          "score": 99
+        },
+        {
+          "keyword": "hubert hurkacz",
+          "score": 98
+        },
+        {
+          "keyword": "house",
+          "score": 97
+        },
+        {
+          "keyword": "miami international airport",
+          "score": 96
+        },
+        {
+          "keyword": "nys fair",
+          "score": 95
+        },
+        {
+          "keyword": "badosa",
+          "score": 94
+        },
+        {
+          "keyword": "harry potter tv series",
+          "score": 93
+        },
+        {
+          "keyword": "taylor swift",
+          "score": 92
+        },
+        {
+          "keyword": "49ers football",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-29T15:42:08.151Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "串木野",
-          "score": 100
-        },
-        {
-          "keyword": "福井市",
-          "score": 99
-        },
-        {
-          "keyword": "qvc",
-          "score": 98
-        },
-        {
-          "keyword": "kbcオーガスタ",
-          "score": 97
-        },
-        {
-          "keyword": "ヒコロヒー",
-          "score": 96
-        },
-        {
-          "keyword": "テレ東",
-          "score": 95
-        },
-        {
-          "keyword": "見栄晴",
-          "score": 94
-        },
-        {
-          "keyword": "24時間テレビ 見逃し配信",
-          "score": 93
-        },
-        {
-          "keyword": "攻撃",
-          "score": 92
-        },
-        {
-          "keyword": "ドラム vivant",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-29T19:00:09.960Z",
       "geo": "JP",
       "source": "google",
@@ -1173,6 +1126,53 @@
         },
         {
           "keyword": "ホンマでっかtv",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-02T17:33:43.752Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "さよならノワール",
+          "score": 100
+        },
+        {
+          "keyword": "コメダ 月 見",
+          "score": 99
+        },
+        {
+          "keyword": "オリンピックリヨン",
+          "score": 98
+        },
+        {
+          "keyword": "トヨタ・ルーミー",
+          "score": 97
+        },
+        {
+          "keyword": "hulu",
+          "score": 96
+        },
+        {
+          "keyword": "ユナイテッドシネマ",
+          "score": 95
+        },
+        {
+          "keyword": "大野愛実",
+          "score": 94
+        },
+        {
+          "keyword": "鄭大世",
+          "score": 93
+        },
+        {
+          "keyword": "バーヴァン シー",
+          "score": 92
+        },
+        {
+          "keyword": "長谷部茂利",
           "score": 91
         }
       ]
