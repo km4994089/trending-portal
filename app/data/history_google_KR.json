@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-29T19:00:08.987Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "한반도",
-          "score": 100
-        },
-        {
-          "keyword": "pl",
-          "score": 99
-        },
-        {
-          "keyword": "fotmob",
-          "score": 98
-        },
-        {
-          "keyword": "해외축구",
-          "score": 97
-        },
-        {
-          "keyword": "spurs vs newcastle",
-          "score": 96
-        },
-        {
-          "keyword": "오마르 마르무시",
-          "score": 95
-        },
-        {
-          "keyword": "마르무시",
-          "score": 94
-        },
-        {
-          "keyword": "인플루언서",
-          "score": 93
-        },
-        {
-          "keyword": "토트넘 대 뉴캐슬",
-          "score": 92
-        },
-        {
-          "keyword": "김진욱",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-29T21:32:26.006Z",
       "geo": "KR",
       "source": "google",
@@ -1173,6 +1126,53 @@
         },
         {
           "keyword": "넥슨 스타 크래프트",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-02T20:16:20.057Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "vfl 오스나브뤼크 대 바이에른",
+          "score": 100
+        },
+        {
+          "keyword": "카사마츠 쇼",
+          "score": 99
+        },
+        {
+          "keyword": "투표용지",
+          "score": 98
+        },
+        {
+          "keyword": "여자 야구",
+          "score": 97
+        },
+        {
+          "keyword": "박재홍",
+          "score": 96
+        },
+        {
+          "keyword": "아시안 게임 야구",
+          "score": 95
+        },
+        {
+          "keyword": "mbk 파트너스",
+          "score": 94
+        },
+        {
+          "keyword": "포항시장",
+          "score": 93
+        },
+        {
+          "keyword": "리사",
+          "score": 92
+        },
+        {
+          "keyword": "보물",
           "score": 91
         }
       ]
