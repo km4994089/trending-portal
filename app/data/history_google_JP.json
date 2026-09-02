@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-28T23:17:12.724Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大田区 天気",
-          "score": 100
-        },
-        {
-          "keyword": "島本浩也",
-          "score": 99
-        },
-        {
-          "keyword": "風薫る 吾郎",
-          "score": 98
-        },
-        {
-          "keyword": "ブルワーズ 対 レンジャーズ",
-          "score": 97
-        },
-        {
-          "keyword": "李灝宇",
-          "score": 96
-        },
-        {
-          "keyword": "タイガース",
-          "score": 95
-        },
-        {
-          "keyword": "スマイルセール",
-          "score": 94
-        },
-        {
-          "keyword": "岩田絵里奈",
-          "score": 93
-        },
-        {
-          "keyword": "雨雲",
-          "score": 92
-        },
-        {
-          "keyword": "建設通信新聞",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-29T04:13:26.408Z",
       "geo": "JP",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "今日の天気は",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-02T00:40:16.301Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "自然災害",
+          "score": 100
+        },
+        {
+          "keyword": "太陽",
+          "score": 99
+        },
+        {
+          "keyword": "月",
+          "score": 98
+        },
+        {
+          "keyword": "戦争",
+          "score": 97
+        },
+        {
+          "keyword": "ニュースサイト",
+          "score": 96
+        },
+        {
+          "keyword": "インフルエンザ 予防接種",
+          "score": 95
+        },
+        {
+          "keyword": "石原 さとみ",
+          "score": 94
+        },
+        {
+          "keyword": "税金",
+          "score": 93
+        },
+        {
+          "keyword": "w",
+          "score": 92
+        },
+        {
+          "keyword": "養命酒",
           "score": 91
         }
       ]

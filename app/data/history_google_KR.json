@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-28T23:17:11.755Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "스타뉴스",
-          "score": 100
-        },
-        {
-          "keyword": "이용식",
-          "score": 99
-        },
-        {
-          "keyword": "날씨",
-          "score": 98
-        },
-        {
-          "keyword": "손태진",
-          "score": 97
-        },
-        {
-          "keyword": "weather",
-          "score": 96
-        },
-        {
-          "keyword": "天气",
-          "score": 95
-        },
-        {
-          "keyword": "조준현",
-          "score": 94
-        },
-        {
-          "keyword": "문화",
-          "score": 93
-        },
-        {
-          "keyword": "thời tiết",
-          "score": 92
-        },
-        {
-          "keyword": "สภาพอากาศ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-29T04:13:24.779Z",
       "geo": "KR",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "병사",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-02T00:40:14.955Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "지예은",
+          "score": 100
+        },
+        {
+          "keyword": "리센느",
+          "score": 99
+        },
+        {
+          "keyword": "이영택",
+          "score": 98
+        },
+        {
+          "keyword": "엔조 페르난데스",
+          "score": 97
+        },
+        {
+          "keyword": "윤이나",
+          "score": 96
+        },
+        {
+          "keyword": "매일경제",
+          "score": 95
+        },
+        {
+          "keyword": "9월 모의고사",
+          "score": 94
+        },
+        {
+          "keyword": "오타니 쇼헤이",
+          "score": 93
+        },
+        {
+          "keyword": "골키퍼",
+          "score": 92
+        },
+        {
+          "keyword": "코인니스 - 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
           "score": 91
         }
       ]
