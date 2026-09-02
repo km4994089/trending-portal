@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-29T11:14:25.400Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "울산 대 김천상무",
-          "score": 100
-        },
-        {
-          "keyword": "부천 대 안양",
-          "score": 99
-        },
-        {
-          "keyword": "이찬원",
-          "score": 98
-        },
-        {
-          "keyword": "국가유공자",
-          "score": 97
-        },
-        {
-          "keyword": "유주은",
-          "score": 96
-        },
-        {
-          "keyword": "페이커",
-          "score": 95
-        },
-        {
-          "keyword": "뉴스 속보",
-          "score": 94
-        },
-        {
-          "keyword": "경기도지사",
-          "score": 93
-        },
-        {
-          "keyword": "아이린",
-          "score": 92
-        },
-        {
-          "keyword": "티빙",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-29T15:42:06.912Z",
       "geo": "KR",
       "source": "google",
@@ -1173,6 +1126,53 @@
         },
         {
           "keyword": "chatgpt",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-02T13:57:28.346Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "xbox",
+          "score": 100
+        },
+        {
+          "keyword": "lck",
+          "score": 99
+        },
+        {
+          "keyword": "권순표",
+          "score": 98
+        },
+        {
+          "keyword": "샤인 머스 캣",
+          "score": 97
+        },
+        {
+          "keyword": "t1",
+          "score": 96
+        },
+        {
+          "keyword": "유도",
+          "score": 95
+        },
+        {
+          "keyword": "bet365",
+          "score": 94
+        },
+        {
+          "keyword": "김지원",
+          "score": 93
+        },
+        {
+          "keyword": "김진",
+          "score": 92
+        },
+        {
+          "keyword": "외국인",
           "score": 91
         }
       ]
