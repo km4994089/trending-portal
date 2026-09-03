@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-29T23:41:42.099Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "alec gamboa",
-          "score": 100
-        },
-        {
-          "keyword": "carson hocevar",
-          "score": 99
-        },
-        {
-          "keyword": "max fried",
-          "score": 98
-        },
-        {
-          "keyword": "utpb vs utrgv",
-          "score": 97
-        },
-        {
-          "keyword": "junior vs santa fe",
-          "score": 96
-        },
-        {
-          "keyword": "international tennis hall of fame",
-          "score": 95
-        },
-        {
-          "keyword": "roberto alvarado",
-          "score": 94
-        },
-        {
-          "keyword": "jalen brunson",
-          "score": 93
-        },
-        {
-          "keyword": "espn+",
-          "score": 92
-        },
-        {
-          "keyword": "gal gadot",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-30T02:21:33.302Z",
       "geo": "US",
       "source": "google",
@@ -1173,6 +1126,53 @@
         },
         {
           "keyword": "tropical storm marie",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-03T00:51:08.425Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "carlos alcaraz",
+          "score": 100
+        },
+        {
+          "keyword": "alex bregman",
+          "score": 99
+        },
+        {
+          "keyword": "elina svitolina",
+          "score": 98
+        },
+        {
+          "keyword": "lexi alexander",
+          "score": 97
+        },
+        {
+          "keyword": "vitória vs vasco",
+          "score": 96
+        },
+        {
+          "keyword": "john peck",
+          "score": 95
+        },
+        {
+          "keyword": "lees summit shooting",
+          "score": 94
+        },
+        {
+          "keyword": "toluca - león",
+          "score": 93
+        },
+        {
+          "keyword": "vélez - boca juniors",
+          "score": 92
+        },
+        {
+          "keyword": "where is simon cowell on agt",
           "score": 91
         }
       ]
