@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-30T02:21:34.204Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "보조금",
-          "score": 100
-        },
-        {
-          "keyword": "총장",
-          "score": 99
-        },
-        {
-          "keyword": "진기주",
-          "score": 98
-        },
-        {
-          "keyword": "손주",
-          "score": 97
-        },
-        {
-          "keyword": "볼로디미르 젤렌스키",
-          "score": 96
-        },
-        {
-          "keyword": "메르세데스-벤츠 s 클래스",
-          "score": 95
-        },
-        {
-          "keyword": "inter miami vs montréal",
-          "score": 94
-        },
-        {
-          "keyword": "스페이스x",
-          "score": 93
-        },
-        {
-          "keyword": "차두리",
-          "score": 92
-        },
-        {
-          "keyword": "일본 엔",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-30T08:26:01.272Z",
       "geo": "KR",
       "source": "google",
@@ -1173,6 +1126,53 @@
         },
         {
           "keyword": "이재영",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-03T05:20:18.263Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "농협",
+          "score": 100
+        },
+        {
+          "keyword": "공공기관 통폐합",
+          "score": 99
+        },
+        {
+          "keyword": "난간",
+          "score": 98
+        },
+        {
+          "keyword": "마비노기 이터니티",
+          "score": 97
+        },
+        {
+          "keyword": "외환보유고",
+          "score": 96
+        },
+        {
+          "keyword": "gemini 3.8 flash",
+          "score": 95
+        },
+        {
+          "keyword": "한국전력공사",
+          "score": 94
+        },
+        {
+          "keyword": "습관",
+          "score": 93
+        },
+        {
+          "keyword": "황신혜",
+          "score": 92
+        },
+        {
+          "keyword": "이주 아",
           "score": 91
         }
       ]
