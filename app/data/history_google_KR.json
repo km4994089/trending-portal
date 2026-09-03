@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-30T08:26:01.272Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "텐배거",
-          "score": 100
-        },
-        {
-          "keyword": "살인",
-          "score": 99
-        },
-        {
-          "keyword": "피겨스케이팅",
-          "score": 98
-        },
-        {
-          "keyword": "흡연",
-          "score": 97
-        },
-        {
-          "keyword": "하지원",
-          "score": 96
-        },
-        {
-          "keyword": "us 오픈",
-          "score": 95
-        },
-        {
-          "keyword": "원자력 발전소",
-          "score": 94
-        },
-        {
-          "keyword": "최지만",
-          "score": 93
-        },
-        {
-          "keyword": "1박 2일",
-          "score": 92
-        },
-        {
-          "keyword": "법인세",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-30T13:52:57.216Z",
       "geo": "KR",
       "source": "google",
@@ -1173,6 +1126,53 @@
         },
         {
           "keyword": "이주 아",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-03T09:58:44.291Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김병만",
+          "score": 100
+        },
+        {
+          "keyword": "목동 윤슬 자이",
+          "score": 99
+        },
+        {
+          "keyword": "아시안 게임",
+          "score": 98
+        },
+        {
+          "keyword": "보잉",
+          "score": 97
+        },
+        {
+          "keyword": "굴착기",
+          "score": 96
+        },
+        {
+          "keyword": "한국방송대상",
+          "score": 95
+        },
+        {
+          "keyword": "노동 쟁의",
+          "score": 94
+        },
+        {
+          "keyword": "jtbc",
+          "score": 93
+        },
+        {
+          "keyword": "히샬리송",
+          "score": 92
+        },
+        {
+          "keyword": "기온",
           "score": 91
         }
       ]
