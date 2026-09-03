@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-30T13:52:57.216Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "전고체 전지",
-          "score": 100
-        },
-        {
-          "keyword": "chelsea vs brighton",
-          "score": 99
-        },
-        {
-          "keyword": "에밀리아노 마르티네스",
-          "score": 98
-        },
-        {
-          "keyword": "여자 배구",
-          "score": 97
-        },
-        {
-          "keyword": "가상자산",
-          "score": 96
-        },
-        {
-          "keyword": "미인 대회",
-          "score": 95
-        },
-        {
-          "keyword": "가덕도신공항",
-          "score": 94
-        },
-        {
-          "keyword": "윤유선",
-          "score": 93
-        },
-        {
-          "keyword": "weather tomorrow",
-          "score": 92
-        },
-        {
-          "keyword": "cuaca besok",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-30T17:50:47.642Z",
       "geo": "KR",
       "source": "google",
@@ -1173,6 +1126,53 @@
         },
         {
           "keyword": "기온",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-03T14:07:18.615Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "호르무즈 파병",
+          "score": 100
+        },
+        {
+          "keyword": "명예훼손",
+          "score": 99
+        },
+        {
+          "keyword": "모텔",
+          "score": 98
+        },
+        {
+          "keyword": "용적률",
+          "score": 97
+        },
+        {
+          "keyword": "농림축산식품부",
+          "score": 96
+        },
+        {
+          "keyword": "이보람",
+          "score": 95
+        },
+        {
+          "keyword": "대한민국 여자 배구 국가대표팀",
+          "score": 94
+        },
+        {
+          "keyword": "관세",
+          "score": 93
+        },
+        {
+          "keyword": "가수",
+          "score": 92
+        },
+        {
+          "keyword": "민생회복 소비쿠폰",
           "score": 91
         }
       ]
