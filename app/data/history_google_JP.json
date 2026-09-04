@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-30T22:51:58.880Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "als 24 時間 テレビ",
-          "score": 100
-        },
-        {
-          "keyword": "成長株",
-          "score": 99
-        },
-        {
-          "keyword": "深澤辰哉",
-          "score": 98
-        },
-        {
-          "keyword": "24時間テレビ放送事故",
-          "score": 97
-        },
-        {
-          "keyword": "佐藤沙織里",
-          "score": 96
-        },
-        {
-          "keyword": "高知 天気",
-          "score": 95
-        },
-        {
-          "keyword": "常陸大宮市",
-          "score": 94
-        },
-        {
-          "keyword": "逐玉: 翡翠の君",
-          "score": 93
-        },
-        {
-          "keyword": "ポケモンgo イベント",
-          "score": 92
-        },
-        {
-          "keyword": "早明浦ダム 貯水率",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-31T00:59:47.262Z",
       "geo": "JP",
       "source": "google",
@@ -1220,6 +1173,53 @@
         },
         {
           "keyword": "北方領土",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-04T00:31:31.421Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "yahooニュース",
+          "score": 100
+        },
+        {
+          "keyword": "太陽",
+          "score": 99
+        },
+        {
+          "keyword": "月",
+          "score": 98
+        },
+        {
+          "keyword": "朝日新聞",
+          "score": 97
+        },
+        {
+          "keyword": "ハギングフェイス",
+          "score": 96
+        },
+        {
+          "keyword": "jasis",
+          "score": 95
+        },
+        {
+          "keyword": "漁業",
+          "score": 94
+        },
+        {
+          "keyword": "nhkニュース",
+          "score": 93
+        },
+        {
+          "keyword": "ニュースサイト",
+          "score": 92
+        },
+        {
+          "keyword": "wmo",
           "score": 91
         }
       ]
