@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-31T06:44:20.849Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "사건",
-          "score": 100
-        },
-        {
-          "keyword": "놀부",
-          "score": 99
-        },
-        {
-          "keyword": "시바이누코인",
-          "score": 98
-        },
-        {
-          "keyword": "해동용궁사",
-          "score": 97
-        },
-        {
-          "keyword": "청년미래적금",
-          "score": 96
-        },
-        {
-          "keyword": "김기리",
-          "score": 95
-        },
-        {
-          "keyword": "한화에어로스페이스",
-          "score": 94
-        },
-        {
-          "keyword": "pv7",
-          "score": 93
-        },
-        {
-          "keyword": "주차",
-          "score": 92
-        },
-        {
-          "keyword": "자기주식",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-31T14:35:08.050Z",
       "geo": "KR",
       "source": "google",
@@ -1220,6 +1173,53 @@
         },
         {
           "keyword": "도널드 j. 트럼프",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-04T09:47:03.856Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "두산 대 ssg",
+          "score": 100
+        },
+        {
+          "keyword": "영구 결번",
+          "score": 99
+        },
+        {
+          "keyword": "한학자",
+          "score": 98
+        },
+        {
+          "keyword": "kt 대 kia",
+          "score": 97
+        },
+        {
+          "keyword": "한화 대 롯데",
+          "score": 96
+        },
+        {
+          "keyword": "nc 대 키움",
+          "score": 95
+        },
+        {
+          "keyword": "이효리",
+          "score": 94
+        },
+        {
+          "keyword": "장 한별",
+          "score": 93
+        },
+        {
+          "keyword": "국립순천대학교",
+          "score": 92
+        },
+        {
+          "keyword": "조명우",
           "score": 91
         }
       ]

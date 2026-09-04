@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-31T06:44:22.334Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "韓鶴子",
-          "score": 100
-        },
-        {
-          "keyword": "ファミリーマート",
-          "score": 99
-        },
-        {
-          "keyword": "具志堅用高",
-          "score": 98
-        },
-        {
-          "keyword": "宮根誠司",
-          "score": 97
-        },
-        {
-          "keyword": "プ レジデンツ カップ",
-          "score": 96
-        },
-        {
-          "keyword": "レギア・ワルシャワ",
-          "score": 95
-        },
-        {
-          "keyword": "異常気象",
-          "score": 94
-        },
-        {
-          "keyword": "橋岡大樹",
-          "score": 93
-        },
-        {
-          "keyword": "ちいかわ映画",
-          "score": 92
-        },
-        {
-          "keyword": "横山 裕",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-08-31T14:35:09.308Z",
       "geo": "JP",
       "source": "google",
@@ -1220,6 +1173,53 @@
         },
         {
           "keyword": "総理大臣杯",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-04T09:47:05.283Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "マックメニュー",
+          "score": 100
+        },
+        {
+          "keyword": "今日のプロ野球",
+          "score": 99
+        },
+        {
+          "keyword": "パリーグtv",
+          "score": 98
+        },
+        {
+          "keyword": "青木瀬令奈",
+          "score": 97
+        },
+        {
+          "keyword": "コベルコ神戸スティーラー ズ",
+          "score": 96
+        },
+        {
+          "keyword": "テレ朝チケット",
+          "score": 95
+        },
+        {
+          "keyword": "今日の巨人戦",
+          "score": 94
+        },
+        {
+          "keyword": "トヨタ・プロボックス",
+          "score": 93
+        },
+        {
+          "keyword": "wakatte.tv",
+          "score": 92
+        },
+        {
+          "keyword": "北朝鮮",
           "score": 91
         }
       ]
