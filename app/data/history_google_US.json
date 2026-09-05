@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-08-31T23:59:09.572Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "yahoo fantasy",
-          "score": 100
-        },
-        {
-          "keyword": "iga świątek",
-          "score": 99
-        },
-        {
-          "keyword": "monday night football",
-          "score": 98
-        },
-        {
-          "keyword": "orioles vs rockies",
-          "score": 97
-        },
-        {
-          "keyword": "fantasy pros rankings",
-          "score": 96
-        },
-        {
-          "keyword": "max miller",
-          "score": 95
-        },
-        {
-          "keyword": "aircraft",
-          "score": 94
-        },
-        {
-          "keyword": "jarren duran",
-          "score": 93
-        },
-        {
-          "keyword": "felix auger aliassime",
-          "score": 92
-        },
-        {
-          "keyword": "trinity rodman",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-01T03:43:31.437Z",
       "geo": "US",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "valentin vacherot",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-05T01:57:41.975Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kc current vs bay fc",
+          "score": 100
+        },
+        {
+          "keyword": "jayden maiava",
+          "score": 99
+        },
+        {
+          "keyword": "aroldis chapman",
+          "score": 98
+        },
+        {
+          "keyword": "blaze alexander",
+          "score": 97
+        },
+        {
+          "keyword": "dan hooker",
+          "score": 96
+        },
+        {
+          "keyword": "francisco lindor",
+          "score": 95
+        },
+        {
+          "keyword": "allen vs desoto",
+          "score": 94
+        },
+        {
+          "keyword": "south carolina football",
+          "score": 93
+        },
+        {
+          "keyword": "chad powers cast",
+          "score": 92
+        },
+        {
+          "keyword": "the gentlemen cast",
           "score": 91
         }
       ]
