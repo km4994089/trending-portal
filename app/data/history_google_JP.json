@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-01T09:00:04.032Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "くら寿司 ちいかわコラボ",
-          "score": 100
-        },
-        {
-          "keyword": "バンテリンドーム",
-          "score": 99
-        },
-        {
-          "keyword": "月見バーガー",
-          "score": 98
-        },
-        {
-          "keyword": "名古屋グランパス",
-          "score": 97
-        },
-        {
-          "keyword": "田村 淳",
-          "score": 96
-        },
-        {
-          "keyword": "佐々木心菜",
-          "score": 95
-        },
-        {
-          "keyword": "ノルウェー",
-          "score": 94
-        },
-        {
-          "keyword": "ファミマ 新商品",
-          "score": 93
-        },
-        {
-          "keyword": "レーベンスティール",
-          "score": 92
-        },
-        {
-          "keyword": "旗手 怜 央",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-01T13:59:09.774Z",
       "geo": "JP",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "ごぶごぶ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-05T11:02:20.088Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "筑紫野市",
+          "score": 100
+        },
+        {
+          "keyword": "yg安田",
+          "score": 99
+        },
+        {
+          "keyword": "ザスパ群馬",
+          "score": 98
+        },
+        {
+          "keyword": "本田真凜",
+          "score": 97
+        },
+        {
+          "keyword": "吉村崇",
+          "score": 96
+        },
+        {
+          "keyword": "ニューカッスル 対 ボーンマス",
+          "score": 95
+        },
+        {
+          "keyword": "武田 健吾",
+          "score": 94
+        },
+        {
+          "keyword": "関東 雨",
+          "score": 93
+        },
+        {
+          "keyword": "青木マッチョ",
+          "score": 92
+        },
+        {
+          "keyword": "堤下",
           "score": 91
         }
       ]

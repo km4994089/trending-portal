@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-01T09:00:01.610Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "000660",
-          "score": 100
-        },
-        {
-          "keyword": "병무청",
-          "score": 99
-        },
-        {
-          "keyword": "온누리상품권",
-          "score": 98
-        },
-        {
-          "keyword": "영동고속도로",
-          "score": 97
-        },
-        {
-          "keyword": "종합 부동산 세",
-          "score": 96
-        },
-        {
-          "keyword": "김선영",
-          "score": 95
-        },
-        {
-          "keyword": "동아일보",
-          "score": 94
-        },
-        {
-          "keyword": "장마",
-          "score": 93
-        },
-        {
-          "keyword": "퇴거",
-          "score": 92
-        },
-        {
-          "keyword": "베네수엘라",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-01T13:59:08.561Z",
       "geo": "KR",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "문무",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-05T11:02:19.137Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "어린이집",
+          "score": 100
+        },
+        {
+          "keyword": "인수 합병",
+          "score": 99
+        },
+        {
+          "keyword": "사건",
+          "score": 98
+        },
+        {
+          "keyword": "등산",
+          "score": 97
+        },
+        {
+          "keyword": "양의지",
+          "score": 96
+        },
+        {
+          "keyword": "fc 서울 대 인천",
+          "score": 95
+        },
+        {
+          "keyword": "전북 대 포항",
+          "score": 94
+        },
+        {
+          "keyword": "고령자",
+          "score": 93
+        },
+        {
+          "keyword": "제주 대 울산",
+          "score": 92
+        },
+        {
+          "keyword": "보스턴 다이내믹스",
           "score": 91
         }
       ]
