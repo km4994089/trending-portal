@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-01T17:37:23.410Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "blue",
-          "score": 100
-        },
-        {
-          "keyword": "al-hilal vs al-ahli",
-          "score": 99
-        },
-        {
-          "keyword": "tony romo",
-          "score": 98
-        },
-        {
-          "keyword": "tacko fall",
-          "score": 97
-        },
-        {
-          "keyword": "brandon mccoy",
-          "score": 96
-        },
-        {
-          "keyword": "victor oladipo",
-          "score": 95
-        },
-        {
-          "keyword": "street fighter movie",
-          "score": 94
-        },
-        {
-          "keyword": "kyler gordon",
-          "score": 93
-        },
-        {
-          "keyword": "donald trump super pac funds",
-          "score": 92
-        },
-        {
-          "keyword": "sunday in the park with george",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-01T20:17:48.478Z",
       "geo": "US",
       "source": "google",
@@ -1408,6 +1361,53 @@
         },
         {
           "keyword": "keelon russell",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-05T18:27:40.291Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "sevilla - barcelona",
+          "score": 100
+        },
+        {
+          "keyword": "villarreal - deportivo",
+          "score": 99
+        },
+        {
+          "keyword": "drake vs montana",
+          "score": 98
+        },
+        {
+          "keyword": "arch manning",
+          "score": 97
+        },
+        {
+          "keyword": "morgan charriere",
+          "score": 96
+        },
+        {
+          "keyword": "lanorris sellers",
+          "score": 95
+        },
+        {
+          "keyword": "wofford football",
+          "score": 94
+        },
+        {
+          "keyword": "tn state vs georgia",
+          "score": 93
+        },
+        {
+          "keyword": "donna mills",
+          "score": 92
+        },
+        {
+          "keyword": "roma vs atalanta",
           "score": 91
         }
       ]
