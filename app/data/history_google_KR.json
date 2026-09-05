@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-01T03:43:32.945Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "홍명보",
-          "score": 100
-        },
-        {
-          "keyword": "nol",
-          "score": 99
-        },
-        {
-          "keyword": "pv7",
-          "score": 98
-        },
-        {
-          "keyword": "하영",
-          "score": 97
-        },
-        {
-          "keyword": "서건창",
-          "score": 96
-        },
-        {
-          "keyword": "전환사채",
-          "score": 95
-        },
-        {
-          "keyword": "감염",
-          "score": 94
-        },
-        {
-          "keyword": "에너지",
-          "score": 93
-        },
-        {
-          "keyword": "버거킹",
-          "score": 92
-        },
-        {
-          "keyword": "정창성",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-01T09:00:01.610Z",
       "geo": "KR",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "야구 순위",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-05T06:37:03.098Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "롯데그룹",
+          "score": 100
+        },
+        {
+          "keyword": "튀르키예",
+          "score": 99
+        },
+        {
+          "keyword": "핵무기",
+          "score": 98
+        },
+        {
+          "keyword": "뱀장어",
+          "score": 97
+        },
+        {
+          "keyword": "환희",
+          "score": 96
+        },
+        {
+          "keyword": "이동건",
+          "score": 95
+        },
+        {
+          "keyword": "정책 금리",
+          "score": 94
+        },
+        {
+          "keyword": "무역",
+          "score": 93
+        },
+        {
+          "keyword": "엘니뇨",
+          "score": 92
+        },
+        {
+          "keyword": "문무",
           "score": 91
         }
       ]
