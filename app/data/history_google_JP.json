@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-01T22:41:38.517Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "バレーボール女子日本代表",
-          "score": 100
-        },
-        {
-          "keyword": "岩本計介",
-          "score": 99
-        },
-        {
-          "keyword": "四日市 天気",
-          "score": 98
-        },
-        {
-          "keyword": "松山市天気",
-          "score": 97
-        },
-        {
-          "keyword": "日本郵便",
-          "score": 96
-        },
-        {
-          "keyword": "秋田市天気",
-          "score": 95
-        },
-        {
-          "keyword": "サッカー移籍",
-          "score": 94
-        },
-        {
-          "keyword": "福島市 天気",
-          "score": 93
-        },
-        {
-          "keyword": "めざましテレビ",
-          "score": 92
-        },
-        {
-          "keyword": "今日の天気は",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-02T00:40:16.301Z",
       "geo": "JP",
       "source": "google",
@@ -1455,6 +1408,53 @@
         },
         {
           "keyword": "weather",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-06T00:07:05.206Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "松村北斗",
+          "score": 100
+        },
+        {
+          "keyword": "今田美桜",
+          "score": 99
+        },
+        {
+          "keyword": "東野圭吾",
+          "score": 98
+        },
+        {
+          "keyword": "são paulo x atlético-mg",
+          "score": 97
+        },
+        {
+          "keyword": "原田龍二",
+          "score": 96
+        },
+        {
+          "keyword": "是枝監督",
+          "score": 95
+        },
+        {
+          "keyword": "浜田敬子",
+          "score": 94
+        },
+        {
+          "keyword": "inter miami vs atlanta united",
+          "score": 93
+        },
+        {
+          "keyword": "山口すず夏",
+          "score": 92
+        },
+        {
+          "keyword": "大坂なおみ",
           "score": 91
         }
       ]

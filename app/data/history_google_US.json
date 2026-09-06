@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-01T22:41:36.536Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "paula badosa",
-          "score": 100
-        },
-        {
-          "keyword": "jim thornton",
-          "score": 99
-        },
-        {
-          "keyword": "ralph fiennes",
-          "score": 98
-        },
-        {
-          "keyword": "braves vs nationals",
-          "score": 97
-        },
-        {
-          "keyword": "death",
-          "score": 96
-        },
-        {
-          "keyword": "klystron 9",
-          "score": 95
-        },
-        {
-          "keyword": "blue jays vs guardians",
-          "score": 94
-        },
-        {
-          "keyword": "giants vs pirates",
-          "score": 93
-        },
-        {
-          "keyword": "puka nacua",
-          "score": 92
-        },
-        {
-          "keyword": "mike johnson",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-02T00:40:13.739Z",
       "geo": "US",
       "source": "google",
@@ -1455,6 +1408,53 @@
         },
         {
           "keyword": "mike matthews",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-06T00:07:03.064Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ny red bulls vs seattle sounders",
+          "score": 100
+        },
+        {
+          "keyword": "deportación",
+          "score": 99
+        },
+        {
+          "keyword": "aaron philo",
+          "score": 98
+        },
+        {
+          "keyword": "umich football",
+          "score": 97
+        },
+        {
+          "keyword": "sonny gray",
+          "score": 96
+        },
+        {
+          "keyword": "san jose vs austin",
+          "score": 95
+        },
+        {
+          "keyword": "mayday movie 2026",
+          "score": 94
+        },
+        {
+          "keyword": "east texas a&m vs sfa",
+          "score": 93
+        },
+        {
+          "keyword": "rice football",
+          "score": 92
+        },
+        {
+          "keyword": "riley greene",
           "score": 91
         }
       ]
