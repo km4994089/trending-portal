@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-02T05:14:54.768Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "巨人浦田",
-          "score": 100
-        },
-        {
-          "keyword": "スポティファイ",
-          "score": 99
-        },
-        {
-          "keyword": "神田愛花",
-          "score": 98
-        },
-        {
-          "keyword": "playstation",
-          "score": 97
-        },
-        {
-          "keyword": "クレヨンしんちゃん",
-          "score": 96
-        },
-        {
-          "keyword": "outlook",
-          "score": 95
-        },
-        {
-          "keyword": "4",
-          "score": 94
-        },
-        {
-          "keyword": "ブルーロック",
-          "score": 93
-        },
-        {
-          "keyword": "仙台 天気",
-          "score": 92
-        },
-        {
-          "keyword": "forms",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-02T09:46:21.382Z",
       "geo": "JP",
       "source": "google",
@@ -1455,6 +1408,53 @@
         },
         {
           "keyword": "堂本剛 百田夏菜子",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-06T09:02:38.961Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "雨",
+          "score": 100
+        },
+        {
+          "keyword": "ダルベック",
+          "score": 99
+        },
+        {
+          "keyword": "佐賀競馬",
+          "score": 98
+        },
+        {
+          "keyword": "エムケイ",
+          "score": 97
+        },
+        {
+          "keyword": "山川穂高",
+          "score": 96
+        },
+        {
+          "keyword": "並木万里菜",
+          "score": 95
+        },
+        {
+          "keyword": "インドネシア 火山噴火",
+          "score": 94
+        },
+        {
+          "keyword": "オリックス・バファローズ",
+          "score": 93
+        },
+        {
+          "keyword": "インカレ 陸上 2026",
+          "score": 92
+        },
+        {
+          "keyword": "岩田康誠",
           "score": 91
         }
       ]
