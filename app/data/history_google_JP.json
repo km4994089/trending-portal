@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-02T09:46:21.382Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "水戸 対 鹿島",
-          "score": 100
-        },
-        {
-          "keyword": "広島 対 名古屋",
-          "score": 99
-        },
-        {
-          "keyword": "福岡 対 浦和",
-          "score": 98
-        },
-        {
-          "keyword": "ぴあチケット",
-          "score": 97
-        },
-        {
-          "keyword": "iphone18 pro",
-          "score": 96
-        },
-        {
-          "keyword": "バレーボール日本女子代表",
-          "score": 95
-        },
-        {
-          "keyword": "上野由岐子",
-          "score": 94
-        },
-        {
-          "keyword": "桐谷美玲",
-          "score": 93
-        },
-        {
-          "keyword": "高松 天気",
-          "score": 92
-        },
-        {
-          "keyword": "多摩川競艇",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-02T13:57:29.697Z",
       "geo": "JP",
       "source": "google",
@@ -1455,6 +1408,53 @@
         },
         {
           "keyword": "岩田康誠",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-06T12:59:13.710Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "藤井聡太",
+          "score": 100
+        },
+        {
+          "keyword": "フェルメール",
+          "score": 99
+        },
+        {
+          "keyword": "国民民主党代表選挙",
+          "score": 98
+        },
+        {
+          "keyword": "千葉ロッテマリーンズ",
+          "score": 97
+        },
+        {
+          "keyword": "新田雄史",
+          "score": 96
+        },
+        {
+          "keyword": "everton đấu với man utd",
+          "score": 95
+        },
+        {
+          "keyword": "杉谷",
+          "score": 94
+        },
+        {
+          "keyword": "警戒レベル3",
+          "score": 93
+        },
+        {
+          "keyword": "沖縄県知事選",
+          "score": 92
+        },
+        {
+          "keyword": "天海祐希",
           "score": 91
         }
       ]
