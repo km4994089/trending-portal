@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-02T17:33:41.435Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "olympiacos fc",
-          "score": 100
-        },
-        {
-          "keyword": "juan brito",
-          "score": 99
-        },
-        {
-          "keyword": "hubert hurkacz",
-          "score": 98
-        },
-        {
-          "keyword": "house",
-          "score": 97
-        },
-        {
-          "keyword": "miami international airport",
-          "score": 96
-        },
-        {
-          "keyword": "nys fair",
-          "score": 95
-        },
-        {
-          "keyword": "badosa",
-          "score": 94
-        },
-        {
-          "keyword": "harry potter tv series",
-          "score": 93
-        },
-        {
-          "keyword": "taylor swift",
-          "score": 92
-        },
-        {
-          "keyword": "49ers football",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-02T20:16:18.695Z",
       "geo": "US",
       "source": "google",
@@ -1455,6 +1408,53 @@
         },
         {
           "keyword": "premier league table",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-06T18:03:09.618Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "juventus - milan",
+          "score": 100
+        },
+        {
+          "keyword": "juventus vs milan",
+          "score": 99
+        },
+        {
+          "keyword": "heartland",
+          "score": 98
+        },
+        {
+          "keyword": "prince george attending eton",
+          "score": 97
+        },
+        {
+          "keyword": "gotham vs denver summit",
+          "score": 96
+        },
+        {
+          "keyword": "matt gutman abc lawsuit dismissed",
+          "score": 95
+        },
+        {
+          "keyword": "declan rice",
+          "score": 94
+        },
+        {
+          "keyword": "joe morgan",
+          "score": 93
+        },
+        {
+          "keyword": "paul newman",
+          "score": 92
+        },
+        {
+          "keyword": "estevao",
           "score": 91
         }
       ]
