@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-03T17:55:55.256Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "스낳대",
-          "score": 100
-        },
-        {
-          "keyword": "제미나이",
-          "score": 99
-        },
-        {
-          "keyword": "챗gpt",
-          "score": 98
-        },
-        {
-          "keyword": "챗",
-          "score": 97
-        },
-        {
-          "keyword": "ai",
-          "score": 96
-        },
-        {
-          "keyword": "저작권",
-          "score": 95
-        },
-        {
-          "keyword": "chatgpt",
-          "score": 94
-        },
-        {
-          "keyword": "시부모",
-          "score": 93
-        },
-        {
-          "keyword": "거점국립대학교",
-          "score": 92
-        },
-        {
-          "keyword": "은행",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-03T20:17:06.718Z",
       "geo": "KR",
       "source": "google",
@@ -1455,6 +1408,53 @@
         },
         {
           "keyword": "공연",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-07T20:02:58.501Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이가 시비옹테크",
+          "score": 100
+        },
+        {
+          "keyword": "야구선수",
+          "score": 99
+        },
+        {
+          "keyword": "김새론",
+          "score": 98
+        },
+        {
+          "keyword": "윤종훈",
+          "score": 97
+        },
+        {
+          "keyword": "피의자",
+          "score": 96
+        },
+        {
+          "keyword": "나는 solo",
+          "score": 95
+        },
+        {
+          "keyword": "지동원",
+          "score": 94
+        },
+        {
+          "keyword": "공대공 미사일",
+          "score": 93
+        },
+        {
+          "keyword": "하현승",
+          "score": 92
+        },
+        {
+          "keyword": "빌보드",
           "score": 91
         }
       ]

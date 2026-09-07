@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-03T17:55:56.375Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "吉川愛",
-          "score": 100
-        },
-        {
-          "keyword": "痛いニュース",
-          "score": 99
-        },
-        {
-          "keyword": "水戸ホーリーホック",
-          "score": 98
-        },
-        {
-          "keyword": "ペイペイ",
-          "score": 97
-        },
-        {
-          "keyword": "cien",
-          "score": 96
-        },
-        {
-          "keyword": "草彅剛",
-          "score": 95
-        },
-        {
-          "keyword": "情報ライブ ミヤネ屋",
-          "score": 94
-        },
-        {
-          "keyword": "モスクワ",
-          "score": 93
-        },
-        {
-          "keyword": "デスゲームの報告書",
-          "score": 92
-        },
-        {
-          "keyword": "クリスマスコフレ 2026",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-03T20:17:07.711Z",
       "geo": "JP",
       "source": "google",
@@ -1455,6 +1408,53 @@
         },
         {
           "keyword": "ai",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-07T20:02:59.367Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "岐阜県",
+          "score": 100
+        },
+        {
+          "keyword": "戦闘機",
+          "score": 99
+        },
+        {
+          "keyword": "ソシエダ",
+          "score": 98
+        },
+        {
+          "keyword": "テニス",
+          "score": 97
+        },
+        {
+          "keyword": "運転",
+          "score": 96
+        },
+        {
+          "keyword": "和歌山市天気",
+          "score": 95
+        },
+        {
+          "keyword": "オリオールズ 対 ガーディアンズ",
+          "score": 94
+        },
+        {
+          "keyword": "エルチェ 対 ソシエダ",
+          "score": 93
+        },
+        {
+          "keyword": "反ダンピング",
+          "score": 92
+        },
+        {
+          "keyword": "ロイヤルズ 対 dバックス",
           "score": 91
         }
       ]
