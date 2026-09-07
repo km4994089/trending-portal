@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-03T00:51:08.425Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "carlos alcaraz",
-          "score": 100
-        },
-        {
-          "keyword": "alex bregman",
-          "score": 99
-        },
-        {
-          "keyword": "elina svitolina",
-          "score": 98
-        },
-        {
-          "keyword": "lexi alexander",
-          "score": 97
-        },
-        {
-          "keyword": "vitória vs vasco",
-          "score": 96
-        },
-        {
-          "keyword": "john peck",
-          "score": 95
-        },
-        {
-          "keyword": "lees summit shooting",
-          "score": 94
-        },
-        {
-          "keyword": "toluca - león",
-          "score": 93
-        },
-        {
-          "keyword": "vélez - boca juniors",
-          "score": 92
-        },
-        {
-          "keyword": "where is simon cowell on agt",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-03T05:20:17.488Z",
       "geo": "US",
       "source": "google",
@@ -1502,6 +1455,53 @@
         },
         {
           "keyword": "aneyas williams",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-07T05:03:40.340Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mookie betts",
+          "score": 100
+        },
+        {
+          "keyword": "agreement",
+          "score": 99
+        },
+        {
+          "keyword": "administration",
+          "score": 98
+        },
+        {
+          "keyword": "history of labor day",
+          "score": 97
+        },
+        {
+          "keyword": "tom cruise",
+          "score": 96
+        },
+        {
+          "keyword": "nintendo direct",
+          "score": 95
+        },
+        {
+          "keyword": "dodgers",
+          "score": 94
+        },
+        {
+          "keyword": "dodgers game today",
+          "score": 93
+        },
+        {
+          "keyword": "theo james",
+          "score": 92
+        },
+        {
+          "keyword": "bobby miller",
           "score": 91
         }
       ]
