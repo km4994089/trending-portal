@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-03T20:17:07.711Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "警報",
-          "score": 100
-        },
-        {
-          "keyword": "自動車",
-          "score": 99
-        },
-        {
-          "keyword": "早期天候情報",
-          "score": 98
-        },
-        {
-          "keyword": "冨永愛",
-          "score": 97
-        },
-        {
-          "keyword": "大阪 警報",
-          "score": 96
-        },
-        {
-          "keyword": "無人航空機",
-          "score": 95
-        },
-        {
-          "keyword": "トゥールーズ 対 リール",
-          "score": 94
-        },
-        {
-          "keyword": "リーグアン",
-          "score": 93
-        },
-        {
-          "keyword": "コシヒカリ",
-          "score": 92
-        },
-        {
-          "keyword": "日本国債",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-09-03T22:40:56.996Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "名探偵コナン ハイウェイの堕天使",
-          "score": 100
-        },
-        {
-          "keyword": "北島 康介",
-          "score": 99
-        },
-        {
-          "keyword": "村上穂乃佳",
-          "score": 98
-        },
-        {
-          "keyword": "熊本 天気",
-          "score": 97
-        },
-        {
-          "keyword": "佐賀 天気",
-          "score": 96
-        },
-        {
-          "keyword": "グレッグ・アベル",
-          "score": 95
-        },
-        {
-          "keyword": "滋賀 天気",
-          "score": 94
-        },
-        {
-          "keyword": "茨城ダービー",
-          "score": 93
-        },
-        {
-          "keyword": "広島 天気",
-          "score": 92
-        },
-        {
-          "keyword": "北方領土",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-04T00:31:31.421Z",
       "geo": "JP",
       "source": "google",
@@ -1455,6 +1361,53 @@
         },
         {
           "keyword": "ロイヤルズ 対 dバックス",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-07T22:54:32.341Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "リアム・ローソン",
+          "score": 100
+        },
+        {
+          "keyword": "博多高校ハンドボール部",
+          "score": 99
+        },
+        {
+          "keyword": "ダム貯水率",
+          "score": 98
+        },
+        {
+          "keyword": "甲子園天気",
+          "score": 97
+        },
+        {
+          "keyword": "浜松 天気",
+          "score": 96
+        },
+        {
+          "keyword": "三浦貴大",
+          "score": 95
+        },
+        {
+          "keyword": "タムロン",
+          "score": 94
+        },
+        {
+          "keyword": "オーストラリアドル",
+          "score": 93
+        },
+        {
+          "keyword": "軍国 主義",
+          "score": 92
+        },
+        {
+          "keyword": "茎レタス",
           "score": 91
         }
       ]

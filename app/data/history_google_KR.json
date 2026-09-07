@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-03T20:17:06.718Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "러시아",
-          "score": 100
-        },
-        {
-          "keyword": "폐쇄회로 텔레비전",
-          "score": 99
-        },
-        {
-          "keyword": "gemini",
-          "score": 98
-        },
-        {
-          "keyword": "스낳대",
-          "score": 97
-        },
-        {
-          "keyword": "제미나이",
-          "score": 96
-        },
-        {
-          "keyword": "챗gpt",
-          "score": 95
-        },
-        {
-          "keyword": "저작권",
-          "score": 94
-        },
-        {
-          "keyword": "gpt",
-          "score": 93
-        },
-        {
-          "keyword": "chatgpt",
-          "score": 92
-        },
-        {
-          "keyword": "시부모",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-09-03T22:40:55.732Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "항공모함",
-          "score": 100
-        },
-        {
-          "keyword": "알렉산드라 에알라",
-          "score": 99
-        },
-        {
-          "keyword": "기아",
-          "score": 98
-        },
-        {
-          "keyword": "spcx",
-          "score": 97
-        },
-        {
-          "keyword": "멸종",
-          "score": 96
-        },
-        {
-          "keyword": "이다영",
-          "score": 95
-        },
-        {
-          "keyword": "tving",
-          "score": 94
-        },
-        {
-          "keyword": "이란",
-          "score": 93
-        },
-        {
-          "keyword": "초계기",
-          "score": 92
-        },
-        {
-          "keyword": "태풍 경로",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-04T00:31:30.379Z",
       "geo": "KR",
       "source": "google",
@@ -1455,6 +1361,53 @@
         },
         {
           "keyword": "빌보드",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-07T22:54:30.791Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "아이유",
+          "score": 100
+        },
+        {
+          "keyword": "박지윤",
+          "score": 99
+        },
+        {
+          "keyword": "화장품",
+          "score": 98
+        },
+        {
+          "keyword": "박항서",
+          "score": 97
+        },
+        {
+          "keyword": "교사",
+          "score": 96
+        },
+        {
+          "keyword": "투자",
+          "score": 95
+        },
+        {
+          "keyword": "코레일 추석예매",
+          "score": 94
+        },
+        {
+          "keyword": "적금",
+          "score": 93
+        },
+        {
+          "keyword": "야구 선수",
+          "score": 92
+        },
+        {
+          "keyword": "sf",
           "score": 91
         }
       ]
