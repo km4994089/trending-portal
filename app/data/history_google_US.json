@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-02T22:43:55.347Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "rockies",
-          "score": 100
-        },
-        {
-          "keyword": "roy cohn",
-          "score": 99
-        },
-        {
-          "keyword": "tsitsipas",
-          "score": 98
-        },
-        {
-          "keyword": "terrorism",
-          "score": 97
-        },
-        {
-          "keyword": "mets - rays",
-          "score": 96
-        },
-        {
-          "keyword": "lane kiffin",
-          "score": 95
-        },
-        {
-          "keyword": "anna kalinskaya",
-          "score": 94
-        },
-        {
-          "keyword": "kare 11",
-          "score": 93
-        },
-        {
-          "keyword": "fire near me",
-          "score": 92
-        },
-        {
-          "keyword": "tropical storm marie",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-03T00:51:08.425Z",
       "geo": "US",
       "source": "google",
@@ -1502,6 +1455,53 @@
         },
         {
           "keyword": "león - américa",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-07T00:29:30.063Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jordan faison",
+          "score": 100
+        },
+        {
+          "keyword": "spider-noir",
+          "score": 99
+        },
+        {
+          "keyword": "jerry jones",
+          "score": 98
+        },
+        {
+          "keyword": "wisconsin football coach",
+          "score": 97
+        },
+        {
+          "keyword": "kyle larson",
+          "score": 96
+        },
+        {
+          "keyword": "treveyon henderson",
+          "score": 95
+        },
+        {
+          "keyword": "old dominion football",
+          "score": 94
+        },
+        {
+          "keyword": "is cj carr related to derek carr",
+          "score": 93
+        },
+        {
+          "keyword": "gta vi",
+          "score": 92
+        },
+        {
+          "keyword": "aneyas williams",
           "score": 91
         }
       ]

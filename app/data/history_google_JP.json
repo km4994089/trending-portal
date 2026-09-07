@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-02T22:43:57.321Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "天気図",
-          "score": 100
-        },
-        {
-          "keyword": "天気 京都",
-          "score": 99
-        },
-        {
-          "keyword": "キッザニア",
-          "score": 98
-        },
-        {
-          "keyword": "長岡市 天気",
-          "score": 97
-        },
-        {
-          "keyword": "大阪天気",
-          "score": 96
-        },
-        {
-          "keyword": "麻生太郎",
-          "score": 95
-        },
-        {
-          "keyword": "jリーグybcルヴァンカップ",
-          "score": 94
-        },
-        {
-          "keyword": "インフルエンザ 予防接種",
-          "score": 93
-        },
-        {
-          "keyword": "レイズ 対 メッツ",
-          "score": 92
-        },
-        {
-          "keyword": "今日",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-03T00:51:10.821Z",
       "geo": "JP",
       "source": "google",
@@ -1502,6 +1455,53 @@
         },
         {
           "keyword": "clima",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-07T00:29:32.966Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "アドマイヤテラ",
+          "score": 100
+        },
+        {
+          "keyword": "石巻市",
+          "score": 99
+        },
+        {
+          "keyword": "鎌田大地",
+          "score": 98
+        },
+        {
+          "keyword": "ipo",
+          "score": 97
+        },
+        {
+          "keyword": "鳴門競艇",
+          "score": 96
+        },
+        {
+          "keyword": "あさイチ",
+          "score": 95
+        },
+        {
+          "keyword": "coming",
+          "score": 94
+        },
+        {
+          "keyword": "yahooニュース",
+          "score": 93
+        },
+        {
+          "keyword": "安住 紳一郎",
+          "score": 92
+        },
+        {
+          "keyword": "ニュースサイト",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-02T22:43:56.361Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "다우 존스 산업평균지수",
-          "score": 100
-        },
-        {
-          "keyword": "연비",
-          "score": 99
-        },
-        {
-          "keyword": "디에고 시메오네",
-          "score": 98
-        },
-        {
-          "keyword": "mbk파트너스",
-          "score": 97
-        },
-        {
-          "keyword": "이찬원",
-          "score": 96
-        },
-        {
-          "keyword": "김하성",
-          "score": 95
-        },
-        {
-          "keyword": "박진영",
-          "score": 94
-        },
-        {
-          "keyword": "미스트롯 포유",
-          "score": 93
-        },
-        {
-          "keyword": "사우델",
-          "score": 92
-        },
-        {
-          "keyword": "경제",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-03T00:51:09.588Z",
       "geo": "KR",
       "source": "google",
@@ -1502,6 +1455,53 @@
         },
         {
           "keyword": "기상",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-07T00:29:31.098Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이민우",
+          "score": 100
+        },
+        {
+          "keyword": "의사",
+          "score": 99
+        },
+        {
+          "keyword": "김소영",
+          "score": 98
+        },
+        {
+          "keyword": "주민등록사실조사",
+          "score": 97
+        },
+        {
+          "keyword": "아시안 게임",
+          "score": 96
+        },
+        {
+          "keyword": "agi",
+          "score": 95
+        },
+        {
+          "keyword": "교통",
+          "score": 94
+        },
+        {
+          "keyword": "최준희",
+          "score": 93
+        },
+        {
+          "keyword": "이정효",
+          "score": 92
+        },
+        {
+          "keyword": "디에고 시메오네",
           "score": 91
         }
       ]
