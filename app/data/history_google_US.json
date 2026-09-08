@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-04T13:52:08.379Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ben simmons",
-          "score": 100
-        },
-        {
-          "keyword": "mr t",
-          "score": 99
-        },
-        {
-          "keyword": "napheesa collier",
-          "score": 98
-        },
-        {
-          "keyword": "zhang ziyu",
-          "score": 97
-        },
-        {
-          "keyword": "euromaidan press",
-          "score": 96
-        },
-        {
-          "keyword": "breanna stewart",
-          "score": 95
-        },
-        {
-          "keyword": "russell howard baby loss",
-          "score": 94
-        },
-        {
-          "keyword": "court tv",
-          "score": 93
-        },
-        {
-          "keyword": "ohio state",
-          "score": 92
-        },
-        {
-          "keyword": "whitney leavitt",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-04T17:15:58.918Z",
       "geo": "US",
       "source": "google",
@@ -1408,6 +1361,53 @@
         },
         {
           "keyword": "where to watch champions league",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-08T13:59:07.048Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "intc stock",
+          "score": 100
+        },
+        {
+          "keyword": "ionq stock",
+          "score": 99
+        },
+        {
+          "keyword": "yahoo finance",
+          "score": 98
+        },
+        {
+          "keyword": "spider-man: brand new day",
+          "score": 97
+        },
+        {
+          "keyword": "be stock",
+          "score": 96
+        },
+        {
+          "keyword": "qcom stock",
+          "score": 95
+        },
+        {
+          "keyword": "tom jones the voice",
+          "score": 94
+        },
+        {
+          "keyword": "extreme heat warning",
+          "score": 93
+        },
+        {
+          "keyword": "apple new iphone design changes",
+          "score": 92
+        },
+        {
+          "keyword": "cfb rankings",
           "score": 91
         }
       ]
