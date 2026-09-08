@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-04T19:43:49.790Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "psg 대 as 모나코",
-          "score": 100
-        },
-        {
-          "keyword": "정치",
-          "score": 99
-        },
-        {
-          "keyword": "입스위치 대 리버풀",
-          "score": 98
-        },
-        {
-          "keyword": "레알 베티스 대 레알 마드리드",
-          "score": 97
-        },
-        {
-          "keyword": "에이브러햄 링컨",
-          "score": 96
-        },
-        {
-          "keyword": "장영란",
-          "score": 95
-        },
-        {
-          "keyword": "스낳대",
-          "score": 94
-        },
-        {
-          "keyword": "의료",
-          "score": 93
-        },
-        {
-          "keyword": "곽튜브",
-          "score": 92
-        },
-        {
-          "keyword": "이혼",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-04T21:56:36.363Z",
       "geo": "KR",
       "source": "google",
@@ -1408,6 +1361,53 @@
         },
         {
           "keyword": "사회복지사",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-08T20:28:22.384Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "real madrid vs inter",
+          "score": 100
+        },
+        {
+          "keyword": "공소기각",
+          "score": 99
+        },
+        {
+          "keyword": "레알 마드리드 대 인테르",
+          "score": 98
+        },
+        {
+          "keyword": "포르투 대 맨 시티",
+          "score": 97
+        },
+        {
+          "keyword": "sbs",
+          "score": 96
+        },
+        {
+          "keyword": "club brugge vs aston villa",
+          "score": 95
+        },
+        {
+          "keyword": "챔스",
+          "score": 94
+        },
+        {
+          "keyword": "인플루언서",
+          "score": 93
+        },
+        {
+          "keyword": "풍자",
+          "score": 92
+        },
+        {
+          "keyword": "양구",
           "score": 91
         }
       ]
