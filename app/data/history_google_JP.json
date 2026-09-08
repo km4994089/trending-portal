@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-04T05:14:04.519Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "玉川さん",
-          "score": 100
-        },
-        {
-          "keyword": "阪急京都線",
-          "score": 99
-        },
-        {
-          "keyword": "済州",
-          "score": 98
-        },
-        {
-          "keyword": "ぽかぽか",
-          "score": 97
-        },
-        {
-          "keyword": "平木 理化",
-          "score": 96
-        },
-        {
-          "keyword": "リサ",
-          "score": 95
-        },
-        {
-          "keyword": "ラーメン マラソン とも しげ 何 した",
-          "score": 94
-        },
-        {
-          "keyword": "トミー・エドマン",
-          "score": 93
-        },
-        {
-          "keyword": "三浦 貴大",
-          "score": 92
-        },
-        {
-          "keyword": "総理大臣杯",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-04T09:47:05.283Z",
       "geo": "JP",
       "source": "google",
@@ -1408,6 +1361,53 @@
         },
         {
           "keyword": "円高",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-08T05:26:49.673Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "片山さつき",
+          "score": 100
+        },
+        {
+          "keyword": "秋篠宮",
+          "score": 99
+        },
+        {
+          "keyword": "内親王",
+          "score": 98
+        },
+        {
+          "keyword": "高齢者",
+          "score": 97
+        },
+        {
+          "keyword": "遺伝的要因",
+          "score": 96
+        },
+        {
+          "keyword": "大谷翔平",
+          "score": 95
+        },
+        {
+          "keyword": "堀江謙一",
+          "score": 94
+        },
+        {
+          "keyword": "ヒルナンデス",
+          "score": 93
+        },
+        {
+          "keyword": "田久保眞紀",
+          "score": 92
+        },
+        {
+          "keyword": "窃盗罪",
           "score": 91
         }
       ]
