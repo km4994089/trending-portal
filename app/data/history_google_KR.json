@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-04T09:47:03.856Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "두산 대 ssg",
-          "score": 100
-        },
-        {
-          "keyword": "영구 결번",
-          "score": 99
-        },
-        {
-          "keyword": "한학자",
-          "score": 98
-        },
-        {
-          "keyword": "kt 대 kia",
-          "score": 97
-        },
-        {
-          "keyword": "한화 대 롯데",
-          "score": 96
-        },
-        {
-          "keyword": "nc 대 키움",
-          "score": 95
-        },
-        {
-          "keyword": "이효리",
-          "score": 94
-        },
-        {
-          "keyword": "장 한별",
-          "score": 93
-        },
-        {
-          "keyword": "국립순천대학교",
-          "score": 92
-        },
-        {
-          "keyword": "조명우",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-04T13:52:09.350Z",
       "geo": "KR",
       "source": "google",
@@ -1408,6 +1361,53 @@
         },
         {
           "keyword": "알레스 페레이라",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-08T09:54:35.064Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "두산 대 한화",
+          "score": 100
+        },
+        {
+          "keyword": "롯데 대 nc",
+          "score": 99
+        },
+        {
+          "keyword": "전국삼성전자노동조합",
+          "score": 98
+        },
+        {
+          "keyword": "키움 대 lg",
+          "score": 97
+        },
+        {
+          "keyword": "대학",
+          "score": 96
+        },
+        {
+          "keyword": "kia 대 삼성",
+          "score": 95
+        },
+        {
+          "keyword": "ssg 대 kt",
+          "score": 94
+        },
+        {
+          "keyword": "이행강제금",
+          "score": 93
+        },
+        {
+          "keyword": "찰스 3세",
+          "score": 92
+        },
+        {
+          "keyword": "us오픈",
           "score": 91
         }
       ]
