@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-05T01:57:43.085Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "용준형",
-          "score": 100
-        },
-        {
-          "keyword": "이영표",
-          "score": 99
-        },
-        {
-          "keyword": "사업",
-          "score": 98
-        },
-        {
-          "keyword": "산불",
-          "score": 97
-        },
-        {
-          "keyword": "계룡대",
-          "score": 96
-        },
-        {
-          "keyword": "현대제철",
-          "score": 95
-        },
-        {
-          "keyword": "트로이 패럿",
-          "score": 94
-        },
-        {
-          "keyword": "이민정",
-          "score": 93
-        },
-        {
-          "keyword": "유",
-          "score": 92
-        },
-        {
-          "keyword": "야구 순위",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-05T06:37:03.098Z",
       "geo": "KR",
       "source": "google",
@@ -1408,6 +1361,53 @@
         },
         {
           "keyword": "황희찬",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-09T05:32:22.143Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이채영",
+          "score": 100
+        },
+        {
+          "keyword": "2027",
+          "score": 99
+        },
+        {
+          "keyword": "미스터트롯",
+          "score": 98
+        },
+        {
+          "keyword": "최승호",
+          "score": 97
+        },
+        {
+          "keyword": "류현진",
+          "score": 96
+        },
+        {
+          "keyword": "송진우",
+          "score": 95
+        },
+        {
+          "keyword": "조혜련",
+          "score": 94
+        },
+        {
+          "keyword": "이재명",
+          "score": 93
+        },
+        {
+          "keyword": "목동윤슬자이",
+          "score": 92
+        },
+        {
+          "keyword": "박주호",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-05T01:57:44.500Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "幕張メッセ イベント",
-          "score": 100
-        },
-        {
-          "keyword": "ドジャース 対 ナショナルズ",
-          "score": 99
-        },
-        {
-          "keyword": "ミック・シューマッハ",
-          "score": 98
-        },
-        {
-          "keyword": "jリーグチケット",
-          "score": 97
-        },
-        {
-          "keyword": "神奈川県高校野球",
-          "score": 96
-        },
-        {
-          "keyword": "中島佑気ジョセフ",
-          "score": 95
-        },
-        {
-          "keyword": "芦田川",
-          "score": 94
-        },
-        {
-          "keyword": "ブラッククローバー",
-          "score": 93
-        },
-        {
-          "keyword": "王様のブランチ",
-          "score": 92
-        },
-        {
-          "keyword": "中間淳太",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-05T06:37:04.172Z",
       "geo": "JP",
       "source": "google",
@@ -1408,6 +1361,53 @@
         },
         {
           "keyword": "比嘉愛未",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-09T05:32:23.250Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "富士山 土砂崩れ",
+          "score": 100
+        },
+        {
+          "keyword": "舞鶴市",
+          "score": 99
+        },
+        {
+          "keyword": "カナダ",
+          "score": 98
+        },
+        {
+          "keyword": "アシックス 株価",
+          "score": 97
+        },
+        {
+          "keyword": "観光客",
+          "score": 96
+        },
+        {
+          "keyword": "フジテレビ",
+          "score": 95
+        },
+        {
+          "keyword": "パドレス 対 ナショナルズ",
+          "score": 94
+        },
+        {
+          "keyword": "タリック・スクーバル",
+          "score": 93
+        },
+        {
+          "keyword": "aquos wish6",
+          "score": 92
+        },
+        {
+          "keyword": "氷河",
           "score": 91
         }
       ]
