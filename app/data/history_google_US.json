@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-05T06:37:01.865Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "los angeles",
-          "score": 100
-        },
-        {
-          "keyword": "onimusha",
-          "score": 99
-        },
-        {
-          "keyword": "maxpreps",
-          "score": 98
-        },
-        {
-          "keyword": "wwe releases",
-          "score": 97
-        },
-        {
-          "keyword": "pumas - américa",
-          "score": 96
-        },
-        {
-          "keyword": "solar storm",
-          "score": 95
-        },
-        {
-          "keyword": "unruly aircraft passenger",
-          "score": 94
-        },
-        {
-          "keyword": "marvin harrison",
-          "score": 93
-        },
-        {
-          "keyword": "burning man news",
-          "score": 92
-        },
-        {
-          "keyword": "edgardo henriquez",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-05T11:02:18.151Z",
       "geo": "US",
       "source": "google",
@@ -1408,6 +1361,53 @@
         },
         {
           "keyword": "sf giants",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-09T10:21:53.755Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "gas prices",
+          "score": 100
+        },
+        {
+          "keyword": "eng vs pak",
+          "score": 99
+        },
+        {
+          "keyword": "george clooney",
+          "score": 98
+        },
+        {
+          "keyword": "stefany shaheen",
+          "score": 97
+        },
+        {
+          "keyword": "south africa vs namibia",
+          "score": 96
+        },
+        {
+          "keyword": "cindy marcell blizzard",
+          "score": 95
+        },
+        {
+          "keyword": "new hampshire primary election results",
+          "score": 94
+        },
+        {
+          "keyword": "chamberlain harris",
+          "score": 93
+        },
+        {
+          "keyword": "kyrie irving trade rumors nba",
+          "score": 92
+        },
+        {
+          "keyword": "current mortgage rates",
           "score": 91
         }
       ]

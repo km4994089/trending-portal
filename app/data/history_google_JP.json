@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-05T06:37:04.172Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "サンドウィッチマン",
-          "score": 100
-        },
-        {
-          "keyword": "ハーモニーランド",
-          "score": 99
-        },
-        {
-          "keyword": "免許返納!?",
-          "score": 98
-        },
-        {
-          "keyword": "win5",
-          "score": 97
-        },
-        {
-          "keyword": "jfl",
-          "score": 96
-        },
-        {
-          "keyword": "田中幹也",
-          "score": 95
-        },
-        {
-          "keyword": "くら寿司 ちいかわ",
-          "score": 94
-        },
-        {
-          "keyword": "チケットぴあ",
-          "score": 93
-        },
-        {
-          "keyword": "sixtones",
-          "score": 92
-        },
-        {
-          "keyword": "ごぶごぶ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-05T11:02:20.088Z",
       "geo": "JP",
       "source": "google",
@@ -1408,6 +1361,53 @@
         },
         {
           "keyword": "氷河",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-09T10:21:55.933Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ダウ90000",
+          "score": 100
+        },
+        {
+          "keyword": "松下奈緒",
+          "score": 99
+        },
+        {
+          "keyword": "高橋遥人",
+          "score": 98
+        },
+        {
+          "keyword": "佐藤駿一郎",
+          "score": 97
+        },
+        {
+          "keyword": "戸塚記念",
+          "score": 96
+        },
+        {
+          "keyword": "マタ",
+          "score": 95
+        },
+        {
+          "keyword": "大村競艇",
+          "score": 94
+        },
+        {
+          "keyword": "鷹木信悟",
+          "score": 93
+        },
+        {
+          "keyword": "ちい かわ くら 寿司",
+          "score": 92
+        },
+        {
+          "keyword": "ルノワール",
           "score": 91
         }
       ]
