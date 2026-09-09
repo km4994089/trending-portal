@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-05T22:28:46.016Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "記録的短時間大雨情報",
-          "score": 100
-        },
-        {
-          "keyword": "岡山 天気",
-          "score": 99
-        },
-        {
-          "keyword": "リアム ローソン",
-          "score": 98
-        },
-        {
-          "keyword": "weather today",
-          "score": 97
-        },
-        {
-          "keyword": "楽天 kddi ローミング",
-          "score": 96
-        },
-        {
-          "keyword": "暫定王座",
-          "score": 95
-        },
-        {
-          "keyword": "ポケモン go メガ フィナーレ",
-          "score": 94
-        },
-        {
-          "keyword": "今日の天気 東京",
-          "score": 93
-        },
-        {
-          "keyword": "メローニ首相",
-          "score": 92
-        },
-        {
-          "keyword": "weather",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-06T00:07:05.206Z",
       "geo": "JP",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "psg vs slovan bratislava",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-09T23:23:20.882Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "有村治子",
+          "score": 100
+        },
+        {
+          "keyword": "ブレーブス 対 レイズ",
+          "score": 99
+        },
+        {
+          "keyword": "byd ラッコ",
+          "score": 98
+        },
+        {
+          "keyword": "笠井信輔",
+          "score": 97
+        },
+        {
+          "keyword": "youtubeプレミアム",
+          "score": 96
+        },
+        {
+          "keyword": "新iphone",
+          "score": 95
+        },
+        {
+          "keyword": "ipad mini 8",
+          "score": 94
+        },
+        {
+          "keyword": "中丸 雄一",
+          "score": 93
+        },
+        {
+          "keyword": "多治見市",
+          "score": 92
+        },
+        {
+          "keyword": "敗訴",
           "score": 91
         }
       ]
