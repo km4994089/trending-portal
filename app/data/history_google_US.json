@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-06T12:59:11.335Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "christa pike",
-          "score": 100
-        },
-        {
-          "keyword": "riley gaines",
-          "score": 99
-        },
-        {
-          "keyword": "josh allen buffalo bills turf safety",
-          "score": 98
-        },
-        {
-          "keyword": "kate middleton news",
-          "score": 97
-        },
-        {
-          "keyword": "washington state football",
-          "score": 96
-        },
-        {
-          "keyword": "fetterman",
-          "score": 95
-        },
-        {
-          "keyword": "nfl football",
-          "score": 94
-        },
-        {
-          "keyword": "stock market crash",
-          "score": 93
-        },
-        {
-          "keyword": "f1",
-          "score": 92
-        },
-        {
-          "keyword": "maha",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-06T15:59:21.644Z",
       "geo": "US",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "brooks koepka",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-10T15:27:45.931Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "9/11 memorial",
+          "score": 100
+        },
+        {
+          "keyword": "stars",
+          "score": 99
+        },
+        {
+          "keyword": "cma awards 2026",
+          "score": 98
+        },
+        {
+          "keyword": "jessica tarlov",
+          "score": 97
+        },
+        {
+          "keyword": "naruto",
+          "score": 96
+        },
+        {
+          "keyword": "245 million cryptocurrency rico conspiracy",
+          "score": 95
+        },
+        {
+          "keyword": "osama bin laden",
+          "score": 94
+        },
+        {
+          "keyword": "playstation store",
+          "score": 93
+        },
+        {
+          "keyword": "oracle stock",
+          "score": 92
+        },
+        {
+          "keyword": "stocks",
           "score": 91
         }
       ]
