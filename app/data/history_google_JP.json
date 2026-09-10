@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-06T09:02:38.961Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "雨",
-          "score": 100
-        },
-        {
-          "keyword": "ダルベック",
-          "score": 99
-        },
-        {
-          "keyword": "佐賀競馬",
-          "score": 98
-        },
-        {
-          "keyword": "エムケイ",
-          "score": 97
-        },
-        {
-          "keyword": "山川穂高",
-          "score": 96
-        },
-        {
-          "keyword": "並木万里菜",
-          "score": 95
-        },
-        {
-          "keyword": "インドネシア 火山噴火",
-          "score": 94
-        },
-        {
-          "keyword": "オリックス・バファローズ",
-          "score": 93
-        },
-        {
-          "keyword": "インカレ 陸上 2026",
-          "score": 92
-        },
-        {
-          "keyword": "岩田康誠",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-06T12:59:13.710Z",
       "geo": "JP",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "髙木 美帆",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-10T11:34:51.589Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "新幹線",
+          "score": 100
+        },
+        {
+          "keyword": "井戸田潤",
+          "score": 99
+        },
+        {
+          "keyword": "田中 みな実",
+          "score": 98
+        },
+        {
+          "keyword": "pfl",
+          "score": 97
+        },
+        {
+          "keyword": "劇団四季",
+          "score": 96
+        },
+        {
+          "keyword": "ガス漏れ",
+          "score": 95
+        },
+        {
+          "keyword": "バレーボールオーストラリア男子代表",
+          "score": 94
+        },
+        {
+          "keyword": "阪神 中止",
+          "score": 93
+        },
+        {
+          "keyword": "vrr出力",
+          "score": 92
+        },
+        {
+          "keyword": "ロト6の当選番号",
           "score": 91
         }
       ]
