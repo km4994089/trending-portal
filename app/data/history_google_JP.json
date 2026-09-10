@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-06T04:53:47.471Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "西山茉希",
-          "score": 100
-        },
-        {
-          "keyword": "ハスラークーペ",
-          "score": 99
-        },
-        {
-          "keyword": "コンサドーレ札幌",
-          "score": 98
-        },
-        {
-          "keyword": "青森競輪",
-          "score": 97
-        },
-        {
-          "keyword": "上茶谷大河",
-          "score": 96
-        },
-        {
-          "keyword": "フリゲート",
-          "score": 95
-        },
-        {
-          "keyword": "タナー・スコット",
-          "score": 94
-        },
-        {
-          "keyword": "亀田興毅",
-          "score": 93
-        },
-        {
-          "keyword": "クリスティアーノ ロナウド",
-          "score": 92
-        },
-        {
-          "keyword": "堂本剛 百田夏菜子",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-06T09:02:38.961Z",
       "geo": "JP",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "花粉",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-10T06:10:19.360Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ユニバーサルスタジオジャパン",
+          "score": 100
+        },
+        {
+          "keyword": "佐久間宣行",
+          "score": 99
+        },
+        {
+          "keyword": "カグラバチ",
+          "score": 98
+        },
+        {
+          "keyword": "橋岡大樹",
+          "score": 97
+        },
+        {
+          "keyword": "東海道新幹線",
+          "score": 96
+        },
+        {
+          "keyword": "ウラジーミル・プーチン",
+          "score": 95
+        },
+        {
+          "keyword": "コムドット",
+          "score": 94
+        },
+        {
+          "keyword": "フース・ヒディンク",
+          "score": 93
+        },
+        {
+          "keyword": "金正恩",
+          "score": 92
+        },
+        {
+          "keyword": "髙木 美帆",
           "score": 91
         }
       ]
