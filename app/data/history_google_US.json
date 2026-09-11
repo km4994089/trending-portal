@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-07T16:11:50.497Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "iga świątek",
-          "score": 100
-        },
-        {
-          "keyword": "qinwen zheng",
-          "score": 99
-        },
-        {
-          "keyword": "mlb games today",
-          "score": 98
-        },
-        {
-          "keyword": "andreeva",
-          "score": 97
-        },
-        {
-          "keyword": "andreeva tennis",
-          "score": 96
-        },
-        {
-          "keyword": "cecilia zandalasini",
-          "score": 95
-        },
-        {
-          "keyword": "mirra andreeva",
-          "score": 94
-        },
-        {
-          "keyword": "pakistan vs hong kong",
-          "score": 93
-        },
-        {
-          "keyword": "lando norris",
-          "score": 92
-        },
-        {
-          "keyword": "eos",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-07T20:02:57.368Z",
       "geo": "US",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "ethereum price",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-11T18:42:43.539Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "travel warning",
+          "score": 100
+        },
+        {
+          "keyword": "john lowe cbs legal dispute",
+          "score": 99
+        },
+        {
+          "keyword": "europa league",
+          "score": 98
+        },
+        {
+          "keyword": "sun",
+          "score": 97
+        },
+        {
+          "keyword": "sevilla vs valencia",
+          "score": 96
+        },
+        {
+          "keyword": "sevilla - valencia c. f.",
+          "score": 95
+        },
+        {
+          "keyword": "west ham vs wrexham",
+          "score": 94
+        },
+        {
+          "keyword": "flight cancellation and delay",
+          "score": 93
+        },
+        {
+          "keyword": "rennes vs marseille",
+          "score": 92
+        },
+        {
+          "keyword": "fraud",
           "score": 91
         }
       ]
