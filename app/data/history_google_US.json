@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-07T20:02:57.368Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "minnesota",
-          "score": 100
-        },
-        {
-          "keyword": "phillies standings",
-          "score": 99
-        },
-        {
-          "keyword": "mike trout",
-          "score": 98
-        },
-        {
-          "keyword": "real sociedad",
-          "score": 97
-        },
-        {
-          "keyword": "house of the dragon hbo max",
-          "score": 96
-        },
-        {
-          "keyword": "tyler smith",
-          "score": 95
-        },
-        {
-          "keyword": "pamela anderson",
-          "score": 94
-        },
-        {
-          "keyword": "noah lyles",
-          "score": 93
-        },
-        {
-          "keyword": "robert gasser",
-          "score": 92
-        },
-        {
-          "keyword": "prince george",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-07T22:54:29.267Z",
       "geo": "US",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "fraud",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-11T21:26:19.183Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "boston college football",
+          "score": 100
+        },
+        {
+          "keyword": "jenna bush hager",
+          "score": 99
+        },
+        {
+          "keyword": "franco mastantuono",
+          "score": 98
+        },
+        {
+          "keyword": "united states golf association",
+          "score": 97
+        },
+        {
+          "keyword": "kansas football",
+          "score": 96
+        },
+        {
+          "keyword": "iphone duo iphone 18 pro",
+          "score": 95
+        },
+        {
+          "keyword": "atlanta weather",
+          "score": 94
+        },
+        {
+          "keyword": "malik nabers",
+          "score": 93
+        },
+        {
+          "keyword": "championship",
+          "score": 92
+        },
+        {
+          "keyword": "reflecting pool damage contractor report",
           "score": 91
         }
       ]
