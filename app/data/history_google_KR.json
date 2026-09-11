@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-07T00:29:31.098Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이민우",
-          "score": 100
-        },
-        {
-          "keyword": "의사",
-          "score": 99
-        },
-        {
-          "keyword": "김소영",
-          "score": 98
-        },
-        {
-          "keyword": "주민등록사실조사",
-          "score": 97
-        },
-        {
-          "keyword": "아시안 게임",
-          "score": 96
-        },
-        {
-          "keyword": "agi",
-          "score": 95
-        },
-        {
-          "keyword": "교통",
-          "score": 94
-        },
-        {
-          "keyword": "최준희",
-          "score": 93
-        },
-        {
-          "keyword": "이정효",
-          "score": 92
-        },
-        {
-          "keyword": "디에고 시메오네",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-07T05:03:41.482Z",
       "geo": "KR",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "화사",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-11T01:15:09.455Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "슈퍼맨이 돌아왔다",
+          "score": 100
+        },
+        {
+          "keyword": "대한민국 의 대법관",
+          "score": 99
+        },
+        {
+          "keyword": "리노베이션",
+          "score": 98
+        },
+        {
+          "keyword": "제시카 페굴라",
+          "score": 97
+        },
+        {
+          "keyword": "pba 팀리그",
+          "score": 96
+        },
+        {
+          "keyword": "스페이스x",
+          "score": 95
+        },
+        {
+          "keyword": "마우리시오 포체티노",
+          "score": 94
+        },
+        {
+          "keyword": "연금복권720+",
+          "score": 93
+        },
+        {
+          "keyword": "코모",
+          "score": 92
+        },
+        {
+          "keyword": "반찬",
           "score": 91
         }
       ]
