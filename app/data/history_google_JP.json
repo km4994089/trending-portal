@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-07T05:03:42.481Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "アレックス・フリーランド",
-          "score": 100
-        },
-        {
-          "keyword": "b y d ラッコ",
-          "score": 99
-        },
-        {
-          "keyword": "ミスド 値上げ",
-          "score": 98
-        },
-        {
-          "keyword": "ファイナルファンタジーvii",
-          "score": 97
-        },
-        {
-          "keyword": "品川徹",
-          "score": 96
-        },
-        {
-          "keyword": "福音 館 書店 ぐりとぐら",
-          "score": 95
-        },
-        {
-          "keyword": "byd・ラッコ",
-          "score": 94
-        },
-        {
-          "keyword": "黒柳徹子",
-          "score": 93
-        },
-        {
-          "keyword": "豊和工業",
-          "score": 92
-        },
-        {
-          "keyword": "土屋太鳳",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-07T10:33:16.730Z",
       "geo": "JP",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "ニューヨーク",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-11T06:13:34.677Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "アカカミアリ",
+          "score": 100
+        },
+        {
+          "keyword": "ダウンタイム",
+          "score": 99
+        },
+        {
+          "keyword": "横綱大関",
+          "score": 98
+        },
+        {
+          "keyword": "u18 野球",
+          "score": 97
+        },
+        {
+          "keyword": "風 薫る シマケン",
+          "score": 96
+        },
+        {
+          "keyword": "原爆",
+          "score": 95
+        },
+        {
+          "keyword": "戦争",
+          "score": 94
+        },
+        {
+          "keyword": "立憲民主党",
+          "score": 93
+        },
+        {
+          "keyword": "マイケルジョーダン",
+          "score": 92
+        },
+        {
+          "keyword": "漏えい",
           "score": 91
         }
       ]

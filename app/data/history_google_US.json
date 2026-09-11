@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-07T05:03:40.340Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "mookie betts",
-          "score": 100
-        },
-        {
-          "keyword": "agreement",
-          "score": 99
-        },
-        {
-          "keyword": "administration",
-          "score": 98
-        },
-        {
-          "keyword": "history of labor day",
-          "score": 97
-        },
-        {
-          "keyword": "tom cruise",
-          "score": 96
-        },
-        {
-          "keyword": "nintendo direct",
-          "score": 95
-        },
-        {
-          "keyword": "dodgers",
-          "score": 94
-        },
-        {
-          "keyword": "dodgers game today",
-          "score": 93
-        },
-        {
-          "keyword": "theo james",
-          "score": 92
-        },
-        {
-          "keyword": "bobby miller",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-07T10:33:14.633Z",
       "geo": "US",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "rams coach",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-11T06:13:32.329Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "josh hartnett",
+          "score": 100
+        },
+        {
+          "keyword": "ted cruz",
+          "score": 99
+        },
+        {
+          "keyword": "downdetector",
+          "score": 98
+        },
+        {
+          "keyword": "vaccines",
+          "score": 97
+        },
+        {
+          "keyword": "vaccinations",
+          "score": 96
+        },
+        {
+          "keyword": "cable tv",
+          "score": 95
+        },
+        {
+          "keyword": "내일 날씨",
+          "score": 94
+        },
+        {
+          "keyword": "aster",
+          "score": 93
+        },
+        {
+          "keyword": "discord waiting for voice server",
+          "score": 92
+        },
+        {
+          "keyword": "gal gadot",
           "score": 91
         }
       ]
