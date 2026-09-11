@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-07T22:54:30.791Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "아이유",
-          "score": 100
-        },
-        {
-          "keyword": "박지윤",
-          "score": 99
-        },
-        {
-          "keyword": "화장품",
-          "score": 98
-        },
-        {
-          "keyword": "박항서",
-          "score": 97
-        },
-        {
-          "keyword": "교사",
-          "score": 96
-        },
-        {
-          "keyword": "투자",
-          "score": 95
-        },
-        {
-          "keyword": "코레일 추석예매",
-          "score": 94
-        },
-        {
-          "keyword": "적금",
-          "score": 93
-        },
-        {
-          "keyword": "야구 선수",
-          "score": 92
-        },
-        {
-          "keyword": "sf",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-08T00:48:12.404Z",
       "geo": "KR",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "알렉산더 즈베레프",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-11T23:24:41.366Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "중국",
+          "score": 100
+        },
+        {
+          "keyword": "제주특별자치도",
+          "score": 99
+        },
+        {
+          "keyword": "구준엽",
+          "score": 98
+        },
+        {
+          "keyword": "주성엔지니어링",
+          "score": 97
+        },
+        {
+          "keyword": "天气",
+          "score": 96
+        },
+        {
+          "keyword": "이강인",
+          "score": 95
+        },
+        {
+          "keyword": "중앙일보 오늘의 운세",
+          "score": 94
+        },
+        {
+          "keyword": "세계지식포럼",
+          "score": 93
+        },
+        {
+          "keyword": "명태균",
+          "score": 92
+        },
+        {
+          "keyword": "유격수",
           "score": 91
         }
       ]
