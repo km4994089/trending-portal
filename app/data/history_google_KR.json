@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-08T17:45:51.958Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "풍자",
-          "score": 100
-        },
-        {
-          "keyword": "양구",
-          "score": 99
-        },
-        {
-          "keyword": "메이드인코리아 시즌2",
-          "score": 98
-        },
-        {
-          "keyword": "신병",
-          "score": 97
-        },
-        {
-          "keyword": "한화에어로스페이스",
-          "score": 96
-        },
-        {
-          "keyword": "gta6",
-          "score": 95
-        },
-        {
-          "keyword": "수시원서접수",
-          "score": 94
-        },
-        {
-          "keyword": "고려대",
-          "score": 93
-        },
-        {
-          "keyword": "챔피언스리그",
-          "score": 92
-        },
-        {
-          "keyword": "사회복지사",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-08T20:28:22.384Z",
       "geo": "KR",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "리버풀",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-12T18:52:00.363Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "spurs vs everton",
+          "score": 100
+        },
+        {
+          "keyword": "twitch",
+          "score": 99
+        },
+        {
+          "keyword": "도경완",
+          "score": 98
+        },
+        {
+          "keyword": "연애",
+          "score": 97
+        },
+        {
+          "keyword": "토트넘 대 에버턴",
+          "score": 96
+        },
+        {
+          "keyword": "pl",
+          "score": 95
+        },
+        {
+          "keyword": "이은결",
+          "score": 94
+        },
+        {
+          "keyword": "프리미어리그",
+          "score": 93
+        },
+        {
+          "keyword": "블리치",
+          "score": 92
+        },
+        {
+          "keyword": "epl",
           "score": 91
         }
       ]

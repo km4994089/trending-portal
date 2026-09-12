@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-08T17:45:53.139Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "apple",
-          "score": 100
-        },
-        {
-          "keyword": "山 﨑 武司",
-          "score": 99
-        },
-        {
-          "keyword": "club brugge vs aston villa",
-          "score": 98
-        },
-        {
-          "keyword": "木原龍一",
-          "score": 97
-        },
-        {
-          "keyword": "高崎俊吾 vivant",
-          "score": 96
-        },
-        {
-          "keyword": "アップル",
-          "score": 95
-        },
-        {
-          "keyword": "今田美桜",
-          "score": 94
-        },
-        {
-          "keyword": "champions league",
-          "score": 93
-        },
-        {
-          "keyword": "イートン校",
-          "score": 92
-        },
-        {
-          "keyword": "クラブ・ブルッヘ 対 アストン・ビラ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-08T20:28:23.750Z",
       "geo": "JP",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "cocomi",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-12T18:52:01.424Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "パリfc 対 リヨン",
+          "score": 100
+        },
+        {
+          "keyword": "サンダーランド 対 アーセナル",
+          "score": 99
+        },
+        {
+          "keyword": "rマドリード 対 ラージョ",
+          "score": 98
+        },
+        {
+          "keyword": "メダル",
+          "score": 97
+        },
+        {
+          "keyword": "tgs",
+          "score": 96
+        },
+        {
+          "keyword": "北口榛花",
+          "score": 95
+        },
+        {
+          "keyword": "ミラン",
+          "score": 94
+        },
+        {
+          "keyword": "周啟豪",
+          "score": 93
+        },
+        {
+          "keyword": "アルティメット世界陸上",
+          "score": 92
+        },
+        {
+          "keyword": "原 神 限定 配布",
           "score": 91
         }
       ]

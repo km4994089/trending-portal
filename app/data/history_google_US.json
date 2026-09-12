@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-08T17:45:50.894Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lil durk trial",
-          "score": 100
-        },
-        {
-          "keyword": "chris evert",
-          "score": 99
-        },
-        {
-          "keyword": "jill wagner",
-          "score": 98
-        },
-        {
-          "keyword": "aek athens",
-          "score": 97
-        },
-        {
-          "keyword": "ashley st clair",
-          "score": 96
-        },
-        {
-          "keyword": "south park",
-          "score": 95
-        },
-        {
-          "keyword": "girl scout cookies",
-          "score": 94
-        },
-        {
-          "keyword": "derek phillips hawkeye marching band",
-          "score": 93
-        },
-        {
-          "keyword": "detención",
-          "score": 92
-        },
-        {
-          "keyword": "vix",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-08T20:28:21.444Z",
       "geo": "US",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "dario amodei",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-12T18:51:59.222Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ncaa football scores",
+          "score": 100
+        },
+        {
+          "keyword": "rice vs notre dame",
+          "score": 99
+        },
+        {
+          "keyword": "kathy hochul",
+          "score": 98
+        },
+        {
+          "keyword": "weber state vs colorado",
+          "score": 97
+        },
+        {
+          "keyword": "carson benge",
+          "score": 96
+        },
+        {
+          "keyword": "eastern mi vs mi state",
+          "score": 95
+        },
+        {
+          "keyword": "duke vs illinois",
+          "score": 94
+        },
+        {
+          "keyword": "paris fc vs ol",
+          "score": 93
+        },
+        {
+          "keyword": "ignacio bahamondes",
+          "score": 92
+        },
+        {
+          "keyword": "ms state vs minnesota",
           "score": 91
         }
       ]
