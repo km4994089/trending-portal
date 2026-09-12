@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-08T20:28:22.384Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "real madrid vs inter",
-          "score": 100
-        },
-        {
-          "keyword": "공소기각",
-          "score": 99
-        },
-        {
-          "keyword": "레알 마드리드 대 인테르",
-          "score": 98
-        },
-        {
-          "keyword": "포르투 대 맨 시티",
-          "score": 97
-        },
-        {
-          "keyword": "sbs",
-          "score": 96
-        },
-        {
-          "keyword": "club brugge vs aston villa",
-          "score": 95
-        },
-        {
-          "keyword": "챔스",
-          "score": 94
-        },
-        {
-          "keyword": "인플루언서",
-          "score": 93
-        },
-        {
-          "keyword": "풍자",
-          "score": 92
-        },
-        {
-          "keyword": "양구",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-08T22:52:36.302Z",
       "geo": "KR",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "epl",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-12T21:05:50.784Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "외국인",
+          "score": 100
+        },
+        {
+          "keyword": "홍서범",
+          "score": 99
+        },
+        {
+          "keyword": "sunderland vs arsenal",
+          "score": 98
+        },
+        {
+          "keyword": "real madrid",
+          "score": 97
+        },
+        {
+          "keyword": "us오픈",
+          "score": 96
+        },
+        {
+          "keyword": "아시안 게임",
+          "score": 95
+        },
+        {
+          "keyword": "석유",
+          "score": 94
+        },
+        {
+          "keyword": "real madrid vs rayo vallecano",
+          "score": 93
+        },
+        {
+          "keyword": "공휴일",
+          "score": 92
+        },
+        {
+          "keyword": "이지아",
           "score": 91
         }
       ]
