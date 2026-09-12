@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-08T13:59:09.711Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "清原正吾",
-          "score": 100
-        },
-        {
-          "keyword": "木村 拓哉",
-          "score": 99
-        },
-        {
-          "keyword": "さん らい ず 店主",
-          "score": 98
-        },
-        {
-          "keyword": "真岡市",
-          "score": 97
-        },
-        {
-          "keyword": "ダム貯水率",
-          "score": 96
-        },
-        {
-          "keyword": "名古屋 水害",
-          "score": 95
-        },
-        {
-          "keyword": "酒井高徳",
-          "score": 94
-        },
-        {
-          "keyword": "テレビ長崎",
-          "score": 93
-        },
-        {
-          "keyword": "チャンピオンズリーグ",
-          "score": 92
-        },
-        {
-          "keyword": "練馬区天気",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-08T17:45:53.139Z",
       "geo": "JP",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "リヴァプール 対 フラム",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-12T16:37:23.693Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "プレミアリーグ 試合",
+          "score": 100
+        },
+        {
+          "keyword": "指原千夏",
+          "score": 99
+        },
+        {
+          "keyword": "ローズステークス",
+          "score": 98
+        },
+        {
+          "keyword": "シントトロイデン",
+          "score": 97
+        },
+        {
+          "keyword": "ngoại hạng anh",
+          "score": 96
+        },
+        {
+          "keyword": "プレミアリーグ",
+          "score": 95
+        },
+        {
+          "keyword": "トッテナム 対 エヴァートン",
+          "score": 94
+        },
+        {
+          "keyword": "アリソン",
+          "score": 93
+        },
+        {
+          "keyword": "福士蒼汰",
+          "score": 92
+        },
+        {
+          "keyword": "cocomi",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-08T13:59:07.048Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "intc stock",
-          "score": 100
-        },
-        {
-          "keyword": "ionq stock",
-          "score": 99
-        },
-        {
-          "keyword": "yahoo finance",
-          "score": 98
-        },
-        {
-          "keyword": "spider-man: brand new day",
-          "score": 97
-        },
-        {
-          "keyword": "be stock",
-          "score": 96
-        },
-        {
-          "keyword": "qcom stock",
-          "score": 95
-        },
-        {
-          "keyword": "tom jones the voice",
-          "score": 94
-        },
-        {
-          "keyword": "extreme heat warning",
-          "score": 93
-        },
-        {
-          "keyword": "apple new iphone design changes",
-          "score": 92
-        },
-        {
-          "keyword": "cfb rankings",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-08T17:45:50.894Z",
       "geo": "US",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "halftime show",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-12T16:37:21.189Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "fox",
+          "score": 100
+        },
+        {
+          "keyword": "capsizing",
+          "score": 99
+        },
+        {
+          "keyword": "netflix cancels ransom canyon",
+          "score": 98
+        },
+        {
+          "keyword": "girona - castellón",
+          "score": 97
+        },
+        {
+          "keyword": "colgate vs central mi",
+          "score": 96
+        },
+        {
+          "keyword": "howard football",
+          "score": 95
+        },
+        {
+          "keyword": "jenny taft",
+          "score": 94
+        },
+        {
+          "keyword": "ut martin vs west virginia",
+          "score": 93
+        },
+        {
+          "keyword": "ac milan",
+          "score": 92
+        },
+        {
+          "keyword": "dario amodei",
           "score": 91
         }
       ]
