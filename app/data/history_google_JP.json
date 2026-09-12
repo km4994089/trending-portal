@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-08T00:48:13.425Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "鳴門競艇",
-          "score": 100
-        },
-        {
-          "keyword": "東日本大震災",
-          "score": 99
-        },
-        {
-          "keyword": "東都大学野球",
-          "score": 98
-        },
-        {
-          "keyword": "野村克也",
-          "score": 97
-        },
-        {
-          "keyword": "アメリカ",
-          "score": 96
-        },
-        {
-          "keyword": "ファーウェイ",
-          "score": 95
-        },
-        {
-          "keyword": "nhkニュース",
-          "score": 94
-        },
-        {
-          "keyword": "花粉",
-          "score": 93
-        },
-        {
-          "keyword": "水害",
-          "score": 92
-        },
-        {
-          "keyword": "円高",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-08T05:26:49.673Z",
       "geo": "JP",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "長崎 天気",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-12T01:17:56.929Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "文春",
+          "score": 100
+        },
+        {
+          "keyword": "劇団四季",
+          "score": 99
+        },
+        {
+          "keyword": "宝くじ ロト7当選番号",
+          "score": 98
+        },
+        {
+          "keyword": "dバックス 対 レンジャーズ",
+          "score": 97
+        },
+        {
+          "keyword": "nep vs uae",
+          "score": 96
+        },
+        {
+          "keyword": "ハーラル5世",
+          "score": 95
+        },
+        {
+          "keyword": "ランネット",
+          "score": 94
+        },
+        {
+          "keyword": "台風 熱帯低気圧",
+          "score": 93
+        },
+        {
+          "keyword": "ブラッククローバー",
+          "score": 92
+        },
+        {
+          "keyword": "ブルワーズ",
           "score": 91
         }
       ]

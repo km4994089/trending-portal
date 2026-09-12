@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-08T00:48:12.404Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "gpt 아스트라",
-          "score": 100
-        },
-        {
-          "keyword": "구직",
-          "score": 99
-        },
-        {
-          "keyword": "응급실",
-          "score": 98
-        },
-        {
-          "keyword": "여수시",
-          "score": 97
-        },
-        {
-          "keyword": "르윈 디아즈",
-          "score": 96
-        },
-        {
-          "keyword": "땅",
-          "score": 95
-        },
-        {
-          "keyword": "노태문",
-          "score": 94
-        },
-        {
-          "keyword": "한병도",
-          "score": 93
-        },
-        {
-          "keyword": "챔피언스리그",
-          "score": 92
-        },
-        {
-          "keyword": "국제선",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-08T05:26:48.321Z",
       "geo": "KR",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "유격수",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-12T01:17:55.705Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "전원주",
+          "score": 100
+        },
+        {
+          "keyword": "김호령",
+          "score": 99
+        },
+        {
+          "keyword": "벤 셸턴",
+          "score": 98
+        },
+        {
+          "keyword": "도루",
+          "score": 97
+        },
+        {
+          "keyword": "아스트리드 공주",
+          "score": 96
+        },
+        {
+          "keyword": "天気",
+          "score": 95
+        },
+        {
+          "keyword": "박명수",
+          "score": 94
+        },
+        {
+          "keyword": "통장",
+          "score": 93
+        },
+        {
+          "keyword": "m",
+          "score": 92
+        },
+        {
+          "keyword": "안세영",
           "score": 91
         }
       ]
