@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-08T09:54:33.913Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nyt connections hints",
-          "score": 100
-        },
-        {
-          "keyword": "nate silver senate forecast",
-          "score": 99
-        },
-        {
-          "keyword": "rosanne cash",
-          "score": 98
-        },
-        {
-          "keyword": "turkish airlines",
-          "score": 97
-        },
-        {
-          "keyword": "middle east",
-          "score": 96
-        },
-        {
-          "keyword": "artificial intelligence news",
-          "score": 95
-        },
-        {
-          "keyword": "sarah khalifá",
-          "score": 94
-        },
-        {
-          "keyword": "iran war hormuz",
-          "score": 93
-        },
-        {
-          "keyword": "driverless taxis",
-          "score": 92
-        },
-        {
-          "keyword": "where to watch champions league",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-08T13:59:07.048Z",
       "geo": "US",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "army fitness test",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-12T10:18:21.309Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "mlb wildcard standings",
+          "score": 100
+        },
+        {
+          "keyword": "jason bard yarmosky",
+          "score": 99
+        },
+        {
+          "keyword": "red",
+          "score": 98
+        },
+        {
+          "keyword": "weather forecast",
+          "score": 97
+        },
+        {
+          "keyword": "alexa grasso",
+          "score": 96
+        },
+        {
+          "keyword": "interstate 81",
+          "score": 95
+        },
+        {
+          "keyword": "brics",
+          "score": 94
+        },
+        {
+          "keyword": "schools",
+          "score": 93
+        },
+        {
+          "keyword": "ig",
+          "score": 92
+        },
+        {
+          "keyword": "cryptocurrency trading",
           "score": 91
         }
       ]

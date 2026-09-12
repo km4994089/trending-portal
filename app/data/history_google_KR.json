@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-08T09:54:35.064Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "두산 대 한화",
-          "score": 100
-        },
-        {
-          "keyword": "롯데 대 nc",
-          "score": 99
-        },
-        {
-          "keyword": "전국삼성전자노동조합",
-          "score": 98
-        },
-        {
-          "keyword": "키움 대 lg",
-          "score": 97
-        },
-        {
-          "keyword": "대학",
-          "score": 96
-        },
-        {
-          "keyword": "kia 대 삼성",
-          "score": 95
-        },
-        {
-          "keyword": "ssg 대 kt",
-          "score": 94
-        },
-        {
-          "keyword": "이행강제금",
-          "score": 93
-        },
-        {
-          "keyword": "찰스 3세",
-          "score": 92
-        },
-        {
-          "keyword": "us오픈",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-08T13:59:08.163Z",
       "geo": "KR",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "유가",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-12T10:18:22.520Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "대학 입학",
+          "score": 100
+        },
+        {
+          "keyword": "장기 기증 의 날",
+          "score": 99
+        },
+        {
+          "keyword": "정친원",
+          "score": 98
+        },
+        {
+          "keyword": "중동",
+          "score": 97
+        },
+        {
+          "keyword": "kbo리그",
+          "score": 96
+        },
+        {
+          "keyword": "박보겸",
+          "score": 95
+        },
+        {
+          "keyword": "안리원",
+          "score": 94
+        },
+        {
+          "keyword": "대한민국 교육부",
+          "score": 93
+        },
+        {
+          "keyword": "호시",
+          "score": 92
+        },
+        {
+          "keyword": "박수진",
           "score": 91
         }
       ]

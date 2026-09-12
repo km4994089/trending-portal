@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-08T09:54:36.238Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "くら 寿司 ちい かわ 炎上",
-          "score": 100
-        },
-        {
-          "keyword": "池田組",
-          "score": 99
-        },
-        {
-          "keyword": "瀬古",
-          "score": 98
-        },
-        {
-          "keyword": "山梨 天気",
-          "score": 97
-        },
-        {
-          "keyword": "ゼルダダイレクト",
-          "score": 96
-        },
-        {
-          "keyword": "川崎競馬",
-          "score": 95
-        },
-        {
-          "keyword": "馬上かまぼこ",
-          "score": 94
-        },
-        {
-          "keyword": "アルビス",
-          "score": 93
-        },
-        {
-          "keyword": "吉村洋文",
-          "score": 92
-        },
-        {
-          "keyword": "ラウンドワン にじさんじ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-08T13:59:09.711Z",
       "geo": "JP",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "インドネシア 地震",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-12T10:18:23.554Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "宮崎 対 藤枝",
+          "score": 100
+        },
+        {
+          "keyword": "吉川尚輝",
+          "score": 99
+        },
+        {
+          "keyword": "笑ってコラえて",
+          "score": 98
+        },
+        {
+          "keyword": "全日本実業団陸上 2026",
+          "score": 97
+        },
+        {
+          "keyword": "大宮 対 大分",
+          "score": 96
+        },
+        {
+          "keyword": "persib",
+          "score": 95
+        },
+        {
+          "keyword": "中田英寿",
+          "score": 94
+        },
+        {
+          "keyword": "イルカ 夫",
+          "score": 93
+        },
+        {
+          "keyword": "中尾明慶",
+          "score": 92
+        },
+        {
+          "keyword": "甲府 対 磐田",
           "score": 91
         }
       ]
