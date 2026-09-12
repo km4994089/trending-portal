@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-08T22:52:34.867Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "the young and the restless",
-          "score": 100
-        },
-        {
-          "keyword": "rays vs braves",
-          "score": 99
-        },
-        {
-          "keyword": "trump ai posts",
-          "score": 98
-        },
-        {
-          "keyword": "rockies vs yankees",
-          "score": 97
-        },
-        {
-          "keyword": "fire near me",
-          "score": 96
-        },
-        {
-          "keyword": "dwts premiere",
-          "score": 95
-        },
-        {
-          "keyword": "angels vs red sox",
-          "score": 94
-        },
-        {
-          "keyword": "mets vs marlins",
-          "score": 93
-        },
-        {
-          "keyword": "twins vs tigers",
-          "score": 92
-        },
-        {
-          "keyword": "kelly osbourne",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-09T00:51:05.108Z",
       "geo": "US",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "south africa vs new zealand",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-12T23:07:12.179Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "southern miss vs auburn",
+          "score": 100
+        },
+        {
+          "keyword": "charlotte vs ole miss",
+          "score": 99
+        },
+        {
+          "keyword": "texas tech football",
+          "score": 98
+        },
+        {
+          "keyword": "lsu football schedule",
+          "score": 97
+        },
+        {
+          "keyword": "atlanta united vs d.c. united",
+          "score": 96
+        },
+        {
+          "keyword": "north alabama vs se la",
+          "score": 95
+        },
+        {
+          "keyword": "toronto vs orlando city",
+          "score": 94
+        },
+        {
+          "keyword": "ga southern vs clemson",
+          "score": 93
+        },
+        {
+          "keyword": "nashville vs inter miami",
+          "score": 92
+        },
+        {
+          "keyword": "navy vs fl atlantic",
           "score": 91
         }
       ]
