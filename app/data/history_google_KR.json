@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-09T18:09:27.133Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "애플",
-          "score": 100
-        },
-        {
-          "keyword": "보통주",
-          "score": 99
-        },
-        {
-          "keyword": "파주 냉동창고",
-          "score": 98
-        },
-        {
-          "keyword": "틈만나면,",
-          "score": 97
-        },
-        {
-          "keyword": "barcelona vs feyenoord",
-          "score": 96
-        },
-        {
-          "keyword": "뷔",
-          "score": 95
-        },
-        {
-          "keyword": "바르셀로나 대 페예노르트",
-          "score": 94
-        },
-        {
-          "keyword": "서안",
-          "score": 93
-        },
-        {
-          "keyword": "apple",
-          "score": 92
-        },
-        {
-          "keyword": "신탁",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-09T21:02:28.721Z",
       "geo": "KR",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "afghanistan vs india",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-13T19:05:50.505Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "김민재",
+          "score": 100
+        },
+        {
+          "keyword": "levante ud vs fc barcelona standings",
+          "score": 99
+        },
+        {
+          "keyword": "at마드리드",
+          "score": 98
+        },
+        {
+          "keyword": "프리미어리그",
+          "score": 97
+        },
+        {
+          "keyword": "pl",
+          "score": 96
+        },
+        {
+          "keyword": "nfl",
+          "score": 95
+        },
+        {
+          "keyword": "김원효",
+          "score": 94
+        },
+        {
+          "keyword": "라민 야말",
+          "score": 93
+        },
+        {
+          "keyword": "로드리",
+          "score": 92
+        },
+        {
+          "keyword": "남자",
           "score": 91
         }
       ]
