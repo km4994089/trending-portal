@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-09T10:21:55.933Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ダウ90000",
-          "score": 100
-        },
-        {
-          "keyword": "松下奈緒",
-          "score": 99
-        },
-        {
-          "keyword": "高橋遥人",
-          "score": 98
-        },
-        {
-          "keyword": "佐藤駿一郎",
-          "score": 97
-        },
-        {
-          "keyword": "戸塚記念",
-          "score": 96
-        },
-        {
-          "keyword": "マタ",
-          "score": 95
-        },
-        {
-          "keyword": "大村競艇",
-          "score": 94
-        },
-        {
-          "keyword": "鷹木信悟",
-          "score": 93
-        },
-        {
-          "keyword": "ちい かわ くら 寿司",
-          "score": 92
-        },
-        {
-          "keyword": "ルノワール",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-09T14:41:51.374Z",
       "geo": "JP",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "とよた真帆",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-13T12:09:53.650Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "阪神タイガース 速報",
+          "score": 100
+        },
+        {
+          "keyword": "mrtニュース",
+          "score": 99
+        },
+        {
+          "keyword": "バクー",
+          "score": 98
+        },
+        {
+          "keyword": "ぐるぐるナインティナイン",
+          "score": 97
+        },
+        {
+          "keyword": "阪神タイガース 今日の試合 甲子園",
+          "score": 96
+        },
+        {
+          "keyword": "松本 対 相模原",
+          "score": 95
+        },
+        {
+          "keyword": "clima para amanhã",
+          "score": 94
+        },
+        {
+          "keyword": "西本圭吾",
+          "score": 93
+        },
+        {
+          "keyword": "新井丈",
+          "score": 92
+        },
+        {
+          "keyword": "cuaca besok",
           "score": 91
         }
       ]
