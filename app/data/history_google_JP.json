@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-09T21:02:30.118Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "集中豪雨",
-          "score": 100
-        },
-        {
-          "keyword": "apple watch ultra 4",
-          "score": 99
-        },
-        {
-          "keyword": "snow",
-          "score": 98
-        },
-        {
-          "keyword": "スマスロ",
-          "score": 97
-        },
-        {
-          "keyword": "ソフトバンクグループ",
-          "score": 96
-        },
-        {
-          "keyword": "ティモンディ高岸",
-          "score": 95
-        },
-        {
-          "keyword": "後上翔太",
-          "score": 94
-        },
-        {
-          "keyword": "psg",
-          "score": 93
-        },
-        {
-          "keyword": "sun",
-          "score": 92
-        },
-        {
-          "keyword": "psg vs slovan bratislava",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-09T23:23:20.882Z",
       "geo": "JP",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "アレックス・フリーランド",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-13T21:30:42.299Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "角田裕毅",
+          "score": 100
+        },
+        {
+          "keyword": "flamengo x corinthians",
+          "score": 99
+        },
+        {
+          "keyword": "野崎守",
+          "score": 98
+        },
+        {
+          "keyword": "長崎天気",
+          "score": 97
+        },
+        {
+          "keyword": "スペースx",
+          "score": 96
+        },
+        {
+          "keyword": "cuaca hari ini",
+          "score": 95
+        },
+        {
+          "keyword": "アレクサンダー・ズベレフ",
+          "score": 94
+        },
+        {
+          "keyword": "配当",
+          "score": 93
+        },
+        {
+          "keyword": "倉木麻衣",
+          "score": 92
+        },
+        {
+          "keyword": "テゲバジャーロ宮崎",
           "score": 91
         }
       ]

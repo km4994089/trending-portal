@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-09T21:02:28.721Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "엘레나 리바키나",
-          "score": 100
-        },
-        {
-          "keyword": "이창용",
-          "score": 99
-        },
-        {
-          "keyword": "champions league",
-          "score": 98
-        },
-        {
-          "keyword": "후지 산",
-          "score": 97
-        },
-        {
-          "keyword": "챔피언스리그 경기",
-          "score": 96
-        },
-        {
-          "keyword": "스포티비",
-          "score": 95
-        },
-        {
-          "keyword": "psg 대 슬로반 브라티슬라바",
-          "score": 94
-        },
-        {
-          "keyword": "나폴리 대 아스널",
-          "score": 93
-        },
-        {
-          "keyword": "첼시 대 리즈 유나이티드",
-          "score": 92
-        },
-        {
-          "keyword": "리버풀 대 아틀레티코",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-09T23:23:19.438Z",
       "geo": "KR",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "남자",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-13T21:30:40.380Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이동국",
+          "score": 100
+        },
+        {
+          "keyword": "김주애",
+          "score": 99
+        },
+        {
+          "keyword": "알테오젠",
+          "score": 98
+        },
+        {
+          "keyword": "하석진",
+          "score": 97
+        },
+        {
+          "keyword": "대한민국의 대법관",
+          "score": 96
+        },
+        {
+          "keyword": "오스틴 딘",
+          "score": 95
+        },
+        {
+          "keyword": "개",
+          "score": 94
+        },
+        {
+          "keyword": "공소청",
+          "score": 93
+        },
+        {
+          "keyword": "벤 셸턴",
+          "score": 92
+        },
+        {
+          "keyword": "스포츠중계",
           "score": 91
         }
       ]
