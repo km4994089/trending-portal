@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-09T05:32:23.250Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "富士山 土砂崩れ",
-          "score": 100
-        },
-        {
-          "keyword": "舞鶴市",
-          "score": 99
-        },
-        {
-          "keyword": "カナダ",
-          "score": 98
-        },
-        {
-          "keyword": "アシックス 株価",
-          "score": 97
-        },
-        {
-          "keyword": "観光客",
-          "score": 96
-        },
-        {
-          "keyword": "フジテレビ",
-          "score": 95
-        },
-        {
-          "keyword": "パドレス 対 ナショナルズ",
-          "score": 94
-        },
-        {
-          "keyword": "タリック・スクーバル",
-          "score": 93
-        },
-        {
-          "keyword": "aquos wish6",
-          "score": 92
-        },
-        {
-          "keyword": "氷河",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-09T10:21:55.933Z",
       "geo": "JP",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "炊き出し",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-13T06:24:39.118Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "セントライト記念",
+          "score": 100
+        },
+        {
+          "keyword": "上沼恵美子",
+          "score": 99
+        },
+        {
+          "keyword": "ジャワ海",
+          "score": 98
+        },
+        {
+          "keyword": "相撲結果",
+          "score": 97
+        },
+        {
+          "keyword": "正木智也",
+          "score": 96
+        },
+        {
+          "keyword": "土俵",
+          "score": 95
+        },
+        {
+          "keyword": "佐藤瞳",
+          "score": 94
+        },
+        {
+          "keyword": "内藤剛志",
+          "score": 93
+        },
+        {
+          "keyword": "ペ・ヨンジュン",
+          "score": 92
+        },
+        {
+          "keyword": "とよた真帆",
           "score": 91
         }
       ]

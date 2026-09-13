@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-09T05:32:22.143Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이채영",
-          "score": 100
-        },
-        {
-          "keyword": "2027",
-          "score": 99
-        },
-        {
-          "keyword": "미스터트롯",
-          "score": 98
-        },
-        {
-          "keyword": "최승호",
-          "score": 97
-        },
-        {
-          "keyword": "류현진",
-          "score": 96
-        },
-        {
-          "keyword": "송진우",
-          "score": 95
-        },
-        {
-          "keyword": "조혜련",
-          "score": 94
-        },
-        {
-          "keyword": "이재명",
-          "score": 93
-        },
-        {
-          "keyword": "목동윤슬자이",
-          "score": 92
-        },
-        {
-          "keyword": "박주호",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-09T10:21:54.867Z",
       "geo": "KR",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "파블로 바리오스",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-13T06:24:38.002Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "치지직",
+          "score": 100
+        },
+        {
+          "keyword": "숲",
+          "score": 99
+        },
+        {
+          "keyword": "lck",
+          "score": 98
+        },
+        {
+          "keyword": "민경훈",
+          "score": 97
+        },
+        {
+          "keyword": "송지호 바다하늘길",
+          "score": 96
+        },
+        {
+          "keyword": "쵸비",
+          "score": 95
+        },
+        {
+          "keyword": "이정은",
+          "score": 94
+        },
+        {
+          "keyword": "죽음",
+          "score": 93
+        },
+        {
+          "keyword": "드론 스트라이크",
+          "score": 92
+        },
+        {
+          "keyword": "일타 스캔들",
           "score": 91
         }
       ]
