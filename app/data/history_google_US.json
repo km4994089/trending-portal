@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-09T14:41:48.633Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "white house historical association silent",
-          "score": 100
-        },
-        {
-          "keyword": "unh stock",
-          "score": 99
-        },
-        {
-          "keyword": "seatgeek",
-          "score": 98
-        },
-        {
-          "keyword": "barcelona vs feyenoord",
-          "score": 97
-        },
-        {
-          "keyword": "novig",
-          "score": 96
-        },
-        {
-          "keyword": "obama presidential center",
-          "score": 95
-        },
-        {
-          "keyword": "kaya scodelario",
-          "score": 94
-        },
-        {
-          "keyword": "ronaldo",
-          "score": 93
-        },
-        {
-          "keyword": "liam neeson",
-          "score": 92
-        },
-        {
-          "keyword": "hayley atwell",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-09T18:09:25.666Z",
       "geo": "US",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "maha",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-13T16:31:14.945Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "enzo fernández",
+          "score": 100
+        },
+        {
+          "keyword": "fox sports",
+          "score": 99
+        },
+        {
+          "keyword": "cj stroud",
+          "score": 98
+        },
+        {
+          "keyword": "landon robinson",
+          "score": 97
+        },
+        {
+          "keyword": "buccaneers vs bengals",
+          "score": 96
+        },
+        {
+          "keyword": "rams schedule",
+          "score": 95
+        },
+        {
+          "keyword": "man u",
+          "score": 94
+        },
+        {
+          "keyword": "hailee steinfeld",
+          "score": 93
+        },
+        {
+          "keyword": "browns vs jaguars",
+          "score": 92
+        },
+        {
+          "keyword": "phil foden",
           "score": 91
         }
       ]
