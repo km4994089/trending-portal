@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-10T06:10:19.360Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ユニバーサルスタジオジャパン",
-          "score": 100
-        },
-        {
-          "keyword": "佐久間宣行",
-          "score": 99
-        },
-        {
-          "keyword": "カグラバチ",
-          "score": 98
-        },
-        {
-          "keyword": "橋岡大樹",
-          "score": 97
-        },
-        {
-          "keyword": "東海道新幹線",
-          "score": 96
-        },
-        {
-          "keyword": "ウラジーミル・プーチン",
-          "score": 95
-        },
-        {
-          "keyword": "コムドット",
-          "score": 94
-        },
-        {
-          "keyword": "フース・ヒディンク",
-          "score": 93
-        },
-        {
-          "keyword": "金正恩",
-          "score": 92
-        },
-        {
-          "keyword": "髙木 美帆",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-10T11:34:51.589Z",
       "geo": "JP",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "東証株価指数",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-14T06:34:40.731Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "オリエンタルランド",
+          "score": 100
+        },
+        {
+          "keyword": "田原総一朗",
+          "score": 99
+        },
+        {
+          "keyword": "いちご新聞",
+          "score": 98
+        },
+        {
+          "keyword": "三浦綾子",
+          "score": 97
+        },
+        {
+          "keyword": "映画ちいかわ 人魚の島のひみつ",
+          "score": 96
+        },
+        {
+          "keyword": "古賀紗理那",
+          "score": 95
+        },
+        {
+          "keyword": "爆笑問題",
+          "score": 94
+        },
+        {
+          "keyword": "フレディ フリーマン",
+          "score": 93
+        },
+        {
+          "keyword": "松本 伊代",
+          "score": 92
+        },
+        {
+          "keyword": "パンチ佐藤",
           "score": 91
         }
       ]
