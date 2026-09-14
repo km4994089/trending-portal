@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-10T11:34:51.589Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "新幹線",
-          "score": 100
-        },
-        {
-          "keyword": "井戸田潤",
-          "score": 99
-        },
-        {
-          "keyword": "田中 みな実",
-          "score": 98
-        },
-        {
-          "keyword": "pfl",
-          "score": 97
-        },
-        {
-          "keyword": "劇団四季",
-          "score": 96
-        },
-        {
-          "keyword": "ガス漏れ",
-          "score": 95
-        },
-        {
-          "keyword": "バレーボールオーストラリア男子代表",
-          "score": 94
-        },
-        {
-          "keyword": "阪神 中止",
-          "score": 93
-        },
-        {
-          "keyword": "vrr出力",
-          "score": 92
-        },
-        {
-          "keyword": "ロト6の当選番号",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-10T15:27:47.982Z",
       "geo": "JP",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "パンチ佐藤",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-14T13:29:05.387Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ネイリスト殺人事件",
+          "score": 100
+        },
+        {
+          "keyword": "甲斐拓也",
+          "score": 99
+        },
+        {
+          "keyword": "則本昂大",
+          "score": 98
+        },
+        {
+          "keyword": "羽生結弦",
+          "score": 97
+        },
+        {
+          "keyword": "死亡",
+          "score": 96
+        },
+        {
+          "keyword": "草彅剛",
+          "score": 95
+        },
+        {
+          "keyword": "アベイル ジョジョ",
+          "score": 94
+        },
+        {
+          "keyword": "江本孟紀",
+          "score": 93
+        },
+        {
+          "keyword": "レオパレス",
+          "score": 92
+        },
+        {
+          "keyword": "モデルプレス",
           "score": 91
         }
       ]
