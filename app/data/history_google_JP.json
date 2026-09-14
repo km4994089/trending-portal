@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-10T21:18:18.072Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "s&p 500",
-          "score": 100
-        },
-        {
-          "keyword": "乙葉",
-          "score": 99
-        },
-        {
-          "keyword": "マクドナルド",
-          "score": 98
-        },
-        {
-          "keyword": "yahoo!ニュース",
-          "score": 97
-        },
-        {
-          "keyword": "ニューヨークダウ",
-          "score": 96
-        },
-        {
-          "keyword": "ダム貯水率",
-          "score": 95
-        },
-        {
-          "keyword": "オルカン",
-          "score": 94
-        },
-        {
-          "keyword": "1ドル 円",
-          "score": 93
-        },
-        {
-          "keyword": "ボートレース",
-          "score": 92
-        },
-        {
-          "keyword": "日産",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-10T23:16:53.001Z",
       "geo": "JP",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "tgs",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-14T22:12:09.071Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "カナダとeu",
+          "score": 100
+        },
+        {
+          "keyword": "ガーディアンズ 対 ホワイトソックス",
+          "score": 99
+        },
+        {
+          "keyword": "ios 26.7",
+          "score": 98
+        },
+        {
+          "keyword": "レッズ 対 ドジャース",
+          "score": 97
+        },
+        {
+          "keyword": "安藤誠弥氏",
+          "score": 96
+        },
+        {
+          "keyword": "thời tiết",
+          "score": 95
+        },
+        {
+          "keyword": "姫新線",
+          "score": 94
+        },
+        {
+          "keyword": "熊本天気",
+          "score": 93
+        },
+        {
+          "keyword": "レイエス",
+          "score": 92
+        },
+        {
+          "keyword": "ナスダック100指数",
           "score": 91
         }
       ]
