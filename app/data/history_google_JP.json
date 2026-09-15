@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-11T01:15:10.562Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "浜岡原発",
-          "score": 100
-        },
-        {
-          "keyword": "タイミー 株価",
-          "score": 99
-        },
-        {
-          "keyword": "スペイン",
-          "score": 98
-        },
-        {
-          "keyword": "方言",
-          "score": 97
-        },
-        {
-          "keyword": "高市早苗",
-          "score": 96
-        },
-        {
-          "keyword": "韓国",
-          "score": 95
-        },
-        {
-          "keyword": "フランス",
-          "score": 94
-        },
-        {
-          "keyword": "キオクシア株価",
-          "score": 93
-        },
-        {
-          "keyword": "給食",
-          "score": 92
-        },
-        {
-          "keyword": "ニューヨーク",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-11T06:13:34.677Z",
       "geo": "JP",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "バーミヤン",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-15T05:34:58.690Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "波瑠",
+          "score": 100
+        },
+        {
+          "keyword": "糸井 重里",
+          "score": 99
+        },
+        {
+          "keyword": "飯田祐基",
+          "score": 98
+        },
+        {
+          "keyword": "高齢",
+          "score": 97
+        },
+        {
+          "keyword": "同志社国際高校",
+          "score": 96
+        },
+        {
+          "keyword": "ヘンリー王子",
+          "score": 95
+        },
+        {
+          "keyword": "四国電力送配電",
+          "score": 94
+        },
+        {
+          "keyword": "サブスク",
+          "score": 93
+        },
+        {
+          "keyword": "イ・スジン",
+          "score": 92
+        },
+        {
+          "keyword": "アベンジャーズ/エンドゲーム",
           "score": 91
         }
       ]
