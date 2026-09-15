@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-11T11:36:18.817Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "howard lutnick",
-          "score": 100
-        },
-        {
-          "keyword": "temperature",
-          "score": 99
-        },
-        {
-          "keyword": "how many people died on 9/11",
-          "score": 98
-        },
-        {
-          "keyword": "mta",
-          "score": 97
-        },
-        {
-          "keyword": "shanksville pa",
-          "score": 96
-        },
-        {
-          "keyword": "pentagon",
-          "score": 95
-        },
-        {
-          "keyword": "heather penney",
-          "score": 94
-        },
-        {
-          "keyword": "oil prices",
-          "score": 93
-        },
-        {
-          "keyword": "caitlin clark news",
-          "score": 92
-        },
-        {
-          "keyword": "pete davidson",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-11T15:30:19.004Z",
       "geo": "US",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "zim vs aus",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-15T15:20:48.037Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "voter registration texas",
+          "score": 100
+        },
+        {
+          "keyword": "discord downdetector",
+          "score": 99
+        },
+        {
+          "keyword": "shawn horcoff",
+          "score": 98
+        },
+        {
+          "keyword": "discord",
+          "score": 97
+        },
+        {
+          "keyword": "argentina",
+          "score": 96
+        },
+        {
+          "keyword": "javon walton",
+          "score": 95
+        },
+        {
+          "keyword": "10 year treasury yield",
+          "score": 94
+        },
+        {
+          "keyword": "ind vs afg",
+          "score": 93
+        },
+        {
+          "keyword": "drought",
+          "score": 92
+        },
+        {
+          "keyword": "connor bedard",
           "score": 91
         }
       ]
