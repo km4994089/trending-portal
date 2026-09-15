@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-10T23:16:53.001Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "瀧七海",
-          "score": 100
-        },
-        {
-          "keyword": "fast",
-          "score": 99
-        },
-        {
-          "keyword": "彦摩呂",
-          "score": 98
-        },
-        {
-          "keyword": "熊本天気",
-          "score": 97
-        },
-        {
-          "keyword": "股関節",
-          "score": 96
-        },
-        {
-          "keyword": "剽窃",
-          "score": 95
-        },
-        {
-          "keyword": "欧州中央銀行",
-          "score": 94
-        },
-        {
-          "keyword": "宮古島 天気",
-          "score": 93
-        },
-        {
-          "keyword": "9/11",
-          "score": 92
-        },
-        {
-          "keyword": "シャープ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-11T01:15:10.562Z",
       "geo": "JP",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "ナスダック100指数",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-15T00:44:53.276Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "フランス",
+          "score": 100
+        },
+        {
+          "keyword": "千葉 停電",
+          "score": 99
+        },
+        {
+          "keyword": "レッズ",
+          "score": 98
+        },
+        {
+          "keyword": "テオスカー・ヘルナンデス",
+          "score": 97
+        },
+        {
+          "keyword": "ガソリン",
+          "score": 96
+        },
+        {
+          "keyword": "アベマ",
+          "score": 95
+        },
+        {
+          "keyword": "東名高速 事故",
+          "score": 94
+        },
+        {
+          "keyword": "東西線",
+          "score": 93
+        },
+        {
+          "keyword": "江崎グリコ",
+          "score": 92
+        },
+        {
+          "keyword": "バーミヤン",
           "score": 91
         }
       ]

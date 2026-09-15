@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-10T23:16:51.833Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "카카오모빌리티",
-          "score": 100
-        },
-        {
-          "keyword": "암호화폐",
-          "score": 99
-        },
-        {
-          "keyword": "폴더 블 스마트 폰",
-          "score": 98
-        },
-        {
-          "keyword": "lg에너지솔루션",
-          "score": 97
-        },
-        {
-          "keyword": "노동조합",
-          "score": 96
-        },
-        {
-          "keyword": "thứ hạng của man utd gặp câu lạc bộ bóng đá sabah",
-          "score": 95
-        },
-        {
-          "keyword": "네이버시계",
-          "score": 94
-        },
-        {
-          "keyword": "알 테오 젠",
-          "score": 93
-        },
-        {
-          "keyword": "해리 케인",
-          "score": 92
-        },
-        {
-          "keyword": "화사",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-11T01:15:09.455Z",
       "geo": "KR",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "당구",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-15T00:44:52.183Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lpga",
+          "score": 100
+        },
+        {
+          "keyword": "농구",
+          "score": 99
+        },
+        {
+          "keyword": "이봉원",
+          "score": 98
+        },
+        {
+          "keyword": "맞춤형복지",
+          "score": 97
+        },
+        {
+          "keyword": "아크 인베스트",
+          "score": 96
+        },
+        {
+          "keyword": "novig",
+          "score": 95
+        },
+        {
+          "keyword": "진중권",
+          "score": 94
+        },
+        {
+          "keyword": "문형배",
+          "score": 93
+        },
+        {
+          "keyword": "해협",
+          "score": 92
+        },
+        {
+          "keyword": "맨체스터 유나이티드 fc",
           "score": 91
         }
       ]
