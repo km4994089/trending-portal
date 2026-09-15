@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-11T21:26:20.400Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "고소영",
-          "score": 100
-        },
-        {
-          "keyword": "구글",
-          "score": 99
-        },
-        {
-          "keyword": "커피",
-          "score": 98
-        },
-        {
-          "keyword": "달러",
-          "score": 97
-        },
-        {
-          "keyword": "청바지",
-          "score": 96
-        },
-        {
-          "keyword": "대통령",
-          "score": 95
-        },
-        {
-          "keyword": "홍현희",
-          "score": 94
-        },
-        {
-          "keyword": "부동산 거품",
-          "score": 93
-        },
-        {
-          "keyword": "한지민",
-          "score": 92
-        },
-        {
-          "keyword": "알렉산더 즈베레프",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-11T23:24:41.366Z",
       "geo": "KR",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "양상국",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-15T22:22:46.992Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "수혈",
+          "score": 100
+        },
+        {
+          "keyword": "보스턴다이내믹스",
+          "score": 99
+        },
+        {
+          "keyword": "미사일",
+          "score": 98
+        },
+        {
+          "keyword": "spcx",
+          "score": 97
+        },
+        {
+          "keyword": "나스닥 지수",
+          "score": 96
+        },
+        {
+          "keyword": "한겨레",
+          "score": 95
+        },
+        {
+          "keyword": "롤",
+          "score": 94
+        },
+        {
+          "keyword": "토지거래허가제",
+          "score": 93
+        },
+        {
+          "keyword": "이투데이",
+          "score": 92
+        },
+        {
+          "keyword": "อิปสวิช พบ อาร์เซนอล",
           "score": 91
         }
       ]

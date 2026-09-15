@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-11T21:26:21.804Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大使",
-          "score": 100
-        },
-        {
-          "keyword": "ピート・クロウ=アームストロング",
-          "score": 99
-        },
-        {
-          "keyword": "博多大吉",
-          "score": 98
-        },
-        {
-          "keyword": "アレクサンダー・ズベレフ",
-          "score": 97
-        },
-        {
-          "keyword": "松村 北斗",
-          "score": 96
-        },
-        {
-          "keyword": "政策",
-          "score": 95
-        },
-        {
-          "keyword": "スペイングランプリ",
-          "score": 94
-        },
-        {
-          "keyword": "シドニー・スウィーニー",
-          "score": 93
-        },
-        {
-          "keyword": "ロサンゼルス・ドジャース",
-          "score": 92
-        },
-        {
-          "keyword": "再放送",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-11T23:24:42.800Z",
       "geo": "JP",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "apex",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-15T22:22:47.923Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "thứ hạng của elche gặp real madrid",
+          "score": 100
+        },
+        {
+          "keyword": "航空",
+          "score": 99
+        },
+        {
+          "keyword": "今日天気",
+          "score": 98
+        },
+        {
+          "keyword": "exo-cbx",
+          "score": 97
+        },
+        {
+          "keyword": "thời tiết",
+          "score": 96
+        },
+        {
+          "keyword": "パイレーツ 対 ブルワーズ",
+          "score": 95
+        },
+        {
+          "keyword": "nato",
+          "score": 94
+        },
+        {
+          "keyword": "ミニロト 当選番号速報",
+          "score": 93
+        },
+        {
+          "keyword": "nasdaq fang",
+          "score": 92
+        },
+        {
+          "keyword": "s&p 500",
           "score": 91
         }
       ]
