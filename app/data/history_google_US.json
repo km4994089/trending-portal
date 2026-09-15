@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-11T06:13:32.329Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "josh hartnett",
-          "score": 100
-        },
-        {
-          "keyword": "ted cruz",
-          "score": 99
-        },
-        {
-          "keyword": "downdetector",
-          "score": 98
-        },
-        {
-          "keyword": "vaccines",
-          "score": 97
-        },
-        {
-          "keyword": "vaccinations",
-          "score": 96
-        },
-        {
-          "keyword": "cable tv",
-          "score": 95
-        },
-        {
-          "keyword": "내일 날씨",
-          "score": 94
-        },
-        {
-          "keyword": "aster",
-          "score": 93
-        },
-        {
-          "keyword": "discord waiting for voice server",
-          "score": 92
-        },
-        {
-          "keyword": "gal gadot",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-11T11:36:18.817Z",
       "geo": "US",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "nfl schedule this week",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-15T10:40:21.436Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "petroleum",
+          "score": 100
+        },
+        {
+          "keyword": "iran war hormuz",
+          "score": 99
+        },
+        {
+          "keyword": "below deck med episode 15 review",
+          "score": 98
+        },
+        {
+          "keyword": "weather today",
+          "score": 97
+        },
+        {
+          "keyword": "quantum entanglement",
+          "score": 96
+        },
+        {
+          "keyword": "tyler perry moving to puerto rico",
+          "score": 95
+        },
+        {
+          "keyword": "immigration",
+          "score": 94
+        },
+        {
+          "keyword": "fitness",
+          "score": 93
+        },
+        {
+          "keyword": "stock market today",
+          "score": 92
+        },
+        {
+          "keyword": "zim vs aus",
           "score": 91
         }
       ]

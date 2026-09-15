@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-11T06:13:34.677Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "アカカミアリ",
-          "score": 100
-        },
-        {
-          "keyword": "ダウンタイム",
-          "score": 99
-        },
-        {
-          "keyword": "横綱大関",
-          "score": 98
-        },
-        {
-          "keyword": "u18 野球",
-          "score": 97
-        },
-        {
-          "keyword": "風 薫る シマケン",
-          "score": 96
-        },
-        {
-          "keyword": "原爆",
-          "score": 95
-        },
-        {
-          "keyword": "戦争",
-          "score": 94
-        },
-        {
-          "keyword": "立憲民主党",
-          "score": 93
-        },
-        {
-          "keyword": "マイケルジョーダン",
-          "score": 92
-        },
-        {
-          "keyword": "漏えい",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-11T11:36:21.752Z",
       "geo": "JP",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "アベンジャーズ/エンドゲーム",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-15T10:40:23.746Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "土屋太鳳",
+          "score": 100
+        },
+        {
+          "keyword": "エディボーイ",
+          "score": 99
+        },
+        {
+          "keyword": "美味しんぼ",
+          "score": 98
+        },
+        {
+          "keyword": "dena",
+          "score": 97
+        },
+        {
+          "keyword": "戸郷",
+          "score": 96
+        },
+        {
+          "keyword": "熊元プロレス",
+          "score": 95
+        },
+        {
+          "keyword": "阪神戦",
+          "score": 94
+        },
+        {
+          "keyword": "ガンバ大阪",
+          "score": 93
+        },
+        {
+          "keyword": "吉野家 角 煮",
+          "score": 92
+        },
+        {
+          "keyword": "フェンシング 江村",
           "score": 91
         }
       ]
