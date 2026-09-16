@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-12T21:05:50.784Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "외국인",
-          "score": 100
-        },
-        {
-          "keyword": "홍서범",
-          "score": 99
-        },
-        {
-          "keyword": "sunderland vs arsenal",
-          "score": 98
-        },
-        {
-          "keyword": "real madrid",
-          "score": 97
-        },
-        {
-          "keyword": "us오픈",
-          "score": 96
-        },
-        {
-          "keyword": "아시안 게임",
-          "score": 95
-        },
-        {
-          "keyword": "석유",
-          "score": 94
-        },
-        {
-          "keyword": "real madrid vs rayo vallecano",
-          "score": 93
-        },
-        {
-          "keyword": "공휴일",
-          "score": 92
-        },
-        {
-          "keyword": "이지아",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-12T23:07:13.297Z",
       "geo": "KR",
       "source": "google",
@@ -1173,6 +1126,53 @@
         },
         {
           "keyword": "혈우병",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-16T21:52:31.663Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "삼성 갤럭시",
+          "score": 100
+        },
+        {
+          "keyword": "농심",
+          "score": 99
+        },
+        {
+          "keyword": "밀란 대 벤피카",
+          "score": 98
+        },
+        {
+          "keyword": "후티",
+          "score": 97
+        },
+        {
+          "keyword": "barcelona vs racing santander",
+          "score": 96
+        },
+        {
+          "keyword": "김지민",
+          "score": 95
+        },
+        {
+          "keyword": "hd현대",
+          "score": 94
+        },
+        {
+          "keyword": "แมนยู พบ ไบรตัน",
+          "score": 93
+        },
+        {
+          "keyword": "정준원",
+          "score": 92
+        },
+        {
+          "keyword": "김구라",
           "score": 91
         }
       ]
