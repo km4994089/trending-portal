@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-12T06:00:20.040Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "eduard bazardo",
-          "score": 100
-        },
-        {
-          "keyword": "mason miller",
-          "score": 99
-        },
-        {
-          "keyword": "osaa football",
-          "score": 98
-        },
-        {
-          "keyword": "bryce eldridge",
-          "score": 97
-        },
-        {
-          "keyword": "cillian murphy",
-          "score": 96
-        },
-        {
-          "keyword": "mets yankees game",
-          "score": 95
-        },
-        {
-          "keyword": "lck",
-          "score": 94
-        },
-        {
-          "keyword": "laguna beach",
-          "score": 93
-        },
-        {
-          "keyword": "new movies streaming",
-          "score": 92
-        },
-        {
-          "keyword": "army fitness test",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-12T10:18:21.309Z",
       "geo": "US",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "astros standings",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-16T10:09:42.167Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jelly roll",
+          "score": 100
+        },
+        {
+          "keyword": "tormenta",
+          "score": 99
+        },
+        {
+          "keyword": "terrorism",
+          "score": 98
+        },
+        {
+          "keyword": "weather forecast",
+          "score": 97
+        },
+        {
+          "keyword": "al wild card standings",
+          "score": 96
+        },
+        {
+          "keyword": "al jazeera",
+          "score": 95
+        },
+        {
+          "keyword": "wild card standings",
+          "score": 94
+        },
+        {
+          "keyword": "eugene horsch",
+          "score": 93
+        },
+        {
+          "keyword": "taylor frankie paul",
+          "score": 92
+        },
+        {
+          "keyword": "taylor swift travis kelce",
           "score": 91
         }
       ]

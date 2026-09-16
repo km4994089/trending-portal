@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-12T06:00:21.095Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "치지직",
-          "score": 100
-        },
-        {
-          "keyword": "이범호",
-          "score": 99
-        },
-        {
-          "keyword": "비행기",
-          "score": 98
-        },
-        {
-          "keyword": "경찰",
-          "score": 97
-        },
-        {
-          "keyword": "lck",
-          "score": 96
-        },
-        {
-          "keyword": "궁금한 이야기 y",
-          "score": 95
-        },
-        {
-          "keyword": "오스틴 딘",
-          "score": 94
-        },
-        {
-          "keyword": "사모펀드",
-          "score": 93
-        },
-        {
-          "keyword": "대한민국 과학기술정보통신부",
-          "score": 92
-        },
-        {
-          "keyword": "유가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-12T10:18:22.520Z",
       "geo": "KR",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "롯데월드",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-16T10:09:43.422Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "환율",
+          "score": 100
+        },
+        {
+          "keyword": "군용기",
+          "score": 99
+        },
+        {
+          "keyword": "중산층",
+          "score": 98
+        },
+        {
+          "keyword": "시진핑",
+          "score": 97
+        },
+        {
+          "keyword": "삼성 대 두산",
+          "score": 96
+        },
+        {
+          "keyword": "ตรวจหวย",
+          "score": 95
+        },
+        {
+          "keyword": "ssg 대 롯데",
+          "score": 94
+        },
+        {
+          "keyword": "카를로스 알카라스",
+          "score": 93
+        },
+        {
+          "keyword": "수도권 광역급행철도 b노선",
+          "score": 92
+        },
+        {
+          "keyword": "백일섭",
           "score": 91
         }
       ]
