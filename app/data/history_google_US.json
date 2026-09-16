@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-12T16:37:21.189Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "fox",
-          "score": 100
-        },
-        {
-          "keyword": "capsizing",
-          "score": 99
-        },
-        {
-          "keyword": "netflix cancels ransom canyon",
-          "score": 98
-        },
-        {
-          "keyword": "girona - castellón",
-          "score": 97
-        },
-        {
-          "keyword": "colgate vs central mi",
-          "score": 96
-        },
-        {
-          "keyword": "howard football",
-          "score": 95
-        },
-        {
-          "keyword": "jenny taft",
-          "score": 94
-        },
-        {
-          "keyword": "ut martin vs west virginia",
-          "score": 93
-        },
-        {
-          "keyword": "ac milan",
-          "score": 92
-        },
-        {
-          "keyword": "dario amodei",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-09-12T18:51:59.222Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ncaa football scores",
-          "score": 100
-        },
-        {
-          "keyword": "rice vs notre dame",
-          "score": 99
-        },
-        {
-          "keyword": "kathy hochul",
-          "score": 98
-        },
-        {
-          "keyword": "weber state vs colorado",
-          "score": 97
-        },
-        {
-          "keyword": "carson benge",
-          "score": 96
-        },
-        {
-          "keyword": "eastern mi vs mi state",
-          "score": 95
-        },
-        {
-          "keyword": "duke vs illinois",
-          "score": 94
-        },
-        {
-          "keyword": "paris fc vs ol",
-          "score": 93
-        },
-        {
-          "keyword": "ignacio bahamondes",
-          "score": 92
-        },
-        {
-          "keyword": "ms state vs minnesota",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-12T21:05:49.731Z",
       "geo": "US",
       "source": "google",
@@ -1220,6 +1126,53 @@
         },
         {
           "keyword": "nyt connections hints",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-16T18:58:28.877Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "barcelona vs racing santander",
+          "score": 100
+        },
+        {
+          "keyword": "jordan mason",
+          "score": 99
+        },
+        {
+          "keyword": "levante - athletic",
+          "score": 98
+        },
+        {
+          "keyword": "s&p 500",
+          "score": 97
+        },
+        {
+          "keyword": "s and p 500",
+          "score": 96
+        },
+        {
+          "keyword": "30 year mortgage rates",
+          "score": 95
+        },
+        {
+          "keyword": "wsj",
+          "score": 94
+        },
+        {
+          "keyword": "qqq stock",
+          "score": 93
+        },
+        {
+          "keyword": "guardians",
+          "score": 92
+        },
+        {
+          "keyword": "qqq",
           "score": 91
         }
       ]
