@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-12T01:17:56.929Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "文春",
-          "score": 100
-        },
-        {
-          "keyword": "劇団四季",
-          "score": 99
-        },
-        {
-          "keyword": "宝くじ ロト7当選番号",
-          "score": 98
-        },
-        {
-          "keyword": "dバックス 対 レンジャーズ",
-          "score": 97
-        },
-        {
-          "keyword": "nep vs uae",
-          "score": 96
-        },
-        {
-          "keyword": "ハーラル5世",
-          "score": 95
-        },
-        {
-          "keyword": "ランネット",
-          "score": 94
-        },
-        {
-          "keyword": "台風 熱帯低気圧",
-          "score": 93
-        },
-        {
-          "keyword": "ブラッククローバー",
-          "score": 92
-        },
-        {
-          "keyword": "ブルワーズ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-12T06:00:22.272Z",
       "geo": "JP",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "ブルワーズ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-16T05:28:11.003Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "愛子内親王",
+          "score": 100
+        },
+        {
+          "keyword": "大学入試センター",
+          "score": 99
+        },
+        {
+          "keyword": "診断",
+          "score": 98
+        },
+        {
+          "keyword": "東京ドーム イベント",
+          "score": 97
+        },
+        {
+          "keyword": "村竹ラシッド",
+          "score": 96
+        },
+        {
+          "keyword": "柳沢慎吾",
+          "score": 95
+        },
+        {
+          "keyword": "めざましテレビ",
+          "score": 94
+        },
+        {
+          "keyword": "岩手日報",
+          "score": 93
+        },
+        {
+          "keyword": "マックルモア",
+          "score": 92
+        },
+        {
+          "keyword": "全日本 空輸",
           "score": 91
         }
       ]
