@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-13T16:31:14.945Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "enzo fernández",
-          "score": 100
-        },
-        {
-          "keyword": "fox sports",
-          "score": 99
-        },
-        {
-          "keyword": "cj stroud",
-          "score": 98
-        },
-        {
-          "keyword": "landon robinson",
-          "score": 97
-        },
-        {
-          "keyword": "buccaneers vs bengals",
-          "score": 96
-        },
-        {
-          "keyword": "rams schedule",
-          "score": 95
-        },
-        {
-          "keyword": "man u",
-          "score": 94
-        },
-        {
-          "keyword": "hailee steinfeld",
-          "score": 93
-        },
-        {
-          "keyword": "browns vs jaguars",
-          "score": 92
-        },
-        {
-          "keyword": "phil foden",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-13T19:05:49.360Z",
       "geo": "US",
       "source": "google",
@@ -1173,6 +1126,53 @@
         },
         {
           "keyword": "highmark stadium",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-17T17:51:32.001Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kyle tucker",
+          "score": 100
+        },
+        {
+          "keyword": "guatemala",
+          "score": 99
+        },
+        {
+          "keyword": "brain eating amoeba",
+          "score": 98
+        },
+        {
+          "keyword": "eng vs sl",
+          "score": 97
+        },
+        {
+          "keyword": "israel iran war",
+          "score": 96
+        },
+        {
+          "keyword": "sway",
+          "score": 95
+        },
+        {
+          "keyword": "tay keith",
+          "score": 94
+        },
+        {
+          "keyword": "dodgers - reds",
+          "score": 93
+        },
+        {
+          "keyword": "jon kyl",
+          "score": 92
+        },
+        {
+          "keyword": "real betis - getafe",
           "score": 91
         }
       ]
