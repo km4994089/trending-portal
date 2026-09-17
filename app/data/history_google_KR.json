@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-13T21:30:40.380Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "이동국",
-          "score": 100
-        },
-        {
-          "keyword": "김주애",
-          "score": 99
-        },
-        {
-          "keyword": "알테오젠",
-          "score": 98
-        },
-        {
-          "keyword": "하석진",
-          "score": 97
-        },
-        {
-          "keyword": "대한민국의 대법관",
-          "score": 96
-        },
-        {
-          "keyword": "오스틴 딘",
-          "score": 95
-        },
-        {
-          "keyword": "개",
-          "score": 94
-        },
-        {
-          "keyword": "공소청",
-          "score": 93
-        },
-        {
-          "keyword": "벤 셸턴",
-          "score": 92
-        },
-        {
-          "keyword": "스포츠중계",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-13T23:22:24.250Z",
       "geo": "KR",
       "source": "google",
@@ -1173,6 +1126,53 @@
         },
         {
           "keyword": "아스트라에 오라티오",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-17T23:15:10.007Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "사노피",
+          "score": 100
+        },
+        {
+          "keyword": "삼성 갤럭시 z 폴드 8",
+          "score": 99
+        },
+        {
+          "keyword": "날씨",
+          "score": 98
+        },
+        {
+          "keyword": "ionq",
+          "score": 97
+        },
+        {
+          "keyword": "김서현",
+          "score": 96
+        },
+        {
+          "keyword": "블레이크 스넬",
+          "score": 95
+        },
+        {
+          "keyword": "weather",
+          "score": 94
+        },
+        {
+          "keyword": "vix",
+          "score": 93
+        },
+        {
+          "keyword": "погода",
+          "score": 92
+        },
+        {
+          "keyword": "qqq",
           "score": 91
         }
       ]
