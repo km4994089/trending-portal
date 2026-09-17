@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-13T06:24:36.842Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "hawaii",
-          "score": 100
-        },
-        {
-          "keyword": "jessica alba",
-          "score": 99
-        },
-        {
-          "keyword": "leslie jones",
-          "score": 98
-        },
-        {
-          "keyword": "óscar perea",
-          "score": 97
-        },
-        {
-          "keyword": "tyler perry",
-          "score": 96
-        },
-        {
-          "keyword": "miguel borja",
-          "score": 95
-        },
-        {
-          "keyword": "cole young",
-          "score": 94
-        },
-        {
-          "keyword": "wendy williams",
-          "score": 93
-        },
-        {
-          "keyword": "henry cavill",
-          "score": 92
-        },
-        {
-          "keyword": "mariners - athletics",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-13T12:09:51.268Z",
       "geo": "US",
       "source": "google",
@@ -1173,6 +1126,53 @@
         },
         {
           "keyword": "fox business",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-17T08:47:39.078Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "swimming",
+          "score": 100
+        },
+        {
+          "keyword": "needham ma",
+          "score": 99
+        },
+        {
+          "keyword": "national cheeseburger day",
+          "score": 98
+        },
+        {
+          "keyword": "botox",
+          "score": 97
+        },
+        {
+          "keyword": "daycare center",
+          "score": 96
+        },
+        {
+          "keyword": "canada european union",
+          "score": 95
+        },
+        {
+          "keyword": "accident lawyer",
+          "score": 94
+        },
+        {
+          "keyword": "30th celebration pokemon cards",
+          "score": 93
+        },
+        {
+          "keyword": "thema",
+          "score": 92
+        },
+        {
+          "keyword": "where to watch nfl games",
           "score": 91
         }
       ]
