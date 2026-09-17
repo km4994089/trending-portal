@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-13T01:14:04.746Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "지예은",
-          "score": 100
-        },
-        {
-          "keyword": "지방 공항",
-          "score": 99
-        },
-        {
-          "keyword": "필리스 대 브레이브스",
-          "score": 98
-        },
-        {
-          "keyword": "김상식",
-          "score": 97
-        },
-        {
-          "keyword": "김가은",
-          "score": 96
-        },
-        {
-          "keyword": "캔자스시티 대 엘에이 fc",
-          "score": 95
-        },
-        {
-          "keyword": "inter miami vs nashville",
-          "score": 94
-        },
-        {
-          "keyword": "최윤지",
-          "score": 93
-        },
-        {
-          "keyword": "이필모",
-          "score": 92
-        },
-        {
-          "keyword": "파블로 바리오스",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-13T06:24:38.002Z",
       "geo": "KR",
       "source": "google",
@@ -1173,6 +1126,53 @@
         },
         {
           "keyword": "kf-21 보라매",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-17T03:11:28.571Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "부산국제영화제",
+          "score": 100
+        },
+        {
+          "keyword": "pca",
+          "score": 99
+        },
+        {
+          "keyword": "fifa u 20 여자 월드컵",
+          "score": 98
+        },
+        {
+          "keyword": "신원식",
+          "score": 97
+        },
+        {
+          "keyword": "윤여정",
+          "score": 96
+        },
+        {
+          "keyword": "고영욱",
+          "score": 95
+        },
+        {
+          "keyword": "대학 입시",
+          "score": 94
+        },
+        {
+          "keyword": "테크볼",
+          "score": 93
+        },
+        {
+          "keyword": "inter miami vs cruz azul",
+          "score": 92
+        },
+        {
+          "keyword": "jev",
           "score": 91
         }
       ]
