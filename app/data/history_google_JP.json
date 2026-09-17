@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-13T19:05:51.836Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "psv 対 スパルタ",
-          "score": 100
-        },
-        {
-          "keyword": "ソシエダ",
-          "score": 99
-        },
-        {
-          "keyword": "ブレスト 対 パリsg",
-          "score": 98
-        },
-        {
-          "keyword": "氷川きよし",
-          "score": 97
-        },
-        {
-          "keyword": "ツインズ 対 ガーディアンズ",
-          "score": 96
-        },
-        {
-          "keyword": "us open",
-          "score": 95
-        },
-        {
-          "keyword": "ムーキー・ベッツ",
-          "score": 94
-        },
-        {
-          "keyword": "ソシエダ 対 アトレティコ",
-          "score": 93
-        },
-        {
-          "keyword": "ホスエ・デポーラ",
-          "score": 92
-        },
-        {
-          "keyword": "アレックス・フリーランド",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-13T21:30:42.299Z",
       "geo": "JP",
       "source": "google",
@@ -1173,6 +1126,53 @@
         },
         {
           "keyword": "bts world tour arirang",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-17T20:44:28.557Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "年金",
+          "score": 100
+        },
+        {
+          "keyword": "メジャーリーグベースボール",
+          "score": 99
+        },
+        {
+          "keyword": "アトランタ・ブレーブス",
+          "score": 98
+        },
+        {
+          "keyword": "習近平",
+          "score": 97
+        },
+        {
+          "keyword": "メジャーリーグ",
+          "score": 96
+        },
+        {
+          "keyword": "クリスタルパレス",
+          "score": 95
+        },
+        {
+          "keyword": "ドジャース",
+          "score": 94
+        },
+        {
+          "keyword": "ドジャース 試合",
+          "score": 93
+        },
+        {
+          "keyword": "映画 ちい かわ 人魚 の 島 の ひみつ",
+          "score": 92
+        },
+        {
+          "keyword": "ios27 不具合",
           "score": 91
         }
       ]
