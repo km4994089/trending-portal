@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-14T13:29:02.999Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nytimes",
-          "score": 100
-        },
-        {
-          "keyword": "ke huy quan",
-          "score": 99
-        },
-        {
-          "keyword": "salma hayek",
-          "score": 98
-        },
-        {
-          "keyword": "current events",
-          "score": 97
-        },
-        {
-          "keyword": "saudi arabia",
-          "score": 96
-        },
-        {
-          "keyword": "epstein files",
-          "score": 95
-        },
-        {
-          "keyword": "iran war",
-          "score": 94
-        },
-        {
-          "keyword": "king charles letter about harry and meghan",
-          "score": 93
-        },
-        {
-          "keyword": "gma deals and steals",
-          "score": 92
-        },
-        {
-          "keyword": "mrvl stock",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-14T18:48:26.281Z",
       "geo": "US",
       "source": "google",
@@ -1173,6 +1126,53 @@
         },
         {
           "keyword": "princess charlene",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-18T15:25:40.181Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kerry kennedy",
+          "score": 100
+        },
+        {
+          "keyword": "taylor lewan",
+          "score": 99
+        },
+        {
+          "keyword": "sara haines",
+          "score": 98
+        },
+        {
+          "keyword": "keyonte george",
+          "score": 97
+        },
+        {
+          "keyword": "meghan markle news",
+          "score": 96
+        },
+        {
+          "keyword": "san antonio weather",
+          "score": 95
+        },
+        {
+          "keyword": "davis cup",
+          "score": 94
+        },
+        {
+          "keyword": "barely breathing",
+          "score": 93
+        },
+        {
+          "keyword": "riot fest",
+          "score": 92
+        },
+        {
+          "keyword": "tom bateman",
           "score": 91
         }
       ]
