@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-14T18:48:28.580Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "あさ イチ クレーム",
-          "score": 100
-        },
-        {
-          "keyword": "steam frame",
-          "score": 99
-        },
-        {
-          "keyword": "トリノ 対 ローマ",
-          "score": 98
-        },
-        {
-          "keyword": "鈴木亮平",
-          "score": 97
-        },
-        {
-          "keyword": "hyrox",
-          "score": 96
-        },
-        {
-          "keyword": "valorant",
-          "score": 95
-        },
-        {
-          "keyword": "厚生労働省",
-          "score": 94
-        },
-        {
-          "keyword": "広島 警報",
-          "score": 93
-        },
-        {
-          "keyword": "高田繁",
-          "score": 92
-        },
-        {
-          "keyword": "tgs",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-14T22:12:09.071Z",
       "geo": "JP",
       "source": "google",
@@ -1220,6 +1173,53 @@
         },
         {
           "keyword": "レートチェック",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-18T21:21:39.024Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ナスダック100指数",
+          "score": 100
+        },
+        {
+          "keyword": "ザ ロイヤルファミリー",
+          "score": 99
+        },
+        {
+          "keyword": "オールカマー 2026",
+          "score": 98
+        },
+        {
+          "keyword": "マルウェア",
+          "score": 97
+        },
+        {
+          "keyword": "エスパニョール 対 エルチェ",
+          "score": 96
+        },
+        {
+          "keyword": "暖冬",
+          "score": 95
+        },
+        {
+          "keyword": "新幹線予約",
+          "score": 94
+        },
+        {
+          "keyword": "ベロ毒素",
+          "score": 93
+        },
+        {
+          "keyword": "bayern vs union berlin",
+          "score": 92
+        },
+        {
+          "keyword": "大の里泰輝",
           "score": 91
         }
       ]

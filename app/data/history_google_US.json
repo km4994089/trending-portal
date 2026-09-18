@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-14T18:48:26.281Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "espn college gameday politics",
-          "score": 100
-        },
-        {
-          "keyword": "general hospital",
-          "score": 99
-        },
-        {
-          "keyword": "leeds vs newcastle",
-          "score": 98
-        },
-        {
-          "keyword": "golden state warriors",
-          "score": 97
-        },
-        {
-          "keyword": "dan orlovsky",
-          "score": 96
-        },
-        {
-          "keyword": "villarreal - real betis",
-          "score": 95
-        },
-        {
-          "keyword": "amal clooney baria alamuddin athens airport",
-          "score": 94
-        },
-        {
-          "keyword": "steve sarkisian holly rowe espn interview",
-          "score": 93
-        },
-        {
-          "keyword": "wfla",
-          "score": 92
-        },
-        {
-          "keyword": "inter vs udinese",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-14T22:12:06.974Z",
       "geo": "US",
       "source": "google",
@@ -1220,6 +1173,53 @@
         },
         {
           "keyword": "alavés gloriosas - barcelona",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-18T21:21:36.372Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "dow jones industrial average",
+          "score": 100
+        },
+        {
+          "keyword": "wake forest football",
+          "score": 99
+        },
+        {
+          "keyword": "antonio pemberton",
+          "score": 98
+        },
+        {
+          "keyword": "peso mexicano",
+          "score": 97
+        },
+        {
+          "keyword": "u.s. 101",
+          "score": 96
+        },
+        {
+          "keyword": "bayern munich vs union berlin standings",
+          "score": 95
+        },
+        {
+          "keyword": "wil traval",
+          "score": 94
+        },
+        {
+          "keyword": "sarah huckabee sanders",
+          "score": 93
+        },
+        {
+          "keyword": "gerrit graham",
+          "score": 92
+        },
+        {
+          "keyword": "texans depth chart",
           "score": 91
         }
       ]
