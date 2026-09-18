@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-14T06:34:39.665Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "자전거",
-          "score": 100
-        },
-        {
-          "keyword": "나성범",
-          "score": 99
-        },
-        {
-          "keyword": "축제",
-          "score": 98
-        },
-        {
-          "keyword": "공효진",
-          "score": 97
-        },
-        {
-          "keyword": "윤건영",
-          "score": 96
-        },
-        {
-          "keyword": "대형주",
-          "score": 95
-        },
-        {
-          "keyword": "세무조사",
-          "score": 94
-        },
-        {
-          "keyword": "이봉주",
-          "score": 93
-        },
-        {
-          "keyword": "배우",
-          "score": 92
-        },
-        {
-          "keyword": "여객기",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-14T13:29:04.283Z",
       "geo": "KR",
       "source": "google",
@@ -1173,6 +1126,53 @@
         },
         {
           "keyword": "운동",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-18T11:32:22.082Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "넷플릭스 스캔들",
+          "score": 100
+        },
+        {
+          "keyword": "리센느빵",
+          "score": 99
+        },
+        {
+          "keyword": "xsmn",
+          "score": 98
+        },
+        {
+          "keyword": "박유나",
+          "score": 97
+        },
+        {
+          "keyword": "구윤철",
+          "score": 96
+        },
+        {
+          "keyword": "kfa",
+          "score": 95
+        },
+        {
+          "keyword": "무",
+          "score": 94
+        },
+        {
+          "keyword": "에코프로 비엠",
+          "score": 93
+        },
+        {
+          "keyword": "아시안게임 일정",
+          "score": 92
+        },
+        {
+          "keyword": "레지던트 이블: 0번째 밤",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-14T06:34:40.731Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "オリエンタルランド",
-          "score": 100
-        },
-        {
-          "keyword": "田原総一朗",
-          "score": 99
-        },
-        {
-          "keyword": "いちご新聞",
-          "score": 98
-        },
-        {
-          "keyword": "三浦綾子",
-          "score": 97
-        },
-        {
-          "keyword": "映画ちいかわ 人魚の島のひみつ",
-          "score": 96
-        },
-        {
-          "keyword": "古賀紗理那",
-          "score": 95
-        },
-        {
-          "keyword": "爆笑問題",
-          "score": 94
-        },
-        {
-          "keyword": "フレディ フリーマン",
-          "score": 93
-        },
-        {
-          "keyword": "松本 伊代",
-          "score": 92
-        },
-        {
-          "keyword": "パンチ佐藤",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-14T13:29:05.387Z",
       "geo": "JP",
       "source": "google",
@@ -1173,6 +1126,53 @@
         },
         {
           "keyword": "給食",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-18T11:32:23.332Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "阪神 対 広島",
+          "score": 100
+        },
+        {
+          "keyword": "巨人",
+          "score": 99
+        },
+        {
+          "keyword": "サイ・ヤング賞",
+          "score": 98
+        },
+        {
+          "keyword": "スタバ 値上げ",
+          "score": 97
+        },
+        {
+          "keyword": "ハンターハンター 一番くじ",
+          "score": 96
+        },
+        {
+          "keyword": "中村奨成",
+          "score": 95
+        },
+        {
+          "keyword": "ロアッソ熊本",
+          "score": 94
+        },
+        {
+          "keyword": "山田孝之",
+          "score": 93
+        },
+        {
+          "keyword": "張凌赫",
+          "score": 92
+        },
+        {
+          "keyword": "松本 明子",
           "score": 91
         }
       ]
