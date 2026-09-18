@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-14T22:12:07.929Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "백신",
-          "score": 100
-        },
-        {
-          "keyword": "삼성물산",
-          "score": 99
-        },
-        {
-          "keyword": "통합특별시",
-          "score": 98
-        },
-        {
-          "keyword": "아크인베스트",
-          "score": 97
-        },
-        {
-          "keyword": "우도",
-          "score": 96
-        },
-        {
-          "keyword": "김구라",
-          "score": 95
-        },
-        {
-          "keyword": "창신메모리테크놀로지",
-          "score": 94
-        },
-        {
-          "keyword": "이다해",
-          "score": 93
-        },
-        {
-          "keyword": "홍석천",
-          "score": 92
-        },
-        {
-          "keyword": "당구",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-15T00:44:52.183Z",
       "geo": "KR",
       "source": "google",
@@ -1220,6 +1173,53 @@
         },
         {
           "keyword": "주한 미군 사령관",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-18T23:25:07.091Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "상어",
+          "score": 100
+        },
+        {
+          "keyword": "해군",
+          "score": 99
+        },
+        {
+          "keyword": "brentford f.c. vs chelsea f.c. standings",
+          "score": 98
+        },
+        {
+          "keyword": "단풍",
+          "score": 97
+        },
+        {
+          "keyword": "강남",
+          "score": 96
+        },
+        {
+          "keyword": "박재홍",
+          "score": 95
+        },
+        {
+          "keyword": "초과근무",
+          "score": 94
+        },
+        {
+          "keyword": "vix",
+          "score": 93
+        },
+        {
+          "keyword": "대한체육회",
+          "score": 92
+        },
+        {
+          "keyword": "중대범죄수사청",
           "score": 91
         }
       ]

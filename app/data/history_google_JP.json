@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-14T22:12:09.071Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "カナダとeu",
-          "score": 100
-        },
-        {
-          "keyword": "ガーディアンズ 対 ホワイトソックス",
-          "score": 99
-        },
-        {
-          "keyword": "ios 26.7",
-          "score": 98
-        },
-        {
-          "keyword": "レッズ 対 ドジャース",
-          "score": 97
-        },
-        {
-          "keyword": "安藤誠弥氏",
-          "score": 96
-        },
-        {
-          "keyword": "thời tiết",
-          "score": 95
-        },
-        {
-          "keyword": "姫新線",
-          "score": 94
-        },
-        {
-          "keyword": "熊本天気",
-          "score": 93
-        },
-        {
-          "keyword": "レイエス",
-          "score": 92
-        },
-        {
-          "keyword": "ナスダック100指数",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-15T00:44:53.276Z",
       "geo": "JP",
       "source": "google",
@@ -1220,6 +1173,53 @@
         },
         {
           "keyword": "大の里泰輝",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-18T23:25:08.156Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "幕張メッセ イベント",
+          "score": 100
+        },
+        {
+          "keyword": "グリーンランド",
+          "score": 99
+        },
+        {
+          "keyword": "鈴木新彩",
+          "score": 98
+        },
+        {
+          "keyword": "サタプラ",
+          "score": 97
+        },
+        {
+          "keyword": "メッツ 対 フィリーズ",
+          "score": 96
+        },
+        {
+          "keyword": "吉田正尚",
+          "score": 95
+        },
+        {
+          "keyword": "細野豪志復興大臣",
+          "score": 94
+        },
+        {
+          "keyword": "目黒蓮 帰国",
+          "score": 93
+        },
+        {
+          "keyword": "鈴木亮平",
+          "score": 92
+        },
+        {
+          "keyword": "dcm",
           "score": 91
         }
       ]
