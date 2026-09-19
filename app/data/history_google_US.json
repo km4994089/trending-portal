@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-15T10:40:21.436Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "petroleum",
-          "score": 100
-        },
-        {
-          "keyword": "iran war hormuz",
-          "score": 99
-        },
-        {
-          "keyword": "below deck med episode 15 review",
-          "score": 98
-        },
-        {
-          "keyword": "weather today",
-          "score": 97
-        },
-        {
-          "keyword": "quantum entanglement",
-          "score": 96
-        },
-        {
-          "keyword": "tyler perry moving to puerto rico",
-          "score": 95
-        },
-        {
-          "keyword": "immigration",
-          "score": 94
-        },
-        {
-          "keyword": "fitness",
-          "score": 93
-        },
-        {
-          "keyword": "stock market today",
-          "score": 92
-        },
-        {
-          "keyword": "zim vs aus",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-15T15:20:48.037Z",
       "geo": "US",
       "source": "google",
@@ -1220,6 +1173,53 @@
         },
         {
           "keyword": "pluto tv",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-19T11:16:30.964Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "accident attorney",
+          "score": 100
+        },
+        {
+          "keyword": "dp world tour",
+          "score": 99
+        },
+        {
+          "keyword": "news education",
+          "score": 98
+        },
+        {
+          "keyword": "weather travel",
+          "score": 97
+        },
+        {
+          "keyword": "al east standings",
+          "score": 96
+        },
+        {
+          "keyword": "chicago weather",
+          "score": 95
+        },
+        {
+          "keyword": "huffpost",
+          "score": 94
+        },
+        {
+          "keyword": "savings",
+          "score": 93
+        },
+        {
+          "keyword": "news science",
+          "score": 92
+        },
+        {
+          "keyword": "sports market",
           "score": 91
         }
       ]

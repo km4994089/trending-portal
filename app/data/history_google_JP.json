@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-15T10:40:23.746Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "土屋太鳳",
-          "score": 100
-        },
-        {
-          "keyword": "エディボーイ",
-          "score": 99
-        },
-        {
-          "keyword": "美味しんぼ",
-          "score": 98
-        },
-        {
-          "keyword": "dena",
-          "score": 97
-        },
-        {
-          "keyword": "戸郷",
-          "score": 96
-        },
-        {
-          "keyword": "熊元プロレス",
-          "score": 95
-        },
-        {
-          "keyword": "阪神戦",
-          "score": 94
-        },
-        {
-          "keyword": "ガンバ大阪",
-          "score": 93
-        },
-        {
-          "keyword": "吉野家 角 煮",
-          "score": 92
-        },
-        {
-          "keyword": "フェンシング 江村",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-15T15:20:50.204Z",
       "geo": "JP",
       "source": "google",
@@ -1220,6 +1173,53 @@
         },
         {
           "keyword": "エホバの証人",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-19T11:16:33.064Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "j1 順位",
+          "score": 100
+        },
+        {
+          "keyword": "カズレーザー",
+          "score": 99
+        },
+        {
+          "keyword": "ヴィファーレン",
+          "score": 98
+        },
+        {
+          "keyword": "名探偵プリキュア 映画",
+          "score": 97
+        },
+        {
+          "keyword": "鹿島アントラーズ",
+          "score": 96
+        },
+        {
+          "keyword": "ラグビー",
+          "score": 95
+        },
+        {
+          "keyword": "ファジアーノ",
+          "score": 94
+        },
+        {
+          "keyword": "那須川龍心",
+          "score": 93
+        },
+        {
+          "keyword": "サンフレ",
+          "score": 92
+        },
+        {
+          "keyword": "浦和レッズ",
           "score": 91
         }
       ]

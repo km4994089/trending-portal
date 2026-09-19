@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-15T10:40:22.323Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "롯데 대 삼성",
-          "score": 100
-        },
-        {
-          "keyword": "매매",
-          "score": 99
-        },
-        {
-          "keyword": "브라이언 암스트롱",
-          "score": 98
-        },
-        {
-          "keyword": "소유진",
-          "score": 97
-        },
-        {
-          "keyword": "미국 의 재무부 장관",
-          "score": 96
-        },
-        {
-          "keyword": "kt 대 한화",
-          "score": 95
-        },
-        {
-          "keyword": "lg 대 nc",
-          "score": 94
-        },
-        {
-          "keyword": "마라톤",
-          "score": 93
-        },
-        {
-          "keyword": "cgv",
-          "score": 92
-        },
-        {
-          "keyword": "부정승차",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-15T15:20:49.024Z",
       "geo": "KR",
       "source": "google",
@@ -1220,6 +1173,53 @@
         },
         {
           "keyword": "김수현",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-19T11:16:31.979Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "아프리카",
+          "score": 100
+        },
+        {
+          "keyword": "아시안게임",
+          "score": 99
+        },
+        {
+          "keyword": "나고야",
+          "score": 98
+        },
+        {
+          "keyword": "라이엇",
+          "score": 97
+        },
+        {
+          "keyword": "넥슨",
+          "score": 96
+        },
+        {
+          "keyword": "프로야구",
+          "score": 95
+        },
+        {
+          "keyword": "roblox",
+          "score": 94
+        },
+        {
+          "keyword": "살림하는 남자들",
+          "score": 93
+        },
+        {
+          "keyword": "축의금",
+          "score": 92
+        },
+        {
+          "keyword": "아시안게임 롤",
           "score": 91
         }
       ]
