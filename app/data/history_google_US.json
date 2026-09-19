@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-15T19:07:37.713Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "thomas matthew crooks",
-          "score": 100
-        },
-        {
-          "keyword": "rebate",
-          "score": 99
-        },
-        {
-          "keyword": "elche c. f. - real madrid",
-          "score": 98
-        },
-        {
-          "keyword": "ipswich town vs arsenal",
-          "score": 97
-        },
-        {
-          "keyword": "todd blanche",
-          "score": 96
-        },
-        {
-          "keyword": "ajax vs willem ii",
-          "score": 95
-        },
-        {
-          "keyword": "posiciones de al ain contra al-nassr",
-          "score": 94
-        },
-        {
-          "keyword": "yuri nakamura",
-          "score": 93
-        },
-        {
-          "keyword": "reading vs brentford",
-          "score": 92
-        },
-        {
-          "keyword": "wedding",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-15T22:22:45.820Z",
       "geo": "US",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "isu football",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-19T19:45:29.740Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "usc vs rutgers",
+          "score": 100
+        },
+        {
+          "keyword": "ms state football",
+          "score": 99
+        },
+        {
+          "keyword": "barcelona",
+          "score": 98
+        },
+        {
+          "keyword": "kentucky vs texas a&m",
+          "score": 97
+        },
+        {
+          "keyword": "barca game",
+          "score": 96
+        },
+        {
+          "keyword": "barca vs",
+          "score": 95
+        },
+        {
+          "keyword": "smu vs louisville",
+          "score": 94
+        },
+        {
+          "keyword": "toledo football",
+          "score": 93
+        },
+        {
+          "keyword": "florida state vs alabama",
+          "score": 92
+        },
+        {
+          "keyword": "villanova football",
           "score": 91
         }
       ]
