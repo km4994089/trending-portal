@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-15T05:34:56.450Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kurt warner",
-          "score": 100
-        },
-        {
-          "keyword": "tennis scores today",
-          "score": 99
-        },
-        {
-          "keyword": "corbin carroll",
-          "score": 98
-        },
-        {
-          "keyword": "cryptocurrency trading",
-          "score": 97
-        },
-        {
-          "keyword": "artificial intelligence news",
-          "score": 96
-        },
-        {
-          "keyword": "what is a data breach",
-          "score": 95
-        },
-        {
-          "keyword": "kaia gerber",
-          "score": 94
-        },
-        {
-          "keyword": "latest iphone rumors",
-          "score": 93
-        },
-        {
-          "keyword": "netflix top movies right now",
-          "score": 92
-        },
-        {
-          "keyword": "nfl schedule this week",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-15T10:40:21.436Z",
       "geo": "US",
       "source": "google",
@@ -1220,6 +1173,53 @@
         },
         {
           "keyword": "mauricio dubon",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-19T06:07:20.566Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "japan",
+          "score": 100
+        },
+        {
+          "keyword": "will smith",
+          "score": 99
+        },
+        {
+          "keyword": "edwin diaz",
+          "score": 98
+        },
+        {
+          "keyword": "convenience store",
+          "score": 97
+        },
+        {
+          "keyword": "diesel fuel",
+          "score": 96
+        },
+        {
+          "keyword": "gas",
+          "score": 95
+        },
+        {
+          "keyword": "fuel",
+          "score": 94
+        },
+        {
+          "keyword": "betmgm sportsbook",
+          "score": 93
+        },
+        {
+          "keyword": "betmgm",
+          "score": 92
+        },
+        {
+          "keyword": "pluto tv",
           "score": 91
         }
       ]

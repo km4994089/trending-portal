@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-15T05:34:57.679Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "기영식",
-          "score": 100
-        },
-        {
-          "keyword": "초과근무",
-          "score": 99
-        },
-        {
-          "keyword": "윤동희",
-          "score": 98
-        },
-        {
-          "keyword": "경기남부",
-          "score": 97
-        },
-        {
-          "keyword": "뉴욕 양키스",
-          "score": 96
-        },
-        {
-          "keyword": "안젤리나 졸리",
-          "score": 95
-        },
-        {
-          "keyword": "삼성 엑시노스",
-          "score": 94
-        },
-        {
-          "keyword": "서동주",
-          "score": 93
-        },
-        {
-          "keyword": "스포츠",
-          "score": 92
-        },
-        {
-          "keyword": "김승원",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-15T10:40:22.323Z",
       "geo": "KR",
       "source": "google",
@@ -1220,6 +1173,53 @@
         },
         {
           "keyword": "필리조선소",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-19T06:07:21.876Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "대한민국의 법무부 장관",
+          "score": 100
+        },
+        {
+          "keyword": "네이버",
+          "score": 99
+        },
+        {
+          "keyword": "이정후",
+          "score": 98
+        },
+        {
+          "keyword": "拓元",
+          "score": 97
+        },
+        {
+          "keyword": "서효림",
+          "score": 96
+        },
+        {
+          "keyword": "원자폭탄",
+          "score": 95
+        },
+        {
+          "keyword": "유튜브",
+          "score": 94
+        },
+        {
+          "keyword": "구글",
+          "score": 93
+        },
+        {
+          "keyword": "윤석열",
+          "score": 92
+        },
+        {
+          "keyword": "김수현",
           "score": 91
         }
       ]

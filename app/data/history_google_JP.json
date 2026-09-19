@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-15T05:34:58.690Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "波瑠",
-          "score": 100
-        },
-        {
-          "keyword": "糸井 重里",
-          "score": 99
-        },
-        {
-          "keyword": "飯田祐基",
-          "score": 98
-        },
-        {
-          "keyword": "高齢",
-          "score": 97
-        },
-        {
-          "keyword": "同志社国際高校",
-          "score": 96
-        },
-        {
-          "keyword": "ヘンリー王子",
-          "score": 95
-        },
-        {
-          "keyword": "四国電力送配電",
-          "score": 94
-        },
-        {
-          "keyword": "サブスク",
-          "score": 93
-        },
-        {
-          "keyword": "イ・スジン",
-          "score": 92
-        },
-        {
-          "keyword": "アベンジャーズ/エンドゲーム",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-15T10:40:23.746Z",
       "geo": "JP",
       "source": "google",
@@ -1220,6 +1173,53 @@
         },
         {
           "keyword": "玉城 デニー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-19T06:07:22.768Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "篠塚",
+          "score": 100
+        },
+        {
+          "keyword": "巨人 対 中日",
+          "score": 99
+        },
+        {
+          "keyword": "美味しんぼ",
+          "score": 98
+        },
+        {
+          "keyword": "高市内閣支持率",
+          "score": 97
+        },
+        {
+          "keyword": "anaオープン",
+          "score": 96
+        },
+        {
+          "keyword": "中央銀行",
+          "score": 95
+        },
+        {
+          "keyword": "中村敬斗",
+          "score": 94
+        },
+        {
+          "keyword": "木梨憲武",
+          "score": 93
+        },
+        {
+          "keyword": "エドウィン・ディアス",
+          "score": 92
+        },
+        {
+          "keyword": "エホバの証人",
           "score": 91
         }
       ]
