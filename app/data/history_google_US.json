@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-15T00:44:51.366Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "rhea seehorn",
-          "score": 100
-        },
-        {
-          "keyword": "león - san luis",
-          "score": 99
-        },
-        {
-          "keyword": "fubo",
-          "score": 98
-        },
-        {
-          "keyword": "zendaya",
-          "score": 97
-        },
-        {
-          "keyword": "pluribus season 2",
-          "score": 96
-        },
-        {
-          "keyword": "troy franklin",
-          "score": 95
-        },
-        {
-          "keyword": "whole foods cheese allergen recall",
-          "score": 94
-        },
-        {
-          "keyword": "jose caballero",
-          "score": 93
-        },
-        {
-          "keyword": "allison janney",
-          "score": 92
-        },
-        {
-          "keyword": "julia garner",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-15T05:34:56.450Z",
       "geo": "US",
       "source": "google",
@@ -1220,6 +1173,53 @@
         },
         {
           "keyword": "ny red bulls vs new york city",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-19T01:20:30.080Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "miami",
+          "score": 100
+        },
+        {
+          "keyword": "dylan cease",
+          "score": 99
+        },
+        {
+          "keyword": "marlins vs padres",
+          "score": 98
+        },
+        {
+          "keyword": "yankees vs diamondbacks",
+          "score": 97
+        },
+        {
+          "keyword": "lizzie borden cast",
+          "score": 96
+        },
+        {
+          "keyword": "charmar brown",
+          "score": 95
+        },
+        {
+          "keyword": "fever score",
+          "score": 94
+        },
+        {
+          "keyword": "j j mccarthy",
+          "score": 93
+        },
+        {
+          "keyword": "aliyah boston",
+          "score": 92
+        },
+        {
+          "keyword": "mauricio dubon",
           "score": 91
         }
       ]
