@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-16T05:28:11.003Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "愛子内親王",
-          "score": 100
-        },
-        {
-          "keyword": "大学入試センター",
-          "score": 99
-        },
-        {
-          "keyword": "診断",
-          "score": 98
-        },
-        {
-          "keyword": "東京ドーム イベント",
-          "score": 97
-        },
-        {
-          "keyword": "村竹ラシッド",
-          "score": 96
-        },
-        {
-          "keyword": "柳沢慎吾",
-          "score": 95
-        },
-        {
-          "keyword": "めざましテレビ",
-          "score": 94
-        },
-        {
-          "keyword": "岩手日報",
-          "score": 93
-        },
-        {
-          "keyword": "マックルモア",
-          "score": 92
-        },
-        {
-          "keyword": "全日本 空輸",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-16T10:09:44.926Z",
       "geo": "JP",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "能見篤史",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-20T07:50:28.928Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "徳光和夫",
+          "score": 100
+        },
+        {
+          "keyword": "東海クラシックレディース 2026",
+          "score": 99
+        },
+        {
+          "keyword": "伊藤美誠",
+          "score": 98
+        },
+        {
+          "keyword": "内藤寛太郎",
+          "score": 97
+        },
+        {
+          "keyword": "新党",
+          "score": 96
+        },
+        {
+          "keyword": "トヨタ・プリウス",
+          "score": 95
+        },
+        {
+          "keyword": "希良梨",
+          "score": 94
+        },
+        {
+          "keyword": "神戸新聞杯",
+          "score": 93
+        },
+        {
+          "keyword": "宇賀なつみ",
+          "score": 92
+        },
+        {
+          "keyword": "北朝鮮 ミサイル",
           "score": 91
         }
       ]
