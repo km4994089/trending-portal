@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-16T15:04:53.141Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nicole saphier",
-          "score": 100
-        },
-        {
-          "keyword": "jessica campbell",
-          "score": 99
-        },
-        {
-          "keyword": "united states",
-          "score": 98
-        },
-        {
-          "keyword": "ethan hawke",
-          "score": 97
-        },
-        {
-          "keyword": "san francisco musician jeanie poling",
-          "score": 96
-        },
-        {
-          "keyword": "metallica",
-          "score": 95
-        },
-        {
-          "keyword": "lena dunham",
-          "score": 94
-        },
-        {
-          "keyword": "mighty mike plays",
-          "score": 93
-        },
-        {
-          "keyword": "john roberts",
-          "score": 92
-        },
-        {
-          "keyword": "nyt connections hints",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-16T18:58:28.877Z",
       "geo": "US",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "steelers schedule",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-20T16:37:52.122Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "browns vs buccaneers",
+          "score": 100
+        },
+        {
+          "keyword": "saints vs ravens",
+          "score": 99
+        },
+        {
+          "keyword": "terry bradshaw",
+          "score": 98
+        },
+        {
+          "keyword": "jj spaun",
+          "score": 97
+        },
+        {
+          "keyword": "fulham vs man utd",
+          "score": 96
+        },
+        {
+          "keyword": "panthers vs falcons",
+          "score": 95
+        },
+        {
+          "keyword": "broncos game today",
+          "score": 94
+        },
+        {
+          "keyword": "start em sit em",
+          "score": 93
+        },
+        {
+          "keyword": "netflix new releases",
+          "score": 92
+        },
+        {
+          "keyword": "weather forecast today",
           "score": 91
         }
       ]

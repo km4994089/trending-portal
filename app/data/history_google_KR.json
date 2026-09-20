@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-16T15:04:53.944Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "집단 감염",
-          "score": 100
-        },
-        {
-          "keyword": "abl바이오",
-          "score": 99
-        },
-        {
-          "keyword": "kbs",
-          "score": 98
-        },
-        {
-          "keyword": "시어머니",
-          "score": 97
-        },
-        {
-          "keyword": "혈우병",
-          "score": 96
-        },
-        {
-          "keyword": "정해영",
-          "score": 95
-        },
-        {
-          "keyword": "유주상",
-          "score": 94
-        },
-        {
-          "keyword": "돼지국밥",
-          "score": 93
-        },
-        {
-          "keyword": "파라타항공",
-          "score": 92
-        },
-        {
-          "keyword": "자라",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-16T18:58:29.726Z",
       "geo": "KR",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "토토",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-20T16:37:53.335Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "instagram",
+          "score": 100
+        },
+        {
+          "keyword": "라리가",
+          "score": 99
+        },
+        {
+          "keyword": "축구중계",
+          "score": 98
+        },
+        {
+          "keyword": "리버풀",
+          "score": 97
+        },
+        {
+          "keyword": "맨시티",
+          "score": 96
+        },
+        {
+          "keyword": "google",
+          "score": 95
+        },
+        {
+          "keyword": "sxmb",
+          "score": 94
+        },
+        {
+          "keyword": "kbs",
+          "score": 93
+        },
+        {
+          "keyword": "이현중",
+          "score": 92
+        },
+        {
+          "keyword": "김영범",
           "score": 91
         }
       ]
