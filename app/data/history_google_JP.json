@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-16T10:09:44.926Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "小泉孝太郎",
-          "score": 100
-        },
-        {
-          "keyword": "佐野勇斗",
-          "score": 99
-        },
-        {
-          "keyword": "豊田スタジアム",
-          "score": 98
-        },
-        {
-          "keyword": "オートレース",
-          "score": 97
-        },
-        {
-          "keyword": "香港",
-          "score": 96
-        },
-        {
-          "keyword": "サッカー日本代表 試合",
-          "score": 95
-        },
-        {
-          "keyword": "習近平 インド",
-          "score": 94
-        },
-        {
-          "keyword": "レイエス",
-          "score": 93
-        },
-        {
-          "keyword": "藤島ジュリー景子",
-          "score": 92
-        },
-        {
-          "keyword": "マックフルーリー新作",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-16T15:04:55.211Z",
       "geo": "JP",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "北朝鮮 ミサイル",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-20T12:44:54.924Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "キキクル",
+          "score": 100
+        },
+        {
+          "keyword": "日本 キルギス",
+          "score": 99
+        },
+        {
+          "keyword": "元山飛優",
+          "score": 98
+        },
+        {
+          "keyword": "ジェイソンステイサム",
+          "score": 97
+        },
+        {
+          "keyword": "xsmb",
+          "score": 96
+        },
+        {
+          "keyword": "イッテq",
+          "score": 95
+        },
+        {
+          "keyword": "nba",
+          "score": 94
+        },
+        {
+          "keyword": "出川哲朗",
+          "score": 93
+        },
+        {
+          "keyword": "bリーグ",
+          "score": 92
+        },
+        {
+          "keyword": "アジア大会 サッカー",
           "score": 91
         }
       ]

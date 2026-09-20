@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-16T10:09:42.167Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jelly roll",
-          "score": 100
-        },
-        {
-          "keyword": "tormenta",
-          "score": 99
-        },
-        {
-          "keyword": "terrorism",
-          "score": 98
-        },
-        {
-          "keyword": "weather forecast",
-          "score": 97
-        },
-        {
-          "keyword": "al wild card standings",
-          "score": 96
-        },
-        {
-          "keyword": "al jazeera",
-          "score": 95
-        },
-        {
-          "keyword": "wild card standings",
-          "score": 94
-        },
-        {
-          "keyword": "eugene horsch",
-          "score": 93
-        },
-        {
-          "keyword": "taylor frankie paul",
-          "score": 92
-        },
-        {
-          "keyword": "taylor swift travis kelce",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-16T15:04:53.141Z",
       "geo": "US",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "india",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-20T12:44:52.334Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nfl schedule today",
+          "score": 100
+        },
+        {
+          "keyword": "packers schedule",
+          "score": 99
+        },
+        {
+          "keyword": "college gameday week 4",
+          "score": 98
+        },
+        {
+          "keyword": "moscow",
+          "score": 97
+        },
+        {
+          "keyword": "ga lottery",
+          "score": 96
+        },
+        {
+          "keyword": "ny times",
+          "score": 95
+        },
+        {
+          "keyword": "sylvester stallone",
+          "score": 94
+        },
+        {
+          "keyword": "kate beckinsale",
+          "score": 93
+        },
+        {
+          "keyword": "austin metcalf",
+          "score": 92
+        },
+        {
+          "keyword": "steelers schedule",
           "score": 91
         }
       ]
