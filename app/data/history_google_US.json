@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-16T00:35:29.891Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "john konchar",
-          "score": 100
-        },
-        {
-          "keyword": "kyle schwarber",
-          "score": 99
-        },
-        {
-          "keyword": "whitney leavitt",
-          "score": 98
-        },
-        {
-          "keyword": "bruno tonioli",
-          "score": 97
-        },
-        {
-          "keyword": "guillermo rodriguez",
-          "score": 96
-        },
-        {
-          "keyword": "tyler cameron dwts",
-          "score": 95
-        },
-        {
-          "keyword": "carson benge",
-          "score": 94
-        },
-        {
-          "keyword": "rolex perpetual",
-          "score": 93
-        },
-        {
-          "keyword": "puebla vs toluca",
-          "score": 92
-        },
-        {
-          "keyword": "jackson olson savannah bananas",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-16T05:28:08.397Z",
       "geo": "US",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "mizzou football",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-20T02:19:09.695Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "spacex",
+          "score": 100
+        },
+        {
+          "keyword": "ufc 334",
+          "score": 99
+        },
+        {
+          "keyword": "atlanta braves",
+          "score": 98
+        },
+        {
+          "keyword": "ufc 332",
+          "score": 97
+        },
+        {
+          "keyword": "ufc 333",
+          "score": 96
+        },
+        {
+          "keyword": "amanda nunes",
+          "score": 95
+        },
+        {
+          "keyword": "spacex launch",
+          "score": 94
+        },
+        {
+          "keyword": "astros standings",
+          "score": 93
+        },
+        {
+          "keyword": "rangers game today",
+          "score": 92
+        },
+        {
+          "keyword": "joe rogan",
           "score": 91
         }
       ]
