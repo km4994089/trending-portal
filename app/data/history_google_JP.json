@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-16T21:52:33.024Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "スリーアミーゴス",
-          "score": 100
-        },
-        {
-          "keyword": "ラミン・ヤマル",
-          "score": 99
-        },
-        {
-          "keyword": "山田裕貴",
-          "score": 98
-        },
-        {
-          "keyword": "吉田夕梨花",
-          "score": 97
-        },
-        {
-          "keyword": "ユナイテッド",
-          "score": 96
-        },
-        {
-          "keyword": "ハフィーニャ",
-          "score": 95
-        },
-        {
-          "keyword": "schd",
-          "score": 94
-        },
-        {
-          "keyword": "階",
-          "score": 93
-        },
-        {
-          "keyword": "ダウ平均株価",
-          "score": 92
-        },
-        {
-          "keyword": "小久保 裕紀",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-16T23:58:03.945Z",
       "geo": "JP",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "real madrid",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-20T23:42:22.819Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "映画",
+          "score": 100
+        },
+        {
+          "keyword": "平野レミ",
+          "score": 99
+        },
+        {
+          "keyword": "チョッキー",
+          "score": 98
+        },
+        {
+          "keyword": "チョッキー vivant",
+          "score": 97
+        },
+        {
+          "keyword": "ミルクスネーク",
+          "score": 96
+        },
+        {
+          "keyword": "マック",
+          "score": 95
+        },
+        {
+          "keyword": "西田たかのり",
+          "score": 94
+        },
+        {
+          "keyword": "ジブリパーク",
+          "score": 93
+        },
+        {
+          "keyword": "jra",
+          "score": 92
+        },
+        {
+          "keyword": "モーニング",
           "score": 91
         }
       ]
