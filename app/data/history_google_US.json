@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-17T03:11:27.545Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "snl cast members",
-          "score": 100
-        },
-        {
-          "keyword": "texas rangers",
-          "score": 99
-        },
-        {
-          "keyword": "duop reath",
-          "score": 98
-        },
-        {
-          "keyword": "cubs standings",
-          "score": 97
-        },
-        {
-          "keyword": "south park season 29",
-          "score": 96
-        },
-        {
-          "keyword": "nwsl",
-          "score": 95
-        },
-        {
-          "keyword": "nathan eovaldi",
-          "score": 94
-        },
-        {
-          "keyword": "colorado rapids",
-          "score": 93
-        },
-        {
-          "keyword": "newsweek",
-          "score": 92
-        },
-        {
-          "keyword": "fox business",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-17T08:47:39.078Z",
       "geo": "US",
       "source": "google",
@@ -1361,6 +1314,53 @@
         },
         {
           "keyword": "isiah pacheco",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-21T08:05:06.146Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "upcoming events",
+          "score": 100
+        },
+        {
+          "keyword": "hotels",
+          "score": 99
+        },
+        {
+          "keyword": "jev",
+          "score": 98
+        },
+        {
+          "keyword": "lanterns recap",
+          "score": 97
+        },
+        {
+          "keyword": "movie",
+          "score": 96
+        },
+        {
+          "keyword": "sharon stone",
+          "score": 95
+        },
+        {
+          "keyword": "japan",
+          "score": 94
+        },
+        {
+          "keyword": "austin",
+          "score": 93
+        },
+        {
+          "keyword": "new york",
+          "score": 92
+        },
+        {
+          "keyword": "asteroid impact",
           "score": 91
         }
       ]
