@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-17T17:51:32.001Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kyle tucker",
-          "score": 100
-        },
-        {
-          "keyword": "guatemala",
-          "score": 99
-        },
-        {
-          "keyword": "brain eating amoeba",
-          "score": 98
-        },
-        {
-          "keyword": "eng vs sl",
-          "score": 97
-        },
-        {
-          "keyword": "israel iran war",
-          "score": 96
-        },
-        {
-          "keyword": "sway",
-          "score": 95
-        },
-        {
-          "keyword": "tay keith",
-          "score": 94
-        },
-        {
-          "keyword": "dodgers - reds",
-          "score": 93
-        },
-        {
-          "keyword": "jon kyl",
-          "score": 92
-        },
-        {
-          "keyword": "real betis - getafe",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-17T20:44:25.976Z",
       "geo": "US",
       "source": "google",
@@ -1314,6 +1267,53 @@
         },
         {
           "keyword": "fortnite",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-21T20:03:25.900Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "comerica park",
+          "score": 100
+        },
+        {
+          "keyword": "flores amarillas",
+          "score": 99
+        },
+        {
+          "keyword": "argentina",
+          "score": 98
+        },
+        {
+          "keyword": "bryson dechambeau",
+          "score": 97
+        },
+        {
+          "keyword": "meta stock",
+          "score": 96
+        },
+        {
+          "keyword": "baseball",
+          "score": 95
+        },
+        {
+          "keyword": "el nino",
+          "score": 94
+        },
+        {
+          "keyword": "destiny 2",
+          "score": 93
+        },
+        {
+          "keyword": "pictures",
+          "score": 92
+        },
+        {
+          "keyword": "jennifer eckhart",
           "score": 91
         }
       ]
