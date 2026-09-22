@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-18T21:21:39.024Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ナスダック100指数",
-          "score": 100
-        },
-        {
-          "keyword": "ザ ロイヤルファミリー",
-          "score": 99
-        },
-        {
-          "keyword": "オールカマー 2026",
-          "score": 98
-        },
-        {
-          "keyword": "マルウェア",
-          "score": 97
-        },
-        {
-          "keyword": "エスパニョール 対 エルチェ",
-          "score": 96
-        },
-        {
-          "keyword": "暖冬",
-          "score": 95
-        },
-        {
-          "keyword": "新幹線予約",
-          "score": 94
-        },
-        {
-          "keyword": "ベロ毒素",
-          "score": 93
-        },
-        {
-          "keyword": "bayern vs union berlin",
-          "score": 92
-        },
-        {
-          "keyword": "大の里泰輝",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-18T23:25:08.156Z",
       "geo": "JP",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "ゆーちゅーぶ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-22T23:04:28.431Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "パイレーツ 対 カージナルス",
+          "score": 100
+        },
+        {
+          "keyword": "フィリーズ 対 ブルワーズ",
+          "score": 99
+        },
+        {
+          "keyword": "タイガース 対 ナショナルズ",
+          "score": 98
+        },
+        {
+          "keyword": "長宗我部",
+          "score": 97
+        },
+        {
+          "keyword": "熱帯低気圧",
+          "score": 96
+        },
+        {
+          "keyword": "icc",
+          "score": 95
+        },
+        {
+          "keyword": "星田英利",
+          "score": 94
+        },
+        {
+          "keyword": "山本里菜",
+          "score": 93
+        },
+        {
+          "keyword": "早期天候情報",
+          "score": 92
+        },
+        {
+          "keyword": "ライアンウォード",
           "score": 91
         }
       ]
