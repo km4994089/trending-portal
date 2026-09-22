@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-18T15:25:41.383Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "비트코인 시세",
-          "score": 100
-        },
-        {
-          "keyword": "장신영",
-          "score": 99
-        },
-        {
-          "keyword": "업비트",
-          "score": 98
-        },
-        {
-          "keyword": "재벌형사",
-          "score": 97
-        },
-        {
-          "keyword": "아스트라에 오라티오",
-          "score": 96
-        },
-        {
-          "keyword": "지귀연",
-          "score": 95
-        },
-        {
-          "keyword": "박시은",
-          "score": 94
-        },
-        {
-          "keyword": "고속도로",
-          "score": 93
-        },
-        {
-          "keyword": "나는 solo, 그 후 사랑은 계속된다",
-          "score": 92
-        },
-        {
-          "keyword": "애국가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-18T18:35:23.209Z",
       "geo": "KR",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "홍수",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-22T17:26:07.372Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "죽음",
+          "score": 100
+        },
+        {
+          "keyword": "신병4",
+          "score": 99
+        },
+        {
+          "keyword": "김혜수",
+          "score": 98
+        },
+        {
+          "keyword": "무신사",
+          "score": 97
+        },
+        {
+          "keyword": "대통령",
+          "score": 96
+        },
+        {
+          "keyword": "편의점",
+          "score": 95
+        },
+        {
+          "keyword": "혼인",
+          "score": 94
+        },
+        {
+          "keyword": "박남정",
+          "score": 93
+        },
+        {
+          "keyword": "노원구",
+          "score": 92
+        },
+        {
+          "keyword": "삼성전기",
           "score": 91
         }
       ]

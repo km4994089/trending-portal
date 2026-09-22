@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-18T15:25:40.181Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "kerry kennedy",
-          "score": 100
-        },
-        {
-          "keyword": "taylor lewan",
-          "score": 99
-        },
-        {
-          "keyword": "sara haines",
-          "score": 98
-        },
-        {
-          "keyword": "keyonte george",
-          "score": 97
-        },
-        {
-          "keyword": "meghan markle news",
-          "score": 96
-        },
-        {
-          "keyword": "san antonio weather",
-          "score": 95
-        },
-        {
-          "keyword": "davis cup",
-          "score": 94
-        },
-        {
-          "keyword": "barely breathing",
-          "score": 93
-        },
-        {
-          "keyword": "riot fest",
-          "score": 92
-        },
-        {
-          "keyword": "tom bateman",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-18T18:35:22.037Z",
       "geo": "US",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "trader joe's halloween mini totes",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-22T17:26:06.165Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "opus 5.5",
+          "score": 100
+        },
+        {
+          "keyword": "beats 360",
+          "score": 99
+        },
+        {
+          "keyword": "fat bear week voting",
+          "score": 98
+        },
+        {
+          "keyword": "rays vs yankees",
+          "score": 97
+        },
+        {
+          "keyword": "nyt",
+          "score": 96
+        },
+        {
+          "keyword": "tubi",
+          "score": 95
+        },
+        {
+          "keyword": "taylor swift",
+          "score": 94
+        },
+        {
+          "keyword": "h&m",
+          "score": 93
+        },
+        {
+          "keyword": "foreign policy",
+          "score": 92
+        },
+        {
+          "keyword": "icc",
           "score": 91
         }
       ]
