@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-18T06:08:06.544Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "大林組",
-          "score": 100
-        },
-        {
-          "keyword": "ミサイル",
-          "score": 99
-        },
-        {
-          "keyword": "オリエンタルランド",
-          "score": 98
-        },
-        {
-          "keyword": "スジナシシアター",
-          "score": 97
-        },
-        {
-          "keyword": "核実験",
-          "score": 96
-        },
-        {
-          "keyword": "堂本 剛",
-          "score": 95
-        },
-        {
-          "keyword": "大関",
-          "score": 94
-        },
-        {
-          "keyword": "貿易",
-          "score": 93
-        },
-        {
-          "keyword": "五條堀美咲",
-          "score": 92
-        },
-        {
-          "keyword": "給食",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-18T11:32:23.332Z",
       "geo": "JP",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "市川團十郎",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-22T07:02:07.078Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "地震速報",
+          "score": 100
+        },
+        {
+          "keyword": "ジャイアンツtv",
+          "score": 99
+        },
+        {
+          "keyword": "中山美穂",
+          "score": 98
+        },
+        {
+          "keyword": "とろサーモン久保田",
+          "score": 97
+        },
+        {
+          "keyword": "bリーグ",
+          "score": 96
+        },
+        {
+          "keyword": "大神雄子",
+          "score": 95
+        },
+        {
+          "keyword": "熱海",
+          "score": 94
+        },
+        {
+          "keyword": "玉川祐子",
+          "score": 93
+        },
+        {
+          "keyword": "野々村友紀子",
+          "score": 92
+        },
+        {
+          "keyword": "マック",
           "score": 91
         }
       ]
