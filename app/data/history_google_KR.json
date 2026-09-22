@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-18T18:35:23.209Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "주한 미군 사령관",
-          "score": 100
-        },
-        {
-          "keyword": "레알 마드리드 cf",
-          "score": 99
-        },
-        {
-          "keyword": "백종원",
-          "score": 98
-        },
-        {
-          "keyword": "버크셔 해서웨이",
-          "score": 97
-        },
-        {
-          "keyword": "자동차 산업",
-          "score": 96
-        },
-        {
-          "keyword": "팬심",
-          "score": 95
-        },
-        {
-          "keyword": "마이크론 테크놀로지",
-          "score": 94
-        },
-        {
-          "keyword": "수성구",
-          "score": 93
-        },
-        {
-          "keyword": "지창욱",
-          "score": 92
-        },
-        {
-          "keyword": "이선민",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-18T21:21:37.758Z",
       "geo": "KR",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "삼성전기",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-22T20:18:09.529Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "한다감",
+          "score": 100
+        },
+        {
+          "keyword": "opus 5.5",
+          "score": 99
+        },
+        {
+          "keyword": "전국노래자랑",
+          "score": 98
+        },
+        {
+          "keyword": "죽음",
+          "score": 97
+        },
+        {
+          "keyword": "웨스팅하우스",
+          "score": 96
+        },
+        {
+          "keyword": "김혜수",
+          "score": 95
+        },
+        {
+          "keyword": "무신사",
+          "score": 94
+        },
+        {
+          "keyword": "대통령",
+          "score": 93
+        },
+        {
+          "keyword": "신병",
+          "score": 92
+        },
+        {
+          "keyword": "편의점",
           "score": 91
         }
       ]
