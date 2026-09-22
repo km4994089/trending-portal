@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-18T11:32:22.082Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "넷플릭스 스캔들",
-          "score": 100
-        },
-        {
-          "keyword": "리센느빵",
-          "score": 99
-        },
-        {
-          "keyword": "xsmn",
-          "score": 98
-        },
-        {
-          "keyword": "박유나",
-          "score": 97
-        },
-        {
-          "keyword": "구윤철",
-          "score": 96
-        },
-        {
-          "keyword": "kfa",
-          "score": 95
-        },
-        {
-          "keyword": "무",
-          "score": 94
-        },
-        {
-          "keyword": "에코프로 비엠",
-          "score": 93
-        },
-        {
-          "keyword": "아시안게임 일정",
-          "score": 92
-        },
-        {
-          "keyword": "레지던트 이블: 0번째 밤",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-18T15:25:41.383Z",
       "geo": "KR",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "삼성전자 주가",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-22T12:43:18.135Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "아시안 게임 축구 남자",
+          "score": 100
+        },
+        {
+          "keyword": "eng vs sl",
+          "score": 99
+        },
+        {
+          "keyword": "광명시",
+          "score": 98
+        },
+        {
+          "keyword": "희토류 원소",
+          "score": 97
+        },
+        {
+          "keyword": "백령도",
+          "score": 96
+        },
+        {
+          "keyword": "배슬기",
+          "score": 95
+        },
+        {
+          "keyword": "예멘",
+          "score": 94
+        },
+        {
+          "keyword": "유시민",
+          "score": 93
+        },
+        {
+          "keyword": "xrp 레저",
+          "score": 92
+        },
+        {
+          "keyword": "홍수",
           "score": 91
         }
       ]

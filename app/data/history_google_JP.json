@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-18T11:32:23.332Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "阪神 対 広島",
-          "score": 100
-        },
-        {
-          "keyword": "巨人",
-          "score": 99
-        },
-        {
-          "keyword": "サイ・ヤング賞",
-          "score": 98
-        },
-        {
-          "keyword": "スタバ 値上げ",
-          "score": 97
-        },
-        {
-          "keyword": "ハンターハンター 一番くじ",
-          "score": 96
-        },
-        {
-          "keyword": "中村奨成",
-          "score": 95
-        },
-        {
-          "keyword": "ロアッソ熊本",
-          "score": 94
-        },
-        {
-          "keyword": "山田孝之",
-          "score": 93
-        },
-        {
-          "keyword": "張凌赫",
-          "score": 92
-        },
-        {
-          "keyword": "松本 明子",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-18T15:25:42.579Z",
       "geo": "JP",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "マック",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-22T12:43:19.567Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "平野美宇",
+          "score": 100
+        },
+        {
+          "keyword": "滝音",
+          "score": 99
+        },
+        {
+          "keyword": "台湾",
+          "score": 98
+        },
+        {
+          "keyword": "チャイニーズタイペイとは",
+          "score": 97
+        },
+        {
+          "keyword": "ニカゲーム",
+          "score": 96
+        },
+        {
+          "keyword": "小川泰平",
+          "score": 95
+        },
+        {
+          "keyword": "張本美和",
+          "score": 94
+        },
+        {
+          "keyword": "山田孝之",
+          "score": 93
+        },
+        {
+          "keyword": "石川真由",
+          "score": 92
+        },
+        {
+          "keyword": "琵琶湖",
           "score": 91
         }
       ]
