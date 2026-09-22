@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-18T01:21:11.539Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "허양 임",
-          "score": 100
-        },
-        {
-          "keyword": "이재명",
-          "score": 99
-        },
-        {
-          "keyword": "철도망",
-          "score": 98
-        },
-        {
-          "keyword": "왕옌청",
-          "score": 97
-        },
-        {
-          "keyword": "한화그룹",
-          "score": 96
-        },
-        {
-          "keyword": "노란봉투법",
-          "score": 95
-        },
-        {
-          "keyword": "세무사",
-          "score": 94
-        },
-        {
-          "keyword": "단발",
-          "score": 93
-        },
-        {
-          "keyword": "크리스티안 로메로",
-          "score": 92
-        },
-        {
-          "keyword": "사노피",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-18T06:08:05.160Z",
       "geo": "KR",
       "source": "google",
@@ -1267,6 +1220,53 @@
         },
         {
           "keyword": "양승혜",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-22T01:40:44.047Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "게임",
+          "score": 100
+        },
+        {
+          "keyword": "기상청 날씨누리",
+          "score": 99
+        },
+        {
+          "keyword": "청약홈",
+          "score": 98
+        },
+        {
+          "keyword": "기상청",
+          "score": 97
+        },
+        {
+          "keyword": "하이닉스 주가",
+          "score": 96
+        },
+        {
+          "keyword": "삼성전자 주가",
+          "score": 95
+        },
+        {
+          "keyword": "x",
+          "score": 94
+        },
+        {
+          "keyword": "구글",
+          "score": 93
+        },
+        {
+          "keyword": "업비트",
+          "score": 92
+        },
+        {
+          "keyword": "윤동희",
           "score": 91
         }
       ]
