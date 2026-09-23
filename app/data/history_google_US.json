@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-19T11:16:30.964Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "accident attorney",
-          "score": 100
-        },
-        {
-          "keyword": "dp world tour",
-          "score": 99
-        },
-        {
-          "keyword": "news education",
-          "score": 98
-        },
-        {
-          "keyword": "weather travel",
-          "score": 97
-        },
-        {
-          "keyword": "al east standings",
-          "score": 96
-        },
-        {
-          "keyword": "chicago weather",
-          "score": 95
-        },
-        {
-          "keyword": "huffpost",
-          "score": 94
-        },
-        {
-          "keyword": "savings",
-          "score": 93
-        },
-        {
-          "keyword": "news science",
-          "score": 92
-        },
-        {
-          "keyword": "sports market",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-19T14:34:12.173Z",
       "geo": "US",
       "source": "google",
@@ -1220,6 +1173,53 @@
         },
         {
           "keyword": "pop latino",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-23T12:29:50.898Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ina garten",
+          "score": 100
+        },
+        {
+          "keyword": "benjamin netanyahu",
+          "score": 99
+        },
+        {
+          "keyword": "ionq stock",
+          "score": 98
+        },
+        {
+          "keyword": "melania trump",
+          "score": 97
+        },
+        {
+          "keyword": "panthers depth chart",
+          "score": 96
+        },
+        {
+          "keyword": "dana bash",
+          "score": 95
+        },
+        {
+          "keyword": "jonathan brooks",
+          "score": 94
+        },
+        {
+          "keyword": "ryan clark",
+          "score": 93
+        },
+        {
+          "keyword": "cruise ship",
+          "score": 92
+        },
+        {
+          "keyword": "daylight savings 2026",
           "score": 91
         }
       ]
