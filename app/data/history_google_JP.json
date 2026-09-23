@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-19T21:55:56.231Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ラリーガ",
-          "score": 100
-        },
-        {
-          "keyword": "台風情報",
-          "score": 99
-        },
-        {
-          "keyword": "バルセロナ",
-          "score": 98
-        },
-        {
-          "keyword": "ufc",
-          "score": 97
-        },
-        {
-          "keyword": "整体",
-          "score": 96
-        },
-        {
-          "keyword": "トヨタ",
-          "score": 95
-        },
-        {
-          "keyword": "中山競馬場",
-          "score": 94
-        },
-        {
-          "keyword": "しぐれうい 炎上",
-          "score": 93
-        },
-        {
-          "keyword": "g",
-          "score": 92
-        },
-        {
-          "keyword": "渡部篤郎",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-19T23:46:50.786Z",
       "geo": "JP",
       "source": "google",
@@ -1173,6 +1126,53 @@
         },
         {
           "keyword": "バクチュー",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-23T23:19:35.090Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ブレーブス 対 レッズ",
+          "score": 100
+        },
+        {
+          "keyword": "m6 mac mini",
+          "score": 99
+        },
+        {
+          "keyword": "肝臓",
+          "score": 98
+        },
+        {
+          "keyword": "フィリーズ 対 ブルワーズ",
+          "score": 97
+        },
+        {
+          "keyword": "竹原慎二",
+          "score": 96
+        },
+        {
+          "keyword": "パイレーツ 対 カージナルス",
+          "score": 95
+        },
+        {
+          "keyword": "気温",
+          "score": 94
+        },
+        {
+          "keyword": "kurobe アクア フェアリー ズ 富山",
+          "score": 93
+        },
+        {
+          "keyword": "シンディ・クロフォード",
+          "score": 92
+        },
+        {
+          "keyword": "俺たちの箱根駅伝",
           "score": 91
         }
       ]
