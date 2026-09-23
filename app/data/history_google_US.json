@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-19T06:07:20.566Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "japan",
-          "score": 100
-        },
-        {
-          "keyword": "will smith",
-          "score": 99
-        },
-        {
-          "keyword": "edwin diaz",
-          "score": 98
-        },
-        {
-          "keyword": "convenience store",
-          "score": 97
-        },
-        {
-          "keyword": "diesel fuel",
-          "score": 96
-        },
-        {
-          "keyword": "gas",
-          "score": 95
-        },
-        {
-          "keyword": "fuel",
-          "score": 94
-        },
-        {
-          "keyword": "betmgm sportsbook",
-          "score": 93
-        },
-        {
-          "keyword": "betmgm",
-          "score": 92
-        },
-        {
-          "keyword": "pluto tv",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-19T11:16:30.964Z",
       "geo": "US",
       "source": "google",
@@ -1220,6 +1173,53 @@
         },
         {
           "keyword": "santa fe vs deportivo cali",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-23T06:57:27.109Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ciudadano",
+          "score": 100
+        },
+        {
+          "keyword": "earthquake",
+          "score": 99
+        },
+        {
+          "keyword": "ice",
+          "score": 98
+        },
+        {
+          "keyword": "maya joint",
+          "score": 97
+        },
+        {
+          "keyword": "jon hamm",
+          "score": 96
+        },
+        {
+          "keyword": "will smith",
+          "score": 95
+        },
+        {
+          "keyword": "austin abrams",
+          "score": 94
+        },
+        {
+          "keyword": "athletics",
+          "score": 93
+        },
+        {
+          "keyword": "josue de paula",
+          "score": 92
+        },
+        {
+          "keyword": "pop latino",
           "score": 91
         }
       ]
