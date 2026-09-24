@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-20T21:41:59.557Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jra",
-          "score": 100
-        },
-        {
-          "keyword": "常磐線",
-          "score": 99
-        },
-        {
-          "keyword": "若林アナ",
-          "score": 98
-        },
-        {
-          "keyword": "交通情報",
-          "score": 97
-        },
-        {
-          "keyword": "태풍 두쥐안",
-          "score": 96
-        },
-        {
-          "keyword": "ソシエダ",
-          "score": 95
-        },
-        {
-          "keyword": "台風情報",
-          "score": 94
-        },
-        {
-          "keyword": "千葉市 天気",
-          "score": 93
-        },
-        {
-          "keyword": "リーグアン",
-          "score": 92
-        },
-        {
-          "keyword": "real madrid",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-20T23:42:22.819Z",
       "geo": "JP",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "オランダ 対 ドイツ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-24T23:40:28.748Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ブレーブス 対 レッズ",
+          "score": 100
+        },
+        {
+          "keyword": "ちいかわ",
+          "score": 99
+        },
+        {
+          "keyword": "牧場物語",
+          "score": 98
+        },
+        {
+          "keyword": "レッドソックス 対 ガーディアンズ",
+          "score": 97
+        },
+        {
+          "keyword": "president online",
+          "score": 96
+        },
+        {
+          "keyword": "国連憲章",
+          "score": 95
+        },
+        {
+          "keyword": "スリゲ",
+          "score": 94
+        },
+        {
+          "keyword": "福岡県議会",
+          "score": 93
+        },
+        {
+          "keyword": "フィリーズ 対 ブルワーズ",
+          "score": 92
+        },
+        {
+          "keyword": "mina",
           "score": 91
         }
       ]
