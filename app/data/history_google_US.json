@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-20T19:10:59.563Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "deejay dallas",
-          "score": 100
-        },
-        {
-          "keyword": "presidents cup",
-          "score": 99
-        },
-        {
-          "keyword": "alex bregman",
-          "score": 98
-        },
-        {
-          "keyword": "kyle monangai",
-          "score": 97
-        },
-        {
-          "keyword": "chase young",
-          "score": 96
-        },
-        {
-          "keyword": "adonai mitchell",
-          "score": 95
-        },
-        {
-          "keyword": "beats",
-          "score": 94
-        },
-        {
-          "keyword": "luther burden",
-          "score": 93
-        },
-        {
-          "keyword": "darren waller",
-          "score": 92
-        },
-        {
-          "keyword": "rashod bateman",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-20T21:41:57.185Z",
       "geo": "US",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "sally hemings",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-24T20:36:18.615Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "hawker hunter",
+          "score": 100
+        },
+        {
+          "keyword": "portugal vs gales",
+          "score": 99
+        },
+        {
+          "keyword": "nick chubb",
+          "score": 98
+        },
+        {
+          "keyword": "paul skenes",
+          "score": 97
+        },
+        {
+          "keyword": "cubs game",
+          "score": 96
+        },
+        {
+          "keyword": "lennox lewis",
+          "score": 95
+        },
+        {
+          "keyword": "uefa nations league schedule",
+          "score": 94
+        },
+        {
+          "keyword": "cameroon vs comoros",
+          "score": 93
+        },
+        {
+          "keyword": "chad bianco",
+          "score": 92
+        },
+        {
+          "keyword": "pete crow armstrong",
           "score": 91
         }
       ]

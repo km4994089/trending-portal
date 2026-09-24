@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-20T19:11:00.628Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "instagram",
-          "score": 100
-        },
-        {
-          "keyword": "레알마드리드",
-          "score": 99
-        },
-        {
-          "keyword": "축구중계",
-          "score": 98
-        },
-        {
-          "keyword": "리버풀",
-          "score": 97
-        },
-        {
-          "keyword": "맨시티",
-          "score": 96
-        },
-        {
-          "keyword": "google",
-          "score": 95
-        },
-        {
-          "keyword": "sxmb",
-          "score": 94
-        },
-        {
-          "keyword": "kbs",
-          "score": 93
-        },
-        {
-          "keyword": "이현중",
-          "score": 92
-        },
-        {
-          "keyword": "김영범",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-20T21:41:58.381Z",
       "geo": "KR",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "사고",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-24T20:36:19.491Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "심수봉",
+          "score": 100
+        },
+        {
+          "keyword": "portugal vs wales",
+          "score": 99
+        },
+        {
+          "keyword": "네이션스리그",
+          "score": 98
+        },
+        {
+          "keyword": "중추절",
+          "score": 97
+        },
+        {
+          "keyword": "의료",
+          "score": 96
+        },
+        {
+          "keyword": "이창섭",
+          "score": 95
+        },
+        {
+          "keyword": "박찬호",
+          "score": 94
+        },
+        {
+          "keyword": "심형래",
+          "score": 93
+        },
+        {
+          "keyword": "신뢰도",
+          "score": 92
+        },
+        {
+          "keyword": "피파랭킹",
           "score": 91
         }
       ]

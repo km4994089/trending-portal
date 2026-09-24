@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-20T19:11:02.097Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "リール サッカー",
-          "score": 100
-        },
-        {
-          "keyword": "リーグアン",
-          "score": 99
-        },
-        {
-          "keyword": "real madrid",
-          "score": 98
-        },
-        {
-          "keyword": "ラリーガ",
-          "score": 97
-        },
-        {
-          "keyword": "田中碧",
-          "score": 96
-        },
-        {
-          "keyword": "エンドゲーム アンコール",
-          "score": 95
-        },
-        {
-          "keyword": "ヨーロッパ",
-          "score": 94
-        },
-        {
-          "keyword": "石橋静河",
-          "score": 93
-        },
-        {
-          "keyword": "ダウンタイム ネタバレ",
-          "score": 92
-        },
-        {
-          "keyword": "リヴァプール",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-20T21:41:59.557Z",
       "geo": "JP",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "スペーシアベース",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-24T20:36:20.738Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "風雨",
+          "score": 100
+        },
+        {
+          "keyword": "犯罪",
+          "score": 99
+        },
+        {
+          "keyword": "ロッキーズ 対 dバックス",
+          "score": 98
+        },
+        {
+          "keyword": "大塚明夫",
+          "score": 97
+        },
+        {
+          "keyword": "記者会見",
+          "score": 96
+        },
+        {
+          "keyword": "行司",
+          "score": 95
+        },
+        {
+          "keyword": "ネーションズリーグ",
+          "score": 94
+        },
+        {
+          "keyword": "portugal vs wales",
+          "score": 93
+        },
+        {
+          "keyword": "ロイヤルズ 対 ホワイトソックス",
+          "score": 92
+        },
+        {
+          "keyword": "オランダ 対 ドイツ",
           "score": 91
         }
       ]
