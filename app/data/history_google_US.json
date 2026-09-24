@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-20T02:19:09.695Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "spacex",
-          "score": 100
-        },
-        {
-          "keyword": "ufc 334",
-          "score": 99
-        },
-        {
-          "keyword": "atlanta braves",
-          "score": 98
-        },
-        {
-          "keyword": "ufc 332",
-          "score": 97
-        },
-        {
-          "keyword": "ufc 333",
-          "score": 96
-        },
-        {
-          "keyword": "amanda nunes",
-          "score": 95
-        },
-        {
-          "keyword": "spacex launch",
-          "score": 94
-        },
-        {
-          "keyword": "astros standings",
-          "score": 93
-        },
-        {
-          "keyword": "rangers game today",
-          "score": 92
-        },
-        {
-          "keyword": "joe rogan",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-20T07:50:26.630Z",
       "geo": "US",
       "source": "google",
@@ -1173,6 +1126,53 @@
         },
         {
           "keyword": "anthony bourdain",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-24T06:55:22.086Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "jaime faria",
+          "score": 100
+        },
+        {
+          "keyword": "senator mitch mcconnell",
+          "score": 99
+        },
+        {
+          "keyword": "uss abraham lincoln",
+          "score": 98
+        },
+        {
+          "keyword": "anna bondar",
+          "score": 97
+        },
+        {
+          "keyword": "wendy's",
+          "score": 96
+        },
+        {
+          "keyword": "josh hader",
+          "score": 95
+        },
+        {
+          "keyword": "mariners game",
+          "score": 94
+        },
+        {
+          "keyword": "ethan hawke",
+          "score": 93
+        },
+        {
+          "keyword": "f35",
+          "score": 92
+        },
+        {
+          "keyword": "xbox",
           "score": 91
         }
       ]
