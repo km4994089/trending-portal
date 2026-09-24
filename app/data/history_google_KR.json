@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-20T07:50:27.787Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "백억커피",
-          "score": 100
-        },
-        {
-          "keyword": "조슈아 반",
-          "score": 99
-        },
-        {
-          "keyword": "lafc",
-          "score": 98
-        },
-        {
-          "keyword": "하피냐",
-          "score": 97
-        },
-        {
-          "keyword": "ufc",
-          "score": 96
-        },
-        {
-          "keyword": "유주상",
-          "score": 95
-        },
-        {
-          "keyword": "토토",
-          "score": 94
-        },
-        {
-          "keyword": "최예나",
-          "score": 93
-        },
-        {
-          "keyword": "아스날",
-          "score": 92
-        },
-        {
-          "keyword": "유영우",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-20T12:44:53.651Z",
       "geo": "KR",
       "source": "google",
@@ -1173,6 +1126,53 @@
         },
         {
           "keyword": "신한은행",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-24T12:25:21.656Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "비웨사",
+          "score": 100
+        },
+        {
+          "keyword": "3쿠션",
+          "score": 99
+        },
+        {
+          "keyword": "tvn",
+          "score": 98
+        },
+        {
+          "keyword": "tv조선",
+          "score": 97
+        },
+        {
+          "keyword": "고속도로",
+          "score": 96
+        },
+        {
+          "keyword": "일본 우루과이",
+          "score": 95
+        },
+        {
+          "keyword": "아시안게임 축구",
+          "score": 94
+        },
+        {
+          "keyword": "쿠팡플레이",
+          "score": 93
+        },
+        {
+          "keyword": "축제",
+          "score": 92
+        },
+        {
+          "keyword": "이건태",
           "score": 91
         }
       ]
