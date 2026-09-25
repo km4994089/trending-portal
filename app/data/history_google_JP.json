@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-20T23:42:22.819Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "映画",
-          "score": 100
-        },
-        {
-          "keyword": "平野レミ",
-          "score": 99
-        },
-        {
-          "keyword": "チョッキー",
-          "score": 98
-        },
-        {
-          "keyword": "チョッキー vivant",
-          "score": 97
-        },
-        {
-          "keyword": "ミルクスネーク",
-          "score": 96
-        },
-        {
-          "keyword": "マック",
-          "score": 95
-        },
-        {
-          "keyword": "西田たかのり",
-          "score": 94
-        },
-        {
-          "keyword": "ジブリパーク",
-          "score": 93
-        },
-        {
-          "keyword": "jra",
-          "score": 92
-        },
-        {
-          "keyword": "モーニング",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-09-21T02:18:12.098Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "iphone ios27",
-          "score": 100
-        },
-        {
-          "keyword": "職員",
-          "score": 99
-        },
-        {
-          "keyword": "武井壮",
-          "score": 98
-        },
-        {
-          "keyword": "icc",
-          "score": 97
-        },
-        {
-          "keyword": "アジア大会 卓球",
-          "score": 96
-        },
-        {
-          "keyword": "tver",
-          "score": 95
-        },
-        {
-          "keyword": "東海道新幹線",
-          "score": 94
-        },
-        {
-          "keyword": "今日は何の日",
-          "score": 93
-        },
-        {
-          "keyword": "競馬",
-          "score": 92
-        },
-        {
-          "keyword": "セウタ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-21T08:05:08.326Z",
       "geo": "JP",
       "source": "google",
@@ -1126,6 +1032,53 @@
         },
         {
           "keyword": "mina",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-25T02:27:29.548Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "田中真美子",
+          "score": 100
+        },
+        {
+          "keyword": "2026 中秋の名月",
+          "score": 99
+        },
+        {
+          "keyword": "2026 年中秋節",
+          "score": 98
+        },
+        {
+          "keyword": "ブレーブス 対 レッズ",
+          "score": 97
+        },
+        {
+          "keyword": "ちいかわ",
+          "score": 96
+        },
+        {
+          "keyword": "牧場物語",
+          "score": 95
+        },
+        {
+          "keyword": "レッドソックス 対 ガーディアンズ",
+          "score": 94
+        },
+        {
+          "keyword": "president online",
+          "score": 93
+        },
+        {
+          "keyword": "国連憲章",
+          "score": 92
+        },
+        {
+          "keyword": "スリゲ",
           "score": 91
         }
       ]
