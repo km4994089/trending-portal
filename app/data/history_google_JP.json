@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-21T08:05:08.326Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "鎌倉 冠水",
-          "score": 100
-        },
-        {
-          "keyword": "横須賀市長井",
-          "score": 99
-        },
-        {
-          "keyword": "地方競馬",
-          "score": 98
-        },
-        {
-          "keyword": "競輪",
-          "score": 97
-        },
-        {
-          "keyword": "genking",
-          "score": 96
-        },
-        {
-          "keyword": "スプリンターズステークス",
-          "score": 95
-        },
-        {
-          "keyword": "多摩川競艇",
-          "score": 94
-        },
-        {
-          "keyword": "プレスリーガーバー",
-          "score": 93
-        },
-        {
-          "keyword": "停電情報",
-          "score": 92
-        },
-        {
-          "keyword": "岡慎之助",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-21T15:13:02.034Z",
       "geo": "JP",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "ウナギ・サヤカ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-25T13:59:22.981Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "倉木麻衣",
+          "score": 100
+        },
+        {
+          "keyword": "室伏広治",
+          "score": 99
+        },
+        {
+          "keyword": "ドコモ ahamo",
+          "score": 98
+        },
+        {
+          "keyword": "タイムレスマン",
+          "score": 97
+        },
+        {
+          "keyword": "ドコモsmtbネット銀行",
+          "score": 96
+        },
+        {
+          "keyword": "速水もこみち",
+          "score": 95
+        },
+        {
+          "keyword": "ルビーサファイア",
+          "score": 94
+        },
+        {
+          "keyword": "矢野雅哉",
+          "score": 93
+        },
+        {
+          "keyword": "諸田実咲",
+          "score": 92
+        },
+        {
+          "keyword": "松岡茉優",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-21T08:05:06.146Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "upcoming events",
-          "score": 100
-        },
-        {
-          "keyword": "hotels",
-          "score": 99
-        },
-        {
-          "keyword": "jev",
-          "score": 98
-        },
-        {
-          "keyword": "lanterns recap",
-          "score": 97
-        },
-        {
-          "keyword": "movie",
-          "score": 96
-        },
-        {
-          "keyword": "sharon stone",
-          "score": 95
-        },
-        {
-          "keyword": "japan",
-          "score": 94
-        },
-        {
-          "keyword": "austin",
-          "score": 93
-        },
-        {
-          "keyword": "new york",
-          "score": 92
-        },
-        {
-          "keyword": "asteroid impact",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-21T15:12:59.962Z",
       "geo": "US",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "jenson brooksby",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-25T13:59:20.058Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "angela bassett",
+          "score": 100
+        },
+        {
+          "keyword": "f1 qualifying",
+          "score": 99
+        },
+        {
+          "keyword": "mid autumn festival",
+          "score": 98
+        },
+        {
+          "keyword": "classroom",
+          "score": 97
+        },
+        {
+          "keyword": "mozambique vs senegal",
+          "score": 96
+        },
+        {
+          "keyword": "laver cup",
+          "score": 95
+        },
+        {
+          "keyword": "first ladies state dinner style",
+          "score": 94
+        },
+        {
+          "keyword": "amistosos",
+          "score": 93
+        },
+        {
+          "keyword": "jingle ball 2026",
+          "score": 92
+        },
+        {
+          "keyword": "johnny appleseed",
           "score": 91
         }
       ]
