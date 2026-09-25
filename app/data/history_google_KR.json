@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-21T15:13:00.971Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "윤동희",
-          "score": 100
-        },
-        {
-          "keyword": "치지직",
-          "score": 99
-        },
-        {
-          "keyword": "아시안게임",
-          "score": 98
-        },
-        {
-          "keyword": "김영범",
-          "score": 97
-        },
-        {
-          "keyword": "dmz",
-          "score": 96
-        },
-        {
-          "keyword": "발로란트 추석 이벤트",
-          "score": 95
-        },
-        {
-          "keyword": "양승혜",
-          "score": 94
-        },
-        {
-          "keyword": "최지만",
-          "score": 93
-        },
-        {
-          "keyword": "드래프트",
-          "score": 92
-        },
-        {
-          "keyword": "김다현",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-21T20:03:26.919Z",
       "geo": "KR",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "이재성",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-25T18:14:18.755Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "olympia",
+          "score": 100
+        },
+        {
+          "keyword": "하주석",
+          "score": 99
+        },
+        {
+          "keyword": "맨시티",
+          "score": 98
+        },
+        {
+          "keyword": "이승철",
+          "score": 97
+        },
+        {
+          "keyword": "이은결",
+          "score": 96
+        },
+        {
+          "keyword": "정은혜",
+          "score": 95
+        },
+        {
+          "keyword": "내일 날씨",
+          "score": 94
+        },
+        {
+          "keyword": "금",
+          "score": 93
+        },
+        {
+          "keyword": "thời tiết ngày mai",
+          "score": 92
+        },
+        {
+          "keyword": "weather tomorrow",
           "score": 91
         }
       ]

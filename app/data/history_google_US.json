@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-21T15:12:59.962Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "intc",
-          "score": 100
-        },
-        {
-          "keyword": "hope davis",
-          "score": 99
-        },
-        {
-          "keyword": "amd stock",
-          "score": 98
-        },
-        {
-          "keyword": "peter krause",
-          "score": 97
-        },
-        {
-          "keyword": "khan",
-          "score": 96
-        },
-        {
-          "keyword": "taylor tomlinson",
-          "score": 95
-        },
-        {
-          "keyword": "cat",
-          "score": 94
-        },
-        {
-          "keyword": "max preps",
-          "score": 93
-        },
-        {
-          "keyword": "dictionary",
-          "score": 92
-        },
-        {
-          "keyword": "fortnite",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-21T20:03:25.900Z",
       "geo": "US",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "johnny appleseed",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-25T18:14:17.855Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "italia - bélgica",
+          "score": 100
+        },
+        {
+          "keyword": "sweden vs romania",
+          "score": 99
+        },
+        {
+          "keyword": "man city 115 charges",
+          "score": 98
+        },
+        {
+          "keyword": "nigella lawson",
+          "score": 97
+        },
+        {
+          "keyword": "türkiye vs france",
+          "score": 96
+        },
+        {
+          "keyword": "turquía - francia",
+          "score": 95
+        },
+        {
+          "keyword": "italy vs belgium",
+          "score": 94
+        },
+        {
+          "keyword": "poland vs bosnia and herzegovina",
+          "score": 93
+        },
+        {
+          "keyword": "games",
+          "score": 92
+        },
+        {
+          "keyword": "immigration news",
           "score": 91
         }
       ]
