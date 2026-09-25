@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-21T20:03:25.900Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "comerica park",
-          "score": 100
-        },
-        {
-          "keyword": "flores amarillas",
-          "score": 99
-        },
-        {
-          "keyword": "argentina",
-          "score": 98
-        },
-        {
-          "keyword": "bryson dechambeau",
-          "score": 97
-        },
-        {
-          "keyword": "meta stock",
-          "score": 96
-        },
-        {
-          "keyword": "baseball",
-          "score": 95
-        },
-        {
-          "keyword": "el nino",
-          "score": 94
-        },
-        {
-          "keyword": "destiny 2",
-          "score": 93
-        },
-        {
-          "keyword": "pictures",
-          "score": 92
-        },
-        {
-          "keyword": "jennifer eckhart",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-21T23:25:37.571Z",
       "geo": "US",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "immigration news",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-25T21:43:01.599Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "dow jones industrial average",
+          "score": 100
+        },
+        {
+          "keyword": "connor nelson apartment burglary california",
+          "score": 99
+        },
+        {
+          "keyword": "steve gleason",
+          "score": 98
+        },
+        {
+          "keyword": "life surge",
+          "score": 97
+        },
+        {
+          "keyword": "cornell",
+          "score": 96
+        },
+        {
+          "keyword": "xrp news",
+          "score": 95
+        },
+        {
+          "keyword": "snake",
+          "score": 94
+        },
+        {
+          "keyword": "brendan beck",
+          "score": 93
+        },
+        {
+          "keyword": "fleabag",
+          "score": 92
+        },
+        {
+          "keyword": "google",
           "score": 91
         }
       ]
