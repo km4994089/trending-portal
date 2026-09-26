@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-22T01:40:44.047Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "게임",
-          "score": 100
-        },
-        {
-          "keyword": "기상청 날씨누리",
-          "score": 99
-        },
-        {
-          "keyword": "청약홈",
-          "score": 98
-        },
-        {
-          "keyword": "기상청",
-          "score": 97
-        },
-        {
-          "keyword": "하이닉스 주가",
-          "score": 96
-        },
-        {
-          "keyword": "삼성전자 주가",
-          "score": 95
-        },
-        {
-          "keyword": "x",
-          "score": 94
-        },
-        {
-          "keyword": "구글",
-          "score": 93
-        },
-        {
-          "keyword": "업비트",
-          "score": 92
-        },
-        {
-          "keyword": "윤동희",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-22T07:02:06.025Z",
       "geo": "KR",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "날씨",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-26T05:12:47.606Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "최수종",
+          "score": 100
+        },
+        {
+          "keyword": "진양곤",
+          "score": 99
+        },
+        {
+          "keyword": "죽음",
+          "score": 98
+        },
+        {
+          "keyword": "asian games men",
+          "score": 97
+        },
+        {
+          "keyword": "뿌요뿌요",
+          "score": 96
+        },
+        {
+          "keyword": "최태원",
+          "score": 95
+        },
+        {
+          "keyword": "nepal vs japan",
+          "score": 94
+        },
+        {
+          "keyword": "카바디",
+          "score": 93
+        },
+        {
+          "keyword": "김대호",
+          "score": 92
+        },
+        {
+          "keyword": "페데리코 발베르데",
           "score": 91
         }
       ]
