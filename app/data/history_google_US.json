@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-22T07:02:05.065Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "flights",
-          "score": 100
-        },
-        {
-          "keyword": "draftkings fantasy",
-          "score": 99
-        },
-        {
-          "keyword": "time",
-          "score": 98
-        },
-        {
-          "keyword": "india",
-          "score": 97
-        },
-        {
-          "keyword": "yosemite national park",
-          "score": 96
-        },
-        {
-          "keyword": "sam richardson",
-          "score": 95
-        },
-        {
-          "keyword": "woody harrelson",
-          "score": 94
-        },
-        {
-          "keyword": "silent hill townfall",
-          "score": 93
-        },
-        {
-          "keyword": "dave franco",
-          "score": 92
-        },
-        {
-          "keyword": "bo davidson",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-22T12:43:17.302Z",
       "geo": "US",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "new movies streaming this weekend",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-26T10:00:01.003Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "activity",
+          "score": 100
+        },
+        {
+          "keyword": "trump administration rescinds congressional spending",
+          "score": 99
+        },
+        {
+          "keyword": "american",
+          "score": 98
+        },
+        {
+          "keyword": "concerts",
+          "score": 97
+        },
+        {
+          "keyword": "time",
+          "score": 96
+        },
+        {
+          "keyword": "kamil majchrzak",
+          "score": 95
+        },
+        {
+          "keyword": "heather matarazzo",
+          "score": 94
+        },
+        {
+          "keyword": "amazon prime ftc settlement refunds",
+          "score": 93
+        },
+        {
+          "keyword": "schools",
+          "score": 92
+        },
+        {
+          "keyword": "swimming",
           "score": 91
         }
       ]

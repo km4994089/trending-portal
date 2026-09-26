@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-22T07:02:06.025Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "타자",
-          "score": 100
-        },
-        {
-          "keyword": "메타 뮤즈",
-          "score": 99
-        },
-        {
-          "keyword": "제미나이",
-          "score": 98
-        },
-        {
-          "keyword": "게임",
-          "score": 97
-        },
-        {
-          "keyword": "기상청 날씨누리",
-          "score": 96
-        },
-        {
-          "keyword": "청약홈",
-          "score": 95
-        },
-        {
-          "keyword": "달력",
-          "score": 94
-        },
-        {
-          "keyword": "하이닉스 주가",
-          "score": 93
-        },
-        {
-          "keyword": "조선일보",
-          "score": 92
-        },
-        {
-          "keyword": "삼성전자 주가",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-22T12:43:18.135Z",
       "geo": "KR",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "페데리코 발베르데",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-26T10:00:02.460Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "사교육",
+          "score": 100
+        },
+        {
+          "keyword": "구자욱",
+          "score": 99
+        },
+        {
+          "keyword": "유조선",
+          "score": 98
+        },
+        {
+          "keyword": "피싱",
+          "score": 97
+        },
+        {
+          "keyword": "지민",
+          "score": 96
+        },
+        {
+          "keyword": "고기",
+          "score": 95
+        },
+        {
+          "keyword": "투자",
+          "score": 94
+        },
+        {
+          "keyword": "왕만위",
+          "score": 93
+        },
+        {
+          "keyword": "lpga",
+          "score": 92
+        },
+        {
+          "keyword": "키움 대 kt",
           "score": 91
         }
       ]

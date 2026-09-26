@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-22T07:02:07.078Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "地震速報",
-          "score": 100
-        },
-        {
-          "keyword": "ジャイアンツtv",
-          "score": 99
-        },
-        {
-          "keyword": "中山美穂",
-          "score": 98
-        },
-        {
-          "keyword": "とろサーモン久保田",
-          "score": 97
-        },
-        {
-          "keyword": "bリーグ",
-          "score": 96
-        },
-        {
-          "keyword": "大神雄子",
-          "score": 95
-        },
-        {
-          "keyword": "熱海",
-          "score": 94
-        },
-        {
-          "keyword": "玉川祐子",
-          "score": 93
-        },
-        {
-          "keyword": "野々村友紀子",
-          "score": 92
-        },
-        {
-          "keyword": "マック",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-22T12:43:19.567Z",
       "geo": "JP",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "ジャイアンツ 対 ドジャース",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-26T10:00:03.834Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "キムラ緑子",
+          "score": 100
+        },
+        {
+          "keyword": "壬氏",
+          "score": 99
+        },
+        {
+          "keyword": "格付けチェック",
+          "score": 98
+        },
+        {
+          "keyword": "張本智和",
+          "score": 97
+        },
+        {
+          "keyword": "あおにしき",
+          "score": 96
+        },
+        {
+          "keyword": "アジア大会 卓球",
+          "score": 95
+        },
+        {
+          "keyword": "三浦友和",
+          "score": 94
+        },
+        {
+          "keyword": "今治 対 湘南",
+          "score": 93
+        },
+        {
+          "keyword": "鈴木愛理",
+          "score": 92
+        },
+        {
+          "keyword": "j2",
           "score": 91
         }
       ]
