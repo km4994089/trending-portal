@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-21T23:25:38.604Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "삼성전자 주가",
-          "score": 100
-        },
-        {
-          "keyword": "구글",
-          "score": 99
-        },
-        {
-          "keyword": "업비트",
-          "score": 98
-        },
-        {
-          "keyword": "윤동희",
-          "score": 97
-        },
-        {
-          "keyword": "조병현",
-          "score": 96
-        },
-        {
-          "keyword": "치지직",
-          "score": 95
-        },
-        {
-          "keyword": "아시안게임",
-          "score": 94
-        },
-        {
-          "keyword": "dmz",
-          "score": 93
-        },
-        {
-          "keyword": "발로란트 추석 이벤트",
-          "score": 92
-        },
-        {
-          "keyword": "양승혜",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-22T01:40:44.047Z",
       "geo": "KR",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "이탈리아 대 벨기에",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-26T00:15:21.710Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "과일",
+          "score": 100
+        },
+        {
+          "keyword": "아시안 게임",
+          "score": 99
+        },
+        {
+          "keyword": "박명수",
+          "score": 98
+        },
+        {
+          "keyword": "김가연",
+          "score": 97
+        },
+        {
+          "keyword": "퇴장",
+          "score": 96
+        },
+        {
+          "keyword": "연애전쟁",
+          "score": 95
+        },
+        {
+          "keyword": "재건축",
+          "score": 94
+        },
+        {
+          "keyword": "임영웅",
+          "score": 93
+        },
+        {
+          "keyword": "배틀그라운드",
+          "score": 92
+        },
+        {
+          "keyword": "날씨",
           "score": 91
         }
       ]

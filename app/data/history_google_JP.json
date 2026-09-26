@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-21T23:25:39.758Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "石橋静河",
-          "score": 100
-        },
-        {
-          "keyword": "土屋太鳳",
-          "score": 99
-        },
-        {
-          "keyword": "千葉県佐倉市",
-          "score": 98
-        },
-        {
-          "keyword": "市川團十郎",
-          "score": 97
-        },
-        {
-          "keyword": "モーニング",
-          "score": 96
-        },
-        {
-          "keyword": "こどもの国",
-          "score": 95
-        },
-        {
-          "keyword": "よみうりランド",
-          "score": 94
-        },
-        {
-          "keyword": "朝マックメニュー",
-          "score": 93
-        },
-        {
-          "keyword": "通行止め",
-          "score": 92
-        },
-        {
-          "keyword": "渋滞情報",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-22T01:40:44.958Z",
       "geo": "JP",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "古賀紗理那",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-26T00:15:23.061Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "サメ",
+          "score": 100
+        },
+        {
+          "keyword": "上白石萌音",
+          "score": 99
+        },
+        {
+          "keyword": "ホワイトソックス 対 ロッキーズ",
+          "score": 98
+        },
+        {
+          "keyword": "マーリンズ 対 ブレーブス",
+          "score": 97
+        },
+        {
+          "keyword": "宝くじ",
+          "score": 96
+        },
+        {
+          "keyword": "佐藤早也伽",
+          "score": 95
+        },
+        {
+          "keyword": "三原理稀",
+          "score": 94
+        },
+        {
+          "keyword": "フィリーズ 対 レイズ",
+          "score": 93
+        },
+        {
+          "keyword": "ふるさと納税",
+          "score": 92
+        },
+        {
+          "keyword": "날씨",
           "score": 91
         }
       ]
