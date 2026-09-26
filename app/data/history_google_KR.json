@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-22T20:18:09.529Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "한다감",
-          "score": 100
-        },
-        {
-          "keyword": "opus 5.5",
-          "score": 99
-        },
-        {
-          "keyword": "전국노래자랑",
-          "score": 98
-        },
-        {
-          "keyword": "죽음",
-          "score": 97
-        },
-        {
-          "keyword": "웨스팅하우스",
-          "score": 96
-        },
-        {
-          "keyword": "김혜수",
-          "score": 95
-        },
-        {
-          "keyword": "무신사",
-          "score": 94
-        },
-        {
-          "keyword": "대통령",
-          "score": 93
-        },
-        {
-          "keyword": "신병",
-          "score": 92
-        },
-        {
-          "keyword": "편의점",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-22T23:04:27.121Z",
       "geo": "KR",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "정시아",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-26T20:21:27.533Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "종이팩",
+          "score": 100
+        },
+        {
+          "keyword": "한채아",
+          "score": 99
+        },
+        {
+          "keyword": "england vs spain",
+          "score": 98
+        },
+        {
+          "keyword": "잉글랜드 대 스페인",
+          "score": 97
+        },
+        {
+          "keyword": "이창섭",
+          "score": 96
+        },
+        {
+          "keyword": "윤아",
+          "score": 95
+        },
+        {
+          "keyword": "왕사남",
+          "score": 94
+        },
+        {
+          "keyword": "지선",
+          "score": 93
+        },
+        {
+          "keyword": "휴게소",
+          "score": 92
+        },
+        {
+          "keyword": "조현아",
           "score": 91
         }
       ]
