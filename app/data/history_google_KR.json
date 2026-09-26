@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-22T17:26:07.372Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "죽음",
-          "score": 100
-        },
-        {
-          "keyword": "신병4",
-          "score": 99
-        },
-        {
-          "keyword": "김혜수",
-          "score": 98
-        },
-        {
-          "keyword": "무신사",
-          "score": 97
-        },
-        {
-          "keyword": "대통령",
-          "score": 96
-        },
-        {
-          "keyword": "편의점",
-          "score": 95
-        },
-        {
-          "keyword": "혼인",
-          "score": 94
-        },
-        {
-          "keyword": "박남정",
-          "score": 93
-        },
-        {
-          "keyword": "노원구",
-          "score": 92
-        },
-        {
-          "keyword": "삼성전기",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-22T20:18:09.529Z",
       "geo": "KR",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "경복궁",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-26T17:50:32.233Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "이창섭",
+          "score": 100
+        },
+        {
+          "keyword": "윤아",
+          "score": 99
+        },
+        {
+          "keyword": "왕사남",
+          "score": 98
+        },
+        {
+          "keyword": "지선",
+          "score": 97
+        },
+        {
+          "keyword": "휴게소",
+          "score": 96
+        },
+        {
+          "keyword": "조현아",
+          "score": 95
+        },
+        {
+          "keyword": "lotto result 6/45",
+          "score": 94
+        },
+        {
+          "keyword": "sbs",
+          "score": 93
+        },
+        {
+          "keyword": "한소희",
+          "score": 92
+        },
+        {
+          "keyword": "정시아",
           "score": 91
         }
       ]

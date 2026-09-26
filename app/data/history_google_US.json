@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-22T17:26:06.165Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "opus 5.5",
-          "score": 100
-        },
-        {
-          "keyword": "beats 360",
-          "score": 99
-        },
-        {
-          "keyword": "fat bear week voting",
-          "score": 98
-        },
-        {
-          "keyword": "rays vs yankees",
-          "score": 97
-        },
-        {
-          "keyword": "nyt",
-          "score": 96
-        },
-        {
-          "keyword": "tubi",
-          "score": 95
-        },
-        {
-          "keyword": "taylor swift",
-          "score": 94
-        },
-        {
-          "keyword": "h&m",
-          "score": 93
-        },
-        {
-          "keyword": "foreign policy",
-          "score": 92
-        },
-        {
-          "keyword": "icc",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-22T20:18:08.505Z",
       "geo": "US",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "ole miss vs florida",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-26T17:50:30.882Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "erin andrews",
+          "score": 100
+        },
+        {
+          "keyword": "arch manning",
+          "score": 99
+        },
+        {
+          "keyword": "jeremiah smith",
+          "score": 98
+        },
+        {
+          "keyword": "northern il vs georgia state",
+          "score": 97
+        },
+        {
+          "keyword": "lindenwood vs eastern mi",
+          "score": 96
+        },
+        {
+          "keyword": "notre dame vs purdue",
+          "score": 95
+        },
+        {
+          "keyword": "ucla vs maryland",
+          "score": 94
+        },
+        {
+          "keyword": "marsha blackburn",
+          "score": 93
+        },
+        {
+          "keyword": "texas football",
+          "score": 92
+        },
+        {
+          "keyword": "james laurinaitis",
           "score": 91
         }
       ]

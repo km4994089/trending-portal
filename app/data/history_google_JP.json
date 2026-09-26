@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-22T17:26:08.624Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ラヴ上等",
-          "score": 100
-        },
-        {
-          "keyword": "純烈",
-          "score": 99
-        },
-        {
-          "keyword": "税金で買った本",
-          "score": 98
-        },
-        {
-          "keyword": "ゆーちゅーぶ",
-          "score": 97
-        },
-        {
-          "keyword": "ナスダック100",
-          "score": 96
-        },
-        {
-          "keyword": "阪神 マジック",
-          "score": 95
-        },
-        {
-          "keyword": "山口茜",
-          "score": 94
-        },
-        {
-          "keyword": "ヤクルト",
-          "score": 93
-        },
-        {
-          "keyword": "近本光司",
-          "score": 92
-        },
-        {
-          "keyword": "なにわaぇの放送させてください",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-22T20:18:10.755Z",
       "geo": "JP",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "akb48",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-26T17:50:33.351Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "せいや 猪俣",
+          "score": 100
+        },
+        {
+          "keyword": "石橋凌",
+          "score": 99
+        },
+        {
+          "keyword": "上与那原寛和",
+          "score": 98
+        },
+        {
+          "keyword": "女子 バスケットボール 日本代表",
+          "score": 97
+        },
+        {
+          "keyword": "モンスト コラボ",
+          "score": 96
+        },
+        {
+          "keyword": "太陽",
+          "score": 95
+        },
+        {
+          "keyword": "アナザースカイ",
+          "score": 94
+        },
+        {
+          "keyword": "パジェロ",
+          "score": 93
+        },
+        {
+          "keyword": "倖田來未",
+          "score": 92
+        },
+        {
+          "keyword": "室伏広治",
           "score": 91
         }
       ]
