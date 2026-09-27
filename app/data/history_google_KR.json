@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-22T23:04:27.121Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "사건",
-          "score": 100
-        },
-        {
-          "keyword": "황보라",
-          "score": 99
-        },
-        {
-          "keyword": "정준하",
-          "score": 98
-        },
-        {
-          "keyword": "추분",
-          "score": 97
-        },
-        {
-          "keyword": "장윤정",
-          "score": 96
-        },
-        {
-          "keyword": "핑클",
-          "score": 95
-        },
-        {
-          "keyword": "현대자동차",
-          "score": 94
-        },
-        {
-          "keyword": "인공지능",
-          "score": 93
-        },
-        {
-          "keyword": "농민",
-          "score": 92
-        },
-        {
-          "keyword": "재건축",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-09-23T01:35:13.275Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김건우",
-          "score": 100
-        },
-        {
-          "keyword": "추석인사",
-          "score": 99
-        },
-        {
-          "keyword": "25 사단 지뢰",
-          "score": 98
-        },
-        {
-          "keyword": "드래프트",
-          "score": 97
-        },
-        {
-          "keyword": "유태빈",
-          "score": 96
-        },
-        {
-          "keyword": "가덕도신공항",
-          "score": 95
-        },
-        {
-          "keyword": "롯데그룹",
-          "score": 94
-        },
-        {
-          "keyword": "부부의 세계",
-          "score": 93
-        },
-        {
-          "keyword": "신봉선",
-          "score": 92
-        },
-        {
-          "keyword": "관광",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-23T06:57:28.392Z",
       "geo": "KR",
       "source": "google",
@@ -1173,6 +1079,53 @@
         },
         {
           "keyword": "김혜성",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-27T01:36:17.457Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "남편",
+          "score": 100
+        },
+        {
+          "keyword": "3기 신도시",
+          "score": 99
+        },
+        {
+          "keyword": "특허침해",
+          "score": 98
+        },
+        {
+          "keyword": "김상식",
+          "score": 97
+        },
+        {
+          "keyword": "한옥",
+          "score": 96
+        },
+        {
+          "keyword": "최동석",
+          "score": 95
+        },
+        {
+          "keyword": "스타벅스",
+          "score": 94
+        },
+        {
+          "keyword": "증여세",
+          "score": 93
+        },
+        {
+          "keyword": "공무원",
+          "score": 92
+        },
+        {
+          "keyword": "김하성",
           "score": 91
         }
       ]
