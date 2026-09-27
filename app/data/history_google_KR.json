@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-23T23:19:33.835Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "구글 북",
-          "score": 100
-        },
-        {
-          "keyword": "고양이",
-          "score": 99
-        },
-        {
-          "keyword": "김혜성",
-          "score": 98
-        },
-        {
-          "keyword": "윤여정",
-          "score": 97
-        },
-        {
-          "keyword": "압수수색",
-          "score": 96
-        },
-        {
-          "keyword": "약국",
-          "score": 95
-        },
-        {
-          "keyword": "이대호",
-          "score": 94
-        },
-        {
-          "keyword": "충전기",
-          "score": 93
-        },
-        {
-          "keyword": "냉장고",
-          "score": 92
-        },
-        {
-          "keyword": "최준희",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-24T01:31:58.551Z",
       "geo": "KR",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "로봇",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-27T23:29:02.926Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "콜럼버스 크루 대 인터 마이애미",
+          "score": 100
+        },
+        {
+          "keyword": "나는 solo",
+          "score": 99
+        },
+        {
+          "keyword": "식중독",
+          "score": 98
+        },
+        {
+          "keyword": "klasemen tim nasional sepak bola norwegia vs portugal",
+          "score": 97
+        },
+        {
+          "keyword": "권상우",
+          "score": 96
+        },
+        {
+          "keyword": "엔비디아",
+          "score": 95
+        },
+        {
+          "keyword": "weather",
+          "score": 94
+        },
+        {
+          "keyword": "차범근",
+          "score": 93
+        },
+        {
+          "keyword": "김량하",
+          "score": 92
+        },
+        {
+          "keyword": "퇴직",
           "score": 91
         }
       ]

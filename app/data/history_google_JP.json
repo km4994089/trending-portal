@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-23T23:19:35.090Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ブレーブス 対 レッズ",
-          "score": 100
-        },
-        {
-          "keyword": "m6 mac mini",
-          "score": 99
-        },
-        {
-          "keyword": "肝臓",
-          "score": 98
-        },
-        {
-          "keyword": "フィリーズ 対 ブルワーズ",
-          "score": 97
-        },
-        {
-          "keyword": "竹原慎二",
-          "score": 96
-        },
-        {
-          "keyword": "パイレーツ 対 カージナルス",
-          "score": 95
-        },
-        {
-          "keyword": "気温",
-          "score": 94
-        },
-        {
-          "keyword": "kurobe アクア フェアリー ズ 富山",
-          "score": 93
-        },
-        {
-          "keyword": "シンディ・クロフォード",
-          "score": 92
-        },
-        {
-          "keyword": "俺たちの箱根駅伝",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-24T01:31:59.850Z",
       "geo": "JP",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "農産物",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-27T23:29:04.268Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "救命病棟24時",
+          "score": 100
+        },
+        {
+          "keyword": "ブラッサム",
+          "score": 99
+        },
+        {
+          "keyword": "佐々木朗希",
+          "score": 98
+        },
+        {
+          "keyword": "アスレチックス 対 アストロズ",
+          "score": 97
+        },
+        {
+          "keyword": "気温",
+          "score": 96
+        },
+        {
+          "keyword": "今永昇太",
+          "score": 95
+        },
+        {
+          "keyword": "大谷翔平",
+          "score": 94
+        },
+        {
+          "keyword": "パドレス 対 dバックス",
+          "score": 93
+        },
+        {
+          "keyword": "cnn",
+          "score": 92
+        },
+        {
+          "keyword": "タイガース 対 パイレーツ",
           "score": 91
         }
       ]
