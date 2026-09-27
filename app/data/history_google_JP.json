@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-23T12:29:53.687Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "石渡ネルソン",
-          "score": 100
-        },
-        {
-          "keyword": "大統領",
-          "score": 99
-        },
-        {
-          "keyword": "小泉孝太郎",
-          "score": 98
-        },
-        {
-          "keyword": "酒田市",
-          "score": 97
-        },
-        {
-          "keyword": "ひる おび 下半身",
-          "score": 96
-        },
-        {
-          "keyword": "アジア大会 サッカー",
-          "score": 95
-        },
-        {
-          "keyword": "目黒蓮",
-          "score": 94
-        },
-        {
-          "keyword": "1億2000万人のありがとう 歌の感謝祭",
-          "score": 93
-        },
-        {
-          "keyword": "石橋静河",
-          "score": 92
-        },
-        {
-          "keyword": "池江璃花子",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-23T17:22:33.007Z",
       "geo": "JP",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "暴力団",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-27T13:10:10.805Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "三浦翔平",
+          "score": 100
+        },
+        {
+          "keyword": "男子バレーボールアジア選手権",
+          "score": 99
+        },
+        {
+          "keyword": "スターウォーズ",
+          "score": 98
+        },
+        {
+          "keyword": "日本語能力試験",
+          "score": 97
+        },
+        {
+          "keyword": "福士蒼汰",
+          "score": 96
+        },
+        {
+          "keyword": "十種競技",
+          "score": 95
+        },
+        {
+          "keyword": "10種競技",
+          "score": 94
+        },
+        {
+          "keyword": "北口榛花",
+          "score": 93
+        },
+        {
+          "keyword": "ベッキー",
+          "score": 92
+        },
+        {
+          "keyword": "福部真子",
           "score": 91
         }
       ]

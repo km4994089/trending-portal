@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-23T12:29:50.898Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ina garten",
-          "score": 100
-        },
-        {
-          "keyword": "benjamin netanyahu",
-          "score": 99
-        },
-        {
-          "keyword": "ionq stock",
-          "score": 98
-        },
-        {
-          "keyword": "melania trump",
-          "score": 97
-        },
-        {
-          "keyword": "panthers depth chart",
-          "score": 96
-        },
-        {
-          "keyword": "dana bash",
-          "score": 95
-        },
-        {
-          "keyword": "jonathan brooks",
-          "score": 94
-        },
-        {
-          "keyword": "ryan clark",
-          "score": 93
-        },
-        {
-          "keyword": "cruise ship",
-          "score": 92
-        },
-        {
-          "keyword": "daylight savings 2026",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-23T17:22:30.662Z",
       "geo": "US",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "tucker carlson",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-27T13:10:08.284Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ke huy quan",
+          "score": 100
+        },
+        {
+          "keyword": "jim banks",
+          "score": 99
+        },
+        {
+          "keyword": "ice",
+          "score": 98
+        },
+        {
+          "keyword": "patriots schedule",
+          "score": 97
+        },
+        {
+          "keyword": "top 25 college football rankings",
+          "score": 96
+        },
+        {
+          "keyword": "presidents cup tee times",
+          "score": 95
+        },
+        {
+          "keyword": "rochester red wings",
+          "score": 94
+        },
+        {
+          "keyword": "caitriona balfe",
+          "score": 93
+        },
+        {
+          "keyword": "school",
+          "score": 92
+        },
+        {
+          "keyword": "prisoner",
           "score": 91
         }
       ]
