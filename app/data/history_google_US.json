@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-23T06:57:27.109Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ciudadano",
-          "score": 100
-        },
-        {
-          "keyword": "earthquake",
-          "score": 99
-        },
-        {
-          "keyword": "ice",
-          "score": 98
-        },
-        {
-          "keyword": "maya joint",
-          "score": 97
-        },
-        {
-          "keyword": "jon hamm",
-          "score": 96
-        },
-        {
-          "keyword": "will smith",
-          "score": 95
-        },
-        {
-          "keyword": "austin abrams",
-          "score": 94
-        },
-        {
-          "keyword": "athletics",
-          "score": 93
-        },
-        {
-          "keyword": "josue de paula",
-          "score": 92
-        },
-        {
-          "keyword": "pop latino",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-23T12:29:50.898Z",
       "geo": "US",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "univision",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-27T07:19:09.766Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "maya joint",
+          "score": 100
+        },
+        {
+          "keyword": "aew wrestling",
+          "score": 99
+        },
+        {
+          "keyword": "halle berry",
+          "score": 98
+        },
+        {
+          "keyword": "stock market today",
+          "score": 97
+        },
+        {
+          "keyword": "mortgage rates today",
+          "score": 96
+        },
+        {
+          "keyword": "netflix new releases",
+          "score": 95
+        },
+        {
+          "keyword": "weather forecast today",
+          "score": 94
+        },
+        {
+          "keyword": "the social reckoning",
+          "score": 93
+        },
+        {
+          "keyword": "jeremy peña",
+          "score": 92
+        },
+        {
+          "keyword": "tucker carlson",
           "score": 91
         }
       ]

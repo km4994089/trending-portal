@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-23T06:57:28.392Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "천하람",
-          "score": 100
-        },
-        {
-          "keyword": "나경원",
-          "score": 99
-        },
-        {
-          "keyword": "두류공원",
-          "score": 98
-        },
-        {
-          "keyword": "류화영",
-          "score": 97
-        },
-        {
-          "keyword": "김현지",
-          "score": 96
-        },
-        {
-          "keyword": "박찬호",
-          "score": 95
-        },
-        {
-          "keyword": "이혼",
-          "score": 94
-        },
-        {
-          "keyword": "김상겸",
-          "score": 93
-        },
-        {
-          "keyword": "한준호",
-          "score": 92
-        },
-        {
-          "keyword": "대만",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-23T12:29:52.296Z",
       "geo": "KR",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "김하성",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-27T07:19:10.887Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "뷔",
+          "score": 100
+        },
+        {
+          "keyword": "이재명",
+          "score": 99
+        },
+        {
+          "keyword": "주가",
+          "score": 98
+        },
+        {
+          "keyword": "라이언 와이스",
+          "score": 97
+        },
+        {
+          "keyword": "휴직",
+          "score": 96
+        },
+        {
+          "keyword": "시청률",
+          "score": 95
+        },
+        {
+          "keyword": "은가은",
+          "score": 94
+        },
+        {
+          "keyword": "나 혼자 산다",
+          "score": 93
+        },
+        {
+          "keyword": "살인",
+          "score": 92
+        },
+        {
+          "keyword": "콘크리트",
           "score": 91
         }
       ]
