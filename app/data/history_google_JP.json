@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-23T17:22:33.007Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "緊急着陸",
-          "score": 100
-        },
-        {
-          "keyword": "新宿 火事",
-          "score": 99
-        },
-        {
-          "keyword": "日ハム",
-          "score": 98
-        },
-        {
-          "keyword": "仲里依紗",
-          "score": 97
-        },
-        {
-          "keyword": "松島輝空",
-          "score": 96
-        },
-        {
-          "keyword": "安室奈美恵",
-          "score": 95
-        },
-        {
-          "keyword": "浜崎あゆみ",
-          "score": 94
-        },
-        {
-          "keyword": "アイドル",
-          "score": 93
-        },
-        {
-          "keyword": "suica 投票",
-          "score": 92
-        },
-        {
-          "keyword": "足利事件",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-23T20:34:08.660Z",
       "geo": "JP",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "福部真子",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-27T17:51:57.539Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ダークマター",
+          "score": 100
+        },
+        {
+          "keyword": "入間くん",
+          "score": 99
+        },
+        {
+          "keyword": "岩貞祐太",
+          "score": 98
+        },
+        {
+          "keyword": "セルビア 対 オランダ",
+          "score": 97
+        },
+        {
+          "keyword": "深澤",
+          "score": 96
+        },
+        {
+          "keyword": "セパタクロー",
+          "score": 95
+        },
+        {
+          "keyword": "アメトーク",
+          "score": 94
+        },
+        {
+          "keyword": "伊原六花",
+          "score": 93
+        },
+        {
+          "keyword": "多田修平",
+          "score": 92
+        },
+        {
+          "keyword": "神戸新聞",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-23T17:22:30.662Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "dart",
-          "score": 100
-        },
-        {
-          "keyword": "joe milton",
-          "score": 99
-        },
-        {
-          "keyword": "blue jays vs orioles",
-          "score": 98
-        },
-        {
-          "keyword": "donald trump approval rating 29 percent",
-          "score": 97
-        },
-        {
-          "keyword": "exoplanet",
-          "score": 96
-        },
-        {
-          "keyword": "koby howard",
-          "score": 95
-        },
-        {
-          "keyword": "harvey weinstein",
-          "score": 94
-        },
-        {
-          "keyword": "apple lawsuit claim",
-          "score": 93
-        },
-        {
-          "keyword": "lonzo ball",
-          "score": 92
-        },
-        {
-          "keyword": "mike lee",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-23T20:34:06.539Z",
       "geo": "US",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "prisoner",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-27T17:51:55.683Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "marcus mariota",
+          "score": 100
+        },
+        {
+          "keyword": "darnell washington",
+          "score": 99
+        },
+        {
+          "keyword": "tv app",
+          "score": 98
+        },
+        {
+          "keyword": "netherlands vs serbia",
+          "score": 97
+        },
+        {
+          "keyword": "nfl",
+          "score": 96
+        },
+        {
+          "keyword": "ollie gordon ii",
+          "score": 95
+        },
+        {
+          "keyword": "spencer shrader",
+          "score": 94
+        },
+        {
+          "keyword": "dolphins qb",
+          "score": 93
+        },
+        {
+          "keyword": "detroit",
+          "score": 92
+        },
+        {
+          "keyword": "mexx meerdink",
           "score": 91
         }
       ]
