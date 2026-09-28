@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-24T01:31:59.850Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "佐藤駿一郎",
-          "score": 100
-        },
-        {
-          "keyword": "ロイヤルズ 対 ホワイトソックス",
-          "score": 99
-        },
-        {
-          "keyword": "ロッキーズ 対 dバックス",
-          "score": 98
-        },
-        {
-          "keyword": "イビデン 株価",
-          "score": 97
-        },
-        {
-          "keyword": "日経平均株価",
-          "score": 96
-        },
-        {
-          "keyword": "キオクシア 株価",
-          "score": 95
-        },
-        {
-          "keyword": "カブス 対 マーリンズ",
-          "score": 94
-        },
-        {
-          "keyword": "ブレーブス 対 レッズ",
-          "score": 93
-        },
-        {
-          "keyword": "m6 mac mini",
-          "score": 92
-        },
-        {
-          "keyword": "肝臓",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-24T06:55:24.342Z",
       "geo": "JP",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "タイガース 対 パイレーツ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-28T01:52:10.355Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "倉本聰",
+          "score": 100
+        },
+        {
+          "keyword": "ニデック",
+          "score": 99
+        },
+        {
+          "keyword": "中川翔子",
+          "score": 98
+        },
+        {
+          "keyword": "東海道線",
+          "score": 97
+        },
+        {
+          "keyword": "坂口健太郎",
+          "score": 96
+        },
+        {
+          "keyword": "蛯原 友里",
+          "score": 95
+        },
+        {
+          "keyword": "救命病棟24時",
+          "score": 94
+        },
+        {
+          "keyword": "ブラッサム",
+          "score": 93
+        },
+        {
+          "keyword": "佐々木朗希",
+          "score": 92
+        },
+        {
+          "keyword": "アスレチックス 対 アストロズ",
           "score": 91
         }
       ]
