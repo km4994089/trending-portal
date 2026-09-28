@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-24T06:55:23.269Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "조명우",
-          "score": 100
-        },
-        {
-          "keyword": "김혜경",
-          "score": 99
-        },
-        {
-          "keyword": "야마모토 요시노부",
-          "score": 98
-        },
-        {
-          "keyword": "아파트",
-          "score": 97
-        },
-        {
-          "keyword": "삼성 반도체",
-          "score": 96
-        },
-        {
-          "keyword": "미스터트롯",
-          "score": 95
-        },
-        {
-          "keyword": "실신",
-          "score": 94
-        },
-        {
-          "keyword": "배드민턴",
-          "score": 93
-        },
-        {
-          "keyword": "기성용",
-          "score": 92
-        },
-        {
-          "keyword": "신한은행",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-24T12:25:21.656Z",
       "geo": "KR",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "권상우",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-28T07:56:15.963Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "lg전자",
+          "score": 100
+        },
+        {
+          "keyword": "삼성전자 주가",
+          "score": 99
+        },
+        {
+          "keyword": "아시안 게임 e스포츠",
+          "score": 98
+        },
+        {
+          "keyword": "정원오",
+          "score": 97
+        },
+        {
+          "keyword": "싸이",
+          "score": 96
+        },
+        {
+          "keyword": "살림하는 남자들",
+          "score": 95
+        },
+        {
+          "keyword": "삼성전기",
+          "score": 94
+        },
+        {
+          "keyword": "옥천군",
+          "score": 93
+        },
+        {
+          "keyword": "마크 도스 산토스",
+          "score": 92
+        },
+        {
+          "keyword": "박보검",
           "score": 91
         }
       ]

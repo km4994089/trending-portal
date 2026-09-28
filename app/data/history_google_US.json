@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-24T06:55:22.086Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jaime faria",
-          "score": 100
-        },
-        {
-          "keyword": "senator mitch mcconnell",
-          "score": 99
-        },
-        {
-          "keyword": "uss abraham lincoln",
-          "score": 98
-        },
-        {
-          "keyword": "anna bondar",
-          "score": 97
-        },
-        {
-          "keyword": "wendy's",
-          "score": 96
-        },
-        {
-          "keyword": "josh hader",
-          "score": 95
-        },
-        {
-          "keyword": "mariners game",
-          "score": 94
-        },
-        {
-          "keyword": "ethan hawke",
-          "score": 93
-        },
-        {
-          "keyword": "f35",
-          "score": 92
-        },
-        {
-          "keyword": "xbox",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-24T12:25:20.275Z",
       "geo": "US",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "julia roberts",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-28T07:56:15.079Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "trump china",
+          "score": 100
+        },
+        {
+          "keyword": "hurricanes weather",
+          "score": 99
+        },
+        {
+          "keyword": "raye and michael b jordan",
+          "score": 98
+        },
+        {
+          "keyword": "hal jordan lanterns",
+          "score": 97
+        },
+        {
+          "keyword": "necaxa vs club américa standings",
+          "score": 96
+        },
+        {
+          "keyword": "fitness",
+          "score": 95
+        },
+        {
+          "keyword": "luke bryan",
+          "score": 94
+        },
+        {
+          "keyword": "tabla liga mx",
+          "score": 93
+        },
+        {
+          "keyword": "swimming",
+          "score": 92
+        },
+        {
+          "keyword": "cycling",
           "score": 91
         }
       ]
