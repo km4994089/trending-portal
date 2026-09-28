@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-24T12:25:21.656Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "비웨사",
-          "score": 100
-        },
-        {
-          "keyword": "3쿠션",
-          "score": 99
-        },
-        {
-          "keyword": "tvn",
-          "score": 98
-        },
-        {
-          "keyword": "tv조선",
-          "score": 97
-        },
-        {
-          "keyword": "고속도로",
-          "score": 96
-        },
-        {
-          "keyword": "일본 우루과이",
-          "score": 95
-        },
-        {
-          "keyword": "아시안게임 축구",
-          "score": 94
-        },
-        {
-          "keyword": "쿠팡플레이",
-          "score": 93
-        },
-        {
-          "keyword": "축제",
-          "score": 92
-        },
-        {
-          "keyword": "이건태",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-24T17:24:22.270Z",
       "geo": "KR",
       "source": "google",
@@ -1126,6 +1079,53 @@
         },
         {
           "keyword": "박보검",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-28T16:16:44.584Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "전지현",
+          "score": 100
+        },
+        {
+          "keyword": "선거",
+          "score": 99
+        },
+        {
+          "keyword": "파운드리",
+          "score": 98
+        },
+        {
+          "keyword": "채무",
+          "score": 97
+        },
+        {
+          "keyword": "김민수",
+          "score": 96
+        },
+        {
+          "keyword": "김연자",
+          "score": 95
+        },
+        {
+          "keyword": "일본 우루과이",
+          "score": 94
+        },
+        {
+          "keyword": "포를란",
+          "score": 93
+        },
+        {
+          "keyword": "설영우",
+          "score": 92
+        },
+        {
+          "keyword": "국가수사본부",
           "score": 91
         }
       ]
