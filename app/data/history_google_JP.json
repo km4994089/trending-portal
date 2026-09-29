@@ -3,100 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-25T02:27:29.548Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "田中真美子",
-          "score": 100
-        },
-        {
-          "keyword": "2026 中秋の名月",
-          "score": 99
-        },
-        {
-          "keyword": "2026 年中秋節",
-          "score": 98
-        },
-        {
-          "keyword": "ブレーブス 対 レッズ",
-          "score": 97
-        },
-        {
-          "keyword": "ちいかわ",
-          "score": 96
-        },
-        {
-          "keyword": "牧場物語",
-          "score": 95
-        },
-        {
-          "keyword": "レッドソックス 対 ガーディアンズ",
-          "score": 94
-        },
-        {
-          "keyword": "president online",
-          "score": 93
-        },
-        {
-          "keyword": "国連憲章",
-          "score": 92
-        },
-        {
-          "keyword": "スリゲ",
-          "score": 91
-        }
-      ]
-    },
-    {
-      "capturedAt": "2026-09-25T08:03:20.154Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "猪俣周杜 釈放",
-          "score": 100
-        },
-        {
-          "keyword": "衝突",
-          "score": 99
-        },
-        {
-          "keyword": "中華人民共和国",
-          "score": 98
-        },
-        {
-          "keyword": "北朝鮮",
-          "score": 97
-        },
-        {
-          "keyword": "山田リア",
-          "score": 96
-        },
-        {
-          "keyword": "孫",
-          "score": 95
-        },
-        {
-          "keyword": "ドコモ 値上げ",
-          "score": 94
-        },
-        {
-          "keyword": "プロスピ",
-          "score": 93
-        },
-        {
-          "keyword": "太田市市場町",
-          "score": 92
-        },
-        {
-          "keyword": "ウナギ・サヤカ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-25T13:59:22.981Z",
       "geo": "JP",
       "source": "google",
@@ -1079,6 +985,53 @@
         },
         {
           "keyword": "青柳晃洋",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-29T08:47:11.468Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "台風気象情報、台風第26号",
+          "score": 100
+        },
+        {
+          "keyword": "楽天 対 ロッテ",
+          "score": 99
+        },
+        {
+          "keyword": "プロ野球戦力外通告",
+          "score": 98
+        },
+        {
+          "keyword": "女性声優",
+          "score": 97
+        },
+        {
+          "keyword": "阪神 対 ヤクルト",
+          "score": 96
+        },
+        {
+          "keyword": "巨人 対 広島",
+          "score": 95
+        },
+        {
+          "keyword": "ナルト アニメ",
+          "score": 94
+        },
+        {
+          "keyword": "西武 対 オリックス",
+          "score": 93
+        },
+        {
+          "keyword": "トヨタ・ランドクルーザー",
+          "score": 92
+        },
+        {
+          "keyword": "dena 対 中日",
           "score": 91
         }
       ]
