@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-25T21:43:04.445Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "杉原愛子",
-          "score": 100
-        },
-        {
-          "keyword": "関越 自動車 道",
-          "score": 99
-        },
-        {
-          "keyword": "真美子夫人",
-          "score": 98
-        },
-        {
-          "keyword": "今日の天気",
-          "score": 97
-        },
-        {
-          "keyword": "犬吠テラステラス",
-          "score": 96
-        },
-        {
-          "keyword": "永野芽郁",
-          "score": 95
-        },
-        {
-          "keyword": "細江純子",
-          "score": 94
-        },
-        {
-          "keyword": "河北新報",
-          "score": 93
-        },
-        {
-          "keyword": "スウェーデン 対 ルーマニア",
-          "score": 92
-        },
-        {
-          "keyword": "古賀紗理那",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-26T00:15:23.061Z",
       "geo": "JP",
       "source": "google",
@@ -1032,6 +985,53 @@
         },
         {
           "keyword": "狩野英孝",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-29T23:49:30.595Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ヤンキース 対 レッドソックス",
+          "score": 100
+        },
+        {
+          "keyword": "26h2",
+          "score": 99
+        },
+        {
+          "keyword": "ブラッサム",
+          "score": 98
+        },
+        {
+          "keyword": "自衛隊",
+          "score": 97
+        },
+        {
+          "keyword": "五十嵐カノア",
+          "score": 96
+        },
+        {
+          "keyword": "oda",
+          "score": 95
+        },
+        {
+          "keyword": "名古屋ライド",
+          "score": 94
+        },
+        {
+          "keyword": "渡邊圭祐",
+          "score": 93
+        },
+        {
+          "keyword": "気温",
+          "score": 92
+        },
+        {
+          "keyword": "who",
           "score": 91
         }
       ]
