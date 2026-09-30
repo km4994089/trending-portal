@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-26T00:15:21.710Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "과일",
-          "score": 100
-        },
-        {
-          "keyword": "아시안 게임",
-          "score": 99
-        },
-        {
-          "keyword": "박명수",
-          "score": 98
-        },
-        {
-          "keyword": "김가연",
-          "score": 97
-        },
-        {
-          "keyword": "퇴장",
-          "score": 96
-        },
-        {
-          "keyword": "연애전쟁",
-          "score": 95
-        },
-        {
-          "keyword": "재건축",
-          "score": 94
-        },
-        {
-          "keyword": "임영웅",
-          "score": 93
-        },
-        {
-          "keyword": "배틀그라운드",
-          "score": 92
-        },
-        {
-          "keyword": "날씨",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-26T05:12:47.606Z",
       "geo": "KR",
       "source": "google",
@@ -1032,6 +985,53 @@
         },
         {
           "keyword": "날씨",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-30T02:57:06.751Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "성현주",
+          "score": 100
+        },
+        {
+          "keyword": "유재명",
+          "score": 99
+        },
+        {
+          "keyword": "경기도교육청",
+          "score": 98
+        },
+        {
+          "keyword": "멕시코 대 페루",
+          "score": 97
+        },
+        {
+          "keyword": "아시안게임 롤",
+          "score": 96
+        },
+        {
+          "keyword": "라민 야말",
+          "score": 95
+        },
+        {
+          "keyword": "다음",
+          "score": 94
+        },
+        {
+          "keyword": "김사랑",
+          "score": 93
+        },
+        {
+          "keyword": "핵무기",
+          "score": 92
+        },
+        {
+          "keyword": "빈곤",
           "score": 91
         }
       ]
