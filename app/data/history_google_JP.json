@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-26T05:12:48.977Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "長宗我部元親",
-          "score": 100
-        },
-        {
-          "keyword": "佐々木朗希",
-          "score": 99
-        },
-        {
-          "keyword": "ぷよぷよ",
-          "score": 98
-        },
-        {
-          "keyword": "記事",
-          "score": 97
-        },
-        {
-          "keyword": "アジア大会 サッカー",
-          "score": 96
-        },
-        {
-          "keyword": "熊本県",
-          "score": 95
-        },
-        {
-          "keyword": "刘欢",
-          "score": 94
-        },
-        {
-          "keyword": "マリナーズ 対 エンゼルス",
-          "score": 93
-        },
-        {
-          "keyword": "田中希実",
-          "score": 92
-        },
-        {
-          "keyword": "ジャイアンツ 対 ドジャース",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-26T10:00:03.834Z",
       "geo": "JP",
       "source": "google",
@@ -1032,6 +985,53 @@
         },
         {
           "keyword": "スクイーズ",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-30T09:12:00.310Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "目黒蓮",
+          "score": 100
+        },
+        {
+          "keyword": "note",
+          "score": 99
+        },
+        {
+          "keyword": "楽天モバイル ローミング終了",
+          "score": 98
+        },
+        {
+          "keyword": "mlb",
+          "score": 97
+        },
+        {
+          "keyword": "大貫晋一",
+          "score": 96
+        },
+        {
+          "keyword": "神戸 発砲",
+          "score": 95
+        },
+        {
+          "keyword": "中島佑気ジョセフ",
+          "score": 94
+        },
+        {
+          "keyword": "クロワデュノール",
+          "score": 93
+        },
+        {
+          "keyword": "田中希実",
+          "score": 92
+        },
+        {
+          "keyword": "石橋 貴明",
           "score": 91
         }
       ]
