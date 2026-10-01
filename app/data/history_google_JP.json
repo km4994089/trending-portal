@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-26T23:01:33.128Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ホワイトソックス 対 ロッキーズ",
-          "score": 100
-        },
-        {
-          "keyword": "京王電鉄",
-          "score": 99
-        },
-        {
-          "keyword": "走る",
-          "score": 98
-        },
-        {
-          "keyword": "記録的短時間大雨情報",
-          "score": 97
-        },
-        {
-          "keyword": "投手",
-          "score": 96
-        },
-        {
-          "keyword": "amoc",
-          "score": 95
-        },
-        {
-          "keyword": "映画賞",
-          "score": 94
-        },
-        {
-          "keyword": "付録",
-          "score": 93
-        },
-        {
-          "keyword": "黒田朝日",
-          "score": 92
-        },
-        {
-          "keyword": "マーリンズ 対 ブレーブス",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-27T01:36:18.471Z",
       "geo": "JP",
       "source": "google",
@@ -938,6 +891,53 @@
         },
         {
           "keyword": "天気台風情報",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-01T00:15:24.604Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "アジア大会 サッカー 日本代表",
+          "score": 100
+        },
+        {
+          "keyword": "仮面ライダーカブト 20th 天を継ぐもの",
+          "score": 99
+        },
+        {
+          "keyword": "argentina vs bolivia",
+          "score": 98
+        },
+        {
+          "keyword": "アルゼンチン 対 ボリビア",
+          "score": 97
+        },
+        {
+          "keyword": "マイクロンテクノロジー株価",
+          "score": 96
+        },
+        {
+          "keyword": "村上蘭",
+          "score": 95
+        },
+        {
+          "keyword": "綾瀬はるか",
+          "score": 94
+        },
+        {
+          "keyword": "ハチミツ二郎",
+          "score": 93
+        },
+        {
+          "keyword": "カスハラ",
+          "score": 92
+        },
+        {
+          "keyword": "広島 戦力外",
           "score": 91
         }
       ]
