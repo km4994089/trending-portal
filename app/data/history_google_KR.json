@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-28T16:16:44.584Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "전지현",
-          "score": 100
-        },
-        {
-          "keyword": "선거",
-          "score": 99
-        },
-        {
-          "keyword": "파운드리",
-          "score": 98
-        },
-        {
-          "keyword": "채무",
-          "score": 97
-        },
-        {
-          "keyword": "김민수",
-          "score": 96
-        },
-        {
-          "keyword": "김연자",
-          "score": 95
-        },
-        {
-          "keyword": "일본 우루과이",
-          "score": 94
-        },
-        {
-          "keyword": "포를란",
-          "score": 93
-        },
-        {
-          "keyword": "설영우",
-          "score": 92
-        },
-        {
-          "keyword": "국가수사본부",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-28T22:11:29.010Z",
       "geo": "KR",
       "source": "google",
@@ -891,6 +844,53 @@
         },
         {
           "keyword": "한국 대 베네수엘라",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-02T20:00:41.500Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "france vs italy",
+          "score": 100
+        },
+        {
+          "keyword": "장동혁",
+          "score": 99
+        },
+        {
+          "keyword": "프랑스 대 이탈리아",
+          "score": 98
+        },
+        {
+          "keyword": "야구",
+          "score": 97
+        },
+        {
+          "keyword": "김민",
+          "score": 96
+        },
+        {
+          "keyword": "최동원",
+          "score": 95
+        },
+        {
+          "keyword": "여행",
+          "score": 94
+        },
+        {
+          "keyword": "진양곤",
+          "score": 93
+        },
+        {
+          "keyword": "이상순",
+          "score": 92
+        },
+        {
+          "keyword": "신랑",
           "score": 91
         }
       ]

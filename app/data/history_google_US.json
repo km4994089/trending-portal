@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-28T16:16:43.539Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "jj mccarthy",
-          "score": 100
-        },
-        {
-          "keyword": "kelvin wave 2026",
-          "score": 99
-        },
-        {
-          "keyword": "john wick",
-          "score": 98
-        },
-        {
-          "keyword": "mesabi metallics",
-          "score": 97
-        },
-        {
-          "keyword": "mekhi becton",
-          "score": 96
-        },
-        {
-          "keyword": "zimbabwe vs dr congo",
-          "score": 95
-        },
-        {
-          "keyword": "georgia vs ukraine",
-          "score": 94
-        },
-        {
-          "keyword": "fire",
-          "score": 93
-        },
-        {
-          "keyword": "kristaps porziņģis",
-          "score": 92
-        },
-        {
-          "keyword": "ps5 emulation",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-28T22:11:28.021Z",
       "geo": "US",
       "source": "google",
@@ -891,6 +844,53 @@
         },
         {
           "keyword": "iran news",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-02T20:00:40.447Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "berkeley shooting",
+          "score": 100
+        },
+        {
+          "keyword": "owen coyne marblehead",
+          "score": 99
+        },
+        {
+          "keyword": "belgium vs turkey",
+          "score": 98
+        },
+        {
+          "keyword": "cancer",
+          "score": 97
+        },
+        {
+          "keyword": "france",
+          "score": 96
+        },
+        {
+          "keyword": "extrema derecha",
+          "score": 95
+        },
+        {
+          "keyword": "hungary vs georgia",
+          "score": 94
+        },
+        {
+          "keyword": "ukraine vs northern ireland",
+          "score": 93
+        },
+        {
+          "keyword": "diddy",
+          "score": 92
+        },
+        {
+          "keyword": "ken paxton james talarico polls",
           "score": 91
         }
       ]
