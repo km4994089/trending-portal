@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-28T22:11:29.010Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "s&p 500",
-          "score": 100
-        },
-        {
-          "keyword": "필라델피아 반도체 지수",
-          "score": 99
-        },
-        {
-          "keyword": "이민우",
-          "score": 98
-        },
-        {
-          "keyword": "사업",
-          "score": 97
-        },
-        {
-          "keyword": "중앙일보",
-          "score": 96
-        },
-        {
-          "keyword": "삼성sdi",
-          "score": 95
-        },
-        {
-          "keyword": "분리수거",
-          "score": 94
-        },
-        {
-          "keyword": "권혁빈",
-          "score": 93
-        },
-        {
-          "keyword": "폭격기",
-          "score": 92
-        },
-        {
-          "keyword": "금메달",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-29T02:06:57.658Z",
       "geo": "KR",
       "source": "google",
@@ -891,6 +844,53 @@
         },
         {
           "keyword": "신랑",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-02T23:37:24.492Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "1박 2일",
+          "score": 100
+        },
+        {
+          "keyword": "김구라",
+          "score": 99
+        },
+        {
+          "keyword": "문가영",
+          "score": 98
+        },
+        {
+          "keyword": "보그",
+          "score": 97
+        },
+        {
+          "keyword": "경복궁",
+          "score": 96
+        },
+        {
+          "keyword": "원자력",
+          "score": 95
+        },
+        {
+          "keyword": "은행",
+          "score": 94
+        },
+        {
+          "keyword": "france national football team vs italy national football team standings",
+          "score": 93
+        },
+        {
+          "keyword": "배당",
+          "score": 92
+        },
+        {
+          "keyword": "s&p 500",
           "score": 91
         }
       ]
