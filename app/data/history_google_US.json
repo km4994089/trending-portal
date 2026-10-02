@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-28T07:56:15.079Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "trump china",
-          "score": 100
-        },
-        {
-          "keyword": "hurricanes weather",
-          "score": 99
-        },
-        {
-          "keyword": "raye and michael b jordan",
-          "score": 98
-        },
-        {
-          "keyword": "hal jordan lanterns",
-          "score": 97
-        },
-        {
-          "keyword": "necaxa vs club américa standings",
-          "score": 96
-        },
-        {
-          "keyword": "fitness",
-          "score": 95
-        },
-        {
-          "keyword": "luke bryan",
-          "score": 94
-        },
-        {
-          "keyword": "tabla liga mx",
-          "score": 93
-        },
-        {
-          "keyword": "swimming",
-          "score": 92
-        },
-        {
-          "keyword": "cycling",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-28T16:16:43.539Z",
       "geo": "US",
       "source": "google",
@@ -844,6 +797,53 @@
         },
         {
           "keyword": "justin crawford",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-02T08:43:28.343Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "winter storm",
+          "score": 100
+        },
+        {
+          "keyword": "ufc 332",
+          "score": 99
+        },
+        {
+          "keyword": "crunchyroll",
+          "score": 98
+        },
+        {
+          "keyword": "coffee shops near me",
+          "score": 97
+        },
+        {
+          "keyword": "daniil medvedev",
+          "score": 96
+        },
+        {
+          "keyword": "delivery",
+          "score": 95
+        },
+        {
+          "keyword": "portland trail blazers",
+          "score": 94
+        },
+        {
+          "keyword": "pokemon 30th anniversary",
+          "score": 93
+        },
+        {
+          "keyword": "jasmine paolini",
+          "score": 92
+        },
+        {
+          "keyword": "november 13",
           "score": 91
         }
       ]

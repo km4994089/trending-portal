@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-28T07:56:15.963Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "lg전자",
-          "score": 100
-        },
-        {
-          "keyword": "삼성전자 주가",
-          "score": 99
-        },
-        {
-          "keyword": "아시안 게임 e스포츠",
-          "score": 98
-        },
-        {
-          "keyword": "정원오",
-          "score": 97
-        },
-        {
-          "keyword": "싸이",
-          "score": 96
-        },
-        {
-          "keyword": "살림하는 남자들",
-          "score": 95
-        },
-        {
-          "keyword": "삼성전기",
-          "score": 94
-        },
-        {
-          "keyword": "옥천군",
-          "score": 93
-        },
-        {
-          "keyword": "마크 도스 산토스",
-          "score": 92
-        },
-        {
-          "keyword": "박보검",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-28T16:16:44.584Z",
       "geo": "KR",
       "source": "google",
@@ -844,6 +797,53 @@
         },
         {
           "keyword": "skhy",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-02T08:43:29.388Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "코스피",
+          "score": 100
+        },
+        {
+          "keyword": "김태규",
+          "score": 99
+        },
+        {
+          "keyword": "최환희",
+          "score": 98
+        },
+        {
+          "keyword": "스티브 승준 유",
+          "score": 97
+        },
+        {
+          "keyword": "신혼여행",
+          "score": 96
+        },
+        {
+          "keyword": "쓰레기 봉투",
+          "score": 95
+        },
+        {
+          "keyword": "공소청",
+          "score": 94
+        },
+        {
+          "keyword": "사랑이 온다",
+          "score": 93
+        },
+        {
+          "keyword": "휴림로봇",
+          "score": 92
+        },
+        {
+          "keyword": "풍자",
           "score": 91
         }
       ]
