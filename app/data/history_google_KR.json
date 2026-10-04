@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-29T23:49:29.436Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "연애전쟁",
-          "score": 100
-        },
-        {
-          "keyword": "송은이",
-          "score": 99
-        },
-        {
-          "keyword": "오픈ai",
-          "score": 98
-        },
-        {
-          "keyword": "한화 이글스",
-          "score": 97
-        },
-        {
-          "keyword": "국군의 날",
-          "score": 96
-        },
-        {
-          "keyword": "우서윤",
-          "score": 95
-        },
-        {
-          "keyword": "สภาพอากาศ",
-          "score": 94
-        },
-        {
-          "keyword": "잠실주공5단지 아파트",
-          "score": 93
-        },
-        {
-          "keyword": "기자",
-          "score": 92
-        },
-        {
-          "keyword": "날씨",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-30T02:57:06.751Z",
       "geo": "KR",
       "source": "google",
@@ -938,6 +891,53 @@
         },
         {
           "keyword": "기안84",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-04T00:13:51.745Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "충돌",
+          "score": 100
+        },
+        {
+          "keyword": "오타니 쇼헤이",
+          "score": 99
+        },
+        {
+          "keyword": "보그",
+          "score": 98
+        },
+        {
+          "keyword": "현대 투싼",
+          "score": 97
+        },
+        {
+          "keyword": "김하성",
+          "score": 96
+        },
+        {
+          "keyword": "퇴직",
+          "score": 95
+        },
+        {
+          "keyword": "테슬라",
+          "score": 94
+        },
+        {
+          "keyword": "현무-5",
+          "score": 93
+        },
+        {
+          "keyword": "김상혁",
+          "score": 92
+        },
+        {
+          "keyword": "날씨",
           "score": 91
         }
       ]
