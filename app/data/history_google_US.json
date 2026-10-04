@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-30T09:11:57.504Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "apartments",
-          "score": 100
-        },
-        {
-          "keyword": "west indies cricket team vs india national cricket team match scorecard",
-          "score": 99
-        },
-        {
-          "keyword": "tyreek hill",
-          "score": 98
-        },
-        {
-          "keyword": "ind vs wi",
-          "score": 97
-        },
-        {
-          "keyword": "market",
-          "score": 96
-        },
-        {
-          "keyword": "supermarket",
-          "score": 95
-        },
-        {
-          "keyword": "jaylen wright",
-          "score": 94
-        },
-        {
-          "keyword": "week 4 defense rankings",
-          "score": 93
-        },
-        {
-          "keyword": "flydubai",
-          "score": 92
-        },
-        {
-          "keyword": "arthur fils",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-30T16:00:31.649Z",
       "geo": "US",
       "source": "google",
@@ -938,6 +891,53 @@
         },
         {
           "keyword": "sabalenka",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-04T12:38:47.829Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "michael douglas",
+          "score": 100
+        },
+        {
+          "keyword": "nfl network",
+          "score": 99
+        },
+        {
+          "keyword": "cowboys vs texans",
+          "score": 98
+        },
+        {
+          "keyword": "e85",
+          "score": 97
+        },
+        {
+          "keyword": "death",
+          "score": 96
+        },
+        {
+          "keyword": "supreme court of the united states",
+          "score": 95
+        },
+        {
+          "keyword": "eye drop",
+          "score": 94
+        },
+        {
+          "keyword": "shannon bream",
+          "score": 93
+        },
+        {
+          "keyword": "dobbs decision",
+          "score": 92
+        },
+        {
+          "keyword": "week 4 fantasy rankings",
           "score": 91
         }
       ]

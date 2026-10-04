@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-30T09:12:00.310Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "目黒蓮",
-          "score": 100
-        },
-        {
-          "keyword": "note",
-          "score": 99
-        },
-        {
-          "keyword": "楽天モバイル ローミング終了",
-          "score": 98
-        },
-        {
-          "keyword": "mlb",
-          "score": 97
-        },
-        {
-          "keyword": "大貫晋一",
-          "score": 96
-        },
-        {
-          "keyword": "神戸 発砲",
-          "score": 95
-        },
-        {
-          "keyword": "中島佑気ジョセフ",
-          "score": 94
-        },
-        {
-          "keyword": "クロワデュノール",
-          "score": 93
-        },
-        {
-          "keyword": "田中希実",
-          "score": 92
-        },
-        {
-          "keyword": "石橋 貴明",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-30T16:00:34.316Z",
       "geo": "JP",
       "source": "google",
@@ -938,6 +891,53 @@
         },
         {
           "keyword": "福士蒼汰",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-04T12:38:49.800Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ごみ収集車",
+          "score": 100
+        },
+        {
+          "keyword": "集合住宅",
+          "score": 99
+        },
+        {
+          "keyword": "tver",
+          "score": 98
+        },
+        {
+          "keyword": "大坂なおみ",
+          "score": 97
+        },
+        {
+          "keyword": "坂本勇人",
+          "score": 96
+        },
+        {
+          "keyword": "柿谷曜一朗",
+          "score": 95
+        },
+        {
+          "keyword": "レクサス nx 新型",
+          "score": 94
+        },
+        {
+          "keyword": "狩野永徳",
+          "score": 93
+        },
+        {
+          "keyword": "高橋克典",
+          "score": 92
+        },
+        {
+          "keyword": "vivant 考察",
           "score": 91
         }
       ]
