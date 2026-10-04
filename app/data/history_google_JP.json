@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-30T02:57:07.792Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ドイツ人",
-          "score": 100
-        },
-        {
-          "keyword": "パドレス 対 カブス",
-          "score": 99
-        },
-        {
-          "keyword": "中村奨吾",
-          "score": 98
-        },
-        {
-          "keyword": "中間淳太",
-          "score": 97
-        },
-        {
-          "keyword": "ヤンキース 対 レッドソックス",
-          "score": 96
-        },
-        {
-          "keyword": "26h2",
-          "score": 95
-        },
-        {
-          "keyword": "ブラッサム",
-          "score": 94
-        },
-        {
-          "keyword": "自衛隊",
-          "score": 93
-        },
-        {
-          "keyword": "五十嵐カノア",
-          "score": 92
-        },
-        {
-          "keyword": "スクイーズ",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-30T09:12:00.310Z",
       "geo": "JP",
       "source": "google",
@@ -938,6 +891,53 @@
         },
         {
           "keyword": "晴海タワーマンション転落",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-04T06:06:22.227Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "nttドコモ",
+          "score": 100
+        },
+        {
+          "keyword": "田中和基",
+          "score": 99
+        },
+        {
+          "keyword": "岩田絵里奈",
+          "score": 98
+        },
+        {
+          "keyword": "黒木千晶",
+          "score": 97
+        },
+        {
+          "keyword": "札幌 対 いわきfc",
+          "score": 96
+        },
+        {
+          "keyword": "青井実",
+          "score": 95
+        },
+        {
+          "keyword": "サンジャポ アナウンサー",
+          "score": 94
+        },
+        {
+          "keyword": "doge",
+          "score": 93
+        },
+        {
+          "keyword": "狩野英孝",
+          "score": 92
+        },
+        {
+          "keyword": "福士蒼汰",
           "score": 91
         }
       ]

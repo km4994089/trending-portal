@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-09-30T02:57:06.751Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "성현주",
-          "score": 100
-        },
-        {
-          "keyword": "유재명",
-          "score": 99
-        },
-        {
-          "keyword": "경기도교육청",
-          "score": 98
-        },
-        {
-          "keyword": "멕시코 대 페루",
-          "score": 97
-        },
-        {
-          "keyword": "아시안게임 롤",
-          "score": 96
-        },
-        {
-          "keyword": "라민 야말",
-          "score": 95
-        },
-        {
-          "keyword": "다음",
-          "score": 94
-        },
-        {
-          "keyword": "김사랑",
-          "score": 93
-        },
-        {
-          "keyword": "핵무기",
-          "score": 92
-        },
-        {
-          "keyword": "빈곤",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-09-30T09:11:59.007Z",
       "geo": "KR",
       "source": "google",
@@ -938,6 +891,53 @@
         },
         {
           "keyword": "날씨",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-04T06:06:21.209Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "kia 대 lg",
+          "score": 100
+        },
+        {
+          "keyword": "두산 대 삼성",
+          "score": 99
+        },
+        {
+          "keyword": "키움 대 한화",
+          "score": 98
+        },
+        {
+          "keyword": "김민지",
+          "score": 97
+        },
+        {
+          "keyword": "주택담보대출",
+          "score": 96
+        },
+        {
+          "keyword": "주진우",
+          "score": 95
+        },
+        {
+          "keyword": "조여정",
+          "score": 94
+        },
+        {
+          "keyword": "띠별 운세",
+          "score": 93
+        },
+        {
+          "keyword": "argentina vs burkina faso",
+          "score": 92
+        },
+        {
+          "keyword": "아르헨티나 대 부르키나파소",
           "score": 91
         }
       ]
