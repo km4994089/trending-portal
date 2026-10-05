@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-10-01T13:36:58.519Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "미사일",
-          "score": 100
-        },
-        {
-          "keyword": "군함",
-          "score": 99
-        },
-        {
-          "keyword": "포스코퓨처엠",
-          "score": 98
-        },
-        {
-          "keyword": "김예지",
-          "score": 97
-        },
-        {
-          "keyword": "청라하늘대교",
-          "score": 96
-        },
-        {
-          "keyword": "구속",
-          "score": 95
-        },
-        {
-          "keyword": "송강",
-          "score": 94
-        },
-        {
-          "keyword": "최태원",
-          "score": 93
-        },
-        {
-          "keyword": "최준희",
-          "score": 92
-        },
-        {
-          "keyword": "어벤지드 세븐폴드",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-10-01T19:08:18.615Z",
       "geo": "KR",
       "source": "google",
@@ -985,6 +938,53 @@
         },
         {
           "keyword": "서경환",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-05T18:38:06.429Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "치어리더",
+          "score": 100
+        },
+        {
+          "keyword": "노바크 조코비치",
+          "score": 99
+        },
+        {
+          "keyword": "김현태",
+          "score": 98
+        },
+        {
+          "keyword": "이수영",
+          "score": 97
+        },
+        {
+          "keyword": "윤이나",
+          "score": 96
+        },
+        {
+          "keyword": "전원주",
+          "score": 95
+        },
+        {
+          "keyword": "지뢰",
+          "score": 94
+        },
+        {
+          "keyword": "트럭",
+          "score": 93
+        },
+        {
+          "keyword": "밤",
+          "score": 92
+        },
+        {
+          "keyword": "스테이 블코 인",
           "score": 91
         }
       ]

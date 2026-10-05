@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-10-01T13:36:59.541Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "阪神戦",
-          "score": 100
-        },
-        {
-          "keyword": "神戸市 交通事故 速報 今日",
-          "score": 99
-        },
-        {
-          "keyword": "阪神タイガース",
-          "score": 98
-        },
-        {
-          "keyword": "カルディ コーヒーバッグ",
-          "score": 97
-        },
-        {
-          "keyword": "細野豪志",
-          "score": 96
-        },
-        {
-          "keyword": "カタール バレー 13歳",
-          "score": 95
-        },
-        {
-          "keyword": "緊急地震速報 今",
-          "score": 94
-        },
-        {
-          "keyword": "地震 今",
-          "score": 93
-        },
-        {
-          "keyword": "鈴木ザイオン",
-          "score": 92
-        },
-        {
-          "keyword": "上田綺世",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-10-01T19:08:19.793Z",
       "geo": "JP",
       "source": "google",
@@ -985,6 +938,53 @@
         },
         {
           "keyword": "安川電機",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-05T18:38:07.814Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "フランス 対 ベルギー",
+          "score": 100
+        },
+        {
+          "keyword": "アイドル",
+          "score": 99
+        },
+        {
+          "keyword": "indonesia vs thailand",
+          "score": 98
+        },
+        {
+          "keyword": "カルディ エコバッグ 新作",
+          "score": 97
+        },
+        {
+          "keyword": "ノーベル賞 生理学医学賞",
+          "score": 96
+        },
+        {
+          "keyword": "丸亀製麺 メニュー",
+          "score": 95
+        },
+        {
+          "keyword": "ロバーツ監督",
+          "score": 94
+        },
+        {
+          "keyword": "g7 欠席",
+          "score": 93
+        },
+        {
+          "keyword": "せっかく グルメ 割り込み",
+          "score": 92
+        },
+        {
+          "keyword": "コミケ",
           "score": 91
         }
       ]
