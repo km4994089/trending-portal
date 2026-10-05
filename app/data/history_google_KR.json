@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-10-01T00:15:23.205Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "아르헨티나 대 볼리비아",
-          "score": 100
-        },
-        {
-          "keyword": "검사",
-          "score": 99
-        },
-        {
-          "keyword": "웨스팅하우스",
-          "score": 98
-        },
-        {
-          "keyword": "쓰레기봉투",
-          "score": 97
-        },
-        {
-          "keyword": "최유빈",
-          "score": 96
-        },
-        {
-          "keyword": "이상순",
-          "score": 95
-        },
-        {
-          "keyword": "이옥섭",
-          "score": 94
-        },
-        {
-          "keyword": "토트넘 홋스퍼 fc",
-          "score": 93
-        },
-        {
-          "keyword": "분리수거",
-          "score": 92
-        },
-        {
-          "keyword": "인공지능",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-10-01T06:13:39.091Z",
       "geo": "KR",
       "source": "google",
@@ -985,6 +938,53 @@
         },
         {
           "keyword": "최정훈",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-05T02:10:42.321Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "두산베어스",
+          "score": 100
+        },
+        {
+          "keyword": "면허",
+          "score": 99
+        },
+        {
+          "keyword": "브레이브스 대 다저스",
+          "score": 98
+        },
+        {
+          "keyword": "김준현",
+          "score": 97
+        },
+        {
+          "keyword": "황재균",
+          "score": 96
+        },
+        {
+          "keyword": "미운 우리 새끼",
+          "score": 95
+        },
+        {
+          "keyword": "김성근",
+          "score": 94
+        },
+        {
+          "keyword": "구속",
+          "score": 93
+        },
+        {
+          "keyword": "교사",
+          "score": 92
+        },
+        {
+          "keyword": "lpga",
           "score": 91
         }
       ]
