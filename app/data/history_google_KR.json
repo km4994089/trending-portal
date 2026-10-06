@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-10-02T02:21:56.436Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "필리스 대 브레이브스",
-          "score": 100
-        },
-        {
-          "keyword": "챗gpt",
-          "score": 99
-        },
-        {
-          "keyword": "chat gpt",
-          "score": 98
-        },
-        {
-          "keyword": "돔 경기장",
-          "score": 97
-        },
-        {
-          "keyword": "승부차기",
-          "score": 96
-        },
-        {
-          "keyword": "태양광 발전",
-          "score": 95
-        },
-        {
-          "keyword": "추성훈",
-          "score": 94
-        },
-        {
-          "keyword": "콜레스테롤",
-          "score": 93
-        },
-        {
-          "keyword": "패션",
-          "score": 92
-        },
-        {
-          "keyword": "skhy",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-10-02T08:43:29.388Z",
       "geo": "KR",
       "source": "google",
@@ -938,6 +891,53 @@
         },
         {
           "keyword": "nvda",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-06T06:40:45.112Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "주식",
+          "score": 100
+        },
+        {
+          "keyword": "식이",
+          "score": 99
+        },
+        {
+          "keyword": "jyp엔터테인먼트",
+          "score": 98
+        },
+        {
+          "keyword": "퇴직금",
+          "score": 97
+        },
+        {
+          "keyword": "nba",
+          "score": 96
+        },
+        {
+          "keyword": "홍역",
+          "score": 95
+        },
+        {
+          "keyword": "강신철",
+          "score": 94
+        },
+        {
+          "keyword": "티빙",
+          "score": 93
+        },
+        {
+          "keyword": "김종민",
+          "score": 92
+        },
+        {
+          "keyword": "차경은",
           "score": 91
         }
       ]

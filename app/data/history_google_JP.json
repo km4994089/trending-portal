@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-10-02T02:21:57.755Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "能條愛未",
-          "score": 100
-        },
-        {
-          "keyword": "横浜家系ラーメン",
-          "score": 99
-        },
-        {
-          "keyword": "ai",
-          "score": 98
-        },
-        {
-          "keyword": "信用情報機関",
-          "score": 97
-        },
-        {
-          "keyword": "横浜流星",
-          "score": 96
-        },
-        {
-          "keyword": "ブラッサム",
-          "score": 95
-        },
-        {
-          "keyword": "jr 遅延",
-          "score": 94
-        },
-        {
-          "keyword": "jr",
-          "score": 93
-        },
-        {
-          "keyword": "駒ヶ岳",
-          "score": 92
-        },
-        {
-          "keyword": "黄砂情報",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-10-02T08:43:30.476Z",
       "geo": "JP",
       "source": "google",
@@ -938,6 +891,53 @@
         },
         {
           "keyword": "spcx",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-06T06:40:46.111Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ミスターマックス",
+          "score": 100
+        },
+        {
+          "keyword": "俳優",
+          "score": 99
+        },
+        {
+          "keyword": "早期天候情報",
+          "score": 98
+        },
+        {
+          "keyword": "ニュースto",
+          "score": 97
+        },
+        {
+          "keyword": "地対空ミサイル",
+          "score": 96
+        },
+        {
+          "keyword": "ヤフー",
+          "score": 95
+        },
+        {
+          "keyword": "vivant 野崎",
+          "score": 94
+        },
+        {
+          "keyword": "yahoo ニュース",
+          "score": 93
+        },
+        {
+          "keyword": "大橋悠依",
+          "score": 92
+        },
+        {
+          "keyword": "eスカイ",
           "score": 91
         }
       ]

@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-10-02T02:21:55.180Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "tmz",
-          "score": 100
-        },
-        {
-          "keyword": "myisha hines-allen",
-          "score": 99
-        },
-        {
-          "keyword": "wnba scores",
-          "score": 98
-        },
-        {
-          "keyword": "igor shesterkin",
-          "score": 97
-        },
-        {
-          "keyword": "concacaf nations league",
-          "score": 96
-        },
-        {
-          "keyword": "jack hughes",
-          "score": 95
-        },
-        {
-          "keyword": "aliyah boston",
-          "score": 94
-        },
-        {
-          "keyword": "dennis rodman",
-          "score": 93
-        },
-        {
-          "keyword": "cam heyward",
-          "score": 92
-        },
-        {
-          "keyword": "justin crawford",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-10-02T08:43:28.343Z",
       "geo": "US",
       "source": "google",
@@ -938,6 +891,53 @@
         },
         {
           "keyword": "mark ruffalo",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-06T06:40:44.391Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ny measles outbreak",
+          "score": 100
+        },
+        {
+          "keyword": "michael zheng",
+          "score": 99
+        },
+        {
+          "keyword": "diamond brown",
+          "score": 98
+        },
+        {
+          "keyword": "bryn walker",
+          "score": 97
+        },
+        {
+          "keyword": "kristen wiig",
+          "score": 96
+        },
+        {
+          "keyword": "chris mañon",
+          "score": 95
+        },
+        {
+          "keyword": "anojan sivarasa",
+          "score": 94
+        },
+        {
+          "keyword": "revoke us citizenship",
+          "score": 93
+        },
+        {
+          "keyword": "salt lake city",
+          "score": 92
+        },
+        {
+          "keyword": "anime zero codes",
           "score": 91
         }
       ]
