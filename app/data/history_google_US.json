@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-10-02T20:00:40.447Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "berkeley shooting",
-          "score": 100
-        },
-        {
-          "keyword": "owen coyne marblehead",
-          "score": 99
-        },
-        {
-          "keyword": "belgium vs turkey",
-          "score": 98
-        },
-        {
-          "keyword": "cancer",
-          "score": 97
-        },
-        {
-          "keyword": "france",
-          "score": 96
-        },
-        {
-          "keyword": "extrema derecha",
-          "score": 95
-        },
-        {
-          "keyword": "hungary vs georgia",
-          "score": 94
-        },
-        {
-          "keyword": "ukraine vs northern ireland",
-          "score": 93
-        },
-        {
-          "keyword": "diddy",
-          "score": 92
-        },
-        {
-          "keyword": "ken paxton james talarico polls",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-10-02T23:37:23.572Z",
       "geo": "US",
       "source": "google",
@@ -938,6 +891,53 @@
         },
         {
           "keyword": "albania vs san marino",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-06T23:09:18.818Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ncis new york",
+          "score": 100
+        },
+        {
+          "keyword": "starbucks lawsuit",
+          "score": 99
+        },
+        {
+          "keyword": "rodney hinton jr",
+          "score": 98
+        },
+        {
+          "keyword": "argentine – bénin",
+          "score": 97
+        },
+        {
+          "keyword": "dodgers",
+          "score": 96
+        },
+        {
+          "keyword": "mauricio dubon",
+          "score": 95
+        },
+        {
+          "keyword": "islanders vs rangers",
+          "score": 94
+        },
+        {
+          "keyword": "predators vs maple leafs",
+          "score": 93
+        },
+        {
+          "keyword": "fox sports",
+          "score": 92
+        },
+        {
+          "keyword": "freddie freeman",
           "score": 91
         }
       ]
