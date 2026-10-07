@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-10-02T23:37:23.572Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "apple iphone duo",
-          "score": 100
-        },
-        {
-          "keyword": "ethan grunkemeyer",
-          "score": 99
-        },
-        {
-          "keyword": "ban vs sl",
-          "score": 98
-        },
-        {
-          "keyword": "denise brown",
-          "score": 97
-        },
-        {
-          "keyword": "bruins vs jets",
-          "score": 96
-        },
-        {
-          "keyword": "dallas stars",
-          "score": 95
-        },
-        {
-          "keyword": "nick saban",
-          "score": 94
-        },
-        {
-          "keyword": "michael mcdonald son",
-          "score": 93
-        },
-        {
-          "keyword": "france student protests",
-          "score": 92
-        },
-        {
-          "keyword": "college football tonight",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-10-03T02:52:04.639Z",
       "geo": "US",
       "source": "google",
@@ -938,6 +891,53 @@
         },
         {
           "keyword": "freddie freeman",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-07T02:32:10.513Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "warriors",
+          "score": 100
+        },
+        {
+          "keyword": "pat murphy",
+          "score": 99
+        },
+        {
+          "keyword": "don nelson",
+          "score": 98
+        },
+        {
+          "keyword": "week 5 fantasy rankings",
+          "score": 97
+        },
+        {
+          "keyword": "last seen",
+          "score": 96
+        },
+        {
+          "keyword": "julia stiles",
+          "score": 95
+        },
+        {
+          "keyword": "christian yelich",
+          "score": 94
+        },
+        {
+          "keyword": "brewers score",
+          "score": 93
+        },
+        {
+          "keyword": "beau bridges",
+          "score": 92
+        },
+        {
+          "keyword": "cooper pratt",
           "score": 91
         }
       ]
