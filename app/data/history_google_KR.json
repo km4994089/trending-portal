@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-10-03T14:04:01.326Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "금융위기",
-          "score": 100
-        },
-        {
-          "keyword": "jyp 엔터테인먼트",
-          "score": 99
-        },
-        {
-          "keyword": "박서진",
-          "score": 98
-        },
-        {
-          "keyword": "내일 날씨",
-          "score": 97
-        },
-        {
-          "keyword": "weather tomorrow",
-          "score": 96
-        },
-        {
-          "keyword": "북항친수공원",
-          "score": 95
-        },
-        {
-          "keyword": "이주승",
-          "score": 94
-        },
-        {
-          "keyword": "mbc",
-          "score": 93
-        },
-        {
-          "keyword": "유재석",
-          "score": 92
-        },
-        {
-          "keyword": "미스터 서",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-10-03T18:04:30.223Z",
       "geo": "KR",
       "source": "google",
@@ -891,6 +844,53 @@
         },
         {
           "keyword": "나주시",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-07T17:05:29.132Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "67",
+          "score": 100
+        },
+        {
+          "keyword": "로또 1등도 출근합니다",
+          "score": 99
+        },
+        {
+          "keyword": "대학",
+          "score": 98
+        },
+        {
+          "keyword": "지현 원규",
+          "score": 97
+        },
+        {
+          "keyword": "송승기",
+          "score": 96
+        },
+        {
+          "keyword": "피의자",
+          "score": 95
+        },
+        {
+          "keyword": "한겨레",
+          "score": 94
+        },
+        {
+          "keyword": "김지원",
+          "score": 93
+        },
+        {
+          "keyword": "정용진",
+          "score": 92
+        },
+        {
+          "keyword": "투자",
           "score": 91
         }
       ]
