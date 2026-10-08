@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-10-04T06:06:22.227Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "nttドコモ",
-          "score": 100
-        },
-        {
-          "keyword": "田中和基",
-          "score": 99
-        },
-        {
-          "keyword": "岩田絵里奈",
-          "score": 98
-        },
-        {
-          "keyword": "黒木千晶",
-          "score": 97
-        },
-        {
-          "keyword": "札幌 対 いわきfc",
-          "score": 96
-        },
-        {
-          "keyword": "青井実",
-          "score": 95
-        },
-        {
-          "keyword": "サンジャポ アナウンサー",
-          "score": 94
-        },
-        {
-          "keyword": "doge",
-          "score": 93
-        },
-        {
-          "keyword": "狩野英孝",
-          "score": 92
-        },
-        {
-          "keyword": "福士蒼汰",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-10-04T12:38:49.800Z",
       "geo": "JP",
       "source": "google",
@@ -844,6 +797,53 @@
         },
         {
           "keyword": "永野芽郁",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-08T09:12:31.021Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "阪神 対 ヤクルト",
+          "score": 100
+        },
+        {
+          "keyword": "box",
+          "score": 99
+        },
+        {
+          "keyword": "室見川",
+          "score": 98
+        },
+        {
+          "keyword": "スタンレーレディスホンダゴルフトーナメント",
+          "score": 97
+        },
+        {
+          "keyword": "ヒカル",
+          "score": 96
+        },
+        {
+          "keyword": "playstation",
+          "score": 95
+        },
+        {
+          "keyword": "vivant 耳",
+          "score": 94
+        },
+        {
+          "keyword": "ウルフドッグス名古屋",
+          "score": 93
+        },
+        {
+          "keyword": "桐生競艇",
+          "score": 92
+        },
+        {
+          "keyword": "j・d・ヴァンス",
           "score": 91
         }
       ]

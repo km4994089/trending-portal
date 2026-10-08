@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-10-04T06:06:20.002Z",
-      "geo": "US",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "f1 schedule",
-          "score": 100
-        },
-        {
-          "keyword": "karen khachanov",
-          "score": 99
-        },
-        {
-          "keyword": "japan open",
-          "score": 98
-        },
-        {
-          "keyword": "friday the 13th",
-          "score": 97
-        },
-        {
-          "keyword": "thomas randolph",
-          "score": 96
-        },
-        {
-          "keyword": "carlos alcaraz",
-          "score": 95
-        },
-        {
-          "keyword": "michael che",
-          "score": 94
-        },
-        {
-          "keyword": "milwaukee weather",
-          "score": 93
-        },
-        {
-          "keyword": "iran currency",
-          "score": 92
-        },
-        {
-          "keyword": "sabalenka",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-10-04T12:38:47.829Z",
       "geo": "US",
       "source": "google",
@@ -844,6 +797,53 @@
         },
         {
           "keyword": "spencer jones",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-08T09:12:27.843Z",
+      "geo": "US",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "diddy",
+          "score": 100
+        },
+        {
+          "keyword": "tampa",
+          "score": 99
+        },
+        {
+          "keyword": "japan",
+          "score": 98
+        },
+        {
+          "keyword": "shipping",
+          "score": 97
+        },
+        {
+          "keyword": "daycares",
+          "score": 96
+        },
+        {
+          "keyword": "below netflix",
+          "score": 95
+        },
+        {
+          "keyword": "barack obama",
+          "score": 94
+        },
+        {
+          "keyword": "latest news",
+          "score": 93
+        },
+        {
+          "keyword": "prime day october 2026",
+          "score": 92
+        },
+        {
+          "keyword": "earthquake",
           "score": 91
         }
       ]
