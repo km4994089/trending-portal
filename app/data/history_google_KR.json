@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-10-04T12:38:48.899Z",
-      "geo": "KR",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "김준호",
-          "score": 100
-        },
-        {
-          "keyword": "유도",
-          "score": 99
-        },
-        {
-          "keyword": "김주하",
-          "score": 98
-        },
-        {
-          "keyword": "최우진",
-          "score": 97
-        },
-        {
-          "keyword": "이예원",
-          "score": 96
-        },
-        {
-          "keyword": "f1",
-          "score": 95
-        },
-        {
-          "keyword": "정수진",
-          "score": 94
-        },
-        {
-          "keyword": "카타르",
-          "score": 93
-        },
-        {
-          "keyword": "팔레스타인 축구 국가대표팀",
-          "score": 92
-        },
-        {
-          "keyword": "플라이 두바이",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-10-04T17:12:20.263Z",
       "geo": "KR",
       "source": "google",
@@ -844,6 +797,53 @@
         },
         {
           "keyword": "군용기",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-08T16:39:47.533Z",
+      "geo": "KR",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "ps",
+          "score": 100
+        },
+        {
+          "keyword": "아리엘 후라도",
+          "score": 99
+        },
+        {
+          "keyword": "병목",
+          "score": 98
+        },
+        {
+          "keyword": "마이클 버리",
+          "score": 97
+        },
+        {
+          "keyword": "채널a",
+          "score": 96
+        },
+        {
+          "keyword": "식중독",
+          "score": 95
+        },
+        {
+          "keyword": "로맥",
+          "score": 94
+        },
+        {
+          "keyword": "박지훈",
+          "score": 93
+        },
+        {
+          "keyword": "이데일리",
+          "score": 92
+        },
+        {
+          "keyword": "김영광",
           "score": 91
         }
       ]

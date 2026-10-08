@@ -3,53 +3,6 @@
   "source": "google",
   "snapshots": [
     {
-      "capturedAt": "2026-10-04T12:38:49.800Z",
-      "geo": "JP",
-      "source": "google",
-      "items": [
-        {
-          "keyword": "ごみ収集車",
-          "score": 100
-        },
-        {
-          "keyword": "集合住宅",
-          "score": 99
-        },
-        {
-          "keyword": "tver",
-          "score": 98
-        },
-        {
-          "keyword": "大坂なおみ",
-          "score": 97
-        },
-        {
-          "keyword": "坂本勇人",
-          "score": 96
-        },
-        {
-          "keyword": "柿谷曜一朗",
-          "score": 95
-        },
-        {
-          "keyword": "レクサス nx 新型",
-          "score": 94
-        },
-        {
-          "keyword": "狩野永徳",
-          "score": 93
-        },
-        {
-          "keyword": "高橋克典",
-          "score": 92
-        },
-        {
-          "keyword": "vivant 考察",
-          "score": 91
-        }
-      ]
-    },
-    {
       "capturedAt": "2026-10-04T17:12:21.657Z",
       "geo": "JP",
       "source": "google",
@@ -844,6 +797,53 @@
         },
         {
           "keyword": "j・d・ヴァンス",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-08T16:39:48.923Z",
+      "geo": "JP",
+      "source": "google",
+      "items": [
+        {
+          "keyword": "浜口京子",
+          "score": 100
+        },
+        {
+          "keyword": "田中真美子",
+          "score": 99
+        },
+        {
+          "keyword": "オリコン",
+          "score": 98
+        },
+        {
+          "keyword": "ライフトレード",
+          "score": 97
+        },
+        {
+          "keyword": "紺野ぶるま",
+          "score": 96
+        },
+        {
+          "keyword": "池袋 映画館",
+          "score": 95
+        },
+        {
+          "keyword": "ダウト ドラマ",
+          "score": 94
+        },
+        {
+          "keyword": "キングオブコント",
+          "score": 93
+        },
+        {
+          "keyword": "赤灯えれじい ドラマ",
+          "score": 92
+        },
+        {
+          "keyword": "tohoシネマズ 新宿",
           "score": 91
         }
       ]
